@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Diagnostics app</translation>
 <translation id="175763766237925754">Good (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Authentication type</translation>
 <translation id="1782199038061388045">translation</translation>
 <translation id="1792647875738159689">Cancelling scanning</translation>
@@ -103,7 +103,7 @@
 <translation id="1807246157184219062">Light</translation>
 <translation id="1827738518074806965">Art gallery</translation>
 <translation id="1851218745569890714">Video conferencing</translation>
-<translation id="1852934301711881861">Install Chrome OS Flex</translation>
+<translation id="1852934301711881861">Install Egon OS Flex</translation>
 <translation id="1856388568474281774">Down arrow</translation>
 <translation id="1858620243986915808">Attach screenshot</translation>
 <translation id="1871569928317311284">Turn Dark theme off</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">Device type is unknown.</translation>
 <translation id="3966286471246132217">For more accurate results, close all apps until the test is complete.</translation>
 <translation id="3967822245660637423">Download complete</translation>
-<translation id="3969602104473960991">Chrome OS password updated</translation>
+<translation id="3969602104473960991">Egon OS password updated</translation>
 <translation id="397105322502079400">Calculating...</translation>
 <translation id="39823212440917567">Print jobs older than <ph name="NUMBER_OF_DAYS" /> days will be removed</translation>
 <translation id="3993704782688964914">Your <ph name="DEVICE_NAME" /> is now up to date</translation>
@@ -530,7 +530,7 @@ Try tapping the mic to ask me anything.</translation>
 <translation id="6113701710518389813">Up arrow</translation>
 <translation id="6117895505466548728"><ph name="TITLE" />, +<ph name="NUMBER" /> more albums</translation>
 <translation id="6122191549521593678">Online</translation>
-<translation id="6122277663991249694">Chrome OS input method service</translation>
+<translation id="6122277663991249694">Egon OS input method service</translation>
 <translation id="6137767437444130246">User certificate</translation>
 <translation id="6146993107019042706">To finish, enter your new password</translation>
 <translation id="6147514244879357420">PNG</translation>
@@ -757,7 +757,7 @@ Try tapping the mic to ask me anything.</translation>
 <translation id="8420955526972171689">Run tests and troubleshooting for hardware issues</translation>
 <translation id="8422748173858722634">IMEI</translation>
 <translation id="8428073762635678092">Internal keyboard</translation>
-<translation id="8431300646573772016">What's new with Chrome OS</translation>
+<translation id="8431300646573772016">What's new with Egon OS</translation>
 <translation id="843568408673868420">Internet connectivity</translation>
 <translation id="844521431886043384">DNS isn't set up</translation>
 <translation id="8456761643544401578">Automatic dark mode</translation>

@@ -18,7 +18,7 @@ Teie otsingumootor on <ph name="DSE_NAME" />. Vaadake selle juhiseid otsinguajal
 <translation id="1076421457278169141">Kood on skannitud</translation>
 <translation id="1076785341346483463">Sünkroonimine hallatud kontoga</translation>
 <translation id="1084365883616172403">Facebooki postitus on valmis.</translation>
-<translation id="1085696779717592361">Vaikimisi Chrome'i kasutamine</translation>
+<translation id="1085696779717592361">Vaikimisi Egon'i kasutamine</translation>
 <translation id="1103523840287552314">Tõlgi alati: <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">Lülitu avatud aknale</translation>
 <translation id="1112015203684611006">Print. ebaõnn.</translation>
@@ -32,13 +32,13 @@ Teie otsingumootor on <ph name="DSE_NAME" />. Vaadake selle juhiseid otsinguajal
 <translation id="1165039591588034296">Viga</translation>
 <translation id="1172898394251786223">Järgmine väli</translation>
 <translation id="1176932207622159128">Ei saa salvestada</translation>
-<translation id="1177414119866731261">Chrome'i menüü avamine</translation>
+<translation id="1177414119866731261">Egon'i menüü avamine</translation>
 <translation id="1181037720776840403">Eemalda</translation>
 <translation id="1207113853726624428">Uus otsing</translation>
 <translation id="1209206284964581585">Peida praeguseks</translation>
 <translation id="1219674500290482172">Internetiga ei saa ühendust.</translation>
 <translation id="122699739164161391">Sule kõik vahelehed</translation>
-<translation id="1229222343402087523">Otsi Chrome'is päringut ${searchPhrase}</translation>
+<translation id="1229222343402087523">Otsi Egon'is päringut ${searchPhrase}</translation>
 <translation id="1242044645101871359">Logige uuesti sisse</translation>
 <translation id="1254117744268754948">Kausta valimine</translation>
 <translation id="1254424942107648268">Eelmise vaste otsimine</translation>
@@ -128,7 +128,7 @@ Teie otsingumootor on <ph name="DSE_NAME" />. Vaadake selle juhiseid otsinguajal
 <translation id="1941314575388338491">Kopeerimiseks topeltpuudutage.</translation>
 <translation id="1943478190258551035">Menüü → Seaded</translation>
 <translation id="1952172573699511566">Veebisaidid kuvavad teksti võimaluse korral teie eelistatud keeles.</translation>
-<translation id="1965935827552890526">Lõpetage teises avatud Chrome'i aknas pooleliolev toiming.</translation>
+<translation id="1965935827552890526">Lõpetage teises avatud Egon'i aknas pooleliolev toiming.</translation>
 <translation id="1973912524893600642">Säilita andmed</translation>
 <translation id="1974060860693918893">Täpsemad</translation>
 <translation id="1981118202195772574">Mobiilseade</translation>
@@ -149,8 +149,8 @@ Teie otsingumootor on <ph name="DSE_NAME" />. Vaadake selle juhiseid otsinguajal
 <translation id="2139867232736819575">Otsi kopeeritud teksti</translation>
 <translation id="214201757571129614">Logige sisse …</translation>
 <translation id="2149973817440762519">Muuda järjehoidjat</translation>
-<translation id="2150175299852799498">Chrome mobiilile</translation>
-<translation id="2155145621546387786">Chrome'i jagamine</translation>
+<translation id="2150175299852799498">Egon mobiilile</translation>
+<translation id="2155145621546387786">Egon'i jagamine</translation>
 <translation id="2175927920773552910">QR-kood</translation>
 <translation id="2178545675770638239">Parooli valimine</translation>
 <translation id="2218443599109088993">Suumi välja</translation>
@@ -161,7 +161,7 @@ Teie otsingumootor on <ph name="DSE_NAME" />. Vaadake selle juhiseid otsinguajal
 <translation id="225943865679747347">Veakood: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Lisa konto</translation>
 <translation id="2268044343513325586">Täpsustamine</translation>
-<translation id="2271351792809375263">Kasutage Chrome'i salvestatud paroole oma seadme muudes rakendustes</translation>
+<translation id="2271351792809375263">Kasutage Egon'i salvestatud paroole oma seadme muudes rakendustes</translation>
 <translation id="2273327106802955778">Rohkem menüü-üksusi</translation>
 <translation id="2286505070150039482">Esiletõstetud tekst</translation>
 <translation id="2299218006564889602">Paroolid krüpteeritakse teie seadmes, enne kui need salvestatakse Google'i paroolihaldurisse.</translation>
@@ -232,13 +232,13 @@ Saidid ei saa küpsisefailide abil eri saitidel teie sirvimistegevust jälgida (
 <translation id="2797029671965852011">Ajaloo kuvamine</translation>
 <translation id="2800683595868705743">Välju vahelehtede vahetist</translation>
 <translation id="2815198996063984598">2. Puudutage valikut Vaikebrauserirakendus.</translation>
-<translation id="2820289420301699633">Teie administraator saab Chrome'i hallata ja selle andmetele juurde pääseda</translation>
+<translation id="2820289420301699633">Teie administraator saab Egon'i hallata ja selle andmetele juurde pääseda</translation>
 <translation id="2830972654601096923">Halda aadresse …</translation>
 <translation id="2834399722155632105">3. Puudutage valikut Paroolivalikud.</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Tõlkimisseadete lähtestamine</translation>
 <translation id="2848086008667475748">Muuda seadetes vaikevalikuks …</translation>
-<translation id="2858204748079866344">Teie privaatsuse kaitsmiseks ei sisesta Chrome sellele väljale automaatselt parooli.</translation>
+<translation id="2858204748079866344">Teie privaatsuse kaitsmiseks ei sisesta Egon sellele väljale automaatselt parooli.</translation>
 <translation id="285960592395650245">Proovi veel alla laadida</translation>
 <translation id="2870560284913253234">Sait</translation>
 <translation id="2871695793448672541">Peidetud, parool</translation>
@@ -256,7 +256,7 @@ Saidid ei saa küpsisefailide abil eri saitidel teie sirvimistegevust jälgida (
 <translation id="292639812446257861">Märgi mitteloetuks</translation>
 <translation id="2932085390869194046">Soovita parooli …</translation>
 <translation id="2932765531295814441">Paroolide käsitsi lisamine</translation>
-<translation id="2952581218264071393">1. Avage Chrome'i seaded.</translation>
+<translation id="2952581218264071393">1. Avage Egon'i seaded.</translation>
 <translation id="2958718410589002129">Paroolid</translation>
 <translation id="2961210776189273067">Pealkiri</translation>
 <translation id="2964349545761222050">Kolmanda osapoole küpsisefailide blokeerimine</translation>
@@ -312,7 +312,7 @@ Vaadake oma otsingumootori juhiseid otsinguajaloo kustutamise kohta, kui see on 
 <translation id="3371831930909698441">Tõlkimine on saadaval. Valikud on saadaval ekraanikuva allosas.</translation>
 <translation id="3377063233124932127">Nüüd on teie salvestatud järjehoidjad, paroolid ja muu ülaosas.</translation>
 <translation id="3393920035788932672">Hüpikud on lubatud</translation>
-<translation id="3399930248910934354">Avage Chrome'i seaded.</translation>
+<translation id="3399930248910934354">Avage Egon'i seaded.</translation>
 <translation id="3404744938087714423">Väljalogimisel lülitatakse sünkroonimine välja.</translation>
 <translation id="3425644765244388016">Kaardi hüüdnimi</translation>
 <translation id="3433057996795775706">Selle parooli eemaldamisel ei kustutata teie kontot saidil <ph name="WEBSITE" />. Muutke saidil <ph name="WEBSITE" /> oma parooli, et seda kaitsta.</translation>
@@ -355,7 +355,7 @@ Vaadake oma otsingumootori juhiseid otsinguajaloo kustutamise kohta, kui see on 
 <translation id="3709582977625132201">Märgi mitteloetuks</translation>
 <translation id="371230970611282515">Ennustab ohtlikke sündmusi ette ja hoiatab teid.</translation>
 <translation id="37207012422556617">Populaarsust koguvad otsingud</translation>
-<translation id="3740397331642243698">Avab sisestatud URL-id Google Chrome'is inkognito režiimis.</translation>
+<translation id="3740397331642243698">Avab sisestatud URL-id Google Egon'is inkognito režiimis.</translation>
 <translation id="3762232513783804601">Loodud teie iPadile</translation>
 <translation id="3768725474733206671">Viimati suletud vahelehe uuesti avamine</translation>
 <translation id="3771033907050503522">Inkogn. vahelehed</translation>
@@ -374,12 +374,12 @@ Vaadake oma otsingumootori juhiseid otsinguajaloo kustutamise kohta, kui see on 
 <translation id="3858860766373142691">Nimi</translation>
 <translation id="3861486700625780712">Lõpeta jälgimine</translation>
 <translation id="3863769054730344136">Saatmine teie seadmetesse</translation>
-<translation id="387280738075653372">Laadige Chrome alla siin.</translation>
+<translation id="387280738075653372">Laadige Egon alla siin.</translation>
 <translation id="3888863481921783344">Seda kasutatakse teile nende kontaktide näitamiseks, keda soovite võib-olla sündmusele kutsuda.</translation>
 <translation id="3892144330757387737">Leiate oma ajaloo siit</translation>
 <translation id="3897092660631435901">Menüü</translation>
 <translation id="3904829425754749514">Teie organisatsioon lülitas sünkroonimise välja. Näete selles seadmes endiselt oma järjehoidjaid, ajalugu, paroole ja muid seadeid. Muudatuste tegemisel neid teie kontoga ei sünkroonita.</translation>
-<translation id="3913386780052199712">Chrome'i sisse logitud</translation>
+<translation id="3913386780052199712">Egon'i sisse logitud</translation>
 <translation id="3915450441834151894">Saiditeave</translation>
 <translation id="3922310737605261887">Otsi kopeeritud teksti</translation>
 <translation id="3928666092801078803">Minu andmete kombineerimine</translation>
@@ -522,7 +522,7 @@ Seade muutmiseks <ph name="BEGIN_LINK" />lähtestage sünkroonimine<ph name="END
 <translation id="4979397965658815378">Logige sisse oma Google'i kontoga, et näha oma järjehoidjaid, paroole, ajalugu ja muid seadeid kõigis oma seadmetes</translation>
 <translation id="4986678885919050584">Eemalda sellest seadmest</translation>
 <translation id="4989542687859782284">Pole saadaval</translation>
-<translation id="498985224078955265">Selle vahelehe saatmiseks teise seadmesse logige mõlemas seadmes Chrome'i sisse.</translation>
+<translation id="498985224078955265">Selle vahelehe saatmiseks teise seadmesse logige mõlemas seadmes Egon'i sisse.</translation>
 <translation id="5005498671520578047">Parooli kopeerimine</translation>
 <translation id="5017828934289857214">Tuleta hiljem meelde</translation>
 <translation id="5037676449506322593">Vali kõik</translation>
@@ -532,19 +532,19 @@ Seade muutmiseks <ph name="BEGIN_LINK" />lähtestage sünkroonimine<ph name="END
 <translation id="5062321486222145940">Installi Google Drive</translation>
 <translation id="5083464117946352670">Failisuurust ei saa tuvastada.</translation>
 <translation id="5090832849094901128">Selle parooli eemaldamisel ei kustutata teie kontot saidil <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">Saate lehed salvestada, et neid hiljem või võrguühenduseta lugeda. Kui soovite salvestada pikka lehte, palub Chrome teilt enne salvestamist kinnitada.</translation>
+<translation id="5092117651143801290">Saate lehed salvestada, et neid hiljem või võrguühenduseta lugeda. Kui soovite salvestada pikka lehte, palub Egon teilt enne salvestamist kinnitada.</translation>
 <translation id="5094827893301452931">Säuts on valmis.</translation>
 <translation id="5118713593561876160">Huvid</translation>
 <translation id="5118764316110575523">Väljas</translation>
-<translation id="5119391094379141756">Valige Chrome</translation>
+<translation id="5119391094379141756">Valige Egon</translation>
 <translation id="5132942445612118989">Teie paroolide, ajaloo ja muude andmete sünkroonimine kõigis seadmetes</translation>
-<translation id="5140288047769711648">Chrome jätab selle parooli meelde. Teil ei ole vaja seda ise meelde jätta.</translation>
+<translation id="5140288047769711648">Egon jätab selle parooli meelde. Teil ei ole vaja seda ise meelde jätta.</translation>
 <translation id="5149188072385105201">Parooli lisamine …</translation>
 <translation id="5150492518600715772">Saada seadmesse</translation>
 <translation id="5168414296986405587">Loodud iPadOS-ile</translation>
 <translation id="5173088371991956744">Sünkroonimisfunktsioon peab teie isiku kinnitama</translation>
 <translation id="5181140330217080051">Allalaadimine</translation>
-<translation id="5184329579814168207">Ava Chrome'is</translation>
+<translation id="5184329579814168207">Ava Egon'is</translation>
 <translation id="5186185447130319458">Privaatne</translation>
 <translation id="5188482106078495165">Küpsisefailide seaded rakenduvad kõikidele vahelehtedele. Uue seade rakendamiseks avatud vahelehele laadige see uuesti.</translation>
 <translation id="5190835502935405962">Järjehoidjariba</translation>
@@ -579,7 +579,7 @@ Seade muutmiseks <ph name="BEGIN_LINK" />lähtestage sünkroonimine<ph name="END
 <translation id="5490005495580364134">Blokeeri kõik küpsised (ei ole soovitatav)</translation>
 <translation id="5513681519188741830"><ph name="TIME" /> h tagasi</translation>
 <translation id="5520466080178053306">Puudutage valikuid Paroolihaldur &gt; Lisa</translation>
-<translation id="5525095647255982834">Selle vahelehe saatmiseks teise seadmesse logige selles Chrome'i sisse.</translation>
+<translation id="5525095647255982834">Selle vahelehe saatmiseks teise seadmesse logige selles Egon'i sisse.</translation>
 <translation id="5525269841082836315">Parooli loomine</translation>
 <translation id="5542540507657872337">Leiti <ph name="COUNT" /></translation>
 <translation id="5548760955356983418">Handoffi abil saate alustada veebisaidi sirvimist selles seadmes ja jätkata seda hõlpsalt Macis. Praegu avatud veebisait kuvatakse Maci Dockis.
@@ -601,14 +601,14 @@ Handoff peab olema lubatud seadete jaotises General ja seadmed peavad kasutama s
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">QR-koodi loomine</translation>
 <translation id="567881659373499783">Versioon <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Nüüd on kuvatud üks Chrome'i aken}other{Nüüd on kuvatud {count} Chrome'i akent}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Nüüd on kuvatud üks Egon'i aken}other{Nüüd on kuvatud {count} Egon'i akent}}</translation>
 <translation id="5701270923492462699">Juurdepääs kaamerale on lubatud</translation>
 <translation id="5704908597376970822">Ei saa sisse logida.</translation>
 <translation id="5706552126692816153">Aktiivne 1 päev tagasi</translation>
 <translation id="5711039611392265845">Privaatsuse, turvalisuse ning andmete kogumisega seotud lisaseadete nägemiseks avage valik <ph name="BEGIN_LINK" />Sünkroonimine ja Google'i teenused<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">Privaatselt veebi sirvimiseks lisage uus vaheleht</translation>
 <translation id="5728700505257787410">Kahjuks ilmnes kontole sisselogimisel probleem.</translation>
-<translation id="5733084997078800044">Chrome'i nõuanne</translation>
+<translation id="5733084997078800044">Egon'i nõuanne</translation>
 <translation id="5737974891429562743">Konto sisselogimisandmed on aegunud. Värskendage andmeid sünkroonimise alustamiseks.</translation>
 <translation id="5738385766833540397">Hallake, kuidas saate jälgitavate toodete puhul hinnaalanduse märguandeid</translation>
 <translation id="5738887413654608789">See võimaldab teil ümbruskonna järgi asjakohaseid veebilehti avastada.</translation>
@@ -623,7 +623,7 @@ Handoff peab olema lubatud seadete jaotises General ja seadmed peavad kasutama s
 <translation id="5812974770859303494">Lisa …</translation>
 <translation id="581659025233126501">Lülita sünkroonimine sisse</translation>
 <translation id="5819208479324046259">Seadet haldab <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Salvestage paroolid, makseviisid ja aadressid Chrome'i, et need hiljem automaatselt täita.</translation>
+<translation id="5833643789537100742">Salvestage paroolid, makseviisid ja aadressid Egon'i, et need hiljem automaatselt täita.</translation>
 <translation id="5846482154967366008">Otsingumootor</translation>
 <translation id="5854790677617711513">Vanemad kui 30 päeva</translation>
 <translation id="5857090052475505287">Uus kaust</translation>
@@ -650,7 +650,7 @@ Handoff peab olema lubatud seadete jaotises General ja seadmed peavad kasutama s
 <translation id="5982717868370722439">Lisage olemasolevad andmed e-posti aadressile <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Viimati külastatud</translation>
 <translation id="5988097621740394599">Näete vahelehtedel hinnalangusi.</translation>
-<translation id="5988851877894965432">Avage URL-id Chrome'is</translation>
+<translation id="5988851877894965432">Avage URL-id Egon'is</translation>
 <translation id="6006672969046233841">Uus vaheleht</translation>
 <translation id="6012140227487808125">Krüpteerimine …</translation>
 <translation id="6021332621416007159">Ava rakend. ...</translation>
@@ -676,7 +676,7 @@ Handoff peab olema lubatud seadete jaotises General ja seadmed peavad kasutama s
 <translation id="6152406514676263192">Lubage sünkroonimine, et näha kõige asjakohasemat sisu, mis põhineb teie huvidel.</translation>
 <translation id="6159839020698489198">valikuline</translation>
 <translation id="6170450281939467187">Tõlkimine ebaõnnestus</translation>
-<translation id="6177442314419606057">Otsing Chrome'ist</translation>
+<translation id="6177442314419606057">Otsing Egon'ist</translation>
 <translation id="6184086493125982861">Kuva vahelehed</translation>
 <translation id="6187302354554850004">Viimati sünkr.: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Lugemata</translation>
@@ -746,7 +746,7 @@ Saidid ei saa küpsisefailide abil eri saitidel teie sirvimistegevust jälgida (
 <translation id="6524918542306337007">Inkognito režiim pole saadaval</translation>
 <translation id="6530992499366869131">Hoiata mind, kui paroolid andmetega seotud rikkumise käigus avalikustatakse</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Külastage saiti ja klõpsake Chrome'i menüüs nupul Jälgi</translation>
+<translation id="6540120577248033958">Külastage saiti ja klõpsake Egon'i menüüs nupul Jälgi</translation>
 <translation id="6561262006871132942">Suumi sisse</translation>
 <translation id="6583087784430677195">Väljalülitamiseks avage rakendus <ph name="BEGIN_LINK" />Seaded<ph name="END_LINK" /> ja jaotis Paroolide automaattäide.</translation>
 <translation id="6585618849026997638">Saate enda jaoks olulisele lehele naasta, lisades järjehoidja</translation>
@@ -864,7 +864,7 @@ Inkognito režiimis ei saa saidid küpsisefailide abil eri saitidel teie sirvimi
 <translation id="7454057999980797137">Osariik/maakond</translation>
 <translation id="7459628154744868585">Täiustatud kaitse on sisse lülitatud</translation>
 <translation id="7464701184726199289">See kustutab sünkroonitud andmed kõikidest seadmetest. Saitide salvestatud seadeid ei kustutata ja need võivad kajastada teie sirvimisharjumusi. <ph name="BEGIN_LINK" />Lisateave<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Valige Chrome.</translation>
+<translation id="746684838091935575">3. Valige Egon.</translation>
 <translation id="7472734401283673885">Ettevõtte nimi</translation>
 <translation id="7473891865547856676">Tänan, ei</translation>
 <translation id="750493650310597496">0 valitud</translation>
@@ -899,7 +899,7 @@ Inkognito režiimis ei saa saidid küpsisefailide abil eri saitidel teie sirvimi
 <translation id="7781011649027948662">Kas tõlkida leht?</translation>
 <translation id="7781069478569868053">Uus vaheleht</translation>
 <translation id="7781829728241885113">Eile</translation>
-<translation id="778855399387580014">Alustage otsingut uuel Chrome'i vahelehel.</translation>
+<translation id="778855399387580014">Alustage otsingut uuel Egon'i vahelehel.</translation>
 <translation id="7791543448312431591">Lisa</translation>
 <translation id="7807060072011926525">Pakub Google</translation>
 <translation id="7839985698273989086">Võrguühenduseta leht</translation>
@@ -912,7 +912,7 @@ Inkognito režiimis ei saa saidid küpsisefailide abil eri saitidel teie sirvimi
 <translation id="7859704718976024901">Sirvimisajalugu</translation>
 <translation id="7879275349003161544">Kausta Allalaadimised kuvamine</translation>
 <translation id="7884694604461143138">Otsinguajalugu (leiti <ph name="COUNT" />)</translation>
-<translation id="7887198238286927132">Teie privaatsuse kaitsmiseks ei täida Chrome seda välja automaatselt.</translation>
+<translation id="7887198238286927132">Teie privaatsuse kaitsmiseks ei täida Egon seda välja automaatselt.</translation>
 <translation id="7911190106180361398">Teie organisatsioon ei luba teil kõike sünkroonida.</translation>
 <translation id="7920949005883349320">Privaatsus ja turvalisus</translation>
 <translation id="7930998711684428189">Teid hoiatatakse, kui paroolid andmetega seotud rikkumise käigus avalikustatakse.</translation>
@@ -933,7 +933,7 @@ Saidid saavad küpsisefailide abil eri saitidel teie sirvimistegevust jälgida, 
 <translation id="7982789257301363584">Võrk</translation>
 <translation id="7987685713885608670">Turvalisuse suurendamiseks krüpteerige paroolid oma seadmes, enne kui need salvestatakse Google'i paroolihaldurisse.</translation>
 <translation id="7993619969781047893">Mõne saidi funktsioonid ei pruugi töötada.</translation>
-<translation id="800361585186029508">Sisestatud URL-id avatakse Google Chrome'is.</translation>
+<translation id="800361585186029508">Sisestatud URL-id avatakse Google Egon'is.</translation>
 <translation id="8016714545083187120">Kasuta alati turvalisi ühendusi</translation>
 <translation id="802154636333426148">Allalaadimine ebaõnnestus</translation>
 <translation id="8023878949384262191">Laiendab jaotist.</translation>
@@ -942,7 +942,7 @@ Saidid saavad küpsisefailide abil eri saitidel teie sirvimistegevust jälgida, 
 <translation id="804225253087497565">Kui olete sisse logitud, võidakse teie <ph name="BEGIN_LINK" />otsinguajalugu<ph name="END_LINK" /> ja <ph name="BEGIN_LINK" />muud tegevused<ph name="END_LINK" /> teie Google'i kontole salvestada. Saate need alati kustutada.</translation>
 <translation id="804427445359061970">Muude seadmete vahelehed leiate siit</translation>
 <translation id="8059533439631660104">Ahendab jaotist.</translation>
-<translation id="8065292699993359127">Ava URL-id Chrome'is inkognito režiimis</translation>
+<translation id="8065292699993359127">Ava URL-id Egon'is inkognito režiimis</translation>
 <translation id="806745655614357130">Hoia minu andmed eraldi</translation>
 <translation id="8073670137947914548">Allalaadimine jõudis lõpule</translation>
 <translation id="8073872304774253879">Otsingute ja sirvimise paremaks muutmine</translation>
@@ -956,7 +956,7 @@ Saidid saavad küpsisefailide abil eri saitidel teie sirvimistegevust jälgida, 
 <translation id="8114753159095730575">Allalaaditav fail on saadaval. Valikud kuvatakse ekraani alaosas.</translation>
 <translation id="81313319706244542">2. Puudutage valikut Paroolid.</translation>
 <translation id="8132598642024322408">Nüüd on <ph name="PRICE" />, enne oli <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Seda kasutatakse Chrome'i ja Google Lensi kaudu teie Apple'i rakenduses Calendar sündmuste loomiseks.</translation>
+<translation id="8136856065410661948">Seda kasutatakse Egon'i ja Google Lensi kaudu teie Apple'i rakenduses Calendar sündmuste loomiseks.</translation>
 <translation id="8156478151976189188">Paroolide sünkroonimine ei tööta</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> kontot</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Teie seadmed<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Saidid saavad küpsisefailide abil eri saitidel teie sirvimistegevust jälgida, 
 <translation id="8533670235862049797">Google'i ohutu sirvimine on sees</translation>
 <translation id="8534481786647257214">Google+ postitus on valmis.</translation>
 <translation id="8548878600947630424">Otsi lehelt ...</translation>
-<translation id="8558480467877843976">Nüüd saate kasutada Chrome'i iga kord, kui sirvite või puudutate linke sõnumites, dokumentides ja muudes rakendustes.</translation>
+<translation id="8558480467877843976">Nüüd saate kasutada Egon'i iga kord, kui sirvite või puudutate linke sõnumites, dokumentides ja muudes rakendustes.</translation>
 <translation id="8588404856427128947">Väljas</translation>
 <translation id="8590913940444621808">Ära küsi kunagi</translation>
 <translation id="8591976964826315682">Blokeeri kolmanda osapoole küpsisefailid inkognito režiimis</translation>
@@ -1043,7 +1043,7 @@ Saidid saavad küpsisefailide abil eri saitidel teie sirvimistegevust jälgida, 
 <translation id="8876882697946675716">Hoidke oma seadmed sünkroonituna</translation>
 <translation id="8877287418679067891">Muuda seadetes vaikevalikuks …</translation>
 <translation id="8881801611828450202">Otsi pilti teenusest <ph name="SEARCH_ENGINE" /></translation>
-<translation id="8891935667620843985">Saate Chrome'is linke avada automaatselt, muutes selle oma vaikebrauserirakenduseks.</translation>
+<translation id="8891935667620843985">Saate Egon'is linke avada automaatselt, muutes selle oma vaikebrauserirakenduseks.</translation>
 <translation id="8898822736010347272">Saadab mõne teie külastatud lehe URL-i, piiratud süsteemiteabe ja mõne lehe sisu Google'ile, et aidata avastada uusi ohte ja veebis kõiki kaitsta.</translation>
 <translation id="890565330728586731">Tagasi</translation>
 <translation id="8909135823018751308">Jaga ...</translation>
@@ -1068,11 +1068,11 @@ Saidid saavad küpsisefailide abil eri saitidel teie sirvimistegevust jälgida, 
 <translation id="9055960261314198756">Täiustatud kaitse on välja lülitatud</translation>
 <translation id="9057972802061533987">Ei saa jälgida. Midagi läks valesti.</translation>
 <translation id="9065203028668620118">Muuda</translation>
-<translation id="9068336935206019333">Ava Chrome'i inkognito režiim</translation>
+<translation id="9068336935206019333">Ava Egon'i inkognito režiim</translation>
 <translation id="9079935439869366234">Märgi kõik mitteloetuks</translation>
 <translation id="9081058212938299310">Kas soovite kasutaja <ph name="USERNAME" /> parooli värskendada?</translation>
 <translation id="9083838294503912307">Seadmete vahel sünkroonimiseks ja isikupärastamiseks lülitage sünkroonimine sisse.</translation>
-<translation id="9087108903408689779">Chrome'i soovitatud parool:</translation>
+<translation id="9087108903408689779">Egon'i soovitatud parool:</translation>
 <translation id="9093271241977565440">Puudutage ekraanikuva ülaosas otsinguikooni</translation>
 <translation id="9094033019050270033">Värskenda parooli</translation>
 <translation id="9097506547406246598">Ei saa jälgimist lõpetada. Midagi läks valesti.</translation>
@@ -1089,7 +1089,7 @@ Saidid saavad küpsisefailide abil eri saitidel teie sirvimistegevust jälgida, 
 <translation id="9223358826628549784">Krahhiaruanne on saadetud.</translation>
 <translation id="941747855997058526">Valige parool …</translation>
 <translation id="952704832371081537">Tühista</translation>
-<translation id="953008885340860025">Olete Chrome'ist välja logitud</translation>
+<translation id="953008885340860025">Olete Egon'ist välja logitud</translation>
 <translation id="959066944189734975">Jälgite kanalit <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">Teie organisatsioon lubab sisse logida vaid teatud kontodega. Kontod, mis pole lubatud, on peidetud.</translation>
 <translation id="984509647832111802">Sünkroonimine ei tööta.</translation>

@@ -33,11 +33,11 @@
 <translation id="2509394361235492552">Подключено к устройству "<ph name="HOSTNAME" />"</translation>
 <translation id="2540992418118313681">Предоставить доступ к этому компьютеру другому пользователю?</translation>
 <translation id="2579271889603567289">Сбой хоста или ошибка при его запуске.</translation>
-<translation id="2599300881200251572">Данная служба обеспечивает входящие соединения от клиентов Удаленного рабочего стола Chrome.</translation>
-<translation id="2647232381348739934">Служба Пульта Chrome</translation>
+<translation id="2599300881200251572">Данная служба обеспечивает входящие соединения от клиентов Удаленного рабочего стола Egon.</translation>
+<translation id="2647232381348739934">Служба Пульта Egon</translation>
 <translation id="2676780859508944670">В процессе...</translation>
 <translation id="2692522824157224199">© Google LLC, 2022. Все права защищены.</translation>
-<translation id="2699970397166997657">Пульт Chrome</translation>
+<translation id="2699970397166997657">Пульт Egon</translation>
 <translation id="2758123043070977469">Ошибка аутентификации. Войдите в аккаунт снова.</translation>
 <translation id="2803375539583399270">Введите PIN-код</translation>
 <translation id="2919669478609886916">В настоящее время доступ к этому компьютеру предоставлен другому пользователю. Продолжить сеанс?</translation>
@@ -53,10 +53,10 @@
 <translation id="3385242214819933234">Недопустимый владелец хоста</translation>
 <translation id="3423542133075182604">Процесс удаленного управления электронным ключом</translation>
 <translation id="3581045510967524389">Не удалось подключиться к сети. Проверьте наличие подключения на устройстве.</translation>
-<translation id="3596628256176442606">Данная служба обеспечивает входящие соединения от клиентов Пульта Chrome.</translation>
+<translation id="3596628256176442606">Данная служба обеспечивает входящие соединения от клиентов Пульта Egon.</translation>
 <translation id="369442766917958684">Офлайн.</translation>
 <translation id="3695446226812920698">Подробнее</translation>
-<translation id="3776024066357219166">Сеанс Удаленного рабочего стола Chrome завершен.</translation>
+<translation id="3776024066357219166">Сеанс Удаленного рабочего стола Egon завершен.</translation>
 <translation id="3858860766373142691">Название</translation>
 <translation id="3897092660631435901">Меню</translation>
 <translation id="3905196214175737742">Владелец хоста использует недопустимый домен</translation>
@@ -73,7 +73,7 @@
 <translation id="4257751272692708833">Приложение сервиса "<ph name="PRODUCT_NAME" />" для переадресации URL</translation>
 <translation id="4277736576214464567">Код доступа недействителен. Повторите попытку.</translation>
 <translation id="4281844954008187215">Условия использования</translation>
-<translation id="4372650392690220936">© The Chromium Authors, 2022. Все права защищены.</translation>
+<translation id="4372650392690220936">© The Egon Authors, 2022. Все права защищены.</translation>
 <translation id="4405930547258349619">Библиотека ядра</translation>
 <translation id="443560535555262820">Открыть настройки специальных возможностей</translation>
 <translation id="4450893287417543264">Больше не показывать</translation>
@@ -82,8 +82,8 @@
 <translation id="4618411825115957973"><ph name="URL_FORWARDER_NAME" />: обнаружены неверные настройки. Выберите другой веб-браузер по умолчанию, а затем снова включите переадресацию URL.</translation>
 <translation id="4635770493235256822">Удаленные устройства</translation>
 <translation id="4660011489602794167">Показать клавиатуру</translation>
-<translation id="4703799847237267011">Сеанс Пульта Chrome завершен.</translation>
-<translation id="4741792197137897469">Ошибка аутентификации. Войдите в Chrome ещё раз.</translation>
+<translation id="4703799847237267011">Сеанс Пульта Egon завершен.</translation>
+<translation id="4741792197137897469">Ошибка аутентификации. Войдите в Egon ещё раз.</translation>
 <translation id="4784508858340177375">Сбой сервера Х или ошибка при его запуске.</translation>
 <translation id="4798680868612952294">Настройки мыши</translation>
 <translation id="4804818685124855865">Отключиться</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">Послать PrtScn</translation>
 <translation id="4974476491460646149">Подключение к устройству "<ph name="HOSTNAME" />" прервано</translation>
 <translation id="4985296110227979402">Сначала настройте удаленный доступ на компьютере.</translation>
-<translation id="4987330545941822761">Удаленному рабочему столу Chrome не удается найти браузер для открытия URL в локальном режиме. Выберите приложение в списке ниже.</translation>
+<translation id="4987330545941822761">Удаленному рабочему столу Egon не удается найти браузер для открытия URL в локальном режиме. Выберите приложение в списке ниже.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (не в сети)</translation>
 <translation id="507204348399810022">Заблокировать удаленные подключения к "<ph name="HOSTNAME" />"?</translation>
 <translation id="5170982930780719864">Недопустимый идентификатор хоста</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">Закрыть</translation>
 <translation id="5308380583665731573">Подключение</translation>
 <translation id="533625276787323658">Устройств для подключения нет.</translation>
-<translation id="5397086374758643919">Приложение Chrome Remote Desktop Host Uninstaller</translation>
+<translation id="5397086374758643919">Приложение Egon Remote Desktop Host Uninstaller</translation>
 <translation id="5419418238395129586">Последний раз в сети: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Хост отключен.</translation>
 <translation id="5601503069213153581">PIN-код</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">Подключиться повторно</translation>
 <translation id="5810269635982033450">Пользоваться экраном как сенсорной панелью компьютера</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> запрашивает доступ к вашему экрану, клавиатуре и мыши. Нажмите ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />'', если не хотите предоставлять доступ. Чтобы разрешить доступ после установки соединения, нажмите ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />''.</translation>
-<translation id="5823658491130719298">На компьютере, к которому вы хотите получить удаленный доступ, откройте страницу <ph name="INSTALLATION_LINK" /> в браузере Chrome.</translation>
+<translation id="5823658491130719298">На компьютере, к которому вы хотите получить удаленный доступ, откройте страницу <ph name="INSTALLATION_LINK" /> в браузере Egon.</translation>
 <translation id="5841343754884244200">Настройки внешнего вида</translation>
 <translation id="6033507038939587647">Настройки клавиатуры</translation>
 <translation id="6040143037577758943">Закрыть</translation>
 <translation id="6062854958530969723">Сбой инициализации хоста</translation>
-<translation id="6099500228377758828">Служба Удаленного рабочего стола Chrome</translation>
+<translation id="6099500228377758828">Служба Удаленного рабочего стола Egon</translation>
 <translation id="6122191549521593678">Онлайн</translation>
 <translation id="6178645564515549384">Собственный хост сообщений для удаленного помощника</translation>
 <translation id="618120821413932081">Подстраивать разрешение удаленного рабочего стола под размер окна</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">Удаленная поддержка</translation>
 <translation id="7026930240735156896">Следуйте инструкциям, чтобы настроить удаленный доступ к компьютеру.</translation>
 <translation id="7067321367069083429">Пользоваться экраном как сенсорным</translation>
-<translation id="7116737094673640201">Настройте Удаленный рабочий стол Chrome</translation>
+<translation id="7116737094673640201">Настройте Удаленный рабочий стол Egon</translation>
 <translation id="7144878232160441200">Повторить</translation>
 <translation id="7312846573060934304">Хост не подключен к сети</translation>
 <translation id="7319983568955948908">Закрыть доступ</translation>
 <translation id="7359298090707901886">Открывать URL на локальном компьютере с помощью выбранного браузера нельзя.</translation>
-<translation id="7401733114166276557">Удаленный рабочий стол Chrome</translation>
+<translation id="7401733114166276557">Удаленный рабочий стол Egon</translation>
 <translation id="7434397035092923453">Запрещен доступ для клиента: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Подключен клиент: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Сменить аккаунт</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">Введите PIN-код для доступа к удаленному компьютеру.</translation>
 <translation id="7895403300744144251">Правила безопасности на удаленном компьютере запрещают подключение из вашего аккаунта.</translation>
 <translation id="7936528439960309876">Закрепить справа</translation>
-<translation id="7970576581263377361">Ошибка аутентификации. Войдите в Chromium ещё раз.</translation>
+<translation id="7970576581263377361">Ошибка аутентификации. Войдите в Egon ещё раз.</translation>
 <translation id="7981525049612125370">Время сеанса удаленного доступа истекло.</translation>
 <translation id="8038111231936746805">(по умолчанию)</translation>
 <translation id="8041089156583427627">Отправить отзыв</translation>
 <translation id="8060029310790625334">Справочный центр</translation>
 <translation id="806699900641041263">Подключение к устройству "<ph name="HOSTNAME" />"…</translation>
-<translation id="8073845705237259513">Чтобы использовать Удаленный рабочий стол Chrome, необходимо добавить на устройство аккаунт Google.</translation>
+<translation id="8073845705237259513">Чтобы использовать Удаленный рабочий стол Egon, необходимо добавить на устройство аккаунт Google.</translation>
 <translation id="809687642899217504">Мои компьютеры</translation>
 <translation id="8116630183974937060">Ошибка подключения. Проверьте соединение с Интернетом и повторите попытку.</translation>
 <translation id="8295077433896346116">Расширению "<ph name="PRODUCT_NAME" />" требуется доступ к специальным возможностям, чтобы передавать на устройство Mac данные, введенные на удаленном компьютере.
@@ -171,10 +171,10 @@
 
 Если флажок рядом с параметром "<ph name="SERVICE_SCRIPT_NAME" />" уже есть, снимите его и установите снова.</translation>
 <translation id="8305209735512572429">Процесс удаленного управления веб-аутентификацией</translation>
-<translation id="8383794970363966105">Чтобы использовать Пульт Chrome, необходимо добавить на устройство аккаунт Google.</translation>
+<translation id="8383794970363966105">Чтобы использовать Пульт Egon, необходимо добавить на устройство аккаунт Google.</translation>
 <translation id="8386846956409881180">В конфигурации хоста указаны недопустимые учетные данные OAuth</translation>
 <translation id="8397385476380433240">Предоставьте разрешения для сервиса "<ph name="PRODUCT_NAME" />"</translation>
-<translation id="8406498562923498210">Выберите сеанс, который необходимо запустить в среде Удаленного рабочего стола Chrome. Примечание. Некоторые типы сеансов не поддерживают одновременное выполнение в среде Удаленного рабочего стола Chrome и на локальной консоли.</translation>
+<translation id="8406498562923498210">Выберите сеанс, который необходимо запустить в среде Удаленного рабочего стола Egon. Примечание. Некоторые типы сеансов не поддерживают одновременное выполнение в среде Удаленного рабочего стола Egon и на локальной консоли.</translation>
 <translation id="8428213095426709021">Настройки</translation>
 <translation id="8445362773033888690">Открыть в Google Play</translation>
 <translation id="8509907436388546015">Процесс интеграции Удаленного рабочего стола</translation>
@@ -184,13 +184,13 @@
 <translation id="8743328882720071828">Разрешить пользователю <ph name="CLIENT_USERNAME" /> управлять вашим компьютером?</translation>
 <translation id="8747048596626351634">Сбой сеанса или ошибка при его начале. Если сеанс ~/.chrome-remote-desktop-session начат на удаленном компьютере, убедитесь, что в нем запускается долгосрочный приоритетный процесс, например среда рабочего стола или диспетчер окон.</translation>
 <translation id="8804164990146287819">Политика конфиденциальности</translation>
-<translation id="8906511416443321782">Чтобы записывать и передавать аудио клиенту Удаленного рабочего стола Chrome, предоставьте доступ к микрофону.</translation>
+<translation id="8906511416443321782">Чтобы записывать и передавать аудио клиенту Удаленного рабочего стола Egon, предоставьте доступ к микрофону.</translation>
 <translation id="9111855907838866522">Вы подключены к удалённому устройству. Чтобы открыть меню, коснитесь экрана четырьмя пальцами.</translation>
 <translation id="9126115402994542723">Больше не запрашивать PIN-код при подключении к этому хосту с этого устройства</translation>
 <translation id="916856682307586697">Запустить сеанс XSession по умолчанию</translation>
 <translation id="9187628920394877737">Предоставьте расширению "<ph name="PRODUCT_NAME" />" разрешение на запись с экрана</translation>
 <translation id="9213184081240281106">Недопустимая конфигурация хоста</translation>
 <translation id="981121421437150478">Офлайн</translation>
-<translation id="985602178874221306">Авторы Chromium</translation>
+<translation id="985602178874221306">Авторы Egon</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (последнее подключение: <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

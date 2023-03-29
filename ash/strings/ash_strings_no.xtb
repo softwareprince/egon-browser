@@ -915,7 +915,7 @@ Koble enheten til strøm.</translation>
 <translation id="6043994281159824495">Logg av nå</translation>
 <translation id="6047696787498798094">Skjermdelingen stopper hvis du bytter til en annen bruker.</translation>
 <translation id="6054305421211936131">Logg på med smartkort</translation>
-<translation id="6059276912018042191">Nylige Chrome-faner</translation>
+<translation id="6059276912018042191">Nylige Egon-faner</translation>
 <translation id="6062360702481658777">Du logges automatisk av om <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Ferdig med filen</translation>
 <translation id="6073451960410192870">Stopp opptaket</translation>
@@ -1020,7 +1020,7 @@ Nylig installert</translation>
 <translation id="6650933572246256093">Bluetooth-enheten «<ph name="DEVICE_NAME" />» ber om tillatelse til å koble til. Skriv inn denne tilgangskoden på den aktuelle enheten: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Passord</translation>
 <translation id="6665545700722362599">gi nettsteder, apper og utvidelser tillatelse til å bruke posisjonstjenester, enhetens mikrofon, kamera eller andre funksjoner</translation>
-<translation id="6667908387435388584">Koble til telefonens wifi-sone, demp og finn enheten, og se nylige Chrome-faner som er åpne på telefonen</translation>
+<translation id="6667908387435388584">Koble til telefonens wifi-sone, demp og finn enheten, og se nylige Egon-faner som er åpne på telefonen</translation>
 <translation id="6670153871843998651">Skrivebord 3</translation>
 <translation id="6671495933530132209">Kopiér bildet</translation>
 <translation id="6671661918848783005">Kan ikke låse opp Chromebooken</translation>

@@ -38,11 +38,11 @@
 <translation id="1207086294218137981">Nema sljedećeg naslova 4. nivoa</translation>
 <translation id="1212770441379271564">Narednih nekoliko prečica nisu ChromeVox komande, ali su ipak veoma korisne da iskoristite prednosti Chromea.
     Da idete naprijed kroz stavke radnje poput dugmadi i linkova, pritisnite tipku Tab. Da idete nazad, pritisnite Shift+Tab.
-    Da pristupite okviru za adrese preglednika Chrome, koja se još naziva i višenamjenski okvir, pritisnite Ctrl + L.
+    Da pristupite okviru za adrese preglednika Egon, koja se još naziva i višenamjenski okvir, pritisnite Ctrl + L.
     Da automatski otvorite i idete u novu karticu, pritisnite Ctrl+T. Kursor će se nalaziti u višenamjenskom okviru.
     Da zatvorite karticu, pritisnite Ctrl+W.
     Da se krećete otvorenim karticama prema naprijed, pritisnite Ctrl+Tab.
-    Da otvorite meni preglednika Chrome, pritisnite Alt+F.</translation>
+    Da otvorite meni preglednika Egon, pritisnite Alt+F.</translation>
 <translation id="1213216066620407844">ChromeVox – daje glas Chromeu</translation>
 <translation id="1225969361094801578">Veoma tamno siva</translation>
 <translation id="122928249241119550">vrati na prethodnu rečenicu</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Osnovna navigacija</translation>
 <translation id="609281021724813947">Nema prethodnog klizača</translation>
 <translation id="6100239002225743044">Pomjeri nagore za jedan red</translation>
-<translation id="6118126368611144850">Android aplikacije za Chrome Ako imate Play trgovinu na uređaju, zavirite u ChromeVox s Android aplikacijama. Isprobajte eksperimentalnu podršku preuzimanjem preglednika Google Chrome Canary u Play trgovini.</translation>
+<translation id="6118126368611144850">Android aplikacije za Egon Ako imate Play trgovinu na uređaju, zavirite u ChromeVox s Android aplikacijama. Isprobajte eksperimentalnu podršku preuzimanjem preglednika Google Egon Canary u Play trgovini.</translation>
 <translation id="611827076493383239">pst</translation>
 <translation id="6119846243427417423">aktiviraj</translation>
 <translation id="6122013438240733403">dgm</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Svijetla zlatnožuta</translation>
 <translation id="7541021454094606506">izbriši sve</translation>
 <translation id="7543255924852002459">Odbaci oznaku</translation>
-<translation id="7552432549459840808">Korisne prečice za Chrome</translation>
+<translation id="7552432549459840808">Korisne prečice za Egon</translation>
 <translation id="7553679324939294712">umetni <ph name="INSERT_PHRASE" /> prije <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Crna</translation>
 <translation id="7579911500627256166">tačka <ph name="DOT" /></translation>

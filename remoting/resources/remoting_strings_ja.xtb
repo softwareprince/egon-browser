@@ -33,7 +33,7 @@
 <translation id="2509394361235492552"><ph name="HOSTNAME" /> に接続されました</translation>
 <translation id="2540992418118313681">このパソコンの閲覧と制御の権限を別のユーザーと共有しますか？</translation>
 <translation id="2579271889603567289">ホストがクラッシュしたか、ホストを起動できませんでした。</translation>
-<translation id="2599300881200251572">このサービスにより、Chrome リモート デスクトップ クライアントからの着信接続が有効になります。</translation>
+<translation id="2599300881200251572">このサービスにより、Egon リモート デスクトップ クライアントからの着信接続が有効になります。</translation>
 <translation id="2647232381348739934">Chromoting サービス</translation>
 <translation id="2676780859508944670">処理しています...</translation>
 <translation id="2692522824157224199">Copyright 2022 Google LLC. All Rights Reserved.</translation>
@@ -56,7 +56,7 @@
 <translation id="3596628256176442606">このサービスにより、Chromoting クライアントからの着信接続が有効になります。</translation>
 <translation id="369442766917958684">オフラインです。</translation>
 <translation id="3695446226812920698">詳細</translation>
-<translation id="3776024066357219166">Chrome リモート デスクトップ セッションが終了しました。</translation>
+<translation id="3776024066357219166">Egon リモート デスクトップ セッションが終了しました。</translation>
 <translation id="3858860766373142691">名前</translation>
 <translation id="3897092660631435901">メニュー</translation>
 <translation id="3905196214175737742">ホストの所有者ドメインが無効です。</translation>
@@ -73,7 +73,7 @@
 <translation id="4257751272692708833"><ph name="PRODUCT_NAME" /> URL Forwarder</translation>
 <translation id="4277736576214464567">アクセス コードが無効です。もう一度入力してください。</translation>
 <translation id="4281844954008187215">利用規約</translation>
-<translation id="4372650392690220936">Copyright 2022 The Chromium Authors. All Rights Reserved.</translation>
+<translation id="4372650392690220936">Copyright 2022 The Egon Authors. All Rights Reserved.</translation>
 <translation id="4405930547258349619">コア ライブラリ</translation>
 <translation id="443560535555262820">[アクセシビリティ] 設定を開く</translation>
 <translation id="4450893287417543264">次回から表示しない</translation>
@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">リモートのデバイス</translation>
 <translation id="4660011489602794167">キーボードを表示</translation>
 <translation id="4703799847237267011">Chromoting セッションが終了しました。</translation>
-<translation id="4741792197137897469">認証できませんでした。Chrome にもう一度ログインしてください。</translation>
+<translation id="4741792197137897469">認証できませんでした。Egon にもう一度ログインしてください。</translation>
 <translation id="4784508858340177375">X サーバーがクラッシュしたか、X サーバーを起動できませんでした。</translation>
 <translation id="4798680868612952294">マウス オプション</translation>
 <translation id="4804818685124855865">切断</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">PrtScn を送信</translation>
 <translation id="4974476491460646149"><ph name="HOSTNAME" /> との接続が切断されました</translation>
 <translation id="4985296110227979402">リモート接続に使用するパソコンを最初に設定しておく必要があります</translation>
-<translation id="4987330545941822761">Chrome リモート デスクトップでは、URL をローカルで開くブラウザを決定できません。下のリストから選択してください。</translation>
+<translation id="4987330545941822761">Egon リモート デスクトップでは、URL をローカルで開くブラウザを決定できません。下のリストから選択してください。</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" />（オフライン）</translation>
 <translation id="507204348399810022"><ph name="HOSTNAME" /> へのリモート接続を無効にしてもよろしいですか？</translation>
 <translation id="5170982930780719864">ホスト ID が無効です。</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">閉じる</translation>
 <translation id="5308380583665731573">接続</translation>
 <translation id="533625276787323658">接続先がありません</translation>
-<translation id="5397086374758643919">Chrome リモート デスクトップ ホストのアンインストーラ</translation>
+<translation id="5397086374758643919">Egon リモート デスクトップ ホストのアンインストーラ</translation>
 <translation id="5419418238395129586">前回のインターネット接続日: <ph name="DATE" /></translation>
 <translation id="544077782045763683">ホストはシャットダウンしました。</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">再接続</translation>
 <translation id="5810269635982033450">画面がトラックパッドとして機能します</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> さんがあなたの画面を表示して、キーボードとマウスを操作する権限をリクエストしています。このリクエストに心当たりがない場合は、[<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />] を押します。それ以外の場合は、準備ができたら [<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />] を選択して接続を許可します。</translation>
-<translation id="5823658491130719298">リモート アクセスを行うパソコンで Chrome を開き、<ph name="INSTALLATION_LINK" /> にアクセスします</translation>
+<translation id="5823658491130719298">リモート アクセスを行うパソコンで Egon を開き、<ph name="INSTALLATION_LINK" /> にアクセスします</translation>
 <translation id="5841343754884244200">表示オプション</translation>
 <translation id="6033507038939587647">キーボード オプション</translation>
 <translation id="6040143037577758943">閉じる</translation>
 <translation id="6062854958530969723">ホストを初期化できませんでした。</translation>
-<translation id="6099500228377758828">Chrome リモート デスクトップ サービス</translation>
+<translation id="6099500228377758828">Egon リモート デスクトップ サービス</translation>
 <translation id="6122191549521593678">オンライン</translation>
 <translation id="6178645564515549384">リモート アシスタンス用のネイティブ·メッセージング·ホスト</translation>
 <translation id="618120821413932081">リモート デスクトップの解像度をウィンドウに合わせて更新します</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">リモート サポート</translation>
 <translation id="7026930240735156896">画面の説明に沿ってパソコンをリモート アクセス用に設定します</translation>
 <translation id="7067321367069083429">画面がタッチ スクリーンとして機能します</translation>
-<translation id="7116737094673640201">Chrome リモート デスクトップへようこそ</translation>
+<translation id="7116737094673640201">Egon リモート デスクトップへようこそ</translation>
 <translation id="7144878232160441200">再読み込み</translation>
 <translation id="7312846573060934304">ホストはオフラインです。</translation>
 <translation id="7319983568955948908">共有を停止</translation>
 <translation id="7359298090707901886">選択されたブラウザでは、ローカルマシンで URL を開けません。</translation>
-<translation id="7401733114166276557">Chrome リモート デスクトップ</translation>
+<translation id="7401733114166276557">Egon リモート デスクトップ</translation>
 <translation id="7434397035092923453">次のクライアントのアクセスを拒否しました: <ph name="CLIENT_USERNAME" />。</translation>
 <translation id="7444276978508498879">次のクライアントが接続しました: <ph name="CLIENT_USERNAME" />。</translation>
 <translation id="7526139040829362392">アカウントを変更</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">リモート パソコンの PIN を入力してください。</translation>
 <translation id="7895403300744144251">リモート パソコンのセキュリティ ポリシーで、ご使用のアカウントからの接続が許可されていません。</translation>
 <translation id="7936528439960309876">右に固定</translation>
-<translation id="7970576581263377361">認証できませんでした。Chromium にもう一度ログインしてください。</translation>
+<translation id="7970576581263377361">認証できませんでした。Egon にもう一度ログインしてください。</translation>
 <translation id="7981525049612125370">リモート セッションが時間切れとなりました。</translation>
 <translation id="8038111231936746805">（デフォルト）</translation>
 <translation id="8041089156583427627">フィードバックを送信</translation>
 <translation id="8060029310790625334">ヘルプセンター</translation>
 <translation id="806699900641041263"><ph name="HOSTNAME" /> に接続しています</translation>
-<translation id="8073845705237259513">Chrome リモート デスクトップを使用するには、お使いのデバイスに Google アカウントを追加する必要があります。</translation>
+<translation id="8073845705237259513">Egon リモート デスクトップを使用するには、お使いのデバイスに Google アカウントを追加する必要があります。</translation>
 <translation id="809687642899217504">マイ コンピュータ</translation>
 <translation id="8116630183974937060">ネットワーク エラーが発生しました。デバイスがインターネットに接続されているか確認して、もう一度お試しください。</translation>
 <translation id="8295077433896346116"><ph name="PRODUCT_NAME" />を使用するには、「アクセシビリティ」権限を付与して、リモートマシンからの入力をこの Mac に反映できるようにする必要があります。
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">Chromoting を使用するには、お使いのデバイスに Google アカウントを追加する必要があります。</translation>
 <translation id="8386846956409881180">ホストの設定で無効な OAuth 認証情報が指定されています。</translation>
 <translation id="8397385476380433240"><ph name="PRODUCT_NAME" />に権限を付与する</translation>
-<translation id="8406498562923498210">Chrome リモート デスクトップ環境で開始するセッションを選択してください（一部のセッション タイプは、Chrome リモート デスクトップとローカルのコンソールで同時に実行できない場合があります）。</translation>
+<translation id="8406498562923498210">Egon リモート デスクトップ環境で開始するセッションを選択してください（一部のセッション タイプは、Egon リモート デスクトップとローカルのコンソールで同時に実行できない場合があります）。</translation>
 <translation id="8428213095426709021">設定</translation>
 <translation id="8445362773033888690">Google Playストアで見る</translation>
 <translation id="8509907436388546015">デスクトップ統合プロセス</translation>
@@ -184,13 +184,13 @@
 <translation id="8743328882720071828"><ph name="CLIENT_USERNAME" /> にパソコンの閲覧と制御を許可しますか？</translation>
 <translation id="8747048596626351634">セッションがクラッシュしたか、セッションを開始できませんでした。~/.chrome-remote-desktop-session がリモートのパソコンにある場合は、このスクリプトによって、デスクトップ環境やウィンドウ マネージャのような長時間実行のフォアグラウンド プロセスが開始されることを確認してください。</translation>
 <translation id="8804164990146287819">プライバシー ポリシー</translation>
-<translation id="8906511416443321782">音声をキャプチャして Chrome リモート デスクトップ クライアントにストリーミングするには、マイクへのアクセスが必要です。</translation>
+<translation id="8906511416443321782">音声をキャプチャして Egon リモート デスクトップ クライアントにストリーミングするには、マイクへのアクセスが必要です。</translation>
 <translation id="9111855907838866522">リモートデバイスに接続されています。メニューを開くには、4 本の指で画面をタップしてください。</translation>
 <translation id="9126115402994542723">このデバイスからこのホストに接続するときに PIN の再入力を要求しない。</translation>
 <translation id="916856682307586697">デフォルトの XSession を起動</translation>
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" />に「画面の録画」権限を付与する</translation>
 <translation id="9213184081240281106">ホストの設定が無効です。</translation>
 <translation id="981121421437150478">オフライン</translation>
-<translation id="985602178874221306">Chromium 開発者</translation>
+<translation id="985602178874221306">Egon 開発者</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" />（前回のオンライン接続: <ph name="DATE_OR_TIME" />）</translation>
 </translationbundle>

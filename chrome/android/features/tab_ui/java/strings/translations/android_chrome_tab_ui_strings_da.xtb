@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> af dine faner er ikke blevet brugt for nylig. Vil du lukke dem?</translation>
 <translation id="1181037720776840403">Fjern</translation>
 <translation id="125153950246128346">Tryk for at se en anden fane</translation>
-<translation id="1403228085774130835">Du kan finde dine lukkede faner på fanen Seneste i Chrome-hovedmenuen</translation>
+<translation id="1403228085774130835">Du kan finde dine lukkede faner på fanen Seneste i Egon-hovedmenuen</translation>
 <translation id="1455506303394048917">Din aktivitet i disse inkognitofaner ryddes på denne enhed</translation>
 <translation id="1499635324672558517">Vil du lukke alle inkognitofaner?</translation>
 <translation id="1657719826150349398">Flyt fane ned</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Se butiksoplysninger. Valgmuligheden findes øverst på skærmen</translation>
 <translation id="5558362125926932819">Luk fanegruppe med <ph name="NUMBER_OF_TABS" /> faner</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> faner blev grupperet</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link fra Chrome}one{<ph name="TABS_COUNT_MANY" /> link fra Chrome}other{<ph name="TABS_COUNT_MANY" /> links fra Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link fra Egon}one{<ph name="TABS_COUNT_MANY" /> link fra Egon}other{<ph name="TABS_COUNT_MANY" /> links fra Egon}}</translation>
 <translation id="575494663145460764">Vil du have underretninger om prisfald?</translation>
 <translation id="58326064309361797">Træk og slip faner for at gruppere dem</translation>
 <translation id="5846292395804797011">Luk gruppen <ph name="TITLE_OF_GROUP" /> med <ph name="NUMBER_OF_TABS" /> faner</translation>

@@ -1,0 +1,47 @@
+defines = -DDCHECK_ALWAYS_ON=1 -DUSE_UDEV -DUSE_AURA=1 -DUSE_GLIB=1 -DUSE_OZONE=1 -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_GNU_SOURCE -DCR_CLANG_REVISION=\"llvmorg-16-init-8697-g60809cd2-1\" -DCOMPONENT_BUILD -DCR_LIBCXX_REVISION=4218f3525ad438b22b0e173d963515a09d143398 -D_LIBCPP_ENABLE_ASSERTIONS_DEFAULT=1 -D_LIBCPP_AVAILABILITY_CUSTOM_VERBOSE_ABORT_PROVIDED=1 -DCR_SYSROOT_KEY=20220331T153654Z-0 -D_DEBUG -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DPNG_PREFIX -DPNG_USE_READ_MACROS -DOPJ_STATIC -DPDF_ENABLE_V8 -DPDF_ENABLE_XFA -DPDF_ENABLE_XFA_BMP -DPDF_ENABLE_XFA_GIF -DPDF_ENABLE_XFA_PNG -DPDF_ENABLE_XFA_TIFF -DV8_USE_EXTERNAL_STARTUP_DATA -DFPDF_IMPLEMENTATION -DFT_CONFIG_MODULES_H=\"freetype-custom/freetype/config/ftmodule.h\" -DFT_CONFIG_OPTIONS_H=\"freetype-custom/freetype/config/ftoption.h\" -DPDFIUM_REQUIRED_MODULES -DABSL_CONSUME_DLL -DU_USING_ICU_NAMESPACE=0 -DU_ENABLE_DYLOAD=0 -DUSE_CHROMIUM_ICU=1 -DU_ENABLE_TRACING=1 -DU_ENABLE_RESOURCE_TRACING=0 -DICU_UTIL_DATA_IMPL=ICU_UTIL_DATA_FILE -DUSING_V8_SHARED -DV8_ENABLE_CHECKS -DV8_COMPRESS_POINTERS -DV8_COMPRESS_POINTERS_IN_SHARED_CAGE -DV8_31BIT_SMIS_ON_64BIT_ARCH -DV8_ENABLE_SANDBOX -DV8_DEPRECATION_WARNINGS -DCPPGC_CAGED_HEAP -DCPPGC_YOUNG_GENERATION -DCPPGC_POINTER_COMPRESSION -DUSING_V8_BASE_SHARED -DUSING_V8_PLATFORM_SHARED
+include_dirs = -I.. -Igen -I../buildtools/third_party/libc++ -I../third_party/pdfium -I../third_party/freetype/include -I../third_party/freetype/include/freetype-custom -I../third_party/freetype/src/include -I../third_party/harfbuzz-ng/src/src -I../third_party/abseil-cpp -I../third_party/icu/source/common -I../third_party/icu/source/i18n -I../v8/include -Igen/v8/include
+cflags = -Wall -Werror -Wextra -Wimplicit-fallthrough -Wextra-semi -Wunreachable-code-aggressive -Wthread-safety -Wno-missing-field-initializers -Wno-unused-parameter -Wno-psabi -Wloop-analysis -Wno-unneeded-internal-declaration -Wenum-compare-conditional -Wno-ignored-pragma-optimize -Wno-deprecated-builtins -Wno-bitfield-constant-conversion -Wshadow -fno-delete-null-pointer-checks -fno-ident -fno-strict-aliasing --param=ssp-buffer-size=4 -fstack-protector -funwind-tables -fPIC -pthread -fcolor-diagnostics -fmerge-all-constants -fcrash-diagnostics-dir=../tools/clang/crashreports -mllvm -instcombine-lower-dbg-declare=0 -ffp-contract=off -fcomplete-member-pointers -m64 -msse3 -Wno-builtin-macro-redefined -D__DATE__= -D__TIME__= -D__TIMESTAMP__= -ffile-compilation-dir=. -no-canonical-prefixes -ftrivial-auto-var-init=pattern -O0 -fno-omit-frame-pointer -gdwarf-4 -g2 -gdwarf-aranges -gsplit-dwarf -ggnu-pubnames -Xclang -fuse-ctor-homing -fvisibility=hidden -Xclang -add-plugin -Xclang find-bad-constructs -Xclang -plugin-arg-find-bad-constructs -Xclang raw-ref-template-as-trivial-member -Xclang -plugin-arg-find-bad-constructs -Xclang check-ipc -Wheader-hygiene -Wstring-conversion -Wtautological-overlap-compare -Wc++11-narrowing -Wdeprecated-copy -Wtautological-unsigned-zero-compare -Xclang -add-plugin -Xclang blink-gc-plugin -Wshadow -Wexit-time-destructors -Wglobal-constructors -Wshorten-64-to-32
+cflags_cc = -Wno-undefined-bool-conversion -Wno-tautological-undefined-compare -std=c++20 -Wno-trigraphs -gsimple-template-names -fno-exceptions -fno-rtti -nostdinc++ -isystem../buildtools/third_party/libc++/trunk/include -isystem../buildtools/third_party/libc++abi/trunk/include --sysroot=../build/linux/debian_bullseye_amd64-sysroot -fvisibility-inlines-hidden
+label_name = test_support
+target_out_dir = obj/third_party/pdfium/testing
+target_output_name = test_support
+
+build obj/third_party/pdfium/testing/test_support.inputdeps.stamp: stamp obj/base/allocator/partition_allocator/chromecast_buildflags.stamp obj/base/allocator/partition_allocator/chromeos_buildflags.stamp obj/base/allocator/partition_allocator/debugging_buildflags.stamp obj/base/allocator/partition_allocator/logging_buildflags.stamp obj/base/allocator/partition_allocator/partition_alloc_buildflags.stamp obj/build/chromeos_buildflags.stamp obj/third_party/icu/icudata.stamp obj/third_party/test_fonts/test_fonts.stamp obj/v8/generate_bytecode_builtins_list.stamp obj/v8/run_gen-regexp-special-case.stamp obj/v8/run_torque.stamp obj/v8/src/inspector/protocol_generated_sources.stamp
+build obj/third_party/pdfium/testing/test_support/command_line_helpers.o: cxx ../third_party/pdfium/testing/command_line_helpers.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = command_line_helpers.cpp
+  source_name_part = command_line_helpers
+build obj/third_party/pdfium/testing/test_support/font_renamer.o: cxx ../third_party/pdfium/testing/font_renamer.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = font_renamer.cpp
+  source_name_part = font_renamer
+build obj/third_party/pdfium/testing/test_support/fx_string_testhelpers.o: cxx ../third_party/pdfium/testing/fx_string_testhelpers.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = fx_string_testhelpers.cpp
+  source_name_part = fx_string_testhelpers
+build obj/third_party/pdfium/testing/test_support/invalid_seekable_read_stream.o: cxx ../third_party/pdfium/testing/invalid_seekable_read_stream.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = invalid_seekable_read_stream.cpp
+  source_name_part = invalid_seekable_read_stream
+build obj/third_party/pdfium/testing/test_support/scoped_set_tz.o: cxx ../third_party/pdfium/testing/scoped_set_tz.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = scoped_set_tz.cpp
+  source_name_part = scoped_set_tz
+build obj/third_party/pdfium/testing/test_support/string_write_stream.o: cxx ../third_party/pdfium/testing/string_write_stream.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = string_write_stream.cpp
+  source_name_part = string_write_stream
+build obj/third_party/pdfium/testing/test_support/test_fonts.o: cxx ../third_party/pdfium/testing/test_fonts.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = test_fonts.cpp
+  source_name_part = test_fonts
+build obj/third_party/pdfium/testing/test_support/test_loader.o: cxx ../third_party/pdfium/testing/test_loader.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = test_loader.cpp
+  source_name_part = test_loader
+build obj/third_party/pdfium/testing/test_support/bitmap_saver.o: cxx ../third_party/pdfium/testing/utils/bitmap_saver.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = bitmap_saver.cpp
+  source_name_part = bitmap_saver
+build obj/third_party/pdfium/testing/test_support/file_util.o: cxx ../third_party/pdfium/testing/utils/file_util.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = file_util.cpp
+  source_name_part = file_util
+build obj/third_party/pdfium/testing/test_support/hash.o: cxx ../third_party/pdfium/testing/utils/hash.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = hash.cpp
+  source_name_part = hash
+build obj/third_party/pdfium/testing/test_support/v8_initializer.o: cxx ../third_party/pdfium/testing/v8_initializer.cpp || obj/third_party/pdfium/testing/test_support.inputdeps.stamp
+  source_file_part = v8_initializer.cpp
+  source_name_part = v8_initializer
+
+build obj/third_party/pdfium/testing/test_support.stamp: stamp obj/third_party/pdfium/testing/test_support/command_line_helpers.o obj/third_party/pdfium/testing/test_support/font_renamer.o obj/third_party/pdfium/testing/test_support/fx_string_testhelpers.o obj/third_party/pdfium/testing/test_support/invalid_seekable_read_stream.o obj/third_party/pdfium/testing/test_support/scoped_set_tz.o obj/third_party/pdfium/testing/test_support/string_write_stream.o obj/third_party/pdfium/testing/test_support/test_fonts.o obj/third_party/pdfium/testing/test_support/test_loader.o obj/third_party/pdfium/testing/test_support/bitmap_saver.o obj/third_party/pdfium/testing/test_support/file_util.o obj/third_party/pdfium/testing/test_support/hash.o obj/third_party/pdfium/testing/test_support/v8_initializer.o || obj/third_party/pdfium/testing/path_service.stamp obj/third_party/test_fonts/test_fonts.stamp obj/third_party/pdfium/pdfium_public_headers.stamp obj/third_party/pdfium/core/fdrm/fdrm.stamp obj/third_party/pdfium/core/fxcrt/fxcrt.stamp obj/third_party/pdfium/core/fxge/fxge.stamp obj/third_party/pdfium/testing/image_diff/image_diff.stamp ./libv8.so.TOC ./libv8_libplatform.so.TOC obj/third_party/pdfium/core/fxcrt/unowned_ptr.stamp obj/third_party/pdfium/third_party/pdfium_compiler_specific.stamp ./libfreetype_harfbuzz.so.TOC obj/third_party/pdfium/third_party/pdfium_base.stamp ./libabsl.so.TOC ./libicuuc.so.TOC ./libpartition_alloc.so.TOC obj/third_party/pdfium/pdfium_public_headers_impl.stamp obj/third_party/pdfium/third_party/fx_agg.stamp obj/third_party/pdfium/third_party/fx_lpng.stamp ./libchrome_zlib.so.TOC ./libv8_libbase.so.TOC ./libicui18n.so.TOC

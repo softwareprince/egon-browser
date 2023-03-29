@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Seret gelangsar sehingga anda selesa membaca teks ini. Teks harus kelihatan sekurang-kurangnya sebesar ini selepas mengetik dua kali pada perenggan.</translation>
 <translation id="2329473609445770916">Laman ini mentakrifkan minat yang boleh digunakan oleh laman lain untuk memaparkan iklan kepada anda</translation>
 <translation id="2359808026110333948">Teruskan</translation>
-<translation id="2379925928934107488">Gunakan tema gelap pada laman apabila Chrome menggunakan tema gelap, jika boleh</translation>
+<translation id="2379925928934107488">Gunakan tema gelap pada laman apabila Egon menggunakan tema gelap, jika boleh</translation>
 <translation id="2387895666653383613">Penskalaan teks</translation>
 <translation id="2390272837142897736">Zum masuk</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">Daripada web</translation>
 <translation id="321187648315454507">Untuk membolehkan <ph name="APP_NAME" /> menghantar pemberitahuan kepada anda, hidupkan juga pemberitahuan dalam <ph name="BEGIN_LINK" />Tetapan Android<ph name="END_LINK" />.</translation>
 <translation id="3227137524299004712">Mikrofon</translation>
-<translation id="3248611290851046188">Laman ini mentakrifkan minat yang boleh digunakan oleh laman lain untuk memaparkan iklan kepada anda. Laman ini juga mendapat minat anda daripada Chrome untuk memaparkan iklan yang lebih berkaitan kepada anda.</translation>
+<translation id="3248611290851046188">Laman ini mentakrifkan minat yang boleh digunakan oleh laman lain untuk memaparkan iklan kepada anda. Laman ini juga mendapat minat anda daripada Egon untuk memaparkan iklan yang lebih berkaitan kepada anda.</translation>
 <translation id="3277252321222022663">Benarkan tapak mengakses penderia (disyorkan)</translation>
 <translation id="3285500645985761267">Benarkan laman berkaitan melihat aktiviti anda dalam kumpulan</translation>
 <translation id="3295019059349372795">Bab 11: Oz, Kota Zamrud yang Menakjubkan</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">Tindakan ini akan mengosongkan <ph name="DATASIZE" /> data dan kuki yang disimpan oleh tapak.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(+ 1 lagi)}other{(+ # lagi)}}</translation>
 <translation id="5403592356182871684">Nama</translation>
-<translation id="5412236728747081950">Laman ini mendapat minat anda daripada Chrome untuk memaparkan iklan yang lebih berkaitan kepada anda</translation>
+<translation id="5412236728747081950">Laman ini mendapat minat anda daripada Egon untuk memaparkan iklan yang lebih berkaitan kepada anda</translation>
 <translation id="5438097262470833822">Pilihan ini akan menetapkan semula kebenaran untuk <ph name="WEBSITE" /></translation>
 <translation id="5489227211564503167"><ph name="ELAPSED_TIME" /> masa berlalu daripada <ph name="TOTAL_TIME" /></translation>
 <translation id="5494752089476963479">Sekat iklan di tapak yang menyiarkan iklan yang mengganggu atau mengelirukan</translation>

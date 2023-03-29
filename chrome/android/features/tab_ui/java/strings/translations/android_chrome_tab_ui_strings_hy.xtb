@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">Ձեր ներդիրներից <ph name="NUMBER_OF_TABS" />-ը վերջերս չեն օգտագործվել։ Փակե՞լ դրանք։</translation>
 <translation id="1181037720776840403">Ջնջել</translation>
 <translation id="125153950246128346">Հպեք՝ այլ ներդիրի անցնելու համար</translation>
-<translation id="1403228085774130835">Դուք կարող եք գտնել ձեր փակված ներդիրները Chrome-ի հիմնական ընտրացանկի «Վերջերս բացված ներդիրներ» բաժնում</translation>
+<translation id="1403228085774130835">Դուք կարող եք գտնել ձեր փակված ներդիրները Egon-ի հիմնական ընտրացանկի «Վերջերս բացված ներդիրներ» բաժնում</translation>
 <translation id="1455506303394048917">Այս ինկոգնիտո ներդիրներում ձեր կատարած գործողությունները կհեռացվեն սարքից</translation>
 <translation id="1499635324672558517">Փակե՞լ բոլոր ինկոգնիտո ներդիրները</translation>
 <translation id="1657719826150349398">Տեղափոխել ներդիրը ներքև</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Դիտել խանութի մասին տեղեկությունները, գործողությունը հասանելի է էկրանի վերին մասում</translation>
 <translation id="5558362125926932819">Փակել <ph name="NUMBER_OF_TABS" /> ներդիրից բաղկացած խումբը</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> ներդիր խմբավորվեց</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> հղում Chrome-ից}one{<ph name="TABS_COUNT_MANY" /> հղում Chrome-ից}other{<ph name="TABS_COUNT_MANY" /> հղում Chrome-ից}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> հղում Egon-ից}one{<ph name="TABS_COUNT_MANY" /> հղում Egon-ից}other{<ph name="TABS_COUNT_MANY" /> հղում Egon-ից}}</translation>
 <translation id="575494663145460764">Ստանա՞լ ծանուցումներ գների իջեցման մասին</translation>
 <translation id="58326064309361797">Քաշեք ներդիրները՝ դրանք խմբավորելու համար</translation>
 <translation id="5846292395804797011">Փակել <ph name="NUMBER_OF_TABS" /> ներդիրից բաղկացած «<ph name="TITLE_OF_GROUP" />» խումբը</translation>

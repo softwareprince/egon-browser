@@ -18,7 +18,7 @@ O teu motor de busca é <ph name="DSE_NAME" />. En caso aplicable, consulta as s
 <translation id="1076421457278169141">Escaneouse o código</translation>
 <translation id="1076785341346483463">Sincronizar cunha conta xestionada</translation>
 <translation id="1084365883616172403">Completouse a publicación de Facebook.</translation>
-<translation id="1085696779717592361">Utilizar Chrome de forma predeterminada</translation>
+<translation id="1085696779717592361">Utilizar Egon de forma predeterminada</translation>
 <translation id="1103523840287552314">Traducir sempre o <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">Ir á ventá aberta</translation>
 <translation id="1112015203684611006">Erro impresión</translation>
@@ -32,13 +32,13 @@ O teu motor de busca é <ph name="DSE_NAME" />. En caso aplicable, consulta as s
 <translation id="1165039591588034296">Erro</translation>
 <translation id="1172898394251786223">Campo seguinte</translation>
 <translation id="1176932207622159128">Impos. gardar imaxe</translation>
-<translation id="1177414119866731261">Abre Menú de Chrome</translation>
+<translation id="1177414119866731261">Abre Menú de Egon</translation>
 <translation id="1181037720776840403">Eliminar</translation>
 <translation id="1207113853726624428">Nova busca</translation>
 <translation id="1209206284964581585">Ocultar por agora</translation>
 <translation id="1219674500290482172">Non se puido conectar a Internet.</translation>
 <translation id="122699739164161391">Pechar todas as pestanas</translation>
-<translation id="1229222343402087523">Busca "${searchPhrase}" en Chrome</translation>
+<translation id="1229222343402087523">Busca "${searchPhrase}" en Egon</translation>
 <translation id="1242044645101871359">Inicia sesión de novo</translation>
 <translation id="1254117744268754948">Seleccionar cartafol</translation>
 <translation id="1254424942107648268">Buscar anterior</translation>
@@ -128,7 +128,7 @@ O teu motor de busca é <ph name="DSE_NAME" />. En caso aplicable, consulta as s
 <translation id="1941314575388338491">Toca dúas veces para copiar.</translation>
 <translation id="1943478190258551035">Menú → Configuración</translation>
 <translation id="1952172573699511566">Os sitios web mostrarán o texto no teu idioma preferido, sempre que sexa posible.</translation>
-<translation id="1965935827552890526">Acaba o que estabas facendo na outra ventá de Chrome que tiñas aberta.</translation>
+<translation id="1965935827552890526">Acaba o que estabas facendo na outra ventá de Egon que tiñas aberta.</translation>
 <translation id="1973912524893600642">Conservar datos</translation>
 <translation id="1974060860693918893">Configuración avanzada</translation>
 <translation id="1981118202195772574">Móbil</translation>
@@ -149,8 +149,8 @@ O teu motor de busca é <ph name="DSE_NAME" />. En caso aplicable, consulta as s
 <translation id="2139867232736819575">Buscar texto que copiaches</translation>
 <translation id="214201757571129614">Iniciar sesión…</translation>
 <translation id="2149973817440762519">Editar marcador</translation>
-<translation id="2150175299852799498">Chrome para móbil</translation>
-<translation id="2155145621546387786">Compartir Chrome</translation>
+<translation id="2150175299852799498">Egon para móbil</translation>
+<translation id="2155145621546387786">Compartir Egon</translation>
 <translation id="2175927920773552910">Código QR</translation>
 <translation id="2178545675770638239">Selecciona un contrasinal</translation>
 <translation id="2218443599109088993">Afastar</translation>
@@ -161,7 +161,7 @@ O teu motor de busca é <ph name="DSE_NAME" />. En caso aplicable, consulta as s
 <translation id="225943865679747347">Código de erro: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Engadir conta</translation>
 <translation id="2268044343513325586">Refina</translation>
-<translation id="2271351792809375263">Utiliza os contrasinais que tes gardados en Chrome noutras aplicacións do teu dispositivo</translation>
+<translation id="2271351792809375263">Utiliza os contrasinais que tes gardados en Egon noutras aplicacións do teu dispositivo</translation>
 <translation id="2273327106802955778">Menú Máis</translation>
 <translation id="2286505070150039482">Texto destacado</translation>
 <translation id="2299218006564889602">Os teus contrasinais encríptanse no dispositivo antes de gardarse no xestor de contrasinais de Google.</translation>
@@ -232,13 +232,13 @@ Tampouco poden utilizalas para ver a túa actividade de navegación en distintos
 <translation id="2797029671965852011">Mostrar historial</translation>
 <translation id="2800683595868705743">Saír do selector de pestanas</translation>
 <translation id="2815198996063984598">2. Toca Aplicación de navegador predeterminada</translation>
-<translation id="2820289420301699633">O teu administrador controla Chrome e pode acceder aos datos asociados</translation>
+<translation id="2820289420301699633">O teu administrador controla Egon e pode acceder aos datos asociados</translation>
 <translation id="2830972654601096923">Xestionar enderezos…</translation>
 <translation id="2834399722155632105">3. Toca Password Options (Opcións de contrasinais)</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Rest conf trad</translation>
 <translation id="2848086008667475748">Definir como aplicación predeterminada na configuración</translation>
-<translation id="2858204748079866344">Para protexer a túa privacidade, Chrome non autocompletará o teu contrasinal neste campo.</translation>
+<translation id="2858204748079866344">Para protexer a túa privacidade, Egon non autocompletará o teu contrasinal neste campo.</translation>
 <translation id="285960592395650245">Reintentar a descarga</translation>
 <translation id="2870560284913253234">Sitio</translation>
 <translation id="2871695793448672541">Contrasinal oculto</translation>
@@ -256,7 +256,7 @@ Tampouco poden utilizalas para ver a túa actividade de navegación en distintos
 <translation id="292639812446257861">Marcar como non lidos</translation>
 <translation id="2932085390869194046">Suxerir contrasinal…</translation>
 <translation id="2932765531295814441">Engadir contrasinais manualmente</translation>
-<translation id="2952581218264071393">1. Abre a configuración de Chrome</translation>
+<translation id="2952581218264071393">1. Abre a configuración de Egon</translation>
 <translation id="2958718410589002129">Contrasinais</translation>
 <translation id="2961210776189273067">Tratamento</translation>
 <translation id="2964349545761222050">Bloquear cookies de terceiros</translation>
@@ -312,7 +312,7 @@ En caso aplicable, consulta as instrucións do teu motor de busca para eliminar 
 <translation id="3371831930909698441">A tradución está dispoñible. Hai opcións dispoñibles na parte inferior da pantalla.</translation>
 <translation id="3377063233124932127">Agora os marcadores e os contrasinais que teñas gardados, ademais doutros elementos, aparecen na parte superior.</translation>
 <translation id="3393920035788932672">Ventás emerxentes permitidas</translation>
-<translation id="3399930248910934354">Abrir configuración de Chrome</translation>
+<translation id="3399930248910934354">Abrir configuración de Egon</translation>
 <translation id="3404744938087714423">Se pechas a sesión, desactivarase a sincronización</translation>
 <translation id="3425644765244388016">Alcume da tarxeta</translation>
 <translation id="3433057996795775706">Ao eliminar este contrasinal non se eliminará a túa conta de <ph name="WEBSITE" />. Cámbiao en <ph name="WEBSITE" /> para que estea a salvo doutras persoas.</translation>
@@ -355,7 +355,7 @@ En caso aplicable, consulta as instrucións do teu motor de busca para eliminar 
 <translation id="3709582977625132201">Marcar como non lido</translation>
 <translation id="371230970611282515">Predí eventos perigosos antes de que se produzan e móstrache unha advertencia.</translation>
 <translation id="37207012422556617">Buscas populares</translation>
-<translation id="3740397331642243698">Abre os URL escritos en Google Chrome no modo de incógnito.</translation>
+<translation id="3740397331642243698">Abre os URL escritos en Google Egon no modo de incógnito.</translation>
 <translation id="3762232513783804601">Deseñado para iPad</translation>
 <translation id="3768725474733206671">Reabrir última pestana pechada</translation>
 <translation id="3771033907050503522">Pestanas de incógnito</translation>
@@ -374,12 +374,12 @@ En caso aplicable, consulta as instrucións do teu motor de busca para eliminar 
 <translation id="3858860766373142691">Nome</translation>
 <translation id="3861486700625780712">Deixar de seguir</translation>
 <translation id="3863769054730344136">Enviar aos teus dispositivos</translation>
-<translation id="387280738075653372">Descarga Chrome aquí.</translation>
+<translation id="387280738075653372">Descarga Egon aquí.</translation>
 <translation id="3888863481921783344">Usarase para mostrarche posibles invitados ao teu evento.</translation>
 <translation id="3892144330757387737">Aquí atoparás o teu historial</translation>
 <translation id="3897092660631435901">Menú</translation>
 <translation id="3904829425754749514">A túa organización desactivou a sincronización. Podes seguir vendo os marcadores, o historial, os contrasinais e o resto das opcións de configuración que teñas neste dispositivo. Se fas cambios, non se sincronizarán coa túa conta.</translation>
-<translation id="3913386780052199712">Sesión iniciada en Chrome</translation>
+<translation id="3913386780052199712">Sesión iniciada en Egon</translation>
 <translation id="3915450441834151894">Información sobre o sitio</translation>
 <translation id="3922310737605261887">Buscar texto copiado</translation>
 <translation id="3928666092801078803">Combinar os meus datos</translation>
@@ -522,7 +522,7 @@ Para cambiar esta opción de configuración, deberás <ph name="BEGIN_LINK" />re
 <translation id="4979397965658815378">Inicia sesión na túa conta de Google para ter os marcadores, os contrasinais, o historial e o resto das opcións de configuración en todos os teus dispositivos.</translation>
 <translation id="4986678885919050584">Quitar deste dispositivo</translation>
 <translation id="4989542687859782284">Experimentos non dispoñibles</translation>
-<translation id="498985224078955265">Para enviar esta pestana a outro dispositivo, inicia sesión en Chrome nos dous dispositivos.</translation>
+<translation id="498985224078955265">Para enviar esta pestana a outro dispositivo, inicia sesión en Egon nos dous dispositivos.</translation>
 <translation id="5005498671520578047">Copiar contrasinal</translation>
 <translation id="5017828934289857214">Lembrarmo máis tarde</translation>
 <translation id="5037676449506322593">Seleccionar todo</translation>
@@ -532,19 +532,19 @@ Para cambiar esta opción de configuración, deberás <ph name="BEGIN_LINK" />re
 <translation id="5062321486222145940">Instalar Google Drive</translation>
 <translation id="5083464117946352670">Imposible determinar tamaño.</translation>
 <translation id="5090832849094901128">Ao eliminar este contrasinal non se eliminará a túa conta de <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">Podes gardar páxinas para lelas máis tarde ou sen conexión. Chrome preguntarache se queres gardar páxinas longas.</translation>
+<translation id="5092117651143801290">Podes gardar páxinas para lelas máis tarde ou sen conexión. Egon preguntarache se queres gardar páxinas longas.</translation>
 <translation id="5094827893301452931">Completouse o chío.</translation>
 <translation id="5118713593561876160">Intereses</translation>
 <translation id="5118764316110575523">Non</translation>
-<translation id="5119391094379141756">Selecciona Chrome</translation>
+<translation id="5119391094379141756">Selecciona Egon</translation>
 <translation id="5132942445612118989">Sincroniza os teus contrasinais, o historial e moito máis en todos os dispositivos</translation>
-<translation id="5140288047769711648">Chrome lembrará este contrasinal por ti. Non é necesario que o recordes.</translation>
+<translation id="5140288047769711648">Egon lembrará este contrasinal por ti. Non é necesario que o recordes.</translation>
 <translation id="5149188072385105201">Engadir contrasinal…</translation>
 <translation id="5150492518600715772">Enviar ao teu dispositivo</translation>
 <translation id="5168414296986405587">Creado para iPadOS</translation>
 <translation id="5173088371991956744">A sincronización necesita verificar a túa identidade</translation>
 <translation id="5181140330217080051">Descargando</translation>
-<translation id="5184329579814168207">Abrir en Chrome</translation>
+<translation id="5184329579814168207">Abrir en Egon</translation>
 <translation id="5186185447130319458">Privado</translation>
 <translation id="5188482106078495165">A configuración das cookies aplícase a todas as pestanas. Para aplicar unha nova configuración a unha pestana aberta, volve cargala.</translation>
 <translation id="5190835502935405962">Barra de marcadores</translation>
@@ -579,7 +579,7 @@ Para cambiar esta opción de configuración, deberás <ph name="BEGIN_LINK" />re
 <translation id="5490005495580364134">Bloquear todas as cookies (non recomendado)</translation>
 <translation id="5513681519188741830">Hai <ph name="TIME" /> h</translation>
 <translation id="5520466080178053306">Toca Xestor de contrasinais e despois Engadir</translation>
-<translation id="5525095647255982834">Para enviar esta pestana a outro dispositivo, inicia sesión en Chrome nel.</translation>
+<translation id="5525095647255982834">Para enviar esta pestana a outro dispositivo, inicia sesión en Egon nel.</translation>
 <translation id="5525269841082836315">Crear contrasinal</translation>
 <translation id="5542540507657872337">Pestanas atopadas (<ph name="COUNT" />)</translation>
 <translation id="5548760955356983418">Handoff permíteche comezar a navegar nun sitio web neste dispositivo e despois continuar facilmente no teu Mac. O sitio web aberto actualmente aparecerá no Dock do teu Mac.
@@ -601,14 +601,14 @@ Handoff tamén debe estar activado na sección Xeral da configuración e os teus
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Crear código QR</translation>
 <translation id="567881659373499783">Versión <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Mostrando 1 ventá de Chrome}other{Mostrando {count} ventás de Chrome}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Mostrando 1 ventá de Egon}other{Mostrando {count} ventás de Egon}}</translation>
 <translation id="5701270923492462699">Permitiuse o acceso á cámara</translation>
 <translation id="5704908597376970822">Non se puido iniciar sesión.</translation>
 <translation id="5706552126692816153">Dispositivo activo hai 1 día</translation>
 <translation id="5711039611392265845">Para ver máis opcións de configuración relacionadas coa privacidade, a seguranza e a recompilación de datos, consulta <ph name="BEGIN_LINK" />Sincronización e servizos de Google<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">Para navegar pola Web de forma privada, engade unha nova pestana</translation>
 <translation id="5728700505257787410">Produciuse un problema ao iniciar sesión na túa conta.</translation>
-<translation id="5733084997078800044">Consello de Chrome</translation>
+<translation id="5733084997078800044">Consello de Egon</translation>
 <translation id="5737974891429562743">Os detalles de inicio de sesión da conta están caducados. Actualízaos para iniciar a sincronización.</translation>
 <translation id="5738385766833540397">Xestiona como recibes as alertas de baixada de prezos para os produtos dos que fas un seguimento</translation>
 <translation id="5738887413654608789">Así poderás descubrir páxinas web relevantes en función do que te rodea.</translation>
@@ -623,7 +623,7 @@ Handoff tamén debe estar activado na sección Xeral da configuración e os teus
 <translation id="5812974770859303494">Engadir a…</translation>
 <translation id="581659025233126501">Activar sincronización</translation>
 <translation id="5819208479324046259">Xestionado por <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Máis información<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Garda contrasinais, métodos de pago e enderezos para que Chrome autocomplete a información correspondente máis tarde.</translation>
+<translation id="5833643789537100742">Garda contrasinais, métodos de pago e enderezos para que Egon autocomplete a información correspondente máis tarde.</translation>
 <translation id="5846482154967366008">Motor de busca</translation>
 <translation id="5854790677617711513">Con máis de 30 días</translation>
 <translation id="5857090052475505287">Novo cartafol</translation>
@@ -650,7 +650,7 @@ Handoff tamén debe estar activado na sección Xeral da configuración e os teus
 <translation id="5982717868370722439">Engade os datos existentes a <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Visitados recentemente</translation>
 <translation id="5988097621740394599">Consulta as baixadas de prezo nas túas pestanas.</translation>
-<translation id="5988851877894965432">Abrir URL en Chrome</translation>
+<translation id="5988851877894965432">Abrir URL en Egon</translation>
 <translation id="6006672969046233841">Nova pestana</translation>
 <translation id="6012140227487808125">Encriptando...</translation>
 <translation id="6021332621416007159">Abrir en...</translation>
@@ -676,7 +676,7 @@ Handoff tamén debe estar activado na sección Xeral da configuración e os teus
 <translation id="6152406514676263192">Activa a sincronización para gozar do contido máis relevante baseado nos teus intereses.</translation>
 <translation id="6159839020698489198">opcional</translation>
 <translation id="6170450281939467187">Produciuse un erro ao realizar a tradución</translation>
-<translation id="6177442314419606057">Busca en Chrome</translation>
+<translation id="6177442314419606057">Busca en Egon</translation>
 <translation id="6184086493125982861">Amosar pestanas</translation>
 <translation id="6187302354554850004">Última sincronización: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Mensaxes non lidas</translation>
@@ -746,7 +746,7 @@ Tenta usar un contrasinal distinto para cada sitio.</translation>
 <translation id="6524918542306337007">O modo de incógnito non está dispoñible</translation>
 <translation id="6530992499366869131">Avisarte se os teus contrasinais están en risco debido a unha violación da seguranza dos datos</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Visita un sitio e, no menú de Chrome, fai clic en Seguir</translation>
+<translation id="6540120577248033958">Visita un sitio e, no menú de Egon, fai clic en Seguir</translation>
 <translation id="6561262006871132942">Achegar</translation>
 <translation id="6583087784430677195">Para desactivar esta función, abre <ph name="BEGIN_LINK" />Settings<ph name="END_LINK" /> (Configuración) e vai a AutoFill Passwords (Autocompletar contrasinais).</translation>
 <translation id="6585618849026997638">Engade un marcador para volver acceder a unha páxina que consideres importante</translation>
@@ -864,7 +864,7 @@ Co modo de incógnito activado, non poden utilizalas para ver a túa actividade 
 <translation id="7454057999980797137">Estado/provin.</translation>
 <translation id="7459628154744868585">A protección mellorada está activada</translation>
 <translation id="7464701184726199289">Esta acción borra os datos sincronizados de todos os dispositivos. As opcións de configuración dos sitios gardados non se eliminarán e quizais se reflictan os teus hábitos de navegación. <ph name="BEGIN_LINK" />Máis información<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Selecciona Chrome</translation>
+<translation id="746684838091935575">3. Selecciona Egon</translation>
 <translation id="7472734401283673885">Nome da empresa</translation>
 <translation id="7473891865547856676">Non, grazas</translation>
 <translation id="750493650310597496">0 seleccionados</translation>
@@ -899,7 +899,7 @@ Co modo de incógnito activado, non poden utilizalas para ver a túa actividade 
 <translation id="7781011649027948662">Traducir esta páxina?</translation>
 <translation id="7781069478569868053">Páxina Nova pestana</translation>
 <translation id="7781829728241885113">Onte</translation>
-<translation id="778855399387580014">Inicia unha busca nunha nova pestana de Chrome.</translation>
+<translation id="778855399387580014">Inicia unha busca nunha nova pestana de Egon.</translation>
 <translation id="7791543448312431591">Engadir</translation>
 <translation id="7807060072011926525">Ofrecido por Google</translation>
 <translation id="7839985698273989086">Páxina sen conexión</translation>
@@ -912,7 +912,7 @@ Co modo de incógnito activado, non poden utilizalas para ver a túa actividade 
 <translation id="7859704718976024901">Historial de navegación</translation>
 <translation id="7879275349003161544">Mostrar descargas</translation>
 <translation id="7884694604461143138">Historial de busca (coincidencias atopadas: <ph name="COUNT" />)</translation>
-<translation id="7887198238286927132">Para protexer a túa privacidade, Chrome non autocompletará este campo.</translation>
+<translation id="7887198238286927132">Para protexer a túa privacidade, Egon non autocompletará este campo.</translation>
 <translation id="7911190106180361398">A túa organización non che permite sincronizalo todo.</translation>
 <translation id="7920949005883349320">Privacidade e seguranza</translation>
 <translation id="7930998711684428189">Móstrache unha advertencia se os teus contrasinais están en risco debido a unha violación da seguranza dos datos.</translation>
@@ -933,7 +933,7 @@ Tamén poden utilizalas para ver a túa actividade de navegación en varios siti
 <translation id="7982789257301363584">Rede</translation>
 <translation id="7987685713885608670">Para dispoñer dunha maior seguranza, os teus contrasinais encríptanse no dispositivo antes de gardarse no xestor de contrasinais de Google.</translation>
 <translation id="7993619969781047893">As funcións dalgúns sitios poden deixar de funcionar</translation>
-<translation id="800361585186029508">Abre os URL introducidos en Google Chrome.</translation>
+<translation id="800361585186029508">Abre os URL introducidos en Google Egon.</translation>
 <translation id="8016714545083187120">Usar sempre conexións seguras</translation>
 <translation id="802154636333426148">Produciuse un erro na descarga</translation>
 <translation id="8023878949384262191">Amplía a sección.</translation>
@@ -942,7 +942,7 @@ Tamén poden utilizalas para ver a túa actividade de navegación en varios siti
 <translation id="804225253087497565">Cando teñas a sesión iniciada, é posible que se garden na túa Conta de Google o <ph name="BEGIN_LINK" />historial de busca<ph name="END_LINK" /> e <ph name="BEGIN_LINK" />outros datos da túa actividade<ph name="END_LINK" />. Podes eliminalos en calquera momento.</translation>
 <translation id="804427445359061970">Aquí atoparás as túas pestanas doutros dispositivos</translation>
 <translation id="8059533439631660104">Contrae a sección.</translation>
-<translation id="8065292699993359127">Abrir URL en Chrome no modo de incógnito</translation>
+<translation id="8065292699993359127">Abrir URL en Egon no modo de incógnito</translation>
 <translation id="806745655614357130">Conservar os meus datos por separado</translation>
 <translation id="8073670137947914548">A descarga finalizou</translation>
 <translation id="8073872304774253879">Mellorar as buscas e a navegación</translation>
@@ -956,7 +956,7 @@ Tamén poden utilizalas para ver a túa actividade de navegación en varios siti
 <translation id="8114753159095730575">Podes descargar ficheiros. Tes opcións dispoñibles na parte inferior da pantalla.</translation>
 <translation id="81313319706244542">2. Toca Passwords (Contrasinais)</translation>
 <translation id="8132598642024322408">Agora: <ph name="PRICE" />. Antes: <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Usarase para crear eventos no teu calendario de Apple desde Chrome e Google Lens.</translation>
+<translation id="8136856065410661948">Usarase para crear eventos no teu calendario de Apple desde Egon e Google Lens.</translation>
 <translation id="8156478151976189188">A sincronización de contrasinais non funciona</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> contas</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Os teus dispositivos<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Tamén poden utilizalas para ver a túa actividade de navegación en varios siti
 <translation id="8533670235862049797">A opción Navegación segura está activada</translation>
 <translation id="8534481786647257214">Completouse a publicación en Google+.</translation>
 <translation id="8548878600947630424">Buscar na páxina...</translation>
-<translation id="8558480467877843976">Agora podes usar Chrome sempre que explores contido ou toques ligazóns en mensaxes, documentos e outras aplicacións.</translation>
+<translation id="8558480467877843976">Agora podes usar Egon sempre que explores contido ou toques ligazóns en mensaxes, documentos e outras aplicacións.</translation>
 <translation id="8588404856427128947">Desactivada</translation>
 <translation id="8590913940444621808">Non preguntar nunca</translation>
 <translation id="8591976964826315682">Bloquear cookies de terceiros no modo de incógnito</translation>
@@ -1043,7 +1043,7 @@ Tamén poden utilizalas para ver a túa actividade de navegación en varios siti
 <translation id="8876882697946675716">Mantén sincronizados os teus dispositivos</translation>
 <translation id="8877287418679067891">Definir como opción predeterminada na configuración…</translation>
 <translation id="8881801611828450202">Buscar esta imaxe en <ph name="SEARCH_ENGINE" /></translation>
-<translation id="8891935667620843985">Se configuras Chrome como aplicación de navegador predeterminada, poderás abrir ligazóns nel automaticamente.</translation>
+<translation id="8891935667620843985">Se configuras Egon como aplicación de navegador predeterminada, poderás abrir ligazóns nel automaticamente.</translation>
 <translation id="8898822736010347272">Envía os URL dalgunhas páxinas que visites, información limitada do sistema e certo contido das páxinas a Google para axudar a descubrir novas ameazas e protexer todos os usuarios da Web.</translation>
 <translation id="890565330728586731">Atrás</translation>
 <translation id="8909135823018751308">Compartir...</translation>
@@ -1068,11 +1068,11 @@ Tamén poden utilizalas para ver a túa actividade de navegación en varios siti
 <translation id="9055960261314198756">A protección mellorada está desactivada</translation>
 <translation id="9057972802061533987">Non se puido seguir o contido. Produciuse un erro.</translation>
 <translation id="9065203028668620118">Editar</translation>
-<translation id="9068336935206019333">Abrir no modo de incógnito de Chrome</translation>
+<translation id="9068336935206019333">Abrir no modo de incógnito de Egon</translation>
 <translation id="9079935439869366234">Marcar todo como non lido</translation>
 <translation id="9081058212938299310">Queres actualizar o contrasinal do usuario <ph name="USERNAME" />?</translation>
 <translation id="9083838294503912307">Para sincronizar e personalizar todos os teus dispositivos, activa a sincronización.</translation>
-<translation id="9087108903408689779">Contrasinal suxerido por Chrome:</translation>
+<translation id="9087108903408689779">Contrasinal suxerido por Egon:</translation>
 <translation id="9093271241977565440">Na parte superior da pantalla, toca a icona da Busca</translation>
 <translation id="9094033019050270033">Actualizar contrasinal</translation>
 <translation id="9097506547406246598">Non se puido deixar de seguir o contido. Produciuse un erro.</translation>
@@ -1089,7 +1089,7 @@ Tamén poden utilizalas para ver a túa actividade de navegación en varios siti
 <translation id="9223358826628549784">Enviouse o informe de erros.</translation>
 <translation id="941747855997058526">Seleccionar contrasinal…</translation>
 <translation id="952704832371081537">Cancelar</translation>
-<translation id="953008885340860025">Pechouse sesión en Chrome</translation>
+<translation id="953008885340860025">Pechouse sesión en Egon</translation>
 <translation id="959066944189734975">Segues a <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">A túa organización só che permite iniciar sesión con certas contas. As contas que non están permitidas atópanse ocultas.</translation>
 <translation id="984509647832111802">A sincronización non funciona.</translation>

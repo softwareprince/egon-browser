@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">ਤੁਹਾਡੀਆਂ <ph name="NUMBER_OF_TABS" /> ਟੈਬਾਂ ਦੀ ਹਾਲ ਹੀ ਵਿੱਚ ਵਰਤੋਂ ਨਹੀਂ ਹੋਈ। ਕੀ ਉਹਨਾਂ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?</translation>
 <translation id="1181037720776840403">ਹਟਾਓ</translation>
 <translation id="125153950246128346">ਕਿਸੇ ਹੋਰ ਟੈਬ ਨੂੰ ਦੇਖਣ ਲਈ ਟੈਪ ਕਰੋ</translation>
-<translation id="1403228085774130835">ਤੁਸੀਂ Chrome ਦੇ ਮੁੱਖ ਮੀਨੂ ਦੇ ਅਧੀਨ 'ਹਾਲੀਆ ਟੈਬਾਂ' ਵਿੱਚ ਆਪਣੀਆਂ ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਲੱਭ ਸਕਦੇ ਹੋ</translation>
+<translation id="1403228085774130835">ਤੁਸੀਂ Egon ਦੇ ਮੁੱਖ ਮੀਨੂ ਦੇ ਅਧੀਨ 'ਹਾਲੀਆ ਟੈਬਾਂ' ਵਿੱਚ ਆਪਣੀਆਂ ਬੰਦ ਕੀਤੀਆਂ ਟੈਬਾਂ ਲੱਭ ਸਕਦੇ ਹੋ</translation>
 <translation id="1455506303394048917">ਇਨ੍ਹਾਂ ਇਨਕੋਗਨਿਟੋ ਟੈਬਾਂ ਵਿਚਲੀ ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਨੂੰ ਇਸ ਡੀਵਾਈਸ ਤੋਂ ਕਲੀਅਰ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ</translation>
 <translation id="1499635324672558517">ਕੀ ਸਾਰੀਆਂ ਇਨਕੋਗਨਿਟੋ ਟੈਬਾਂ ਨੂੰ ਬੰਦ ਕਰਨਾ ਹੈ?</translation>
 <translation id="1657719826150349398">ਟੈਬ ਨੂੰ ਹੇਠਾਂ ਲਿਜਾਓ</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">ਸਟੋਰ ਦੀ ਜਾਣਕਾਰੀ ਦੇਖੋ, ਇਹ ਵਿਕਲਪ ਸਕ੍ਰੀਨ ਦੇ ਸਿਖਰ ਦੇ ਨੇੜੇ ਉਪਲਬਧ ਹੈ</translation>
 <translation id="5558362125926932819"><ph name="NUMBER_OF_TABS" /> ਟੈਬਾਂ ਵਾਲੇ ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਬੰਦ ਕਰੋ</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> ਟੈਬਾਂ ਗਰੁੱਪਬੱਧ ਕੀਤੀਆਂ ਗਈਆਂ</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Chrome ਤੋਂ <ph name="TABS_COUNT_ONE" /> ਲਿੰਕ}one{Chrome ਤੋਂ <ph name="TABS_COUNT_MANY" /> ਲਿੰਕ}other{Chrome ਤੋਂ <ph name="TABS_COUNT_MANY" /> ਲਿੰਕ}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Egon ਤੋਂ <ph name="TABS_COUNT_ONE" /> ਲਿੰਕ}one{Egon ਤੋਂ <ph name="TABS_COUNT_MANY" /> ਲਿੰਕ}other{Egon ਤੋਂ <ph name="TABS_COUNT_MANY" /> ਲਿੰਕ}}</translation>
 <translation id="575494663145460764">ਕੀਮਤ ਘਟਣ 'ਤੇ ਸੁਚੇਤਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</translation>
 <translation id="58326064309361797">ਟੈਬਾਂ ਨੂੰ ਇਕੱਠਾ ਕਰਨ ਲਈ ਉਹਨਾਂ ਨੂੰ ਘਸੀਟੋ</translation>
 <translation id="5846292395804797011"><ph name="NUMBER_OF_TABS" /> ਟੈਬਾਂ ਵਾਲੇ <ph name="TITLE_OF_GROUP" /> ਗਰੁੱਪ ਨੂੰ ਬੰਦ ਕਰੋ</translation>

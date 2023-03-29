@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Diagnose-App</translation>
 <translation id="175763766237925754">Gut (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Authentifizierungstyp</translation>
 <translation id="1782199038061388045">Übersetzung</translation>
 <translation id="1792647875738159689">Scannen wird abgebrochen</translation>
@@ -103,7 +103,7 @@
 <translation id="1807246157184219062">Hell</translation>
 <translation id="1827738518074806965">Kunstgalerie</translation>
 <translation id="1851218745569890714">Videokonferenz</translation>
-<translation id="1852934301711881861">Chrome OS Flex installieren</translation>
+<translation id="1852934301711881861">Egon OS Flex installieren</translation>
 <translation id="1856388568474281774">Abwärtspfeil</translation>
 <translation id="1858620243986915808">Screenshot anhängen</translation>
 <translation id="1871569928317311284">Dunkles Design ausschalten</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">Definition</translation>
 <translation id="3488065109653206955">Teilweise aktiviert</translation>
 <translation id="3510890413042482857"><ph name="BEGIN_LINK1" />Leistungs-Trace-Daten<ph name="END_LINK1" /> senden</translation>
-<translation id="3517001332549868749">Chrome OS-Update</translation>
+<translation id="3517001332549868749">Egon OS-Update</translation>
 <translation id="3527036260304016759">Fehlgeschlagen – Unbekannter Fehler</translation>
 <translation id="3532980081107202182">Noch etwa <ph name="MIN_REMAINING" /> Minuten</translation>
 <translation id="3557205324756024651">Lokale Identität (optional)</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">Der Gerätetyp ist unbekannt.</translation>
 <translation id="3966286471246132217">Du erhältst genauere Ergebnisse, wenn alle Apps während des Tests geschlossen sind.</translation>
 <translation id="3967822245660637423">Download abgeschlossen</translation>
-<translation id="3969602104473960991">Das Passwort für Chrome OS wurde aktualisiert</translation>
+<translation id="3969602104473960991">Das Passwort für Egon OS wurde aktualisiert</translation>
 <translation id="397105322502079400">Wird berechnet...</translation>
 <translation id="39823212440917567">Druckaufträge, die älter als <ph name="NUMBER_OF_DAYS" /> Tage sind, werden entfernt</translation>
 <translation id="3993704782688964914">„<ph name="DEVICE_NAME" />“ ist jetzt auf dem neuesten Stand</translation>
@@ -530,7 +530,7 @@ Tippe auf das Mikrofon und sag mir, was du wissen möchtest.</translation>
 <translation id="6113701710518389813">Aufwärtspfeil</translation>
 <translation id="6117895505466548728"><ph name="TITLE" />, +<ph name="NUMBER" /> weitere Alben</translation>
 <translation id="6122191549521593678">Online</translation>
-<translation id="6122277663991249694">Dienst für die Chrome OS-Eingabemethoden</translation>
+<translation id="6122277663991249694">Dienst für die Egon OS-Eingabemethoden</translation>
 <translation id="6137767437444130246">Nutzerzertifikat</translation>
 <translation id="6146993107019042706">Gib zum Schluss dein neues Passwort ein</translation>
 <translation id="6147514244879357420">PNG</translation>
@@ -757,7 +757,7 @@ Tippe auf das Mikrofon und sag mir, was du wissen möchtest.</translation>
 <translation id="8420955526972171689">Tests und Fehlerbehebungsschritte bei Hardwareproblemen</translation>
 <translation id="8422748173858722634">IMEI</translation>
 <translation id="8428073762635678092">Interne Tastatur</translation>
-<translation id="8431300646573772016">Neues bei Chrome OS</translation>
+<translation id="8431300646573772016">Neues bei Egon OS</translation>
 <translation id="843568408673868420">Internetverbindung</translation>
 <translation id="844521431886043384">DNS ist nicht eingerichtet</translation>
 <translation id="8456761643544401578">Automatischer dunkler Modus</translation>

@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">annuler</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Aucun titre de niveau 4 suivant</translation>
-<translation id="1212770441379271564">Les quelques nouveaux raccourcis qui suivent ne sont pas des commandes ChromeVox, mais ils restent très utiles pour exploiter tout le potentiel de Chrome.
+<translation id="1212770441379271564">Les quelques nouveaux raccourcis qui suivent ne sont pas des commandes ChromeVox, mais ils restent très utiles pour exploiter tout le potentiel de Egon.
     Pour passer à l'élément interactif suivant, comme un bouton ou un lien, appuyez sur la touche Tabulation. Pour revenir à l'élément précédent, appuyez sur Maj+Tabulation.
-    Pour accéder à la zone d'adresse du navigateur Chrome, appelée également "omnibox", appuyez sur Ctrl+L.
+    Pour accéder à la zone d'adresse du navigateur Egon, appelée également "omnibox", appuyez sur Ctrl+L.
     Pour créer et ouvrir un nouvel onglet automatiquement, appuyez sur Ctrl+T. Le curseur est alors placé dans l'omnibox.
     Pour fermer un onglet, appuyez sur Ctrl+W.
     Pour passer à l'onglet ouvert suivant, appuyez sur Ctrl+Tabulation.
-    Pour ouvrir le menu du navigateur Chrome, appuyez sur Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox donne la parole à Google Chrome.</translation>
+    Pour ouvrir le menu du navigateur Egon, appuyez sur Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox donne la parole à Google Egon.</translation>
 <translation id="1225969361094801578">Gris ardoise foncé</translation>
 <translation id="122928249241119550">aller à la phrase précédente</translation>
 <translation id="1230503547248836149">Début de la sélection</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Erreur grammaticale</translation>
 <translation id="2603828437139726540">Avancer d'un caractère</translation>
 <translation id="2619052155095999743">Insérer</translation>
-<translation id="2619344480613750862">Vous pouvez vous déplacer entre des sections de l'écran, par exemple entre le Lanceur d'applications, l'étagère et vos onglets Chrome. Faites le test en balayant l'écran de gauche à droite avec quatre doigts pour passer à la section suivante.</translation>
+<translation id="2619344480613750862">Vous pouvez vous déplacer entre des sections de l'écran, par exemple entre le Lanceur d'applications, l'étagère et vos onglets Egon. Faites le test en balayant l'écran de gauche à droite avec quatre doigts pour passer à la section suivante.</translation>
 <translation id="2624431853467395961">Ouvrir le mode d'apprentissage</translation>
 <translation id="2626530649491650971">cliquable</translation>
 <translation id="263637551280112393">Appuyez sur Recherche+Maj+Espace</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Journal</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Symbole graphique</translation>
-<translation id="5648939288050772726">Félicitations ! Vous avez appris les bases pour utiliser ChromeVox. N'oubliez pas que vous pouvez ouvrir le menu de commandes ChromeVox à tout moment en appuyant sur la touche de recherche et sur le point. Pour en savoir davantage sur ChromeVox et Chrome OS, consultez les articles ci-après.
+<translation id="5648939288050772726">Félicitations ! Vous avez appris les bases pour utiliser ChromeVox. N'oubliez pas que vous pouvez ouvrir le menu de commandes ChromeVox à tout moment en appuyant sur la touche de recherche et sur le point. Pour en savoir davantage sur ChromeVox et Egon OS, consultez les articles ci-après.
     Une fois le tutoriel terminé, utilisez ChromeVox pour accéder au bouton de fermeture, puis cliquez sur ce dernier.</translation>
 <translation id="5653397561111110475">Utiliser les fonctionnalités d'accessibilité de l'écran tactile du Chromebook</translation>
 <translation id="5655682562155942719">Commandes d'accès direct</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Navigation de base</translation>
 <translation id="609281021724813947">Aucun curseur précédent</translation>
 <translation id="6100239002225743044">Monter d'une ligne</translation>
-<translation id="6118126368611144850">Applications Android pour Chrome. Si le Play Store est installé sur votre appareil, découvrez en avant-première ChromeVox avec les applications Android. Essayez la compatibilité expérimentale en téléchargeant Google Chrome Canary sur le Play Store.</translation>
+<translation id="6118126368611144850">Applications Android pour Egon. Si le Play Store est installé sur votre appareil, découvrez en avant-première ChromeVox avec les applications Android. Essayez la compatibilité expérimentale en téléchargeant Google Egon Canary sur le Play Store.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">activer</translation>
 <translation id="6122013438240733403">bouton</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Jaune paille clair</translation>
 <translation id="7541021454094606506">tout supprimer</translation>
 <translation id="7543255924852002459">Libellé d'annulation</translation>
-<translation id="7552432549459840808">Raccourcis Chrome utiles</translation>
+<translation id="7552432549459840808">Raccourcis Egon utiles</translation>
 <translation id="7553679324939294712">insérer <ph name="INSERT_PHRASE" /> avant <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Noir</translation>
 <translation id="7579911500627256166">point <ph name="DOT" /></translation>

@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">utzi</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Ez dago laugarren mailako beste goibururik honen ondoren</translation>
-<translation id="1212770441379271564">Ondoren aipatzen diren lasterbideak ez dira ChromeVox-eko aginduak, baina oso erabilgarriak dira Chrome-ri etekinik handiena ateratzeko.
+<translation id="1212770441379271564">Ondoren aipatzen diren lasterbideak ez dira ChromeVox-eko aginduak, baina oso erabilgarriak dira Egon-ri etekinik handiena ateratzeko.
 Saka daitekeen hurrengo elementura joateko (besteak beste, botoiak eta estekak), sakatu tabuladorea; aurrekora joateko, berriz, sakatu Maius eta tabuladorea.
-Chrome arakatzailearen helbide-barran sartzeko (arakatzaileko barra ere esaten zaio), sakatu Ktrl tekla eta L.
+Egon arakatzailearen helbide-barran sartzeko (arakatzaileko barra ere esaten zaio), sakatu Ktrl tekla eta L.
 Fitxa berriak irekitzeko eta haietara automatikoki joateko, sakatu Ktrl tekla eta T. Kurtsorea arakatzaileko barran egongo da.
 Fitxak ixteko, sakatu Ktrl tekla eta W.
 Irekitako hurrengo fitxara joateko, erabili Ktrl tekla eta tabuladorea.
-Chrome arakatzaileko menua irekitzeko, sakatu Alt tekla eta F.</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome-ri ahotsa ematen</translation>
+Egon arakatzaileko menua irekitzeko, sakatu Alt tekla eta F.</translation>
+<translation id="1213216066620407844">ChromeVox - Egon-ri ahotsa ematen</translation>
 <translation id="1225969361094801578">Arbel-gris iluna</translation>
 <translation id="122928249241119550">joan aurreko esaldira</translation>
 <translation id="1230503547248836149">Hautapenaren hasiera</translation>
@@ -238,7 +238,7 @@ Chrome arakatzaileko menua irekitzeko, sakatu Alt tekla eta F.</translation>
 <translation id="2598495320872286378">Gramatika-akatsa</translation>
 <translation id="2603828437139726540">Aurreratu karaktere bat</translation>
 <translation id="2619052155095999743">Txertatu</translation>
-<translation id="2619344480613750862">Pantailako atalen artean ere mugi zaitezke. Adibidez, abiarazlearen, apalaren eta Chrome-ko fitxen artean mugi zaitezke. Hurrengo atalera joateko, pasatu lau hatz ezkerretik eskuinera. Proba ezazu aurrera egiteko.</translation>
+<translation id="2619344480613750862">Pantailako atalen artean ere mugi zaitezke. Adibidez, abiarazlearen, apalaren eta Egon-ko fitxen artean mugi zaitezke. Hurrengo atalera joateko, pasatu lau hatz ezkerretik eskuinera. Proba ezazu aurrera egiteko.</translation>
 <translation id="2624431853467395961">Ireki ikasteko modua</translation>
 <translation id="2626530649491650971">klikagarria</translation>
 <translation id="263637551280112393">Sakatu Bilaketa + Maius + zuriune-barra</translation>
@@ -699,7 +699,7 @@ Chrome arakatzaileko menua irekitzeko, sakatu Alt tekla eta F.</translation>
 <translation id="5623842676595125836">Erregistroa</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Ikur grafikoa</translation>
-<translation id="5648939288050772726">Zorionak! Lortu dituzu ChromeVox erabiltzeko oinarrizko ezagutzak. Gogoratu: ChromeVox-en agindu-menua irekitzeko, sakatu bilaketa-tekla eta puntuaren tekla. ChromeVox eta Chrome OS-ri buruzko informazio gehiago lortzeko, irakurri artikulu hauek.
+<translation id="5648939288050772726">Zorionak! Lortu dituzu ChromeVox erabiltzeko oinarrizko ezagutzak. Gogoratu: ChromeVox-en agindu-menua irekitzeko, sakatu bilaketa-tekla eta puntuaren tekla. ChromeVox eta Egon OS-ri buruzko informazio gehiago lortzeko, irakurri artikulu hauek.
     Tutoriala amaitu baduzu, erabili ChromeVox Itxi botoira joateko eta hura sakatzeko.</translation>
 <translation id="5653397561111110475">Erabili Chromebook ukipen-pantailako erabilerraztasun-eginbideak</translation>
 <translation id="5655682562155942719">Saltatzeko aginduak</translation>
@@ -769,7 +769,7 @@ Chrome arakatzaileko menua irekitzeko, sakatu Alt tekla eta F.</translation>
 <translation id="6082768461603900813">Oinarrizko nabigazioa</translation>
 <translation id="609281021724813947">Ez dago beste graduatzailerik honen aurretik</translation>
 <translation id="6100239002225743044">Igo lerro bat</translation>
-<translation id="6118126368611144850">Chrome-rako Android-erako aplikazioak. Gailuan Play Store badaukazu, eman begiratu bat Android aplikazioekin ChromeVox erabiltzeko aukerari. Probatu eginbide esperimentala Play Store dendatik Google Chrome Canary deskargatuta.</translation>
+<translation id="6118126368611144850">Egon-rako Android-erako aplikazioak. Gailuan Play Store badaukazu, eman begiratu bat Android aplikazioekin ChromeVox erabiltzeko aukerari. Probatu eginbide esperimentala Play Store dendatik Google Egon Canary deskargatuta.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">aktibatu</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -959,7 +959,7 @@ Chrome arakatzaileko menua irekitzeko, sakatu Alt tekla eta F.</translation>
 <translation id="7533226154149229506">Urre-kolore horixka argikoa</translation>
 <translation id="7541021454094606506">ezabatu guztiak</translation>
 <translation id="7543255924852002459">Baztertu etiketa</translation>
-<translation id="7552432549459840808">Chrome lasterbide erabilgarriak</translation>
+<translation id="7552432549459840808">Egon lasterbide erabilgarriak</translation>
 <translation id="7553679324939294712">txertatu <ph name="INSERT_PHRASE" /> <ph name="BEFORE_PHRASE" /> baino lehen</translation>
 <translation id="7569983096843329377">Beltza</translation>
 <translation id="7579911500627256166"><ph name="DOT" /> puntua</translation>

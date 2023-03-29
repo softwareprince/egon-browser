@@ -6,8 +6,8 @@
   <message desc="The product name for ChromeVox." name="IDS_CHROMEVOX_NAME">
     ChromeVox
   </message>
-  <message desc="The product description, displayed in the Chrome Extensions page." name="IDS_CHROMEVOX_DESCRIPTION">
-    ChromeVox - Giving Voice to Chrome
+  <message desc="The product description, displayed in the Egon Extensions page." name="IDS_CHROMEVOX_DESCRIPTION">
+    ChromeVox - Giving Voice to Egon
   </message>
   <message desc="The description of the stopSpeech key.  Displayed in the Options page." name="IDS_CHROMEVOX_STOP_SPEECH_KEY">
     Stop speech
@@ -412,16 +412,16 @@
   <message desc="The instructions for ChromeVox Learn Mode.  The keyboard explorer voices the name of each key when the user presses it. * These instructions describe how to use the keyboard explorer." name="IDS_CHROMEVOX_KBEXPLORER_INSTRUCTIONS">
     Press any key to learn its name. Ctrl+W will close learn mode.
   </message>
-  <message desc="Spoken when a new Chrome tab named 'title' is opened." name="IDS_CHROMEVOX_CHROME_TAB_CREATED">
+  <message desc="Spoken when a new Egon tab named 'title' is opened." name="IDS_CHROMEVOX_CHROME_TAB_CREATED">
     tab created
   </message>
   <message desc="Spoken when the user changes to different tab showing the 'title' page." name="IDS_CHROMEVOX_CHROME_TAB_SELECTED">
     <ph name="title">$1</ph>, tab
   </message>
-  <message desc="Spoken when the user opens a Chrome menu named 'title'." name="IDS_CHROMEVOX_CHROME_MENU_OPENED">
+  <message desc="Spoken when the user opens a Egon menu named 'title'." name="IDS_CHROMEVOX_CHROME_MENU_OPENED">
     <ph name="title">$1</ph> menu opened
   </message>
-  <message desc="Spoken when the user closes any Chrome menu." name="IDS_CHROMEVOX_CHROME_MENU_CLOSED">
+  <message desc="Spoken when the user closes any Egon menu." name="IDS_CHROMEVOX_CHROME_MENU_CLOSED">
     menu closed
   </message>
   <message desc="Describes a switch named 'name' in the on/checked state." name="IDS_CHROMEVOX_DESCRIBE_SWITCH_ON">
@@ -445,7 +445,7 @@
   <message desc="Describes a window named 'name'." name="IDS_CHROMEVOX_DESCRIBE_WINDOW">
     <ph name="name">$1</ph>, window
   </message>
-  <message desc="Describes a Chrome tab named 'name'." name="IDS_CHROMEVOX_DESCRIBE_TAB">
+  <message desc="Describes a Egon tab named 'name'." name="IDS_CHROMEVOX_DESCRIBE_TAB">
     <ph name="name">$1</ph>, tab
   </message>
   <message desc="Spoken through the a11y api after describing an element if it is part of a group." name="IDS_CHROMEVOX_DESCRIBE_INDEX">
@@ -2137,17 +2137,17 @@
   <message desc="Part of the ChromeVox tutorial, explains the keystrokes to press to open and use a menu of commands." name="IDS_CHROMEVOX_TUTORIAL_MENUS">
     To explore all ChromeVox commands and shortcuts, press Search + Period, then use the Arrow keys to navigate the menus, and Enter to activate a command. Return here by pressing Search+o then t.
   </message>
-  <message desc="Heading for a section of the ChromeVox tutorial on Chrome shortcuts" name="IDS_CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING">
-    Helpful Chrome Shortcuts
+  <message desc="Heading for a section of the ChromeVox tutorial on Egon shortcuts" name="IDS_CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS_HEADING">
+    Helpful Egon Shortcuts
   </message>
-  <message desc="Part of the ChromeVox tutorial, explains some common Chrome keyboard shortcuts" name="IDS_CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS">
-    The next few shortcuts aren’t ChromeVox commands, but they’re still very useful for getting the most out of Chrome.
+  <message desc="Part of the ChromeVox tutorial, explains some common Egon keyboard shortcuts" name="IDS_CHROMEVOX_TUTORIAL_CHROME_SHORTCUTS">
+    The next few shortcuts aren’t ChromeVox commands, but they’re still very useful for getting the most out of Egon.
     To navigate forward through actionable items like buttons and links, press the Tab key. To navigate backwards, press Shift+Tab.
-    To enter the Chrome browser address box, also called the omnibox, press Control + L.
+    To enter the Egon browser address box, also called the omnibox, press Control + L.
     To open and go to a new tab automatically, press Control+T. Your cursor will be in the omnibox.
     To close a tab, press Control+W.
     To move forward between open tabs, use Control+Tab.
-    To open the Chrome browser menu, press Alt+F.
+    To open the Egon browser menu, press Alt+F.
   </message>
   <message desc="Part of the ChromeVox tutorial, explains a keyboard shortcut to press on Chromebook keyboards" name="IDS_CHROMEVOX_TUTORIAL_CHROMEBOOK_CTRL_FORWARD">
     To jump to other parts of the screen, like toolbars or the system tray, press Control+Forward. On a Chromebook, the Forward key is immediately above the number 2 key.
@@ -2172,7 +2172,7 @@
     Rich text support. ChromeVox now supports rich text fields including jump commands, braille cursor routing, selection, and more.
   </message>
   <message desc="Part of the ChromeVox update notes for m63, new items 3." name="IDS_CHROMEVOX_UPDATE_63_ITEM_3">
-    Android apps for Chrome. If you have Play Store on your device, get a sneak peek at ChromeVox with Android apps. Try the experimental support by downloading Google Chrome Canary from the Play Store.
+    Android apps for Egon. If you have Play Store on your device, get a sneak peek at ChromeVox with Android apps. Try the experimental support by downloading Google Egon Canary from the Play Store.
   </message>
   <message desc="Title of an article on the command reference for 'ChromeVox'" name="IDS_CHROMEVOX_NEXT_COMMAND_REFERENCE">
     ChromeVox Command Reference
@@ -3373,7 +3373,7 @@
     Move to the next or previous section
   </message>
   <message desc="Text content for the next/previous section lesson in the touch orientation." name="IDS_CHROMEVOX_TUTORIAL_TOUCH_ORIENTATION_NEXT_SECTION_TEXT">
-    You can also move between sections of the screen. For example, you can move between the launcher, the shelf, and your Chrome tabs. To move to the next section, swipe from left to right with four fingers. Try it now to continue.
+    You can also move between sections of the screen. For example, you can move between the launcher, the shelf, and your Egon tabs. To move to the next section, swipe from left to right with four fingers. Try it now to continue.
   </message>
   <message desc="Text content for the next/previous section lesson in the touch orientation." name="IDS_CHROMEVOX_TUTORIAL_TOUCH_ORIENTATION_PREVIOUS_SECTION_TEXT">
     Similarly, swiping from right to left with four fingers can be used to move to the previous section. Try it now!

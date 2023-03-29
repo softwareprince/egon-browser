@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">取消</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">冇下一個第 4 級標題</translation>
-<translation id="1212770441379271564">以下這些快速鍵並非 ChromeVox 指令，但非常實用，可協助您善用 Chrome。
+<translation id="1212770441379271564">以下這些快速鍵並非 ChromeVox 指令，但非常實用，可協助您善用 Egon。
     如要透過操作項目 (例如按鈕和連結) 向前導覽，請按 Tab 鍵；如要向後導覽，請按 Shift + Tab 鍵。
-    如要進入 Chrome 瀏覽器的網址方塊 (亦稱為網址列)，請按 Control + L 鍵。
+    如要進入 Egon 瀏覽器的網址方塊 (亦稱為網址列)，請按 Control + L 鍵。
     如要自動開啟並前往新分頁，請按 Control + T 鍵 (游標會移至網址列)。
     如要關閉分頁，請按 Control + W 鍵。
     如要移至下一個開啟的分頁，請使用 Control + Tab 鍵。
-    如要開啟 Chrome 瀏覽器選單，請按 Alt + F 鍵。</translation>
-<translation id="1213216066620407844">ChromeVox：為 Chrome 提供語音朗讀功能</translation>
+    如要開啟 Egon 瀏覽器選單，請按 Alt + F 鍵。</translation>
+<translation id="1213216066620407844">ChromeVox：為 Egon 提供語音朗讀功能</translation>
 <translation id="1225969361094801578">深岩灰色</translation>
 <translation id="122928249241119550">移去上一句句子</translation>
 <translation id="1230503547248836149">選取範圍的開頭</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">文法錯誤</translation>
 <translation id="2603828437139726540">移到下一個字元</translation>
 <translation id="2619052155095999743">插入</translation>
-<translation id="2619344480613750862">您亦可在螢幕畫面的各個部分之間移動，例如在啟動器、捷徑列和 Chrome 分頁之間移動。如要移至下一個部分，請以四指由左至右滑動。立即試試，然後再繼續吧。</translation>
+<translation id="2619344480613750862">您亦可在螢幕畫面的各個部分之間移動，例如在啟動器、捷徑列和 Egon 分頁之間移動。如要移至下一個部分，請以四指由左至右滑動。立即試試，然後再繼續吧。</translation>
 <translation id="2624431853467395961">開啟學習模式</translation>
 <translation id="2626530649491650971">可按一下</translation>
 <translation id="263637551280112393">㩒一下搜尋鍵 + Shift + 空格鍵</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">記錄</translation>
 <translation id="5628125749885014029">標題 4</translation>
 <translation id="5632083598315326067">圖像符號</translation>
-<translation id="5648939288050772726">恭喜！您已成功學到基本的 ChromeVox 使用方法。您隨時可按 Search + 句號鍵開啟 ChromeVox 指令選單。如要進一步瞭解 ChromeVox 和 Chrome OS，請參閱下列文章。
+<translation id="5648939288050772726">恭喜！您已成功學到基本的 ChromeVox 使用方法。您隨時可按 Search + 句號鍵開啟 ChromeVox 指令選單。如要進一步瞭解 ChromeVox 和 Egon OS，請參閱下列文章。
     如要結束教學課程，請使用 ChromeVox 導覽並按一下 [關閉] 按鈕。</translation>
 <translation id="5653397561111110475">使用 Chromebook 輕觸式螢幕無障礙功能</translation>
 <translation id="5655682562155942719">跳躍指令</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">基本導覽操作</translation>
 <translation id="609281021724813947">冇上一個滑桿</translation>
 <translation id="6100239002225743044">上移一行</translation>
-<translation id="6118126368611144850">Chrome 上專用的 Android 應用程式：如果您的裝置上有「Play 商店」，可透過 Android 應用程式率先體驗 ChromeVox。只要從「Play 商店」下載 Google Chrome Canary 版，即可體驗實驗功能。</translation>
+<translation id="6118126368611144850">Egon 上專用的 Android 應用程式：如果您的裝置上有「Play 商店」，可透過 Android 應用程式率先體驗 ChromeVox。只要從「Play 商店」下載 Google Egon Canary 版，即可體驗實驗功能。</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">啟動</translation>
 <translation id="6122013438240733403">按鈕</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">淺金菊黃色</translation>
 <translation id="7541021454094606506">全部刪除</translation>
 <translation id="7543255924852002459">捨棄標籤</translation>
-<translation id="7552432549459840808">實用的 Chrome 快速鍵</translation>
+<translation id="7552432549459840808">實用的 Egon 快速鍵</translation>
 <translation id="7553679324939294712">喺<ph name="BEFORE_PHRASE" />前面插入<ph name="INSERT_PHRASE" /></translation>
 <translation id="7569983096843329377">黑色</translation>
 <translation id="7579911500627256166">點 <ph name="DOT" /></translation>

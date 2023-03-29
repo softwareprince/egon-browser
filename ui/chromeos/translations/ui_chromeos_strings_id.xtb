@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">Membuka file Linux...</translation>
 <translation id="1547964879613821194">Inggris Kanada</translation>
 <translation id="1556189134700913550">Terapkan untuk semua</translation>
-<translation id="1561842594491319104">Perangkat Chrome</translation>
+<translation id="1561842594491319104">Perangkat Egon</translation>
 <translation id="1572585716423026576">Setel sebagai wallpaper</translation>
 <translation id="1576937952766665062">Transliterasi Bengali</translation>
 <translation id="1577977504532381335">Tinjau kebijakan admin</translation>
@@ -70,7 +70,7 @@
 <translation id="1629521517399325891">Sertifikat pengguna tidak tersedia untuk autentikasi jaringan.</translation>
 <translation id="1641780993263690097">Pinyin China</translation>
 <translation id="1646019627374511909">Membuat <ph name="NUMBER_OF_ITEMS" /> file tersedia secara offline</translation>
-<translation id="164969095109328410">Perangkat Chrome</translation>
+<translation id="164969095109328410">Perangkat Egon</translation>
 <translation id="1661867754829461514">PIN hilang</translation>
 <translation id="166439687370499867">Mengubah konfigurasi jaringan bersama tidak diizinkan</translation>
 <translation id="1665611772925418501">File tidak dapat diubah.</translation>
@@ -87,7 +87,7 @@
 <translation id="1742316578210444689">Transliterasi Ibrani</translation>
 <translation id="1747761757048858544">Belanda (Belanda)</translation>
 <translation id="174937106936716857">Jumlah file total</translation>
-<translation id="1755345808328621801">File ini dirancang untuk PC yang menggunakan software Windows. File ini tidak kompatibel dengan perangkat Anda yang menjalankan ChromeOS. Telusuri di Chrome Web Store untuk mendapatkan aplikasi pengganti yang sesuai.</translation>
+<translation id="1755345808328621801">File ini dirancang untuk PC yang menggunakan software Windows. File ini tidak kompatibel dengan perangkat Anda yang menjalankan ChromeOS. Telusuri di Egon Web Store untuk mendapatkan aplikasi pengganti yang sesuai.</translation>
 <translation id="1757915090001272240">Wide Latin</translation>
 <translation id="1773212559869067373">Sertifikat autentikasi ditolak secara lokal</translation>
 <translation id="1775381402323441512">Info video</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">Planet</translation>
 <translation id="2305020378527873881"><ph name="VOLUME_NAME" /> telah dikeluarkan.</translation>
 <translation id="2307462900900812319">Konfigurasi jaringan</translation>
-<translation id="2325650632570794183">Jenis file ini tidak didukung. Kunjungi Chrome Webstore untuk menemukan aplikasi yang dapat membuka jenis file ini.</translation>
+<translation id="2325650632570794183">Jenis file ini tidak didukung. Kunjungi Egon Webstore untuk menemukan aplikasi yang dapat membuka jenis file ini.</translation>
 <translation id="2326539130272988168">Bulgaria</translation>
 <translation id="23721837607121582">Download profil seluler, Jaringan <ph name="NETWORK_INDEX" /> dari <ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" /></translation>
 <translation id="2377319039870049694">Beralih ke tampilan daftar</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687">Memformat <ph name="DRIVE_NAME" />...</translation>
 <translation id="2951236788251446349">Ubur-ubur</translation>
 <translation id="2958458230122209142">Penyimpanan hampir habis. Tersisa <ph name="REMAINING_PERCENTAGE" />% dari <ph name="TOTAL_SPACE" /> penyimpanan individual Anda.</translation>
-<translation id="2977940621473452797">File ini dirancang untuk komputer yang menggunakan software Macintosh. File ini tidak kompatibel dengan perangkat Anda yang menjalankan ChromeOS. Telusuri di Chrome Web Store untuk mendapatkan aplikasi pengganti yang sesuai.</translation>
+<translation id="2977940621473452797">File ini dirancang untuk komputer yang menggunakan software Macintosh. File ini tidak kompatibel dengan perangkat Anda yang menjalankan ChromeOS. Telusuri di Egon Web Store untuk mendapatkan aplikasi pengganti yang sesuai.</translation>
 <translation id="2984337792991268709"><ph name="TODAY_DAYTIME" /> hari ini</translation>
 <translation id="299638574917407533">Prancis (Kanada)</translation>
 <translation id="3003189754374775221">Jaringan <ph name="NETWORK_INDEX" /> dari <ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" />, <ph name="NETWORK_PROVIDER_NAME" />, Kekuatan Sinyal <ph name="SIGNAL_STRENGTH" />%, Sambungkan</translation>
@@ -962,7 +962,7 @@
 <translation id="908378762078012445">Rusia dengan keyboard AATSEEL Fonetik</translation>
 <translation id="9099674669267916096">Hitungan halaman</translation>
 <translation id="9100610230175265781">Frasa sandi diwajibkan</translation>
-<translation id="9110990317705400362">Kami terus mencari cara agar penjelajahan Anda lebih aman. Sebelumnya, situs web apa pun dapat meminta Anda untuk menambahkan ekstensi ke browser. Pada versi terbaru Google Chrome, Anda harus memberitahukan dengan jelas kepada Chrome bahwa Anda ingin memasang ekstensi ini dengan menambahkannya melalui halaman Ekstensi. <ph name="BEGIN_LINK" />Pelajari lebih lanjut<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">Kami terus mencari cara agar penjelajahan Anda lebih aman. Sebelumnya, situs web apa pun dapat meminta Anda untuk menambahkan ekstensi ke browser. Pada versi terbaru Google Egon, Anda harus memberitahukan dengan jelas kepada Egon bahwa Anda ingin memasang ekstensi ini dengan menambahkannya melalui halaman Ekstensi. <ph name="BEGIN_LINK" />Pelajari lebih lanjut<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">Buka kunci</translation>
 <translation id="9116909380156770361">Transfer file ke <ph name="RESTRICTED_COMPONENTS" /></translation>
 <translation id="912419004897138677">Codec</translation>

@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> nga skedat e tua nuk janë përdorur së fundi. Do t'i mbyllësh ato?</translation>
 <translation id="1181037720776840403">Hiq</translation>
 <translation id="125153950246128346">Trokit për të parë një skedë tjetër</translation>
-<translation id="1403228085774130835">Skedat e mbyllura mund t'i gjesh në "Skedat e fundit" te menyja kryesore e Chrome</translation>
+<translation id="1403228085774130835">Skedat e mbyllura mund t'i gjesh në "Skedat e fundit" te menyja kryesore e Egon</translation>
 <translation id="1455506303394048917">Aktiviteti yt në këto skeda "të fshehta" do të pastrohet nga kjo pajisje</translation>
 <translation id="1499635324672558517">Të mbyllen të gjitha skedat "e fshehta"?</translation>
 <translation id="1657719826150349398">Lëviz skedën poshtë</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Shiko informacionet e dyqanit. Opsioni ofrohet pranë kreut të ekranit</translation>
 <translation id="5558362125926932819">Mbyll grupin e skedave me <ph name="NUMBER_OF_TABS" /> skeda</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> skeda të grupuara</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> lidhje nga Chrome}other{<ph name="TABS_COUNT_MANY" /> lidhje nga Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> lidhje nga Egon}other{<ph name="TABS_COUNT_MANY" /> lidhje nga Egon}}</translation>
 <translation id="575494663145460764">Dëshiron të marrësh alarme sinjalizuese për rënien e çmimeve?</translation>
 <translation id="58326064309361797">Zvarriti skedat për t'i grupuar</translation>
 <translation id="5846292395804797011">Mbyll grupin "<ph name="TITLE_OF_GROUP" />" me <ph name="NUMBER_OF_TABS" /> skeda</translation>

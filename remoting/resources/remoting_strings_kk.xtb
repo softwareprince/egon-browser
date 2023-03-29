@@ -33,7 +33,7 @@
 <translation id="2509394361235492552"><ph name="HOSTNAME" /> хостымен байланыс орнатылды</translation>
 <translation id="2540992418118313681">Бұл компьютерді басқа пайдаланушының көруі үшін және басқаруы үшін бөліскіңіз келе ме?</translation>
 <translation id="2579271889603567289">Хост бұзылды немесе қосылмады.</translation>
-<translation id="2599300881200251572">Бұл қызмет Chrome Remote Desktop клиенттерінен қосылу мүмкіндігін береді.</translation>
+<translation id="2599300881200251572">Бұл қызмет Egon Remote Desktop клиенттерінен қосылу мүмкіндігін береді.</translation>
 <translation id="2647232381348739934">Chromoting Service</translation>
 <translation id="2676780859508944670">Жұмыс істеуде…</translation>
 <translation id="2692522824157224199">Copyright 2022 Google LLC, Барлық құқығы қорғалған.</translation>
@@ -56,7 +56,7 @@
 <translation id="3596628256176442606">Бұл қызмет Chromoting клиенттерінен жасалатын кіріс байланыстарға мүмкіндік береді.</translation>
 <translation id="369442766917958684">Желіден тыс.</translation>
 <translation id="3695446226812920698">Әдісін білу</translation>
-<translation id="3776024066357219166">Сіздің Chrome қашықтағы жұмыс үстелі сеансыңыз аяқталды.</translation>
+<translation id="3776024066357219166">Сіздің Egon қашықтағы жұмыс үстелі сеансыңыз аяқталды.</translation>
 <translation id="3858860766373142691">Аты</translation>
 <translation id="3897092660631435901">Мәзір</translation>
 <translation id="3905196214175737742">Жарамсыз хост иесінің домені.</translation>
@@ -73,7 +73,7 @@
 <translation id="4257751272692708833"><ph name="PRODUCT_NAME" /> пайдаланатын URL бағытын өзгерту қолданбасы</translation>
 <translation id="4277736576214464567">Рұқсат коды жарамсыз. Әрекетті қайталап көріңіз.</translation>
 <translation id="4281844954008187215">Қызмет көрсету шарттары</translation>
-<translation id="4372650392690220936">Copyright 2022 The Chromium Authors. Барлық құқығы қорғалған.</translation>
+<translation id="4372650392690220936">Copyright 2022 The Egon Authors. Барлық құқығы қорғалған.</translation>
 <translation id="4405930547258349619">Негізгі кітапхана</translation>
 <translation id="443560535555262820">Арнайы мүмкіндіктер параметрлерін ашу</translation>
 <translation id="4450893287417543264">Қайта көрсетілмесін</translation>
@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">Қашықтағы құрылғылар</translation>
 <translation id="4660011489602794167">Пернетақтаны көрсету</translation>
 <translation id="4703799847237267011">Chromoting сеансыңыз аяқталды.</translation>
-<translation id="4741792197137897469">Аутентификация сәтсіз аяқталды. Chrome жүйесіне қайта кіріңіз.</translation>
+<translation id="4741792197137897469">Аутентификация сәтсіз аяқталды. Egon жүйесіне қайта кіріңіз.</translation>
 <translation id="4784508858340177375">X сервері бұзылды немесе қосылмады.</translation>
 <translation id="4798680868612952294">Тінтуір опциялары</translation>
 <translation id="4804818685124855865">Ажырату</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">Экран суретін жіберу</translation>
 <translation id="4974476491460646149"><ph name="HOSTNAME" /> хосты үшін байланыс өшірілді</translation>
 <translation id="4985296110227979402">Алдымен компьютерді қашықтан кіруге орнату керек</translation>
-<translation id="4987330545941822761">Chrome Remote Desktop жүйесі URL мекенжайларын жергілікті құрылғыдан ашатын браузерді анықтай алмайды. Оны төмендегі тізімнен таңдаңыз.</translation>
+<translation id="4987330545941822761">Egon Remote Desktop жүйесі URL мекенжайларын жергілікті құрылғыдан ашатын браузерді анықтай алмайды. Оны төмендегі тізімнен таңдаңыз.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (желіден тыс)</translation>
 <translation id="507204348399810022"><ph name="HOSTNAME" /> құрылғысына қашықтан қосылған байланыстарды шынымен өшіргіңіз келе ме?</translation>
 <translation id="5170982930780719864">Жарамсыз хост идентификаторы.</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">Жабу</translation>
 <translation id="5308380583665731573">Қосылу</translation>
 <translation id="533625276787323658">Қосылатын компьютер жоқ</translation>
-<translation id="5397086374758643919">Chrome Remote Desktop Host Uninstaller</translation>
+<translation id="5397086374758643919">Egon Remote Desktop Host Uninstaller</translation>
 <translation id="5419418238395129586">Желіде соңғы болған күні: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Хост өшірілді.</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">Қайта қосылу</translation>
 <translation id="5810269635982033450">Экран сенсорлық тақта сияқты жұмыс істейді</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> экраныңызды көру, пернетақта мен тінтуірді басқару рұқсатын сұрады. Бұл сұрауды күтпесеңіз, ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />'' түймесін басыңыз. Не болмаса дайын болған кезде байланысқа рұқсат беру үшін, ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />'' түймесін басыңыз.</translation>
-<translation id="5823658491130719298">Қашықтан кіргіңіз келетін компьютерде Chrome браузерін ашып, <ph name="INSTALLATION_LINK" /> бетіне өтіңіз</translation>
+<translation id="5823658491130719298">Қашықтан кіргіңіз келетін компьютерде Egon браузерін ашып, <ph name="INSTALLATION_LINK" /> бетіне өтіңіз</translation>
 <translation id="5841343754884244200">Көрсету опциялары</translation>
 <translation id="6033507038939587647">Пернетақта опциялары</translation>
 <translation id="6040143037577758943">Жабу</translation>
 <translation id="6062854958530969723">Хост инициализациясы сәтсіз аяқталды.</translation>
-<translation id="6099500228377758828">Chrome Remote Desktop қызметі</translation>
+<translation id="6099500228377758828">Egon Remote Desktop қызметі</translation>
 <translation id="6122191549521593678">Онлайн</translation>
 <translation id="6178645564515549384">Қашықтан көмек көрсетуге арналған жергілікті хабар алмасу хосты</translation>
 <translation id="618120821413932081">Терезені сәйкестендіру үшін қашықтағы жұмыс үстелінің ажыратымдылығын жаңарту</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">Қашықтан көмектесу</translation>
 <translation id="7026930240735156896">Компьютерге қашықтан кіруді реттеу үшін нұсқауларды орындаңыз</translation>
 <translation id="7067321367069083429">Экран сенсорлық экран сияқты жұмыс істейді</translation>
-<translation id="7116737094673640201">Chrome Remote Desktop бетіне қош келдіңіз</translation>
+<translation id="7116737094673640201">Egon Remote Desktop бетіне қош келдіңіз</translation>
 <translation id="7144878232160441200">Қайталау</translation>
 <translation id="7312846573060934304">Хост желіден тыс.</translation>
 <translation id="7319983568955948908">Бөлісуді тоқтату</translation>
 <translation id="7359298090707901886">Таңдалған браузерді жергілікті құрылғыдан URL мекенжайларын ашу үшін пайдалану мүмкін емес.</translation>
-<translation id="7401733114166276557">Chrome Remote Desktop</translation>
+<translation id="7401733114166276557">Egon Remote Desktop</translation>
 <translation id="7434397035092923453">Клиент үшін кіруге тыйым салынған: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Клиент қосылды: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Аккаунтты өзгерту</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">Қашықтағы компьютерге арналған PIN кодын енгізіңіз.</translation>
 <translation id="7895403300744144251">Қашықтағы компьютердегі қауіпсіздік саясаттары аккаунтыңыздан байланыс орнатуға тыйым салады.</translation>
 <translation id="7936528439960309876">Оң жаққа қондыру</translation>
-<translation id="7970576581263377361">Аутентификация сәтсіз аяқталды. Chromium жүйесіне қайта кіріңіз.</translation>
+<translation id="7970576581263377361">Аутентификация сәтсіз аяқталды. Egon жүйесіне қайта кіріңіз.</translation>
 <translation id="7981525049612125370">Қашықтағы сеанстың мерзімі аяқталды.</translation>
 <translation id="8038111231936746805">(әдепкі)</translation>
 <translation id="8041089156583427627">Пікір жіберу</translation>
 <translation id="8060029310790625334">Анықтама орталығы</translation>
 <translation id="806699900641041263"><ph name="HOSTNAME" /> хостымен байланыс орнатылуда</translation>
-<translation id="8073845705237259513">Chrome Remote Desktop пайдалану үшін құрылғыңызға Google аккаунтын қосуыңыз қажет.</translation>
+<translation id="8073845705237259513">Egon Remote Desktop пайдалану үшін құрылғыңызға Google аккаунтын қосуыңыз қажет.</translation>
 <translation id="809687642899217504">Компьютерлерім</translation>
 <translation id="8116630183974937060">Желілік қате орын алды. Құрылғыңыз желіде екендігін тексеріп, әрекетті қайталаңыз.</translation>
 <translation id="8295077433896346116"><ph name="PRODUCT_NAME" /> қызметін пайдалану үшін арнайы мүмкіндіктерді пайдалануға рұқсат беруіңіз керек, сонда қашықтағы құрылғыдан енгізілген деректерді осы Mac құрылғысына жіберуге болады.
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">Chromoting пайдалану үшін құрылғыңызға Google аккаунтын қосуыңыз қажет.</translation>
 <translation id="8386846956409881180">Хост жарамсыз OAuth есептік деректерімен реттелген.</translation>
 <translation id="8397385476380433240"><ph name="PRODUCT_NAME" /> қызметіне рұқсат беру</translation>
-<translation id="8406498562923498210">Chrome Remote Desktop ортасында іске қосылатын сеансты таңдаңыз (кейбір сеанс түрлері Chrome Remote Desktop және жергілікті консольде бір уақытта жұмыс істей алмайтынын ескеріңіз).</translation>
+<translation id="8406498562923498210">Egon Remote Desktop ортасында іске қосылатын сеансты таңдаңыз (кейбір сеанс түрлері Egon Remote Desktop және жергілікті консольде бір уақытта жұмыс істей алмайтынын ескеріңіз).</translation>
 <translation id="8428213095426709021">Параметрлер</translation>
 <translation id="8445362773033888690">Google Play Store дүкенінен көру</translation>
 <translation id="8509907436388546015">Жұмыс үстелімен біріктіру процесі</translation>
@@ -184,13 +184,13 @@
 <translation id="8743328882720071828"><ph name="CLIENT_USERNAME" /> деген пайдаланушыға компьютерді көруге және басқаруға рұқсат бергіңіз келе ме?</translation>
 <translation id="8747048596626351634">Сеанс бұзылды немесе басталмады. Егер қашықтағы компьютерде ~/.chrome-remote-desktop-session сеансы жүріп жатса, онда жұмыс үстелінің ортасы немесе терезе менеджері сияқты ұзақ мерзімді басымдыққа ие процесс іске қосылып жатқанына көз жеткізіңіз.</translation>
 <translation id="8804164990146287819">Құпиялық саясаты</translation>
-<translation id="8906511416443321782">Аудио жазып, оны Chrome Remote Desktop клиентіне трансляциялау үшін микрофонды пайдалану рұқсаты болуы керек.</translation>
+<translation id="8906511416443321782">Аудио жазып, оны Egon Remote Desktop клиентіне трансляциялау үшін микрофонды пайдалану рұқсаты болуы керек.</translation>
 <translation id="9111855907838866522">Қашықтағы құрылғыға қосылдыңыз. Мәзірді ашу үшін экранды төрт саусағыңызбен түртіңіз.</translation>
 <translation id="9126115402994542723">Бұл құрылғыдан осы хостқа қосылу кезінде PIN коды енді сұралмасын.</translation>
 <translation id="916856682307586697">Әдепкі XSession сеансын іске қосу</translation>
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" /> қызметіне экранды жазуға рұқсат беріңіз</translation>
 <translation id="9213184081240281106">Хост конфигурациясы жарамсыз.</translation>
 <translation id="981121421437150478">Желіден тыс</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Egon Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (желіде соңғы рет: <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

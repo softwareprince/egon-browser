@@ -32,7 +32,7 @@
 <translation id="1165039591588034296">ఎర్రర్</translation>
 <translation id="1172898394251786223">తర్వాతి ఫీల్డ్</translation>
 <translation id="1176932207622159128">చిత్రాన్ని సేవ్ చేయడం సాధ్యపడలేదు</translation>
-<translation id="1177414119866731261">Chrome మెనూను తెరవండి</translation>
+<translation id="1177414119866731261">Egon మెనూను తెరవండి</translation>
 <translation id="1181037720776840403">తీసివేయండి</translation>
 <translation id="1207113853726624428">కొత్త శోధన</translation>
 <translation id="1209206284964581585">ప్రస్తుతానికి దాచు</translation>
@@ -128,7 +128,7 @@
 <translation id="1941314575388338491">కాపీ చేయడానికి రెండుసార్లు నొక్కండి.</translation>
 <translation id="1943478190258551035">మెనూ → సెట్టింగ్‌లు</translation>
 <translation id="1952172573699511566">వీలైనప్పుడు వెబ్‌సైట్‌లు, మీ ప్రాధాన్య భాషలో వచనాన్ని చూపుతాయి.</translation>
-<translation id="1965935827552890526">తెరిచి ఉన్న వేరే Chrome విండోలో మీరు చేసే దానిని ముగించండి.</translation>
+<translation id="1965935827552890526">తెరిచి ఉన్న వేరే Egon విండోలో మీరు చేసే దానిని ముగించండి.</translation>
 <translation id="1973912524893600642">డేటాను అలాగే ఉంచు</translation>
 <translation id="1974060860693918893">అధునాతన సెట్టింగ్‌లు</translation>
 <translation id="1981118202195772574">మొబైల్</translation>
@@ -149,7 +149,7 @@
 <translation id="2139867232736819575">మీరు కాపీ చేసిన వచనం కోసం వెతకండి</translation>
 <translation id="214201757571129614">సైన్ ఇన్ చేయండి…</translation>
 <translation id="2149973817440762519">బుక్‌మార్క్‌ను ఎడిట్ చేయండి</translation>
-<translation id="2150175299852799498">మొబైల్ కోసం Chrome</translation>
+<translation id="2150175299852799498">మొబైల్ కోసం Egon</translation>
 <translation id="2155145621546387786">Chromeను షేర్ చేయండి</translation>
 <translation id="2175927920773552910">QR కోడ్</translation>
 <translation id="2178545675770638239">పాస్‌వర్డ్‌ను ఎంచుకోండి</translation>
@@ -238,7 +238,7 @@
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">అనువాద సెట్టింగ్‌లను రీసెట్ చేయి</translation>
 <translation id="2848086008667475748">సెట్టింగ్‌లకు వెళ్లి దానిని 'ఆటోమేటిక్ సెట్టింగ్'గా సెట్ చేయండి…</translation>
-<translation id="2858204748079866344">మీ గోప్యతను సంరక్షించడానికి, Chrome ఈ ఫీల్డ్‌లో మీ పాస్‌వర్డ్‌ను ఆటోమేటిక్‌గా పూరించదు.</translation>
+<translation id="2858204748079866344">మీ గోప్యతను సంరక్షించడానికి, Egon ఈ ఫీల్డ్‌లో మీ పాస్‌వర్డ్‌ను ఆటోమేటిక్‌గా పూరించదు.</translation>
 <translation id="285960592395650245">రీట్రై డౌన్‌లోడ్‌</translation>
 <translation id="2870560284913253234">సైట్</translation>
 <translation id="2871695793448672541">దాచబడింది, పాస్‌వర్డ్</translation>
@@ -256,7 +256,7 @@
 <translation id="292639812446257861">చదవనట్లు గుర్తు పెట్టు</translation>
 <translation id="2932085390869194046">పాస్‌వర్డ్‌‌ను సూచించు...</translation>
 <translation id="2932765531295814441">పాస్‌వర్డ్‌లను మాన్యువల్‌గా జోడించండి</translation>
-<translation id="2952581218264071393">1. Chrome సెట్టింగ్‌లను తెరవండి</translation>
+<translation id="2952581218264071393">1. Egon సెట్టింగ్‌లను తెరవండి</translation>
 <translation id="2958718410589002129">పాస్‌వర్డ్‌లు</translation>
 <translation id="2961210776189273067">టైటిల్</translation>
 <translation id="2964349545761222050">థర్డ్-పార్టీ కుక్కీలను బ్లాక్ చేయండి</translation>
@@ -312,7 +312,7 @@
 <translation id="3371831930909698441">అనువాదం అందుబాటులో ఉంది. స్క్రీన్ దిగువ భాగానికి సమీపంలో ఎంపికలు అందుబాటులో ఉంటాయి.</translation>
 <translation id="3377063233124932127">ఇప్పుడు మీరు సేవ్ చేసిన మీ బుక్‌మార్క్‌లు, పాస్‌వర్డ్‌లు, ఇంకా మరిన్ని పేజీ ఎగువున కనిపిస్తాయి.</translation>
 <translation id="3393920035788932672">పాప్-అప్‌లు అనుమతించబడ్డాయి</translation>
-<translation id="3399930248910934354">Chrome సెట్టింగ్‌లను తెరవండి</translation>
+<translation id="3399930248910934354">Egon సెట్టింగ్‌లను తెరవండి</translation>
 <translation id="3404744938087714423">సైన్ అవుట్ చేస్తే సింక్ ఆఫ్ అవుతుంది.</translation>
 <translation id="3425644765244388016">కార్డ్ మారుపేరు</translation>
 <translation id="3433057996795775706">ఈ పాస్‌వర్డ్‌ను తొలగించడం వలన <ph name="WEBSITE" />లో మీ ఖాతా తొలగించబడదు. మీ ఖాతాను ఇతరుల నుండి సురక్షితంగా ఉంచడానికి, <ph name="WEBSITE" />లో మీ పాస్‌వర్డ్‌ను మార్చండి.</translation>
@@ -532,13 +532,13 @@
 <translation id="5062321486222145940">ఇన్‌స్టాల్ Google Drive‌</translation>
 <translation id="5083464117946352670">ఫైల్ సైజ్‌ గుర్తించలేకపో..</translation>
 <translation id="5090832849094901128">ఈ పాస్‌వర్డ్‌ను తొలగించడం వలన <ph name="WEBSITE" />లో మీ ఖాతా తొలగించబడదు.</translation>
-<translation id="5092117651143801290">తర్వాత చదవడానికి లేదా ఆఫ్‌లైన్‌లో చదవడానికి మీరు పేజీలను సేవ్ చేయవచ్చు. ఎక్కువ సమాచారంతో నిండి ఉన్న పొడుగాటి పేజీలను మీరు సేవ్ చేయాలనుకుంటున్నారో లేదో Chrome మిమ్మల్ని అడుగుతుంది.</translation>
+<translation id="5092117651143801290">తర్వాత చదవడానికి లేదా ఆఫ్‌లైన్‌లో చదవడానికి మీరు పేజీలను సేవ్ చేయవచ్చు. ఎక్కువ సమాచారంతో నిండి ఉన్న పొడుగాటి పేజీలను మీరు సేవ్ చేయాలనుకుంటున్నారో లేదో Egon మిమ్మల్ని అడుగుతుంది.</translation>
 <translation id="5094827893301452931">ట్వీట్ చేయడం పూర్తయింది.</translation>
 <translation id="5118713593561876160">ఆసక్తులు</translation>
 <translation id="5118764316110575523">ఆఫ్ చేయబడి ఉంది</translation>
 <translation id="5119391094379141756">Chromeను ఎంచుకోండి</translation>
 <translation id="5132942445612118989">అన్ని పరికరాల్లో మీ పాస్‌వర్డ్‌లు, హిస్టరీ, మరిన్నింటిని సింక్ చేయండి</translation>
-<translation id="5140288047769711648">Chrome మీకు సంబంధించి ఈ పాస్‌వర్డ్‌ను గుర్తుంచుకుంటుంది. మీరు గుర్తుంచుకోనవసరం లేదు.</translation>
+<translation id="5140288047769711648">Egon మీకు సంబంధించి ఈ పాస్‌వర్డ్‌ను గుర్తుంచుకుంటుంది. మీరు గుర్తుంచుకోనవసరం లేదు.</translation>
 <translation id="5149188072385105201">పాస్‌వర్డ్‌ను జోడించండి...</translation>
 <translation id="5150492518600715772">మీ పరికరానికి పంపండి</translation>
 <translation id="5168414296986405587">iPadOS కోసం బిల్డ్ చేయబడింది</translation>
@@ -601,14 +601,14 @@
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">QR కోడ్‌ను క్రియేట్ చేయండి</translation>
 <translation id="567881659373499783"><ph name="PRODUCT_VERSION" /> వెర్షన్</translation>
-<translation id="5690398455483874150">{count,plural, =1{ఇప్పుడు 1 Chrome విండో చూపబడుతుంది}other{ఇప్పుడు {count} Chrome విండోలు చూపబడుతున్నాయి}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{ఇప్పుడు 1 Egon విండో చూపబడుతుంది}other{ఇప్పుడు {count} Egon విండోలు చూపబడుతున్నాయి}}</translation>
 <translation id="5701270923492462699">కెమెరా యాక్సెస్ అనుమతించబడింది</translation>
 <translation id="5704908597376970822">సైన్ ఇన్ చేయడం సాధ్యపడలేదు.</translation>
 <translation id="5706552126692816153">1 రోజు క్రితం యాక్టివ్‌గా ఉంది</translation>
 <translation id="5711039611392265845">గోప్యత, భద్రత, డేటా సేకరణకు సంబంధించిన మరిన్ని సెట్టింగ్‌ల కోసం, <ph name="BEGIN_LINK" />సింక్ మరియు Google సేవలు<ph name="END_LINK" /> చూడండి.</translation>
 <translation id="5724941645893276623">వెబ్‌ను ప్రైవేట్‌గా బ్రౌజ్ చేయడానికి, కొత్త ట్యాబ్‌ను జోడించండి</translation>
 <translation id="5728700505257787410">క్షమించండి, మీ ఖాతాకు సైన్ ఇన్ చేయడంలో సమస్య ఉంది.</translation>
-<translation id="5733084997078800044">Chrome చిట్కా</translation>
+<translation id="5733084997078800044">Egon చిట్కా</translation>
 <translation id="5737974891429562743">ఖాతా సైన్-ఇన్ వివరాలు పాతవి. సింక్‌ను ప్రారంభించడానికి అప్‌డేట్ చేయండి.</translation>
 <translation id="5738385766833540397">మీరు ట్రాక్ చేసే ప్రోడక్ట్‌లకు సంబంధించి మీరు ధర తగ్గుదల అలర్ట్‌లను స్వీకరించే విధానాన్ని మేనేజ్ చేయండి</translation>
 <translation id="5738887413654608789">దీని వ‌ల్ల‌ మీరు మీ పరిసరాల ఆధారంగా సంబంధిత వెబ్‌ పేజీలను కనుగొనగలుగుతారు.</translation>
@@ -623,7 +623,7 @@
 <translation id="5812974770859303494">దీనికి జోడించండి...</translation>
 <translation id="581659025233126501">సింక్‌ను ఆన్ చేయి</translation>
 <translation id="5819208479324046259"><ph name="MANAGER" /> ద్వారా మేనేజ్ చేయబడుతోంది. <ph name="BEGIN_LINK" />మరింత తెలుసుకోండి<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">పాస్‌వర్డ్‌లు, పేమెంట్ ఆప్షన్‌లు, ఇంకా అడ్రస్‌లను సేవ్ చేయండి, తద్వారా Chrome వాటిని తర్వాత ఆటోఫిల్ చేయవచ్చు.</translation>
+<translation id="5833643789537100742">పాస్‌వర్డ్‌లు, పేమెంట్ ఆప్షన్‌లు, ఇంకా అడ్రస్‌లను సేవ్ చేయండి, తద్వారా Egon వాటిని తర్వాత ఆటోఫిల్ చేయవచ్చు.</translation>
 <translation id="5846482154967366008">సెర్చ్ ఇంజిన్</translation>
 <translation id="5854790677617711513">30 రోజుల కన్నా పాతవి</translation>
 <translation id="5857090052475505287">కొత్త ఫోల్డర్</translation>
@@ -746,7 +746,7 @@
 <translation id="6524918542306337007">అజ్ఞాత మోడ్ అందుబాటులో లేదు</translation>
 <translation id="6530992499366869131">మీరు ఉపయోగించే పాస్‌వర్డ్‌లు, ఏదైనా డేటా ఉల్లంఘనలో బహిర్గతమైతే మిమ్మల్ని హెచ్చరిస్తుంది</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">సైట్‌ను సందర్శించి, Chrome మెనూలో 'ఫాలో అవ్వండి'ని క్లిక్ చేయండి</translation>
+<translation id="6540120577248033958">సైట్‌ను సందర్శించి, Egon మెనూలో 'ఫాలో అవ్వండి'ని క్లిక్ చేయండి</translation>
 <translation id="6561262006871132942">దగ్గరగా జూమ్ చేయి</translation>
 <translation id="6583087784430677195">ఆఫ్ చేయడానికి, <ph name="BEGIN_LINK" />సెట్టింగ్‌లను<ph name="END_LINK" /> తెరిచి, 'పాస్‌వర్డ్‌లను ఆటోఫిల్ చేయండి' అనే ఆప్షన్‌కు వెళ్లండి.</translation>
 <translation id="6585618849026997638">బుక్‌మార్క్‌ను జోడించడం ద్వారా మీకు ముఖ్యమైన పేజీకి మళ్ళీ చేరుకోవచ్చు</translation>
@@ -899,7 +899,7 @@
 <translation id="7781011649027948662">పేజీని అనువాదం చేయాలా?</translation>
 <translation id="7781069478569868053">కొత్త ట్యాబ్ పేజీ</translation>
 <translation id="7781829728241885113">నిన్న</translation>
-<translation id="778855399387580014">కొత్త Chrome ట్యాబ్‌లో శోధనను ప్రారంభించండి.</translation>
+<translation id="778855399387580014">కొత్త Egon ట్యాబ్‌లో శోధనను ప్రారంభించండి.</translation>
 <translation id="7791543448312431591">జోడించండి</translation>
 <translation id="7807060072011926525">దీనిని Google అందించినది</translation>
 <translation id="7839985698273989086">ఆఫ్‌లైన్ పేజీ</translation>
@@ -912,7 +912,7 @@
 <translation id="7859704718976024901">బ్రౌజింగ్ హిస్టరీ</translation>
 <translation id="7879275349003161544">డౌన్‌లోడ్‌లను చూడండి</translation>
 <translation id="7884694604461143138">సెర్చ్ హిస్టరీ (<ph name="COUNT" /> కనుగొనబడింది)</translation>
-<translation id="7887198238286927132">మీ గోప్యతను సంరక్షించడానికి, Chrome ఈ ఫీల్డ్‌ను ఆటోమేటిక్‌గా పూరించదు.</translation>
+<translation id="7887198238286927132">మీ గోప్యతను సంరక్షించడానికి, Egon ఈ ఫీల్డ్‌ను ఆటోమేటిక్‌గా పూరించదు.</translation>
 <translation id="7911190106180361398">అన్నింటిని సింక్ చేయడానికి మీ సంస్థ మిమ్మల్ని అనుమతించదు.</translation>
 <translation id="7920949005883349320">గోప్యత, సెక్యూరిటీ</translation>
 <translation id="7930998711684428189">పాస్‌వర్డ్‌లు, ఏదైనా డేటా ఉల్లంఘనలో బహిర్గతమైతే మిమ్మల్ని హెచ్చరిస్తుంది.</translation>
@@ -956,7 +956,7 @@
 <translation id="8114753159095730575">ఫైల్ డౌన్‌లోడ్ అందుబాటులో ఉంది. ఎంపికలు స్క్రీన్ దిగువ భాగంలో అందుబాటులో ఉంటాయి.</translation>
 <translation id="81313319706244542">2. పాస్‌వర్డ్‌లను ట్యాప్ చేయండి</translation>
 <translation id="8132598642024322408">ఇప్పుడు <ph name="PRICE" />, మునుపు <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Chrome, Google Lens నుండి మీ Apple క్యాలెండర్‌లో ఈవెంట్‌లను క్రియేట్ చేయడానికి ఇది ఉపయోగించబడుతుంది.</translation>
+<translation id="8136856065410661948">Egon, Google Lens నుండి మీ Apple క్యాలెండర్‌లో ఈవెంట్‌లను క్రియేట్ చేయడానికి ఇది ఉపయోగించబడుతుంది.</translation>
 <translation id="8156478151976189188">పాస్‌వర్డ్ సింక్ పనిచేయడం లేదు</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> ఖాతాలు</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />మీ పరికరాలు<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1068,11 +1068,11 @@
 <translation id="9055960261314198756">మెరుగైన రక్షణ ఆఫ్‌లో ఉంది</translation>
 <translation id="9057972802061533987">ఫాలో అవ్వడం సాధ్యం కాదు. ఏదో తప్పు జరిగింది.</translation>
 <translation id="9065203028668620118">ఎడిట్</translation>
-<translation id="9068336935206019333">Chrome అజ్ఞాత మోడ్‌లో తెరవండి</translation>
+<translation id="9068336935206019333">Egon అజ్ఞాత మోడ్‌లో తెరవండి</translation>
 <translation id="9079935439869366234">అన్నీ చదవనట్లు గుర్తు పెట్టు</translation>
 <translation id="9081058212938299310"><ph name="USERNAME" /> పాస్‌వర్డ్‌ని అప్‌డేట్ చేయాలా?</translation>
 <translation id="9083838294503912307">మీ అన్ని పరికరాలలోనూ సింక్‌ మరియు వ్యక్తిగతీకరణ చేయడం కోసం, సింక్‌ను ఆన్ చేయండి.</translation>
-<translation id="9087108903408689779">Chrome సూచిత పాస్‌వర్డ్:</translation>
+<translation id="9087108903408689779">Egon సూచిత పాస్‌వర్డ్:</translation>
 <translation id="9093271241977565440">స్క్రీన్ ఎగువున, సెర్చ్ చిహ్నాన్ని ట్యాప్ చేయండి</translation>
 <translation id="9094033019050270033">పాస్‌వర్డ్‌ను అప్‌డేట్ చేయి</translation>
 <translation id="9097506547406246598">అన్-ఫాలో చేయడం సాధ్యం కాదు. ఏదో తప్పు జరిగింది.</translation>
@@ -1089,7 +1089,7 @@
 <translation id="9223358826628549784">క్రాష్ రిపోర్ట్‌ పంపబడింది.</translation>
 <translation id="941747855997058526">పాస్‌వర్డ్‌ను ఎంచుకోండి...</translation>
 <translation id="952704832371081537">రద్దు చేయండి</translation>
-<translation id="953008885340860025">Chrome సైన్ అవుట్ చేయబడింది</translation>
+<translation id="953008885340860025">Egon సైన్ అవుట్ చేయబడింది</translation>
 <translation id="959066944189734975">మీరు <ph name="CHANNEL_NAME" />ను ఫాలో అవుతున్నారు</translation>
 <translation id="981498610235328462">మీ సంస్థ మిమ్మల్ని కొన్ని ఖాతాలతో మాత్రమే సైన్ ఇన్ చేయడానికి అనుమతిస్తుంది. అనుమతించబడని ఖాతాలు దాచబడతాయి.</translation>
 <translation id="984509647832111802">సింక్ పని చేయడం లేదు.</translation>

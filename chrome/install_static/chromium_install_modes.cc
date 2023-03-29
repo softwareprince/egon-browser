@@ -1,4 +1,4 @@
-// Copyright 2016 The Chromium Authors
+// Copyright 2016 The Egon Authors
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 
@@ -16,17 +16,17 @@ namespace install_static {
 
 const wchar_t kCompanyPathName[] = L"";
 
-const wchar_t kProductPathName[] = L"Chromium";
+const wchar_t kProductPathName[] = L"Egon";
 
 const size_t kProductPathNameLength = _countof(kProductPathName) - 1;
 
 const char kSafeBrowsingName[] = "chromium";
 
 const InstallConstants kInstallModes[] = {
-    // The primary (and only) install mode for Chromium.
+    // The primary (and only) install mode for Egon.
     {
         .size = sizeof(kInstallModes[0]),
-        .index = CHROMIUM_INDEX,  // The one and only mode for Chromium.
+        .index = CHROMIUM_INDEX,  // The one and only mode for Egon.
         .install_switch =
             "",  // No install switch for the primary install mode.
         .install_suffix =
@@ -34,11 +34,11 @@ const InstallConstants kInstallModes[] = {
         .logo_suffix = L"",  // No logo suffix for the primary install mode.
         .app_guid =
             L"",  // Empty app_guid since no integraion with Google Update.
-        .base_app_name = L"Chromium",      // A distinct base_app_name.
-        .base_app_id = L"Chromium",        // A distinct base_app_id.
+        .base_app_name = L"Egon",      // A distinct base_app_name.
+        .base_app_id = L"Egon",        // A distinct base_app_id.
         .prog_id_prefix = L"ChromiumHTM",  // ProgID prefix.
         .prog_id_description =
-            L"Chromium HTML Document",  // ProgID description.
+            L"Egon HTML Document",  // ProgID description.
         .active_setup_guid =
             L"{7D2B3E1D-D096-4594-9D8F-A6667F12E0AC}",  // Active Setup GUID.
         .legacy_command_execute_clsid =

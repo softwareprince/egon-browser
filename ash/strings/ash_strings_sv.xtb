@@ -430,7 +430,7 @@ Det här är några saker du kan testa för att komma igång.</translation>
 <translation id="3378438761594387761">Här hittar du dina senaste nedladdningar och skärmbilder</translation>
 <translation id="3378442621503952303">Ansluter till profilen. Vänta några minuter.</translation>
 <translation id="3386978599540877378">helskärmsförstoraren</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Ytterligare inställningar</translation>
 <translation id="3405101454990027959">Aktivera mikrofonåtkomst.</translation>
 <translation id="3410336247007142655">Visa inställningarna för mörkt tema</translation>
@@ -915,7 +915,7 @@ Anslut enheten till en strömkälla.</translation>
 <translation id="6043994281159824495">Logga ut nu</translation>
 <translation id="6047696787498798094">Skärmdelningen avbryts när du byter till en annan användare. Vill du fortsätta?</translation>
 <translation id="6054305421211936131">Logga in med smartkort</translation>
-<translation id="6059276912018042191">Senaste flikarna i Chrome</translation>
+<translation id="6059276912018042191">Senaste flikarna i Egon</translation>
 <translation id="6062360702481658777">Du loggas ut automatiskt om <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Jag är klar med filen</translation>
 <translation id="6073451960410192870">Sluta spela in</translation>
@@ -1020,7 +1020,7 @@ Nyligen installerad</translation>
 <translation id="6650933572246256093">Bluetooth-enheten <ph name="DEVICE_NAME" /> har begärt tillstånd för koppling. Ange denna lösenordsnyckel på den enheten: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Lösenord</translation>
 <translation id="6665545700722362599">Ge webbplatser, appar och tillägg behörighet att använda platstjänster, enhetens mikrofon, kamera eller andra funktioner</translation>
-<translation id="6667908387435388584">Anslut till telefonens surfzon, stäng av ljudet på och hitta din enhet, samt visa de senaste Chrome-flikarna som öppnats på telefonen</translation>
+<translation id="6667908387435388584">Anslut till telefonens surfzon, stäng av ljudet på och hitta din enhet, samt visa de senaste Egon-flikarna som öppnats på telefonen</translation>
 <translation id="6670153871843998651">Skrivbord 3</translation>
 <translation id="6671495933530132209">Kopiera bild</translation>
 <translation id="6671661918848783005">Det går inte att låsa upp Chromebook</translation>

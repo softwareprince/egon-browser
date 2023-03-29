@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">您有 <ph name="NUMBER_OF_TABS" /> 个标签页最近未被使用过。关闭它们？</translation>
 <translation id="1181037720776840403">移除</translation>
 <translation id="125153950246128346">点按即可查看另一标签页</translation>
-<translation id="1403228085774130835">您可通过在 Chrome 主菜单中点击“最近打开的标签页”找到您已关闭的标签页</translation>
+<translation id="1403228085774130835">您可通过在 Egon 主菜单中点击“最近打开的标签页”找到您已关闭的标签页</translation>
 <translation id="1455506303394048917">您在这些无痕式标签页中的活动记录将从这个设备上清除</translation>
 <translation id="1499635324672558517">要关闭所有无痕式标签页吗？</translation>
 <translation id="1657719826150349398">下移标签页</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">查看商店信息，屏幕顶部附近有可用选项</translation>
 <translation id="5558362125926932819">关闭包含 <ph name="NUMBER_OF_TABS" /> 个标签页的标签页组</translation>
 <translation id="5580090775658607195">已将 <ph name="TAB_COUNT" /> 个标签页合为一组</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Chrome 中的 <ph name="TABS_COUNT_ONE" /> 个链接}other{Chrome 中的 <ph name="TABS_COUNT_MANY" /> 个链接}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Egon 中的 <ph name="TABS_COUNT_ONE" /> 个链接}other{Egon 中的 <ph name="TABS_COUNT_MANY" /> 个链接}}</translation>
 <translation id="575494663145460764">接收降价提醒？</translation>
 <translation id="58326064309361797">拖动标签可进行分组</translation>
 <translation id="5846292395804797011">关闭包含 <ph name="NUMBER_OF_TABS" /> 个标签页的“<ph name="TITLE_OF_GROUP" />”组</translation>

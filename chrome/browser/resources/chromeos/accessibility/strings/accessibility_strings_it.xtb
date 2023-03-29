@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">annulla</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Nessuna intestazione di livello 4 successiva</translation>
-<translation id="1212770441379271564">Le scorciatoie riportate di seguito non sono comandi di ChromeVox, ma sono comunque molto utili per usare al meglio Chrome.
+<translation id="1212770441379271564">Le scorciatoie riportate di seguito non sono comandi di ChromeVox, ma sono comunque molto utili per usare al meglio Egon.
     Per avanzare tra gli elementi su cui è possibile eseguire azioni, come pulsanti e link, premi il tasto Tab. Per tornare indietro premi Maiusc + Tab.
-    Per accedere alla casella dell'indirizzo del browser Chrome, chiamata anche omnibox, premi Ctrl + L.
+    Per accedere alla casella dell'indirizzo del browser Egon, chiamata anche omnibox, premi Ctrl + L.
     Per aprire e accedere automaticamente a una nuova scheda, premi Ctrl + T. Il cursore verrà posizionato nella omnibox.
     Per chiudere una scheda, premi Ctrl + W.
     Per passare alla scheda successiva in una serie di schede aperte, utilizza Ctrl + Tab.
-    Per aprire il menu del browser Chrome premi Alt + F.</translation>
-<translation id="1213216066620407844">ChromeVox - dare voce a Chrome</translation>
+    Per aprire il menu del browser Egon premi Alt + F.</translation>
+<translation id="1213216066620407844">ChromeVox - dare voce a Egon</translation>
 <translation id="1225969361094801578">Grigio ardesia scuro</translation>
 <translation id="122928249241119550">passa alla frase precedente</translation>
 <translation id="1230503547248836149">Inizio della selezione</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Errore grammaticale</translation>
 <translation id="2603828437139726540">Sposta in avanti di un carattere</translation>
 <translation id="2619052155095999743">Inserisci</translation>
-<translation id="2619344480613750862">Puoi anche spostarti tra le varie sezioni dello schermo. Ad esempio, puoi spostarti tra Avvio app, la barra delle app e le schede di Chrome. Per passare alla sezione successiva, scorri da sinistra verso destra con quattro dita. Per continuare, prova ora.</translation>
+<translation id="2619344480613750862">Puoi anche spostarti tra le varie sezioni dello schermo. Ad esempio, puoi spostarti tra Avvio app, la barra delle app e le schede di Egon. Per passare alla sezione successiva, scorri da sinistra verso destra con quattro dita. Per continuare, prova ora.</translation>
 <translation id="2624431853467395961">Apri la modalità di apprendimento</translation>
 <translation id="2626530649491650971">selezionabile</translation>
 <translation id="263637551280112393">Premi il tasto per la ricerca + Maiusc + Barra spaziatrice</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Navigazione di base</translation>
 <translation id="609281021724813947">Nessun dispositivo di scorrimento precedente</translation>
 <translation id="6100239002225743044">Sposta in alto di una riga</translation>
-<translation id="6118126368611144850">App Android per Chrome. Se hai Play Store sul tuo dispositivo, dai un'occhiata a ChromeVox con le app Android. Prova il supporto sperimentale scaricando Google Chrome Canary dal Play Store.</translation>
+<translation id="6118126368611144850">App Android per Egon. Se hai Play Store sul tuo dispositivo, dai un'occhiata a ChromeVox con le app Android. Prova il supporto sperimentale scaricando Google Egon Canary dal Play Store.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">attiva</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Giallo ocra dorato chiaro</translation>
 <translation id="7541021454094606506">elimina tutto</translation>
 <translation id="7543255924852002459">Annulla etichetta</translation>
-<translation id="7552432549459840808">Utili scorciatoie di Chrome</translation>
+<translation id="7552432549459840808">Utili scorciatoie di Egon</translation>
 <translation id="7553679324939294712">inserisci <ph name="INSERT_PHRASE" /> prima di <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Nero</translation>
 <translation id="7579911500627256166">punto <ph name="DOT" /></translation>

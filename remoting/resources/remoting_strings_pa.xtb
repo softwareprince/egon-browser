@@ -33,7 +33,7 @@
 <translation id="2509394361235492552"><ph name="HOSTNAME" /> ਨਾਲ ਕਨੈਕਟ ਹੈ</translation>
 <translation id="2540992418118313681">ਕੀ ਤੁਸੀਂ ਕਿਸੇ ਦੂਜੇ ਵਰਤੋਂਕਾਰ ਨੂੰ ਦਿਖਾਉਣ ਅਤੇ ਕੰਟਰੋਲ ਕਰਨ ਦੇਣ ਲਈ ਇਹ ਕੰਪਿਊਟਰ ਸਾਂਝਾ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</translation>
 <translation id="2579271889603567289">ਹੋਸਟ ਕ੍ਰੈਸ਼ ਹੋਇਆ ਜਾਂ ਚਾਲੂ ਨਹੀਂ ਹੋ ਸਕਿਆ।</translation>
-<translation id="2599300881200251572">ਇਹ ਸੇਵਾ ਕਲਾਇੰਟਾਂ ਦੇ 'Chrome ਰਿਮੋਟ ਡੈਸਕਟਾਪ' ਤੋਂ ਆਉਣ ਵਾਲੇ ਕਨੈਕਸ਼ਨਾਂ ਨੂੰ ਚਾਲੂ ਕਰਦੀ ਹੈ।</translation>
+<translation id="2599300881200251572">ਇਹ ਸੇਵਾ ਕਲਾਇੰਟਾਂ ਦੇ 'Egon ਰਿਮੋਟ ਡੈਸਕਟਾਪ' ਤੋਂ ਆਉਣ ਵਾਲੇ ਕਨੈਕਸ਼ਨਾਂ ਨੂੰ ਚਾਲੂ ਕਰਦੀ ਹੈ।</translation>
 <translation id="2647232381348739934">Chromoting ਸੇਵਾ</translation>
 <translation id="2676780859508944670">ਚਾਲੂ....</translation>
 <translation id="2692522824157224199">Copyright 2022 Google LLC. ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।</translation>
@@ -56,7 +56,7 @@
 <translation id="3596628256176442606">ਇਹ ਸੇਵਾ ਕਲਾਈਂਟਾਂ ਨੂੰ Chromoting ਤੋਂ ਆਉਣ ਵਾਲੇ ਕਨੈਕਸ਼ਨਾਂ ਨੂੰ ਸਮਰੱਥ ਬਣਾਉਂਦੀ ਹੈ।</translation>
 <translation id="369442766917958684">ਆਫ਼ਲਾਈਨ।</translation>
 <translation id="3695446226812920698">ਜਾਣੋ ਕਿਵੇਂ</translation>
-<translation id="3776024066357219166">ਤੁਹਾਡਾ 'Chrome ਰਿਮੋਟ ਡੈਸਕਟਾਪ' ਸੈਸ਼ਨ ਸਮਾਪਤ ਹੋ ਗਿਆ ਹੈ।</translation>
+<translation id="3776024066357219166">ਤੁਹਾਡਾ 'Egon ਰਿਮੋਟ ਡੈਸਕਟਾਪ' ਸੈਸ਼ਨ ਸਮਾਪਤ ਹੋ ਗਿਆ ਹੈ।</translation>
 <translation id="3858860766373142691">ਨਾਮ</translation>
 <translation id="3897092660631435901">ਮੀਨੂ</translation>
 <translation id="3905196214175737742">ਅਵੈਧ ਹੋਸਟ ਮਾਲਕ ਡੋਮੇਨ।</translation>
@@ -73,7 +73,7 @@
 <translation id="4257751272692708833"><ph name="PRODUCT_NAME" /> URL ਅੱਗੇ ਭੇਜਣ ਵਾਲਾ</translation>
 <translation id="4277736576214464567">ਪਹੁੰਚ ਕੋਡ ਅਵੈਧ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</translation>
 <translation id="4281844954008187215">ਸੇਵਾ ਦੀਆਂ ਮਦਾਂ</translation>
-<translation id="4372650392690220936">Copyright 2022 The Chromium Authors. ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।</translation>
+<translation id="4372650392690220936">Copyright 2022 The Egon Authors. ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।</translation>
 <translation id="4405930547258349619">ਕੋਰ ਲਾਇਬ੍ਰੇਰੀ</translation>
 <translation id="443560535555262820">ਪਹੁੰਚਯੋਗਤਾ ਤਰਜੀਹਾਂ ਖੋਲ੍ਹੋ</translation>
 <translation id="4450893287417543264">ਦੁਬਾਰਾ ਨਾ ਦਿਖਾਓ</translation>
@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">ਰਿਮੋਟ ਡਿਵਾਈਸਾਂ</translation>
 <translation id="4660011489602794167">ਕੀ-ਬੋਰਡ ਦਿਖਾਓ</translation>
 <translation id="4703799847237267011">ਤੁਹਾਡਾ Chromoting ਸੈਸ਼ਨ ਖ਼ਤਮ ਹੋ ਗਿਆ ਹੈ।</translation>
-<translation id="4741792197137897469">ਪ੍ਰਮਾਣੀਕਰਨ ਅਸਫਲ ਰਿਹਾ। ਕਿਰਪਾ ਕਰਕੇ Chrome 'ਤੇ ਦੁਬਾਰਾ ਸਾਈਨ-ਇਨ ਕਰੋ।</translation>
+<translation id="4741792197137897469">ਪ੍ਰਮਾਣੀਕਰਨ ਅਸਫਲ ਰਿਹਾ। ਕਿਰਪਾ ਕਰਕੇ Egon 'ਤੇ ਦੁਬਾਰਾ ਸਾਈਨ-ਇਨ ਕਰੋ।</translation>
 <translation id="4784508858340177375">X ਸਰਵਰ ਕ੍ਰੈਸ਼ ਹੋਇਆ ਜਾਂ ਚਾਲੂ ਨਹੀਂ ਹੋ ਸਕਿਆ।</translation>
 <translation id="4798680868612952294">ਮਾਊਸ ਦੇ ਵਿਕਲਪ</translation>
 <translation id="4804818685124855865">ਡਿਸਕਨੈਕਟ ਕਰੋ</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">PrtScn ਭੇਜੋ</translation>
 <translation id="4974476491460646149"><ph name="HOSTNAME" /> ਲਈ ਕਨੈਕਸ਼ਨ ਬੰਦ ਕੀਤਾ ਗਿਆ</translation>
 <translation id="4985296110227979402">ਤੁਹਾਨੂੰ ਪਹਿਲਾਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਨੂੰ ਦੂਰ-ਦੁਰਾਡੇ ਤੋਂ ਪਹੁੰਚ ਲਈ ਸਥਾਪਤ ਕਰਨ ਦੀ ਲੋੜ ਹੈ</translation>
-<translation id="4987330545941822761">Chrome ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਸਥਾਨਕ ਤੌਰ 'ਤੇ URL ਖੋਲ੍ਹਣ ਲਈ ਬ੍ਰਾਊਜ਼ਰ ਨੂੰ ਨਿਰਧਾਰਿਤ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨੂੰ ਹੇਠਾਂ ਦਿੱਤੀ ਸੂਚੀ ਵਿੱਚੋਂ ਚੁਣੋ।</translation>
+<translation id="4987330545941822761">Egon ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਸਥਾਨਕ ਤੌਰ 'ਤੇ URL ਖੋਲ੍ਹਣ ਲਈ ਬ੍ਰਾਊਜ਼ਰ ਨੂੰ ਨਿਰਧਾਰਿਤ ਨਹੀਂ ਕਰ ਸਕਦਾ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨੂੰ ਹੇਠਾਂ ਦਿੱਤੀ ਸੂਚੀ ਵਿੱਚੋਂ ਚੁਣੋ।</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (ਆਫ਼ਲਾਈਨ)</translation>
 <translation id="507204348399810022">ਕੀ ਤੁਸੀਂ ਪੱਕਾ <ph name="HOSTNAME" /> ਲਈ ਰੀਮੋਟ ਕਨੈਕਸ਼ਨਾਂ ਨੂੰ ਬੰਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</translation>
 <translation id="5170982930780719864">ਅਵੈਧ ਹੋਸਟ ਆਈ.ਡੀ.</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">ਬਰਖ਼ਾਸਤ ਕਰੋ</translation>
 <translation id="5308380583665731573">ਕਨੈਕਟ ਕਰੋ</translation>
 <translation id="533625276787323658">ਇੱਥੇ ਕਨੈਕਟ ਕਰਨ ਲਈ ਕੁਝ ਨਹੀਂ ਹੈ</translation>
-<translation id="5397086374758643919">Chrome ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਹੋਸਟ ਅਣਸਥਾਪਨਾਕਾਰ</translation>
+<translation id="5397086374758643919">Egon ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਹੋਸਟ ਅਣਸਥਾਪਨਾਕਾਰ</translation>
 <translation id="5419418238395129586">ਪਿਛਲੀ ਵਾਰ ਆਨਲਾਈਨ ਹੋਣ ਦੀ ਤਾਰੀਖ: <ph name="DATE" /></translation>
 <translation id="544077782045763683">ਹੋਸਟ ਨੇ ਬੰਦ ਕੀਤਾ ਹੈ।</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">ਰੀਕਨੈਕਟ ਕਰੋ</translation>
 <translation id="5810269635982033450">ਸਕ੍ਰੀਨ ਕਿਸੇ ਟਰੈਕਪੈਡ ਦੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਦੀ ਹੈ</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> ਨੇ ਤੁਹਾਡੀ ਸਕ੍ਰੀਨ ਨੂੰ ਦੇਖਣ ਅਤੇ ਤੁਹਾਡੇ ਕੀ-ਬੋਰਡ ਅਤੇ ਮਾਊਸ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ ਪਹੁੰਚ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਜੇ ਤੁਸੀਂ ਇਸ ਬੇਨਤੀ ਦੀ ਉਮੀਦ ਨਹੀਂ ਕਰ ਰਹੇ ਹੋ, ਤਾਂ ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />'' ਦਬਾਓ। ਨਹੀਂ ਤਾਂ ਤਿਆਰ ਹੋਣ 'ਤੇ ਕਨੈਕਸ਼ਨ ਨੂੰ ਆਗਿਆ ਦੇਣ ਲਈ ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />'' ਚੁਣੋ।</translation>
-<translation id="5823658491130719298">ਤੁਸੀਂ ਜਿਸ ਕੰਪਿਊਟਰ 'ਤੇ ਦੂਰ-ਦੁਰਾਡੇ ਤੋਂ ਪਹੁੰਚ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਉਸ 'ਤੇ Chrome ਖੋਲ੍ਹੋ ਅਤੇ <ph name="INSTALLATION_LINK" /> 'ਤੇ ਜਾਓ</translation>
+<translation id="5823658491130719298">ਤੁਸੀਂ ਜਿਸ ਕੰਪਿਊਟਰ 'ਤੇ ਦੂਰ-ਦੁਰਾਡੇ ਤੋਂ ਪਹੁੰਚ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ, ਉਸ 'ਤੇ Egon ਖੋਲ੍ਹੋ ਅਤੇ <ph name="INSTALLATION_LINK" /> 'ਤੇ ਜਾਓ</translation>
 <translation id="5841343754884244200">ਦਿਖਾਉਣ ਦੇ ਵਿਕਲਪ</translation>
 <translation id="6033507038939587647">ਕੀ-ਬੋਰਡ ਵਿਕਲਪ</translation>
 <translation id="6040143037577758943">ਬੰਦ ਕਰੋ</translation>
 <translation id="6062854958530969723">ਹੋਸਟ ਸ਼ੁਰੂਆਤ ਅਸਫਲ</translation>
-<translation id="6099500228377758828">Chrome Remote ਡੈਸਕਟਾਪ ਸੇਵਾ</translation>
+<translation id="6099500228377758828">Egon Remote ਡੈਸਕਟਾਪ ਸੇਵਾ</translation>
 <translation id="6122191549521593678">ਆਨਲਾਈਨ</translation>
 <translation id="6178645564515549384">ਰਿਮੋਟ ਸਹਾਇਤਾ ਲਈ ਮੂਲ ਮੈਸੇਜ਼ਿੰਗ ਹੋਸਟ</translation>
 <translation id="618120821413932081">ਵਿੰਡੋ ਨਾਲ ਮੇਲ ਕਰਨ ਲਈ ਰਿਮੋਟ ਰੈਜ਼ੋਲਿਊਸ਼ਨ ਅੱਪਡੇਟ ਕਰੋ</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">ਰਿਮੋਟ ਸਹਾਇਤਾ</translation>
 <translation id="7026930240735156896">ਦੂਰ-ਦੁਰਾਡੇ ਤੋਂ ਪਹੁੰਚ ਵਾਸਤੇ ਆਪਣੇ ਕੰਪਿਊਟਰ ਦਾ ਸੈੱਟਅੱਪ ਕਰਨ ਲਈ ਹਿਦਾਇਤਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ</translation>
 <translation id="7067321367069083429">ਸਕ੍ਰੀਨ ਕਿਸੇ ਸਪਰਸ਼ ਸਕ੍ਰੀਨ ਦੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਦੀ ਹੈ</translation>
-<translation id="7116737094673640201">'Chrome ਰਿਮੋਟ ਡੈਸਕਟਾਪ' ਵਿੱਚ ਜੀ ਆਇਆਂ ਨੂੰ</translation>
+<translation id="7116737094673640201">'Egon ਰਿਮੋਟ ਡੈਸਕਟਾਪ' ਵਿੱਚ ਜੀ ਆਇਆਂ ਨੂੰ</translation>
 <translation id="7144878232160441200">ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</translation>
 <translation id="7312846573060934304">ਹੋਸਟ ਆਫ਼ਲਾਈਨ ਹੈ।</translation>
 <translation id="7319983568955948908">ਸ਼ੇਅਰਿੰਗ ਰੋਕੋ</translation>
 <translation id="7359298090707901886">ਸਥਾਨਕ ਮਸ਼ੀਨ 'ਤੇ URL ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਚੁਣੇ ਗਏ ਬ੍ਰਾਊਜ਼ਰ ਦੀ ਵਰਤੋਂ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।</translation>
-<translation id="7401733114166276557">Chrome ਰਿਮੋਟ ਡੈਸਕਟਾਪ</translation>
+<translation id="7401733114166276557">Egon ਰਿਮੋਟ ਡੈਸਕਟਾਪ</translation>
 <translation id="7434397035092923453">ਕਲਾਇੰਟ ਲਈ ਪਹੁੰਚ ਅਸਵੀਕਾਰ ਕੀਤੀ ਗਈ: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">ਕਲਾਇੰਟ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">ਖਾਤਾ ਬਦਲੋ</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">ਕਿਰਪਾ ਕਰਕੇ ਰਿਮੋਟ ਕੰਪਿਊਟਰ ਲਈ ਆਪਣਾ ਪਿੰਨ ਦਾਖਲ ਕਰੋ।</translation>
 <translation id="7895403300744144251">ਰਿਮੋਟ ਕੰਪਿਊਟਰ ਦੀਆਂ ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਤੋਂ ਕਨੈਕਸ਼ਨਾਂ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਦਿੰਦੀਆਂ ਹਨ।</translation>
 <translation id="7936528439960309876">ਸੱਜੇ ਪਾਸੇ ਲਿਜਾਓ</translation>
-<translation id="7970576581263377361">ਪ੍ਰਮਾਣੀਕਰਨ ਅਸਫਲ ਰਿਹਾ। ਕਿਰਪਾ ਕਰਕੇ Chromium 'ਤੇ ਦੁਬਾਰਾ ਸਾਈਨ-ਇਨ ਕਰੋ।</translation>
+<translation id="7970576581263377361">ਪ੍ਰਮਾਣੀਕਰਨ ਅਸਫਲ ਰਿਹਾ। ਕਿਰਪਾ ਕਰਕੇ Egon 'ਤੇ ਦੁਬਾਰਾ ਸਾਈਨ-ਇਨ ਕਰੋ।</translation>
 <translation id="7981525049612125370">ਰਿਮੋਟ ਸੈਸ਼ਨ ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ।</translation>
 <translation id="8038111231936746805">(ਪੂਰਵ-ਨਿਰਧਾਰਤ)</translation>
 <translation id="8041089156583427627">ਵਿਚਾਰ ਭੇਜੋ</translation>
 <translation id="8060029310790625334">ਮਦਦ ਕੇਂਦਰ</translation>
 <translation id="806699900641041263"><ph name="HOSTNAME" /> ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ</translation>
-<translation id="8073845705237259513">Chrome ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਵਰਤਣ ਲਈ, ਤੁਹਾਨੂੰ ਆਪਣੇ ਡੀਵਾਈਸ 'ਤੇ ਕੋਈ Google ਖਾਤਾ ਸ਼ਾਮਲ ਕਰਨਾ ਪਵੇਗਾ।</translation>
+<translation id="8073845705237259513">Egon ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਵਰਤਣ ਲਈ, ਤੁਹਾਨੂੰ ਆਪਣੇ ਡੀਵਾਈਸ 'ਤੇ ਕੋਈ Google ਖਾਤਾ ਸ਼ਾਮਲ ਕਰਨਾ ਪਵੇਗਾ।</translation>
 <translation id="809687642899217504">ਮੇਰੇ ਕੰਪਿਊਟਰ</translation>
 <translation id="8116630183974937060">ਇੱਕ ਨੈੱਟਵਰਕ ਗੜਬੜ ਹੋਈ। ਕਿਰਪਾ ਕਰਕੇ ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਹਾਡੀ ਡੀਵਾਈਸ ਆਨ-ਲਾਈਨ ਹੈ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</translation>
 <translation id="8295077433896346116"><ph name="PRODUCT_NAME" /> ਨੂੰ ਵਰਤਣ ਲਈ, ਤੁਹਾਨੂੰ 'ਪਹੁੰਚਯੋਗਤਾ' ਇਜਾਜ਼ਤ ਦੇਣ ਦੀ ਲੋੜ ਹੈ ਤਾਂ ਜੋ ਦੂਰ-ਦੁਰਾਡੇ ਦੀ ਮਸ਼ੀਨ ਤੋਂ ਇਨਪੁੱਟ ਨੂੰ ਇਸ Mac 'ਤੇ ਪਾਇਆ ਜਾ ਸਕੇ।
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">Chromoting ਨੂੰ ਵਰਤਣ ਲਈ, ਤੁਹਾਨੂੰ ਆਪਣੇ ਡੀਵਾਈਸ 'ਤੇ ਕੋਈ Google ਖਾਤਾ ਸ਼ਾਮਲ ਕਰਨਾ ਪਵੇਗਾ।</translation>
 <translation id="8386846956409881180">ਹੋਸਟ ਨੂੰ ਅਵੈਧ OAuth ਕ੍ਰੀਡੈਂਸ਼ੀਅਲਾਂ ਨਾਲ ਸੰਰੂਪਿਤ ਕੀਤਾ ਗਿਆ ਹੈ।</translation>
 <translation id="8397385476380433240"><ph name="PRODUCT_NAME" /> ਨੂੰ ਇਜਾਜ਼ਤ ਦਿਓ</translation>
-<translation id="8406498562923498210">ਆਪਣੇ Chrome ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਵਾਤਾਵਰਨ ਅੰਦਰ ਲਾਂਚ ਕਰਨ ਲਈ ਸੈਸ਼ਨ ਚੁਣੋ। (ਨੋਟ ਕਰੋ ਕਿ ਕੁਝ ਸੈਸ਼ਨ ਕਿਸਮਾਂ ਸ਼ਾਇਦ ਇੱਕੋ ਵੇਲੇ Chrome ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਅਤੇ ਸਥਾਨਕ ਕੰਸੋਲ 'ਤੇ ਚਲਣ ਦਾ ਸਮਰਥਨ ਨਾ ਕਰਨ।)</translation>
+<translation id="8406498562923498210">ਆਪਣੇ Egon ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਵਾਤਾਵਰਨ ਅੰਦਰ ਲਾਂਚ ਕਰਨ ਲਈ ਸੈਸ਼ਨ ਚੁਣੋ। (ਨੋਟ ਕਰੋ ਕਿ ਕੁਝ ਸੈਸ਼ਨ ਕਿਸਮਾਂ ਸ਼ਾਇਦ ਇੱਕੋ ਵੇਲੇ Egon ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਅਤੇ ਸਥਾਨਕ ਕੰਸੋਲ 'ਤੇ ਚਲਣ ਦਾ ਸਮਰਥਨ ਨਾ ਕਰਨ।)</translation>
 <translation id="8428213095426709021">ਸੈਟਿੰਗਾਂ</translation>
 <translation id="8445362773033888690">Google Play Store ਵਿੱਚ ਦੇਖੋ</translation>
 <translation id="8509907436388546015">ਡੈਸਕਟਾਪ ਇੰਟੀਗ੍ਰੇਸ਼ਨ ਪ੍ਰਕਿਰਿਆ-ਅਧੀਨ</translation>
@@ -184,13 +184,13 @@
 <translation id="8743328882720071828">ਕੀ ਤੁਸੀਂ <ph name="CLIENT_USERNAME" /> ਨੂੰ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਦੇਖਣ ਅਤੇ ਕੰਟਰੋਲ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?</translation>
 <translation id="8747048596626351634">ਸੈਸ਼ਨ ਕ੍ਰੈਸ਼ ਹੋ ਗਿਆ ਜਾਂ ਸ਼ੁਰੂ ਹੋਣ ਵਿੱਚ ਅਸਫਲ ਰਿਹਾ। ਜੇਕਰ ਰਿਮੋਟ ਕੰਪਿਊਟਰ 'ਤੇ ~/.chrome-remote-desktop-session ਮੌਜੂਦ ਹੈ, ਤਾਂ ਇਸਦਾ ਕਿਸੇ ਡੈਸਕਟਾਪ ਵਾਤਾਵਰਨ ਜਾਂ ਵਿੰਡੋ ਪ੍ਰਬੰਧਕ ਵਜੋਂ ਸਾਹਮਣੇ ਚੱਲਣ ਵਾਲੀ ਲੰਬੀ-ਪ੍ਰਕਿਰਿਆ ਵਾਂਗ ਚੱਲਣਾ ਪੱਕਾ ਕਰੋ।</translation>
 <translation id="8804164990146287819">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</translation>
-<translation id="8906511416443321782">ਆਡੀਓ ਕੈਪਚਰ ਕਰਨ ਅਤੇ ਇਸਨੂੰ Chrome ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਕਲਾਇੰਟ ਵਿੱਚ ਸਟ੍ਰੀਮ ਕਰਨ ਲਈ ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਤੱਕ ਪਹੁੰਚ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ।</translation>
+<translation id="8906511416443321782">ਆਡੀਓ ਕੈਪਚਰ ਕਰਨ ਅਤੇ ਇਸਨੂੰ Egon ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਕਲਾਇੰਟ ਵਿੱਚ ਸਟ੍ਰੀਮ ਕਰਨ ਲਈ ਮਾਈਕ੍ਰੋਫ਼ੋਨ ਤੱਕ ਪਹੁੰਚ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ।</translation>
 <translation id="9111855907838866522">ਤੁਸੀਂ ਆਪਣੇ ਰਿਮੋਟ ਡੀਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਹੋ। ਮੀਨੂ ਖੋਲ੍ਹਣ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਸਕ੍ਰੀਨ 'ਤੇ ਚਾਰ ਉਂਗਲੀਆਂ ਨਾਲ ਟੈਪ ਕਰੋ।</translation>
 <translation id="9126115402994542723">ਇਸ ਡਿਵਾਈਸ ਤੋਂ ਇਸ ਹੋਸਟ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਵੇਲੇ ਦੁਬਾਰਾ ਪਿੰਨ ਨਾ ਮੰਗੋ।</translation>
 <translation id="916856682307586697">ਪੂਰਵ-ਨਿਰਧਾਰਤ XSession ਲਾਂਚ ਕਰੋ</translation>
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" /> ਨੂੰ 'ਸਕ੍ਰੀਨ ਰਿਕਾਰਡਿੰਗ' ਇਜਾਜ਼ਤ ਦਿਓ</translation>
 <translation id="9213184081240281106">ਕ੍ਰੀਡੈਂਸ਼ੀਅਲ ਹੋਸਟ ਸੰਰੂਪਣ।</translation>
 <translation id="981121421437150478">ਆਫ਼ਲਾਈਨ</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Egon Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (ਪਿਛਲੀ ਵਾਰ ਆਨਲਾਈਨ <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

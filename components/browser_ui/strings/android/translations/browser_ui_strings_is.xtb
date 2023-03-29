@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Dragðu sleðann þangað til þú getur lesið þetta áreynslulaust. Texti ætti að vera að minnsta kosti svona stór eftir að ýtt hefur verið tvisvar á efnisgrein.</translation>
 <translation id="2329473609445770916">Þetta vefsvæði skilgreinir áhugasvið sem önnur vefsvæði geta notað til að birta þér auglýsingar</translation>
 <translation id="2359808026110333948">Halda áfram</translation>
-<translation id="2379925928934107488">Nota dökkt þema fyrir vefsvæði þegar Chrome notar dökkt þema, sé þess kostur</translation>
+<translation id="2379925928934107488">Nota dökkt þema fyrir vefsvæði þegar Egon notar dökkt þema, sé þess kostur</translation>
 <translation id="2387895666653383613">Textastærð</translation>
 <translation id="2390272837142897736">Auka aðdrátt</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">Af vefnum</translation>
 <translation id="321187648315454507">Til að leyfa <ph name="APP_NAME" /> að senda þér tilkynningar þarftu einnig að kveikja á þeim í <ph name="BEGIN_LINK" />stillingum Android<ph name="END_LINK" />.</translation>
 <translation id="3227137524299004712">Hljóðnemi</translation>
-<translation id="3248611290851046188">Þetta vefsvæði skilgreinir áhugasvið sem önnur vefsvæði geta notað til að birta þér auglýsingar. Þetta vefsvæði fær einnig upplýsingar um áhugasvið þín frá Chrome til að birta þér viðeigandi auglýsingar.</translation>
+<translation id="3248611290851046188">Þetta vefsvæði skilgreinir áhugasvið sem önnur vefsvæði geta notað til að birta þér auglýsingar. Þetta vefsvæði fær einnig upplýsingar um áhugasvið þín frá Egon til að birta þér viðeigandi auglýsingar.</translation>
 <translation id="3277252321222022663">Leyfa vefsvæðum að fá aðgang að skynjurum (ráðlagt)</translation>
 <translation id="3285500645985761267">Leyfa tengdum vefsvæðum að sjá virkni þína í hópnum</translation>
 <translation id="3295019059349372795">11. kafli: Smaragðsborgin dásamlega í Oz</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">Þetta hreinsar <ph name="DATASIZE" /> af gögnum og fótsporum sem vefsvæði geyma.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(+ 1 í viðbót)}one{(+ # í viðbót)}other{(+ # í viðbót)}}</translation>
 <translation id="5403592356182871684">Heiti</translation>
-<translation id="5412236728747081950">Þetta vefsvæði fær upplýsingar um áhugasvið þín frá Chrome til að birta þér viðeigandi auglýsingar</translation>
+<translation id="5412236728747081950">Þetta vefsvæði fær upplýsingar um áhugasvið þín frá Egon til að birta þér viðeigandi auglýsingar</translation>
 <translation id="5438097262470833822">Þetta val endurstillir heimildir fyrir <ph name="WEBSITE" /></translation>
 <translation id="5489227211564503167">Liðinn tími: <ph name="ELAPSED_TIME" /> af <ph name="TOTAL_TIME" />.</translation>
 <translation id="5494752089476963479">Útiloka auglýsingar á vefsvæðum sem birta ágengar eða villandi auglýsingar</translation>

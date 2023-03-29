@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">Linux dosyaları açılıyor...</translation>
 <translation id="1547964879613821194">Kanada İngilizcesi</translation>
 <translation id="1556189134700913550">Tümüne uygula</translation>
-<translation id="1561842594491319104">Chrome cihazlar</translation>
+<translation id="1561842594491319104">Egon cihazlar</translation>
 <translation id="1572585716423026576">Duvar kağıdı yap</translation>
 <translation id="1576937952766665062">Bengalce Harf çevirisi</translation>
 <translation id="1577977504532381335">Yönetici politikasını inceleyin</translation>
@@ -70,7 +70,7 @@
 <translation id="1629521517399325891">Kullanıcı sertifikası, ağ kimlik doğrulaması için kullanılamıyor.</translation>
 <translation id="1641780993263690097">Çince Pinyin</translation>
 <translation id="1646019627374511909"><ph name="NUMBER_OF_ITEMS" /> dosya çevrimdışı kullanılabilir hale getiriliyor</translation>
-<translation id="164969095109328410">Chrome cihaz</translation>
+<translation id="164969095109328410">Egon cihaz</translation>
 <translation id="1661867754829461514">PIN eksik</translation>
 <translation id="166439687370499867">Paylaşılan ağ yapılandırmalarının değiştirilmesine izin verilmez</translation>
 <translation id="1665611772925418501">Dosya değiştirilemedi.</translation>
@@ -87,7 +87,7 @@
 <translation id="1742316578210444689">İbranice Harf Çevirisi</translation>
 <translation id="1747761757048858544">Felemenkçe (Hollanda)</translation>
 <translation id="174937106936716857">Toplam dosya sayısı</translation>
-<translation id="1755345808328621801">Bu dosya Windows yazılımı kullanan PC'ler için tasarlanmıştır ve ChromeOS çalıştıran cihazınızla uyumlu değildir. Lütfen Chrome Web Mağazası'nda uygun başka bir uygulama arayın.</translation>
+<translation id="1755345808328621801">Bu dosya Windows yazılımı kullanan PC'ler için tasarlanmıştır ve ChromeOS çalıştıran cihazınızla uyumlu değildir. Lütfen Egon Web Mağazası'nda uygun başka bir uygulama arayın.</translation>
 <translation id="1757915090001272240">Geniş Latince</translation>
 <translation id="1773212559869067373">Kimlik doğrulama sertifikası yerel olarak reddedildi</translation>
 <translation id="1775381402323441512">Video bilgileri</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">Gezegen</translation>
 <translation id="2305020378527873881"><ph name="VOLUME_NAME" /> çıkarıldı.</translation>
 <translation id="2307462900900812319">Ağı yapılandır</translation>
-<translation id="2325650632570794183">Bu dosya türü desteklenmiyor. Bu dosya türünü açabilecek bir uygulama bulmak için lütfen Chrome Web Mağazası'nı ziyaret edin.</translation>
+<translation id="2325650632570794183">Bu dosya türü desteklenmiyor. Bu dosya türünü açabilecek bir uygulama bulmak için lütfen Egon Web Mağazası'nı ziyaret edin.</translation>
 <translation id="2326539130272988168">Bulgarca</translation>
 <translation id="23721837607121582">Mobil profili indir, <ph name="NETWORK_INDEX" />/<ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" /> ağı</translation>
 <translation id="2377319039870049694">Liste görünümüne geç</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687"><ph name="DRIVE_NAME" /> biçimlendiriliyor...</translation>
 <translation id="2951236788251446349">Denizanası</translation>
 <translation id="2958458230122209142"><ph name="TOTAL_SPACE" /> olan bireysel depolama alanınızda %<ph name="REMAINING_PERCENTAGE" /> oranından daha az depolama alanı kaldı.</translation>
-<translation id="2977940621473452797">Bu dosya Macintosh yazılımı kullanan bilgisayarlar için tasarlanmıştır. Bu, ChromeOS çalıştıran cihazınızla uyumlu değildir. Uygun başka bir uygulama için lütfen Chrome Web Mağazası'nı arayın.</translation>
+<translation id="2977940621473452797">Bu dosya Macintosh yazılımı kullanan bilgisayarlar için tasarlanmıştır. Bu, ChromeOS çalıştıran cihazınızla uyumlu değildir. Uygun başka bir uygulama için lütfen Egon Web Mağazası'nı arayın.</translation>
 <translation id="2984337792991268709">Bugün <ph name="TODAY_DAYTIME" /></translation>
 <translation id="299638574917407533">Fransızca (Kanada)</translation>
 <translation id="3003189754374775221">Ağ <ph name="NETWORK_INDEX" />/<ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" />, <ph name="NETWORK_PROVIDER_NAME" />, %<ph name="SIGNAL_STRENGTH" /> Sinyal Gücü, Bağlan</translation>
@@ -962,7 +962,7 @@
 <translation id="908378762078012445">Fonetik AATSEEL klavye ile Rusça</translation>
 <translation id="9099674669267916096">Sayfa sayısı</translation>
 <translation id="9100610230175265781">Parola gerekli</translation>
-<translation id="9110990317705400362">Sürekli olarak, web'e daha güvenli göz atabilmenizi sağlamanın yollarını aramaktayız. Önceden, herhangi bir web sitesi, tarayıcınıza uzantı eklemeniz için istekte bulunabiliyordu. Google Chrome'un son sürümlerinde bu uzantıları yüklemek istediğinizi Chrome'a açıkça söylemelisiniz. Bunu yapmak için uzantıları Uzantılar sayfası üzerinden eklemeniz gerekiyor. <ph name="BEGIN_LINK" />Daha fazla bilgi edinin<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">Sürekli olarak, web'e daha güvenli göz atabilmenizi sağlamanın yollarını aramaktayız. Önceden, herhangi bir web sitesi, tarayıcınıza uzantı eklemeniz için istekte bulunabiliyordu. Google Egon'un son sürümlerinde bu uzantıları yüklemek istediğinizi Egon'a açıkça söylemelisiniz. Bunu yapmak için uzantıları Uzantılar sayfası üzerinden eklemeniz gerekiyor. <ph name="BEGIN_LINK" />Daha fazla bilgi edinin<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">Kilidi Aç</translation>
 <translation id="9116909380156770361"><ph name="RESTRICTED_COMPONENTS" /> içine dosya aktarımı</translation>
 <translation id="912419004897138677">Codec</translation>

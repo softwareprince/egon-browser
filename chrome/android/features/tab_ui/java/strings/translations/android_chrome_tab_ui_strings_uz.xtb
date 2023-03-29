@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> ta varaq oxirgi vaqtlarda ishlatilmayapti. Ular yopilsinmi?</translation>
 <translation id="1181037720776840403">Olib tashlash</translation>
 <translation id="125153950246128346">Boshqa varaqni ochish uchun bosing</translation>
-<translation id="1403228085774130835">Yopilgan varaqlar Chrome asosiy menyusidagi Oxirgi varaqlar bandida chiqadi</translation>
+<translation id="1403228085774130835">Yopilgan varaqlar Egon asosiy menyusidagi Oxirgi varaqlar bandida chiqadi</translation>
 <translation id="1455506303394048917">Bu inkognito varaqlardagi xatti-harakatlaringiz ushbu qurilmadan tozalanadi</translation>
 <translation id="1499635324672558517">Barcha inkognito varaqlar yopilsinmi?</translation>
 <translation id="1657719826150349398">Varaqni pastga tushirish</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Doʻkon axboroti ekranning yuqori qismida chiqadi</translation>
 <translation id="5558362125926932819"><ph name="NUMBER_OF_TABS" /> varaqli guruhni yopish</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> ta varaq guruhlandi</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Chrome brauzeridan <ph name="TABS_COUNT_ONE" /> ta havola}other{Chrome brauzeridan <ph name="TABS_COUNT_MANY" /> ta havola}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Egon brauzeridan <ph name="TABS_COUNT_ONE" /> ta havola}other{Egon brauzeridan <ph name="TABS_COUNT_MANY" /> ta havola}}</translation>
 <translation id="575494663145460764">Narxlar tushganda xabar qilinsinmi?</translation>
 <translation id="58326064309361797">Varaqlarni guruhlash uchun bir-birining ustiga torting</translation>
 <translation id="5846292395804797011"><ph name="NUMBER_OF_TABS" /> varaqli <ph name="TITLE_OF_GROUP" /> guruhini yopish</translation>

@@ -18,7 +18,7 @@
 <translation id="1076421457278169141">Na-scan na ang code</translation>
 <translation id="1076785341346483463">I-sync sa Pinapamahalaang Account</translation>
 <translation id="1084365883616172403">Kumpleto na ang pag-post sa Facebook.</translation>
-<translation id="1085696779717592361">Gamitin ang Chrome Bilang Default</translation>
+<translation id="1085696779717592361">Gamitin ang Egon Bilang Default</translation>
 <translation id="1103523840287552314">Palaging i-translate ang <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">Lumipat sa Nakabukas na Window</translation>
 <translation id="1112015203684611006">Hindi na-print.</translation>
@@ -32,13 +32,13 @@
 <translation id="1165039591588034296">Error</translation>
 <translation id="1172898394251786223">Susunod na field</translation>
 <translation id="1176932207622159128">Di Ma-save Larawan</translation>
-<translation id="1177414119866731261">Buksan ang Menu ng Chrome</translation>
+<translation id="1177414119866731261">Buksan ang Menu ng Egon</translation>
 <translation id="1181037720776840403">Alisin</translation>
 <translation id="1207113853726624428">Bagong Paghahanap</translation>
 <translation id="1209206284964581585">Itago sa ngayon</translation>
 <translation id="1219674500290482172">Hindi makakonekta sa Internet.</translation>
 <translation id="122699739164161391">Isara ang Lahat ng Tab</translation>
-<translation id="1229222343402087523">Hanapin ang ${searchPhrase} sa Chrome</translation>
+<translation id="1229222343402087523">Hanapin ang ${searchPhrase} sa Egon</translation>
 <translation id="1242044645101871359">Mag-sign In Ulit</translation>
 <translation id="1254117744268754948">Pumili ng Folder</translation>
 <translation id="1254424942107648268">Hanapin ang Nakaraan</translation>
@@ -128,7 +128,7 @@
 <translation id="1941314575388338491">I-double tap upang kopyahin.</translation>
 <translation id="1943478190258551035">Menu → Mga Setting</translation>
 <translation id="1952172573699511566">Magpapakita ang mga website ng text sa iyong gustong wika, kung posible.</translation>
-<translation id="1965935827552890526">Tapusin ang ginagawa mo sa iyong iba pang nakabukas na window ng Chrome.</translation>
+<translation id="1965935827552890526">Tapusin ang ginagawa mo sa iyong iba pang nakabukas na window ng Egon.</translation>
 <translation id="1973912524893600642">Panatilihin ang Data</translation>
 <translation id="1974060860693918893">Advanced</translation>
 <translation id="1981118202195772574">Mobile</translation>
@@ -149,8 +149,8 @@
 <translation id="2139867232736819575">Maghanap para sa Text na Kinopya Mo</translation>
 <translation id="214201757571129614">Mag-sign In…</translation>
 <translation id="2149973817440762519">I-edit ang Bookmark</translation>
-<translation id="2150175299852799498">Chrome para sa Mobile</translation>
-<translation id="2155145621546387786">Ibahagi ang Chrome</translation>
+<translation id="2150175299852799498">Egon para sa Mobile</translation>
+<translation id="2155145621546387786">Ibahagi ang Egon</translation>
 <translation id="2175927920773552910">QR Code</translation>
 <translation id="2178545675770638239">Pumili ng Password</translation>
 <translation id="2218443599109088993">Zoom Out</translation>
@@ -232,13 +232,13 @@ Hindi magagamit ng mga site ang cookies para makita ang iyong aktibidad sa pag-b
 <translation id="2797029671965852011">Ipakita ang History</translation>
 <translation id="2800683595868705743">Umalis sa Tagalipat ng Tab</translation>
 <translation id="2815198996063984598">2. I-tap ang Default na Browser App</translation>
-<translation id="2820289420301699633">May kontrol ang iyong administrator sa Chrome at maa-access niya ang data nito</translation>
+<translation id="2820289420301699633">May kontrol ang iyong administrator sa Egon at maa-access niya ang data nito</translation>
 <translation id="2830972654601096923">Pamahalaan ang Mga Address...</translation>
 <translation id="2834399722155632105">3. I-tap ang Mga Opsyon sa Password</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">I-reset ang Mga Setting ng Pagsasalin</translation>
 <translation id="2848086008667475748">Gawing Default sa Mga Setting…</translation>
-<translation id="2858204748079866344">Para protektahan ang iyong privacy, hindi io-autofill ng Chrome ang password mo sa field na ito.</translation>
+<translation id="2858204748079866344">Para protektahan ang iyong privacy, hindi io-autofill ng Egon ang password mo sa field na ito.</translation>
 <translation id="285960592395650245">Subukan Ulit ang Download</translation>
 <translation id="2870560284913253234">Site</translation>
 <translation id="2871695793448672541">Nakatago, Password</translation>
@@ -256,7 +256,7 @@ Hindi magagamit ng mga site ang cookies para makita ang iyong aktibidad sa pag-b
 <translation id="292639812446257861">Markahan Bilang Hindi pa Nababasa</translation>
 <translation id="2932085390869194046">Magmungkahi ng Password...</translation>
 <translation id="2932765531295814441">Manual na Magdagdag ng Mga Password</translation>
-<translation id="2952581218264071393">1. Buksan ang Mga Setting ng Chrome</translation>
+<translation id="2952581218264071393">1. Buksan ang Mga Setting ng Egon</translation>
 <translation id="2958718410589002129">Mga Password</translation>
 <translation id="2961210776189273067">Pamagat</translation>
 <translation id="2964349545761222050">I-block ang Third-Party Cookies</translation>
@@ -312,7 +312,7 @@ Tingnan ang mga tagubilin ng iyong search engine para sa pag-delete sa history n
 <translation id="3371831930909698441">Available ang pagsasalin. May mga opsyon malapit sa ibaba ng screen.</translation>
 <translation id="3377063233124932127">Nasa taas na ngayon ang iyong mga naka-save na bookmark, password, at higit pa.</translation>
 <translation id="3393920035788932672">Pinapayagan ang Mga Pop-up</translation>
-<translation id="3399930248910934354">Buksan ang Mga Setting ng Chrome</translation>
+<translation id="3399930248910934354">Buksan ang Mga Setting ng Egon</translation>
 <translation id="3404744938087714423">Mao-off ang pag-sync kung magsa-sign out.</translation>
 <translation id="3425644765244388016">Nickname ng Card</translation>
 <translation id="3433057996795775706">Kapag na-delete ang password na ito, hindi ide-delete ang iyong account sa <ph name="WEBSITE" />. Palitan ang iyong password sa <ph name="WEBSITE" /> para mapanatili itong ligtas mula sa iba.</translation>
@@ -355,7 +355,7 @@ Tingnan ang mga tagubilin ng iyong search engine para sa pag-delete sa history n
 <translation id="3709582977625132201">Markahan Bilang Hindi pa Nababasa</translation>
 <translation id="371230970611282515">Hinuhulaan ang mga mapanganib na event at binibigyan ka ng babala tungkol sa mga ito bago mangyari ang mga ito.</translation>
 <translation id="37207012422556617">Mga Trending na Paghahanap</translation>
-<translation id="3740397331642243698">Bubuksan sa Incognito ang mga inilagay na URL sa Google Chrome.</translation>
+<translation id="3740397331642243698">Bubuksan sa Incognito ang mga inilagay na URL sa Google Egon.</translation>
 <translation id="3762232513783804601">Ginawa Para sa Iyong iPad</translation>
 <translation id="3768725474733206671">Buksan Ulit ang Huling Isinarang Tab</translation>
 <translation id="3771033907050503522">Mga Tab na Incognito</translation>
@@ -374,12 +374,12 @@ Tingnan ang mga tagubilin ng iyong search engine para sa pag-delete sa history n
 <translation id="3858860766373142691">Pangalan</translation>
 <translation id="3861486700625780712">Huwag nang subaybayan</translation>
 <translation id="3863769054730344136">Ipadala sa Iyong Mga Device</translation>
-<translation id="387280738075653372">I-download ang Chrome dito.</translation>
+<translation id="387280738075653372">I-download ang Egon dito.</translation>
 <translation id="3888863481921783344">Gagamitin ito para ipakita sa iyo ang mga posibleng inimbitahan sa event mo.</translation>
 <translation id="3892144330757387737">Makikita mo rito ang iyong history</translation>
 <translation id="3897092660631435901">Menu</translation>
 <translation id="3904829425754749514">Na-off ng iyong organisasyon ang pag-sync. Makikita mo pa rin ang iyong mga bookmark, history, password, at iba pang setting sa device na ito. Kung gagawa ka ng mga pagbabago, hindi masi-sync ang mga ito sa iyong account.</translation>
-<translation id="3913386780052199712">Naka-sign in sa Chrome</translation>
+<translation id="3913386780052199712">Naka-sign in sa Egon</translation>
 <translation id="3915450441834151894">Impormasyon ng Site</translation>
 <translation id="3922310737605261887">Maghanap para sa Kinopyang Text</translation>
 <translation id="3928666092801078803">Pagsamahin ang aking data</translation>
@@ -522,7 +522,7 @@ Para baguhin ang setting na ito, <ph name="BEGIN_LINK" />i-reset ang pag-sync<ph
 <translation id="4979397965658815378">Mag-sign in gamit ang Google Account mo para makuha ang iyong mga bookmark, password, history at iba pang mga setting sa lahat ng device mo</translation>
 <translation id="4986678885919050584">Alisin sa Device na ito</translation>
 <translation id="4989542687859782284">Hindi Available</translation>
-<translation id="498985224078955265">Para ipadala ang tab na ito sa ibang device, mag-sign in sa Chrome sa dalawang device.</translation>
+<translation id="498985224078955265">Para ipadala ang tab na ito sa ibang device, mag-sign in sa Egon sa dalawang device.</translation>
 <translation id="5005498671520578047">Kopyahin password</translation>
 <translation id="5017828934289857214">Paalalahanan Ako Sa Ibang Pagkakataon</translation>
 <translation id="5037676449506322593">Select All</translation>
@@ -532,19 +532,19 @@ Para baguhin ang setting na ito, <ph name="BEGIN_LINK" />i-reset ang pag-sync<ph
 <translation id="5062321486222145940">I-install - Google Drive</translation>
 <translation id="5083464117946352670">Hindi matukoy ang file size.</translation>
 <translation id="5090832849094901128">Kapag na-delete ang password na ito, hindi ide-delete ang iyong account sa <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">Puwede kang mag-save ng mga page para basahin sa ibang pagkakataon o nang offline. Tatanungin ka ng Chrome kung gusto mong mag-save ng mahahabang page.</translation>
+<translation id="5092117651143801290">Puwede kang mag-save ng mga page para basahin sa ibang pagkakataon o nang offline. Tatanungin ka ng Egon kung gusto mong mag-save ng mahahabang page.</translation>
 <translation id="5094827893301452931">Kumpleto na ang Tweet.</translation>
 <translation id="5118713593561876160">Mga Interes</translation>
 <translation id="5118764316110575523">Naka-off</translation>
-<translation id="5119391094379141756">Piliin ang Chrome</translation>
+<translation id="5119391094379141756">Piliin ang Egon</translation>
 <translation id="5132942445612118989">I-sync ang iyong mga password, history, at higit pa sa lahat ng device</translation>
-<translation id="5140288047769711648">Tatandaan ng Chrome ang password na ito para sa iyo. Hindi mo ito kailangang tandaan.</translation>
+<translation id="5140288047769711648">Tatandaan ng Egon ang password na ito para sa iyo. Hindi mo ito kailangang tandaan.</translation>
 <translation id="5149188072385105201">Magdagdag ng Password...</translation>
 <translation id="5150492518600715772">Ipadala Sa Iyong Device</translation>
 <translation id="5168414296986405587">Binuo para sa iPadOS</translation>
 <translation id="5173088371991956744">Kailangang Ma-verify ng Pag-sync na Ikaw Ito</translation>
 <translation id="5181140330217080051">Nagda-download</translation>
-<translation id="5184329579814168207">Buksan sa Chrome</translation>
+<translation id="5184329579814168207">Buksan sa Egon</translation>
 <translation id="5186185447130319458">Pribado</translation>
 <translation id="5188482106078495165">Nalalapat ang iyong setting ng cookies sa lahat ng tab. Para maglapat ng bagong setting sa isang bukas na tab, i-reload ang tab.</translation>
 <translation id="5190835502935405962">Bar ng Mga Bookmark</translation>
@@ -579,7 +579,7 @@ Para baguhin ang setting na ito, <ph name="BEGIN_LINK" />i-reset ang pag-sync<ph
 <translation id="5490005495580364134">I-block ang Lahat ng Cookies (Hindi Inirerekomenda)</translation>
 <translation id="5513681519188741830"><ph name="TIME" /> (na) oras na ang nakalipas</translation>
 <translation id="5520466080178053306">I-tap ang Passwords Manager at Pagkatapos ay I-tap ang Idagdag</translation>
-<translation id="5525095647255982834">Para ipadala ang tab na ito sa ibang device, mag-sign in sa Chrome doon.</translation>
+<translation id="5525095647255982834">Para ipadala ang tab na ito sa ibang device, mag-sign in sa Egon doon.</translation>
 <translation id="5525269841082836315">Lumikha ng Passphrase</translation>
 <translation id="5542540507657872337">Nakita ang <ph name="COUNT" /></translation>
 <translation id="5548760955356983418">Nagbibigay-daan sa iyo ang handoff na magsimula sa pagba-browse sa isang website sa device na ito at pagkatapos ay magpatuloy kaagad sa iyong Mac. Lalabas ang kasalukuyang nakabukas na website sa Dock ng iyong Mac.
@@ -601,14 +601,14 @@ Dapat ding naka-enable ang handoff sa Pangkalahatang seksyon ng Mga Setting, at 
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Gumawa ng QR Code</translation>
 <translation id="567881659373499783">Bersyon <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Nagpapakita ngayon ng 1 window ng Chrome}one{Nagpapakita ngayon ng {count} window ng Chrome}other{Nagpapakita ngayon ng {count} na window ng Chrome}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Nagpapakita ngayon ng 1 window ng Egon}one{Nagpapakita ngayon ng {count} window ng Egon}other{Nagpapakita ngayon ng {count} na window ng Egon}}</translation>
 <translation id="5701270923492462699">Pinapayagan ang Access sa Camera</translation>
 <translation id="5704908597376970822">Hindi makapag-sign in.</translation>
 <translation id="5706552126692816153">Aktibo 1 Araw ang Nakalipas</translation>
 <translation id="5711039611392265845">Para sa higit pang setting na nauugnay sa privacy, seguridad, at pagkolekta ng data, tingnan ang <ph name="BEGIN_LINK" />Pag-sync at Mga Serbisyo ng Google<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">Para pribadong mag-browse sa web, magdagdag ng bagong tab</translation>
 <translation id="5728700505257787410">Paumanhin, may problema sa pag-sign in sa iyong account.</translation>
-<translation id="5733084997078800044">Tip sa Chrome</translation>
+<translation id="5733084997078800044">Tip sa Egon</translation>
 <translation id="5737974891429562743">Luma na ang mga detalye ng pag-sign in sa account. I-update upang simulan ang pag-sync.</translation>
 <translation id="5738385766833540397">Pamahalaan kung paano mo matatanggap ang mga alerto sa pagbaba ng presyo para sa mga produktong tina-track mo</translation>
 <translation id="5738887413654608789">Nagbibigay-daan ito sa iyo na tumuklas ng mga nauugnay na web page batay sa iyong paligid.</translation>
@@ -623,7 +623,7 @@ Dapat ding naka-enable ang handoff sa Pangkalahatang seksyon ng Mga Setting, at 
 <translation id="5812974770859303494">Idagdag Sa...</translation>
 <translation id="581659025233126501">I-on ang Pag-sync</translation>
 <translation id="5819208479324046259">Pinapamahalaan ng <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Mag-save ng mga password, paraan ng pagbabayad, at address para i-autofill ng Chrome sa ibang pagkakataon.</translation>
+<translation id="5833643789537100742">Mag-save ng mga password, paraan ng pagbabayad, at address para i-autofill ng Egon sa ibang pagkakataon.</translation>
 <translation id="5846482154967366008">Search Engine</translation>
 <translation id="5854790677617711513">Mas matagal sa 30 araw</translation>
 <translation id="5857090052475505287">Bagong Folder</translation>
@@ -650,7 +650,7 @@ Dapat ding naka-enable ang handoff sa Pangkalahatang seksyon ng Mga Setting, at 
 <translation id="5982717868370722439">Idagdag ang kasalukuyang data sa <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Kamakailang Binisita</translation>
 <translation id="5988097621740394599">Tingnan ang mga pagbaba ng presyo sa iyong mga tab.</translation>
-<translation id="5988851877894965432">Buksan ang mga URL sa Chrome</translation>
+<translation id="5988851877894965432">Buksan ang mga URL sa Egon</translation>
 <translation id="6006672969046233841">Bagong Tab</translation>
 <translation id="6012140227487808125">Ine-encrypt…</translation>
 <translation id="6021332621416007159">Buksan sa...</translation>
@@ -676,7 +676,7 @@ Dapat ding naka-enable ang handoff sa Pangkalahatang seksyon ng Mga Setting, at 
 <translation id="6152406514676263192">Mag-sync para sa pinakanauugnay na content batay sa iyong mga interes.</translation>
 <translation id="6159839020698489198">opsyonal</translation>
 <translation id="6170450281939467187">Translation Failed</translation>
-<translation id="6177442314419606057">Search in Chrome</translation>
+<translation id="6177442314419606057">Search in Egon</translation>
 <translation id="6184086493125982861">Ipakita ang Mga Tab</translation>
 <translation id="6187302354554850004">Huling na-sync: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Hindi pa nababasa</translation>
@@ -746,7 +746,7 @@ Subukang gumamit ng natatanging password para sa bawat site.</translation>
 <translation id="6524918542306337007">Hindi Available ang Incognito Mode</translation>
 <translation id="6530992499366869131">Balaan Ka kung Ma-expose ang Mga Password sa isang Paglabag sa Data</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Bumisita sa isang site at i-click ang Subaybayan sa menu ng Chrome</translation>
+<translation id="6540120577248033958">Bumisita sa isang site at i-click ang Subaybayan sa menu ng Egon</translation>
 <translation id="6561262006871132942">Mag-zoom In</translation>
 <translation id="6583087784430677195">Para i-off, buksan ang <ph name="BEGIN_LINK" />Mga Setting<ph name="END_LINK" /> at pumunta sa I-autofill ang Mga Password.</translation>
 <translation id="6585618849026997638">Mababalikan mo ang isang page na mahalaga sa iyo sa pamamagitan ng pagdaragdag ng bookmark</translation>
@@ -864,7 +864,7 @@ Habang nasa Incognito, hindi magagamit ng mga site ang cookies para makita ang i
 <translation id="7454057999980797137">Estado / County</translation>
 <translation id="7459628154744868585">Naka-on ang Pinaigting na Proteksyon</translation>
 <translation id="7464701184726199289">Maki-clear nito ang mga naka-sync na data mula sa lahat ng device. Hindi made-delete ang mga naka-save na setting ng site at maaari nitong ipakita ang iyong mga gawi sa pagba-browse. <ph name="BEGIN_LINK" />Matuto pa<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Piliin ang Chrome</translation>
+<translation id="746684838091935575">3. Piliin ang Egon</translation>
 <translation id="7472734401283673885">Pangalan ng Kumpanya</translation>
 <translation id="7473891865547856676">Hindi, Salamat</translation>
 <translation id="750493650310597496">0 ang napili</translation>
@@ -899,7 +899,7 @@ Habang nasa Incognito, hindi magagamit ng mga site ang cookies para makita ang i
 <translation id="7781011649027948662">Isalin ang Page?</translation>
 <translation id="7781069478569868053">Page ng Bagong Tab</translation>
 <translation id="7781829728241885113">Kahapon</translation>
-<translation id="778855399387580014">Start a search in a new Chrome tab.</translation>
+<translation id="778855399387580014">Start a search in a new Egon tab.</translation>
 <translation id="7791543448312431591">Idagdag</translation>
 <translation id="7807060072011926525">Ibinibigay ng Google</translation>
 <translation id="7839985698273989086">Offline na Page</translation>
@@ -912,7 +912,7 @@ Habang nasa Incognito, hindi magagamit ng mga site ang cookies para makita ang i
 <translation id="7859704718976024901">History ng Pag-browse</translation>
 <translation id="7879275349003161544">Ipakita ang Mga Download</translation>
 <translation id="7884694604461143138">History ng Paghahanap (<ph name="COUNT" /> ang Nakita)</translation>
-<translation id="7887198238286927132">Para protektahan ang iyong privacy, hindi io-autofill ng Chrome ang field na ito.</translation>
+<translation id="7887198238286927132">Para protektahan ang iyong privacy, hindi io-autofill ng Egon ang field na ito.</translation>
 <translation id="7911190106180361398">Hindi ka pinapayagan ng iyong organisasyon na i-sync ang lahat.</translation>
 <translation id="7920949005883349320">Privacy at Seguridad</translation>
 <translation id="7930998711684428189">Binibigyan ka ng babala kung malalantad ang mga password sa paglabag sa data.</translation>
@@ -933,7 +933,7 @@ Puwedeng gumamit ng cookies ang mga site para makita ang iyong aktibidad sa pag-
 <translation id="7982789257301363584">Network</translation>
 <translation id="7987685713885608670">Para sa dagdag na kaligtasan, i-encrypt ang mga password sa iyong device bago i-save ang mga ito sa Google Password Manager.</translation>
 <translation id="7993619969781047893">Posibleng masira ang mga feature sa ilang site</translation>
-<translation id="800361585186029508">Binubuksan ang mga inilagay na URL sa Google Chrome.</translation>
+<translation id="800361585186029508">Binubuksan ang mga inilagay na URL sa Google Egon.</translation>
 <translation id="8016714545083187120">Palaging Gumamit ng Mga Secure na Koneksyon</translation>
 <translation id="802154636333426148">Hindi na-download</translation>
 <translation id="8023878949384262191">Pinapalawak ang seksyon.</translation>
@@ -942,7 +942,7 @@ Puwedeng gumamit ng cookies ang mga site para makita ang iyong aktibidad sa pag-
 <translation id="804225253087497565">Posibleng ma-save sa iyong Google Account ang <ph name="BEGIN_LINK" />history ng paghahanap<ph name="END_LINK" /> at <ph name="BEGIN_LINK" />iba pang anyo ng aktibidad<ph name="END_LINK" /> kapag naka-sign in ka. Puwede mong i-delete ang mga ito anumang oras.</translation>
 <translation id="804427445359061970">Makikita mo rito ang iyong mga tab mula sa iba pang device</translation>
 <translation id="8059533439631660104">Kino-collapse ang seksyon.</translation>
-<translation id="8065292699993359127">Buksan ang mga URL sa Chrome sa Incognito</translation>
+<translation id="8065292699993359127">Buksan ang mga URL sa Egon sa Incognito</translation>
 <translation id="806745655614357130">Panatilihing hiwalay ang aking data</translation>
 <translation id="8073670137947914548">Tapos na ang pag-download</translation>
 <translation id="8073872304774253879">Mas Pahusayin ang Mga Paghahanap at Pagba-browse</translation>
@@ -956,7 +956,7 @@ Puwedeng gumamit ng cookies ang mga site para makita ang iyong aktibidad sa pag-
 <translation id="8114753159095730575">Available ang pag-download ng file. Available ang mga opsyon malapit sa ibaba ng screen.</translation>
 <translation id="81313319706244542">2. I-tap ang Mga Password</translation>
 <translation id="8132598642024322408"><ph name="PRICE" /> na lang ngayon ang dating <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Gagamitin ito para gumawa ng mga event sa iyong Apple Calendar mula sa Chrome at Google Lens.</translation>
+<translation id="8136856065410661948">Gagamitin ito para gumawa ng mga event sa iyong Apple Calendar mula sa Egon at Google Lens.</translation>
 <translation id="8156478151976189188">Hindi Gumagana ang Password Sync</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> (na) account</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Ang iyong mga device<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Puwedeng gumamit ng cookies ang mga site para makita ang iyong aktibidad sa pag-
 <translation id="8533670235862049797">Naka-on ang Ligtas na Pag-browse</translation>
 <translation id="8534481786647257214">Kumpleto na ang pag-post sa Google+.</translation>
 <translation id="8548878600947630424">Hanapin sa page...</translation>
-<translation id="8558480467877843976">Magagamit mo na ngayon ang Chrome sa tuwing magbo-browse o magta-tap ka ng mga link sa mga mensahe, dokumento, at iba pang app.</translation>
+<translation id="8558480467877843976">Magagamit mo na ngayon ang Egon sa tuwing magbo-browse o magta-tap ka ng mga link sa mga mensahe, dokumento, at iba pang app.</translation>
 <translation id="8588404856427128947">Naka-off</translation>
 <translation id="8590913940444621808">Huwag Magtanong</translation>
 <translation id="8591976964826315682">I-block ang Third-Party na Cookies sa Incognito</translation>
@@ -1043,7 +1043,7 @@ Puwedeng gumamit ng cookies ang mga site para makita ang iyong aktibidad sa pag-
 <translation id="8876882697946675716">Panatilihing Naka-sync ang Iyong Mga Device</translation>
 <translation id="8877287418679067891">Gawing Default sa Mga Setting...</translation>
 <translation id="8881801611828450202">Hanapin sa <ph name="SEARCH_ENGINE" /> ang Larawang Ito</translation>
-<translation id="8891935667620843985">Awtomatiko mong mabubuksan ang mga link sa Chrome sa pamamagitan ng pagtatakda nito bilang iyong Default na Browser App.</translation>
+<translation id="8891935667620843985">Awtomatiko mong mabubuksan ang mga link sa Egon sa pamamagitan ng pagtatakda nito bilang iyong Default na Browser App.</translation>
 <translation id="8898822736010347272">Nagpapadala ng mga URL ng ilang page na binibisita mo, limitadong impormasyon ng system, at ilang content ng page sa Google, para makatulong na tumuklas ng mga bagong banta at protektahan ang lahat ng nasa web.</translation>
 <translation id="890565330728586731">Bumalik</translation>
 <translation id="8909135823018751308">Ibahagi…</translation>
@@ -1068,11 +1068,11 @@ Puwedeng gumamit ng cookies ang mga site para makita ang iyong aktibidad sa pag-
 <translation id="9055960261314198756">Naka-off ang Pinaigting na Proteksyon</translation>
 <translation id="9057972802061533987">Hindi masubaybayan. Nagkaproblema.</translation>
 <translation id="9065203028668620118">I-edit</translation>
-<translation id="9068336935206019333">Buksan sa Chrome Incognito</translation>
+<translation id="9068336935206019333">Buksan sa Egon Incognito</translation>
 <translation id="9079935439869366234">Markahan ang Lahat bilang Hindi pa Nababasa</translation>
 <translation id="9081058212938299310">I-update ang password para sa <ph name="USERNAME" />?</translation>
 <translation id="9083838294503912307">Para mag-sync at mag-personalize sa mga device, i-on ang pag-sync.</translation>
-<translation id="9087108903408689779">Iminungkahing Password ng Chrome:</translation>
+<translation id="9087108903408689779">Iminungkahing Password ng Egon:</translation>
 <translation id="9093271241977565440">Sa Itaas ng Screen, I-tap ang Icon ng Paghahanap</translation>
 <translation id="9094033019050270033">I-update ang password</translation>
 <translation id="9097506547406246598">Hindi ma-unfollow. Nagkaproblema.</translation>
@@ -1089,7 +1089,7 @@ Puwedeng gumamit ng cookies ang mga site para makita ang iyong aktibidad sa pag-
 <translation id="9223358826628549784">Nagpadala ng ulat sa pag-crash.</translation>
 <translation id="941747855997058526">Pumili ng Password...</translation>
 <translation id="952704832371081537">Kanselahin</translation>
-<translation id="953008885340860025">Naka-sign Out ang Chrome</translation>
+<translation id="953008885340860025">Naka-sign Out ang Egon</translation>
 <translation id="959066944189734975">Sinusubaybayan mo ang <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">Pinapayagan ka lang ng iyong organisasyon na mag-sign in gamit ang ilang partikular na account. Nakatago ang mga account na hindi pinapayagan.</translation>
 <translation id="984509647832111802">Hindi Gumagana ang Pag-sync.</translation>

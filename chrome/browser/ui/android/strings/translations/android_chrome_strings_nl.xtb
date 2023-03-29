@@ -15,21 +15,21 @@
 <translation id="1091604859693995976">Vernieuwen om te bekijken</translation>
 <translation id="1095761715416917775">Zorg dat je altijd toegang hebt tot je gesynchroniseerde gegevens</translation>
 <translation id="1100066534610197918">Open in nieuw tabblad in groep</translation>
-<translation id="1103142993930332957">Wil je Chrome helpen verbeteren?</translation>
+<translation id="1103142993930332957">Wil je Egon helpen verbeteren?</translation>
 <translation id="1105960400813249514">Schermopname</translation>
 <translation id="1108938384783527433">Geschiedenissynchronisatie</translation>
 <translation id="1110914759170138831">Markering is ingekort</translation>
 <translation id="1111673857033749125">Hier zie je bookmarks die je op andere apparaten hebt opgeslagen.</translation>
 <translation id="1113597929977215864">Vereenvoudigde weergave bekijken</translation>
 <translation id="1118561384561215815">Hulp bij webtaken</translation>
-<translation id="1123070903960493543">Hoe je Chrome gebruikt, de instellingen die je hebt geselecteerd, details van Chrome-crashes</translation>
+<translation id="1123070903960493543">Hoe je Egon gebruikt, de instellingen die je hebt geselecteerd, details van Egon-crashes</translation>
 <translation id="1126809382673880764">Beschermt je niet tegen gevaarlijke websites, downloads en extensies. Je wordt voor andere services, zoals Gmail en Zoeken, nog steeds beschermd door Safe Browsing als dat beschikbaar is.</translation>
 <translation id="1129510026454351943">Details: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">Niet aanbieden om deze sites te vertalen</translation>
 <translation id="1145536944570833626">Bestaande gegevens verwijderen.</translation>
 <translation id="1146678959555564648">VR activeren</translation>
 <translation id="1149401351239820326">Vervalmaand</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> wordt geopend in Chrome. Als je doorgaat, ga je akkoord met de <ph name="BEGIN_LINK1" />Servicevoorwaarden van Google<ph name="END_LINK1" /> en met de <ph name="BEGIN_LINK2" />Aanvullende servicevoorwaarden van Google Chrome en Chrome OS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> wordt geopend in Egon. Als je doorgaat, ga je akkoord met de <ph name="BEGIN_LINK1" />Servicevoorwaarden van Google<ph name="END_LINK1" /> en met de <ph name="BEGIN_LINK2" />Aanvullende servicevoorwaarden van Google Egon en Egon OS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Pagina niet offline beschikbaar: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Bekijk populaire websites door op de knop Topsites te tikken</translation>
 <translation id="1173894706177603556">Naam wijzigen</translation>
@@ -40,7 +40,7 @@
 <translation id="1201402288615127009">Volgende</translation>
 <translation id="1202892408424955784">Gevolgde producten</translation>
 <translation id="1204037785786432551">Link downloaden</translation>
-<translation id="1204692632633423444">Chrome-actieknop: <ph name="ACTION" /></translation>
+<translation id="1204692632633423444">Egon-actieknop: <ph name="ACTION" /></translation>
 <translation id="1206892813135768548">Linktekst kopiëren</translation>
 <translation id="1208340532756947324">Zet de synchronisatie aan om verschillende apparaten te synchroniseren en te personaliseren</translation>
 <translation id="1209206284964581585">Voorlopig verbergen</translation>
@@ -48,7 +48,7 @@
 <translation id="1231733316453485619">Synchronisatie aanzetten?</translation>
 <translation id="123724288017357924">De pagina opnieuw laden, gecachte content negeren</translation>
 <translation id="1239792311949352652">Deel deze pagina snel. Je kunt deze snelkoppeling bewerken via Instellingen.</translation>
-<translation id="1240190568154816272">Chrome-tips</translation>
+<translation id="1240190568154816272">Egon-tips</translation>
 <translation id="1240288207750131269"><ph name="LANG" /> laden</translation>
 <translation id="1240903469550363138"><ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE" /> deelt je naam, e-mailadres, adres en profielfoto met deze site om door te gaan. Bekijk het <ph name="BEGIN_LINK1" />privacybeleid<ph name="END_LINK1" /> en de <ph name="BEGIN_LINK2" />servicevoorwaarden<ph name="END_LINK2" /> van deze site.</translation>
 <translation id="124116460088058876">Meer talen</translation>
@@ -70,11 +70,11 @@
 <translation id="1316212908214730110">chrome_stylized_highlight_</translation>
 <translation id="1320912611264252795">Proces voor bookmark opslaan is op volledige hoogte geopend</translation>
 <translation id="1327257854815634930">Navigatiegeschiedenis is geopend</translation>
-<translation id="1331212799747679585">Chrome kan niet updaten. Meer opties</translation>
-<translation id="1332100670807501334">Via Advertentiemeting kunnen sites die je bezoekt Chrome om informatie vragen zodat ze de prestaties van hun advertenties kunnen meten. Advertentiemeting beperkt tracking op meerdere sites door zo min mogelijk informatie over te dragen tussen sites.
+<translation id="1331212799747679585">Egon kan niet updaten. Meer opties</translation>
+<translation id="1332100670807501334">Via Advertentiemeting kunnen sites die je bezoekt Egon om informatie vragen zodat ze de prestaties van hun advertenties kunnen meten. Advertentiemeting beperkt tracking op meerdere sites door zo min mogelijk informatie over te dragen tussen sites.
 
 Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor een specifieke site), verwijder je ook de hieraan gekoppelde metingsgegevens. Bekijk <ph name="BEGIN_LINK" />je browsegeschiedenis<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Functiesneltoetsen in Google Chrome</translation>
+<translation id="1332501820983677155">Functiesneltoetsen in Google Egon</translation>
 <translation id="1344653310988386453">Link naar markering opnemen</translation>
 <translation id="1347468774581902829">Activiteit beheren</translation>
 <translation id="1360432990279830238">Uitloggen en synchroniseren uitzetten?</translation>
@@ -87,7 +87,7 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="1386674309198842382"><ph name="LAST_UPDATED" /> dagen geleden actief</translation>
 <translation id="13931502444227376"><ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE" /> deelt je naam, e-mailadres en profielfoto met deze site om door te gaan. Bekijk de <ph name="BEGIN_LINK1" />servicevoorwaarden<ph name="END_LINK1" /> van deze site.</translation>
 <translation id="1397811292916898096">Zoeken met <ph name="PRODUCT_NAME" /></translation>
-<translation id="139993653570221430">Je kunt dit op elk moment wijzigen via de Chrome-instellingen. De proeven worden uitgevoerd in combinatie met de huidige manier waarop advertenties worden weergegeven, dus je ziet de wijzigingen niet meteen.</translation>
+<translation id="139993653570221430">Je kunt dit op elk moment wijzigen via de Egon-instellingen. De proeven worden uitgevoerd in combinatie met de huidige manier waarop advertenties worden weergegeven, dus je ziet de wijzigingen niet meteen.</translation>
 <translation id="1406000523432664303">Niet bijhouden</translation>
 <translation id="1407069428457324124">Donker thema</translation>
 <translation id="1407135791313364759">Alles openen</translation>
@@ -100,7 +100,7 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="1437543266176261764">Wordt uitgevoerd in <ph name="APP_NAME" /></translation>
 <translation id="1448440926884431741">Orden je gevolgde producten in Bookmarks</translation>
 <translation id="1450753235335490080">Kan <ph name="CONTENT_TYPE" /> niet delen</translation>
-<translation id="1466383950273130737">Kies de taal voor Chromium</translation>
+<translation id="1466383950273130737">Kies de taal voor Egon</translation>
 <translation id="1474893630593443211">Meer controle over de advertenties die je te zien krijgt</translation>
 <translation id="1477626028522505441">Downloaden van <ph name="FILE_NAME" /> is mislukt door serverproblemen.</translation>
 <translation id="148482509007564431">Proces voor bookmark opslaan</translation>
@@ -117,8 +117,8 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="1538801903729528855">Betere spraakfunctionaliteit op internet</translation>
 <translation id="1544826120773021464">Tik op de knop 'Account beheren' om je Google-account te beheren</translation>
 <translation id="1549000191223877751">Naar ander venster</translation>
-<translation id="1553358976309200471">Chrome updaten</translation>
-<translation id="1554532453982918912">Help Chrome beter te maken voor mensen die de browser gebruiken op dezelfde manier als jij</translation>
+<translation id="1553358976309200471">Egon updaten</translation>
+<translation id="1554532453982918912">Help Egon beter te maken voor mensen die de browser gebruiken op dezelfde manier als jij</translation>
 <translation id="1558391695376153246">Incognitotabbladen sluiten</translation>
 <translation id="1571304935088121812">Gebruikersnaam kopiëren</translation>
 <translation id="1592864538817356322">Standaardbeveiliging:</translation>
@@ -128,13 +128,13 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 Als je interactie hebt met een site, zoals vaak inloggen op een account, kan die site een trust-token naar je browser sturen. Later kunnen andere bezochte sites checken op tokens. Als ze een geldig trust-token vinden, is het waarschijnlijker dat je voor een persoon wordt aangezien in plaats van een bot.
 
 Trust-tokens verbeteren de privacy op het web en kunnen niet worden gebruikt om je identiteit te achterhalen.</translation>
-<translation id="1627304841979541023"><ph name="BEGIN_BOLD" />Hoe je je gegevens kunt beheren:<ph name="END_BOLD" /> Ter bescherming van je privacy verwijderen we automatisch interesses die ouder zijn dan 4 weken. Het kan gebeuren dat een interesse weer in de lijst komt te staan als je blijft browsen. Je kunt ook interesses verwijderen waarvan je niet wilt dat Chrome deze overweegt.</translation>
+<translation id="1627304841979541023"><ph name="BEGIN_BOLD" />Hoe je je gegevens kunt beheren:<ph name="END_BOLD" /> Ter bescherming van je privacy verwijderen we automatisch interesses die ouder zijn dan 4 weken. Het kan gebeuren dat een interesse weer in de lijst komt te staan als je blijft browsen. Je kunt ook interesses verwijderen waarvan je niet wilt dat Egon deze overweegt.</translation>
 <translation id="1628019612362412531">{NUM_SELECTED,plural, =1{1 geselecteerd item verwijderen}other{# geselecteerde items verwijderen}}</translation>
-<translation id="1633659023549081553">Ontdek nieuwe content op de homepage van Chrome</translation>
+<translation id="1633659023549081553">Ontdek nieuwe content op de homepage van Egon</translation>
 <translation id="1641113438599504367">Safe Browsing</translation>
 <translation id="164269334534774161">Je bekijkt een offline exemplaar van deze pagina van <ph name="CREATION_TIME" /></translation>
 <translation id="1644574205037202324">Geschiedenis</translation>
-<translation id="1668122540633280551">Bepaal hoe videovoorbeelden automatisch worden afgespeeld op de Chrome-homepage.</translation>
+<translation id="1668122540633280551">Bepaal hoe videovoorbeelden automatisch worden afgespeeld op de Egon-homepage.</translation>
 <translation id="1670399744444387456">Basis</translation>
 <translation id="1671236975893690980">Download in behandeling…</translation>
 <translation id="1672586136351118594">Niet opnieuw bekijken</translation>
@@ -145,7 +145,7 @@ Trust-tokens verbeteren de privacy op het web en kunnen niet worden gebruikt om 
 <translation id="1710099199314114079">Tabbladen schakelen of sluiten</translation>
 <translation id="1718835860248848330">Afgelopen uur</translation>
 <translation id="1724977129262658800">Ontgrendel om je wachtwoord te bewerken</translation>
-<translation id="1726477445370128854">Je kunt sneller browsen en zoeken als Chrome pagina's vooraf laadt waarvan Chrome denkt dat je ze misschien gaat bezoeken</translation>
+<translation id="1726477445370128854">Je kunt sneller browsen en zoeken als Egon pagina's vooraf laadt waarvan Egon denkt dat je ze misschien gaat bezoeken</translation>
 <translation id="173522743738009831">Over Privacy Sandbox</translation>
 <translation id="1736419249208073774">Verkennen</translation>
 <translation id="1749561566933687563">Synchroniseer je bookmarks</translation>
@@ -161,27 +161,27 @@ Trust-tokens verbeteren de privacy op het web en kunnen niet worden gebruikt om 
 <translation id="1829244130665387512">Zoeken op pagina</translation>
 <translation id="1832459821645506983">Ja, is goed</translation>
 <translation id="1849863543394887018">Je kunt meldingen uitzetten door naar de instellingen te gaan</translation>
-<translation id="1854311313115643875">Tijdens actieve proeven kunnen sites die je bezoekt Chrome via Advertentiemeting om informatie vragen zodat ze de prestaties van hun advertenties kunnen meten. Advertentiemeting beperkt tracking op meerdere sites door zo min mogelijk informatie over te dragen tussen sites.
+<translation id="1854311313115643875">Tijdens actieve proeven kunnen sites die je bezoekt Egon via Advertentiemeting om informatie vragen zodat ze de prestaties van hun advertenties kunnen meten. Advertentiemeting beperkt tracking op meerdere sites door zo min mogelijk informatie over te dragen tussen sites.
 
 Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor een specifieke site), verwijder je ook de hieraan gekoppelde metingsgegevens. Bekijk <ph name="BEGIN_LINK" />je browsegeschiedenis<ph name="END_LINK" />.</translation>
-<translation id="1877026089748256423">Chrome is verouderd</translation>
+<translation id="1877026089748256423">Egon is verouderd</translation>
 <translation id="1883903952484604915">Mijn bestanden</translation>
 <translation id="189358972401248634">Andere talen</translation>
 <translation id="1900260903084164610">Door verder te gaan, ga je akkoord met de <ph name="BEGIN_TOS_LINK" />Servicevoorwaarden<ph name="END_TOS_LINK" />.</translation>
 <translation id="1904580727789512086">De URL's die je bezoekt, worden opgeslagen in je Google-account</translation>
 <translation id="1910950723001426294">Lijst met deelopties is gesloten.</translation>
 <translation id="1918175104945982129">UI om toestemming voor gesproken zoekopdrachten via de Assistent te geven is op halve hoogte geopend</translation>
-<translation id="1919130412786645364">Inloggen bij Chrome toestaan</translation>
+<translation id="1919130412786645364">Inloggen bij Egon toestaan</translation>
 <translation id="1922362554271624559">Voorgestelde talen</translation>
 <translation id="1925021887439448749">Aangepast webadres opgeven</translation>
 <translation id="1928696683969751773">Updates</translation>
-<translation id="19288952978244135">Open Chrome opnieuw.</translation>
+<translation id="19288952978244135">Open Egon opnieuw.</translation>
 <translation id="1933845786846280168">Geselecteerd tabblad</translation>
 <translation id="193571872656840963">Deze maker bedanken</translation>
 <translation id="1943432128510653496">Wachtwoorden opslaan</translation>
 <translation id="1952172573699511566">Websites worden indien mogelijk getoond in je voorkeurstaal.</translation>
 <translation id="1959679933317802873">Wachten op content</translation>
-<translation id="1960290143419248813">Updates van Chrome worden niet meer ondersteund voor deze versie van Android</translation>
+<translation id="1960290143419248813">Updates van Egon worden niet meer ondersteund voor deze versie van Android</translation>
 <translation id="1963976881984600709">Standaardbeveiliging</translation>
 <translation id="1966710179511230534">Update je inloggegevens.</translation>
 <translation id="197288927597451399">Behouden</translation>
@@ -195,7 +195,7 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="2013642289801508067">{FILE_COUNT,plural, =1{# bestand}other{# bestanden}}</translation>
 <translation id="2021896219286479412">Siteopties op volledig scherm</translation>
 <translation id="2038563949887743358">'Desktopsite aanvragen' aanzetten</translation>
-<translation id="204321170514947529"><ph name="APP_NAME" /> heeft ook gegevens in Chrome</translation>
+<translation id="204321170514947529"><ph name="APP_NAME" /> heeft ook gegevens in Egon</translation>
 <translation id="2046634576464120978">Registratie mislukt</translation>
 <translation id="2049574241039454490"><ph name="FILE_SIZE_OF_TOTAL" /> <ph name="SEPARATOR" /> <ph name="DESCRIPTION" /></translation>
 <translation id="2052422354554967744">Zoeken op internet</translation>
@@ -213,13 +213,13 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="2122601567107267586">Kan app niet openen</translation>
 <translation id="2132122640199389833">Alle gekoppelde apparaten verwijderen</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> gesloten</translation>
-<translation id="2134927169889348449">Door Chrome te gebruiken, ga je akkoord met de <ph name="BEGIN_TOS_LINK" />Servicevoorwaarden van Google<ph name="END_TOS_LINK" /> en met de <ph name="BEGIN_ATOS_LINK" />Aanvullende servicevoorwaarden van Google Chrome en Chrome OS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Door Egon te gebruiken, ga je akkoord met de <ph name="BEGIN_TOS_LINK" />Servicevoorwaarden van Google<ph name="END_TOS_LINK" /> en met de <ph name="BEGIN_ATOS_LINK" />Aanvullende servicevoorwaarden van Google Egon en Egon OS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Toevoegen aan startscherm</translation>
 <translation id="2141396931810938595">Gebaseerd op je gebruik</translation>
-<translation id="214888715418183969">Kies welke informatie je bereid bent te delen met Chrome. De statistieken die je deelt, worden gebruikt om de functies, prestaties en stabiliteit van Chrome te verbeteren.</translation>
+<translation id="214888715418183969">Kies welke informatie je bereid bent te delen met Egon. De statistieken die je deelt, worden gebruikt om de functies, prestaties en stabiliteit van Egon te verbeteren.</translation>
 <translation id="2149973817440762519">Bookmark bewerken</translation>
 <translation id="2155214902713132423">Deze verificatiemethode is niet beschikbaar voor dit apparaat. Kies een andere optie op je andere apparaat.</translation>
-<translation id="2158408438301413340">Chrome kan niet alle wachtwoorden checken</translation>
+<translation id="2158408438301413340">Egon kan niet alle wachtwoorden checken</translation>
 <translation id="2172688499998841696">Afbeeldingsbeschrijvingen staan uit</translation>
 <translation id="2172905120685242547">Venster sluiten?</translation>
 <translation id="2175927920773552910">QR-code</translation>
@@ -246,7 +246,7 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="2323763861024343754">Site-opslag</translation>
 <translation id="2328985652426384049">Kan niet inloggen</translation>
 <translation id="234265804618409743">Kan de camera niet openen. Er is iets misgegaan.</translation>
-<translation id="2349710944427398404">Totale gegevens gebruikt door Chrome, inclusief accounts, bookmarks en opgeslagen instellingen</translation>
+<translation id="2349710944427398404">Totale gegevens gebruikt door Egon, inclusief accounts, bookmarks en opgeslagen instellingen</translation>
 <translation id="2353636109065292463">Je internetverbinding controleren…</translation>
 <translation id="235789365079050412">Privacybeleid van Google</translation>
 <translation id="2359808026110333948">Doorgaan</translation>
@@ -263,14 +263,14 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="2453860139492968684">Voltooien</translation>
 <translation id="2459390580524506445">Geavanceerde gesproken zoekopdrachten</translation>
 <translation id="2461822463642141190">Huidig</translation>
-<translation id="2472163211318554013">Log in om het maximale uit Chrome te halen</translation>
+<translation id="2472163211318554013">Log in om het maximale uit Egon te halen</translation>
 <translation id="247737702124049222">Afbeeldingsbeschrijvingen staan aan</translation>
 <translation id="2482878487686419369">Meldingen</translation>
 <translation id="2485422356828889247">Installatie ongedaan maken</translation>
-<translation id="2494974097748878569">De Google Assistent in Chrome</translation>
+<translation id="2494974097748878569">De Google Assistent in Egon</translation>
 <translation id="2496180316473517155">Browsegeschiedenis</translation>
 <translation id="2497852260688568942">Synchronisatie is uitgezet door je beheerder</translation>
-<translation id="250020030759455918">Je ziet je inlogstatus, browsegegevens en sitegegevens van <ph name="SITE_NAME" /> in Chrome</translation>
+<translation id="250020030759455918">Je ziet je inlogstatus, browsegegevens en sitegegevens van <ph name="SITE_NAME" /> in Egon</translation>
 <translation id="2510106555128151389"><ph name="WEBAPK_NAME" /> installeren...</translation>
 <translation id="2513403576141822879">Bekijk <ph name="BEGIN_LINK" />Synchronisatie en Google-services<ph name="END_LINK" /> voor meer instellingen die verband houden met privacy, beveiliging en gegevensverzameling.</translation>
 <translation id="2517472476991765520">Scannen</translation>
@@ -288,8 +288,8 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="2567545343356994513">Snellere, proactieve beveiliging tegen gevaarlijke websites, downloads en extensies</translation>
 <translation id="2569733278091928697">Je kunt makkelijk onder andere je mediabediening, incognitosessies en downloads beheren</translation>
 <translation id="2571711316400087311">Aanbieden om pagina's in andere talen naar Google Translate te sturen</translation>
-<translation id="2573452357057307036">Meer informatie over hoe je Chrome instelt als standaardbrowser</translation>
-<translation id="2581165646603367611">Hiermee worden cookies, het cachegeheugen en andere gegevens gewist van sites waarvan Chrome denkt dat deze niet belangrijk zijn.</translation>
+<translation id="2573452357057307036">Meer informatie over hoe je Egon instelt als standaardbrowser</translation>
+<translation id="2581165646603367611">Hiermee worden cookies, het cachegeheugen en andere gegevens gewist van sites waarvan Egon denkt dat deze niet belangrijk zijn.</translation>
 <translation id="2587052924345400782">Nieuwere versie beschikbaar</translation>
 <translation id="2593272815202181319">Monospace</translation>
 <translation id="2604446170045642109">In de instellingen kun je het donkere thema uitzetten voor sites.</translation>
@@ -337,12 +337,12 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="2842985007712546952">Bovenliggende map</translation>
 <translation id="2856503607207334158">Inloggen mislukt</translation>
 <translation id="2860954141821109167">Zorg ervoor dat een telefoon-app aanstaat op dit apparaat</translation>
-<translation id="2861923151411510142">Sommige Chrome-functies zijn niet meer beschikbaar</translation>
+<translation id="2861923151411510142">Sommige Egon-functies zijn niet meer beschikbaar</translation>
 <translation id="2870560284913253234">Site</translation>
 <translation id="2871733351037274014">Pagina's vooraf laden</translation>
 <translation id="2876136027428473467"><ph name="CHILD_NAME" /> vraagt of je deze website wilt goedkeuren:</translation>
 <translation id="2886836735871983413">Hier komt een lijst met sites als je browst op internet</translation>
-<translation id="2888126860611144412">Over Chrome</translation>
+<translation id="2888126860611144412">Over Egon</translation>
 <translation id="2891154217021530873">Stoppen met het laden van de pagina</translation>
 <translation id="2893180576842394309">Google kan je geschiedenis gebruiken om Google Zoeken en andere Google-services te personaliseren</translation>
 <translation id="2900528713135656174">Afspraak maken</translation>
@@ -355,10 +355,10 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="2923908459366352541">Naam is ongeldig</translation>
 <translation id="2932150158123903946">Opslag van Google <ph name="APP_NAME" /></translation>
 <translation id="2932222164150889403">Je toetsenbord verandert niet</translation>
-<translation id="2936980480904111527">Chrome-meldingen maken het je makkelijker</translation>
+<translation id="2936980480904111527">Egon-meldingen maken het je makkelijker</translation>
 <translation id="2940075786175545812">Optie om een website wel of niet goed te keuren</translation>
 <translation id="2942036813789421260">Voorbeeldtabblad is gesloten</translation>
-<translation id="2946420957526726953">Chrome wordt geüpdatet om verbinding te maken met andere apparaten</translation>
+<translation id="2946420957526726953">Egon wordt geüpdatet om verbinding te maken met andere apparaten</translation>
 <translation id="2951071800649516099">Voeg pagina's aan je leeslijst toe voor later</translation>
 <translation id="2961208450284224863">{READING_LIST_UNREAD_PAGE_COUNT,plural, =1{<ph name="READING_LIST_UNREAD_PAGE_COUNT_ONE" /> ongelezen pagina}other{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY" /> ongelezen pagina's}}</translation>
 <translation id="2961210776189273067">Titel</translation>
@@ -372,7 +372,7 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="2994959273484668146"><ph name="DOMAIN" /> verwijderen</translation>
 <translation id="2996291259634659425">Wachtwoordzin maken</translation>
 <translation id="2996809686854298943">URL vereist</translation>
-<translation id="2997081575621687554">Als een Google-site vraagt om links op de sitepagina privé vooraf te laden, versleutelt en laadt Chrome de pagina's vooraf via Google-servers zonder cookies. Hierdoor wordt je identiteit voor de vooraf geladen site verborgen.</translation>
+<translation id="2997081575621687554">Als een Google-site vraagt om links op de sitepagina privé vooraf te laden, versleutelt en laadt Egon de pagina's vooraf via Google-servers zonder cookies. Hierdoor wordt je identiteit voor de vooraf geladen site verborgen.</translation>
 <translation id="3006881078666935414">Geen gebruiksgegevens</translation>
 <translation id="301080557829842765">Privacygids</translation>
 <translation id="3016635187733453316">Controleer of dit apparaat verbinding heeft met internet</translation>
@@ -382,16 +382,16 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="3031225630520268969">UI om toestemming voor gesproken zoekopdrachten via de Assistent te geven</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK" />Hulp krijgen<ph name="END_LINK" /></translation>
 <translation id="3037177537145227281">Prijs wordt gevolgd</translation>
-<translation id="3037517125981011456">Toont prompts om in te loggen bij Chrome</translation>
+<translation id="3037517125981011456">Toont prompts om in te loggen bij Egon</translation>
 <translation id="3046945242843292318">Ga de volgende keer sneller naar deze site</translation>
 <translation id="3055113921564083271">Interesses die je hebt verwijderd</translation>
 <translation id="3055259925215945098">Bookmark verplaatst</translation>
-<translation id="3055841435094910999">Er wordt informatie naar Google gestuurd over je Chrome-gebruik, maar de informatie wordt niet aan jou gekoppeld\n\nAls Chrome crasht, kunnen de gegevens over de crash wat persoonlijke informatie bevatten\n\nAls je synchronisatie aanzet, kunnen de statistieken ook informatie bevatten over de URL's die je bezoekt</translation>
+<translation id="3055841435094910999">Er wordt informatie naar Google gestuurd over je Egon-gebruik, maar de informatie wordt niet aan jou gekoppeld\n\nAls Egon crasht, kunnen de gegevens over de crash wat persoonlijke informatie bevatten\n\nAls je synchronisatie aanzet, kunnen de statistieken ook informatie bevatten over de URL's die je bezoekt</translation>
 <translation id="3060635849835183725">{BOOKMARKS_COUNT,plural, =1{<ph name="BOOKMARKS_COUNT_ONE" /> bookmark}other{<ph name="BOOKMARKS_COUNT_MANY" /> bookmarks}}</translation>
-<translation id="3062802207422175757">Artikelen over je interesses in Chrome</translation>
+<translation id="3062802207422175757">Artikelen over je interesses in Egon</translation>
 <translation id="3066573403916685335">Naar beneden</translation>
 <translation id="3070005020161560471">Automatisch vertalen</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> wordt geopend in Chrome. Als je doorgaat, ga je akkoord met de <ph name="BEGIN_LINK1" />Servicevoorwaarden van Google<ph name="END_LINK1" /> en met de <ph name="BEGIN_LINK2" />Aanvullende servicevoorwaarden van Google Chrome en Chrome OS<ph name="END_LINK2" />. Het <ph name="BEGIN_LINK3" />Privacybeleid<ph name="END_LINK3" /> is ook van toepassing.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> wordt geopend in Egon. Als je doorgaat, ga je akkoord met de <ph name="BEGIN_LINK1" />Servicevoorwaarden van Google<ph name="END_LINK1" /> en met de <ph name="BEGIN_LINK2" />Aanvullende servicevoorwaarden van Google Egon en Egon OS<ph name="END_LINK2" />. Het <ph name="BEGIN_LINK3" />Privacybeleid<ph name="END_LINK3" /> is ook van toepassing.</translation>
 <translation id="3091010850649238832">Content op het klembord bekijken</translation>
 <translation id="3098745985164956033">Sommige afbeeldingen worden naar Google gestuurd om de beschrijvingen voor je te verbeteren</translation>
 <translation id="3114507951000454849">Lees het nieuws van vandaag <ph name="NEWS_ICON" /></translation>
@@ -399,9 +399,9 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="3123734510202723619">Aankondigingen</translation>
 <translation id="3130863904455712965">Geschiedenis en meer</translation>
 <translation id="3134784203083076891">'</translation>
-<translation id="314939179385989105">Homepage van Chrome</translation>
+<translation id="314939179385989105">Homepage van Egon</translation>
 <translation id="3166827708714933426">Sneltoetsen voor tabbladen en vensters</translation>
-<translation id="316694332262407393">Chrome is hier al actief.</translation>
+<translation id="316694332262407393">Egon is hier al actief.</translation>
 <translation id="3169472444629675720">Discover</translation>
 <translation id="3187472288455401631">Advertentiemeting</translation>
 <translation id="3207960819495026254">Toegevoegd aan 'Bookmarks'</translation>
@@ -411,14 +411,14 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="321773570071367578">Als je je wachtwoordzin bent vergeten of deze instelling wilt wijzigen, <ph name="BEGIN_LINK" />stel je de synchronisatie opnieuw in<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Bevestig dat jij het bent als je je wachtwoorden wilt synchroniseren</translation>
 <translation id="3223522355830797639">Je bank wil bevestigen dat jij het bent.</translation>
-<translation id="3227557059438308877">Google Chrome als beveiligingssleutel</translation>
+<translation id="3227557059438308877">Google Egon als beveiligingssleutel</translation>
 <translation id="3232754137068452469">Webapp</translation>
 <translation id="3234978181857588512">Opslaan op apparaat</translation>
 <translation id="3236059992281584593">1 minuut resterend</translation>
 <translation id="3237087289225714896">Standaard vooraf laden:</translation>
 <translation id="3237433641417325993">Scroll omlaag om voorgestelde artikelen te bekijken</translation>
 <translation id="3244271242291266297">MM</translation>
-<translation id="3245429137663807393">Als je ook Chrome-gebruiksrapporten deelt, bevatten die rapporten de URL's die je bezoekt</translation>
+<translation id="3245429137663807393">Als je ook Egon-gebruiksrapporten deelt, bevatten die rapporten de URL's die je bezoekt</translation>
 <translation id="3250563604907490871">Je ziet weer afbeeldingsbeschrijvingen als je verbinding maakt met wifi</translation>
 <translation id="3254409185687681395">Bookmark instellen voor deze pagina</translation>
 <translation id="3259831549858767975">Alles op de pagina verkleinen</translation>
@@ -428,9 +428,9 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="3265534588625245297">De sites beheren die je volgt</translation>
 <translation id="3269093882174072735">Afbeelding laden</translation>
 <translation id="3280562213547448728">Gesproken zoekopdracht</translation>
-<translation id="3282568296779691940">Inloggen bij Chrome</translation>
+<translation id="3282568296779691940">Inloggen bij Egon</translation>
 <translation id="3284510035090979597">Proactieve hulp</translation>
-<translation id="3285080554353377245">Video's over hoe je Chrome kunt gebruiken</translation>
+<translation id="3285080554353377245">Video's over hoe je Egon kunt gebruiken</translation>
 <translation id="3288003805934695103">Laad de pagina opnieuw</translation>
 <translation id="3290249595466894471">Stuurt ook een klein gedeelte pagina's, downloads, extensie-activiteit en systeeminformatie om nieuwe dreigingen te kunnen vinden</translation>
 <translation id="3297344142967351106">Spraakassistent</translation>
@@ -439,10 +439,10 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="3334729583274622784">Bestandsextensie wijzigen?</translation>
 <translation id="3341262203274374114">Niet meer volgen is mislukt. Er is iets misgegaan.</translation>
 <translation id="3359667936385849800">Je huidige serviceprovider gebruiken</translation>
-<translation id="3365271666488085187">Chrome kan deze interesse in overweging nemen</translation>
+<translation id="3365271666488085187">Egon kan deze interesse in overweging nemen</translation>
 <translation id="3367813778245106622">Log opnieuw in om de synchronisatie te starten</translation>
-<translation id="3373979091428520308">Als je deze pagina wilt delen met een ander apparaat, zet je op het andere apparaat de synchronisatie aan via de Chrome-instellingen</translation>
-<translation id="3374023511497244703">Je bookmarks, geschiedenis, wachtwoorden en andere Chrome-gegevens worden niet meer gesynchroniseerd met je Google-account</translation>
+<translation id="3373979091428520308">Als je deze pagina wilt delen met een ander apparaat, zet je op het andere apparaat de synchronisatie aan via de Egon-instellingen</translation>
+<translation id="3374023511497244703">Je bookmarks, geschiedenis, wachtwoorden en andere Egon-gegevens worden niet meer gesynchroniseerd met je Google-account</translation>
 <translation id="3384347053049321195">Afbeelding delen</translation>
 <translation id="3387650086002190359">Downloaden van <ph name="FILE_NAME" /> is mislukt door fouten in het bestandssysteem.</translation>
 <translation id="3389286852084373014">Tekst is te groot</translation>
@@ -451,12 +451,12 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="3407392651057365886">Er worden meer pagina's vooraf geladen. Pagina's kunnen op verzoek van andere sites vooraf worden geladen via de servers van Google.</translation>
 <translation id="3414952576877147120">Grootte:</translation>
 <translation id="3421726884497337397">Kies wanneer je cookies van derden wilt blokkeren</translation>
-<translation id="3428747202529429621">Beschermt je op Chrome en kan worden gebruikt om de beveiliging in andere Google-apps te verbeteren als je bent ingelogd</translation>
+<translation id="3428747202529429621">Beschermt je op Egon en kan worden gebruikt om de beveiliging in andere Google-apps te verbeteren als je bent ingelogd</translation>
 <translation id="3429160811076349561">Proeffuncties staan uit</translation>
 <translation id="3435465986463792564">Heb je veel vensters open? Beheer ze hier.</translation>
 <translation id="3443221991560634068">De huidige pagina opnieuw laden</translation>
 <translation id="3444179773590444986">Feedback delen over donker thema voor sites?</translation>
-<translation id="3452832259067974318">Ter bescherming van je privacy vult Chrome je wachtwoord niet automatisch in dit veld in.</translation>
+<translation id="3452832259067974318">Ter bescherming van je privacy vult Egon je wachtwoord niet automatisch in dit veld in.</translation>
 <translation id="3474624961160222204">Doorgaan als <ph name="NAME" /></translation>
 <translation id="3478363558367712427">Je kunt je zoekmachine kiezen</translation>
 <translation id="3479552764303398839">Niet nu</translation>
@@ -464,7 +464,7 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="3495219333887281978">Inlogblad onderaan is op halve hoogte geopend.</translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
 <translation id="3507132249039706973">Standaardbeveiliging staat aan</translation>
-<translation id="3509330069915219067">Offline. Chrome kan niet checken op updates.</translation>
+<translation id="3509330069915219067">Offline. Egon kan niet checken op updates.</translation>
 <translation id="3513704683820682405">Augmented reality</translation>
 <translation id="3518985090088779359">Accepteren en doorgaan</translation>
 <translation id="3522247891732774234">Update beschikbaar. Meer opties</translation>
@@ -477,7 +477,7 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="3560491354538957576">Site kan interesses definiëren</translation>
 <translation id="3563767357928833671">Content van klembord getoond</translation>
 <translation id="3566639033325271639">Instellingen updaten</translation>
-<translation id="3566923219790363270">Chrome wordt nog voorbereid voor VR. Start Chrome later opnieuw op.</translation>
+<translation id="3566923219790363270">Egon wordt nog voorbereid voor VR. Start Egon later opnieuw op.</translation>
 <translation id="3568688522516854065">Log in en zet de synchronisatie aan om de tabbladen van je andere apparaten te bekijken</translation>
 <translation id="357465026686164600">Telefoon als beveiligingssleutel</translation>
 <translation id="3577473026931028326">Er is iets misgegaan. Probeer het opnieuw.</translation>
@@ -499,7 +499,7 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="3699022356773522638">Bestand downloaden?</translation>
 <translation id="371230970611282515">Voorspelt en waarschuwt je voor gevaarlijke gebeurtenissen voordat deze plaatsvinden.</translation>
 <translation id="3714981814255182093">De zoekbalk openen</translation>
-<translation id="3716182511346448902">Omdat deze pagina te veel geheugen gebruikt, heeft Chrome de pagina onderbroken.</translation>
+<translation id="3716182511346448902">Omdat deze pagina te veel geheugen gebruikt, heeft Egon de pagina onderbroken.</translation>
 <translation id="3721119614952978349">Jij en Google</translation>
 <translation id="3737319253362202215">Vertaalinstellingen</translation>
 <translation id="3737402728074743863">Stel een schermvergrendeling in om dit apparaat als beveiligingssleutel te gebruiken</translation>
@@ -537,17 +537,17 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="393697183122708255">Gesproken zoekopdracht niet beschikbaar</translation>
 <translation id="395377504920307820">Gebruiken zonder account</translation>
 <translation id="3958287878205277013">Sluit alle incognitotabbladen om de incognito-browsegeschiedenis op je apparaat te wissen</translation>
-<translation id="396192773038029076">{NUM_IN_PROGRESS,plural, =1{Chrome laadt de pagina wanneer deze klaar is}other{Chrome laadt de pagina's wanneer deze klaar zijn}}</translation>
+<translation id="396192773038029076">{NUM_IN_PROGRESS,plural, =1{Egon laadt de pagina wanneer deze klaar is}other{Egon laadt de pagina's wanneer deze klaar zijn}}</translation>
 <translation id="3962119236270174787">Standaardbeveiliging tegen websites, downloads en extensies die als gevaarlijk zijn bestempeld</translation>
 <translation id="3963007978381181125">Wachtwoordzinversleuteling is niet van toepassing op betaalmethoden en adressen van Google Pay. Alleen iemand met je wachtwoordzin kan je versleutelde gegevens lezen. De wachtwoordzin wordt niet verzonden naar of opgeslagen door Google. Als je je wachtwoordzin vergeet of deze instelling wilt wijzigen, moet je de synchronisatie resetten. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
-<translation id="3969142555815019568">Chrome kan je wachtwoorden niet checken</translation>
+<translation id="3969142555815019568">Egon kan je wachtwoorden niet checken</translation>
 <translation id="3969863827134279083">Naar boven</translation>
 <translation id="397583555483684758">Synchronisatie werkt niet meer</translation>
 <translation id="3976396876660209797">Verwijder de snelkoppeling en maak deze opnieuw</translation>
 <translation id="3981902534690264083">Adverteerders kunnen inzicht krijgen in hoe advertenties presteren</translation>
 <translation id="3985215325736559418">Wil je <ph name="FILE_NAME" /> opnieuw downloaden?</translation>
 <translation id="3987993985790029246">Link kopiëren</translation>
-<translation id="3999683152997576765">Je kunt interessante onderwerpen bekijken en verwijderen die sites hebben gebruikt om je advertenties te laten zien. Chrome schat je interesses op basis van je recente browsegeschiedenis.</translation>
+<translation id="3999683152997576765">Je kunt interessante onderwerpen bekijken en verwijderen die sites hebben gebruikt om je advertenties te laten zien. Egon schat je interesses op basis van je recente browsegeschiedenis.</translation>
 <translation id="4000212216660919741">Homepage voor offline</translation>
 <translation id="4016425174436051808">Volgen is mislukt. Er is iets misgegaan.</translation>
 <translation id="4034817413553209278">{HOURS,plural, =1{# uur}other{# uur}}</translation>
@@ -565,14 +565,14 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="4099578267706723511">Verzend automatisch gebruiksstatistieken en crashmeldingen naar Google.</translation>
 <translation id="4101475238162928417">Voer een synchronisatie uit om onder meer de wachtwoorden en bookmarks van je andere apparaten op te halen</translation>
 <translation id="410351446219883937">Automatisch afspelen</translation>
-<translation id="4106587138345390261">Chrome bevat nieuwe experimentele functies waarmee sites dezelfde browsefunctionaliteit kunnen leveren terwijl er minder van je gegevens worden gebruikt</translation>
+<translation id="4106587138345390261">Egon bevat nieuwe experimentele functies waarmee sites dezelfde browsefunctionaliteit kunnen leveren terwijl er minder van je gegevens worden gebruikt</translation>
 <translation id="4108314971463891922">Volgen</translation>
 <translation id="4108998448622696017">Detecteert en waarschuwt je over gevaarlijke gebeurtenissen als deze plaatsvinden.</translation>
 <translation id="4116038641877404294">Download pagina's om ze offline te gebruiken</translation>
 <translation id="4135200667068010335">De lijst met apparaten om een tabblad mee te delen is gesloten.</translation>
 <translation id="4137746084635924146">Huidige apparaattaal</translation>
 <translation id="414128724510021958">Desktopsites standaard aangevraagd</translation>
-<translation id="4141536112466364990">Chrome leren gebruiken</translation>
+<translation id="4141536112466364990">Egon leren gebruiken</translation>
 <translation id="4162867837470729563">Lijst met deelopties op volledige hoogte.</translation>
 <translation id="4165986682804962316">Site-instellingen</translation>
 <translation id="4170011742729630528">De service is niet beschikbaar. Probeer het later opnieuw.</translation>
@@ -582,21 +582,21 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="4196597275619698563">Kaart maken</translation>
 <translation id="4198423547019359126">Geen beschikbare downloadlocaties</translation>
 <translation id="4209895695669353772">Zet de synchronisatie aan om suggesties voor gepersonaliseerde content van Google te ontvangen</translation>
-<translation id="4214315110991671325">Als je cookies toestaat, kan Chrome deze voor vooraf laden gebruiken.</translation>
+<translation id="4214315110991671325">Als je cookies toestaat, kan Egon deze voor vooraf laden gebruiken.</translation>
 <translation id="4225895483398857530">Snelkoppeling voor werkbalk</translation>
 <translation id="4227318652298512614">Volg alle gewenste sites</translation>
 <translation id="4242533952199664413">Instellingen openen</translation>
 <translation id="4248098802131000011">Bescherm je wachtwoorden tegen gegevenslekken en andere beveiligingsproblemen</translation>
-<translation id="424864128008805179">Uitloggen bij Chrome?</translation>
+<translation id="424864128008805179">Uitloggen bij Egon?</translation>
 <translation id="4249955472157341256">Sorteren op nieuwste</translation>
 <translation id="4250229828105606438">Screenshot</translation>
 <translation id="4256782883801055595">Opensource-licenties</translation>
-<translation id="4262915912852657291"><ph name="BEGIN_BOLD" />Welke gegevens worden gebruikt:<ph name="END_BOLD" /> Je browsegeschiedenis, een lijst van de sites die je via Chrome op dit apparaat hebt bezocht.</translation>
+<translation id="4262915912852657291"><ph name="BEGIN_BOLD" />Welke gegevens worden gebruikt:<ph name="END_BOLD" /> Je browsegeschiedenis, een lijst van de sites die je via Egon op dit apparaat hebt bezocht.</translation>
 <translation id="4263656433980196874">UI om toestemming voor gesproken zoekopdrachten via de Assistent te geven is op volledige hoogte geopend</translation>
 <translation id="4269820728363426813">Linkadres kopiëren</translation>
 <translation id="4283102315569707115">Standaard desktopsites aanvragen?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Schermvergrendeling aanzetten via Android-instellingen<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Door Chrome te gebruiken, ga je akkoord met de <ph name="BEGIN_TOS_LINK" />Servicevoorwaarden van Google<ph name="END_TOS_LINK" /> en met de <ph name="BEGIN_ATOS_LINK" />Aanvullende servicevoorwaarden van Google Chrome en Chrome OS<ph name="END_ATOS_LINK" />. Het <ph name="BEGIN_PRIVACY_LINK" />Privacybeleid<ph name="END_PRIVACY_LINK" /> is ook van toepassing.</translation>
+<translation id="4293476595220860475">Door Egon te gebruiken, ga je akkoord met de <ph name="BEGIN_TOS_LINK" />Servicevoorwaarden van Google<ph name="END_TOS_LINK" /> en met de <ph name="BEGIN_ATOS_LINK" />Aanvullende servicevoorwaarden van Google Egon en Egon OS<ph name="END_ATOS_LINK" />. Het <ph name="BEGIN_PRIVACY_LINK" />Privacybeleid<ph name="END_PRIVACY_LINK" /> is ook van toepassing.</translation>
 <translation id="4296252229500326964">Nieuw incognitotabblad</translation>
 <translation id="4298388696830689168">Gekoppelde sites</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -623,16 +623,16 @@ Als je je browsegeschiedenis verwijdert (alles of alleen de geschiedenis voor ee
 <translation id="4461614516424362539">Als je een ander apparaat koppelt via een QR-code, kan het apparaat deze telefoon gebruiken als beveiligingssleutel. Als je het verwijdert, moet je een QR-code scannen om het opnieuw te koppelen.</translation>
 <translation id="4472118726404937099">Log in en zet de synchronisatie aan om verschillende apparaten te synchroniseren en te personaliseren</translation>
 <translation id="4479839115899251637">Verwijderen uit leeslijst</translation>
-<translation id="4479972344484327217"><ph name="MODULE" /> installeren voor Chrome…</translation>
+<translation id="4479972344484327217"><ph name="MODULE" /> installeren voor Egon…</translation>
 <translation id="4484496141267039529">Geen verbinding. Probeer het later opnieuw.</translation>
-<translation id="4487967297491345095">Alle app-gegevens voor Chrome worden definitief verwijderd. Dit omvat alle bestanden, instellingen, accounts, databases, enzovoort.</translation>
+<translation id="4487967297491345095">Alle app-gegevens voor Egon worden definitief verwijderd. Dit omvat alle bestanden, instellingen, accounts, databases, enzovoort.</translation>
 <translation id="449126573531210296">Gesynchroniseerde wachtwoorden versleutelen met je Google-account</translation>
 <translation id="4504667196171871375">Via wifi en mobiele data</translation>
 <translation id="4508528996305412043">Feedkaartmenu is geopend</translation>
 <translation id="4508642716788467538">Kies je taal</translation>
 <translation id="4513387527876475750">{DAYS,plural, =1{# dag geleden}other{# dagen geleden}}</translation>
 <translation id="451872707440238414">Zoek in je bookmarks</translation>
-<translation id="4521489764227272523">De geselecteerde gegevens zijn verwijderd uit Chrome en van je gesynchroniseerde apparaten.
+<translation id="4521489764227272523">De geselecteerde gegevens zijn verwijderd uit Egon en van je gesynchroniseerde apparaten.
 
 Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekopdrachten en activiteit uit andere Google-services) beschikbaar zijn via <ph name="BEGIN_LINK" />myactivity.google.com<ph name="END_LINK" />.</translation>
 <translation id="452750746583162491">Je gesynchroniseerde gegevens controleren</translation>
@@ -660,14 +660,14 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="4663499661119906179">Bekijk populaire sites en artikelen voor jou</translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS" /> bookmarks verwijderd</translation>
 <translation id="4668347365065281350">Alle gegevens die zijn opgeslagen door sites, waaronder cookies en andere lokaal opgeslagen gegevens</translation>
-<translation id="4678082183394354975">Donker thema voor sites staat aan in Chrome</translation>
+<translation id="4678082183394354975">Donker thema voor sites staat aan in Egon</translation>
 <translation id="4684427112815847243">Alles synchroniseren</translation>
 <translation id="4685741273709472646">Selecteren in het dropdownmenu</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW" />\u2026 en nog <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS" /> andere}other{<ph name="SHIPPING_OPTION_PREVIEW" />\u2026 en nog <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS" /> andere}}</translation>
 <translation id="4699172675775169585">Gecachete afbeeldingen en bestanden</translation>
 <translation id="4719927025381752090">Aanbieden om te vertalen</translation>
 <translation id="4720023427747327413">Openen in <ph name="PRODUCT_NAME" /></translation>
-<translation id="4720982865791209136">Help bij het verbeteren van Chrome. <ph name="BEGIN_LINK" />Enquête invullen<ph name="END_LINK" /></translation>
+<translation id="4720982865791209136">Help bij het verbeteren van Egon. <ph name="BEGIN_LINK" />Enquête invullen<ph name="END_LINK" /></translation>
 <translation id="47217992755561375">Bekijk je populaire sites</translation>
 <translation id="4732120983431207637">Stack Unwinder</translation>
 <translation id="4736934858538408121">Virtuele kaart</translation>
@@ -694,7 +694,7 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="4831037795716408498">Content downloaden</translation>
 <translation id="4834007576107377210">Bekijk de instructies van je zoekmachine voor het verwijderen van je zoekgeschiedenis (indien van toepassing)</translation>
 <translation id="4834250788637067901">Betaalmethoden, aanbiedingen en adressen via Google Pay</translation>
-<translation id="4835385943915508971">Chrome heeft geen toegang tot de gevraagde bron.</translation>
+<translation id="4835385943915508971">Egon heeft geen toegang tot de gevraagde bron.</translation>
 <translation id="4837753911714442426">Afdrukopties voor de pagina openen</translation>
 <translation id="4842092870884894799">Pop-upvenster voor wachtwoord genereren wordt getoond</translation>
 <translation id="4842515939542199281">Tik op de microfoon om met je stem te zoeken</translation>
@@ -703,7 +703,7 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="4852014461738377247">Inloggen\u2026</translation>
 <translation id="4860895144060829044">Bellen</translation>
 <translation id="4864369630010738180">Inloggen...</translation>
-<translation id="4866368707455379617">Kan <ph name="MODULE" /> niet installeren voor Chrome</translation>
+<translation id="4866368707455379617">Kan <ph name="MODULE" /> niet installeren voor Egon</translation>
 <translation id="4871568871368204250">Synchronisatie uitzetten</translation>
 <translation id="4875775213178255010">Contentsuggesties</translation>
 <translation id="4877678010818027629">Incognitomodus starten</translation>
@@ -711,7 +711,7 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="4880127995492972015">Vertalen…</translation>
 <translation id="4881695831933465202">Openen</translation>
 <translation id="488187801263602086">Naam van bestand wijzigen</translation>
-<translation id="4885273946141277891">Niet-ondersteund aantal Chrome-instanties.</translation>
+<translation id="4885273946141277891">Niet-ondersteund aantal Egon-instanties.</translation>
 <translation id="4905823827770127520">Link naar de pagina opnemen</translation>
 <translation id="4908869848243824489">Discover van Google</translation>
 <translation id="4909709702739934280">Je browser wordt beheerd door je beheerder</translation>
@@ -722,7 +722,7 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="492284538114688557">Prijsdaling opgemerkt</translation>
 <translation id="4925120120285606924">Screenshot <ph name="CURRENT_DATE_ISO" /></translation>
 <translation id="49268022542405662">Je wachtwoorden worden geëxporteerd en gedownload als tekstbestand. Ze zijn zichtbaar voor iedereen en elke app met toegang tot de bestemmingsmap.</translation>
-<translation id="4932247056774066048">Omdat je uitlogt van een account dat wordt beheerd door <ph name="DOMAIN_NAME" />, worden je Chrome-gegevens verwijderd. De gegevens blijven in je Google-account staan.</translation>
+<translation id="4932247056774066048">Omdat je uitlogt van een account dat wordt beheerd door <ph name="DOMAIN_NAME" />, worden je Egon-gegevens verwijderd. De gegevens blijven in je Google-account staan.</translation>
 <translation id="4943703118917034429">Virtual reality</translation>
 <translation id="4943872375798546930">Geen resultaten</translation>
 <translation id="4950924971025849764">Als je bent ingelogd op hetzelfde Google-account, kunnen andere apparaten deze telefoon gebruiken als beveiligingssleutel.</translation>
@@ -751,7 +751,7 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="5091249083535528968">Uitgebreide gebruiksgegevens</translation>
 <translation id="509429900233858213">Er is een fout opgetreden.</translation>
 <translation id="5099845111805573968">Als je één keer Desktopsite selecteert, wordt de instelling elke keer toegepast als je deze site bezoekt</translation>
-<translation id="5102401324271069229">Als een site je wachtwoord probeert te stelen of als je een schadelijk bestand downloadt, kan Chrome URL's, inclusief delen van de paginacontent, naar Safe Browsing sturen</translation>
+<translation id="5102401324271069229">Als een site je wachtwoord probeert te stelen of als je een schadelijk bestand downloadt, kan Egon URL's, inclusief delen van de paginacontent, naar Safe Browsing sturen</translation>
 <translation id="510275257476243843">1 uur resterend</translation>
 <translation id="5115811374190515607">naar <ph name="PRODUCT_NAME" /></translation>
 <translation id="5118713593561876160">Interesses</translation>
@@ -765,7 +765,7 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="5170568018924773124">Tonen in map</translation>
 <translation id="5171045022955879922">Zoek of typ een URL</translation>
 <translation id="517734441743343109">Door verder te gaan, ga je akkoord met de <ph name="BEGIN_TOS_LINK" />Servicevoorwaarden<ph name="END_TOS_LINK" /> en het <ph name="BEGIN_PRIVACY_LINK" />Privacybeleid<ph name="END_PRIVACY_LINK" />.</translation>
-<translation id="5184329579814168207">Openen in Chrome</translation>
+<translation id="5184329579814168207">Openen in Egon</translation>
 <translation id="5191251636205085390">Bekijk meer informatie over en beheer nieuwe technologieën die cookies van derden willen vervangen</translation>
 <translation id="5193988420012215838">Naar klembord gekopieerd</translation>
 <translation id="5199929503336119739">Werkprofiel</translation>
@@ -787,8 +787,8 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="5304593522240415983">Dit veld mag niet leeg zijn</translation>
 <translation id="5308380583665731573">Verbinding maken</translation>
 <translation id="5317780077021120954">Opslaan</translation>
-<translation id="5319359161174645648">Google beveelt Chrome aan</translation>
-<translation id="5321849971085220133">Chrome zoekt nieuwe manieren om tracking te verminderen en je nog beter te beschermen terwijl je browst. Chrome <ph name="BEGIN_LINK" />schat je interesses<ph name="END_LINK" /> en biedt je mogelijkheden om ze te beheren. Daarna kunnen sites die je bezoekt Chrome om je interesses vragen, zodat ze je relevante advertenties kunnen laten zien.</translation>
+<translation id="5319359161174645648">Google beveelt Egon aan</translation>
+<translation id="5321849971085220133">Egon zoekt nieuwe manieren om tracking te verminderen en je nog beter te beschermen terwijl je browst. Egon <ph name="BEGIN_LINK" />schat je interesses<ph name="END_LINK" /> en biedt je mogelijkheden om ze te beheren. Daarna kunnen sites die je bezoekt Egon om je interesses vragen, zodat ze je relevante advertenties kunnen laten zien.</translation>
 <translation id="5324858694974489420">Instellingen voor ouders</translation>
 <translation id="5326921373682845375">Omdat de vooraf geladen pagina's versleuteld zijn en de site die naar de pagina's linkt een Google-site is, krijgen Google-servers geen nieuwe informatie als deze pagina's privé vooraf worden geladen.</translation>
 <translation id="5329858041417644019">Je browser wordt niet beheerd.</translation>
@@ -816,14 +816,14 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="5458366071038729214">Hier vind je de sites die je volgt</translation>
 <translation id="5468068603361015296">Wil je <ph name="FILE_NAME" /> toch downloaden?</translation>
 <translation id="548278423535722844">Openen in app voor passen</translation>
-<translation id="5483197086164197190">Navigeren in Chrome</translation>
+<translation id="5483197086164197190">Navigeren in Egon</translation>
 <translation id="5487521232677179737">Gegevens wissen</translation>
 <translation id="549025011754480756">Met je stem zoeken</translation>
 <translation id="5492637351392383067">Versleuteling op het apparaat</translation>
 <translation id="5514904542973294328">Uitgezet door de beheerder van dit apparaat</translation>
 <translation id="5515439363601853141">Ontgrendelen om je wachtwoord te bekijken</translation>
 <translation id="5517095782334947753">Je hebt bookmarks, geschiedenis, wachtwoorden en andere instellingen van <ph name="FROM_ACCOUNT" />.</translation>
-<translation id="5524761631371622910">Tijdens actieve proeven en als Chrome je willekeurig in een actieve proef heeft geplaatst, heeft je browsegeschiedenis invloed op de advertenties die je te zien krijgt en de interesses zoals hieronder geschat. Ter bescherming van je privacy verwijdert Chrome je interesses elke maand op voortschrijdende basis.</translation>
+<translation id="5524761631371622910">Tijdens actieve proeven en als Egon je willekeurig in een actieve proef heeft geplaatst, heeft je browsegeschiedenis invloed op de advertenties die je te zien krijgt en de interesses zoals hieronder geschat. Ter bescherming van je privacy verwijdert Egon je interesses elke maand op voortschrijdende basis.</translation>
 <translation id="5524843473235508879">Omleiding geblokkeerd.</translation>
 <translation id="5548606607480005320">Veiligheidscheck</translation>
 <translation id="5555525474779371165">Je Safe Browsing-bescherming kiezen</translation>
@@ -847,19 +847,19 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="5655963694829536461">Zoek in je downloads</translation>
 <translation id="5659593005791499971">E-mail</translation>
 <translation id="5665379678064389456">Afspraak maken in <ph name="APP_NAME" /></translation>
-<translation id="5683547024293500885">Chrome kan niet checken op updates</translation>
+<translation id="5683547024293500885">Egon kan niet checken op updates</translation>
 <translation id="5686790454216892815">Bestandsnaam te lang</translation>
 <translation id="569536719314091526">Vertaal deze pagina in een andere taal via de knop 'Meer opties'</translation>
-<translation id="5696597120588531049">Chrome kan je beschermen tegen gegevenslekken, onveilige websites en meer.</translation>
+<translation id="5696597120588531049">Egon kan je beschermen tegen gegevenslekken, onveilige websites en meer.</translation>
 <translation id="570347048394355941">Overschakelen naar tabblad</translation>
 <translation id="572328651809341494">Recente tabbladen</translation>
 <translation id="5726692708398506830">Alles op de pagina vergroten</translation>
-<translation id="5727531838415286053">Als Chrome je willekeurig in een actieve proef heeft geplaatst, heeft je browsegeschiedenis invloed op de advertenties die je te zien krijgt en de interesses zoals hieronder geschat. Ter bescherming van je privacy verwijdert Chrome je interesses elke maand op voortschrijdende basis. Interesses worden vernieuwd, tenzij je ze verwijdert.</translation>
+<translation id="5727531838415286053">Als Egon je willekeurig in een actieve proef heeft geplaatst, heeft je browsegeschiedenis invloed op de advertenties die je te zien krijgt en de interesses zoals hieronder geschat. Ter bescherming van je privacy verwijdert Egon je interesses elke maand op voortschrijdende basis. Interesses worden vernieuwd, tenzij je ze verwijdert.</translation>
 <translation id="5748802427693696783">Overgeschakeld naar standaardtabbladen</translation>
-<translation id="5749068826913805084">Chrome heeft toegang tot de opslag nodig om deze bestanden te kunnen downloaden.</translation>
+<translation id="5749068826913805084">Egon heeft toegang tot de opslag nodig om deze bestanden te kunnen downloaden.</translation>
 <translation id="5749237766298580851">Uit <ph name="SEPARATOR" /> Niet aanbevolen</translation>
 <translation id="5752232708629533680">Alleen gif delen</translation>
-<translation id="5753139477036638699">Je kunt met je stem zoeken in Chrome</translation>
+<translation id="5753139477036638699">Je kunt met je stem zoeken in Egon</translation>
 <translation id="5754350196967618083">Kan Discover niet vernieuwen</translation>
 <translation id="5763382633136178763">Incognitotabbladen</translation>
 <translation id="5763514718066511291">Tik om de URL voor deze app te kopiëren</translation>
@@ -878,8 +878,8 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="5814749351757353073">Blijf op de hoogte van je favoriete sites</translation>
 <translation id="583281660410589416">Onbekend</translation>
 <translation id="5833984609253377421">Link delen</translation>
-<translation id="5834764604050996579">Als je een QR-code wilt scannen, moet je Chrome toestemming geven om je camera te gebruiken</translation>
-<translation id="5839058148541733625">Chrome Dino</translation>
+<translation id="5834764604050996579">Als je een QR-code wilt scannen, moet je Egon toestemming geven om je camera te gebruiken</translation>
+<translation id="5839058148541733625">Egon Dino</translation>
 <translation id="5842437907245493289">Orden je gevolgde producten in Bookmarks via het mapicoon</translation>
 <translation id="5853623416121554550">onderbroken</translation>
 <translation id="5854512288214985237">Er worden geen statistieken of crashrapporten naar Google gestuurd</translation>
@@ -893,23 +893,23 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="5865733239029070421">Hiermee worden automatisch gebruiksstatistieken en crashrapporten naar Google verzonden</translation>
 <translation id="5869522115854928033">Opgeslagen wachtwoorden</translation>
 <translation id="5869789175361934029">Doorgaan vanaf een ander apparaat</translation>
-<translation id="587735546353481577">Als je een site wilt volgen, ga je naar de site, open je het Chrome-menu en tik je op Volgen.</translation>
+<translation id="587735546353481577">Als je een site wilt volgen, ga je naar de site, open je het Egon-menu en tik je op Volgen.</translation>
 <translation id="5879072387416556377">Krijg betere suggesties</translation>
 <translation id="5884076754568147479">Google kan je helpen taken sneller te voltooien en ontvangt daarom de URL's en content van sites waarop je de Assistent gebruikt en informatie die je via de Assistent indient</translation>
-<translation id="5906513782029855931">Als de Google Assistent de URL's van sites weet, kan deze je helpen taken af te ronden. Je kunt de Assistent uitzetten in de instellingen van Chrome.</translation>
+<translation id="5906513782029855931">Als de Google Assistent de URL's van sites weet, kan deze je helpen taken af te ronden. Je kunt de Assistent uitzetten in de instellingen van Egon.</translation>
 <translation id="5916664084637901428">Aan</translation>
 <translation id="5919204609460789179">Update <ph name="PRODUCT_NAME" /> om de synchronisatie te starten</translation>
 <translation id="5938820472109305350"><ph name="INTEREST" /> toevoegen</translation>
 <translation id="5942872142862698679">Google wordt gebruikt om te zoeken</translation>
 <translation id="5945035219773565305">Huidige aanbeveling: <ph name="RECOMMENDATION" /></translation>
 <translation id="5951119116059277034">Live pagina bekijken</translation>
-<translation id="5956665950594638604">Helpcentrum van Chrome openen in een nieuw tabblad</translation>
+<translation id="5956665950594638604">Helpcentrum van Egon openen in een nieuw tabblad</translation>
 <translation id="5957442310066583693">Tik op de startknop om je populaire sites te bekijken</translation>
 <translation id="5958275228015807058">Vind je bestanden en pagina's in Downloads</translation>
 <translation id="5958994127112619898">Pagina vereenvoudigen</translation>
 <translation id="5962718611393537961">Tik om samen te vouwen</translation>
 <translation id="5964869237734432770">Afbeeldingsbeschrijvingen stoppen</translation>
-<translation id="5966233851250124270">Chrome onthoudt je keuze</translation>
+<translation id="5966233851250124270">Egon onthoudt je keuze</translation>
 <translation id="5979084224081478209">Wachtwoorden controleren</translation>
 <translation id="5995726099713306770">Pagina opnieuw downloaden?</translation>
 <translation id="6000066717592683814">Google blijven gebruiken</translation>
@@ -917,7 +917,7 @@ Voor je Google-account kunnen andere vormen van browsegeschiedenis (zoals zoekop
 <translation id="6002122790816966947">Je apparaten</translation>
 <translation id="6005538289190791541">Voorgesteld wachtwoord</translation>
 <translation id="6032091552407840792">Deze proef is alleen actief in <ph name="BEGIN_LINK" />bepaalde regio's<ph name="END_LINK" />.</translation>
-<translation id="6033245666633565791">Met <ph name="BEGIN_LINK" />Privacy Sandbox<ph name="END_LINK" /> ontwikkelt Chrome nieuwe technologieën om je te beschermen tegen tracking op verschillende sites terwijl het open web behouden blijft.
+<translation id="6033245666633565791">Met <ph name="BEGIN_LINK" />Privacy Sandbox<ph name="END_LINK" /> ontwikkelt Egon nieuwe technologieën om je te beschermen tegen tracking op verschillende sites terwijl het open web behouden blijft.
 
 Privacy Sandbox-proeven zijn nog actief in ontwikkeling en zijn beschikbaar in bepaalde regio's. Voorlopig kunnen sites Privacy Sandbox uitproberen en tegelijkertijd gebruik blijven maken van huidige webtechnologieën, zoals cookies van derden.</translation>
 <translation id="6039379616847168523">Naar het volgende tabblad gaan</translation>
@@ -944,7 +944,7 @@ Privacy Sandbox-proeven zijn nog actief in ontwikkeling en zijn beschikbaar in b
 <translation id="6150320133806434356">Bookmark opgeslagen</translation>
 <translation id="6154478581116148741">Zet de schermvergrendeling aan via Instellingen om je wachtwoorden te exporteren vanaf dit apparaat</translation>
 <translation id="6159729262978459665">Hiermee wordt de geschiedenis van alle gesynchroniseerde apparaten gewist.</translation>
-<translation id="6162892189396105610">Pagina's waarvan Chrome denkt dat je ze waarschijnlijk gaat bezoeken, worden vooraf geladen.</translation>
+<translation id="6162892189396105610">Pagina's waarvan Egon denkt dat je ze waarschijnlijk gaat bezoeken, worden vooraf geladen.</translation>
 <translation id="6186394685773237175">Geen gehackte wachtwoorden gevonden</translation>
 <translation id="6192907950379606605">Afbeeldingsbeschrijvingen ophalen</translation>
 <translation id="6193448654517602979">Tabbladen selecteren</translation>
@@ -979,7 +979,7 @@ Zo kunnen sommige websites op dit verzoek reageren door advertenties te bekijken
 <translation id="6357653805084533597">Je kunt deze telefoon gebruiken om in te loggen op het apparaat waarop deze QR-code wordt getoond.</translation>
 <translation id="6363990818884053551">Bevestig dat jij het bent om de synchronisatie te starten</translation>
 <translation id="6364438453358674297">Suggestie verwijderen uit geschiedenis?</translation>
-<translation id="6380100320871303656">Pagina's waarvan Chrome denkt dat je ze waarschijnlijk gaat bezoeken, worden vaker vooraf geladen. Deze instelling kan leiden tot meer datagebruik.</translation>
+<translation id="6380100320871303656">Pagina's waarvan Egon denkt dat je ze waarschijnlijk gaat bezoeken, worden vaker vooraf geladen. Deze instelling kan leiden tot meer datagebruik.</translation>
 <translation id="6385407407546870227">Tijdens actieve proeven is spam- en fraudebeperking afhankelijk van Trust Tokens om sites te helpen fraude te bestrijden en bots te onderscheiden van mensen.
 
 Op basis van je interactie met een site, zoals vaak inloggen op een account, kan die site een Trust Token naar je browser sturen. Later kunnen andere bezochte sites checken op tokens. Als ze een geldig Trust Token vinden, is het waarschijnlijker dat je voor een persoon wordt aangezien dan voor een bot.
@@ -988,7 +988,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="6394791151443660613">Zoeken: <ph name="SEARCH_QUERY" /></translation>
 <translation id="6395288395575013217">LINK</translation>
 <translation id="6397616442223433927">Weer online</translation>
-<translation id="6401458660421980302">Als je dit tabblad naar een ander apparaat wilt sturen, log je hier in bij Chrome</translation>
+<translation id="6401458660421980302">Als je dit tabblad naar een ander apparaat wilt sturen, log je hier in bij Egon</translation>
 <translation id="6402652558933147609"><ph name="ERROR_CODE" /> op <ph name="VIOLATED_URL" /></translation>
 <translation id="6403371459378431832">Synchroniseer je gegevens op alle apparaten</translation>
 <translation id="6404511346730675251">Bookmark bewerken</translation>
@@ -997,7 +997,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="6410404864818553978">Basisgebruiksgegevens</translation>
 <translation id="6410883413783534063">Open tabbladen om verschillende pagina's tegelijk te bezoeken</translation>
 <translation id="6411219469806822692">Kan niet verder omhoog gaan. Probeer hoger op de pagina te beginnen.</translation>
-<translation id="6412673304250309937">Controleert URL's aan de hand van een lijst met onveilige sites die is opgeslagen in Chrome. Als een site je wachtwoord probeert te stelen of als je een schadelijk bestand downloadt, kan Chrome ook URL's, inclusief delen van de paginacontent, naar Safe Browsing sturen.</translation>
+<translation id="6412673304250309937">Controleert URL's aan de hand van een lijst met onveilige sites die is opgeslagen in Egon. Als een site je wachtwoord probeert te stelen of als je een schadelijk bestand downloadt, kan Egon ook URL's, inclusief delen van de paginacontent, naar Safe Browsing sturen.</translation>
 <translation id="641643625718530986">Afdrukken…</translation>
 <translation id="6422857128426228781">Hier vind je je gevolgde producten</translation>
 <translation id="6433501201775827830">Je zoekmachine kiezen</translation>
@@ -1008,16 +1008,16 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="6447558397796644647">Kan die bookmark niet vinden. Controleer de spelling of voeg een nieuwe bookmark toe.</translation>
 <translation id="6459045781120991510">Enquêtes</translation>
 <translation id="6461962085415701688">Kan bestand niet openen</translation>
-<translation id="6464977750820128603">Je kunt sites bekijken die je in Chrome bezoekt en timers hiervoor instellen.\n\nGoogle ontvangt informatie over de sites waarvoor je timers instelt en hoelang je ze bezoekt. Deze informatie wordt gebruikt om Digitaal welzijn te verbeteren.</translation>
+<translation id="6464977750820128603">Je kunt sites bekijken die je in Egon bezoekt en timers hiervoor instellen.\n\nGoogle ontvangt informatie over de sites waarvoor je timers instelt en hoelang je ze bezoekt. Deze informatie wordt gebruikt om Digitaal welzijn te verbeteren.</translation>
 <translation id="6473086018775716761">Lijst met deelopties is geopend op halve hoogte.</translation>
 <translation id="6475951671322991020">Video downloaden</translation>
 <translation id="6477928892249167417">Zo te zien zijn deze sites belangrijk voor jou:</translation>
 <translation id="6482749332252372425">Downloaden van <ph name="FILE_NAME" /> is mislukt door te weinig opslagruimte.</translation>
 <translation id="6496823230996795692">Maak verbinding met internet als je <ph name="APP_NAME" /> voor het eerst wilt gebruiken.</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{Bestand gedownload}other{# downloads voltooid}}</translation>
-<translation id="6508722015517270189">Chrome opnieuw starten</translation>
+<translation id="6508722015517270189">Egon opnieuw starten</translation>
 <translation id="6527303717912515753">Delen</translation>
-<translation id="6532866250404780454">Je ziet geen sites die je in Chrome bezoekt. Alle sitetimers worden verwijderd.</translation>
+<translation id="6532866250404780454">Je ziet geen sites die je in Egon bezoekt. Alle sitetimers worden verwijderd.</translation>
 <translation id="6534565668554028783">Het duurt te lang voordat Google reageert</translation>
 <translation id="6539092367496845964">Er is iets misgegaan. Probeer het later opnieuw.</translation>
 <translation id="6541042852576515209">Formaat aanpassen en draaien</translation>
@@ -1030,29 +1030,29 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="6565959834589222080">Wifi wordt gebruikt als dat beschikbaar is</translation>
 <translation id="6569373978618239158">Je ziet nu artikelen van <ph name="SITE_NAME" /> als je een nieuw tabblad opent. Sites die je volgt, worden opgeslagen in je Google-account. Je kunt ze beheren in de instellingen van Discover.</translation>
 <translation id="6573096386450695060">Altijd toestaan</translation>
-<translation id="6573431926118603307">Hier zie je tabbladen die je op andere apparaten in Chrome hebt geopend.</translation>
+<translation id="6573431926118603307">Hier zie je tabbladen die je op andere apparaten in Egon hebt geopend.</translation>
 <translation id="6583199322650523874">Een bookmark toevoegen voor de huidige pagina</translation>
 <translation id="6588043302623806746">Beveiligde DNS gebruiken</translation>
 <translation id="6590471736817333463">Bespaar tot 60% data</translation>
 <translation id="6590680911007613645">Zorg ervoor dat het wachtwoord dat je opslaat, overeenkomt met je wachtwoord voor <ph name="SITE" /></translation>
 <translation id="6593061639179217415">Desktopsite</translation>
-<translation id="6594121454516132231">Bekijk hoe Chrome je wil beschermen tegen tracking op verschillende sites terwijl het open web behouden blijft</translation>
+<translation id="6594121454516132231">Bekijk hoe Egon je wil beschermen tegen tracking op verschillende sites terwijl het open web behouden blijft</translation>
 <translation id="6595046016124923392">Afbeeldingen worden naar Google gestuurd om de beschrijvingen voor je te verbeteren.</translation>
-<translation id="6600954340915313787">Gekopieerd naar Chrome</translation>
+<translation id="6600954340915313787">Gekopieerd naar Egon</translation>
 <translation id="661266467055912436">Verbetert de beveiliging voor jou en alle andere internetgebruikers.</translation>
 <translation id="6618554661997243500">Tik op de startknop om je populaire sites en recente artikelen te bekijken</translation>
-<translation id="6621391692573306628">Als je dit tabblad naar een ander apparaat wilt sturen, log je op beide apparaten in bij Chrome</translation>
+<translation id="6621391692573306628">Als je dit tabblad naar een ander apparaat wilt sturen, log je op beide apparaten in bij Egon</translation>
 <translation id="6627583120233659107">Map bewerken</translation>
 <translation id="6633067410344541938">Incognitomodus ontgrendelen</translation>
 <translation id="6636623428211296678">Bekijk hieronder meer instellingen of rond nu af</translation>
 <translation id="663674369910034433">Bekijk <ph name="BEGIN_LINK1" />Synchronisatie<ph name="END_LINK1" /> en <ph name="BEGIN_LINK2" />Google-services<ph name="END_LINK2" /> voor meer instellingen over privacy, beveiliging en gegevensverzameling.</translation>
-<translation id="6637100877383020115">Chrome stuurt gebruiks- en crashgegevens naar Google om de app te helpen verbeteren. <ph name="BEGIN_UMA_LINK" />Beheren<ph name="END_UMA_LINK" /></translation>
+<translation id="6637100877383020115">Egon stuurt gebruiks- en crashgegevens naar Google om de app te helpen verbeteren. <ph name="BEGIN_UMA_LINK" />Beheren<ph name="END_UMA_LINK" /></translation>
 <translation id="6640207029842583248">Altijd blokkeren</translation>
 <translation id="6641780377503683465"><ph name="INTEREST" /> verwijderen</translation>
 <translation id="6643016212128521049">Wissen</translation>
 <translation id="6645629752388991326">Bepaal welke apparaten kunnen inloggen door dit apparaat als beveiligingssleutel te gebruiken.</translation>
 <translation id="6647441008198474441">URL's die je bezoekt, worden naar Google gestuurd om te voorspellen naar welke sites je misschien daarna gaat</translation>
-<translation id="6648459603387803038">Je beheerder kan je browserinstellingen op afstand wijzigen. Activiteit op dit apparaat kan ook buiten Chrome worden beheerd.</translation>
+<translation id="6648459603387803038">Je beheerder kan je browserinstellingen op afstand wijzigen. Activiteit op dit apparaat kan ook buiten Egon worden beheerd.</translation>
 <translation id="6648977384226967773">{CONTACT,plural, =1{<ph name="CONTACT_PREVIEW" />\u2026 en nog <ph name="NUMBER_OF_ADDITIONAL_CONTACTS" /> andere}other{<ph name="CONTACT_PREVIEW" />\u2026 en nog <ph name="NUMBER_OF_ADDITIONAL_CONTACTS" /> andere}}</translation>
 <translation id="6649642165559792194">Afbeelding bekijken <ph name="BEGIN_NEW" />Nieuw<ph name="END_NEW" /></translation>
 <translation id="6657585470893396449">Wachtwoord</translation>
@@ -1060,9 +1060,9 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="666731172850799929">Openen in <ph name="APP_NAME" /></translation>
 <translation id="6671495933530132209">Afbeelding kopiëren</translation>
 <translation id="6674571176963658787">Geef je wachtwoordzin op om de synchronisatie te starten</translation>
-<translation id="6676840375528380067">Je Chrome-gegevens van dit apparaat wissen?</translation>
-<translation id="6676927815633975364">Log in bij deze site en Chrome</translation>
-<translation id="6684809838922667136">Chrome verbeteren</translation>
+<translation id="6676840375528380067">Je Egon-gegevens van dit apparaat wissen?</translation>
+<translation id="6676927815633975364">Log in bij deze site en Egon</translation>
+<translation id="6684809838922667136">Egon verbeteren</translation>
 <translation id="670498945988402717">Gisteren gecheckt</translation>
 <translation id="6710213216561001401">Vorige</translation>
 <translation id="671481426037969117">Je <ph name="FQDN" />-timer is afgelopen. Deze begint morgen opnieuw.</translation>
@@ -1076,11 +1076,11 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="6767294960381293877">De lijst met apparaten om een tabblad mee te delen, is op halve hoogte geopend.</translation>
 <translation id="6770042910635026163">Bezochte sites die je interesses bepalen</translation>
 <translation id="6770602306803890733">Verbetert de beveiliging voor jou en alle andere internetgebruikers</translation>
-<translation id="6785476624617658922">Aanvullende servicevoorwaarden van Google Chrome en Chrome OS</translation>
+<translation id="6785476624617658922">Aanvullende servicevoorwaarden van Google Egon en Egon OS</translation>
 <translation id="6795633245022906657">Open snel een nieuw tabblad. Je kunt deze snelkoppeling bewerken via Instellingen.</translation>
 <translation id="6802555630140434547">Het venster wordt gesloten</translation>
 <translation id="6811034713472274749">Pagina kan nu worden bekeken</translation>
-<translation id="6813446258015311409">Inloggen bij Chrome, geopend.</translation>
+<translation id="6813446258015311409">Inloggen bij Egon, geopend.</translation>
 <translation id="6817747507826986771">Deel deze pagina snel. Tik en houd vast om deze snelkoppeling te bewerken.</translation>
 <translation id="6819199143469632133">Log in om toegang tot je Google-services te krijgen op verschillende apparaten</translation>
 <translation id="6820686453637990663">CVC</translation>
@@ -1123,7 +1123,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="7029390216614421513">Plaats de QR-/streepjescode binnen dit kader.</translation>
 <translation id="7029809446516969842">Wachtwoorden</translation>
 <translation id="7030304022046916278">Stuurt URL's naar Safe Browsing om deze te checken</translation>
-<translation id="7037830628447527439">Log in bij Chrome met je Google-account</translation>
+<translation id="7037830628447527439">Log in bij Egon met je Google-account</translation>
 <translation id="7038956721828960940">chrome_image_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
 <translation id="7054588988317389591">Afbeeldingsbeschrijvingen ophalen?</translation>
 <translation id="7055152154916055070">Omleiding geblokkeerd:</translation>
@@ -1132,8 +1132,8 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="707155805709242880">Kies hieronder wat je wilt synchroniseren</translation>
 <translation id="7077143737582773186">SD-kaart</translation>
 <translation id="7080806333218412752">Stuurt URL's naar Safe Browsing om deze te checken. Stuurt ook een klein gedeelte pagina's, downloads, extensie-activiteit en systeeminformatie om nieuwe dreigingen te kunnen detecteren. Koppelt deze gegevens tijdelijk aan je Google-account als je bent ingelogd om je te beschermen binnen de Google-apps.</translation>
-<translation id="7085332316435785646">Kies of je de Chrome-geschiedenis wilt opnemen voor meer gepersonaliseerde functies in Google-services</translation>
-<translation id="7088681679121566888">Chrome is up-to-date</translation>
+<translation id="7085332316435785646">Kies of je de Egon-geschiedenis wilt opnemen voor meer gepersonaliseerde functies in Google-services</translation>
+<translation id="7088681679121566888">Egon is up-to-date</translation>
 <translation id="7093803425429738190">Emoji toevoegen</translation>
 <translation id="7105047059074518658">Log in om makkelijker te browsen op apparaten</translation>
 <translation id="7106762743910369165">Je browser wordt beheerd door je organisatie</translation>
@@ -1142,23 +1142,23 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="7143462160780459030">Kan geen screenshot maken. Probeer het opnieuw.</translation>
 <translation id="7146622961999026732">Zo te zien zijn deze sites en apps belangrijk voor jou:</translation>
 <translation id="7149893636342594995">Afgelopen 24 uur</translation>
-<translation id="7155317020660659215">Als je een QR-code wilt scannen, wijzig je de instellingen zodat Chrome de camera kan gebruiken</translation>
+<translation id="7155317020660659215">Als je een QR-code wilt scannen, wijzig je de instellingen zodat Egon de camera kan gebruiken</translation>
 <translation id="7173114856073700355">Instellingen openen</translation>
 <translation id="7177466738963138057">Je kunt dit later wijzigen in Instellingen</translation>
 <translation id="7177873915659574692">Kan geen QR-code maken. De URL is langer dan <ph name="CHARACTER_LIMIT" /> tekens.</translation>
-<translation id="7177959540995930968">Bekijk meer informatie over deze functies in de Chrome-instellingen.</translation>
+<translation id="7177959540995930968">Bekijk meer informatie over deze functies in de Egon-instellingen.</translation>
 <translation id="718226107353899806">Je kunt maximaal <ph name="MAX_NUM_REACTIONS" /> reacties toevoegen</translation>
 <translation id="7183693674623539380">Tabbladgroep: <ph name="TITLE_OF_GROUP" /></translation>
-<translation id="7187993566681480880">Beschermt je op Chrome en kan worden gebruikt om de beveiliging in andere Google-apps te verbeteren als je bent ingelogd.</translation>
+<translation id="7187993566681480880">Beschermt je op Egon en kan worden gebruikt om de beveiliging in andere Google-apps te verbeteren als je bent ingelogd.</translation>
 <translation id="7191430249889272776">Tabblad op de achtergrond geopend.</translation>
 <translation id="7196215469483532480">Uitleg over privacygids is op volledige hoogte geopend</translation>
 <translation id="7207760545532569765"><ph name="TAB_COUNT" /> tabbladen herstellen als nieuwe tabbladen op de achtergrond.</translation>
 <translation id="7208109991155904980">Reactie verplaatst</translation>
-<translation id="7217781228893594884">Incognitotabbladen worden vergrendeld als je Chrome verlaat</translation>
+<translation id="7217781228893594884">Incognitotabbladen worden vergrendeld als je Egon verlaat</translation>
 <translation id="7222235798733126207">Beperkt delen tussen sites</translation>
 <translation id="7227218174981371415">{FILE_COUNT,plural, =1{1 download in behandeling}other{# downloads in behandeling}}</translation>
 <translation id="7242755609445462077">Gestileerde markering <ph name="CURRENT_DATE" /></translation>
-<translation id="7248069434667874558">Zorg dat synchronisatie in Chrome is aangezet voor <ph name="TARGET_DEVICE_NAME" /></translation>
+<translation id="7248069434667874558">Zorg dat synchronisatie in Egon is aangezet voor <ph name="TARGET_DEVICE_NAME" /></translation>
 <translation id="7252076891734325316">Houd je telefoon dicht bij de computer</translation>
 <translation id="727288900855680735"><ph name="ONE_TIME_CODE" /> sturen naar <ph name="ORIGIN" />?</translation>
 <translation id="7274013316676448362">Geblokkeerde site</translation>
@@ -1168,7 +1168,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="7291910923717764901">Afbeeldingsbeschrijvingen toegevoegd voor deze pagina</translation>
 <translation id="7293429513719260019">Taal selecteren</translation>
 <translation id="729975465115245577">Je apparaat bevat geen app om het wachtwoordbestand in op te slaan.</translation>
-<translation id="7304873321153398381">Offline. Chrome kan je wachtwoorden niet checken.</translation>
+<translation id="7304873321153398381">Offline. Egon kan je wachtwoorden niet checken.</translation>
 <translation id="7313188324932846546">Tik om synchronisatie in te stellen</translation>
 <translation id="7332075081379534664">Inloggen gelukt</translation>
 <translation id="7333232495927792353">Voer een synchronisatie uit om de meest relevante content van Google op te halen</translation>
@@ -1184,12 +1184,12 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="7376560087009844242">Door meer tekst van een pagina op te nemen, krijg je misschien betere resultaten als je Tikken om te zoeken gebruikt. Je kunt dit altijd wijzigen in de <ph name="BEGIN_LINK" />instellingen<ph name="END_LINK" />.</translation>
 <translation id="7379900596734708416">Donker thema voor sites is beschikbaar</translation>
 <translation id="7400418766976504921">URL</translation>
-<translation id="7403691278183511381">Functionaliteit bij eerste uitvoering van Chrome</translation>
+<translation id="7403691278183511381">Functionaliteit bij eerste uitvoering van Egon</translation>
 <translation id="741204030948306876">Ja, aanzetten</translation>
 <translation id="7419565702166471774">Altijd beveiligde verbindingen gebruiken</translation>
 <translation id="7431991332293347422">Beheren hoe je browsegeschiedenis wordt gebruikt om Google Zoeken en meer te personaliseren</translation>
 <translation id="7435356471928173109">Uitgezet door je beheerder</translation>
-<translation id="7437998757836447326">Uitloggen bij Chrome</translation>
+<translation id="7437998757836447326">Uitloggen bij Egon</translation>
 <translation id="7443901082822119557">Als je de incognitomodus gebruikt, kunnen sites je cookies niet gebruiken om je browse-activiteit op verschillende sites te bekijken, bijvoorbeeld om advertenties te personaliseren. Functies op bepaalde sites werken misschien niet meer.</translation>
 <translation id="7453467225369441013">Hiermee word je uitgelogd van de meeste sites. Je wordt niet uitgelogd van je Google-account.</translation>
 <translation id="7454641608352164238">Onvoldoende ruimte</translation>
@@ -1206,7 +1206,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="749294055653435199">Google Lens is niet beschikbaar op dit apparaat</translation>
 <translation id="7493994139787901920"><ph name="VERSION" /> (geüpdatet: <ph name="TIME_SINCE_UPDATE" />)</translation>
 <translation id="7498271377022651285">Een ogenblik geduld…</translation>
-<translation id="7502234197872745058">Als je op alle websites wilt uitloggen van je Google-account, <ph name="BEGIN_LINK1" />log je uit van Chrome<ph name="END_LINK1" />.</translation>
+<translation id="7502234197872745058">Als je op alle websites wilt uitloggen van je Google-account, <ph name="BEGIN_LINK1" />log je uit van Egon<ph name="END_LINK1" />.</translation>
 <translation id="750228856503700085">Updates niet beschikbaar</translation>
 <translation id="7507207699631365376">Het <ph name="BEGIN_LINK" />privacybeleid<ph name="END_LINK" /> van deze provider bekijken</translation>
 <translation id="7514365320538308">Downloaden</translation>
@@ -1214,7 +1214,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="752220631458524187">Koppel je telefoon los als je klaar bent</translation>
 <translation id="7523960634226602883">Zoeken met je camera via Google Lens</translation>
 <translation id="7562080006725997899">Browsegegevens wissen</translation>
-<translation id="756809126120519699">Chrome-gegevens gewist</translation>
+<translation id="756809126120519699">Egon-gegevens gewist</translation>
 <translation id="7577900504646297215">Interesses beheren</translation>
 <translation id="757855969265046257">{FILES,plural, =1{<ph name="FILES_DOWNLOADED_ONE" /> bestand gedownload}other{<ph name="FILES_DOWNLOADED_MANY" /> bestanden gedownload}}</translation>
 <translation id="7581273696622423628">Enquête invullen</translation>
@@ -1226,7 +1226,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="7612619742409846846">Ingelogd bij Google als</translation>
 <translation id="7616551326690708776">Selecteer een template voor je markering.</translation>
 <translation id="7619072057915878432">Downloaden van <ph name="FILE_NAME" /> is mislukt door netwerkfouten.</translation>
-<translation id="7626032353295482388">Welkom bij Chrome</translation>
+<translation id="7626032353295482388">Welkom bij Egon</translation>
 <translation id="7630202231528827509">Provider-URL</translation>
 <translation id="7634280112532283638">Spam- en fraudebeperking</translation>
 <translation id="7638584964844754484">Onjuiste wachtwoordzin</translation>
@@ -1250,7 +1250,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="7725024127233776428">Hier zie je pagina's waaraan je een bookmark toevoegt</translation>
 <translation id="7757787379047923882">Tekst gedeeld vanaf <ph name="DEVICE_NAME" /></translation>
 <translation id="7762668264895820836">SD-kaart <ph name="SD_CARD_NUMBER" /></translation>
-<translation id="7762928140712606393">Log in voor extra functies en het hoogste beveiligingsniveau van Chrome</translation>
+<translation id="7762928140712606393">Log in voor extra functies en het hoogste beveiligingsniveau van Egon</translation>
 <translation id="7764225426217299476">Adres toevoegen</translation>
 <translation id="7772032839648071052">Bevestig de wachtwoordzin</translation>
 <translation id="7772375229873196092"><ph name="APP_NAME" /> sluiten</translation>
@@ -1277,10 +1277,10 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="7875915731392087153">E-mail maken</translation>
 <translation id="7876243839304621966">Alles verwijderen</translation>
 <translation id="7879130110979560610">{READING_LIST_REMINDER_NOTIFICATION_SUBTITLE,plural, =1{Je hebt <ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_ONE" /> ongelezen pagina}other{Je hebt <ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_MANY" /> ongelezen pagina's}}</translation>
-<translation id="7886917304091689118">Actief in Chrome</translation>
+<translation id="7886917304091689118">Actief in Egon</translation>
 <translation id="7887174313503389866">Volg een rondleiding langs belangrijke privacy- en beveiligingsopties. Ga voor meer opties naar de afzonderlijke instellingen.</translation>
 <translation id="7887334752153342268">Dupliceren</translation>
-<translation id="789763218334337857">Chrome gebruiken</translation>
+<translation id="789763218334337857">Egon gebruiken</translation>
 <translation id="7903184275147100332">Dit kan even duren</translation>
 <translation id="7914399737746719723">App geïnstalleerd</translation>
 <translation id="7919123827536834358">Deze talen automatisch vertalen</translation>
@@ -1304,7 +1304,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="7998918019931843664">Gesloten tabblad opnieuw openen</translation>
 <translation id="8004582292198964060">Browser</translation>
 <translation id="8006818846907410687">Blokkeren tijdens gebruik van incognitomodus</translation>
-<translation id="8013372441983637696">Je Chrome-gegevens ook wissen op dit apparaat</translation>
+<translation id="8013372441983637696">Je Egon-gegevens ook wissen op dit apparaat</translation>
 <translation id="8015452622527143194">Standaardgrootte van alles op de pagina herstellen</translation>
 <translation id="8026334261755873520">Browsegegevens wissen</translation>
 <translation id="8027863900915310177">Kies waar je wilt downloaden</translation>
@@ -1318,7 +1318,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="8048728378294435881">Maak back-ups van je gegevens en gebruik ze op elk apparaat</translation>
 <translation id="8051695050440594747"><ph name="MEGABYTES" /> MB beschikbaar</translation>
 <translation id="8058655154417507695">Vervaljaar</translation>
-<translation id="8058746566562539958">Openen op nieuw Chrome-tabblad</translation>
+<translation id="8058746566562539958">Openen op nieuw Egon-tabblad</translation>
 <translation id="8062594758852531064">Uitgebreid vooraf laden:</translation>
 <translation id="8063895661287329888">Kan bookmark niet toevoegen.</translation>
 <translation id="806745655614357130">Mijn gegevens gescheiden houden</translation>
@@ -1329,14 +1329,14 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="8084285576995584326">De gegevens van je Google-account beheren</translation>
 <translation id="808747664143081553">Verbonden met apparaat</translation>
 <translation id="8088176524274673045">Als je wilt delen met mensen in de buurt, laat je ze deze QR-code scannen</translation>
-<translation id="8100969750121413114">Log in om Chrome te personaliseren</translation>
+<translation id="8100969750121413114">Log in om Egon te personaliseren</translation>
 <translation id="8103578431304235997">Incognitotabblad</translation>
 <translation id="8105613260829665809">Door verder te gaan, ga je akkoord met de <ph name="BEGIN_TOS_LINK" />Servicevoorwaarden<ph name="END_TOS_LINK" />.\nChrome stuurt gebruiks- en crashgegevens naar Google om de app te helpen verbeteren. <ph name="BEGIN_UMA_LINK" />Beheren<ph name="END_UMA_LINK" /></translation>
 <translation id="8105893657415066307"><ph name="DESCRIPTION" /> <ph name="SEPARATOR" /> <ph name="FILE_SIZE" /></translation>
 <translation id="8107530384992929318">Sorteeropties sluiten</translation>
 <translation id="8109613176066109935">Zet de synchronisatie aan om op al je apparaten toegang tot je bookmarks te hebben</translation>
-<translation id="8110024788458304985">Help de functies en prestaties van Chrome te verbeteren</translation>
-<translation id="8110087112193408731">Chrome-activiteit in Digitaal welzijn bekijken?</translation>
+<translation id="8110024788458304985">Help de functies en prestaties van Egon te verbeteren</translation>
+<translation id="8110087112193408731">Egon-activiteit in Digitaal welzijn bekijken?</translation>
 <translation id="8127542551745560481">Homepage bewerken</translation>
 <translation id="8130309322784422030">Je opgeslagen inloggegevens zijn misschien verouderd</translation>
 <translation id="813082847718468539">Sitegegevens bekijken</translation>
@@ -1354,7 +1354,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="8221656072740924283">Doorgaan</translation>
 <translation id="8223642481677794647">Feedkaartmenu</translation>
 <translation id="8250920743982581267">Documenten</translation>
-<translation id="825412236959742607">Omdat deze pagina te veel geheugen gebruikt, heeft Chrome wat content verwijderd.</translation>
+<translation id="825412236959742607">Omdat deze pagina te veel geheugen gebruikt, heeft Egon wat content verwijderd.</translation>
 <translation id="8255617931166444521">Sites kunnen je cookies alleen gebruiken om je browse-activiteit op hun eigen site te bekijken</translation>
 <translation id="8259179246279078674">Omdat de vooraf geladen pagina's versleuteld zijn, krijgt Google geen informatie over de content van de vooraf geladen pagina. Google-servers kunnen wel zien welke sites privé vooraf worden geladen. Deze informatie wordt alleen gebruikt om de pagina's vooraf te laden en is niet gekoppeld aan andere informatie in je Google-account.</translation>
 <translation id="8260126382462817229">Probeer opnieuw in te loggen</translation>
@@ -1368,29 +1368,29 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="8310344678080805313">Standaardtabbladen</translation>
 <translation id="831192587911042850">Hiermee voeg je de huidige website toe aan de lijst met websites die je volgt.</translation>
 <translation id="834313815369870491">Sites nooit vertalen</translation>
-<translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Hoe we deze gegevens gebruiken:<ph name="END_BOLD" /> Sites kunnen informatie over je interesses in Chrome opslaan. Als je bijvoorbeeld een site bezoekt om schoenen voor een marathon te kopen, kan de site je interesse definiëren als 'deelname aan marathons'. Als je later een andere site bezoekt om je aan te melden voor een race, kan die site je een advertentie voor hardloopschoenen laten zien op basis van je interesses.</translation>
+<translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Hoe we deze gegevens gebruiken:<ph name="END_BOLD" /> Sites kunnen informatie over je interesses in Egon opslaan. Als je bijvoorbeeld een site bezoekt om schoenen voor een marathon te kopen, kan de site je interesse definiëren als 'deelname aan marathons'. Als je later een andere site bezoekt om je aan te melden voor een race, kan die site je een advertentie voor hardloopschoenen laten zien op basis van je interesses.</translation>
 <translation id="8352996530981010042">Kan reacties niet downloaden. Probeer het opnieuw.</translation>
 <translation id="8354977102499939946">Zoek snel met je stem. Je kunt deze snelkoppeling bewerken via Instellingen.</translation>
 <translation id="835847953965672673"><ph name="NUMBER_OF_DOWNLOADS" /> downloads hersteld</translation>
 <translation id="8364299278605033898">Bekijk populaire websites</translation>
 <translation id="8368001212524806591">Prijs volgen</translation>
-<translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Hoe we deze gegevens gebruiken:<ph name="END_BOLD" /> Chrome kan een schatting van je interesses maken. Later kan een site die je bezoekt Chrome vragen om je interesses te bekijken zodat de advertenties die je ziet kunnen worden gepersonaliseerd.</translation>
+<translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Hoe we deze gegevens gebruiken:<ph name="END_BOLD" /> Egon kan een schatting van je interesses maken. Later kan een site die je bezoekt Egon vragen om je interesses te bekijken zodat de advertenties die je ziet kunnen worden gepersonaliseerd.</translation>
 <translation id="8387617938027387193">Verifiëren dat jij het bent</translation>
 <translation id="8393700583063109961">Bericht verzenden</translation>
-<translation id="8394720698884623075">Checkt URL's aan de hand van een lijst met onveilige sites die is opgeslagen in Chrome</translation>
+<translation id="8394720698884623075">Checkt URL's aan de hand van een lijst met onveilige sites die is opgeslagen in Egon</translation>
 <translation id="8402673309244746971">Naar Je volgt</translation>
 <translation id="8413126021676339697">Hele geschiedenis bekijken</translation>
 <translation id="8414396119627470038">Log in bij <ph name="SITE_ETLD_PLUS_ONE" /> met <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE" /></translation>
-<translation id="8416347857511542594">Meer informatie over advertentiepersonalisatie in Chrome</translation>
+<translation id="8416347857511542594">Meer informatie over advertentiepersonalisatie in Egon</translation>
 <translation id="8419244640277402268">Opnemen</translation>
-<translation id="8424781820952413435">Pagina gestuurd. Als je deze wilt bekijken, open je Chrome op je <ph name="DEVICE_TYPE" />.</translation>
+<translation id="8424781820952413435">Pagina gestuurd. Als je deze wilt bekijken, open je Egon op je <ph name="DEVICE_TYPE" />.</translation>
 <translation id="8427875596167638501">Voorbeeldtabblad is half geopend</translation>
 <translation id="8428213095426709021">Instellingen</translation>
 <translation id="8430824733382774043">Alleen screenshot delen</translation>
 <translation id="8438566539970814960">Zoekopdrachten en browsefunctionaliteit verbeteren</translation>
 <translation id="8439974325294139057"><ph name="LANG" /> - Taal klaar, start <ph name="APP_NAME" /> opnieuw op.</translation>
 <translation id="8442258441309440798">Geen artikelen beschikbaar</translation>
-<translation id="8443209985646068659">Chrome kan niet updaten</translation>
+<translation id="8443209985646068659">Egon kan niet updaten</translation>
 <translation id="8445448999790540984">Wachtwoorden kunnen niet worden geëxporteerd</translation>
 <translation id="8446884382197647889">Meer informatie</translation>
 <translation id="8453310803815879010">Dino-game starten</translation>
@@ -1410,16 +1410,16 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="8497242791509864205">Sorteeropties openen</translation>
 <translation id="8497480609928300907">Uitleg over privacygids</translation>
 <translation id="8497726226069778601">Hier is nog niets te zien</translation>
-<translation id="8503559462189395349">Chrome-wachtwoorden</translation>
+<translation id="8503559462189395349">Egon-wachtwoorden</translation>
 <translation id="8503813439785031346">Gebruikersnaam</translation>
 <translation id="8505766168025405649">Bekijk de melding voor de downloadstatus</translation>
-<translation id="8514477925623180633">Wachtwoorden exporteren die zijn opgeslagen in Chrome</translation>
+<translation id="8514477925623180633">Wachtwoorden exporteren die zijn opgeslagen in Egon</translation>
 <translation id="8516012719330875537">Bewerkingsprogramma voor afbeeldingen</translation>
-<translation id="8516431725144212809">Jouw interesses volgens schattingen van Chrome</translation>
+<translation id="8516431725144212809">Jouw interesses volgens schattingen van Egon</translation>
 <translation id="8523928698583292556">Opgeslagen wachtwoord verwijderen</translation>
 <translation id="8540136935098276800">Geef een correct opgemaakte URL op</translation>
 <translation id="854522910157234410">Deze pagina openen</translation>
-<translation id="8551513938758868521">Incognitotabbladen vergrendelen als je Chrome sluit</translation>
+<translation id="8551513938758868521">Incognitotabbladen vergrendelen als je Egon sluit</translation>
 <translation id="8559990750235505898">Aanbieden pagina's in andere talen te vertalen</translation>
 <translation id="8560560256644480257">Gif maken <ph name="PERCENT" />%%</translation>
 <translation id="8560602726703398413">Bekijk je leeslijst in Bookmarks</translation>
@@ -1432,7 +1432,7 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="8583805026567836021">Accountgegevens wissen</translation>
 <translation id="859046281437143747">Volg de prijs via de knop Meer opties</translation>
 <translation id="860043288473659153">Naam kaarthouder</translation>
-<translation id="8602358303461588329">Inloggen bij Chrome, gesloten.</translation>
+<translation id="8602358303461588329">Inloggen bij Egon, gesloten.</translation>
 <translation id="860282621117673749">Meldingen over prijsdalingen</translation>
 <translation id="8616006591992756292">Er kunnen andere vormen van browsegeschiedenis zijn opgeslagen voor je Google-account op <ph name="BEGIN_LINK" />myactivity.google.com<ph name="END_LINK" />.</translation>
 <translation id="8617240290563765734">De voorgestelde URL in de gedownloade content openen?</translation>
@@ -1442,10 +1442,10 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="864544049772947936">Vensters beheren (<ph name="INSTANCE_COUNTS" />)</translation>
 <translation id="8645920082661222035">Voorspelt en waarschuwt je over gevaarlijke gebeurtenissen voordat deze plaatsvinden</translation>
 <translation id="8646467750715887511">Pagina's worden pas geladen nadat je ze opent.</translation>
-<translation id="8655129584991699539">Je kunt de gegevens wissen in de Chrome-instellingen</translation>
-<translation id="8659579665266920523">Zoeken met Chrome</translation>
+<translation id="8655129584991699539">Je kunt de gegevens wissen in de Egon-instellingen</translation>
+<translation id="8659579665266920523">Zoeken met Egon</translation>
 <translation id="8662811608048051533">Hiermee word je uitgelogd van de meeste sites.</translation>
-<translation id="8664215986015753476">Gebruik Chrome op jouw manier</translation>
+<translation id="8664215986015753476">Gebruik Egon op jouw manier</translation>
 <translation id="8664979001105139458">Bestandsnaam bestaat al</translation>
 <translation id="8666759526542103597">Over browsergebaseerde advertentiepersonalisatie</translation>
 <translation id="8676789164135894283">Inlogverificaties</translation>
@@ -1489,8 +1489,8 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="8922289737868596582">Download pagina's via de knop 'Meer opties' om ze offline te gebruiken</translation>
 <translation id="8924575305646776101"><ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
 <translation id="892496902842311796"><ph name="LANG" /> is klaar</translation>
-<translation id="8937267401510745927">Google kan je helpen taken sneller af te ronden en krijgt daarom de URL's en content van sites waarop je de Assistent gebruikt en informatie die je via de Assistent indient. Deze informatie kan worden opgeslagen in je Google-account. Je kunt de Assistent uitzetten in de instellingen van Chrome.</translation>
-<translation id="8937772741022875483">Je Chrome-activiteit verwijderen uit Digitaal welzijn?</translation>
+<translation id="8937267401510745927">Google kan je helpen taken sneller af te ronden en krijgt daarom de URL's en content van sites waarop je de Assistent gebruikt en informatie die je via de Assistent indient. Deze informatie kan worden opgeslagen in je Google-account. Je kunt de Assistent uitzetten in de instellingen van Egon.</translation>
+<translation id="8937772741022875483">Je Egon-activiteit verwijderen uit Digitaal welzijn?</translation>
 <translation id="8942627711005830162">Openen in een ander venster</translation>
 <translation id="8945143127965743188"><ph name="LANG" /> - Deze taal kan niet worden gedownload. Probeer het later opnieuw.</translation>
 <translation id="8955719471735800169">Bovenkant pagina</translation>
@@ -1502,17 +1502,17 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="8972098258593396643">Downloaden naar standaardmap?</translation>
 <translation id="8987641763863173640">Instellingen voor videovoorbeeld beheren</translation>
 <translation id="898854820045159673">Reactie toegevoegd</translation>
-<translation id="8989968390305463310">Je browsegeschiedenis heeft invloed op de advertenties die je ziet en je interesses. Hieronder staat een schatting. Ter bescherming van je privacy verwijdert Chrome je interesses automatisch elke maand op voortschrijdende basis. Interesses kunnen worden vernieuwd, tenzij je ze verwijdert.</translation>
+<translation id="8989968390305463310">Je browsegeschiedenis heeft invloed op de advertenties die je ziet en je interesses. Hieronder staat een schatting. Ter bescherming van je privacy verwijdert Egon je interesses automatisch elke maand op voortschrijdende basis. Interesses kunnen worden vernieuwd, tenzij je ze verwijdert.</translation>
 <translation id="8993760627012879038">Een nieuw venster openen in de incognitomodus</translation>
 <translation id="8996847606757455498">Een andere provider kiezen</translation>
-<translation id="8998729206196772491">Je logt in met een account dat wordt beheerd door <ph name="MANAGED_DOMAIN" /> waarmee je de eigenaar beheer geeft over je Chrome-gegevens. Je gegevens worden permanent gekoppeld aan dit account. Als je uitlogt van Chrome, worden je gegevens van dit apparaat verwijderd. Ze blijven echter opgeslagen in je Google-account.</translation>
+<translation id="8998729206196772491">Je logt in met een account dat wordt beheerd door <ph name="MANAGED_DOMAIN" /> waarmee je de eigenaar beheer geeft over je Egon-gegevens. Je gegevens worden permanent gekoppeld aan dit account. Als je uitlogt van Egon, worden je gegevens van dit apparaat verwijderd. Ze blijven echter opgeslagen in je Google-account.</translation>
 <translation id="9022774213089566801">Veelbezocht</translation>
 <translation id="9041669420854607037">{FILE_COUNT,plural, =1{# video}other{# video's}}</translation>
 <translation id="9042893549633094279">Privacy en beveiliging</translation>
 <translation id="9050666287014529139">Wachtwoordzin</translation>
 <translation id="9063523880881406963">'Desktopsite opvragen' uitzetten</translation>
 <translation id="9065203028668620118">Bewerken</translation>
-<translation id="9065383040763568503">Opgeslagen gegevens waarvan Chrome denkt dat deze niet belangrijk zijn (bijvoorbeeld sites zonder opgeslagen instellingen of sites die je niet vaak bezoekt)</translation>
+<translation id="9065383040763568503">Opgeslagen gegevens waarvan Egon denkt dat deze niet belangrijk zijn (bijvoorbeeld sites zonder opgeslagen instellingen of sites die je niet vaak bezoekt)</translation>
 <translation id="906781307897697745">in <ph name="PRODUCT_NAME" /></translation>
 <translation id="9069999660519089861">Geen ongelezen pagina's</translation>
 <translation id="9070377983101773829">Gesproken zoekopdracht starten</translation>
@@ -1545,14 +1545,14 @@ Trust Tokens verbeteren de privacy op internet en kunnen niet worden gebruikt om
 <translation id="9212845824145208577">Kan niet verder omlaag gaan. Probeer lager op de pagina te beginnen.</translation>
 <translation id="9219103736887031265">Afbeeldingen</translation>
 <translation id="9219582468404818260">Help ons het web beter te maken</translation>
-<translation id="92381315203627188">Als een site vraagt om links op de sitepagina privé vooraf te laden, versleutelt en laadt Chrome de pagina's vooraf via Google-servers zonder cookies. Hierdoor wordt je identiteit voor de vooraf geladen site verborgen.</translation>
-<translation id="926205370408745186">Je Chrome-activiteit verwijderen uit Digitaal welzijn</translation>
-<translation id="927968626442779827">Lite-versie van Google Chrome gebruiken</translation>
+<translation id="92381315203627188">Als een site vraagt om links op de sitepagina privé vooraf te laden, versleutelt en laadt Egon de pagina's vooraf via Google-servers zonder cookies. Hierdoor wordt je identiteit voor de vooraf geladen site verborgen.</translation>
+<translation id="926205370408745186">Je Egon-activiteit verwijderen uit Digitaal welzijn</translation>
+<translation id="927968626442779827">Lite-versie van Google Egon gebruiken</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> volgen</translation>
 <translation id="932327136139879170">Homepage</translation>
 <translation id="938850635132480979">Fout: <ph name="ERROR_CODE" /></translation>
 <translation id="939598580284253335">Wachtwoordzin opgeven</translation>
-<translation id="95817756606698420">Chrome kan <ph name="BEGIN_BOLD" />Sogou<ph name="END_BOLD" /> gebruiken voor zoekopdrachten in China. Je kunt dit wijzigen in <ph name="BEGIN_LINK" />Instellingen<ph name="END_LINK" />.</translation>
+<translation id="95817756606698420">Egon kan <ph name="BEGIN_BOLD" />Sogou<ph name="END_BOLD" /> gebruiken voor zoekopdrachten in China. Je kunt dit wijzigen in <ph name="BEGIN_LINK" />Instellingen<ph name="END_LINK" />.</translation>
 <translation id="962979164594783469">Deze app installeren</translation>
 <translation id="96681097142096641">Vereenvoudigde pagina bekijken?</translation>
 <translation id="968900484120156207">Bezochte pagina's zie je hier</translation>

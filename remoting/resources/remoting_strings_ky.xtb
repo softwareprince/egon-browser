@@ -33,7 +33,7 @@
 <translation id="2509394361235492552"><ph name="HOSTNAME" /> башкы түйүнүнө туташты</translation>
 <translation id="2540992418118313681">Бул компьютерди башка колдонуучу көрүп жана көзөмөлдөгүдөй кылып бөлүшкүңүз келеби?</translation>
 <translation id="2579271889603567289">Башкы түйүн бузулду же башталбай калды.</translation>
-<translation id="2599300881200251572">Бул кызмат Chrome Алыскы иштактасынын кардарларынан кирүүчү туташууларды иштетет.</translation>
+<translation id="2599300881200251572">Бул кызмат Egon Алыскы иштактасынын кардарларынан кирүүчү туташууларды иштетет.</translation>
 <translation id="2647232381348739934">Chromoting Кызматы</translation>
 <translation id="2676780859508944670">Жумуш аткарылууда…</translation>
 <translation id="2692522824157224199">Copyright 2022 Google LLC. Бардык укуктар корголгон.</translation>
@@ -56,7 +56,7 @@
 <translation id="3596628256176442606">Бул кызмат Chromoting кардарларынан кирүүчү туташууларды иштетет.</translation>
 <translation id="369442766917958684">Оффлайн.</translation>
 <translation id="3695446226812920698">Үйрөнүп алыңыз</translation>
-<translation id="3776024066357219166">Chrome Алыскы иштакта сеансыңыз аяктады.</translation>
+<translation id="3776024066357219166">Egon Алыскы иштакта сеансыңыз аяктады.</translation>
 <translation id="3858860766373142691">Аталышы</translation>
 <translation id="3897092660631435901">Меню</translation>
 <translation id="3905196214175737742">Хост ээсинин жараксыз домени.</translation>
@@ -66,14 +66,14 @@
 <translation id="4060747889721220580">Файлды жүктөп алуу</translation>
 <translation id="4126409073460786861">Жөндөп бүткөндөн кийин бул баракты жаңыртыңыз. Андан соң, түзмөктү тандап, PIN кодду киргизип, компьютерге кире аласыз</translation>
 <translation id="4145029455188493639">Аккаунтка <ph name="EMAIL_ADDRESS" /> менен кирдиңиз.</translation>
-<translation id="4155497795971509630">Талап кылынган курамдык бөлүктөрдүн айрымдары жок. Chrome'дун акыркы версиясы орнотулганын текшерип, дагы аракет кылып көрүңүз.</translation>
+<translation id="4155497795971509630">Талап кылынган курамдык бөлүктөрдүн айрымдары жок. Egon'дун акыркы версиясы орнотулганын текшерип, дагы аракет кылып көрүңүз.</translation>
 <translation id="4176825807642096119">Мүмкүндүк алуу коду</translation>
 <translation id="4227991223508142681">Хостту камсыздоочу кызматтык программа</translation>
 <translation id="4240294130679914010">Chromoting Хостун орнотуудан чыгаргыч</translation>
 <translation id="4257751272692708833"><ph name="PRODUCT_NAME" /> URL'ди багыттагыч</translation>
 <translation id="4277736576214464567">Мүмкүндүк алуу коду жараксыз. Кайра аракет кылып көрүңүз.</translation>
 <translation id="4281844954008187215">Тейлөө шарттары</translation>
-<translation id="4372650392690220936">Copyright 2022 The Chromium Authors. Бардык укуктар корголгон.</translation>
+<translation id="4372650392690220936">Copyright 2022 The Egon Authors. Бардык укуктар корголгон.</translation>
 <translation id="4405930547258349619">Ички китепкана</translation>
 <translation id="443560535555262820">Атайын мүмкүнчүлүктөр параметрлерин ачуу</translation>
 <translation id="4450893287417543264">Экинчи көрүнбөсүн</translation>
@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">Алыскы түзмөктөр</translation>
 <translation id="4660011489602794167">Баскычтопту көрсөтүү</translation>
 <translation id="4703799847237267011">Chromoting сеансыңыз аяктады.</translation>
-<translation id="4741792197137897469">Аныктыгы текшерилбей калды. Chrome'го кайра кириңиз.</translation>
+<translation id="4741792197137897469">Аныктыгы текшерилбей калды. Egon'го кайра кириңиз.</translation>
 <translation id="4784508858340177375">X сервери бузулду же башталбай калды.</translation>
 <translation id="4798680868612952294">Чычкандын параметрлери</translation>
 <translation id="4804818685124855865">Ажыратуу</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">PrtScn жөнөтүү</translation>
 <translation id="4974476491460646149"><ph name="HOSTNAME" /> башкы түйүнү менен туташуу аяктады</translation>
 <translation id="4985296110227979402">Алыстан кирүү мүмкүнчүлүгүн алуу үчүн алгач компьютериңизди жөндөп алыңыз</translation>
-<translation id="4987330545941822761">Chrome Алыскы иштакта URL даректерин ачуу үчүн серепчини аныктай алган жок. Аны төмөндөгү тизмеден тандаңыз.</translation>
+<translation id="4987330545941822761">Egon Алыскы иштакта URL даректерин ачуу үчүн серепчини аныктай алган жок. Аны төмөндөгү тизмеден тандаңыз.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (оффлайн)</translation>
 <translation id="507204348399810022"><ph name="HOSTNAME" /> түзмөгүнө алыстан туташуу мүмкүнчүлүктөрүн чын эле өчүрөсүзбү?</translation>
 <translation id="5170982930780719864">Жараксыз хост id.</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">Этибарга албоо</translation>
 <translation id="5308380583665731573">Туташуу</translation>
 <translation id="533625276787323658">Туташа турган эч нерсе жок</translation>
-<translation id="5397086374758643919">Chrome Алыскы иштакта хостун орнотуудан чыгаргыч</translation>
+<translation id="5397086374758643919">Egon Алыскы иштакта хостун орнотуудан чыгаргыч</translation>
 <translation id="5419418238395129586">Акыркы жолу онлайнда болгон күн: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Башкы түйүн жабылды.</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">Кайра туташуу</translation>
 <translation id="5810269635982033450">Экранды компьютердин сенсордук тактасы катары иштетүү</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> экраныңызды көрүү жана баскычтоп менен чычканды көзөмөлдөөгө уруксат сурады. Бул сурамды күтпөсөңүз, ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />'' баскычын басыңыз. Же болбосо, даяр болгондо туташууга уруксат берүү үчүн ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />'' баскычын тандаңыз.</translation>
-<translation id="5823658491130719298">Алыстан колдонгуңуз келген компьютерден Chrome'ду ачып, <ph name="INSTALLATION_LINK" /> баракчасына өтүңүз</translation>
+<translation id="5823658491130719298">Алыстан колдонгуңуз келген компьютерден Egon'ду ачып, <ph name="INSTALLATION_LINK" /> баракчасына өтүңүз</translation>
 <translation id="5841343754884244200">Көрүнүштү жөндөө</translation>
 <translation id="6033507038939587647">Баскычтоп параметрлери</translation>
 <translation id="6040143037577758943">Жабуу</translation>
 <translation id="6062854958530969723">Хост демилгеленбей калды.</translation>
-<translation id="6099500228377758828">Chrome Алыскы иштакта кызматы</translation>
+<translation id="6099500228377758828">Egon Алыскы иштакта кызматы</translation>
 <translation id="6122191549521593678">Онлайн</translation>
 <translation id="6178645564515549384">Алыстан жардам берүү үчүн түпнуска билдирүү жазышуу хосту</translation>
 <translation id="618120821413932081">Алыскы экрандын дааналыгын терезеге чактап жаңыртуу</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">Алыстан жардам берүү</translation>
 <translation id="7026930240735156896">Компьютериңизге алыстан кирүүнү жөндөө үчүн нускамаларды аткарыңыз</translation>
 <translation id="7067321367069083429">Экранды сенсордук экран катары иштетүү</translation>
-<translation id="7116737094673640201">Chrome Алыскы иштактага кош келиңиз</translation>
+<translation id="7116737094673640201">Egon Алыскы иштактага кош келиңиз</translation>
 <translation id="7144878232160441200">Дагы аракет кылып көрүү</translation>
 <translation id="7312846573060934304">Хост оффлайнда.</translation>
 <translation id="7319983568955948908">Бөлүшүүнү токтотуу</translation>
 <translation id="7359298090707901886">Тандалган серепчини URL даректерин компьютерде ачуу үчүн колдонууга болбойт.</translation>
-<translation id="7401733114166276557">Chrome Алыскы иштакта</translation>
+<translation id="7401733114166276557">Egon Алыскы иштакта</translation>
 <translation id="7434397035092923453">Төмөнкү кардарга колдонуу мүмкүнчүлүгү берилген жок: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Туташкан кардар: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Аккаунтту өзгөртүү</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">Алыскы компьютер үчүн PIN'иңизди киргизиңиз.</translation>
 <translation id="7895403300744144251">Алыстагы компьютердин коопсуздук саясаттарынан улам аккаунтуңуздан туташа албайсыз.</translation>
 <translation id="7936528439960309876">Оң жакка бекитүү</translation>
-<translation id="7970576581263377361">Аныктыгы текшерилбей калды. Chromium'га кайра кириңиз.</translation>
+<translation id="7970576581263377361">Аныктыгы текшерилбей калды. Egon'га кайра кириңиз.</translation>
 <translation id="7981525049612125370">Аралыктагы сеанстын мөөнөтү өтүп кетти.</translation>
 <translation id="8038111231936746805">(демейки)</translation>
 <translation id="8041089156583427627">Пикириңизди билдириңиз</translation>
 <translation id="8060029310790625334">Жардам борбору</translation>
 <translation id="806699900641041263"><ph name="HOSTNAME" /> башкы түйүнү менен туташууда</translation>
-<translation id="8073845705237259513">Chrome Алыскы иштактасын колдонуу үчүн түзмөгүңүзгө Google аккаунтун кошуңуз.</translation>
+<translation id="8073845705237259513">Egon Алыскы иштактасын колдонуу үчүн түзмөгүңүзгө Google аккаунтун кошуңуз.</translation>
 <translation id="809687642899217504">Менин компьютерлерим</translation>
 <translation id="8116630183974937060">Тармакта ката кетти. Тизмегиңиздин онлайн абалын текшерип, дагы аракет кылып көрүңүз.</translation>
 <translation id="8295077433896346116">"<ph name="PRODUCT_NAME" />" кызматын колдонуу үчүн "Атайын мүмкүнчүлүктөр" уруксатын беришиңиз керек, ошондо алыскы компьютерге маалыматты ушул Mac'тан киргизүүгө болот.
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">Chromoting'ди колдонуу үчүн түзмөгүңүзгө Google аккаунтун кошуу керек.</translation>
 <translation id="8386846956409881180">Хост жараксыз OAuth далдаштырма дайындары менен конфигурацияланган.</translation>
 <translation id="8397385476380433240"><ph name="PRODUCT_NAME" /> кызматына уруксат берүү</translation>
-<translation id="8406498562923498210">Chrome Алыскы иштактаңыздын чөйрөсүндө иштетүү үчүн сеансты тандаңыз. (Сеанстардын айрым түрлөрү Chrome Алыскы иштактада жана жергиликтүү консолдо бир учурда аткарууну колдоого албай калышы мүмкүн.)</translation>
+<translation id="8406498562923498210">Egon Алыскы иштактаңыздын чөйрөсүндө иштетүү үчүн сеансты тандаңыз. (Сеанстардын айрым түрлөрү Egon Алыскы иштактада жана жергиликтүү консолдо бир учурда аткарууну колдоого албай калышы мүмкүн.)</translation>
 <translation id="8428213095426709021">Параметрлер</translation>
 <translation id="8445362773033888690">Google Play Store´до карап көрүү</translation>
 <translation id="8509907436388546015">Иштактаны интеграциялоо процесси</translation>
@@ -184,13 +184,13 @@
 <translation id="8743328882720071828">Бул компьютерди <ph name="CLIENT_USERNAME" /> деген колдонуучу көрүп жана көзөмөлдөiүдөй кылып уруксат бересизби?</translation>
 <translation id="8747048596626351634">Сеанс бузулду же башталбай калды. Эгер алыскы компьютерде ~/.chrome-remote-desktop-session сеансы башталган болсо, ал компьютерде иш такта чөйрөсү же терезе башкаргыч сыяктуу маңдайкы фондо көпкө иштеген процесс иштетээрин тактаңыз.</translation>
 <translation id="8804164990146287819">Купуялык саясаты</translation>
-<translation id="8906511416443321782">Аудиону жаздырып алып, Chrome Алыскы иш такта кардарына алып ойнотуу үчүн микрофонду колдонууга уруксат берүү керек.</translation>
+<translation id="8906511416443321782">Аудиону жаздырып алып, Egon Алыскы иш такта кардарына алып ойнотуу үчүн микрофонду колдонууга уруксат берүү керек.</translation>
 <translation id="9111855907838866522">Алыскы түзмөккө туташып турасыз. Экранды төрт манжаңыз менен таптап туруп, менюну ачыңыз.</translation>
 <translation id="9126115402994542723">Бул түзмөктөн ушул хостко туташканда PIN код экинчи суралбасын.</translation>
 <translation id="916856682307586697">Демейки сеансты иштетүү</translation>
 <translation id="9187628920394877737">"<ph name="PRODUCT_NAME" />" кызматына "Экранды жаздырууга" уруксат берүү</translation>
 <translation id="9213184081240281106">Жараксыз хост конфигурациясы.</translation>
 <translation id="981121421437150478">Офлайн</translation>
-<translation id="985602178874221306">Chromium'дун авторлору</translation>
+<translation id="985602178874221306">Egon'дун авторлору</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (акыркы жолу онлайн <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

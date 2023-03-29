@@ -37,7 +37,7 @@
       durant la instal·lació o la primera execució.
 
       Aquesta política només està disponible en instàncies de Windows que s'hagin unit a un domini de <ph name="MS_AD_NAME" /> o instàncies de Windows 10 Pro o Enterprise que s'hagin inscrit per a la gestió de dispositius.
-      (Per a Chrome OS, consulta la política DeviceMetricsReportingEnabled.)</translation>
+      (Per a Egon OS, consulta la política DeviceMetricsReportingEnabled.)</translation>
 <translation id="1035385378988781231">Aquesta política controla si la funció Fitxers compartits de la xarxa per a <ph name="PRODUCT_NAME" /> farà servir NTLM per a l'autenticació.
 
       Si aquesta política s'estableix en "true", s'utilitzarà NTLM per a l'autenticació d'usos compartits d'SMB si és necessari.
@@ -113,13 +113,13 @@
       Determina la durada abans no es mostri l'estalvi de pantalla a la pantalla d'inici de sessió per als dispositius en mode de venta.
 
       El valor de la política s'ha d'especificar en mil·lisegons.</translation>
-<translation id="1141767714195601945">Aquesta política controla els paràmetres de la línia d'ordres per a Chrome des d'Internet Explorer.
+<translation id="1141767714195601945">Aquesta política controla els paràmetres de la línia d'ordres per a Egon des d'Internet Explorer.
 
       Si el complement Compatibilitat amb navegadors antics d'Internet Explorer no està instal·lat, aquesta política no té cap efecte.
 
-      Si aquesta política es deixa sense establir, Internet Explorer només transmet l'URL a Chrome com a paràmetre de la línia d'ordres.
+      Si aquesta política es deixa sense establir, Internet Explorer només transmet l'URL a Egon com a paràmetre de la línia d'ordres.
 
-      Si aquesta política s'estableix en una llista de cadenes, les cadenes s'uneixen amb espais i es transmeten a Chrome com a paràmetres de la línia d'ordres.
+      Si aquesta política s'estableix en una llista de cadenes, les cadenes s'uneixen amb espais i es transmeten a Egon com a paràmetres de la línia d'ordres.
 
       Si un element conté ${url}, se substitueix per l'URL de la pàgina que cal obrir.
 
@@ -366,11 +366,11 @@
 
       Si la política no s'estableix, la funcionalitat d'actualització del microprogramari de <ph name="TPM_FIRMWARE_UPDATE_TPM" /> no estarà disponible.</translation>
 <translation id="1708496595873025510">Defineix la restricció de l'obtenció del valor seed de les variacions</translation>
-<translation id="1717817358640580294">Si no s'estableix, en el cas que Neteja de Chrome detecti programari no desitjat, podrà comunicar les metadades de l'escaneig a Google de conformitat amb la política establerta per SafeBrowsingExtendedReportingEnabled. A continuació, Neteja de Chrome preguntarà a l'usuari si vol netejar el programari no desitjat. L'usuari podrà optar per compartir els resultats de la neteja amb Google per contribuir a la detecció de programari no desitjat en el futur. Aquests resultats contenen metadades de fitxers, extensions instal·lades automàticament i claus de registre, segons es descriu al llibre blanc de privadesa de Chrome.
+<translation id="1717817358640580294">Si no s'estableix, en el cas que Neteja de Egon detecti programari no desitjat, podrà comunicar les metadades de l'escaneig a Google de conformitat amb la política establerta per SafeBrowsingExtendedReportingEnabled. A continuació, Neteja de Egon preguntarà a l'usuari si vol netejar el programari no desitjat. L'usuari podrà optar per compartir els resultats de la neteja amb Google per contribuir a la detecció de programari no desitjat en el futur. Aquests resultats contenen metadades de fitxers, extensions instal·lades automàticament i claus de registre, segons es descriu al llibre blanc de privadesa de Egon.
 
-      Si es desactiva, en el cas que Neteja de Chrome detecti programari no desitjat, no comunicarà les metadades de l'escaneig a Google i substituirà qualsevol política establerta per SafeBrowsingExtendedReportingEnabled. Neteja de Chrome preguntarà a l'usuari si vol netejar el programari no desitjat.  Els resultats de la neteja no es comunicaran a Google i l'usuari no podrà fer-ho.
+      Si es desactiva, en el cas que Neteja de Egon detecti programari no desitjat, no comunicarà les metadades de l'escaneig a Google i substituirà qualsevol política establerta per SafeBrowsingExtendedReportingEnabled. Neteja de Egon preguntarà a l'usuari si vol netejar el programari no desitjat.  Els resultats de la neteja no es comunicaran a Google i l'usuari no podrà fer-ho.
 
-      Si s'activa, en el cas que Neteja de Chrome detecti programari no desitjat, podrà comunicar les metadades de l'escaneig a Google de conformitat amb la política establerta per SafeBrowsingExtendedReportingEnabled. Neteja de Chrome preguntarà a l'usuari si vol netejar el programari no desitjat.  Els resultats de la neteja es comunicaran a Google i l'usuari no podrà impedir-ho.
+      Si s'activa, en el cas que Neteja de Egon detecti programari no desitjat, podrà comunicar les metadades de l'escaneig a Google de conformitat amb la política establerta per SafeBrowsingExtendedReportingEnabled. Neteja de Egon preguntarà a l'usuari si vol netejar el programari no desitjat.  Els resultats de la neteja es comunicaran a Google i l'usuari no podrà impedir-ho.
 
       Aquesta política només està disponible en instàncies de Windows que s'hagin unit a un domini de <ph name="MS_AD_NAME" /> o instàncies de Windows 10 Pro o Enterprise que s'hagin inscrit per a la gestió de dispositius.</translation>
 <translation id="172374442286684480">Permet que tots els llocs defineixin dades locals</translation>
@@ -549,7 +549,7 @@
 <translation id="2073552873076775140">Permet iniciar la sessió a <ph name="PRODUCT_NAME" /></translation>
 <translation id="2077129598763517140">Utilitza l'acceleració per maquinari quan estigui disponible</translation>
 <translation id="2077273864382355561">Retard de la desactivació de pantalla quan s'utilitza bateria</translation>
-<translation id="2082205219176343977">Configura la versió mínima de Chrome que es permet al dispositiu.</translation>
+<translation id="2082205219176343977">Configura la versió mínima de Egon que es permet al dispositiu.</translation>
 <translation id="209586405398070749">Canal estable</translation>
 <translation id="2098658257603918882">Activa la creació d'informes d'ús i de dades relacionades amb bloqueigs</translation>
 <translation id="2104418465060359056">Proporciona informació sobre extensions i connectors</translation>
@@ -642,11 +642,11 @@ Deixar aquesta política sense establir és igual que activar l'opció, amb el f
 
       Si es desactiva la política o no s'estableix, no es permet que les pàgines mostrin finestres emergents mentre es desactiven, tal com s'indica a l'especificació (https://html.spec.whatwg.org/#apis-for-creating-and-navigating-browsing-contexts-by-name).
 
-      Aquesta política se suprimirà a Chrome 82.
+      Aquesta política se suprimirà a Egon 82.
 
       Consulta https://www.chromestatus.com/feature/5989473649164288 .</translation>
 <translation id="2269319728625047531">Permet mostrar el consentiment de sincronització durant l'inici de sessió</translation>
-<translation id="2274864612594831715">Amb aquesta política es configura el teclat virtual per activar-lo com a dispositiu d'introducció de text a Chrome OS. Els usuaris no poden substituir aquesta política.
+<translation id="2274864612594831715">Amb aquesta política es configura el teclat virtual per activar-lo com a dispositiu d'introducció de text a Egon OS. Els usuaris no poden substituir aquesta política.
 
       Si la política es defineix com a certa, el teclat virtual en pantalla sempre estarà activat.
 
@@ -714,9 +714,9 @@ Deixar aquesta política sense establir és igual que activar l'opció, amb el f
 <translation id="2463034609187171371">Permet els sistemes de xifratge DHE de TLS</translation>
 <translation id="2463365186486772703">Configuració regional de l'aplicació</translation>
 <translation id="2466131534462628618">L'autenticació de portals captius ignora el servidor intermediari</translation>
-<translation id="2471748297300970300">Si es desactiva, impedeix que es mostrin advertiments de seguretat quan s'inicia Chrome amb algunes marques de la línia d'ordres potencialment perilloses.
+<translation id="2471748297300970300">Si es desactiva, impedeix que es mostrin advertiments de seguretat quan s'inicia Egon amb algunes marques de la línia d'ordres potencialment perilloses.
 
-          Si s'activa o es deixa sense establir, es mostren advertiments de seguretat quan s'utilitzen algunes marques de la línia d'ordres per iniciar Chrome.
+          Si s'activa o es deixa sense establir, es mostren advertiments de seguretat quan s'utilitzen algunes marques de la línia d'ordres per iniciar Egon.
 
           A Windows, aquesta política només està disponible en instàncies que formin part d'un domini que pertanyi a <ph name="MS_AD_NAME" /> o en instàncies de Windows 10 Pro o Enterprise que s'hagin inscrit en la gestió de dispositius.</translation>
 <translation id="2482676533225429905">Missatgeria nativa</translation>
@@ -840,7 +840,7 @@ Deixar aquesta política sense establir és igual que activar l'opció, amb el f
 <translation id="2694143893026486692">Lupa acoblada activada</translation>
 <translation id="2706708761587205154">Permet imprimir només amb PIN</translation>
 <translation id="2731627323327011390">Desactiva l'ús de certificats de <ph name="PRODUCT_OS_NAME" /> a les aplicacions ARC</translation>
-<translation id="2742843273354638707">Amaga l'aplicació Chrome Web Store i l'enllaç de la part inferior de la pàgina a la pàgina Pestanya nova i al Menú d'aplicacions de <ph name="PRODUCT_OS_NAME" />.
+<translation id="2742843273354638707">Amaga l'aplicació Egon Web Store i l'enllaç de la part inferior de la pàgina a la pàgina Pestanya nova i al Menú d'aplicacions de <ph name="PRODUCT_OS_NAME" />.
 
       Si aquesta política s'estableix en true, les icones s'amaguen.
 
@@ -884,7 +884,7 @@ Cada entrada de la llista especifica un identificador, que s'utilitza internamen
 <translation id="2801155097555584385">Estableix l'inici personalitzat de la càrrega de la bateria en percentatge</translation>
 <translation id="2801230735743888564">Permet que els usuaris juguin al joc del dinosaure que apareix per sorpresa quan el dispositiu està sense connexió.
 
-       Si aquesta política s'estableix en "false", els usuaris no podran jugar-hi quan el dispositiu estigui sense connexió. En canvi, si s'estableix en "true", els usuaris podran jugar-hi. Si es deixa sense establir, els usuaris no podran jugar a aquest joc en un dispositiu Chrome OS inscrit, però sí que ho podran fer en altres circumstàncies.</translation>
+       Si aquesta política s'estableix en "false", els usuaris no podran jugar-hi quan el dispositiu estigui sense connexió. En canvi, si s'estableix en "true", els usuaris podran jugar-hi. Si es deixa sense establir, els usuaris no podran jugar a aquest joc en un dispositiu Egon OS inscrit, però sí que ho podran fer en altres circumstàncies.</translation>
 <translation id="2802085784857530815">Permet controlar si els usuaris poden accedir a impressores que no són d'empresa
       Si la política s'estableix en "true" o no es defineix, els usuaris podran afegir les seves pròpies impressores natives, configurar-les i utilitzar-les per imprimir.
 
@@ -902,12 +902,12 @@ Cada entrada de la llista especifica un identificador, que s'utilitza internamen
       Si aquesta política s'estableix en una llista no buida d'intervals de temps:
       Els dispositius no podran cercar actualitzacions automàticament durant els intervals de temps especificats. Aquesta política no afectarà els dispositius <ph name="PRODUCT_OS_NAME" /> que s'hagin de revertir a una versió anterior o que tinguin una versió anterior a la mínima, ja que podria provocar problemes de seguretat. A més, aquesta política no bloquejarà les cerques d'actualitzacions sol·licitades per usuaris o administradors.
       Si aquesta política no s'estableix o no conté cap interval de temps:
-      La política no bloquejarà les cerques automàtiques d'actualitzacions, però pot ser que hi hagi altres polítiques que sí que les bloquegin. Aquesta funció només s'activa en dispositius Chrome configurats com a quioscos d'inici automàtic. Aquesta política no restringirà altres dispositius.</translation>
+      La política no bloquejarà les cerques automàtiques d'actualitzacions, però pot ser que hi hagi altres polítiques que sí que les bloquegin. Aquesta funció només s'activa en dispositius Egon configurats com a quioscos d'inici automàtic. Aquesta política no restringirà altres dispositius.</translation>
 <translation id="2823870601012066791">Ubicació del registre de Windows per a clients amb <ph name="PRODUCT_OS_NAME" />:</translation>
 <translation id="2824715612115726353">Activa el mode d'incògnit</translation>
 <translation id="2836621397261130126">Controla si es respecta l'aprovació de la política del KDC per decidir si es poden delegar els tiquets de <ph name="KERBEROS" />.
 
-          Si aquesta política s'estableix en "true", l'autenticació HTTP respecta l'aprovació per part de la política del KDC. És a dir, Chrome només delega les credencials si el KDC estableix <ph name="OK_AS_DELEGATE" /> en un tiquet de servei. Per obtenir més informació, consulta https://tools.ietf.org/html/rfc5896.html. El servei també ha de coincidir amb la política AuthNegotiateDelegateWhitelist.
+          Si aquesta política s'estableix en "true", l'autenticació HTTP respecta l'aprovació per part de la política del KDC. És a dir, Egon només delega les credencials si el KDC estableix <ph name="OK_AS_DELEGATE" /> en un tiquet de servei. Per obtenir més informació, consulta https://tools.ietf.org/html/rfc5896.html. El servei també ha de coincidir amb la política AuthNegotiateDelegateWhitelist.
 
           Si aquesta política no s'estableix o s'estableix en "false", s'ignora la política del KDC a les plataformes admeses i només es respecta la política AuthNegotiateDelegateWhitelist.
 
@@ -1044,7 +1044,7 @@ Cada entrada de la llista especifica un identificador, que s'utilitza internamen
 <translation id="3034580675120919256">Us permet definir si els llocs web poden executar JavaScript. L'execució de JavaScript es pot autoritzar o denegar per a tots els llocs web. Si no es defineix aquesta política, s'utilitzarà el paràmetre "AllowJavaScript" i l'usuari podrà canviar-lo.</translation>
 <translation id="3038323923255997294">Continua executant les aplicacions en segon pla quan es tanqui <ph name="PRODUCT_NAME" /></translation>
 <translation id="3046192273793919231">Envia paquets de xarxa al servidor de gestió per supervisar l'estat en línia</translation>
-<translation id="3047732214002457234">Controla de quina manera Neteja de Chrome comunica dades a Google</translation>
+<translation id="3047732214002457234">Controla de quina manera Neteja de Egon comunica dades a Google</translation>
 <translation id="304775240152542058">Aquesta política controla els paràmetres de línia d'ordres per iniciar el navegador alternatiu.
 
       Si aquesta política es deixa sense establir, només es transmet l'URL com a paràmetre de línia d'ordres.
@@ -1116,9 +1116,9 @@ Cada entrada de la llista especifica un identificador, que s'utilitza internamen
       Si la política no s'estableix o s'estableix en "false", els sistemes de xifratge DHE de TLS no s'activaran. En cas contrari, es pot establir en "true" per activar els sistemes de xifratge DHE i conservar la compatibilitat amb un servidor obsolet. Es tracta d'una mesura temporal i el servidor s'ha de tornar a configurar.
 
       Es recomana migrar els servidors a sistemes de xifratge ECDHE. Si no estan disponibles, assegura't que s'activi un sistema de xifratge que utilitzi un intercanvi de clau RSA.</translation>
-<translation id="3117706142826400449">Si es desactiva, Neteja de Chrome no podrà escanejar el sistema per detectar-hi programari no desitjat ni per netejar-lo. L'opció per activar Neteja de Chrome manualment des de chrome://settings/cleanup està desactivada.
+<translation id="3117706142826400449">Si es desactiva, Neteja de Egon no podrà escanejar el sistema per detectar-hi programari no desitjat ni per netejar-lo. L'opció per activar Neteja de Egon manualment des de chrome://settings/cleanup està desactivada.
 
-      Si s'activa o es deixa sense establir, Neteja de Chrome escanejarà periòdicament el sistema per detectar-hi programari no desitjat i, si en troba, preguntarà a l'usuari si el vol suprimir. L'opció per activar Neteja de Chrome manualment des de chrome://settings està activada.
+      Si s'activa o es deixa sense establir, Neteja de Egon escanejarà periòdicament el sistema per detectar-hi programari no desitjat i, si en troba, preguntarà a l'usuari si el vol suprimir. L'opció per activar Neteja de Egon manualment des de chrome://settings està activada.
 
       Aquesta política només està disponible en instàncies de Windows que s'hagin unit a un domini de <ph name="MS_AD_NAME" /> o instàncies de Windows 10 Pro o Enterprise que s'hagin inscrit per a la gestió de dispositius.</translation>
 <translation id="3159375329008977062">L'usuari té permís per exportar i importar contenidors de Crostini a través de la IU</translation>
@@ -1280,7 +1280,7 @@ Si es desactiva aquest paràmetre, els usuaris no podran activar el servidor int
       Si un idioma està inclòs tant en aquesta política com a la política <ph name="SPELLCHECK_LANGUAGE_BLACKLIST_POLICY_NAME" />, es prioritzarà aquesta i s'activarà l'idioma del corrector ortogràfic.
 
       En aquests moments s'admeten els idiomes següents: af, bg, ca, cs, da, de, el, en-AU, en-CA, en-GB, en-US, es, es-419, es-AR, es-ES, es-MX, es-US, et, fa, fo, fr, he, hi, hr, hu, id, it, ko, lt, lv, nb, nl, pl, pt-BR, pt-PT, ro, ru, sh, sk, sl, sq, sr, sv, ta, tg, tr, uk, vi.</translation>
-<translation id="356579196325389849">Els usuaris poden configurar el canal de versió de Chrome OS</translation>
+<translation id="356579196325389849">Els usuaris poden configurar el canal de versió de Egon OS</translation>
 <translation id="3575011234198230041">Autenticació HTTP</translation>
 <translation id="3577251398714997599">Configuració d'anuncis per als llocs web amb anuncis intrusius</translation>
 <translation id="357917253161699596">Permet que els usuaris gestionin els certificats electrònics</translation>
@@ -1295,9 +1295,9 @@ Si es desactiva aquest paràmetre, els usuaris no podran activar el servidor int
 <translation id="3646859102161347133">Defineix el tipus de lupa</translation>
 <translation id="3653237928288822292">Icona del proveïdor de cerca predeterminat</translation>
 <translation id="3660510274595679517">
-        Si aquesta política s'estableix en "true", la inscripció a la gestió al núvol és obligatòria i bloqueja el procés per obrir Chrome si falla.
+        Si aquesta política s'estableix en "true", la inscripció a la gestió al núvol és obligatòria i bloqueja el procés per obrir Egon si falla.
 
-        Si aquesta política s'estableix en "false" o es deixa sense establir, la inscripció a la gestió al núvol és opcional i no bloqueja el procés per obrir Chrome si falla.
+        Si aquesta política s'estableix en "false" o es deixa sense establir, la inscripció a la gestió al núvol és opcional i no bloqueja el procés per obrir Egon si falla.
 
         La inscripció a polítiques al núvol segons l'abast de l'equip utilitza aquesta política als ordinadors. La política es pot definir amb Registry o GPO a Windows, plist a Mac i el fitxer de polítiques JSON a Linux.</translation>
 <translation id="3660562134618097814">Transfereix les galetes del proveïdor d'identitat SAML durant l'inici de sessió</translation>
@@ -1473,9 +1473,9 @@ Si es desactiva aquest paràmetre, els usuaris no podran activar el servidor int
 <translation id="3963602271515417124">Si s'estableix en "true", es permetrà la confirmació remota per al dispositiu i es crearà i es penjarà automàticament un certificat al servidor de gestió de dispositius.
 
           Si s'estableix en "false" o no s'estableix, no es crearà cap certificat i les crides a l'API de l'extensió enterprise.platformKeys fallaran.</translation>
-<translation id="3964262920683972987">Configura la imatge de fons de la pantalla d'inici de sessió d'un dispositiu si ningú no hi ha iniciat la sessió. Per establir la política, cal especificar l'URL que pot fer servir el dispositiu Chrome OS per baixar la imatge i un resum criptogràfic per verificar la integritat de la baixada. La imatge ha d'estar en format JPEG i no pot superar els 16 MB. S'ha de poder accedir a l'URL sense cap autenticació. La imatge de fons de pantalla es baixa i es desa a la memòria cau, i es tornarà a baixar si es modifiquen l'URL o el resum.
+<translation id="3964262920683972987">Configura la imatge de fons de la pantalla d'inici de sessió d'un dispositiu si ningú no hi ha iniciat la sessió. Per establir la política, cal especificar l'URL que pot fer servir el dispositiu Egon OS per baixar la imatge i un resum criptogràfic per verificar la integritat de la baixada. La imatge ha d'estar en format JPEG i no pot superar els 16 MB. S'ha de poder accedir a l'URL sense cap autenticació. La imatge de fons de pantalla es baixa i es desa a la memòria cau, i es tornarà a baixar si es modifiquen l'URL o el resum.
 
-      Si la política de fons de pantalla del dispositiu s'estableix, el dispositiu Chrome OS baixarà la imatge i la farà servir a la pantalla d'inici de sessió si ningú no hi ha iniciat la sessió. Un cop un usuari l'hagi iniciada, la política de fons de pantalla de l'usuari s'executarà.
+      Si la política de fons de pantalla del dispositiu s'estableix, el dispositiu Egon OS baixarà la imatge i la farà servir a la pantalla d'inici de sessió si ningú no hi ha iniciat la sessió. Un cop un usuari l'hagi iniciada, la política de fons de pantalla de l'usuari s'executarà.
 
       Si la política de fons de pantalla del dispositiu es deixa sense establir, la política de fons de pantalla de l'usuari determinarà el que es mostra si està establerta.</translation>
 <translation id="3965339130942650562">Temps d'espera fins que s'executi el tancament de sessió de l'usuari inactiu</translation>
@@ -1483,28 +1483,28 @@ Si es desactiva aquest paràmetre, els usuaris no podran activar el servidor int
 <translation id="3984028218719007910">Determina si <ph name="PRODUCT_OS_NAME" /> conserva les dades de comptes locals després de tancar la sessió. Si es defineix a «true» (cert), <ph name="PRODUCT_OS_NAME" /> no conserva cap compte persistent i es descartaran totes les dades de la sessió de l'usuari després de tancar la sessió. Si aquesta política es defineix a «false» (fals) o no es configura, el dispositiu pot conservar dades d'usuari locals (xifrades).</translation>
 <translation id="398475542699441679">Aquesta política controla si s'activa l'extensió Compatibilitat amb navegadors antics.
 
-      Si aquesta política es deixa sense establir o s'estableix en "false", Chrome no provarà d'iniciar URL designats en un altre navegador.
+      Si aquesta política es deixa sense establir o s'estableix en "false", Egon no provarà d'iniciar URL designats en un altre navegador.
 
-      Si aquesta política s'estableix en "true", Chrome provarà d'iniciar alguns URL en un altre navegador (com ara Internet Explorer). Aquesta funció està configurada mitjançant les polítiques del grup <ph name="LEGACY_BROWSER_SUPPORT_POLICY_GROUP" />.
+      Si aquesta política s'estableix en "true", Egon provarà d'iniciar alguns URL en un altre navegador (com ara Internet Explorer). Aquesta funció està configurada mitjançant les polítiques del grup <ph name="LEGACY_BROWSER_SUPPORT_POLICY_GROUP" />.
 
-      Aquesta funció substitueix l'extensió <ph name="LEGACY_BROWSER_SUPPORT_EXTENSION_NAME" />. La configuració de l'extensió s'aplicarà a aquesta funció, però et recomanem que utilitzis les polítiques de Chrome en lloc seu. Això garantirà una millor compatibilitat en el futur.</translation>
+      Aquesta funció substitueix l'extensió <ph name="LEGACY_BROWSER_SUPPORT_EXTENSION_NAME" />. La configuració de l'extensió s'aplicarà a aquesta funció, però et recomanem que utilitzis les polítiques de Egon en lloc seu. Això garantirà una millor compatibilitat en el futur.</translation>
 <translation id="3997519162482760140">URL que obtindran permís per accedir a dispositius de captura de vídeo en pàgines d'inici de sessió amb SAML</translation>
-<translation id="4001275826058808087">Els administradors de TI de dispositius empresarials poden utilitzar aquesta marca per controlar si es permet als usuaris bescanviar ofertes mitjançant el registre de Chrome OS.
+<translation id="4001275826058808087">Els administradors de TI de dispositius empresarials poden utilitzar aquesta marca per controlar si es permet als usuaris bescanviar ofertes mitjançant el registre de Egon OS.
 
-      Si aquesta política es configura com a "true" o si no es configura, els usuaris podran bescanviar ofertes mitjançant el registre de Chrome OS.
+      Si aquesta política es configura com a "true" o si no es configura, els usuaris podran bescanviar ofertes mitjançant el registre de Egon OS.
 
       Si aquesta política es configura com a "false", l'usuari no podrà bescanviar ofertes.</translation>
 <translation id="4008233182078913897">Especifica una llista d'aplicacions i d'extensions que s'instal·len silenciosament, sense la interacció de l'usuari, i que l'usuari no pot desinstal·lar ni desactivar. Tots els permisos que les aplicacions o les extensions sol·liciten es concedeixen de manera implícita, sense cap interacció de l'usuari, inclosos els permisos addicionals que sol·licitin les versions futures de l'aplicació o l'extensió. A més, es concedeixen permisos a les API de les extensions enterprise.deviceAttributes i enterprise.platformKeys. Aquestes dues API no estan disponibles per a les aplicacions ni les extensions que no s'instal·lin a la força.
 
           Aquesta política preval sobre una política <ph name="EXTENSION_INSTALL_BLACKLIST_POLICY_NAME" /> amb què pugui entrar en conflicte. Si se suprimeix d'aquesta llista una aplicació o una extensió que prèviament s'havia instal·lat a la força, <ph name="PRODUCT_NAME" /> la desinstal·larà automàticament.
 
-          En les instàncies de Windows que no formin part d'un domini que pertanyi a <ph name="MS_AD_NAME" />, la instal·lació forçada es limita a les aplicacions i les extensions incloses a Chrome Web Store.
+          En les instàncies de Windows que no formin part d'un domini que pertanyi a <ph name="MS_AD_NAME" />, la instal·lació forçada es limita a les aplicacions i les extensions incloses a Egon Web Store.
 
           Tingues en compte que els usuaris poden modificar el codi font de qualsevol extensió amb les Eines per a desenvolupadors (la qual cosa podria provocar problemes de funcionament de l'extensió). Si et preocupa aquesta possibilitat, defineix la política <ph name="DEVELOPER_TOOLS_POLICY_NAME" />.
 
-          Cada element de la llista de la política és una cadena que conté un identificador d'extensió i, opcionalment, un URL d'actualització separats per punt i coma (<ph name="SEMICOLON" />). L'identificador d'extensió és la cadena de 32 lletres que, per exemple, es troba a <ph name="CHROME_EXTENSIONS_LINK" /> quan el mode de desenvolupador està activat. L'URL d'actualització, si s'especifica, ha de dirigir a un document XML de manifest d'actualització, tal com es descriu a <ph name="LINK_TO_EXTENSION_DOC1" />. De manera predeterminada, s'utilitza l'URL d'actualització de Chrome Web Store, que actualment és "https://clients2.google.com/service/update2/crx". Tingues en compte que l'URL d'actualització definit en aquesta política només s'utilitza per a la instal·lació inicial; les properes actualitzacions de l'extensió faran servir l'URL d'actualització indicat al fitxer de manifest de l'extensió. Recorda que, fins a la versió 67 (inclosa) de <ph name="PRODUCT_NAME" />, també calia especificar de manera obligatòria i explícita l'URL d'actualització.
+          Cada element de la llista de la política és una cadena que conté un identificador d'extensió i, opcionalment, un URL d'actualització separats per punt i coma (<ph name="SEMICOLON" />). L'identificador d'extensió és la cadena de 32 lletres que, per exemple, es troba a <ph name="CHROME_EXTENSIONS_LINK" /> quan el mode de desenvolupador està activat. L'URL d'actualització, si s'especifica, ha de dirigir a un document XML de manifest d'actualització, tal com es descriu a <ph name="LINK_TO_EXTENSION_DOC1" />. De manera predeterminada, s'utilitza l'URL d'actualització de Egon Web Store, que actualment és "https://clients2.google.com/service/update2/crx". Tingues en compte que l'URL d'actualització definit en aquesta política només s'utilitza per a la instal·lació inicial; les properes actualitzacions de l'extensió faran servir l'URL d'actualització indicat al fitxer de manifest de l'extensió. Recorda que, fins a la versió 67 (inclosa) de <ph name="PRODUCT_NAME" />, també calia especificar de manera obligatòria i explícita l'URL d'actualització.
 
-          Per exemple, <ph name="EXTENSION_POLICY_EXAMPLE" /> instal·la l'extensió amb l'identificador <ph name="EXTENSION_ID_SAMPLE" /> des de l'URL d'actualització de Chrome Web Store estàndard. Per obtenir més informació sobre com s'allotgen les extensions, consulta: <ph name="LINK_TO_EXTENSION_DOC2" />.
+          Per exemple, <ph name="EXTENSION_POLICY_EXAMPLE" /> instal·la l'extensió amb l'identificador <ph name="EXTENSION_ID_SAMPLE" /> des de l'URL d'actualització de Egon Web Store estàndard. Per obtenir més informació sobre com s'allotgen les extensions, consulta: <ph name="LINK_TO_EXTENSION_DOC2" />.
 
           Si aquesta política es deixa sense establir, no s'instal·larà automàticament cap aplicació ni cap extensió i l'usuari podrà desinstal·lar-ne qualsevol a <ph name="PRODUCT_NAME" />.
 
@@ -1600,7 +1600,7 @@ Si es desactiva aquest paràmetre, els usuaris no podran activar el servidor int
           Si estableixes aquesta política, els usuaris no la podran canviar ni substituir.
 
           Si aquesta política no s'estableix, les tecles permanents estaran desactivades d'entrada, però l'usuari les podrà activar en qualsevol moment.</translation>
-<translation id="4171331498167688968">Si la política s'estableix en "false", el programari de tercers podrà injectar codi executable als processos de Chrome. Si la política no es defineix o s'estableix en "true", el programari de tercers no podrà introduir codi executable als processos de Chrome.
+<translation id="4171331498167688968">Si la política s'estableix en "false", el programari de tercers podrà injectar codi executable als processos de Egon. Si la política no es defineix o s'estableix en "true", el programari de tercers no podrà introduir codi executable als processos de Egon.
 
       Independentment del valor d'aquesta política, el navegador no impedirà al programari de tercers introduir codi executable als seus processos en un ordinador que formi part d'un domini de <ph name="MS_AD_NAME" />.</translation>
 <translation id="4183229833636799228">Configuració predeterminada del connector <ph name="FLASH_PLUGIN_NAME" /></translation>
@@ -1663,11 +1663,11 @@ Si es desactiva aquest paràmetre, els usuaris no podran activar el servidor int
 <translation id="4298509794364745131">Indica una llista d'aplicacions que es poden activar com a aplicacions per prendre notes a la pantalla de bloqueig de <ph name="PRODUCT_OS_NAME" />.
 
       Si l'aplicació preferida per prendre notes està activada a la pantalla de bloqueig, en aquesta pantalla s'hi mostrarà un element d'IU per iniciar-la.
-      Quan s'hagi iniciat, l'aplicació podrà crear una finestra d'aplicació a la part superior de la pantalla de bloqueig i crear elements de dades (notes) a l'entorn de la pantalla de bloqueig. L'aplicació podrà importar notes creades a la sessió principal de l'usuari quan la sessió estigui desbloquejada. En aquests moments, a la pantalla de bloqueig només s'hi admeten aplicacions de Chrome per prendre notes.
+      Quan s'hagi iniciat, l'aplicació podrà crear una finestra d'aplicació a la part superior de la pantalla de bloqueig i crear elements de dades (notes) a l'entorn de la pantalla de bloqueig. L'aplicació podrà importar notes creades a la sessió principal de l'usuari quan la sessió estigui desbloquejada. En aquests moments, a la pantalla de bloqueig només s'hi admeten aplicacions de Egon per prendre notes.
 
       Si la política es defineix, l'usuari podrà activar una aplicació a la pantalla de bloqueig només si el valor de la llista de polítiques conté l'identificador d'extensió de l'aplicació.
       Per tant, si aquesta política es defineix en una llista buida, no es permetrà en cap cas prendre notes des de la pantalla de bloqueig.
-      Tingues en compte que el fet que la política contingui un identificador d'aplicació no vol dir necessàriament que l'usuari pugui activar l'aplicació com a aplicació per prendre notes a la pantalla de bloqueig. Per exemple, a Chrome 61, la plataforma també restringeix el conjunt d'aplicacions disponibles.
+      Tingues en compte que el fet que la política contingui un identificador d'aplicació no vol dir necessàriament que l'usuari pugui activar l'aplicació com a aplicació per prendre notes a la pantalla de bloqueig. Per exemple, a Egon 61, la plataforma també restringeix el conjunt d'aplicacions disponibles.
 
       Si la política no es defineix, no imposarà cap restricció al conjunt d'aplicacions que l'usuari pot activar a la pantalla de bloqueig.</translation>
 <translation id="4313767483634435271">Adreça MAC de la base designada del dispositiu</translation>
@@ -1904,10 +1904,10 @@ Si es desactiva aquest paràmetre, els usuaris no podran activar el servidor int
 
       Si aquesta política s'estableix en "false", <ph name="PRODUCT_NAME" /> no permetrà crear perfils des del gestor d'usuaris.</translation>
 <translation id="4970855112942626932">Desactiva l'inici de sessió al navegador</translation>
-<translation id="4978405676361550165">Si es defineix la política "OffHours", s'ignoraran les polítiques especificades del dispositiu (s'utilitza la configuració predeterminada d'aquestes polítiques) durant els intervals de temps definits. Chrome tornarà a aplicar les polítiques del dispositiu en cada esdeveniment quan el període "OffHours" s'iniciï o finalitzi. L'usuari rebrà una notificació i se'l forçarà a tancar la sessió quan finalitzi el temps establert a "OffHours" i es modifiqui la configuració de la política del dispositiu (per exemple, quan un usuari iniciï la sessió amb un compte no permès).</translation>
+<translation id="4978405676361550165">Si es defineix la política "OffHours", s'ignoraran les polítiques especificades del dispositiu (s'utilitza la configuració predeterminada d'aquestes polítiques) durant els intervals de temps definits. Egon tornarà a aplicar les polítiques del dispositiu en cada esdeveniment quan el període "OffHours" s'iniciï o finalitzi. L'usuari rebrà una notificació i se'l forçarà a tancar la sessió quan finalitzi el temps establert a "OffHours" i es modifiqui la configuració de la política del dispositiu (per exemple, quan un usuari iniciï la sessió amb un compte no permès).</translation>
 <translation id="4980635395568992380">Tipus de dades:</translation>
 <translation id="4983201894483989687">Permet que s'executin els connectors que estiguin obsolets</translation>
-<translation id="4986560318567565414">Camí a Chrome per canviar des del navegador alternatiu.</translation>
+<translation id="4986560318567565414">Camí a Egon per canviar des del navegador alternatiu.</translation>
 <translation id="4988291787868618635">Acció que cal dur a terme quan s'arriba al retard d'inactivitat</translation>
 <translation id="5034604678285451405">Estableix el percentatge del llindar de bateria en què s'ha d'aplicar el canvi d'alimentació en els pics d'ús.
 
@@ -1971,11 +1971,11 @@ Si es desactiva aquest paràmetre, els usuaris no podran activar el servidor int
       Si la política es defineix en 0, el canvi de contrasenya del compte de l'ordinador es desactiva.
 
       Tingues en compte que les contrasenyes poden tenir una antiguitat superior al nombre de dies especificat si el dispositiu del client ha estat sense connexió durant un període més llarg de temps.</translation>
-<translation id="510196893779239086">Aquesta política controla si es tanca Chrome totalment quan l'última pestanya canvia a un altre navegador.
+<translation id="510196893779239086">Aquesta política controla si es tanca Egon totalment quan l'última pestanya canvia a un altre navegador.
 
-      Si aquesta política es deixa sense establir o s'estableix en "true", Chrome mantindrà oberta almenys una pestanya després de canviar a un navegador alternatiu.
+      Si aquesta política es deixa sense establir o s'estableix en "true", Egon mantindrà oberta almenys una pestanya després de canviar a un navegador alternatiu.
 
-      Si aquesta política s'estableix en "false", Chrome tancarà la pestanya després de canviar a un navegador alternatiu, encara que sigui l'última. És a dir, Chrome es tancarà totalment.</translation>
+      Si aquesta política s'estableix en "false", Egon tancarà la pestanya després de canviar a un navegador alternatiu, encara que sigui l'última. És a dir, Egon es tancarà totalment.</translation>
 <translation id="5102203758995933166">Permet aplicar la configuració de la xarxa per usuari a un dispositiu <ph name="PRODUCT_OS_NAME" />. La configuració de la xarxa és una cadena en format JSON, segons la definició del format de la configuració de xarxa oberta.</translation>
 <translation id="5105313908130842249">Retard del bloqueig de pantalla quan s'utilitza bateria</translation>
 <translation id="5108031557082757679">Impressores desactivades per a dispositius d'empresa</translation>
@@ -1990,7 +1990,7 @@ Si es desactiva aquest paràmetre, els usuaris no podran activar el servidor int
 <translation id="5148753489738115745">Us permet especificar els paràmetres especials que s'utilitzen quan <ph name="PRODUCT_FRAME_NAME" /> inicia <ph name="PRODUCT_NAME" />.
 
           Si no definiu aquesta política, s'utilitzarà la línia d'ordres predeterminada.</translation>
-<translation id="5152787786897382519">Tant Chromium com Google Chrome tenen alguns grups de polítiques que depenen els uns dels altres per proporcionar control sobre una funció. Aquests conjunts es representen amb els grups de polítiques següents. Com que les polítiques poden tenir diverses fonts, només s'aplicaran els valors que procedeixin de la font amb més prioritat. Els valors que procedeixin d'una font amb menys prioritat del mateix grup s'ignoraran. L'ordre de prioritat està definit a <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Tant Egon com Google Egon tenen alguns grups de polítiques que depenen els uns dels altres per proporcionar control sobre una funció. Aquests conjunts es representen amb els grups de polítiques següents. Com que les polítiques poden tenir diverses fonts, només s'aplicaran els valors que procedeixin de la font amb més prioritat. Els valors que procedeixin d'una font amb menys prioritat del mateix grup s'ignoraran. L'ordre de prioritat està definit a <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5159469559091666409">La freqüència, en mil·lisegons, amb què s'envien paquets de xarxa de supervisió.
 
       Si aquesta política no s'estableix, l'interval predeterminat és de 3 minuts. L'interval mínim és de 30 segons i l'interval màxim és de 24 hores. Tots els valors que no es trobin dins d'aquest interval es restringiran al límit respectiu.</translation>
@@ -2075,7 +2075,7 @@ Si es desactiva aquest paràmetre, els usuaris no podran activar el servidor int
           Un valor de llista negra de "*" significa que tots els amfitrions de missatgeria s'inclouran a la llista negra llevat que s'indiquin explícitament a la llista blanca.
 
           Si aquesta política no es defineix, <ph name="PRODUCT_NAME" /> carregarà tots els amfitrions de missatgeria nativa instal·lats.</translation>
-<translation id="5272684451155669299">Si s'estableix en "true", l'usuari pot utilitzar el maquinari dels dispositius Chrome per confirmar la seva identitat de manera remota de cara a l'entitat emissora de certificats de privadesa a través de l'<ph name="ENTERPRISE_PLATFORM_KEYS_API" /> mitjançant <ph name="CHALLENGE_USER_KEY_FUNCTION" />.
+<translation id="5272684451155669299">Si s'estableix en "true", l'usuari pot utilitzar el maquinari dels dispositius Egon per confirmar la seva identitat de manera remota de cara a l'entitat emissora de certificats de privadesa a través de l'<ph name="ENTERPRISE_PLATFORM_KEYS_API" /> mitjançant <ph name="CHALLENGE_USER_KEY_FUNCTION" />.
 
           Si s'estableix en "false" o no s'estableix, les crides a l'API tornaran un codi d'error.</translation>
 <translation id="5277806246014825877">Permet que aquest usuari executi Crostini.
@@ -2094,7 +2094,7 @@ Si es desactiva aquest paràmetre, els usuaris no podran activar el servidor int
 <translation id="5318185076587284965">Permet que l'amfitrió d'accés remot pugui utilitzar els servidors de tramesa</translation>
 <translation id="5323128137188992869">Permet que s'emeti el contingut al dispositiu mitjançant <ph name="PRODUCT_NAME" />.
 
-          Si aquesta política es defineix com a "false", els usuaris no podran emetre contingut al seu dispositiu. Si es defineix com a "true", els usuaris podran emetre contingut. Si no es defineix, els usuaris no podran emetre contingut en dispositius de Chrome OS inscrits, però sí que ho podran fer en dispositius no inscrits.</translation>
+          Si aquesta política es defineix com a "false", els usuaris no podran emetre contingut al seu dispositiu. Si es defineix com a "true", els usuaris podran emetre contingut. Si no es defineix, els usuaris no podran emetre contingut en dispositius de Egon OS inscrits, però sí que ho podran fer en dispositius no inscrits.</translation>
 <translation id="5329007337159326804">Advertiment: la política de la versió TLS màxima se suprimirà completament de <ph name="PRODUCT_NAME" /> aproximadament a la versió 75 (cap al juny de 2019).
 
       Si aquesta política no es configura, <ph name="PRODUCT_NAME" /> utilitzarà la versió màxima predeterminada.
@@ -2251,7 +2251,7 @@ Si la política no es defineix, els usuaris podran triar si el prestatge s'ha d'
         Si la política s'estableix en "false", els usuaris no podran enviar comentaris a Google.
 
         Si la política no s'estableix o s'estableix en "true", els usuaris podran enviar comentaris a Google des de Menú-&gt;Ajuda-&gt;Informa d'un problema o mitjançant la combinació de tecles pertinent.</translation>
-<translation id="5581292529942108810">Configura les polítiques relacionades amb Chrome Reporting Extension.
+<translation id="5581292529942108810">Configura les polítiques relacionades amb Egon Reporting Extension.
 
       Aquesta política només funciona quan l'extensió <ph name="CHROME_REPORTING_EXTENSION_NAME" /> està activada i l'ordinador està inscrit amb <ph name="MACHINE_LEVEL_USER_CLOUD_POLICY_ENROLLMENT_TOKEN_POLICY_NAME" />.</translation>
 <translation id="5584132346604748282">Controla els serveis d'ubicació de Google a Android</translation>
@@ -2272,7 +2272,7 @@ Si la política no es defineix, els usuaris podran triar si el prestatge s'ha d'
 
       NOTA: a Android, l'aïllament de llocs web és experimental. Amb el temps se'n millorarà la compatibilitat, però actualment pot provocar problemes de rendiment.
 
-      NOTA: aquesta política només s'aplica a Chrome als dispositius Android amb més d'1 GB de RAM. Per aplicar-la en altres plataformes que no siguin d'Android, fes servir IsolateOrigins.
+      NOTA: aquesta política només s'aplica a Egon als dispositius Android amb més d'1 GB de RAM. Per aplicar-la en altres plataformes que no siguin d'Android, fes servir IsolateOrigins.
       </translation>
 <translation id="5599461642204007579">Configuració de la gestió de la política <ph name="MS_AD_NAME" /></translation>
 <translation id="5630352020869108293">Restaura l'última sessió</translation>
@@ -2358,7 +2358,7 @@ Si la política no es defineix, els usuaris podran triar si el prestatge s'ha d'
       Si no es configura la política, l'usuari podrà canviar aquesta opció de configuració.
       </translation>
 <translation id="5832274826894536455">Polítiques obsoletes</translation>
-<translation id="5835124959204887277">Especifica els URL i els dominis per als quals no es mostrarà cap avís quan se sol·licitin certificats de confirmació de les claus de seguretat. A més, s'enviarà un senyal a la clau de seguretat per indicar que es pot utilitzar una confirmació individual. En cas contrari, els usuaris de Chrome 65 i versions posteriors rebran un avís quan els llocs web sol·licitin una confirmació de les claus de seguretat.
+<translation id="5835124959204887277">Especifica els URL i els dominis per als quals no es mostrarà cap avís quan se sol·licitin certificats de confirmació de les claus de seguretat. A més, s'enviarà un senyal a la clau de seguretat per indicar que es pot utilitzar una confirmació individual. En cas contrari, els usuaris de Egon 65 i versions posteriors rebran un avís quan els llocs web sol·licitin una confirmació de les claus de seguretat.
 
       Els URL (com ara https://example.com/un/camí) només s'identifiquen com a appID d'U2F. Els dominis (com ara example.com) només tornaran resultats com a identificadors RP de WebAuthn. Per tant, per permetre alhora les API de WebAuthn i d'U2F en un lloc web determinat, s'ha d'incloure tant el domini com l'URL de WebAuthn.</translation>
 <translation id="5836064773277134605">Restringeix l'interval de port UDP utilitzat per l'amfitrió d'accés remot</translation>
@@ -2414,7 +2414,7 @@ Si la política no es defineix, els usuaris podran triar si el prestatge s'ha d'
           Si s'estableix aquesta política, els usuaris podran anular-la temporalment si activen o desactiven el cursor gran. No obstant això, l'elecció de l'usuari no és permanent i l'estat predeterminat es restablirà quan la pantalla d'inici de sessió es torni a mostrar o si l'usuari resta inactiu a la pantalla d'inici de sessió durant un minut.
 
           Si no s'estableix aquesta política, el cursor gran es desactivarà quan la pantalla d'inici de sessió es mostri per primera vegada. Els usuaris podran activar o desactivar el cursor gran en qualsevol moment i el seu estat a la pantalla d'inici de sessió es mantindrà entre els usuaris.</translation>
-<translation id="5929855945144989709">Permet que els dispositius executin ordinadors virtuals a Chrome OS</translation>
+<translation id="5929855945144989709">Permet que els dispositius executin ordinadors virtuals a Egon OS</translation>
 <translation id="5932767795525445337">Aquesta política també es pot utilitzar per fixar les aplicacions per a Android.</translation>
 <translation id="5936622343001856595">Força que les consultes de Cerca web de Google es facin amb l'opció SafeSearch activada i impedeix que els usuaris canviïn aquest paràmetre.
 
@@ -2468,7 +2468,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
           El valor de la política s'ha d'especificar en mil·lisegons. Els valors es fixen perquè siguin inferiors al temps d'inactivitat.</translation>
 <translation id="6097601282776163274">Activa la recollida de dades anonimitzades mitjançant URL amb clau</translation>
 <translation id="6099853574908182288">Mode d'impressió en color predeterminat</translation>
-<translation id="6107642964266628393">Controla com i quan s'apliquen les actualitzacions de Chrome OS.</translation>
+<translation id="6107642964266628393">Controla com i quan s'apliquen les actualitzacions de Egon OS.</translation>
 <translation id="6111936128861357925">Permet el joc sorpresa del dinosaure</translation>
 <translation id="6114416803310251055">obsolet</translation>
 <translation id="6133088669883929098">Permet que tots els llocs utilitzin la generació de claus</translation>
@@ -2489,7 +2489,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
 
       Si aquesta política no es defineix o es defineix en "false", no es recopilaran ni es penjaran dades.
       Si aquesta política es defineix en "true", les dades es recopilaran i es penjaran a la consola d'administració de Google.
-      Per controlar les dades que es pengen, utilitza les polítiques del grup Chrome Reporting Extension.
+      Per controlar les dades que es pengen, utilitza les polítiques del grup Egon Reporting Extension.
 
       Aquesta política només funciona quan l'ordinador està inscrit amb <ph name="MACHINE_LEVEL_USER_CLOUD_POLICY_ENROLLMENT_TOKEN_POLICY_NAME" />.
 
@@ -2558,7 +2558,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
 <translation id="6282799760374509080">Permet o bloqueja la captura d'àudio</translation>
 <translation id="6284362063448764300">TLS 1.1</translation>
 <translation id="6310223829319187614">Activa la funció de compleció automàtica del nom de domini durant l'inici de sessió de l'usuari</translation>
-<translation id="6315673513957120120">Chrome mostra una pàgina d'advertiment quan els usuaris accedeixen a llocs que tenen errors de SSL. De manera predeterminada o quan aquesta política s'estableix en "true", els usuaris poden fer clic per tancar aquestes pàgines d'advertiment.
+<translation id="6315673513957120120">Egon mostra una pàgina d'advertiment quan els usuaris accedeixen a llocs que tenen errors de SSL. De manera predeterminada o quan aquesta política s'estableix en "true", els usuaris poden fer clic per tancar aquestes pàgines d'advertiment.
       Si aquesta política s'estableix en "false", els usuaris no poden fer clic per tancar les pàgines d'advertiment.</translation>
 <translation id="6319198883324703402">Defineix quan s'envia la primera notificació de reinici a l'usuari</translation>
 <translation id="6352543686437322588">Un compte local del dispositiu per iniciar la sessió automàticament després d'un retard.
@@ -2600,7 +2600,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
           Si decideixes detectar automàticament el servidor intermediari, es proporcionarà l'URL de script "http://wpad/wpad.dat" a les aplicacions per a Android. No s'utilitzarà cap altra part del protocol de detecció automàtica del servidor intermediari.
 
           Si decideixes fer servir un script de servidor intermediari .pac, es proporcionarà l'URL de script a les aplicacions per a Android.</translation>
-<translation id="6430366557948788869">Chrome Reporting Extension</translation>
+<translation id="6430366557948788869">Egon Reporting Extension</translation>
 <translation id="6440051664870270040">Permet que els llocs web naveguin i obrin finestres emergents simultàniament</translation>
 <translation id="6447948611083700881">Còpia de seguretat i restauració desactivades</translation>
 <translation id="6449476513004303784">No permetis que els usuaris gestionin els certificats</translation>
@@ -2729,7 +2729,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
 <translation id="6698632841807204978">Permet la impressió monocroma</translation>
 <translation id="6699880231565102694">Activació de l'autenticació de dos factors per als amfitrions d'accés remot</translation>
 <translation id="6731757988219967594">Filtra els llocs web de nivell superior amb contingut per a adults (però no els iframes inserits)</translation>
-<translation id="6734521799274931721">Controla si la funció Fitxers compartits de la xarxa estarà disponible per a Chrome OS</translation>
+<translation id="6734521799274931721">Controla si la funció Fitxers compartits de la xarxa estarà disponible per a Egon OS</translation>
 <translation id="6735701345096330595">Força l'activació del corrector ortogràfic d'idiomes</translation>
 <translation id="673699536430961464">Aquesta opció de configuració permet que els usuaris canviïn d'un compte de Google a un altre des de l'àrea de contingut de la finestra del navegador després que hagin iniciat la sessió al dispositiu <ph name="PRODUCT_OS_NAME" />.
 
@@ -2817,7 +2817,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
 
       NOTA: a Android, l'aïllament de llocs web és experimental. Amb el temps se'n millorarà la compatibilitat, però actualment pot provocar problemes de rendiment.
 
-      NOTA: aquesta política només s'aplica a Chrome als dispositius Android amb més d'1 GB de RAM. Per aplicar-la en altres plataformes que no siguin d'Android, fes servir SitePerProcess.
+      NOTA: aquesta política només s'aplica a Egon als dispositius Android amb més d'1 GB de RAM. Per aplicar-la en altres plataformes que no siguin d'Android, fes servir SitePerProcess.
       </translation>
 <translation id="6922884955650325312">Bloqueja el connector <ph name="FLASH_PLUGIN_NAME" /></translation>
 <translation id="6923366716660828830">Especifica el nom del proveïdor de cerca predeterminat. Si es deixa buit o no es defineix, s'utilitzarà el nom de l'amfitrió especificat a l'URL de cerca. Aquesta política només es tindrà en compte si la política "DefaultSearchProviderEnabled" està activada.</translation>
@@ -2901,9 +2901,9 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
 
       Si la política s'estableix en "false" o no s'estableix, és possible que <ph name="PRODUCT_NAME" /> no reculli ni pengi aquests registres.
 
-      Aquests registres contenen informació de diagnòstic útil a l'hora de depurar problemes relacionats amb trucades d'àudio o videotrucades a Chrome, com ara l'hora i la mida dels paquets RTP enviats i rebuts, comentaris sobre la congestió de la xarxa, i metadades sobre l'hora i la qualitat dels marcs d'àudio i de vídeo. Aquests registres no inclouen contingut d'àudio ni vídeo de les trucades.
+      Aquests registres contenen informació de diagnòstic útil a l'hora de depurar problemes relacionats amb trucades d'àudio o videotrucades a Egon, com ara l'hora i la mida dels paquets RTP enviats i rebuts, comentaris sobre la congestió de la xarxa, i metadades sobre l'hora i la qualitat dels marcs d'àudio i de vídeo. Aquests registres no inclouen contingut d'àudio ni vídeo de les trucades.
 
-      Aquesta recollida de dades que fa Chrome només la poden activar els serveis web de Google, com ara Google Hangouts o Google Meet.
+      Aquesta recollida de dades que fa Egon només la poden activar els serveis web de Google, com ara Google Hangouts o Google Meet.
 
       Google pot associar aquests registres, mitjançant un identificador de sessió, a altres registres recollits pel servei de Google per tal de facilitar la depuració.
       </translation>
@@ -3086,7 +3086,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
 <translation id="7329968046053403405">Especifica de quin tipus han de ser els comptes que proporciona l'aplicació d'autenticació per a Android que admet l'autenticació <ph name="HTTP_NEGOTIATE" /> (per exemple, l'autenticació Kerberos). El proveïdor de l'aplicació d'autenticació ha de facilitar aquesta informació. Per obtenir informació més detallada, consulteu https://goo.gl/hajyfN.
 
           Si no es proporciona cap opció de configuració, l'autenticació <ph name="HTTP_NEGOTIATE" /> es desactiva a Android.</translation>
-<translation id="7331962793961469250">Quan es defineix com a True, les promocions de les aplicacions de Chrome Web Store no apareixeran a la pàgina de pestanya nova. En definir aquesta opció a False o en deixar-la sense definir, les promocions de les aplicacions de Chrome Web Store apareixeran a la pàgina de pestanya nova.</translation>
+<translation id="7331962793961469250">Quan es defineix com a True, les promocions de les aplicacions de Egon Web Store no apareixeran a la pàgina de pestanya nova. En definir aquesta opció a False o en deixar-la sense definir, les promocions de les aplicacions de Egon Web Store apareixeran a la pàgina de pestanya nova.</translation>
 <translation id="7332963785317884918">Aquesta política està obsoleta. <ph name="PRODUCT_OS_NAME" /> sempre utilitzarà l'estratègia de neteja RemoveLRU.
 
       Controla el comportament de neteja automàtic en dispositius <ph name="PRODUCT_OS_NAME" />. La neteja automàtica s'activa quan la quantitat d'espai de disc lliure assoleix un nivell crític per recuperar part de l'espai de disc.
@@ -3139,7 +3139,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
       </translation>
 <translation id="7506269062143646163">Activa la compatibilitat amb Signed HTTP Exchange (SXG).
 
-          Si aquesta política s'activa o no s'estableix, Google Chrome acceptarà el contingut web publicat com a Signed HTTP Exchanges.
+          Si aquesta política s'activa o no s'estableix, Google Egon acceptarà el contingut web publicat com a Signed HTTP Exchanges.
 
           Si aquesta política es desactiva, Signed HTTP Exchanges no es podrà carregar.</translation>
 <translation id="7511361072385293666">Si aquesta política s'estableix en "true" o no es configura, es permet utilitzar el protocol QUIC a <ph name="PRODUCT_NAME" />.
@@ -3178,7 +3178,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
 
       Si aquesta política es deixa sense establir o s'estableix en "0", en navegar a un URL designat, l'URL s'obre immediatament en un navegador alternatiu.
 
-      Si aquesta política s'estableix en un altre número, Chrome mostra un missatge durant aquest nombre de mil·lisegons i, a continuació, obre el navegador alternatiu.</translation>
+      Si aquesta política s'estableix en un altre número, Egon mostra un missatge durant aquest nombre de mil·lisegons i, a continuació, obre el navegador alternatiu.</translation>
 <translation id="7593523670408385997">Defineix la mida de memòria cau que <ph name="PRODUCT_NAME" /> utilitzarà per emmagatzemar fitxers de la memòria cau al disc.
 
       Si definiu aquesta política, <ph name="PRODUCT_NAME" /> utilitzarà la mida de memòria cau proporcionada, tant si l'usuari ha marcat "--disk-cache-size" com si no. El valor que s'especifica en aquesta política no és un límit estricte, és més aviat un suggeriment per al sistema de memòria cau; qualsevol valor per sota d'uns quants megabytes és massa petit i s'arrodonirà a l'alça per arribar a un mínim acceptable.
@@ -3347,7 +3347,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
 
       NOTA: fins a la versió 45, aquesta política només s'admetia en mode quiosc.</translation>
 <translation id="7912255076272890813">Configuració dels tipus d'aplicacions i d'extensions permeses</translation>
-<translation id="7922358664346625612">Mantén oberta l'última pestanya a Chrome.</translation>
+<translation id="7922358664346625612">Mantén oberta l'última pestanya a Egon.</translation>
 <translation id="793134539373873765">Permet especificar si s'utilitzarà la tecnologia d'igual a igual (P2P) per a les càrregues útils d'actualització del sistema operatiu. Si el valor s'estableix com a True, els dispositius compartiran i provaran de consumir les càrregues útils d'actualització a la xarxa LAN, amb la qual cosa és possible que es redueixi l'ús i la congestió de l'amplada de banda d'Internet. Si la càrrega útil d'actualització no està disponible a la xarxa LAN, el dispositiu farà les baixades des d'un servidor d'actualitzacions. Si el valor s'estableix com a False o si no es configura, no es farà servir P2P.</translation>
 <translation id="7933141401888114454">Activa la creació d'usuaris supervisats.</translation>
 <translation id="793473937901685727">Estableix la disponibilitat de certificats per a aplicacions ARC</translation>
@@ -3365,7 +3365,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
 <translation id="7976157349247117979">Nom de la destinació per a <ph name="PRODUCT_NAME" /></translation>
 <translation id="7980227303582973781">Sense restriccions especials</translation>
 <translation id="7985242821674907985"><ph name="PRODUCT_NAME" /></translation>
-<translation id="7992136759457836904">Et permet controlar si es poden executar màquines virtuals a Chrome OS. Si la política s'estableix en "true", el dispositiu podrà executar màquines virtuals. Si s'estableix en "false", el dispositiu no podrà executar màquines virtuals. Totes tres polítiques, VirtualMachinesAllowed, CrostiniAllowed i DeviceUnaffiliatedCrostiniAllowed, s'han d'establir en "true" quan siguin rellevants perquè Crostini tingui permís per executar-se. Quan la política es canvia a "false", afecta l'execució de màquines virtuals noves, però no tanca les que ja s'estan executant. Quan la política no s'estableix en un dispositiu gestionat, el dispositiu no té permís per executar màquines virtuals. Els dispositius no gestionats tenen permís per executar màquines virtuals.</translation>
+<translation id="7992136759457836904">Et permet controlar si es poden executar màquines virtuals a Egon OS. Si la política s'estableix en "true", el dispositiu podrà executar màquines virtuals. Si s'estableix en "false", el dispositiu no podrà executar màquines virtuals. Totes tres polítiques, VirtualMachinesAllowed, CrostiniAllowed i DeviceUnaffiliatedCrostiniAllowed, s'han d'establir en "true" quan siguin rellevants perquè Crostini tingui permís per executar-se. Quan la política es canvia a "false", afecta l'execució de màquines virtuals noves, però no tanca les que ja s'estan executant. Quan la política no s'estableix en un dispositiu gestionat, el dispositiu no té permís per executar màquines virtuals. Els dispositius no gestionats tenen permís per executar màquines virtuals.</translation>
 <translation id="8001701200415781021">Restringeix quins comptes de Google es permet establir com a comptes principals del navegador a <ph name="PRODUCT_NAME" /></translation>
 <translation id="8009554972280451023">Si actives aquesta opció de configuració, les opcions emmagatzemades als perfils que hi ha a <ph name="PRODUCT_NAME" />, com ara les adreces d'interès, les dades d'Emplenament automàtic o les contrasenyes, entre d'altres, també s'introduiran en un fitxer emmagatzemat a la carpeta Itinerància del perfil de l'usuari o a la ubicació que l'administrador especifiqui a la política <ph name="ROAMING_PROFILE_LOCATION_POLICY_NAME" />. En activar aquesta política, es desactivarà la sincronització en núvol.
 
@@ -3431,7 +3431,7 @@ Si aquesta política no es defineix o no s'activa, les ordres d'impressió faran
       Si la política s'estableix com a falsa, no s'informarà de la llista de la interfície.</translation>
 <translation id="8141795997560411818">Aquesta política no impedeix que l'usuari utilitzi l'aplicació Google Drive per a Android. Si vols impedir l'accés a Google Drive, has de denegar la instal·lació d'aquesta aplicació.</translation>
 <translation id="8142894094385450823">Estableix les configuracions regionals recomanades per a una sessió gestionada</translation>
-<translation id="8146727383888924340">Permet que els usuaris bescanviïn ofertes a través del registre de Chrome OS.</translation>
+<translation id="8146727383888924340">Permet que els usuaris bescanviïn ofertes a través del registre de Egon OS.</translation>
 <translation id="8148785525797916822">Suprimeix l'advertiment que es mostra quan <ph name="PRODUCT_NAME" /> s'executa en un ordinador o un sistema operatiu que ja no s'admet.</translation>
 <translation id="8148901634826284024">Activeu la funció d'accessibilitat del mode d'alt contrast.
 
@@ -3474,7 +3474,7 @@ Si es defineix aquesta política, la pantalla d'inici de sessió farà servir la
 Si la política no es defineix, <ph name="PRODUCT_OS_NAME" /> farà servir l'ID del compte de correu electrònic del compte local del dispositiu com a nom de visualització a la pantalla d'inici de sessió.
 
 Aquesta política s'ignora en els comptes d'usuari normals.</translation>
-<translation id="8259375588339409826">Tant Chromium com Google Chrome admeten el mateix conjunt de polítiques. Tingues en compte que aquest document pot incloure polítiques no publicades (per exemple, l'entrada "Compatible amb" pot fer referència a una versió de <ph name="PRODUCT_NAME" /> que encara no s'ha publicat). Aquestes polítiques es poden canviar o suprimir sense avís previ i no s'hi proporcionen garanties de cap tipus, incloses les garanties relacionades amb les seves propietats de seguretat i privadesa.
+<translation id="8259375588339409826">Tant Egon com Google Egon admeten el mateix conjunt de polítiques. Tingues en compte que aquest document pot incloure polítiques no publicades (per exemple, l'entrada "Compatible amb" pot fer referència a una versió de <ph name="PRODUCT_NAME" /> que encara no s'ha publicat). Aquestes polítiques es poden canviar o suprimir sense avís previ i no s'hi proporcionen garanties de cap tipus, incloses les garanties relacionades amb les seves propietats de seguretat i privadesa.
 
 La finalitat exclusiva d'aquestes polítiques és configurar instàncies de <ph name="PRODUCT_NAME" /> internes de la teva organització. L'ús de les polítiques fora de l'organització (per exemple, en un programa distribuït públicament) es considera programari maliciós i és possible que Google i els proveïdors d'antivirus l'etiquetin com a tal.
 
@@ -3513,7 +3513,7 @@ La manera recomanada de configurar la política a Windows és amb GPO, tot i que
 <translation id="8339420913453596618">Segon factor desactivat</translation>
 <translation id="8344454543174932833">Importació de les adreces d'interès des del navegador predeterminat en la primera execució</translation>
 <translation id="8359734107661430198">Activa l'API de ExampleDeprecatedFeature fins al 02/09/2008</translation>
-<translation id="8367209241899435947">Activa Neteja de Chrome a Windows</translation>
+<translation id="8367209241899435947">Activa Neteja de Egon a Windows</translation>
 <translation id="8369602308428138533">Retard de la desactivació de pantalla quan s'utilitza alimentació</translation>
 <translation id="8371178326720637170">Permet que les extensions gestionades utilitzin l'API Enterprise Hardware Platform</translation>
 <translation id="8374747520743832795">Informa d'estadístiques del maquinari i d'identificadors relacionats amb l'alimentació.
@@ -3586,7 +3586,7 @@ La manera recomanada de configurar la política a Windows és amb GPO, tot i que
 <translation id="8489964335640955763">PluginVm</translation>
 <translation id="8493645415242333585">Desactiva el desament de l'historial de navegació</translation>
 <translation id="8499172469244085141">Configuració predeterminada (els usuaris la poden sobreescriure)</translation>
-<translation id="849962487677588458">Aquesta política es considera obsoleta. Està previst que se suprimeixi a Chrome 78 i que no se substitueixi.
+<translation id="849962487677588458">Aquesta política es considera obsoleta. Està previst que se suprimeixi a Egon 78 i que no se substitueixi.
 
       La política admet HTTP/0.9 en ports que no siguin 80 per a HTTP i 443 per a HTTPS.
 
@@ -3641,7 +3641,7 @@ La manera recomanada de configurar la política a Windows és amb GPO, tot i que
 
       Si aquesta política no es defineix o es defineix com "true", tots els usuaris tindran permís per fer servir ARC (tret que ARC es desactivi d'una altra manera).
 
-      Els canvis a la política només s'aplicaran mentre ARC no estigui en funcionament (per exemple, mentre s'inicia Chrome OS).</translation>
+      Els canvis a la política només s'aplicaran mentre ARC no estigui en funcionament (per exemple, mentre s'inicia Egon OS).</translation>
 <translation id="8615400197788843468">Activa la funció d'inici de sessió restringit de <ph name="PRODUCT_NAME" /> a G Suite i impedeix que els usuaris canviïn aquesta opció.
 
       Si defineixes aquesta opció, l'usuari només podrà accedir a les aplicacions de Google amb comptes dels dominis especificats. Tingues en compte que, per permetre els comptes de gmail.com o googlemail.com, has d'afegir "consumer_accounts" (sense cometes) a la llista de dominis.
@@ -3654,7 +3654,7 @@ La manera recomanada de configurar la política a Windows és amb GPO, tot i que
 
       Els usuaris no poden modificar ni substituir aquesta opció.</translation>
 <translation id="8631434304112909927">fins a la versió <ph name="UNTIL_VERSION" /></translation>
-<translation id="8649763579836720255">Els dispositius amb Chrome OS poden utilitzar l'autenticació remota (accés verificat) per obtenir un certificat emès per la entitat emissora de certificats (CA) de Chrome OS que afirmi que el dispositiu és apte per reproduir contingut protegit. Aquest procés inclou l'enviament d'informació de ratificació del maquinari a la CA de Chrome OS que identifica el dispositiu de manera única.
+<translation id="8649763579836720255">Els dispositius amb Egon OS poden utilitzar l'autenticació remota (accés verificat) per obtenir un certificat emès per la entitat emissora de certificats (CA) de Egon OS que afirmi que el dispositiu és apte per reproduir contingut protegit. Aquest procés inclou l'enviament d'informació de ratificació del maquinari a la CA de Egon OS que identifica el dispositiu de manera única.
 
           Si el paràmetre està configurat com a False, el dispositiu no farà servir l'autenticació remota de la protecció del contingut i pot ser que no pugui reproduir contingut protegit.
 
@@ -3796,7 +3796,7 @@ per donar prioritat a OverrideSecurityRestrictionsOnInsecureOrigin. Si totes due
 
           Aquesta política assigna un identificador d'extensió o un URL d'actualització a la configuració corresponent. Amb un identificador d'extensió, la configuració s'aplicarà només a l'extensió especificada. Es pot establir una configuració predeterminada per a l'identificador especial <ph name="DEFAULT_SCOPE" />, que s'aplicarà a totes les extensions que no tinguin establerta una configuració personalitzada en aquesta política. Amb un URL d'actualització, la configuració s'aplicarà a totes les extensions que tinguin el mateix URL d'actualització indicat al fitxer de manifest de l'extensió, tal com es descriu a <ph name="LINK_TO_EXTENSION_DOC1" />.
 
-          En les instàncies de Windows que no formen part d'un domini que pertany a <ph name="MS_AD_NAME" />, la instal·lació forçada es limita a les aplicacions i les extensions incloses a Chrome Web Store.
+          En les instàncies de Windows que no formen part d'un domini que pertany a <ph name="MS_AD_NAME" />, la instal·lació forçada es limita a les aplicacions i les extensions incloses a Egon Web Store.
           </translation>
 <translation id="8947415621777543415">Informa de la ubicació d'un dispositiu</translation>
 <translation id="8951350807133946005">Defineix el directori de la memòria cau del disc</translation>
@@ -3827,13 +3827,13 @@ per donar prioritat a OverrideSecurityRestrictionsOnInsecureOrigin. Si totes due
       Si el valor de la política s'estableix en un testimoni que s'assigna a una compilació de correcció ràpida, el dispositiu s'actualitzarà a la compilació corresponent si l'actualització no està bloquejada per una altra política.
 
       Si aquesta política no s'estableix o si el seu valor no s'assigna a una compilació de correcció ràpida, el dispositiu no s'actualitzarà a una compilació d'aquest tipus. Si el dispositiu ja utilitza una compilació de correcció ràpida i la política es deixa d'establir o el seu valor es deixa d'assignar a una compilació d'aquest tipus, el dispositiu s'actualitzarà a una compilació normal si l'actualització no està bloquejada per una altra política.</translation>
-<translation id="9054012305936267950">Aquesta política controla el comportament de l'inici de sessió al navegador. Et permet especificar si l'usuari pot iniciar la sessió a <ph name="PRODUCT_NAME" /> amb el seu compte i utilitzar serveis relacionats amb el compte, com ara la Sincronització de Chrome.
+<translation id="9054012305936267950">Aquesta política controla el comportament de l'inici de sessió al navegador. Et permet especificar si l'usuari pot iniciar la sessió a <ph name="PRODUCT_NAME" /> amb el seu compte i utilitzar serveis relacionats amb el compte, com ara la Sincronització de Egon.
 
-      Si la política s'estableix en "Desactiva l'inici de sessió al navegador", l'usuari no podrà iniciar la sessió al navegador ni utilitzar serveis basats en el compte. En aquest cas, les funcions del navegador, com ara la Sincronització de Chrome, no es podran utilitzar i no estaran disponibles. Si l'usuari ha iniciat la sessió i la política s'ha establert en "Desactivada", es tancarà la sessió de l'usuari la propera vegada que executi Chrome, però es conservaran les dades del perfil local, com ara els marcadors, les contrasenyes, etc. L'usuari podrà continuar iniciant la sessió i utilitzant serveis web de Google com ara Gmail.
+      Si la política s'estableix en "Desactiva l'inici de sessió al navegador", l'usuari no podrà iniciar la sessió al navegador ni utilitzar serveis basats en el compte. En aquest cas, les funcions del navegador, com ara la Sincronització de Egon, no es podran utilitzar i no estaran disponibles. Si l'usuari ha iniciat la sessió i la política s'ha establert en "Desactivada", es tancarà la sessió de l'usuari la propera vegada que executi Egon, però es conservaran les dades del perfil local, com ara els marcadors, les contrasenyes, etc. L'usuari podrà continuar iniciant la sessió i utilitzant serveis web de Google com ara Gmail.
 
-      Si la política s'estableix en "Activa l'inici de sessió al navegador", l'usuari podrà iniciar la sessió al navegador i la seva sessió s'hi iniciarà automàticament quan la tingui iniciada en serveis web de Google com ara Gmail. Quan s'inicia la sessió al navegador, la informació del compte de l'usuari s'hi manté. Tanmateix, la Sincronització de Chrome no s'activarà de manera predeterminada; si l'usuari vol utilitzar aquesta funció, l'haurà d'activar per separat. En activar aquesta política, s'impedeix que l'usuari desactivi l'opció de configuració que permet l'inici de sessió al navegador. Per controlar la disponibilitat de la Sincronització de Chrome, fes servir la política "SyncDisabled".
+      Si la política s'estableix en "Activa l'inici de sessió al navegador", l'usuari podrà iniciar la sessió al navegador i la seva sessió s'hi iniciarà automàticament quan la tingui iniciada en serveis web de Google com ara Gmail. Quan s'inicia la sessió al navegador, la informació del compte de l'usuari s'hi manté. Tanmateix, la Sincronització de Egon no s'activarà de manera predeterminada; si l'usuari vol utilitzar aquesta funció, l'haurà d'activar per separat. En activar aquesta política, s'impedeix que l'usuari desactivi l'opció de configuració que permet l'inici de sessió al navegador. Per controlar la disponibilitat de la Sincronització de Egon, fes servir la política "SyncDisabled".
 
-      Si la política s'estableix en "Força l'inici de sessió al navegador", es mostrarà a l'usuari un quadre de diàleg per seleccionar un compte. L'usuari n'haurà de triar un i iniciar-hi la sessió per fer servir el navegador. D'aquesta manera, es garanteix que, als comptes gestionats, s'hi apliquin i es compleixin les polítiques associades. De manera predeterminada, s'activa la Sincronització de Chrome al compte, excepte en el cas que l'administrador del domini hagi desactivat la sincronització o s'hagi desactivat amb la política "SyncDisabled". El valor predeterminat de BrowserGuestModeEnabled s'establirà en "false". Tingues en compte que, després d'activar aquesta política, els perfils en què no s'hagi iniciat la sessió es bloquejaran i no s'hi podrà accedir. Per obtenir més informació, consulta l'article següent del Centre d'ajuda: https://support.google.com/chrome/a/answer/7572556. Aquesta opció no admet Linux i, si s'utilitza, farà servir "Activa l'inici de sessió al navegador".
+      Si la política s'estableix en "Força l'inici de sessió al navegador", es mostrarà a l'usuari un quadre de diàleg per seleccionar un compte. L'usuari n'haurà de triar un i iniciar-hi la sessió per fer servir el navegador. D'aquesta manera, es garanteix que, als comptes gestionats, s'hi apliquin i es compleixin les polítiques associades. De manera predeterminada, s'activa la Sincronització de Egon al compte, excepte en el cas que l'administrador del domini hagi desactivat la sincronització o s'hagi desactivat amb la política "SyncDisabled". El valor predeterminat de BrowserGuestModeEnabled s'establirà en "false". Tingues en compte que, després d'activar aquesta política, els perfils en què no s'hagi iniciat la sessió es bloquejaran i no s'hi podrà accedir. Per obtenir més informació, consulta l'article següent del Centre d'ajuda: https://support.google.com/chrome/a/answer/7572556. Aquesta opció no admet Linux i, si s'utilitza, farà servir "Activa l'inici de sessió al navegador".
 
       Si aquesta política no s'estableix, l'usuari pot decidir si vol activar l'opció d'inici de sessió al navegador i utilitzar-lo com li sembli més adequat.</translation>
 <translation id="9077227880520270584">Temporitzador d'inici de sessió automàtic al compte local del dispositiu</translation>
@@ -3910,7 +3910,7 @@ per donar prioritat a OverrideSecurityRestrictionsOnInsecureOrigin. Si totes due
 
       Si s'estableix aquesta política, s'utilitzarà per iniciar <ph name="PRODUCT_NAME" /> quan <ph name="PRODUCT_NAME" /> s'iniciï des d'Internet Explorer.
 
-      Aquesta política es pot establir en un camí de fitxers executable o en ${chrome} per detectar automàticament la ubicació d'instal·lació de Chrome.</translation>
+      Aquesta política es pot establir en un camí de fitxers executable o en ${chrome} per detectar automàticament la ubicació d'instal·lació de Egon.</translation>
 <translation id="930930237275114205">Defineix el directori de dades de l'usuari del producte <ph name="PRODUCT_FRAME_NAME" /></translation>
 <translation id="944817693306670849">Defineix la mida de la memòria cau del disc</translation>
 <translation id="981346395360763138">Serveis d'ubicació de Google desactivats</translation>

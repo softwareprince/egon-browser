@@ -299,7 +299,7 @@
 <translation id="2620436844016719705">Система</translation>
 <translation id="2621713457727696555">Захищено</translation>
 <translation id="263399434338050016">"Вибрати все"</translation>
-<translation id="2645435784669275700">ОС Chrome</translation>
+<translation id="2645435784669275700">ОС Egon</translation>
 <translation id="2653019840645008922">Зйомка вікна</translation>
 <translation id="2653659639078652383">Надіслати</translation>
 <translation id="2658778018866295321">Натиснути й перетягнути</translation>
@@ -430,7 +430,7 @@
 <translation id="3378438761594387761">Тут з’являтимуться нещодавні завантаження й записи екрана</translation>
 <translation id="3378442621503952303">Триває підключення до профілю. Зачекайте кілька хвилин.</translation>
 <translation id="3386978599540877378">лупу для повноекранного режиму</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Додаткові налаштування</translation>
 <translation id="3405101454990027959">Надати доступ до мікрофона</translation>
 <translation id="3410336247007142655">Показати налаштування темної теми</translation>
@@ -915,7 +915,7 @@
 <translation id="6043994281159824495">Вийти зараз</translation>
 <translation id="6047696787498798094">Якщо змінити користувача, спільний доступ до екрана буде скасовано. Продовжити?</translation>
 <translation id="6054305421211936131">Увійти за допомогою розумної картки</translation>
-<translation id="6059276912018042191">Останні вкладки Chrome</translation>
+<translation id="6059276912018042191">Останні вкладки Egon</translation>
 <translation id="6062360702481658777">Ви автоматично вийдете за <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Більше не використовувати цей файл</translation>
 <translation id="6073451960410192870">Припинити запис</translation>
@@ -1020,7 +1020,7 @@
 <translation id="6650933572246256093">Пристрою Bluetooth "<ph name="DEVICE_NAME" />" потрібен дозвіл на підключення. Введіть на пристрої цей ключ доступу: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Пароль</translation>
 <translation id="6665545700722362599">надавати веб-сайтам, додаткам і розширенням дозвіл використовувати служби локації, мікрофон, камеру й інші функції пристрою;</translation>
-<translation id="6667908387435388584">Підключайтеся до точки доступу телефона, вимикайте звук на пристрої, визначайте його місцезнаходження та переглядайте останні вкладки Chrome, відкриті на телефоні</translation>
+<translation id="6667908387435388584">Підключайтеся до точки доступу телефона, вимикайте звук на пристрої, визначайте його місцезнаходження та переглядайте останні вкладки Egon, відкриті на телефоні</translation>
 <translation id="6670153871843998651">Робочий стіл 3</translation>
 <translation id="6671495933530132209">Копіювати зображення</translation>
 <translation id="6671661918848783005">Не вдається розблокувати Chromebook.</translation>

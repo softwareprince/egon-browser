@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Дүкөн тууралуу маалыматты көрүңүз. Параметр экрандын жогору жагында берилген</translation>
 <translation id="5558362125926932819"><ph name="NUMBER_OF_TABS" /> өтмөктөн турган өтмөктөр тобун жабуу</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> өтмөк топтолду</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Chrome'дон <ph name="TABS_COUNT_ONE" /> шилтеме}other{Chrome'дон <ph name="TABS_COUNT_MANY" /> шилтеме}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Egon'дон <ph name="TABS_COUNT_ONE" /> шилтеме}other{Egon'дон <ph name="TABS_COUNT_MANY" /> шилтеме}}</translation>
 <translation id="575494663145460764">Баалардын арзандаганы жөнүндө эскертүүлөрдү алгыңыз келеби?</translation>
 <translation id="58326064309361797">Топтоо үчүн өтмөктөрдү сүйрөп келиңиз</translation>
 <translation id="5846292395804797011"><ph name="TITLE_OF_GROUP" /> тобундагы <ph name="NUMBER_OF_TABS" /> өтмөктү жабуу</translation>

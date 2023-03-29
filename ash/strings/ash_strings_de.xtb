@@ -299,7 +299,7 @@ Hier sind ein paar Dinge, die du tun kannst, um loszulegen.</translation>
 <translation id="2620436844016719705">System</translation>
 <translation id="2621713457727696555">Gesichert</translation>
 <translation id="263399434338050016">„Alles auswählen“</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">Fensteraufnahme</translation>
 <translation id="2653659639078652383">Senden</translation>
 <translation id="2658778018866295321">Klicken und ziehen</translation>
@@ -430,7 +430,7 @@ Hier sind ein paar Dinge, die du tun kannst, um loszulegen.</translation>
 <translation id="3378438761594387761">Hier findest du deine letzten Downloads und Bildschirmaufnahmen</translation>
 <translation id="3378442621503952303">Verbindung zum Profil wird hergestellt. Warte ein paar Minuten.</translation>
 <translation id="3386978599540877378">die Vollbildlupe</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Zusätzliche Einstellungen</translation>
 <translation id="3405101454990027959">Mikrofonzugriff aktivieren</translation>
 <translation id="3410336247007142655">Einstellungen für das dunkle Design anzeigen</translation>
@@ -914,7 +914,7 @@ Schließe dein Gerät an eine Steckdose an.</translation>
 <translation id="6043994281159824495">Jetzt abmelden</translation>
 <translation id="6047696787498798094">Wenn du zu einem anderen Nutzer wechselst, wird die Bildschirmfreigabe beendet. Möchtest du fortfahren?</translation>
 <translation id="6054305421211936131">Mit Smartcard anmelden</translation>
-<translation id="6059276912018042191">Zuletzt geöffnete Chrome-Tabs</translation>
+<translation id="6059276912018042191">Zuletzt geöffnete Egon-Tabs</translation>
 <translation id="6062360702481658777">Du wirst in <ph name="LOGOUT_TIME_LEFT" /> automatisch abgemeldet.</translation>
 <translation id="6064463340679478396">Ich bin mit dieser Datei fertig</translation>
 <translation id="6073451960410192870">Aufnahme beenden</translation>
@@ -1019,7 +1019,7 @@ Neuinstallation</translation>
 <translation id="6650933572246256093">Das Bluetooth-Gerät „<ph name="DEVICE_NAME" />“ bittet um Erlaubnis für Kopplung. Gib auf dem Gerät folgenden Zugangscode ein: <ph name="PASSKEY" />.</translation>
 <translation id="6657585470893396449">Passwort</translation>
 <translation id="6665545700722362599">Websites, Apps und Erweiterungen die Berechtigung zur Verwendung von Standortdiensten, des Mikrofons, der Kamera oder anderer Funktionen des Geräts gewähren</translation>
-<translation id="6667908387435388584">In Phone Hub kannst du dich mit dem Hotspot deines Smartphones verbinden, dein Gerät stummschalten und suchen und kürzlich auf deinem Smartphone geöffnete Chrome-Tabs aufrufen</translation>
+<translation id="6667908387435388584">In Phone Hub kannst du dich mit dem Hotspot deines Smartphones verbinden, dein Gerät stummschalten und suchen und kürzlich auf deinem Smartphone geöffnete Egon-Tabs aufrufen</translation>
 <translation id="6670153871843998651">Desktop 3</translation>
 <translation id="6671495933530132209">Bild kopieren</translation>
 <translation id="6671661918848783005">Chromebook kann nicht entsperrt werden</translation>

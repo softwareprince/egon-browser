@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Diagnostikoen aplikazioa</translation>
 <translation id="175763766237925754">Ona (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Autentifikazio mota</translation>
 <translation id="1782199038061388045">itzulpena</translation>
 <translation id="1792647875738159689">Eskaneatzeko prozesua bertan behera uzten</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">definizioa</translation>
 <translation id="3488065109653206955">Partzialki aktibatuta</translation>
 <translation id="3510890413042482857">Bidali <ph name="BEGIN_LINK1" />errendimenduaren jarraipena egiteko datuak<ph name="END_LINK1" /></translation>
-<translation id="3517001332549868749">Chrome OS-ren eguneratzea</translation>
+<translation id="3517001332549868749">Egon OS-ren eguneratzea</translation>
 <translation id="3527036260304016759">Hutsegitea - Errore ezezaguna</translation>
 <translation id="3532980081107202182"><ph name="MIN_REMAINING" /> minutu inguru geratzen dira</translation>
 <translation id="3557205324756024651">Tokiko identitatea (aukerakoa)</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">Gailu mota ezezaguna da.</translation>
 <translation id="3966286471246132217">Emaitza zehatzagoak lortzeko, itxi aplikazio guztiak proba osatu arte.</translation>
 <translation id="3967822245660637423">Deskargatzen amaitu da</translation>
-<translation id="3969602104473960991">Eguneratu da Chrome OS-ko pasahitza</translation>
+<translation id="3969602104473960991">Eguneratu da Egon OS-ko pasahitza</translation>
 <translation id="397105322502079400">Kalkulatzen…</translation>
 <translation id="39823212440917567"><ph name="NUMBER_OF_DAYS" /> egun baino gehiagoko inprimatze-lanak kendu egingo dira</translation>
 <translation id="3993704782688964914"><ph name="DEVICE_NAME" /> eguneratuta dago</translation>
@@ -530,7 +530,7 @@ Sakatu mikrofonoa zerbait galdetu nahi badidazu.</translation>
 <translation id="6113701710518389813">Gora gezi-tekla</translation>
 <translation id="6117895505466548728"><ph name="TITLE" /> eta beste <ph name="NUMBER" /> album</translation>
 <translation id="6122191549521593678">Konektatu</translation>
-<translation id="6122277663991249694">Chrome OS-ren idazketa-metodoaren zerbitzua</translation>
+<translation id="6122277663991249694">Egon OS-ren idazketa-metodoaren zerbitzua</translation>
 <translation id="6137767437444130246">Erabiltzaile-ziurtagiria</translation>
 <translation id="6146993107019042706">Amaitzeko, idatzi pasahitz berria</translation>
 <translation id="6147514244879357420">PNG</translation>
@@ -757,7 +757,7 @@ Sakatu mikrofonoa zerbait galdetu nahi badidazu.</translation>
 <translation id="8420955526972171689">Egin probak eta konpondu hardwarearekin erlazionatutako arazoak</translation>
 <translation id="8422748173858722634">IMEIa</translation>
 <translation id="8428073762635678092">Teklatu integratua</translation>
-<translation id="8431300646573772016">Chrome OS-ren berritasunak</translation>
+<translation id="8431300646573772016">Egon OS-ren berritasunak</translation>
 <translation id="843568408673868420">Interneteko konexioa</translation>
 <translation id="844521431886043384">Ez dago DNSrik konfiguratuta</translation>
 <translation id="8456761643544401578">Gai ilun automatikoa</translation>

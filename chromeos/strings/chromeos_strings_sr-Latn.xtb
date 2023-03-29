@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Aplikacija Dijagnostika</translation>
 <translation id="175763766237925754">Dobar (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Tip potvrde identiteta</translation>
 <translation id="1782199038061388045">prevod</translation>
 <translation id="1792647875738159689">Otkazuje se skeniranje</translation>
@@ -103,7 +103,7 @@
 <translation id="1807246157184219062">Svetla</translation>
 <translation id="1827738518074806965">Likovna galerija</translation>
 <translation id="1851218745569890714">Video konferencije</translation>
-<translation id="1852934301711881861">Instaliraj Chrome OS Flex</translation>
+<translation id="1852934301711881861">Instaliraj Egon OS Flex</translation>
 <translation id="1856388568474281774">Strelica nadole</translation>
 <translation id="1858620243986915808">Priložite snimak ekrana</translation>
 <translation id="1871569928317311284">Isključite tamnu temu</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">definicija</translation>
 <translation id="3488065109653206955">Delimično aktivirano</translation>
 <translation id="3510890413042482857">Šalji <ph name="BEGIN_LINK1" />podatke o praćenju učinka<ph name="END_LINK1" /></translation>
-<translation id="3517001332549868749">Ažuriranje Chrome OS-a</translation>
+<translation id="3517001332549868749">Ažuriranje Egon OS-a</translation>
 <translation id="3527036260304016759">Nije uspelo – nepoznata greška</translation>
 <translation id="3532980081107202182">Preostalo je još oko <ph name="MIN_REMAINING" /> minuta</translation>
 <translation id="3557205324756024651">Lokalni identitet (opcionalno)</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">Tip uređaja je nepoznat.</translation>
 <translation id="3966286471246132217">Da biste dobili tačnije rezultate, zatvorite sve aplikacije dok se test ne dovrši.</translation>
 <translation id="3967822245660637423">Preuzimanje je dovršeno</translation>
-<translation id="3969602104473960991">Chrome OS lozinka je ažurirana</translation>
+<translation id="3969602104473960991">Egon OS lozinka je ažurirana</translation>
 <translation id="397105322502079400">Izračunavanje...</translation>
 <translation id="39823212440917567">Zadaci štampanja stariji od <ph name="NUMBER_OF_DAYS" /> dana se uklanjaju</translation>
 <translation id="3993704782688964914">Uređaj <ph name="DEVICE_NAME" /> je ažuriran</translation>
@@ -530,7 +530,7 @@ Probajte da dodirnete mikrofon da biste me pitali nešto.</translation>
 <translation id="6113701710518389813">Strelica nagore</translation>
 <translation id="6117895505466548728"><ph name="TITLE" />, još <ph name="NUMBER" /> albuma</translation>
 <translation id="6122191549521593678">Onlajn</translation>
-<translation id="6122277663991249694">Usluga metoda unosa za Chrome OS</translation>
+<translation id="6122277663991249694">Usluga metoda unosa za Egon OS</translation>
 <translation id="6137767437444130246">Korisnički sertifikat</translation>
 <translation id="6146993107019042706">Da biste završili, unesite novu lozinku</translation>
 <translation id="6147514244879357420">PNG</translation>
@@ -757,7 +757,7 @@ Probajte da dodirnete mikrofon da biste me pitali nešto.</translation>
 <translation id="8420955526972171689">Pokretanje testova i rešavanje problema sa hardverom</translation>
 <translation id="8422748173858722634">IMEI</translation>
 <translation id="8428073762635678092">Interna tastatura</translation>
-<translation id="8431300646573772016">Novosti u Chrome OS-u</translation>
+<translation id="8431300646573772016">Novosti u Egon OS-u</translation>
 <translation id="843568408673868420">Povezivanje na internet</translation>
 <translation id="844521431886043384">DNS nije podešen</translation>
 <translation id="8456761643544401578">Automatski tamni režim</translation>

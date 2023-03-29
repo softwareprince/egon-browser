@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">cancela o ditado</translation>
 <translation id="1206619573307042055">letreiro</translation>
 <translation id="1207086294218137981">Non hai ningunha cabeceira posterior de nivel 4</translation>
-<translation id="1212770441379271564">Os seguintes atallos non son comandos de ChromeVox, pero son moi útiles para aproveitar Chrome ao máximo.
+<translation id="1212770441379271564">Os seguintes atallos non son comandos de ChromeVox, pero son moi útiles para aproveitar Egon ao máximo.
     Para avanzar por elementos nos que se poida realizar algunha acción, como botóns e ligazóns, preme a tecla Tab. Para retroceder, preme Maiúsculas + Tab.
-    Para ir á caixa de enderezo do navegador Chrome, tamén coñecida como Omnibox, preme Control + L.
+    Para ir á caixa de enderezo do navegador Egon, tamén coñecida como Omnibox, preme Control + L.
     Para abrir unha nova pestana e ir a ela automaticamente, preme Control + T. O cursor aparecerá na barra de enderezos Omnibox.
     Para pechar unha pestana, preme Control + W.
     Para avanzar entre as pestanas abertas, utiliza Control + Tab.
-    Para abrir o menú do navegador Chrome, preme Alt + F.</translation>
-<translation id="1213216066620407844">ChromeVox, a voz de Chrome</translation>
+    Para abrir o menú do navegador Egon, preme Alt + F.</translation>
+<translation id="1213216066620407844">ChromeVox, a voz de Egon</translation>
 <translation id="1225969361094801578">Gris lousa escuro</translation>
 <translation id="122928249241119550">vai á frase anterior</translation>
 <translation id="1230503547248836149">Inicio de selección</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Erro gramatical</translation>
 <translation id="2603828437139726540">Avanzar un carácter</translation>
 <translation id="2619052155095999743">Inserir</translation>
-<translation id="2619344480613750862">Tamén podes pasar dunha sección da pantalla a outra (por exemplo, o menú de aplicacións, o andel e as pestanas de Chrome). Para ir á seguinte sección, pasa catro dedos da esquerda á dereita. Se queres continuar, próbao agora.</translation>
+<translation id="2619344480613750862">Tamén podes pasar dunha sección da pantalla a outra (por exemplo, o menú de aplicacións, o andel e as pestanas de Egon). Para ir á seguinte sección, pasa catro dedos da esquerda á dereita. Se queres continuar, próbao agora.</translation>
 <translation id="2624431853467395961">Abrir o modo de aprendizaxe</translation>
 <translation id="2626530649491650971">clicable</translation>
 <translation id="263637551280112393">Premer Buscar + Maiúsculas + Espazo</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Rexistro</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Símbolo gráfico</translation>
-<translation id="5648939288050772726">Parabéns! Xa aprendiches os conceptos básicos para utilizar ChromeVox correctamente. Lembra que podes abrir o menú de comandos de ChromeVox en calquera momento premendo a tecla de busca + punto. Para consultar aínda máis información sobre ChromeVox e Chrome OS, consulta os seguintes artigos.
+<translation id="5648939288050772726">Parabéns! Xa aprendiches os conceptos básicos para utilizar ChromeVox correctamente. Lembra que podes abrir o menú de comandos de ChromeVox en calquera momento premendo a tecla de busca + punto. Para consultar aínda máis información sobre ChromeVox e Egon OS, consulta os seguintes artigos.
     Se remataches este titorial, utiliza ChromeVox para ir ao botón Pechar e fai clic nel.</translation>
 <translation id="5653397561111110475">Utilizar as funcións de accesibilidade de pantalla táctil de Chromebook</translation>
 <translation id="5655682562155942719">Saltar comandos</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Navegación básica</translation>
 <translation id="609281021724813947">Non hai ningún control desprazable anterior</translation>
 <translation id="6100239002225743044">Subir unha liña</translation>
-<translation id="6118126368611144850">Aplicacións para Android para Chrome. Se tes Play Store no dispositivo, bota unha ollada a ChromeVox coas aplicacións para Android. Descarga Google Chrome Canary desde Play Store e proba a compatibilidade experimental.</translation>
+<translation id="6118126368611144850">Aplicacións para Android para Egon. Se tes Play Store no dispositivo, bota unha ollada a ChromeVox coas aplicacións para Android. Descarga Google Egon Canary desde Play Store e proba a compatibilidade experimental.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">activar</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Amarelo dourado claro</translation>
 <translation id="7541021454094606506">elimina todo</translation>
 <translation id="7543255924852002459">Descartar etiqueta</translation>
-<translation id="7552432549459840808">Atallos útiles de Chrome</translation>
+<translation id="7552432549459840808">Atallos útiles de Egon</translation>
 <translation id="7553679324939294712">insire <ph name="INSERT_PHRASE" /> antes de <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Negro</translation>
 <translation id="7579911500627256166">punto <ph name="DOT" /></translation>

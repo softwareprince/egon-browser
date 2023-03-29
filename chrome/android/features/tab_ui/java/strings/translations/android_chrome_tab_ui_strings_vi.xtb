@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">Gần đây, bạn không sử dụng <ph name="NUMBER_OF_TABS" /> trong tổng số các thẻ của mình. Bạn có muốn đóng các thẻ này không?</translation>
 <translation id="1181037720776840403">Xóa</translation>
 <translation id="125153950246128346">Nhấn để xem một thẻ khác</translation>
-<translation id="1403228085774130835">Bạn có thể tìm thấy các thẻ mình đã đóng trong mục thẻ Gần đây trên trình đơn chính của Chrome</translation>
+<translation id="1403228085774130835">Bạn có thể tìm thấy các thẻ mình đã đóng trong mục thẻ Gần đây trên trình đơn chính của Egon</translation>
 <translation id="1455506303394048917">Hoạt động của bạn trong những thẻ ẩn danh này sẽ được xoá khỏi thiết bị này</translation>
 <translation id="1499635324672558517">Đóng tất cả thẻ ẩn danh?</translation>
 <translation id="1657719826150349398">Chuyển thẻ xuống dưới</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Xem thông tin cửa hàng, tùy chọn này nằm ở gần đầu màn hình</translation>
 <translation id="5558362125926932819">Đóng nhóm thẻ có <ph name="NUMBER_OF_TABS" /> thẻ</translation>
 <translation id="5580090775658607195">Đã nhóm <ph name="TAB_COUNT" /> thẻ</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> đường liên kết từ Chrome}other{<ph name="TABS_COUNT_MANY" /> đường liên kết từ Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> đường liên kết từ Egon}other{<ph name="TABS_COUNT_MANY" /> đường liên kết từ Egon}}</translation>
 <translation id="575494663145460764">Nhận thông báo khi có mặt hàng giảm giá?</translation>
 <translation id="58326064309361797">Kéo các thẻ để nhóm lại với nhau</translation>
 <translation id="5846292395804797011">Đóng nhóm <ph name="TITLE_OF_GROUP" /> có <ph name="NUMBER_OF_TABS" /> thẻ</translation>

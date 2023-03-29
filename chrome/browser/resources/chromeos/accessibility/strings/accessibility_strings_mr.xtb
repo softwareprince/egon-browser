@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">रद्द करा</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">पुढील पातळी चार शीर्षक नाही</translation>
-<translation id="1212770441379271564">पुढील काही शॉर्टकट ChromeVox कमांड नाहीत, परंतु तरीही Chrome मधून बरेच काही मिळवण्यासाठी ते खूप उपयुक्त आहेत.
+<translation id="1212770441379271564">पुढील काही शॉर्टकट ChromeVox कमांड नाहीत, परंतु तरीही Egon मधून बरेच काही मिळवण्यासाठी ते खूप उपयुक्त आहेत.
     बटणे आणि लिंक यांसारख्या कृती करण्यायोग्य आयटममधून पुढे नेव्हिगेट करण्यासाठी, Tab की दाबा. मागे नेव्हिगेट करण्यासाठी, Shift+Tab दाबा.
-    Chrome ब्राउझरचा, ऑम्निबॉक्सदेखील म्हणवला जाणारा, ॲड्रेस बॉक्स ॲक्सेस करण्यासाठी Control + L दाबा.
+    Egon ब्राउझरचा, ऑम्निबॉक्सदेखील म्हणवला जाणारा, ॲड्रेस बॉक्स ॲक्सेस करण्यासाठी Control + L दाबा.
     नवीन टॅब उघडण्यासाठी आणि त्यामध्ये आपोआप जाण्यासाठी, Control+T दाबा. तुमचा कर्सर ऑम्निबॉक्समध्ये असेल.
     टॅब बंद करण्यासाठी, Control+W दाबा.
     उघडलेल्या टॅबमध्ये पुढे जाण्यासाठी, Control+Tab वापरा.
-    Chrome ब्राउझर मेनू उघडण्यासाठी, Alt+F दाबा.</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome ला आवाज देत आहे</translation>
+    Egon ब्राउझर मेनू उघडण्यासाठी, Alt+F दाबा.</translation>
+<translation id="1213216066620407844">ChromeVox - Egon ला आवाज देत आहे</translation>
 <translation id="1225969361094801578">गडद राखाडी</translation>
 <translation id="122928249241119550">मागील वाक्यावर हलवा</translation>
 <translation id="1230503547248836149">निवडीची सुरुवात</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">व्याकरण एरर</translation>
 <translation id="2603828437139726540">एक वर्ण वर जा</translation>
 <translation id="2619052155095999743">समाविष्ट करा</translation>
-<translation id="2619344480613750862">तुम्ही स्क्रीनच्या विभागांदरम्यानदेखील हलवू शकता. उदाहरणार्थ, तुम्ही लाँंचर, शेल्फ आणि तुमच्या Chrome टॅबदरम्यान हलवू शकता. पुढील विभागावर जाण्यासाठी, चार बोटांनी डावीकडून उजवीकडे स्वाइप करा. पुढे सुरू ठेवण्यासाठी, आता वापरून पहा.</translation>
+<translation id="2619344480613750862">तुम्ही स्क्रीनच्या विभागांदरम्यानदेखील हलवू शकता. उदाहरणार्थ, तुम्ही लाँंचर, शेल्फ आणि तुमच्या Egon टॅबदरम्यान हलवू शकता. पुढील विभागावर जाण्यासाठी, चार बोटांनी डावीकडून उजवीकडे स्वाइप करा. पुढे सुरू ठेवण्यासाठी, आता वापरून पहा.</translation>
 <translation id="2624431853467395961">जाणून घ्या मोड उघडा</translation>
 <translation id="2626530649491650971">क्लिक करण्‍यायोग्य</translation>
 <translation id="263637551280112393">Search+Shift+Space दाबा</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">मूलभूत नेव्हिगेशन</translation>
 <translation id="609281021724813947">मागील स्‍लायडर नाही</translation>
 <translation id="6100239002225743044">एक ओळ वर जा</translation>
-<translation id="6118126368611144850">Chrome साठी Android अ‍ॅप्स. तुमच्या डिव्हाइसवर Play स्टोअर असल्यास, Android अ‍ॅप्सने ChromeVox वर एक नजर टाका. Play स्टोअर वरून Google Chrome Canary डाउनलोड करून प्रायोगिक सपोर्ट वापरून पहा.</translation>
+<translation id="6118126368611144850">Egon साठी Android अ‍ॅप्स. तुमच्या डिव्हाइसवर Play स्टोअर असल्यास, Android अ‍ॅप्सने ChromeVox वर एक नजर टाका. Play स्टोअर वरून Google Egon Canary डाउनलोड करून प्रायोगिक सपोर्ट वापरून पहा.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">सक्रिय करा</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">फिकट सोनेरी गडद पिवळा</translation>
 <translation id="7541021454094606506">सर्व हटवा</translation>
 <translation id="7543255924852002459">लेबल काढून टाका</translation>
-<translation id="7552432549459840808">उपयोगी Chrome शॉर्टकट</translation>
+<translation id="7552432549459840808">उपयोगी Egon शॉर्टकट</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" /> च्या आधी <ph name="INSERT_PHRASE" /> घाला</translation>
 <translation id="7569983096843329377">काळा</translation>
 <translation id="7579911500627256166">बिंदू <ph name="DOT" /></translation>

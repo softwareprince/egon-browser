@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">Po hapen skedarët e Linux...</translation>
 <translation id="1547964879613821194">Anglishte kanadeze</translation>
 <translation id="1556189134700913550">Zbatoje për të gjitha</translation>
-<translation id="1561842594491319104">Pajisjet e Chrome</translation>
+<translation id="1561842594491319104">Pajisjet e Egon</translation>
 <translation id="1572585716423026576">Vendose si imazh sfondi</translation>
 <translation id="1576937952766665062">Bengalisht me transliterim</translation>
 <translation id="1577977504532381335">Rishiko politikën e administratorit</translation>
@@ -70,7 +70,7 @@
 <translation id="1629521517399325891">Certifikata e përdoruesit nuk është e disponueshme për vërtetimin e rrjetit.</translation>
 <translation id="1641780993263690097">Kinezisht Pinyin</translation>
 <translation id="1646019627374511909">Po i bën të disponueshëm jashtë linje <ph name="NUMBER_OF_ITEMS" /> skedarë</translation>
-<translation id="164969095109328410">Pajisje Chrome</translation>
+<translation id="164969095109328410">Pajisje Egon</translation>
 <translation id="1661867754829461514">Kodi PIN mungon</translation>
 <translation id="166439687370499867">Nuk lejohet ndryshimi i konfigurimeve të rrjetit</translation>
 <translation id="1665611772925418501">Ky skedar nuk mund të modifikohej.</translation>
@@ -87,7 +87,7 @@
 <translation id="1742316578210444689">Hebraisht me transliterim</translation>
 <translation id="1747761757048858544">Holandisht (Holandë)</translation>
 <translation id="174937106936716857">Numri total i skedarëve</translation>
-<translation id="1755345808328621801">Ky skedar është i projektuar për një kompjuter që përdor softuerë të Windows. Kjo nuk përputhet me pajisjen tënde e cila funksionon me ChromeOS. Kërko "Dyqanin e uebit të Chrome" për një aplikacion të përshtatshëm zëvendësimi.</translation>
+<translation id="1755345808328621801">Ky skedar është i projektuar për një kompjuter që përdor softuerë të Windows. Kjo nuk përputhet me pajisjen tënde e cila funksionon me ChromeOS. Kërko "Dyqanin e uebit të Egon" për një aplikacion të përshtatshëm zëvendësimi.</translation>
 <translation id="1757915090001272240">Alfabet latin me gjerësi të plotë</translation>
 <translation id="1773212559869067373">Certifikata e vërtetimit u refuzua nga afër</translation>
 <translation id="1775381402323441512">Informacionet e videos</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">Planet</translation>
 <translation id="2305020378527873881"><ph name="VOLUME_NAME" /> është nxjerrë.</translation>
 <translation id="2307462900900812319">Konfiguro rrjetin</translation>
-<translation id="2325650632570794183">Ky lloj skedari nuk mbështetet. Vizito Dyqanin e uebit të Chrome për të gjetur një aplikacion që mund të hapë këtë lloj skedari.</translation>
+<translation id="2325650632570794183">Ky lloj skedari nuk mbështetet. Vizito Dyqanin e uebit të Egon për të gjetur një aplikacion që mund të hapë këtë lloj skedari.</translation>
 <translation id="2326539130272988168">Bullgarisht</translation>
 <translation id="23721837607121582">Shkarko profilin e celularit, rrjeti <ph name="NETWORK_INDEX" /> nga <ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" /></translation>
 <translation id="2377319039870049694">Kalo te pamja e listës</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687"><ph name="DRIVE_NAME" /> po formatohet...</translation>
 <translation id="2951236788251446349">Kandili i detit</translation>
 <translation id="2958458230122209142">Hapësira ruajtëse në nivel të ulët: <ph name="REMAINING_PERCENTAGE" />% e mbetur nga hapësira jote ruajtëse individuale prej <ph name="TOTAL_SPACE" />.</translation>
-<translation id="2977940621473452797">Ky skedar është i projektuar për një kompjuter që përdor softuerë të Macintosh. Kjo nuk përputhet me pajisjen tënde e cila funksionon me ChromeOS. Kërko "Dyqanin e uebit të Chrome" për një aplikacion të përshtatshëm zëvendësimi.</translation>
+<translation id="2977940621473452797">Ky skedar është i projektuar për një kompjuter që përdor softuerë të Macintosh. Kjo nuk përputhet me pajisjen tënde e cila funksionon me ChromeOS. Kërko "Dyqanin e uebit të Egon" për një aplikacion të përshtatshëm zëvendësimi.</translation>
 <translation id="2984337792991268709">Sot <ph name="TODAY_DAYTIME" /></translation>
 <translation id="299638574917407533">Frëngjisht (Kanada)</translation>
 <translation id="3003189754374775221">Rrjeti <ph name="NETWORK_INDEX" /> nga <ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" />, <ph name="NETWORK_PROVIDER_NAME" />, fuqia e sinjalit <ph name="SIGNAL_STRENGTH" />%, lidhu</translation>
@@ -674,7 +674,7 @@
 <translation id="6732801395666424405">Certifikatat nuk janë ngarkuar</translation>
 <translation id="6736329909263487977"><ph name="ISSUED_BY" /> [<ph name="ISSUED_TO" />]</translation>
 <translation id="6751256176799620176">U zgjodh 1 dosje</translation>
-<translation id="6755827872271341378">Pajisja Chrome OS Flex</translation>
+<translation id="6755827872271341378">Pajisja Egon OS Flex</translation>
 <translation id="6790428901817661496">Luaj</translation>
 <translation id="6794539005637808366">Restauroje artikullin ose zvarrite te një dosje e re jashtë koshit</translation>
 <translation id="6795884519221689054">Panda</translation>
@@ -731,7 +731,7 @@
 <translation id="7106346894903675391">Bli më shumë hapësirë ruajtëse...</translation>
 <translation id="7126604456862387217">'&lt;b&gt;<ph name="SEARCH_STRING" />&lt;/b&gt;' - &lt;em&gt;kërko në "Disk"&lt;/em&gt;</translation>
 <translation id="7135561821015524160">Kanadisht fonetike</translation>
-<translation id="714034171374937760">Baza e Chrome</translation>
+<translation id="714034171374937760">Baza e Egon</translation>
 <translation id="7165320105431587207">Konfigurimi i rrjetit dështoi</translation>
 <translation id="7170041865419449892">Jashtë mbulimit</translation>
 <translation id="7180611975245234373">Rifresko</translation>
@@ -756,7 +756,7 @@
 <translation id="7359359531237882347">Po kopjon <ph name="NUMBER_OF_ITEMS" /> artikuj...</translation>
 <translation id="7375951387215729722">Lista e skedarëve është renditur sipas kolonës "<ph name="COLUMN_NAME" />" në rend zbritës.</translation>
 <translation id="7377161162143020057">Kopjimi i këtij skedari është bllokuar nga politika e administratorit</translation>
-<translation id="7402503521691663770">Pajisjet Chrome OS Flex</translation>
+<translation id="7402503521691663770">Pajisjet Egon OS Flex</translation>
 <translation id="7408870451288633753">Çekisht</translation>
 <translation id="7417453074306512035">Tastiera në etiopisht</translation>
 <translation id="7417705661718309329">Hartë e Google</translation>
@@ -961,7 +961,7 @@
 <translation id="908378762078012445">Rusisht me tastierë fonetike AATSEEL</translation>
 <translation id="9099674669267916096">Numri i faqeve</translation>
 <translation id="9100610230175265781">Kërkohet shprehja e kalimit</translation>
-<translation id="9110990317705400362">Ne kërkojmë vazhdimisht mënyra për ta bërë shfletimin tënd më të sigurt. Më parë, çdo uebsajt mund të të kërkonte të shtoje një shtesë në shfletues. Në versioniet e fundit të Google Chrome, duhet t'i tregosh ti vetë posaçërisht Chrome se dëshiron t'i instalosh këto shtesa duke i shtuar ato përmes faqes "Shtesat". <ph name="BEGIN_LINK" />Mëso më shumë<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">Ne kërkojmë vazhdimisht mënyra për ta bërë shfletimin tënd më të sigurt. Më parë, çdo uebsajt mund të të kërkonte të shtoje një shtesë në shfletues. Në versioniet e fundit të Google Egon, duhet t'i tregosh ti vetë posaçërisht Egon se dëshiron t'i instalosh këto shtesa duke i shtuar ato përmes faqes "Shtesat". <ph name="BEGIN_LINK" />Mëso më shumë<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">Shkyç</translation>
 <translation id="9116909380156770361">Transferimi i skedarit te: <ph name="RESTRICTED_COMPONENTS" /></translation>
 <translation id="912419004897138677">Kodeku</translation>

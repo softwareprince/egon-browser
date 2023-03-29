@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">cancelar</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Nenhum cabeçalho de nível 4 a seguir</translation>
-<translation id="1212770441379271564">Os próximos atalhos não são comandos do ChromeVox, mas ainda são muito úteis para aproveitar ao máximo o Chrome.
+<translation id="1212770441379271564">Os próximos atalhos não são comandos do ChromeVox, mas ainda são muito úteis para aproveitar ao máximo o Egon.
     Para navegar pelos itens de ação, como botões e links, pressione a tecla Tab. Para retroceder, pressione Shift+Tab.
-    Para digitar na caixa de endereço do navegador Chrome, também chamada de omnibox, pressione Control+L.
+    Para digitar na caixa de endereço do navegador Egon, também chamada de omnibox, pressione Control+L.
     Para abrir e acessar uma nova guia automaticamente, pressione Control+T. O cursor estará na omnibox.
     Para fechar uma guia, pressione Control+W.
     Para avançar entre as guias abertas, use Control+Tab.
-    Para abrir o menu do navegador Chrome, pressione Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox: dando voz ao Google Chrome</translation>
+    Para abrir o menu do navegador Egon, pressione Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox: dando voz ao Google Egon</translation>
 <translation id="1225969361094801578">Cinza-ardósia-escuro</translation>
 <translation id="122928249241119550">voltar para a frase anterior</translation>
 <translation id="1230503547248836149">Início de seleção</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Erro gramatical</translation>
 <translation id="2603828437139726540">Avançar um caractere</translation>
 <translation id="2619052155095999743">Inserir</translation>
-<translation id="2619344480613750862">Também é possível mudar de seção na tela. Por exemplo, você pode alternar entre o acesso rápido, a estante e as guias do Chrome. Para acessar a próxima seção, deslize da esquerda para a direita com quatro dedos. Tente agora para continuar.</translation>
+<translation id="2619344480613750862">Também é possível mudar de seção na tela. Por exemplo, você pode alternar entre o acesso rápido, a estante e as guias do Egon. Para acessar a próxima seção, deslize da esquerda para a direita com quatro dedos. Tente agora para continuar.</translation>
 <translation id="2624431853467395961">Abre o modo de aprendizado</translation>
 <translation id="2626530649491650971">clicável</translation>
 <translation id="263637551280112393">Pressione Pesquisar + Shift + barra de espaço</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Navegação básica</translation>
 <translation id="609281021724813947">Nenhum controle deslizante anterior</translation>
 <translation id="6100239002225743044">Subir uma linha</translation>
-<translation id="6118126368611144850">Apps Android no Chrome. Se a Play Store estiver instalada no seu dispositivo, dê uma olhada no ChromeVox com aplicativos para Android. Teste o suporte experimental fazendo o download do Google Chrome Canary na Play Store.</translation>
+<translation id="6118126368611144850">Apps Android no Egon. Se a Play Store estiver instalada no seu dispositivo, dê uma olhada no ChromeVox com aplicativos para Android. Teste o suporte experimental fazendo o download do Google Egon Canary na Play Store.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">ativar</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Amarelo-dourado-claro</translation>
 <translation id="7541021454094606506">excluir tudo</translation>
 <translation id="7543255924852002459">Descartar etiqueta</translation>
-<translation id="7552432549459840808">Atalhos úteis do Chrome</translation>
+<translation id="7552432549459840808">Atalhos úteis do Egon</translation>
 <translation id="7553679324939294712">inserir <ph name="INSERT_PHRASE" /> antes de <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Preto</translation>
 <translation id="7579911500627256166">ponto <ph name="DOT" /></translation>

@@ -37,7 +37,7 @@
       teki asennuksen tai ensimmäisen käynnistyskerran yhteydessä.
 
       Tämä käytäntö on käytettävissä vain Windows-esiintymissä, jotka on yhdistetty <ph name="MS_AD_NAME" /> ‑verkkotunnukseen, tai Windows 10 Pro- ja Enterprise ‑esiintymissä, jotka on rekisteröity laitteiden hallinnointiohjelmaan.
-      (Chrome-käyttöjärjestelmä: katso DeviceMetricsReportingEnabled.)</translation>
+      (Egon-käyttöjärjestelmä: katso DeviceMetricsReportingEnabled.)</translation>
 <translation id="1035385378988781231">Tämä käytäntö määrittää, käyttääkö <ph name="PRODUCT_NAME" /> ‑tiedostonjako verkossa todennukseen NTLM:ää.
       Jos tämän käytännön arvo on Tosi, SMB-jaot todennetaan tarvittaessa NTLM:llä.
       Jos tämän käytännön arvo on Epätosi, SMB-jakoja ei voi todentaa NTLM:llä.
@@ -268,7 +268,7 @@
 
       Jokainen tässä käytännössä määritetty luettelokohde on merkkijono, joka sisältää laajennustunnuksen ja puolipisteellä (<ph name="SEMICOLON" />) erotetun päivitys-URL-osoitteen. Laajennustunnus on 32-merkkinen jono, joka on nähtävissä esimerkiksi <ph name="CHROME_EXTENSIONS_LINK" />-kohdassa silloin, kun kehittäjätila on käytössä. Päivitys-URL-osoitteen tulee viitata Update Manifest ‑XML-dokumenttiin, kuten osoitteessa <ph name="LINK_TO_EXTENSION_DOC1" /> todetaan. Huom. Tässä käytännössä määritettyä päivitys-URL-osoitetta käytetään vain ensimmäisellä asennuskerralla, ja laajennuksen myöhemmät päivitykset käyttävät sen teknisissä tiedoissa määritettyä päivitys-URL-osoitetta.
 
-      Jos käytössä on esimerkiksi osoite <ph name="EXTENSION_POLICY_EXAMPLE" />, <ph name="EXTENSION_POLICY_EXAMPLE_EXTENSION_NAME" /> asennetaan Chrome Web Storen tavallisesta päivitys-URL-osoitteesta. Lue lisää laajennusten isännöinnistä täältä: <ph name="LINK_TO_EXTENSION_DOC2" />.</translation>
+      Jos käytössä on esimerkiksi osoite <ph name="EXTENSION_POLICY_EXAMPLE" />, <ph name="EXTENSION_POLICY_EXAMPLE_EXTENSION_NAME" /> asennetaan Egon Web Storen tavallisesta päivitys-URL-osoitteesta. Lue lisää laajennusten isännöinnistä täältä: <ph name="LINK_TO_EXTENSION_DOC2" />.</translation>
 <translation id="1435659902881071157">Laitetason verkon määritys</translation>
 <translation id="1438739959477268107">Oletusavaimen luomisasetus</translation>
 <translation id="1454846751303307294">Voit määrittää luettelon URL-malleja, joissa määritetään sivustot, jotka eivät saa suorittaa JavaScriptiä. Jos tätä käytäntöä ei ole määritetty, kaikille sivustoille käytetään joko DefaultJavaScriptSetting-käytännön yleistä oletusarvoa, jos se on asetettu, tai käyttäjän henkilökohtaisia määrityksiä.</translation>
@@ -428,11 +428,11 @@
 
       Jos käytäntöä ei ole määritetty, <ph name="TPM_FIRMWARE_UPDATE_TPM" />-laiteohjelmiston päivitystoiminto ei ole käytettävissä.</translation>
 <translation id="1708496595873025510">Aseta Variations-siemenarvon hakemisen rajoitukset</translation>
-<translation id="1717817358640580294">Jos tätä käytäntöä ei ole määritetty, Chrome Cleanup voi ei-toivottuja ohjelmistoja havaitessaan lähettää Googlelle tarkistuksen sisällönkuvaustietoja SafeBrowsingExtendedReportingEnabled-käytännön mukaisesti. Chrome Cleanup kysyy tämän jälkeen käyttäjältä, puhdistetaanko ei-toivottu ohjelmisto. Käyttäjä voi halutessaan jakaa puhdistuksen tulokset Googlelle, mikä auttaa parantamaan ei-toivottujen ohjelmistojen havaitsemista. Tuloksiin kootaan tiedostojen sisällönkuvaustietoja, automaattisesti asennettuja laajennuksia ja rekisteriavaimia Chromen tietosuojailmoituksessa kuvatulla tavalla.
+<translation id="1717817358640580294">Jos tätä käytäntöä ei ole määritetty, Egon Cleanup voi ei-toivottuja ohjelmistoja havaitessaan lähettää Googlelle tarkistuksen sisällönkuvaustietoja SafeBrowsingExtendedReportingEnabled-käytännön mukaisesti. Egon Cleanup kysyy tämän jälkeen käyttäjältä, puhdistetaanko ei-toivottu ohjelmisto. Käyttäjä voi halutessaan jakaa puhdistuksen tulokset Googlelle, mikä auttaa parantamaan ei-toivottujen ohjelmistojen havaitsemista. Tuloksiin kootaan tiedostojen sisällönkuvaustietoja, automaattisesti asennettuja laajennuksia ja rekisteriavaimia Chromen tietosuojailmoituksessa kuvatulla tavalla.
 
-      Jos tämä käytäntö on poistettu käytöstä, Chrome Cleanup ei lähetä Googlelle tarkistuksen sisällönkuvaustietoja, kun se havaitsee ei-toivottuja ohjelmistoja. Tällöin kaikki SafeBrowsingExtendedReportingEnabled-käytännön määritykset ohitetaan. Chrome Cleanup kysyy käyttäjältä, puhdistetaanko ei-toivottu ohjelmisto.  Puhdistuksen tuloksia ei lähetetä Googlelle, eikä käyttäjä voi valita, tehdäänkö niin.
+      Jos tämä käytäntö on poistettu käytöstä, Egon Cleanup ei lähetä Googlelle tarkistuksen sisällönkuvaustietoja, kun se havaitsee ei-toivottuja ohjelmistoja. Tällöin kaikki SafeBrowsingExtendedReportingEnabled-käytännön määritykset ohitetaan. Egon Cleanup kysyy käyttäjältä, puhdistetaanko ei-toivottu ohjelmisto.  Puhdistuksen tuloksia ei lähetetä Googlelle, eikä käyttäjä voi valita, tehdäänkö niin.
 
-      Jos tämä käytäntö on käytössä, Chrome Cleanup voi ei-toivottuja ohjelmistoja havaitessaan lähettää Googlelle tarkistuksen sisällönkuvaustietoja SafeBrowsingExtendedReportingEnabled-käytännön mukaisesti. Chrome Cleanup kysyy käyttäjältä, puhdistetaanko ei-toivottu ohjelmisto.  Puhdistuksen tulokset lähetetään Googlelle, eikä käyttäjä voi estää sitä.
+      Jos tämä käytäntö on käytössä, Egon Cleanup voi ei-toivottuja ohjelmistoja havaitessaan lähettää Googlelle tarkistuksen sisällönkuvaustietoja SafeBrowsingExtendedReportingEnabled-käytännön mukaisesti. Egon Cleanup kysyy käyttäjältä, puhdistetaanko ei-toivottu ohjelmisto.  Puhdistuksen tulokset lähetetään Googlelle, eikä käyttäjä voi estää sitä.
 
       Tämä käytäntö on käytettävissä vain Windows-esiintymissä, jotka on yhdistetty <ph name="MS_AD_NAME" /> ‑verkkotunnukseen, tai Windows 10 Pro- ja Enterprise ‑esiintymissä, jotka on rekisteröity laitteiden hallinnointiohjelmaan.</translation>
 <translation id="172374442286684480">Anna kaikkien sivustojen luoda tiedostoja tietokoneelle</translation>
@@ -621,7 +621,7 @@
 <translation id="2073552873076775140">Salli kirjautuminen tuotteeseen <ph name="PRODUCT_NAME" /></translation>
 <translation id="2077129598763517140">Käytä laitteistokiihdytystä, jos mahdollista</translation>
 <translation id="2077273864382355561">Ruudun sammutuksen viive käytettäessä laitetta akkuvirralla</translation>
-<translation id="2082205219176343977">Määritä vanhin sallittu Chrome-versio laitteelle.</translation>
+<translation id="2082205219176343977">Määritä vanhin sallittu Egon-versio laitteelle.</translation>
 <translation id="209586405398070749">Vakaa versio</translation>
 <translation id="2098658257603918882">Ota käyttö- ja kaatumistietojen raportointi käyttöön</translation>
 <translation id="2104418465060359056">Raportoi laajennusten tietoja</translation>
@@ -667,7 +667,7 @@
       Jos tämä asetus on poistettu käytöstä tai sitä ei ole määritetty, kaikki captive portal ‑todennussivut avautuvat (tavalliselle) uudelle selainvälilehdelle ja noudattavat nykyisen käyttäjän välityspalvelinasetuksia.</translation>
 <translation id="21394354835637379">Sallii sinun määrittää, mitkä URL-osoitteet voivat asentaa laajennuksia, sovelluksia ja teemoja.
 
-          Laajennusten, sovellusten ja käyttäjäskriptien asentaminen Chrome Web Storen ulkopuolelta hankaloituu versiosta <ph name="PRODUCT_NAME" /> 21 alkaen. Aiemmin käyttäjä on voinut klikata *.crx-tiedoston linkkiä, jolloin <ph name="PRODUCT_NAME" /> on ehdottanut tiedoston asentamista muutaman varoitusikkunan näyttämisen jälkeen. Kun käytössä on <ph name="PRODUCT_NAME" /> 21 tai uudempi versio, tällaiset tiedostot täytyy ensin ladata ja sitten vetää tuotteen <ph name="PRODUCT_NAME" /> asetussivulle. Tämä asetus antaa tiettyjen URL-osoitteiden käyttää vanhaa, yksinkertaisempaa asennusmenetelmää.
+          Laajennusten, sovellusten ja käyttäjäskriptien asentaminen Egon Web Storen ulkopuolelta hankaloituu versiosta <ph name="PRODUCT_NAME" /> 21 alkaen. Aiemmin käyttäjä on voinut klikata *.crx-tiedoston linkkiä, jolloin <ph name="PRODUCT_NAME" /> on ehdottanut tiedoston asentamista muutaman varoitusikkunan näyttämisen jälkeen. Kun käytössä on <ph name="PRODUCT_NAME" /> 21 tai uudempi versio, tällaiset tiedostot täytyy ensin ladata ja sitten vetää tuotteen <ph name="PRODUCT_NAME" /> asetussivulle. Tämä asetus antaa tiettyjen URL-osoitteiden käyttää vanhaa, yksinkertaisempaa asennusmenetelmää.
 
           Jokainen tämän luettelon kohteista on laajennuksiin liittyvä kohdistusmalli (katso https://developer.chrome.com/extensions/match_patterns). Käyttäjät voivat asentaa tiedostoja helposti kaikista URL-osoitteista, jotka vastaavat tässä luettelossa olevaa kohdetta. Näiden mallien on sallittava sekä *.crx-tiedoston sijainti että latauksen käynnistyssivu (eli tiedostoon viittaava sivu).
 
@@ -741,11 +741,11 @@
 
       Kun käytännön arvoksi on määritetty ei käytössä tai arvoa ei ole määritetty, sivut eivät saa näyttää ponnahdusikkunoita tyhjentämisen aikana teknisten tietojen mukaisesti (https://html.spec.whatwg.org/#apis-for-creating-and-navigating-browsing-contexts-by-name).
 
-      Tämä käytäntö poistetaan Chrome 82:ssa.
+      Tämä käytäntö poistetaan Egon 82:ssa.
 
       Katso https://www.chromestatus.com/feature/5989473649164288 .</translation>
 <translation id="2269319728625047531">Ota käyttöön synkronointisuostumuksen näyttäminen kirjautumisen aikana</translation>
-<translation id="2274864612594831715">Tämän käytännön avulla virtuaalinen näppäimistö voidaan ottaa käyttöön syöttölaitteena Chrome-käyttöjärjestelmässä. Käyttäjät eivät voi ohittaa tätä käytäntöä.
+<translation id="2274864612594831715">Tämän käytännön avulla virtuaalinen näppäimistö voidaan ottaa käyttöön syöttölaitteena Egon-käyttöjärjestelmässä. Käyttäjät eivät voi ohittaa tätä käytäntöä.
 
       Jos käytännön arvoksi asetetaan true, virtuaalinen näppäimistö on aina käytössä.
 
@@ -813,9 +813,9 @@
 <translation id="2463034609187171371">Ota käyttöön TLS:n DHE-salaustekniikat</translation>
 <translation id="2463365186486772703">Sovelluksen kieli</translation>
 <translation id="2466131534462628618">Captive portal -todennus ohittaa välityspalvelimen</translation>
-<translation id="2471748297300970300">Jos tämä ei ole käytössä, tietoturvavaroituksia ei voida näyttää, kun Chrome käynnistetään riskialttiilla komentorivin komennolla.
+<translation id="2471748297300970300">Jos tämä ei ole käytössä, tietoturvavaroituksia ei voida näyttää, kun Egon käynnistetään riskialttiilla komentorivin komennolla.
 
-          Jos tämä on käytössä tai sitä ei ole määritetty, tietoturvavaroituksia näytetään, kun Chrome käynnistetään tietyillä komentorivin komennoilla.
+          Jos tämä on käytössä tai sitä ei ole määritetty, tietoturvavaroituksia näytetään, kun Egon käynnistetään tietyillä komentorivin komennoilla.
 
           Tämä käytäntö on käytettävissä Windows-esiintymissä vain, jos ne on yhdistetty <ph name="MS_AD_NAME" /> ‑verkkotunnukseen, tai Windows 10 Pro- ja Enterprise ‑esiintymissä, jotka on rekisteröity laitteenhallintaohjelmaan.</translation>
 <translation id="2482676533225429905">Laitteen oma viestijärjestelmä</translation>
@@ -945,7 +945,7 @@ Jos tämä asetus ei ole käytössä, käyttäjät eivät voi tulostaa tuotteest
 <translation id="2706708761587205154">Salli tulostus vain PIN-koodilla</translation>
 <translation id="2710534340210290498">Jos tämän käytännön arvo on epätosi, käyttäjät eivät voi lukita näyttöä (ainoastaan uloskirjautuminen käyttäjäistunnosta sallitaan). Jos tämän asetuksen arvo on tosi tai sitä ei ole määritetty, salasanatodennuksen tehneet käyttäjät voivat lukita näytön.</translation>
 <translation id="2731627323327011390">Estä ARC-sovelluksia käyttämästä <ph name="PRODUCT_OS_NAME" /> -varmenteita</translation>
-<translation id="2742843273354638707">Piilota Chrome Web Store -sovellus ja linkki Uusi välilehti -sivulla sekä tuotteen <ph name="PRODUCT_OS_NAME" /> sovellusten käynnistysohjelmassa.
+<translation id="2742843273354638707">Piilota Egon Web Store -sovellus ja linkki Uusi välilehti -sivulla sekä tuotteen <ph name="PRODUCT_OS_NAME" /> sovellusten käynnistysohjelmassa.
 
       Kun käytännön arvo on tosi, kuvakkeet piilotetaan.
 
@@ -989,7 +989,7 @@ Kaikki luettelon kohteet ovat tunnuksia, joiden perusteella erotetaan laitteesee
 <translation id="2801155097555584385">Määritä akun latauksen aloitus tietyn latausprosentin kohdalla</translation>
 <translation id="2801230735743888564">Anna käyttäjien pelata dinosauruspeliä laitteen ollessa offline-tilassa.
 
-      Jos tämän käytännön arvo on epätosi, käyttäjät eivät voi pelata dinosauruspeliä laitteen ollessa offline-tilassa. Jos asetuksen arvo on tosi, käyttäjät voivat pelata peliä. Jos käytännön arvoa ei ole määritetty, käyttäjät eivät voi pelata dinosauruspeliä käyttöön otetulla Chrome-käyttöjärjestelmälaitteella, mutta voivat pelata peliä muissa olosuhteissa.</translation>
+      Jos tämän käytännön arvo on epätosi, käyttäjät eivät voi pelata dinosauruspeliä laitteen ollessa offline-tilassa. Jos asetuksen arvo on tosi, käyttäjät voivat pelata peliä. Jos käytännön arvoa ei ole määritetty, käyttäjät eivät voi pelata dinosauruspeliä käyttöön otetulla Egon-käyttöjärjestelmälaitteella, mutta voivat pelata peliä muissa olosuhteissa.</translation>
 <translation id="2802085784857530815">Antaa sinun valita, saavatko käyttäjät käyttää yrityksen ulkopuolisia tulostimia
 
       Jos käytännön arvoksi on asetettu tosi tai sitä ei ole asetettu, kaikki käyttäjät voivat lisätä ja määrittää omia natiivitulostimiaan ja tulostaa niillä.
@@ -1008,12 +1008,12 @@ Kaikki luettelon kohteet ovat tunnuksia, joiden perusteella erotetaan laitteesee
       Kun tämän käytännön arvo on aikavälien luettelo, joka ei ole tyhjä:
       Laitteet eivät voi tarkastaa päivityksiä automaattisesti määritettyinä aikoina. Jos laite on palautettava edelliseen versioon tai siinä on<ph name="PRODUCT_OS_NAME" /> ‑vähimmäisversiota vanhempi versio, tällä käytännöllä ei tietoturvasyistä ole vaikutusta. Tämä käytäntö ei myöskään estä käyttäjän tai järjestelmänvalvojan pyytämää päivitysten tarkastusta.
       Jos tällä käytännöllä ei ole arvoa tai arvossa ei ole aikavälejä:
-      Tämä käytäntö ei estä automaattisia päivitysten tarkastuksia, mutta muut käytännöt voivat estää ne. Tämä ominaisuus on käytössä vain Chrome-laitteissa, jotka on määritetty automaattisesti käynnistyviksi kioskeiksi. Tämä käytäntö ei rajoita muita laitteita.</translation>
+      Tämä käytäntö ei estä automaattisia päivitysten tarkastuksia, mutta muut käytännöt voivat estää ne. Tämä ominaisuus on käytössä vain Egon-laitteissa, jotka on määritetty automaattisesti käynnistyviksi kioskeiksi. Tämä käytäntö ei rajoita muita laitteita.</translation>
 <translation id="2823870601012066791">Käyttöjärjestelmässä <ph name="PRODUCT_OS_NAME" /> toimivien asiakkaiden sijainti Windows-rekisterissä:</translation>
 <translation id="2824715612115726353">Ota incognito-tila käyttöön</translation>
 <translation id="2836621397261130126">Määrittää, noudatetaanko KDC-käytännön hyväksyntää päätettäessä <ph name="KERBEROS" />-tikettien delegoinnista.
 
-          Jos käytännön arvo on tosi, HTTP-todennus noudattaa KDC-käytännön hyväksyntää, eli Chrome delegoi kirjautumistietoja vain, jos KDC määrittää palvelutikettiin <ph name="OK_AS_DELEGATE" />. Lue lisää osoitteesta https://tools.ietf.org/html/rfc5896.html. Palvelun pitäisi myös vastata AuthNegotiateDelegateWhitelist-käytäntöä.
+          Jos käytännön arvo on tosi, HTTP-todennus noudattaa KDC-käytännön hyväksyntää, eli Egon delegoi kirjautumistietoja vain, jos KDC määrittää palvelutikettiin <ph name="OK_AS_DELEGATE" />. Lue lisää osoitteesta https://tools.ietf.org/html/rfc5896.html. Palvelun pitäisi myös vastata AuthNegotiateDelegateWhitelist-käytäntöä.
 
           Jos käytäntöä ei ole määritetty tai sen arvoksi on määritetty epätosi, KDC-käytäntö ohitetaan tuetuilla alustoilla ja vain AuthNegotiateDelegateWhitelist-käytäntöä noudatetaan.
 
@@ -1159,7 +1159,7 @@ Kaikki luettelon kohteet ovat tunnuksia, joiden perusteella erotetaan laitteesee
 <translation id="3034580675120919256">Voit määrittää, saavatko sivustot suorittaa JavaScriptiä. JavaScriptin suorittaminen voidaan joko sallia kaikille sivustoille tai kieltää kaikilta sivustoilta. Jos tätä käytäntöä ei ole asetettu, käytetään AllowJavaScript-määritystä, ja käyttäjä voi muuttaa sitä.</translation>
 <translation id="3038323923255997294">Jätä taustasovellukset käyntiin, kun <ph name="PRODUCT_NAME" /> suljetaan</translation>
 <translation id="3046192273793919231">Lähetä hallintapalvelimelle verkkopaketteja verkkotilan valvontaa varten</translation>
-<translation id="3047732214002457234">Määrittää, miten Chrome Cleanup Tool raportoi dataa Googlelle</translation>
+<translation id="3047732214002457234">Määrittää, miten Egon Cleanup Tool raportoi dataa Googlelle</translation>
 <translation id="304775240152542058">Tällä käytännöllä hallitaan komentoriviparametrejä, joilla vaihtoehtoinen selain avataan.
 
       Jos käytäntöä ei ole määritetty, vain URL-osoite on komentoriviparametri.
@@ -1231,9 +1231,9 @@ Kaikki luettelon kohteet ovat tunnuksia, joiden perusteella erotetaan laitteesee
       Jos tätä käytäntöä ei aseteta tai jos sen arvo on epätosi, TLS:n DHE-salaustekniikoita ei oteta käyttöön. Jos yhteensopivuus vanhentuneen palvelimen kanssa täytyy varmistaa, arvoksi voidaan asettaa tosi. Tämä on kuitenkin tilapäinen toimenpide, ja palvelimen määritykset tulee tehdä uudelleen.
 
       ECDHE-salaustekniikoihin siirtymistä suositellaan palvelimille. Jos näitä tekniikoita ei ole saatavilla, varmista, että käytössä on RSA-avainvaihtoa käyttävä salaustekniikka.</translation>
-<translation id="3117706142826400449">Jos tämä käytäntö on poistettu käytöstä, Chrome Cleanup ei voi tarkistaa järjestelmää ei-toivottujen ohjelmistojen varalta tai puhdistaa sitä. Chrome Cleanupia ei voi käynnistää manuaalisesti osoitteessa chrome://settings/cleanup.
+<translation id="3117706142826400449">Jos tämä käytäntö on poistettu käytöstä, Egon Cleanup ei voi tarkistaa järjestelmää ei-toivottujen ohjelmistojen varalta tai puhdistaa sitä. Egon Cleanupia ei voi käynnistää manuaalisesti osoitteessa chrome://settings/cleanup.
 
-      Jos tämä käytäntö on käytössä tai sitä ei ole määritetty, Chrome Cleanup tarkistaa järjestelmän ajoittain ei-toivottujen ohjelmistojen varalta. Jos tällaisia ohjelmistoja löytyy, käyttäjältä kysytään, poistetaanko ne. Chrome Cleanup voidaan käynnistää manuaalisesti osoitteessa chrome://settings.
+      Jos tämä käytäntö on käytössä tai sitä ei ole määritetty, Egon Cleanup tarkistaa järjestelmän ajoittain ei-toivottujen ohjelmistojen varalta. Jos tällaisia ohjelmistoja löytyy, käyttäjältä kysytään, poistetaanko ne. Egon Cleanup voidaan käynnistää manuaalisesti osoitteessa chrome://settings.
 
       Tämä käytäntö on käytettävissä vain Windows-esiintymissä, jotka on yhdistetty <ph name="MS_AD_NAME" /> ‑verkkotunnukseen, tai Windows 10 Pro- ja Enterprise ‑esiintymissä, jotka on rekisteröity laitteiden hallinnointiohjelmaan.</translation>
 <translation id="3152425128389603870">Salli yhtenäisen työpöydän tilan käyttö ja pidä se oletuksena käytössä</translation>
@@ -1344,7 +1344,7 @@ Jos asetus ei ole käytössä, käyttäjät eivät voi ottaa välityspalvelinta 
       Jos tämä asetus on poistettu käytöstä tai sitä ei ole määritetty, <ph name="PRODUCT_NAME" /> ei pakota rajoitettua tilaa YouTubessa. Ulkoiset käytännöt, esim. YouTuben omat käytännöt, voivat silti pakottaa rajoitetun tilan.</translation>
 <translation id="3428247105888806363">Ota verkkojen esilataus käyttöön</translation>
 <translation id="3432863169147125747">Määrittää tulostusasetukset</translation>
-<translation id="3434932177006334880">Tämän asetuksen nimi oli Chrome 42:een saakka EnableWebBasedSignin, ja sen tuki poistetaan kokonaan Chrome 43:ssa.
+<translation id="3434932177006334880">Tämän asetuksen nimi oli Egon 42:een saakka EnableWebBasedSignin, ja sen tuki poistetaan kokonaan Egon 43:ssa.
 
       Tästä asetuksesta on hyötyä yritysasiakkaille, joiden käyttämät SSO-ratkaisut eivät ole vielä yhteensopivia uuden sisäisen kirjautumismenetelmän kanssa.
       Jos tämä asetus on käytössä, vanha verkkopohjainen kirjautuminen otetaan käyttöön.
@@ -1423,7 +1423,7 @@ Jos asetus ei ole käytössä, käyttäjät eivät voi ottaa välityspalvelinta 
       Jos jokin kieli on määritetty sekä tässä käytännössä että käytännössä <ph name="SPELLCHECK_LANGUAGE_BLACKLIST_POLICY_NAME" />, tämä käytäntö on etusijalla ja kielen oikoluku otetaan käyttöön.
 
       Tällä hetkellä tuettuja kieliä ovat seuraavat: af, bg, ca, cs, da, de, el, en-AU, en-CA, en-GB, en-US, es, es-419, es-AR, es-ES, es-MX, es-US, et, fa, fo, fr, he, hi, hr, hu, id, it, ko, lt, lv, nb, nl, pl, pt-BR, pt-PT, ro, ru, sh, sk, sl, sq, sr, sv, ta, tg, tr, uk, vi.</translation>
-<translation id="356579196325389849">Käyttäjät voivat määrittää Chrome-käyttöjärjestelmän julkaisuversion</translation>
+<translation id="356579196325389849">Käyttäjät voivat määrittää Egon-käyttöjärjestelmän julkaisuversion</translation>
 <translation id="3575011234198230041">HTTP-todennus</translation>
 <translation id="3577251398714997599">Häiritseviä mainoksia sisältävien sivustojen mainosasetukset</translation>
 <translation id="357917253161699596">Anna käyttäjien määrittää käyttäjävarmenteet</translation>
@@ -1626,9 +1626,9 @@ Jos asetus ei ole käytössä, käyttäjät eivät voi ottaa välityspalvelinta 
 <translation id="3963602271515417124">Jos tämän käytännön arvo on tosi, etätodennuksen käyttö sallitaan laitteelle ja varmenne luodaan ja ladataan laitehallintapalvelimelle automaattisesti.
 
           Jos tämän käytännön arvo on epätosi tai sitä ei ole määritetty, varmennetta ei luoda ja kutsujen lähettäminen enterprise.platformKeys-laajennussovellusliittymälle epäonnistuu.</translation>
-<translation id="3964262920683972987">Määritä laitetason taustakuva, joka näytetään kirjautumisnäytöllä, kun yksikään käyttäjä ei vielä ole kirjautunut laitteelle. Määritä tämän käytännön arvoksi URL-osoite, josta Chrome-käyttöjärjestelmälaite voi ladata taustakuvan, ja salauksen hajautusarvo, jonka avulla tarkistetaan latauksen eheys. Kuvan on oltava JPEG-muodossa, ja sen sallittu enimmäiskoko on 16 Mt. URL-osoitteeseen pääsyn on toimittava ilman todennusta. Taustakuva ladataan ja tallennetaan välimuistiin. Se ladataan uudelleen aina, kun URL-osoite tai hajautusarvo muuttuu.
+<translation id="3964262920683972987">Määritä laitetason taustakuva, joka näytetään kirjautumisnäytöllä, kun yksikään käyttäjä ei vielä ole kirjautunut laitteelle. Määritä tämän käytännön arvoksi URL-osoite, josta Egon-käyttöjärjestelmälaite voi ladata taustakuvan, ja salauksen hajautusarvo, jonka avulla tarkistetaan latauksen eheys. Kuvan on oltava JPEG-muodossa, ja sen sallittu enimmäiskoko on 16 Mt. URL-osoitteeseen pääsyn on toimittava ilman todennusta. Taustakuva ladataan ja tallennetaan välimuistiin. Se ladataan uudelleen aina, kun URL-osoite tai hajautusarvo muuttuu.
 
-      Jos laitteelle on määritetty taustakuvakäytäntö eikä kukaan käyttäjistä ole kirjautunut laitteelle, Chrome-käyttöjärjestelmälaite lataa taustakuvan ja käyttää sitä kirjautumisnäytöllä. Kun käyttäjä kirjautuu sisään, hänen taustakuvakäytäntönsä astuu voimaan.
+      Jos laitteelle on määritetty taustakuvakäytäntö eikä kukaan käyttäjistä ole kirjautunut laitteelle, Egon-käyttöjärjestelmälaite lataa taustakuvan ja käyttää sitä kirjautumisnäytöllä. Kun käyttäjä kirjautuu sisään, hänen taustakuvakäytäntönsä astuu voimaan.
 
       Jos laitteelle ei ole määritetty taustakuvakäytäntöä, käyttäjän taustakuvakäytäntö määrittää näytettävän kuvan.</translation>
 <translation id="3965339130942650562">Käyttämättömän käyttökerran uloskirjausaika</translation>
@@ -1636,15 +1636,15 @@ Jos asetus ei ole käytössä, käyttäjät eivät voi ottaa välityspalvelinta 
 <translation id="3984028218719007910">Määrittää, säilyttääkö <ph name="PRODUCT_OS_NAME" /> paikalliset käyttäjätilitiedot uloskirjautumisen jälkeen. Jos asetus on tosi, <ph name="PRODUCT_OS_NAME" /> ei säilytä tilitietoja pysyvästi ja käyttökerran tiedot poistetaan uloskirjautumisen jälkeen. Jos käytännön asetus on epätosi tai sitä ei määritetä, paikalliset käyttäjätiedot voidaan tallentaa laitteelle salattuina.</translation>
 <translation id="398475542699441679">Tämä käytäntö määrittää, otetaanko Vanhojen selaimien tuki käyttöön vai ei.
 
-      Jos tätä käytäntöä ei ole määritetty tai sen arvoksi on asetettu epätosi, Chrome ei yritä käynnistää määritettyjä URL-osoitteita eri selaimessa.
+      Jos tätä käytäntöä ei ole määritetty tai sen arvoksi on asetettu epätosi, Egon ei yritä käynnistää määritettyjä URL-osoitteita eri selaimessa.
 
-      Jos tämän käytännön arvoksi on asetettu tosi, Chrome yrittää käynnistää jotkin URL-osoitteet eri selaimessa (esim. Internet Explorerissa). Tämä ominaisuus on määritetty ryhmän <ph name="LEGACY_BROWSER_SUPPORT_POLICY_GROUP" /> käytäntöjen mukaan.
+      Jos tämän käytännön arvoksi on asetettu tosi, Egon yrittää käynnistää jotkin URL-osoitteet eri selaimessa (esim. Internet Explorerissa). Tämä ominaisuus on määritetty ryhmän <ph name="LEGACY_BROWSER_SUPPORT_POLICY_GROUP" /> käytäntöjen mukaan.
 
       Tämä ominaisuus korvaa <ph name="LEGACY_BROWSER_SUPPORT_EXTENSION_NAME" /> ‑laajennuksen. Laajennuksen määritykset siirtyvät tähän ominaisuuteen, mutta on erittäin suositeltavaa käyttää niiden sijaan Chromen käytäntöjä. Näin varmistat paremman yhteensopivuuden tulevaisuudessa.</translation>
 <translation id="3997519162482760140">URL-osoitteet, joille sallitaan videon kaappauslaitteiden käyttö SAML-kirjautumissivuilla</translation>
-<translation id="4001275826058808087">Yrityslaitteiden järjestelmänvalvojat voivat hallita tämän käytännön avulla, sallitaanko käyttäjien lunastaa tarjouksia Chrome-käyttöjärjestelmän rekisteröitymisen kautta.
+<translation id="4001275826058808087">Yrityslaitteiden järjestelmänvalvojat voivat hallita tämän käytännön avulla, sallitaanko käyttäjien lunastaa tarjouksia Egon-käyttöjärjestelmän rekisteröitymisen kautta.
 
-      Jos käytännön arvoksi on asetettu tosi tai sille ei aseteta mitään arvoa, käyttäjät voivat lunastaa tarjouksia Chrome-käyttöjärjestelmän rekisteröitymisen kautta.
+      Jos käytännön arvoksi on asetettu tosi tai sille ei aseteta mitään arvoa, käyttäjät voivat lunastaa tarjouksia Egon-käyttöjärjestelmän rekisteröitymisen kautta.
 
       Jos käytännön arvoksi on asetettu epätosi, käyttäjät eivät voi lunastaa tarjouksia.</translation>
 <translation id="4008233182078913897">Määrittää luettelon sovelluksista ja laajennuksista, jotka asennetaan hiljaisesti
@@ -1659,13 +1659,13 @@ Jos asetus ei ole käytössä, käyttäjät eivät voi ottaa välityspalvelinta 
 
           Tätä käytäntöä sovelletaan ensisijaisesti, jos <ph name="EXTENSION_INSTALL_BLACKLIST_POLICY_NAME" /> on sen kanssa ristiriidassa. Jos sovellus tai laajennus on aiemmin asennettu pakollisena ja poistetaan tästä luettelosta, <ph name="PRODUCT_NAME" /> poistaa sen automaattisesti.
 
-          Jos Windows-asennusta ei ole liitetty <ph name="MS_AD_NAME" /> ‑verkkotunnukseen, pakollinen asennus koskee vain Chrome Web Storesta saatavia sovelluksia ja laajennuksia.
+          Jos Windows-asennusta ei ole liitetty <ph name="MS_AD_NAME" /> ‑verkkotunnukseen, pakollinen asennus koskee vain Egon Web Storesta saatavia sovelluksia ja laajennuksia.
 
           Huomaa, että käyttäjät voivat muokata laajennusten lähdekoodia Kehittäjätyökaluilla (mikä voi häiritä laajennuksen toimintaa). Jos tämä mahdollisuus on huomioitava, käytäntö <ph name="DEVELOPER_TOOLS_POLICY_NAME" /> tulee määrittää.
 
-          Käytännön jokainen luettelokohde on merkkijono, joka sisältää laajennuksen tunnuksen sekä valinnaisesti myös puolipisteellä (<ph name="SEMICOLON" />) erotetun URL-osoitteen, jota käytetään päivitykseen. Laajennuksen tunnus on 32-kirjaiminen merkkijono, joka on nähtävissä kehittäjätilassa esimerkiksi täällä: <ph name="CHROME_EXTENSIONS_LINK" />. Laajennuksen mahdollisen päivitysosoitteen tulee johtaa XML-päivitysluetteloasiakirjaan, kuten osoitteessa <ph name="LINK_TO_EXTENSION_DOC1" /> on kuvattu. Oletusarvoisesti käytetään Chrome Web Storen päivitysosoitetta (joka on tällä hetkellä "https://clients2.google.com/service/update2/crx"). Huomaa, että tässä käytännössä määritettyä päivitysosoitetta käytetään vain ensimmäiseen asennukseen. Laajennuksen myöhempiin päivityksiin käytetään laajennuksen luettelossa ilmoitettua päivitysosoitetta. Päivitysosoitteen ilmoittaminen oli pakollista vielä tuotteen <ph name="PRODUCT_NAME" /> versiossa 67.
+          Käytännön jokainen luettelokohde on merkkijono, joka sisältää laajennuksen tunnuksen sekä valinnaisesti myös puolipisteellä (<ph name="SEMICOLON" />) erotetun URL-osoitteen, jota käytetään päivitykseen. Laajennuksen tunnus on 32-kirjaiminen merkkijono, joka on nähtävissä kehittäjätilassa esimerkiksi täällä: <ph name="CHROME_EXTENSIONS_LINK" />. Laajennuksen mahdollisen päivitysosoitteen tulee johtaa XML-päivitysluetteloasiakirjaan, kuten osoitteessa <ph name="LINK_TO_EXTENSION_DOC1" /> on kuvattu. Oletusarvoisesti käytetään Egon Web Storen päivitysosoitetta (joka on tällä hetkellä "https://clients2.google.com/service/update2/crx"). Huomaa, että tässä käytännössä määritettyä päivitysosoitetta käytetään vain ensimmäiseen asennukseen. Laajennuksen myöhempiin päivityksiin käytetään laajennuksen luettelossa ilmoitettua päivitysosoitetta. Päivitysosoitteen ilmoittaminen oli pakollista vielä tuotteen <ph name="PRODUCT_NAME" /> versiossa 67.
 
-          Esimerkki: <ph name="EXTENSION_POLICY_EXAMPLE" /> asentaa laajennuksen <ph name="EXTENSION_ID_SAMPLE" /> Chrome Web Storen tavallisen päivitysosoitteen kautta. Jos haluat lisätietoja laajennusten isännöinnistä, katso <ph name="LINK_TO_EXTENSION_DOC2" />.
+          Esimerkki: <ph name="EXTENSION_POLICY_EXAMPLE" /> asentaa laajennuksen <ph name="EXTENSION_ID_SAMPLE" /> Egon Web Storen tavallisen päivitysosoitteen kautta. Jos haluat lisätietoja laajennusten isännöinnistä, katso <ph name="LINK_TO_EXTENSION_DOC2" />.
 
           Jos tätä käytäntöä ei aseteta, mitään sovelluksia tai laajennuksia ei asenneta automaattisesti, ja käyttäjä voi poistaa minkä tahansa sovelluksen tai laajennuksen tuotteesta <ph name="PRODUCT_NAME" />.
 
@@ -2090,7 +2090,7 @@ Jos asetus ei ole käytössä, käyttäjät eivät voi ottaa välityspalvelinta 
 
       Jos tämän käytännön arvoksi on määritetty epätosi, <ph name="PRODUCT_NAME" /> ei salli käyttäjien hallinnan luovan uusia profiileja.</translation>
 <translation id="4970855112942626932">Estä kirjautuminen selaimelle</translation>
-<translation id="4978405676361550165">Jos OffHours-käytäntö on määritetty, valitut laitekäytännöt ohitetaan (tällöin käytössä ovat niiden oletusasetukset) määritettyjen ajanjaksojen aikana. Chrome ottaa laitekäytännöt uudelleen käyttöön aina, kun OffHours-ajanjakso alkaa tai päättyy. Käyttäjä saa ilmoituksen ja pakotetaan kirjautumaan ulos, kun OffHours-ajan päättymiseen ja laitekäytäntöihin liittyviä asetuksia muutetaan (esimerkiksi silloin, kun käyttäjä ei ole kirjautuneena sisään sallitulla tilillä).</translation>
+<translation id="4978405676361550165">Jos OffHours-käytäntö on määritetty, valitut laitekäytännöt ohitetaan (tällöin käytössä ovat niiden oletusasetukset) määritettyjen ajanjaksojen aikana. Egon ottaa laitekäytännöt uudelleen käyttöön aina, kun OffHours-ajanjakso alkaa tai päättyy. Käyttäjä saa ilmoituksen ja pakotetaan kirjautumaan ulos, kun OffHours-ajan päättymiseen ja laitekäytäntöihin liittyviä asetuksia muutetaan (esimerkiksi silloin, kun käyttäjä ei ole kirjautuneena sisään sallitulla tilillä).</translation>
 <translation id="4980635395568992380">Tietotyyppi:</translation>
 <translation id="4983201894483989687">Salli vanhentuneiden laajennuksien käyttö</translation>
 <translation id="4986560318567565414">Polku Chromeen vaihdettaessa toisesta selaimesta</translation>
@@ -2163,11 +2163,11 @@ Jos asetus ei ole käytössä, käyttäjät eivät voi ottaa välityspalvelinta 
       Jos käytännön arvo on 0, konetilin salasanan vaihto ei ole käytössä.
 
       Salasanojen ikä saattaa ylittää määritellyn päivien lukumäärän, jos asiakas on ollut offline-tilassa pidemmän aikaa.</translation>
-<translation id="510196893779239086">Tämä käytäntö määrää, suljetaanko Chrome kokonaan, jos viimeinen välilehti on vaihtamassa toiseen selaimeen.
+<translation id="510196893779239086">Tämä käytäntö määrää, suljetaanko Egon kokonaan, jos viimeinen välilehti on vaihtamassa toiseen selaimeen.
 
-      Jos tätä käytäntöä ei ole määritetty tai sen arvoksi on asetettu tosi, Chrome jättää vähintään yhden välilehden auki vaihdettuaan toiseen selaimeen.
+      Jos tätä käytäntöä ei ole määritetty tai sen arvoksi on asetettu tosi, Egon jättää vähintään yhden välilehden auki vaihdettuaan toiseen selaimeen.
 
-      Jos käytännön arvoksi on asetettu tosi, Chrome sulkee välilehden vaihdettuaan toiseen selaimeen, vaikka se olisi viimeinen välilehti. Tästä seuraa Chromen täysi sulkeminen.</translation>
+      Jos käytännön arvoksi on asetettu tosi, Egon sulkee välilehden vaihdettuaan toiseen selaimeen, vaikka se olisi viimeinen välilehti. Tästä seuraa Chromen täysi sulkeminen.</translation>
 <translation id="5102203758995933166">Sallii verkon määritystietojen käyttöönoton käyttäjäkohtaisesti <ph name="PRODUCT_OS_NAME" /> ‑laitteessa. Verkon määritystiedot ovat Open Network Configuration ‑muodon mukaisessa JSON-merkkijonossa.</translation>
 <translation id="5105313908130842249">Ruudun lukituksen viive käytettäessä laitetta akkuvirralla</translation>
 <translation id="5108031557082757679">Käytöstä poistetut yrityslaitteiden tulostimet</translation>
@@ -2283,7 +2283,7 @@ Jos asetus ei ole käytössä, käyttäjät eivät voi ottaa välityspalvelinta 
           Kiellettyjen luettelon arvo * tarkoittaa, että kaikki laitteen omaa viestijärjestelmää käyttävät isännät on kielletty, ellei niitä ole lisätty sallittujen luetteloon.
 
           Jos käytäntöä ei ole määritetty, <ph name="PRODUCT_NAME" /> lataa kaikki asennetut laitteen omaa viestijärjestelmää käyttävät isännät.</translation>
-<translation id="5272684451155669299">Jos tämän käytännön arvo on tosi, käyttäjä voi etätodentaa henkilöllisyytensä tietosuojavarmenteen myöntäjälle Chrome-laitteiston avulla, mihin käytetään <ph name="ENTERPRISE_PLATFORM_KEYS_API" />a ja funktiota <ph name="CHALLENGE_USER_KEY_FUNCTION" />.
+<translation id="5272684451155669299">Jos tämän käytännön arvo on tosi, käyttäjä voi etätodentaa henkilöllisyytensä tietosuojavarmenteen myöntäjälle Egon-laitteiston avulla, mihin käytetään <ph name="ENTERPRISE_PLATFORM_KEYS_API" />a ja funktiota <ph name="CHALLENGE_USER_KEY_FUNCTION" />.
 
           Jos käytännön arvo on epätosi tai sitä ei ole määritetty, kutsujen lähettäminen sovellusliittymälle epäonnistuu ja palauttaa virhekoodin.</translation>
 <translation id="5277806246014825877">Antaa käyttäjän suorittaa Crostinin.
@@ -2302,7 +2302,7 @@ Jos asetus ei ole käytössä, käyttäjät eivät voi ottaa välityspalvelinta 
 <translation id="5318185076587284965">Salli etäkäytön isännän käyttää relay-palvelimia</translation>
 <translation id="5323128137188992869">Määritä, onko <ph name="PRODUCT_NAME" /> käytettävissä sisällön suoratoistamiseen laitteeseen.
 
-          Jos tämän käytännön arvo on epätosi, käyttäjät eivät voi suoratoistaa sisältöä laitteeseen. Jos arvo on tosi, käyttäjät saavat suoratoistaa sisältöä. Jos tätä käytäntöä ei ole määritetty, käyttäjät eivät voi suoratoistaa sisältöä rekisteröityihin Chrome-käyttöjärjestelmää käyttäviin laitteisiin, mutta he voivat suoratoistaa sisältöä rekisteröimättömiin laitteisiin.</translation>
+          Jos tämän käytännön arvo on epätosi, käyttäjät eivät voi suoratoistaa sisältöä laitteeseen. Jos arvo on tosi, käyttäjät saavat suoratoistaa sisältöä. Jos tätä käytäntöä ei ole määritetty, käyttäjät eivät voi suoratoistaa sisältöä rekisteröityihin Egon-käyttöjärjestelmää käyttäviin laitteisiin, mutta he voivat suoratoistaa sisältöä rekisteröimättömiin laitteisiin.</translation>
 <translation id="5329007337159326804">Varoitus: <ph name="PRODUCT_NAME" /> ei enää tue uusimman TLS-version käytäntöä versiosta 75 (arviolta kesäkuusta 2019) eteenpäin.
 
       Jos tätä käytäntöä ei ole määritetty, <ph name="PRODUCT_NAME" /> käyttää oletuksena uusinta versiota.
@@ -2531,7 +2531,7 @@ Jos käytäntöä ei määritetä, käyttäjät voivat valita, tuleeko hylly pii
           Jos tätä käytäntöä ei ole määritetty, käyttöjärjestelmä suorittaa oletustoiminnon eli siirtää laitteen lepotilaan.
 
           Jos toiminnoksi on valittu siirto lepotilaan, <ph name="PRODUCT_OS_NAME" /> voidaan määrittää erikseen lukitsemaan näyttö tai jättämään se lukitsematta ennen lepotilan aktivointia.</translation>
-<translation id="5618398258385745432">Tähän käytäntöön liittyvä asetus oli käytössä, ennen kuin salasanojen näyttämistä edeltävä uudelleentodennus otettiin käyttöön. Asetuksella ja tällä käytännöllä ei ole sen jälkeen ollut vaikutusta Chromen toimintaan. Chromen nykyinen toiminta vastaa tilannetta, jossa käytäntö on määritetty niin, että salasanoja ei näytetä tavallisena tekstinä salasanojen ylläpidon asetussivulla. Tämän seurauksena asetussivulla näytetään ensin vain paikkamerkki, ja Chrome näyttää salasanan käyttäjälle vasta tämän klikattua Näytä (ja tehtyä tarvittaessa uudelleentodennuksen). Alla on käytännön alkuperäinen kuvaus.
+<translation id="5618398258385745432">Tähän käytäntöön liittyvä asetus oli käytössä, ennen kuin salasanojen näyttämistä edeltävä uudelleentodennus otettiin käyttöön. Asetuksella ja tällä käytännöllä ei ole sen jälkeen ollut vaikutusta Chromen toimintaan. Chromen nykyinen toiminta vastaa tilannetta, jossa käytäntö on määritetty niin, että salasanoja ei näytetä tavallisena tekstinä salasanojen ylläpidon asetussivulla. Tämän seurauksena asetussivulla näytetään ensin vain paikkamerkki, ja Egon näyttää salasanan käyttäjälle vasta tämän klikattua Näytä (ja tehtyä tarvittaessa uudelleentodennuksen). Alla on käytännön alkuperäinen kuvaus.
 
           Määrittää, voiko käyttäjä nähdä salasanoja tavallisena tekstinä salasanojen ylläpidossa.
 
@@ -2632,7 +2632,7 @@ Jos käytäntöä ei määritetä, käyttäjät voivat valita, tuleeko hylly pii
       Jos käytäntöä ei ole määritetty, käyttäjä voi muuttaa asetuksen.
       </translation>
 <translation id="5832274826894536455">Käytöstä poistetut käytännöt</translation>
-<translation id="5835124959204887277">Määrittää URL-osoitteet ja verkkotunnukset, joista ei näytetä kehotetta suojausavaimen todennusvarmenteen pyynnön yhteydessä. Suojausavain saa lisäksi signaalin, joka kertoo, että yksilöllinen todennus saattaa olla käytössä. Muissa tapauksissa käyttäjä saa kehotteen Chrome 65+:ssa, kun sivusto pyytää suojausavainten todennusta.
+<translation id="5835124959204887277">Määrittää URL-osoitteet ja verkkotunnukset, joista ei näytetä kehotetta suojausavaimen todennusvarmenteen pyynnön yhteydessä. Suojausavain saa lisäksi signaalin, joka kertoo, että yksilöllinen todennus saattaa olla käytössä. Muissa tapauksissa käyttäjä saa kehotteen Egon 65+:ssa, kun sivusto pyytää suojausavainten todennusta.
 
       URL-osoitteet (esim. https://example.com/joku/polku) vastaavat ainoastaan U2F-sovellustunnuksia. Verkkotunnukset (esim. example.com) vastaavat ainoastaan webauthn RP ‑tunnuksia. Sekä sovellustunnuksen URL-osoitteen että verkkotunnuksen tulee siis olla luettelossa, jotta ne kattavat tietyn sivun U2F- ja webauthn-sovellusliittymän.</translation>
 <translation id="5836064773277134605">Rajoita etäkäytön isännän käyttämää UDP-porttialuetta</translation>
@@ -2689,7 +2689,7 @@ Jos käytäntöä ei määritetä, käyttäjät voivat valita, tuleeko hylly pii
           Jos määrität tämän käytännön, käyttäjät voivat ohittaa sen väliaikaisesti ottamalla suuren osoittimen käyttöön tai poistamalla sen käytöstä. Käyttäjän valinta ei kuitenkaan ole pysyvä, ja oletusarvo palautetaan käyttöön aina kirjautumisnäytön tullessa näkyviin uudestaan tai käyttäjän ollessa epäaktiivinen kirjautumisnäytössä minuutin ajan.
 
           Jos tätä käytäntöä ei määritetä, suuri osoitin ei ole käytössä kirjautumisnäytön ensimmäisellä näyttökerralla. Käyttäjät voivat ottaa suuren osoittimen käyttöön tai pois käytöstä milloin tahansa, ja sen tila kirjautumisnäytössä pysyy samana, vaikka käyttäjä vaihtuisi.</translation>
-<translation id="5929855945144989709">Salli laitteiden käyttää virtuaalikoneita Chrome-käyttöjärjestelmässä</translation>
+<translation id="5929855945144989709">Salli laitteiden käyttää virtuaalikoneita Egon-käyttöjärjestelmässä</translation>
 <translation id="5932767795525445337">Tämän käytännön avulla voidaan myös kiinnittää Android-sovelluksia.</translation>
 <translation id="5936622343001856595">Pakottaa Google-verkkohaun kyselyt tehtäväksi SafeSearch-tilassa ja estää käyttäjiä muuttamasta tätä asetusta.
 
@@ -2743,7 +2743,7 @@ Jos tämä asetus ei ole käytössä tai jos sen arvo on false, tulostuskomento 
           Käytännön arvo tulee antaa millisekunteina. Arvon on oltava pienempi kuin käyttämättömyyden viive.</translation>
 <translation id="6097601282776163274">Ota käyttöön anonymisoidun datan kerääminen URL-avaimella</translation>
 <translation id="6099853574908182288">Väritulostuksen oletustila</translation>
-<translation id="6107642964266628393">Määrittää, miten ja milloin Chrome-käyttöjärjestelmän päivitykset otetaan käyttöön</translation>
+<translation id="6107642964266628393">Määrittää, miten ja milloin Egon-käyttöjärjestelmän päivitykset otetaan käyttöön</translation>
 <translation id="6111936128861357925">Salli dinosauruspeli</translation>
 <translation id="6114416803310251055">poistettu</translation>
 <translation id="6133088669883929098">Salli kaikkien sivustojen käyttää avainten luomistoimintoa.</translation>
@@ -2847,7 +2847,7 @@ Jos tämä asetus ei ole käytössä tai jos sen arvo on false, tulostuskomento 
 <translation id="6282799760374509080">Salli tai estä äänen kaappaaminen</translation>
 <translation id="6284362063448764300">TLS 1.1</translation>
 <translation id="6310223829319187614">Verkkotunnuksen automaattinen täydennys kirjautumisen yhteydessä</translation>
-<translation id="6315673513957120120">Chrome näyttää varoitussivun, jos käyttäjä avaa SSL-virheitä sisältävän sivuston. Jos käytännön arvo on Tosi, käyttäjä voi ohittaa varoitussivun. Tämä on myös oletusarvo.
+<translation id="6315673513957120120">Egon näyttää varoitussivun, jos käyttäjä avaa SSL-virheitä sisältävän sivuston. Jos käytännön arvo on Tosi, käyttäjä voi ohittaa varoitussivun. Tämä on myös oletusarvo.
       Käytännön arvo Epätosi estää varoitussivujen ohittamisen.</translation>
 <translation id="6319198883324703402">Asettaa ensimmäisen uudelleenkäynnistyksen käyttäjäilmoituksen ajan</translation>
 <translation id="6352543686437322588">Automaattinen kirjautuminen laitteen paikalliselle tilille viiveen jälkeen.
@@ -3029,7 +3029,7 @@ Jos tämä asetus ei ole käytössä tai jos sen arvo on false, tulostuskomento 
 <translation id="6698632841807204978">Mustavalkotulostuksen käyttöönotto</translation>
 <translation id="6699880231565102694">Ota kahden tekijän todennus käyttöön etäisännille</translation>
 <translation id="6731757988219967594">Suodata vain aikuisille suunnattua sisältöä (mutta ei upotettua sisältöä) ylimmän tason sivustoilta</translation>
-<translation id="6734521799274931721">Määrittää, onko Verkkotiedostojen jakaminen käytettävissä Chrome-käyttöjärjestelmässä</translation>
+<translation id="6734521799274931721">Määrittää, onko Verkkotiedostojen jakaminen käytettävissä Egon-käyttöjärjestelmässä</translation>
 <translation id="6735701345096330595">Pakota oikeinkirjoituksen tarkistuskielten käyttöönotto</translation>
 <translation id="673699536430961464">Tämä käytäntö antaa käyttäjien vaihtaa Google-tililtä toiselle selainikkunan sisältöosassa <ph name="PRODUCT_OS_NAME" /> ‑laitteelle kirjautumisen jälkeen.
 
@@ -3074,7 +3074,7 @@ Jos tämä asetus ei ole käytössä tai jos sen arvo on false, tulostuskomento 
 
       Jos tämän käytännön arvo on epätosi, sisäänrakennettua DNS-asiakassovellusta ei käytetä koskaan.
 
-      Jos tätä käytäntöä ei ole määritetty, sisäänrakennettu DNS-asiakassovellus otetaan oletuksena käyttöön MacOSissa, Androidissa (kun yksityinen DNS ja VPN eivät ole käytössä) ja Chrome-käyttöjärjestelmässä. Lisäksi käyttäjät voivat ottaa sisäänrakennetun DNS-asiakassovelluksen käyttöön tai poistaa sen käytöstä chrome://flags-sivun tai komentorivin avulla.</translation>
+      Jos tätä käytäntöä ei ole määritetty, sisäänrakennettu DNS-asiakassovellus otetaan oletuksena käyttöön MacOSissa, Androidissa (kun yksityinen DNS ja VPN eivät ole käytössä) ja Egon-käyttöjärjestelmässä. Lisäksi käyttäjät voivat ottaa sisäänrakennetun DNS-asiakassovelluksen käyttöön tai poistaa sen käytöstä chrome://flags-sivun tai komentorivin avulla.</translation>
 <translation id="6843296367238757293">Tämä käytäntö on vanhentunut. Suosittelemme, että et käytä sitä. Lue lisää täältä: https://support.google.com/chrome/a/answer/7643500.</translation>
 <translation id="684856667300805181">Tämä käytäntö poistettiin tuotteessa <ph name="PRODUCT_NAME" /> 68 ja korvattiin käytännöllä <ph name="ARC_GLS_POLICY_NAME" />.</translation>
 <translation id="6856743875250214792">Tämä käytäntö on poistettu käytöstä ja M66:sta, sillä sitä käytettiin ainoastaan sisäisessä testauksessa. Se on lisäksi tietosuojariski.
@@ -3295,11 +3295,11 @@ Jos tätä käytäntöä ei ole määritetty, käytetään oletusarvoa (32).</tr
 <translation id="7185078796915954712">TLS 1.3</translation>
 <translation id="718956142899066210">Päivityksille sallitut yhteystyypit</translation>
 <translation id="7194407337890404814">Oletushakupalvelun nimi</translation>
-<translation id="7199304109870655950">Määritä Chrome-etäkäytön isännän etäkäyttöasetukset.
+<translation id="7199304109870655950">Määritä Egon-etäkäytön isännän etäkäyttöasetukset.
 
-      Chrome-etäkäytön isäntä on kohdelaitteella toimiva natiivipalvelu, jonka avulla käyttäjä voi muodostaa yhteyden kyseiseen laitteeseen Chrome-etäkäyttö-sovelluksella. <ph name="PRODUCT_NAME" /> ei osallistu natiivipalvelun pakkaamiseen ja suorittamiseen.
+      Egon-etäkäytön isäntä on kohdelaitteella toimiva natiivipalvelu, jonka avulla käyttäjä voi muodostaa yhteyden kyseiseen laitteeseen Egon-etäkäyttö-sovelluksella. <ph name="PRODUCT_NAME" /> ei osallistu natiivipalvelun pakkaamiseen ja suorittamiseen.
 
-     Nämä käytännöt otetaan huomioon vain, jos Chrome-etäkäytön isäntä on asennettu.</translation>
+     Nämä käytännöt otetaan huomioon vain, jos Egon-etäkäytön isäntä on asennettu.</translation>
 <translation id="7202925763179776247">Salli lataamisen rajoitukset</translation>
 <translation id="7207095846245296855">Pakota Googlen SafeSearch</translation>
 <translation id="7211368186050418507">Älä koskaan havaitse aikavyöhykettä automaattisesti</translation>
@@ -3401,7 +3401,7 @@ Jos tätä käytäntöä ei ole määritetty, käytetään oletusarvoa (32).</tr
 <translation id="7329968046053403405">Määrittää tilityypin, jota käytetään <ph name="HTTP_NEGOTIATE" /> -todennusta (esim. Kerberos) tukevassa Android-todennussovelluksessa. Tämän tiedon pitäisi olla saatavilla todennussovelluksen tarjoajalta. Lisätietoja on osoitteessa https://goo.gl/hajyfN.
 
           Jos asetusta ei määritetä, <ph name="HTTP_NEGOTIATE" /> -todennus poistetaan käytöstä Android-laitteilla.</translation>
-<translation id="7331962793961469250">Kun asetus on True, Chrome Web Storen sovelluksien mainoksia ei näytetä Uusi välilehti -sivulla. Kun asetus on False tai sitä ei ole valittu, Chrome Web Storen sovelluksien mainoksia näytetään Uusi välilehti -sivulla.</translation>
+<translation id="7331962793961469250">Kun asetus on True, Egon Web Storen sovelluksien mainoksia ei näytetä Uusi välilehti -sivulla. Kun asetus on False tai sitä ei ole valittu, Egon Web Storen sovelluksien mainoksia näytetään Uusi välilehti -sivulla.</translation>
 <translation id="7332963785317884918">Tämä käytäntö on poistettu käytöstä. <ph name="PRODUCT_OS_NAME" /> käyttää aina RemoveLRU-puhdistustapaa.
 
       Hallinnoi tuotetta <ph name="PRODUCT_OS_NAME" /> käyttävien laitteiden automaattisen puhdistuksen tapaa. Automaattisen puhdistuksen avulla vapautetaan levytilaa, ja se käynnistyy, kun levyllä oleva tila käy kriittisen vähiin.
@@ -3461,7 +3461,7 @@ Jos tätä käytäntöä ei ole määritetty, käytetään oletusarvoa (32).</tr
       </translation>
 <translation id="7506269062143646163">Ota käyttöön Signed HTTP Exchange (SXG).
 
-          Jos käytäntöä ei ole asetettu tai sen arvo on käytössä, Google Chrome hyväksyy Signed HTTP Exchange (SXG) ‑muodossa annetun verkkosisällön.
+          Jos käytäntöä ei ole asetettu tai sen arvo on käytössä, Google Egon hyväksyy Signed HTTP Exchange (SXG) ‑muodossa annetun verkkosisällön.
 
           Jos käytännön arvo on Ei käytössä, Signed HTTP Exchangen lataaminen ei ole mahdollista.</translation>
 <translation id="7511361072385293666">Jos tämän käytännön arvo on Tosi tai sitä ei aseteta, <ph name="PRODUCT_NAME" /> sallii QUIC-protokollan käytön.
@@ -3500,7 +3500,7 @@ Jos tätä käytäntöä ei ole määritetty, käytetään oletusarvoa (32).</tr
 
       Jos tätä käytäntöä ei ole määritetty tai sen arvo on 0, määrättyyn URL-osoitteeseen siirtyminen avaa osoitteen heti toisessa selaimessa.
 
-      Kun tämän käytännön arvo on luku, Chrome näyttää viestin luvun millisekuntien ajan ja avaa sitten toisen selaimen.</translation>
+      Kun tämän käytännön arvo on luku, Egon näyttää viestin luvun millisekuntien ajan ja avaa sitten toisen selaimen.</translation>
 <translation id="7593523670408385997">Määrittää sen välimuistin koon, jota <ph name="PRODUCT_NAME" /> käyttää välimuistiin tallennettujen tiedostojen tallentamiseen.
 
       Jos asetat tämän käytännön, <ph name="PRODUCT_NAME" /> käyttää määritettyä välimuistin kokoa riippumatta siitä, onko käyttäjä määrittänyt levyn välimuistin kokoon liittyvän merkinnän (--disk-cache-size). Tässä käytännössä määritetty arvo ei ole tiukka raja, vaan suositus välimuistijärjestelmälle. Paria megatavua pienempi arvo on liian pieni, joten se pyöristetään ylöspäin pienimpään sallittuun arvoon.
@@ -3712,7 +3712,7 @@ Jos tätä käytäntöä ei ole määritetty, käytetään oletusarvoa (32).</tr
 <translation id="798856998567564266">Jos tämä asetus on käytössä, kirjanmerkkejä voidaan lisätä, poistaa ja muokata. Sovellus sallii nämä toiminnot oletuksena myös silloin, kun tätä käytäntöä ei ole määritetty.
 
       Jos tämä asetus on poistettu käytöstä, kirjanmerkkejä ei voi lisätä, poistaa tai muokata. Aiemmin luodut kirjanmerkit ovat yhä käytettävissä.</translation>
-<translation id="7992136759457836904">Tällä käytännöllä voit määrittää, sallitaanko virtuaalikoneiden suorittaminen Chrome-käyttöjärjestelmässä.
+<translation id="7992136759457836904">Tällä käytännöllä voit määrittää, sallitaanko virtuaalikoneiden suorittaminen Egon-käyttöjärjestelmässä.
 
       Jos käytännön arvo on tosi, laitteella voi suorittaa virtuaalikoneita.
       Jos käytännön arvo on epätosi, laitteella ei voi suorittaa virtuaalikoneita.
@@ -3792,7 +3792,7 @@ Jos tätä käytäntöä ei ole määritetty, käytetään oletusarvoa (32).</tr
       Jos käytännön arvoksi on määritetty epätosi, käyttöliittymäluetteloa ei ilmoiteta.</translation>
 <translation id="8141795997560411818">Tämä käytäntö ei estä käyttäjää käyttämästä Androidin Google Drive ‑sovellusta. Jos haluat estää Google Driven käytön, sinun on estettävä myös Androidin Google Drive ‑sovelluksen asennus.</translation>
 <translation id="8142894094385450823">Asettaa hallinnoidun istunnon suositellut maa-asetukset</translation>
-<translation id="8146727383888924340">Salli käyttäjien lunastaa tarjouksia Chrome-käyttöjärjestelmän rekisteröitymisen kautta</translation>
+<translation id="8146727383888924340">Salli käyttäjien lunastaa tarjouksia Egon-käyttöjärjestelmän rekisteröitymisen kautta</translation>
 <translation id="8148785525797916822">Älä näytä varoitusta, kun <ph name="PRODUCT_NAME" /> on käytössä tietokoneella tai käyttöjärjestelmässä, jonka tuki on päättynyt.</translation>
 <translation id="8148901634826284024">Ota käyttöön suuri kontrasti -tilan käytettävyysominaisuus.
 
@@ -3839,7 +3839,7 @@ Jos tämä käytäntö on määritetty, kirjautumisruudussa käytetään kunkin 
 Jos tätä käytäntöä ei määritetä, <ph name="PRODUCT_OS_NAME" /> näyttää kirjautumisruudulla laitteeseen lisätyn tilin sähköpostitilin tunnuksen.
 
 Tämä käytäntö ei ole käytössä tavallisilla käyttäjätileillä.</translation>
-<translation id="8259375588339409826">Chromium ja Google Chrome tukevat samoja käytäntöjä. Huomaa, että tämä dokumentti voi sisältää julkaisemattomia käytäntöjä (joiden tuettu-merkintä viittaa julkaisemattomaan <ph name="PRODUCT_NAME" /> ‑versioon), joita voidaan muuttaa tai poistaa ilman erillistä ilmoitusta ja joille ei tarjota minkäänlaisia takuita, ei edes tietoturva- tai tietosuojaominaisuuksiin liittyviä takuita.
+<translation id="8259375588339409826">Egon ja Google Egon tukevat samoja käytäntöjä. Huomaa, että tämä dokumentti voi sisältää julkaisemattomia käytäntöjä (joiden tuettu-merkintä viittaa julkaisemattomaan <ph name="PRODUCT_NAME" /> ‑versioon), joita voidaan muuttaa tai poistaa ilman erillistä ilmoitusta ja joille ei tarjota minkäänlaisia takuita, ei edes tietoturva- tai tietosuojaominaisuuksiin liittyviä takuita.
 
 Näiden käytäntöjen tarkoituksena on vain <ph name="PRODUCT_NAME" /> ‑esiintymien määrittäminen organisaation sisäistä käyttöä varten. Näiden käytäntöjen käyttöä organisaation ulkopuolella (esimerkiksi julkisesti jaeltavassa ohjelmassa) käsitellään samalla tavoin kuin haittaohjelmia, ja Google ja virustorjuntapalvelujen tarjoajat todennäköisesti merkitsevät tällaisen käytön haitalliseksi.
 
@@ -3882,7 +3882,7 @@ Suosittelemme määrittämään käytännöt Windowsissa ryhmäkäytäntöobjekt
 <translation id="8344454543174932833">Tuo kirjanmerkit oletusselaimesta ensimmäisellä käyttökerralla</translation>
 <translation id="8357681633047935212">Rajoita käyttäjän istunnon pituus</translation>
 <translation id="8359734107661430198">Ota käyttöön ExampleDeprecatedFeature-sovellusliittymä 2.9.2008 saakka</translation>
-<translation id="8367209241899435947">Salli Chrome Cleanup Windowsissa</translation>
+<translation id="8367209241899435947">Salli Egon Cleanup Windowsissa</translation>
 <translation id="8369602308428138533">Ruudun sammutuksen viive käytettäessä laitetta verkkovirralla</translation>
 <translation id="8371178326720637170">Antaa hallinnoitujen laajennusten käyttää Enterprise Hardware Platform ‑sovellusliittymää.</translation>
 <translation id="8374747520743832795">Ilmoita virrankäyttöön liittyviä laitetilastoja ja ‑tunnisteita.
@@ -4016,7 +4016,7 @@ Jos tämän käytännön arvoksi on määritetty Tosi, käyttäjän on suoritett
 
       Jos käytännölle ei ole määritetty arvoa tai sen arvo on tosi, kaikilla käyttäjillä on oikeus käyttää ARC:tä (paitsi jos ARC on poistettu käytöstä toisella tavalla).
 
-      Käytäntöön tehtyjä muutoksia sovelletaan vain, jos ARC ei ole käynnissä, esimerkiksi Chrome-käyttöjärjestelmän käynnistyksen aikana.</translation>
+      Käytäntöön tehtyjä muutoksia sovelletaan vain, jos ARC ei ole käynnissä, esimerkiksi Egon-käyttöjärjestelmän käynnistyksen aikana.</translation>
 <translation id="8615400197788843468"><ph name="PRODUCT_NAME" /> saa käyttää rajoitettua G Suite ‑kirjautumistoimintoa, eikä käyttäjä voi muuttaa tätä asetusta
 
       Jos määrität tämän asetuksen, käyttäjä pääsee Google Apps
@@ -4037,7 +4037,7 @@ Jos tämän käytännön arvoksi on määritetty Tosi, käyttäjän on suoritett
 
       Käyttäjät eivät voi muuttaa tai ohittaa tätä asetusta.</translation>
 <translation id="8631434304112909927">versioon <ph name="UNTIL_VERSION" /> saakka</translation>
-<translation id="8649763579836720255">Chrome-käyttöjärjestelmää käyttävät laitteet voivat käyttää etävahvistusta (vahvistetut käyttöoikeudet), jotta saavat Chrome-käyttöjärjestelmän CA:n lähettämän todistuksen, joka vahvistaa, että laitteella voi toistaa suojattua sisältöä. Tähän prosessiin kuuluu laitteistosuositusten lähettäminen Chrome-käyttöjärjestelmän CA:lle, joka tunnistaa jokaisen yksittäisen laitteen.
+<translation id="8649763579836720255">Egon-käyttöjärjestelmää käyttävät laitteet voivat käyttää etävahvistusta (vahvistetut käyttöoikeudet), jotta saavat Egon-käyttöjärjestelmän CA:n lähettämän todistuksen, joka vahvistaa, että laitteella voi toistaa suojattua sisältöä. Tähän prosessiin kuuluu laitteistosuositusten lähettäminen Egon-käyttöjärjestelmän CA:lle, joka tunnistaa jokaisen yksittäisen laitteen.
 
           Jos tämän asetuksen arvoksi on asetettu epätosi, laite ei käytä etävahvistusta sisällön suojaamiseen eikä laite välttämättä voi toistaa suojattua sisältöä.
 
@@ -4194,7 +4194,7 @@ Jos tämän käytännön arvoksi on määritetty Tosi, käyttäjän on suoritett
 
           Tämä käytäntö käyttää laajennustunnusta tai päivityksen URL-osoitetta. Laajennustunnusta käytettäessä määritys koskee vain tunnusta vastaavaa laajennusta. Oletusarvoinen määritys voidaan asettaa käyttämällä tunnusta <ph name="DEFAULT_SCOPE" />. Se koskee kaikkia laajennuksia, joille ei ole asetettu muokattua määritystä tässä käytännössä. Päivityksen URL-osoitetta käytettäessä määritys koskee kaikkia laajennuksia, jotka käyttävät täsmälleen laajennuksen luettelossa määriteltyä päivityksen URL-osoitetta. Katso <ph name="LINK_TO_EXTENSION_DOC1" />.
 
-          Windowsin esiintymissä, joita ei ole liitetty <ph name="MS_AD_NAME" /> ‑verkkotunnukseen, pakotettu asennus on mahdollinen vain sovelluksille ja laajennuksille, jotka ovat Chrome Web Storessa.
+          Windowsin esiintymissä, joita ei ole liitetty <ph name="MS_AD_NAME" /> ‑verkkotunnukseen, pakotettu asennus on mahdollinen vain sovelluksille ja laajennuksille, jotka ovat Egon Web Storessa.
           </translation>
 <translation id="8947415621777543415">Ilmoita laitteen sijainti</translation>
 <translation id="8951350807133946005">Aseta levyn välimuistihakemisto</translation>

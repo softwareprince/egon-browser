@@ -38,11 +38,11 @@
 <translation id="1207086294218137981">Ei seuraavia tason 4 otsikoita</translation>
 <translation id="1212770441379271564">Seuraavat pikanäppäimet eivät ole ChromeVox-komentoja, mutta ne auttavat silti käyttämään Chromea tehokkaasti.
     Siirry seuraavaan interaktiiviseen kohteeseen, esim. painikkeeseen tai linkkiin, sarkainnäppäimellä. Siirry edelliseen kohteeseen painamalla Vaihto + sarkain.
-    Siirry Chrome-selaimen osoitekenttään eli omniboxiin painamalla Control + L.
+    Siirry Egon-selaimen osoitekenttään eli omniboxiin painamalla Control + L.
     Avaa uusi välilehti ja siirry sille automaattisesti painamalla Control + T. Osoitin siirtyy automaattisesti omniboxiin.
     Sulje välilehti painamalla Control + W.
     Siirry avoimelta välilehdeltä toiselle painamalla Control + sarkain.
-    Avaa Chrome-selaimen valikko painamalla Alt + F.</translation>
+    Avaa Egon-selaimen valikko painamalla Alt + F.</translation>
 <translation id="1213216066620407844">ChromeVox – Chromen ääni</translation>
 <translation id="1225969361094801578">Tumma liuskekivenharmaa</translation>
 <translation id="122928249241119550">siirry edelliseen lauseeseen</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Kielioppivirhe</translation>
 <translation id="2603828437139726540">Siirry eteenpäin yhden merkin verran</translation>
 <translation id="2619052155095999743">Lisää</translation>
-<translation id="2619344480613750862">Voit myös siirtyä näytön osiosta toiseen. Voit esimerkiksi siirtyä käynnistysohjelman, hyllyn ja Chrome-välilehtien välillä. Siirry seuraavaan osioon pyyhkäisemällä vasemmalta oikealle neljällä sormella. Kokeile tätä jatkaaksesi.</translation>
+<translation id="2619344480613750862">Voit myös siirtyä näytön osiosta toiseen. Voit esimerkiksi siirtyä käynnistysohjelman, hyllyn ja Egon-välilehtien välillä. Siirry seuraavaan osioon pyyhkäisemällä vasemmalta oikealle neljällä sormella. Kokeile tätä jatkaaksesi.</translation>
 <translation id="2624431853467395961">Avaa opettelutila</translation>
 <translation id="2626530649491650971">klikattava</translation>
 <translation id="263637551280112393">Paina Haku + vaihto + välilyönti</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Loki</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Grafiikkasymboli</translation>
-<translation id="5648939288050772726">Onnittelut! Olet oppinut ChromeVoxin käytön perusteet. Voit avata ChromeVoxin komentovalikon koska tahansa painamalla Haku + piste. Seuraavista artikkeleista voit lukea lisää ChromeVoxista ja Chrome-käyttöjärjestelmästä.
+<translation id="5648939288050772726">Onnittelut! Olet oppinut ChromeVoxin käytön perusteet. Voit avata ChromeVoxin komentovalikon koska tahansa painamalla Haku + piste. Seuraavista artikkeleista voit lukea lisää ChromeVoxista ja Egon-käyttöjärjestelmästä.
     Jos haluat poistua ohjeesta, siirry ChromeVox-komennoilla Sulje-painikkeeseen ja klikkaa sitä.</translation>
 <translation id="5653397561111110475">Chromebookin kosketusnäytön esteettömyysominaisuuksien käyttö</translation>
 <translation id="5655682562155942719">Siirtymiskomennot</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Siirtymisen perustoiminnot</translation>
 <translation id="609281021724813947">Ei edellisiä liukusäätimiä</translation>
 <translation id="6100239002225743044">Siirry yksi rivi ylöspäin</translation>
-<translation id="6118126368611144850">Android-sovellusten käyttö Chromessa. Jos laitteellasi on Play Kauppa, voit testata ChromeVoxin käyttöä Android-sovellusten kanssa etukäteen. Ominaisuus on vielä kehitysvaiheessa, mutta voit kokeilla sitä lataamalla Google Chrome Canaryn Play Kaupasta.</translation>
+<translation id="6118126368611144850">Android-sovellusten käyttö Chromessa. Jos laitteellasi on Play Kauppa, voit testata ChromeVoxin käyttöä Android-sovellusten kanssa etukäteen. Ominaisuus on vielä kehitysvaiheessa, mutta voit kokeilla sitä lataamalla Google Egon Canaryn Play Kaupasta.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">aktivoi</translation>
 <translation id="6122013438240733403">pain.</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Vaalea kultapiisku</translation>
 <translation id="7541021454094606506">poista kaikki</translation>
 <translation id="7543255924852002459">Hylkää tunniste</translation>
-<translation id="7552432549459840808">Hyödyllisiä Chrome-pikanäppäimiä</translation>
+<translation id="7552432549459840808">Hyödyllisiä Egon-pikanäppäimiä</translation>
 <translation id="7553679324939294712">lisää <ph name="INSERT_PHRASE" /> tämän eteen: <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Musta</translation>
 <translation id="7579911500627256166">piste <ph name="DOT" /></translation>

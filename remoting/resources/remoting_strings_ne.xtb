@@ -33,7 +33,7 @@
 <translation id="2509394361235492552"><ph name="HOSTNAME" /> मा कनेक्ट गरियो</translation>
 <translation id="2540992418118313681">तपाईं अर्को प्रयोगकर्तालाई हेर्न र नियन्त्रणको लागि यस कम्प्युटर साझेदारी गर्न चाहनुहुन्छ?</translation>
 <translation id="2579271889603567289">या त होस्ट क्र्यास भयो वा सुरु हुन सकेन।</translation>
-<translation id="2599300881200251572">यस सेवाले Chrome दूर डेस्कटप ग्राहकहरूबाट आउने जडानहरू सक्षम गर्छ।</translation>
+<translation id="2599300881200251572">यस सेवाले Egon दूर डेस्कटप ग्राहकहरूबाट आउने जडानहरू सक्षम गर्छ।</translation>
 <translation id="2647232381348739934">क्रोमोटिङ सेवा</translation>
 <translation id="2676780859508944670">काम गर्दै...</translation>
 <translation id="2692522824157224199">प्रतिलिपि अधिकार २०२२ Google LLC। सर्वाधिकार सुरक्षित।</translation>
@@ -56,7 +56,7 @@
 <translation id="3596628256176442606">यो सेवाले Chromoting ग्राहकहरूबाट आउने जडानहरूलाई सक्षम बनाउँछ।</translation>
 <translation id="369442766917958684">अफलाइन।</translation>
 <translation id="3695446226812920698">कसरी सिक्नुहोस्</translation>
-<translation id="3776024066357219166">तपाईंको Chrome रिमोट डेस्कटप सत्र समाप्त भएको छ ।</translation>
+<translation id="3776024066357219166">तपाईंको Egon रिमोट डेस्कटप सत्र समाप्त भएको छ ।</translation>
 <translation id="3858860766373142691">नाम</translation>
 <translation id="3897092660631435901">मेनु</translation>
 <translation id="3905196214175737742">अमान्य होस्ट मालिक डोमेन।</translation>
@@ -73,7 +73,7 @@
 <translation id="4257751272692708833"><ph name="PRODUCT_NAME" /> को URL फर्वार्डर</translation>
 <translation id="4277736576214464567">पहुँच कोड अवैध छ। कृपया पुन: प्रयास गर्नुहोस्।</translation>
 <translation id="4281844954008187215">सेवाका सर्तहरू</translation>
-<translation id="4372650392690220936">कपिराइट २०२२ The Chromium Authors। सर्वाधिकार सुरक्षित।</translation>
+<translation id="4372650392690220936">कपिराइट २०२२ The Egon Authors। सर्वाधिकार सुरक्षित।</translation>
 <translation id="4405930547258349619">कोर पुस्तकालय</translation>
 <translation id="443560535555262820">पहुँचसम्बन्धी प्राथमिकताहरू खोल्नुहोस्</translation>
 <translation id="4450893287417543264">फेरि नदेखाउनुहोस्</translation>
@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">रिमोट यन्त्रहरू</translation>
 <translation id="4660011489602794167">किबोर्ड देखाउनुहोस्</translation>
 <translation id="4703799847237267011">तपाईंको Chromoting सत्र समाप्त भएको छ।</translation>
-<translation id="4741792197137897469">प्रमाणीकरण विफल भयो। कृपया फेरि Chrome मा साइन इन गर्नुहोस्।</translation>
+<translation id="4741792197137897469">प्रमाणीकरण विफल भयो। कृपया फेरि Egon मा साइन इन गर्नुहोस्।</translation>
 <translation id="4784508858340177375">या त X सर्भर क्र्यास भयो वा सुरु हुन सकेन।</translation>
 <translation id="4798680868612952294">माउसका विकल्पहरू</translation>
 <translation id="4804818685124855865">जडान विच्छेद</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">PrtScn पठाउनुहोस्</translation>
 <translation id="4974476491460646149"><ph name="HOSTNAME" /> सँगको जडान बन्द गरियो</translation>
 <translation id="4985296110227979402">दूर पहुँचका लागि तपाईँले पहिला आफ्नो कम्प्युटरलाई सेटअप गर्नुपर्छ</translation>
-<translation id="4987330545941822761">Chrome को रिमोट डेस्कटपले कम्प्युटरमा URL खोल्न कुन ब्राउजर प्रयोग गर्ने हो भन्ने कुरा यकिन गर्न सकेन। कृपया तलको सूचीबाट कुनै ब्राउजर छनौट गर्नुहोस्।</translation>
+<translation id="4987330545941822761">Egon को रिमोट डेस्कटपले कम्प्युटरमा URL खोल्न कुन ब्राउजर प्रयोग गर्ने हो भन्ने कुरा यकिन गर्न सकेन। कृपया तलको सूचीबाट कुनै ब्राउजर छनौट गर्नुहोस्।</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (अफलाइन)</translation>
 <translation id="507204348399810022">तपाईं पक्का <ph name="HOSTNAME" /> का दूरवर्ती जडानहरूलाई असक्षम गर्न चाहनुहुन्छ?</translation>
 <translation id="5170982930780719864">अमान्य होस्ट id।</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">खारेज गर्नुहोस्</translation>
 <translation id="5308380583665731573">कनेक्ट गर्नुहोस्</translation>
 <translation id="533625276787323658">जडान गर्नका लागि केही पनि उपलब्ध छैन</translation>
-<translation id="5397086374758643919">Chrome रिमोट डेस्कटप होस्ट अनस्टलर</translation>
+<translation id="5397086374758643919">Egon रिमोट डेस्कटप होस्ट अनस्टलर</translation>
 <translation id="5419418238395129586">पछिल्लोपटक अनलाइन हुनुभएको मिति: <ph name="DATE" /></translation>
 <translation id="544077782045763683">होस्ट बन्द गरिएको छ।</translation>
 <translation id="5601503069213153581">पिन</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">पुन: कनेक्ट गर्नुहोस्</translation>
 <translation id="5810269635982033450">स्क्रिनले ट्र्याकप्याडको काम गर्छ</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> ले तपाईंको कम्प्युटरको स्क्रिन हेर्ने र तपाईंको किबोर्ड र माउस नियन्त्रण गर्ने अनुमति मागेका छन्। उहाँले तपाईंलाई अग्रिम रूपमा जानकारी नगराइकन यो अनुमति मागेका हुन् भने ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />'' थिच्नुहोस्। अथवा तपाईं उहाँलाई तपाईंको कम्प्युटरमा कनेक्ट गर्ने अनुमति दिन तयार हुनुहुन्छ भने ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />'' चयन गर्नुहोस्।</translation>
-<translation id="5823658491130719298">तपाईंले दूरवर्ती रूपमा पहुँच राख्न चाहनुभएको कम्प्युटरमा Chrome खोलेर <ph name="INSTALLATION_LINK" /> मा जानुहोस्‌</translation>
+<translation id="5823658491130719298">तपाईंले दूरवर्ती रूपमा पहुँच राख्न चाहनुभएको कम्प्युटरमा Egon खोलेर <ph name="INSTALLATION_LINK" /> मा जानुहोस्‌</translation>
 <translation id="5841343754884244200">विकल्पहरू देखाउनुहोस्</translation>
 <translation id="6033507038939587647">किबोर्डका विकल्पहरू</translation>
 <translation id="6040143037577758943">बन्द गर्नुहोस्</translation>
 <translation id="6062854958530969723">होस्ट सुरूवात असफल भयो।</translation>
-<translation id="6099500228377758828">Chrome दूर डेस्कटप सेवा</translation>
+<translation id="6099500228377758828">Egon दूर डेस्कटप सेवा</translation>
 <translation id="6122191549521593678">अनलाइन</translation>
 <translation id="6178645564515549384">दुर सहायताका लागि मूल सन्देश होस्ट</translation>
 <translation id="618120821413932081">विन्डोसँग मिल्नसकोस् भन्नका खातिर रिमोट डेस्कटपको रिजोल्युसन अपडेट गर्नुहोस्</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">दूर सहायता</translation>
 <translation id="7026930240735156896">दूरवर्ती पहुँचका लागि आफ्नो कम्प्युटर सेटअप गर्न उक्त निर्देशनहरूको पालना गर्नुहोस्</translation>
 <translation id="7067321367069083429">स्क्रिनले टच स्क्रिनको काम गर्छ</translation>
-<translation id="7116737094673640201">Chrome को रिमोट डेस्कटपमा स्वागत छ</translation>
+<translation id="7116737094673640201">Egon को रिमोट डेस्कटपमा स्वागत छ</translation>
 <translation id="7144878232160441200">पुन: प्रयास गर्नुहोस्</translation>
 <translation id="7312846573060934304">होस्ट अफलाइन छ।</translation>
 <translation id="7319983568955948908">साझा गर्न बन्द गर्नुहोस्</translation>
 <translation id="7359298090707901886">चयन गरिएको ब्राउजर प्रयोग गरी लोकल मेसिनमा URL खोल्न सकिँदैन।</translation>
-<translation id="7401733114166276557">Chrome दूर डेस्कटप</translation>
+<translation id="7401733114166276557">Egon दूर डेस्कटप</translation>
 <translation id="7434397035092923453">ग्राहको लागि पहूँच अस्वीकार गरियो: <ph name="CLIENT_USERNAME" /></translation>
 <translation id="7444276978508498879">जडित ग्राहक: <ph name="CLIENT_USERNAME" />।</translation>
 <translation id="7526139040829362392">खाता परिवर्तन गर्नुहोस्</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">दूर कम्प्युटरको लागि कृपया तपाइँको पिन प्रविष्टि गर्नुहोस्।</translation>
 <translation id="7895403300744144251">दूरवर्ती कम्प्युटरको सुरक्षा नीतिले तपाईँको खाताका जडानहरूलाई अनुमति दिँदैन।</translation>
 <translation id="7936528439960309876">दायाँतिर डक गर्नुहोस्</translation>
-<translation id="7970576581263377361">प्रमाणीकरण विफल भयो। कृपया फेरि Chromium मा साइन इन गर्नुहोस्।</translation>
+<translation id="7970576581263377361">प्रमाणीकरण विफल भयो। कृपया फेरि Egon मा साइन इन गर्नुहोस्।</translation>
 <translation id="7981525049612125370">रिमोट सत्रको म्याद समाप्त भएको छ।</translation>
 <translation id="8038111231936746805">(डिफल्ट)</translation>
 <translation id="8041089156583427627">प्रतिक्रिया पठाउनुहोस्।</translation>
 <translation id="8060029310790625334">मद्दत केन्द्र</translation>
 <translation id="806699900641041263"><ph name="HOSTNAME" /> मा जडान हुँदै</translation>
-<translation id="8073845705237259513">Chrome दूर डेस्कटप प्रयोग गर्नको लागि, तपाइँले तपाइँको यन्त्रमा एउटा Google खाता थप्न आवश्यक छ।</translation>
+<translation id="8073845705237259513">Egon दूर डेस्कटप प्रयोग गर्नको लागि, तपाइँले तपाइँको यन्त्रमा एउटा Google खाता थप्न आवश्यक छ।</translation>
 <translation id="809687642899217504">मेरा कम्प्युटरहरू</translation>
 <translation id="8116630183974937060">नेटवर्क त्रुटि देखापर्यो । कृपया तपाईंको उपकरण अनलाईनमा भएको जाँच गरी पुनः प्रयास गर्नुहोस् ।</translation>
 <translation id="8295077433896346116"><ph name="PRODUCT_NAME" /> प्रयोग गर्न, दूरवर्ती यन्त्रको इनपुट यस Mac मा प्रवेश गराउन सकियोस् भन्नाका लागि तपाईंले 'पहुँच' सम्बन्धी अनुमति दिनु पर्ने हुन्छ।
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">Chromoting प्रयोग गर्न, तपाईँले आफ्नो यन्त्रमा Google खाता थप्न आवश्यक छ।</translation>
 <translation id="8386846956409881180">होस्टलाई अमान्य OAuth प्रमाणहरूमार्फत कन्फिगर गरिएको छ।</translation>
 <translation id="8397385476380433240"><ph name="PRODUCT_NAME" /> लाई अनुमति दिनुहोस्</translation>
-<translation id="8406498562923498210">तपाईंको Chrome को रिमोट डेस्कटप वातावरणभित्र सुरु गर्नु पर्ने सत्र चयन गर्नुहोस्। (केही प्रकारका सत्रहरू Chrome को रिमोट डेस्कटपभित्र र स्थानीय कन्सोलमा एकसाथ चलाउन नमिल्न सक्छ भन्ने कुरा ख्याल गर्नुहोस्।)</translation>
+<translation id="8406498562923498210">तपाईंको Egon को रिमोट डेस्कटप वातावरणभित्र सुरु गर्नु पर्ने सत्र चयन गर्नुहोस्। (केही प्रकारका सत्रहरू Egon को रिमोट डेस्कटपभित्र र स्थानीय कन्सोलमा एकसाथ चलाउन नमिल्न सक्छ भन्ने कुरा ख्याल गर्नुहोस्।)</translation>
 <translation id="8428213095426709021">सेटिङहरू</translation>
 <translation id="8445362773033888690">Google प्ले भण्डारमा हेर्नुहोस्</translation>
 <translation id="8509907436388546015">डेस्कटप समायोजन प्रक्रिया</translation>
@@ -184,13 +184,13 @@
 <translation id="8743328882720071828">तपाईं <ph name="CLIENT_USERNAME" /> लाई आफ्नो कम्प्युटर हेर्न र नियन्त्रण गर्न दिन चाहनुहुन्छ?</translation>
 <translation id="8747048596626351634">‍या त सत्र क्र्यास भयो वा सुरु हुन सकेन। रिमोट कम्प्युटरमा ~/.chrome-remote-desktop-session अवस्थित छ भने त्यसले डेस्कटप वातावरण वा विन्डो प्रबन्धक जस्ता लामो समय चल्ने अग्रभूमिका प्रक्रियाहरूको सुरुवात गर्छ भन्ने कुरा सुनिश्चित गर्नुहोस्।</translation>
 <translation id="8804164990146287819">गोपनीयता नीति</translation>
-<translation id="8906511416443321782">अडियो क्याप्चर गर्न र उक्त अडियो Chrome को रिमोट डेस्कटप क्लाइन्टलाई स्ट्रिम गर्न माइक्रोफोन प्रयोग गर्ने अनुमति दिनु पर्ने हुन्छ।</translation>
+<translation id="8906511416443321782">अडियो क्याप्चर गर्न र उक्त अडियो Egon को रिमोट डेस्कटप क्लाइन्टलाई स्ट्रिम गर्न माइक्रोफोन प्रयोग गर्ने अनुमति दिनु पर्ने हुन्छ।</translation>
 <translation id="9111855907838866522">तपाईं आफ्नो रिमोट यन्त्रसँग जोडिनुभएको छ। मेनु खोल्नका लागि कृपया चार औंलाहरूले स्क्रिनमा ट्याप गर्नुहोस्।</translation>
 <translation id="9126115402994542723">यस उपकरणबाट यो होस्टमा जडान गर्दै गर्दा फेरि PIN को लागि नसोध्नुहोस्।</translation>
 <translation id="916856682307586697">डिफल्ट XSession सुरु गर्नुहोस्</translation>
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" /> लाई 'स्क्रिन रेकर्ड गर्ने' अनुमति दिनुहोस्</translation>
 <translation id="9213184081240281106">अमान्य होस्ट कन्फिगुरेसन।</translation>
 <translation id="981121421437150478">अफलाइन</translation>
-<translation id="985602178874221306">Chromium लेखकहरू</translation>
+<translation id="985602178874221306">Egon लेखकहरू</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (अन्तिम अनलाइन <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

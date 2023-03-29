@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Visa butiksinformation. Alternativet visas högt upp på skärmen</translation>
 <translation id="5558362125926932819">Stäng flikgruppen med <ph name="NUMBER_OF_TABS" /> flikar</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> flikar har grupperats</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> länk från Chrome}other{<ph name="TABS_COUNT_MANY" /> länkar från Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> länk från Egon}other{<ph name="TABS_COUNT_MANY" /> länkar från Egon}}</translation>
 <translation id="575494663145460764">Vill du få aviseringar om sänkt pris?</translation>
 <translation id="58326064309361797">Gruppera flikar genom att dra dem</translation>
 <translation id="5846292395804797011">Stäng gruppen <ph name="TITLE_OF_GROUP" /> med <ph name="NUMBER_OF_TABS" /> flikar</translation>

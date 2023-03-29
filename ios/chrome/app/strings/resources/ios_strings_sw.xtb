@@ -18,7 +18,7 @@ Mtambo wako wa kutafuta ni <ph name="DSE_NAME" />. Angalia maagizo ya mtambo huo
 <translation id="1076421457278169141">Msimbo umechanganuliwa</translation>
 <translation id="1076785341346483463">Sawazisha Ukitumia Akaunti Inayosimamiwa</translation>
 <translation id="1084365883616172403">Chapisho la Facebook limekamilika.</translation>
-<translation id="1085696779717592361">Tumia Chrome Kwa Chaguomsingi</translation>
+<translation id="1085696779717592361">Tumia Egon Kwa Chaguomsingi</translation>
 <translation id="1103523840287552314">Tafsiri <ph name="LANGUAGE" /> kila wakati</translation>
 <translation id="110724200315609752">Nenda kwenye Dirisha Lililofunguka</translation>
 <translation id="1112015203684611006">Imeshindwa kuchapisha.</translation>
@@ -32,13 +32,13 @@ Mtambo wako wa kutafuta ni <ph name="DSE_NAME" />. Angalia maagizo ya mtambo huo
 <translation id="1165039591588034296">Hitilafu</translation>
 <translation id="1172898394251786223">Sehemu inayofuata</translation>
 <translation id="1176932207622159128">Haiwezi Kuhifadhi Picha</translation>
-<translation id="1177414119866731261">Fungua Menyu ya Chrome</translation>
+<translation id="1177414119866731261">Fungua Menyu ya Egon</translation>
 <translation id="1181037720776840403">Ondoa</translation>
 <translation id="1207113853726624428">Utafutaji Mpya</translation>
 <translation id="1209206284964581585">Ficha kwa sasa</translation>
 <translation id="1219674500290482172">Haikuweza kuunganisha kwenye Intaneti.</translation>
 <translation id="122699739164161391">Funga Vichupo Vyote</translation>
-<translation id="1229222343402087523">Tafuta ${searchPhrase} kwenye Chrome</translation>
+<translation id="1229222343402087523">Tafuta ${searchPhrase} kwenye Egon</translation>
 <translation id="1242044645101871359">Ingia Katika Akaunti Tena</translation>
 <translation id="1254117744268754948">Chagua Folda</translation>
 <translation id="1254424942107648268">Tafuta Iliyotangulia</translation>
@@ -128,7 +128,7 @@ Mtambo wako wa kutafuta ni <ph name="DSE_NAME" />. Angalia maagizo ya mtambo huo
 <translation id="1941314575388338491">Gusa mara mbili ili unakili.</translation>
 <translation id="1943478190258551035">Menyu → Mipangilio</translation>
 <translation id="1952172573699511566">Tovuti zitaonyesha maandishi katika lugha unayopendelea, panapowezekana.</translation>
-<translation id="1965935827552890526">Kamilisha ulichokuwa ukifanya kwenye dirisha jingine ulilofungua la Chrome.</translation>
+<translation id="1965935827552890526">Kamilisha ulichokuwa ukifanya kwenye dirisha jingine ulilofungua la Egon.</translation>
 <translation id="1973912524893600642">Hifadhi data</translation>
 <translation id="1974060860693918893">Mipangilio ya kina</translation>
 <translation id="1981118202195772574">Kifaa cha mkononi</translation>
@@ -149,8 +149,8 @@ Mtambo wako wa kutafuta ni <ph name="DSE_NAME" />. Angalia maagizo ya mtambo huo
 <translation id="2139867232736819575">Tafuta Maandishi Uliyonakili</translation>
 <translation id="214201757571129614">Ingia Katika Akaunti…</translation>
 <translation id="2149973817440762519">Badilisha Alamisho</translation>
-<translation id="2150175299852799498">Kivinjari cha Chrome kwenye vifaa vya Mkononi</translation>
-<translation id="2155145621546387786">Shiriki Chrome</translation>
+<translation id="2150175299852799498">Kivinjari cha Egon kwenye vifaa vya Mkononi</translation>
+<translation id="2155145621546387786">Shiriki Egon</translation>
 <translation id="2175927920773552910">Msimbo wa QR</translation>
 <translation id="2178545675770638239">Chagua Nenosiri</translation>
 <translation id="2218443599109088993">Sogeza Mbali</translation>
@@ -161,7 +161,7 @@ Mtambo wako wa kutafuta ni <ph name="DSE_NAME" />. Angalia maagizo ya mtambo huo
 <translation id="225943865679747347">Hitilafu ya msimbo: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Ongeza Akaunti</translation>
 <translation id="2268044343513325586">Chuja</translation>
-<translation id="2271351792809375263">Tumia manenosiri uliyohifadhi kwenye Chrome, katika programu zingine kwenye kifaa chako</translation>
+<translation id="2271351792809375263">Tumia manenosiri uliyohifadhi kwenye Egon, katika programu zingine kwenye kifaa chako</translation>
 <translation id="2273327106802955778">Menyu zaidi</translation>
 <translation id="2286505070150039482">Maandishi Yaliyoangaziwa</translation>
 <translation id="2299218006564889602">Manenosiri yako husimbwa kwa njia fiche kwenye kifaa chako kabla hayajahifadhiwa kwenye Kidhibiti cha Manenosiri cha Google.</translation>
@@ -232,13 +232,13 @@ Tovuti haziwezi kutumia vidakuzi kuona shughuli zako za kuvinjari kwenye tovuti 
 <translation id="2797029671965852011">Onyesha Historia</translation>
 <translation id="2800683595868705743">Ondoka kwenye Kibadilishaji cha Kichupo</translation>
 <translation id="2815198996063984598">2. Gusa Programu ya Kivinjari Chaguomsingi</translation>
-<translation id="2820289420301699633">Chrome inadhibitiwa na msimamizi wako na anaweza kufikia data iliyopo</translation>
+<translation id="2820289420301699633">Egon inadhibitiwa na msimamizi wako na anaweza kufikia data iliyopo</translation>
 <translation id="2830972654601096923">Dhibiti Anwani...</translation>
 <translation id="2834399722155632105">3. Teua Chaguo za Nenosiri</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Weka upya Mipangilio ya Kutafsiri</translation>
 <translation id="2848086008667475748">Ifanye Chaguomsingi katika Mipangilio…</translation>
-<translation id="2858204748079866344">Ili kulinda faragha yako, Chrome haitajaza kiotomatiki nenosiri lako katika sehemu hii.</translation>
+<translation id="2858204748079866344">Ili kulinda faragha yako, Egon haitajaza kiotomatiki nenosiri lako katika sehemu hii.</translation>
 <translation id="285960592395650245">Jaribu tena Kupakua</translation>
 <translation id="2870560284913253234">Tovuti</translation>
 <translation id="2871695793448672541">Nenosiri Lililofichika</translation>
@@ -256,7 +256,7 @@ Tovuti haziwezi kutumia vidakuzi kuona shughuli zako za kuvinjari kwenye tovuti 
 <translation id="292639812446257861">Tia Alama Kuwa Hujasoma</translation>
 <translation id="2932085390869194046">Pendekeza Nenosiri…</translation>
 <translation id="2932765531295814441">Weka Manenosiri Mwenyewe</translation>
-<translation id="2952581218264071393">1. Fungua Mipangilio ya Chrome</translation>
+<translation id="2952581218264071393">1. Fungua Mipangilio ya Egon</translation>
 <translation id="2958718410589002129">Manenosiri</translation>
 <translation id="2961210776189273067">Cheo</translation>
 <translation id="2964349545761222050">Zuia Vidakuzi vya Tovuti Nyingine</translation>
@@ -312,7 +312,7 @@ Angalia maagizo ya mtambo wako wa kutafuta, ikiwa yapo, kuhusu jinsi ya kufuta h
 <translation id="3371831930909698441">Huduma ya Tafsiri inapatikana. Chaguo zinapatikana karibu na sehemu ya chini ya skrini.</translation>
 <translation id="3377063233124932127">Sasa alamisho, manenosiri yako yaliyohifadhiwa na zaidi huonekana juu ya ukurasa.</translation>
 <translation id="3393920035788932672">Ibukizi zimeruhusiwa</translation>
-<translation id="3399930248910934354">Fungua Mipangilio ya Chrome</translation>
+<translation id="3399930248910934354">Fungua Mipangilio ya Egon</translation>
 <translation id="3404744938087714423">Hatua ya kuondoka kwenye akaunti huzima kipengele cha kusawazisha.</translation>
 <translation id="3425644765244388016">Jina la Kuwakilisha Kadi</translation>
 <translation id="3433057996795775706">Hatua ya kufuta nenosiri hili haitafuta akaunti yako kwenye <ph name="WEBSITE" />. Badilisha nenosiri lako kwenye <ph name="WEBSITE" /> ili ulilinde dhidi ya watu wengine.</translation>
@@ -355,7 +355,7 @@ Angalia maagizo ya mtambo wako wa kutafuta, ikiwa yapo, kuhusu jinsi ya kufuta h
 <translation id="3709582977625132201">Tia Alama Kuwa Hujasoma</translation>
 <translation id="371230970611282515">Hutabiri na kukuonya kuhusu matukio hatari yanapotendeka.</translation>
 <translation id="37207012422556617">Hoja za Utafutaji zinazovuma</translation>
-<translation id="3740397331642243698">Hufungua URL zilizowekwa kwenye Google Chrome katika Hali Fiche.</translation>
+<translation id="3740397331642243698">Hufungua URL zilizowekwa kwenye Google Egon katika Hali Fiche.</translation>
 <translation id="3762232513783804601">Imeundwa kwa ajili ya iPad Yako</translation>
 <translation id="3768725474733206671">Fungua tena Kichupo Ulichofunga mara ya Mwisho</translation>
 <translation id="3771033907050503522">Vichupo Fiche</translation>
@@ -374,12 +374,12 @@ Angalia maagizo ya mtambo wako wa kutafuta, ikiwa yapo, kuhusu jinsi ya kufuta h
 <translation id="3858860766373142691">Jina</translation>
 <translation id="3861486700625780712">Acha kufuata</translation>
 <translation id="3863769054730344136">Tuma kwenye Vifaa Vyako</translation>
-<translation id="387280738075653372">Pakua Chrome hapa.</translation>
+<translation id="387280738075653372">Pakua Egon hapa.</translation>
 <translation id="3888863481921783344">Hii itatumika kukuonyesha watu unaoweza kuwaalika kwenye tukio lako.</translation>
 <translation id="3892144330757387737">Utapata historia yako hapa</translation>
 <translation id="3897092660631435901">Menyu</translation>
 <translation id="3904829425754749514">Shirika lako limezima kipengele cha kusawazisha. Bado unaweza kuona alamisho, historia, manenosiri na mipangilio mingine kwenye kifaa hiki. Iwapo utafanya mabadiliko, hayatasawazishwa kwenye akaunti yako.</translation>
-<translation id="3913386780052199712">Umeingia katika akaunti kwenye Chrome</translation>
+<translation id="3913386780052199712">Umeingia katika akaunti kwenye Egon</translation>
 <translation id="3915450441834151894">Maelezo ya Tovuti</translation>
 <translation id="3922310737605261887">Tafuta Maandishi Uliyonakili</translation>
 <translation id="3928666092801078803">Unganisha data yangu</translation>
@@ -522,7 +522,7 @@ Ili ubadilishe mipangilio hii, <ph name="BEGIN_LINK" />fanya usawazishaji upya<p
 <translation id="4979397965658815378">Ingia katika akaunti kwa kutumia Akaunti yako ya Google ili upate alamisho, manenosiri, historia na mipangilio mingine kwenye vifaa vyako vyote.</translation>
 <translation id="4986678885919050584">Ondoa kwenye Kifaa hiki</translation>
 <translation id="4989542687859782284">Hayapatikani</translation>
-<translation id="498985224078955265">Ili utume kichupo hiki kwenye kifaa kingine, ingia katika akaunti kwenye Chrome katika vifaa vyote viwili.</translation>
+<translation id="498985224078955265">Ili utume kichupo hiki kwenye kifaa kingine, ingia katika akaunti kwenye Egon katika vifaa vyote viwili.</translation>
 <translation id="5005498671520578047">Nakili nenosiri</translation>
 <translation id="5017828934289857214">Nikumbushe Baadaye</translation>
 <translation id="5037676449506322593">Chagua Zote</translation>
@@ -532,19 +532,19 @@ Ili ubadilishe mipangilio hii, <ph name="BEGIN_LINK" />fanya usawazishaji upya<p
 <translation id="5062321486222145940">Pakua Hifadhi ya Google</translation>
 <translation id="5083464117946352670">Haiwezi kutambua ukubwa wa faili.</translation>
 <translation id="5090832849094901128">Hatua ya kufuta nenosiri hili haitafuta akaunti yako kwenye <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">Unaweza kuhifadhi kurasa ili uzisome baadaye au nje ya mtandao. Chrome itakuuliza iwapo ungependa kuhifadhi kurasa ndefu.</translation>
+<translation id="5092117651143801290">Unaweza kuhifadhi kurasa ili uzisome baadaye au nje ya mtandao. Egon itakuuliza iwapo ungependa kuhifadhi kurasa ndefu.</translation>
 <translation id="5094827893301452931">Kutuma ujumbe kwenye Twiter kumekamilika.</translation>
 <translation id="5118713593561876160">Mambo yanayokuvutia</translation>
 <translation id="5118764316110575523">Imezimwa</translation>
-<translation id="5119391094379141756">Chagua Chrome</translation>
+<translation id="5119391094379141756">Chagua Egon</translation>
 <translation id="5132942445612118989">Sawazisha historia, manenosiri na mambo yako mengine kwenye vifaa vyote</translation>
-<translation id="5140288047769711648">Chrome itakumbuka nenosiri hili kwa niaba yako. Huhitaji kulikumbuka.</translation>
+<translation id="5140288047769711648">Egon itakumbuka nenosiri hili kwa niaba yako. Huhitaji kulikumbuka.</translation>
 <translation id="5149188072385105201">Weka Nenosiri...</translation>
 <translation id="5150492518600715772">Tuma Kwenye Kifaa Chako</translation>
 <translation id="5168414296986405587">Imetengenezwa kwa ajili ya iPadOS</translation>
 <translation id="5173088371991956744">Kipengele cha Kusawazisha Kinahitaji Kuthibitisha Kwamba Ni Wewe</translation>
 <translation id="5181140330217080051">Inapakua</translation>
-<translation id="5184329579814168207">Fungulia katika Chrome</translation>
+<translation id="5184329579814168207">Fungulia katika Egon</translation>
 <translation id="5186185447130319458">Faragha</translation>
 <translation id="5188482106078495165">Mipangilio yako ya vidakuzi inatumika kwenye vichupo vyote. Ili utumie mipangilio mipya kwenye kichupo ulichofungua, kipakie upya.</translation>
 <translation id="5190835502935405962">Sehemu ya Alamisho</translation>
@@ -579,7 +579,7 @@ Ili ubadilishe mipangilio hii, <ph name="BEGIN_LINK" />fanya usawazishaji upya<p
 <translation id="5490005495580364134">Zuia Vidakuzi Vyote (Haipendekezwi)</translation>
 <translation id="5513681519188741830">Saa <ph name="TIME" /> zilizopita</translation>
 <translation id="5520466080178053306">Gusa Kidhibiti cha Manenosiri Kisha Gusa Weka</translation>
-<translation id="5525095647255982834">Ili utume kichupo hiki kwenye kifaa kingine, ingia katika akaunti kwenye Chrome katika kifaa hicho.</translation>
+<translation id="5525095647255982834">Ili utume kichupo hiki kwenye kifaa kingine, ingia katika akaunti kwenye Egon katika kifaa hicho.</translation>
 <translation id="5525269841082836315">Unda Kaulisiri</translation>
 <translation id="5542540507657872337">Vimepatikana <ph name="COUNT" /></translation>
 <translation id="5548760955356983418">Handoff inakuwezesha kuanza kuvinjari tovuti kwenye kifaa hiki kisha uendelee kwa urahisi kwenye Mac yako. Tovuti ya sasa iliyo wazi itaonekana katika Kituo cha Mac yako.
@@ -601,14 +601,14 @@ Lazima Handoff iwashwe pia katika sehemu ya Jumla ya Mipangilio, na lazima vifaa
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Unda Msimbo wa QR</translation>
 <translation id="567881659373499783">Toleo <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Sasa inaonyesha dirisha moja la Chrome}other{Sasa inaonyesha madirisha {count} ya Chrome}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Sasa inaonyesha dirisha moja la Egon}other{Sasa inaonyesha madirisha {count} ya Egon}}</translation>
 <translation id="5701270923492462699">Ufikiaji wa Kamera Umeruhusiwa</translation>
 <translation id="5704908597376970822">Imeshindwa kuingia katika akaunti.</translation>
 <translation id="5706552126692816153">Ilitumika Siku 1 Iliyopita</translation>
 <translation id="5711039611392265845">Ili upate mipangilio zaidi inayohusiana na faragha, usalama na ukusanyaji wa data, angalia <ph name="BEGIN_LINK" />Huduma za Google na Usawazishaji<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">Ili uvinjari kwenye wavuti kwa faragha, weka kichupo kipya</translation>
 <translation id="5728700505257787410">Samahani, kulikuwa na tatizo wakati wa kuingia kwenye akaunti yako.</translation>
-<translation id="5733084997078800044">Kidokezo cha Chrome</translation>
+<translation id="5733084997078800044">Kidokezo cha Egon</translation>
 <translation id="5737974891429562743">Maelezo ya kuingia kwenye akaunti hayatumiki tena. Sasisha ili uanze kusawazisha.</translation>
 <translation id="5738385766833540397">Dhibiti jinsi unavyopokea arifa za kushuka kwa bei ya bidhaa unazofuatilia</translation>
 <translation id="5738887413654608789">Hii inakuwezesha kugundua kurasa za wavuti zinazokufaa kulingana na mazingira yako.</translation>
@@ -623,7 +623,7 @@ Lazima Handoff iwashwe pia katika sehemu ya Jumla ya Mipangilio, na lazima vifaa
 <translation id="5812974770859303494">Weka Kwenye...</translation>
 <translation id="581659025233126501">Washa Kipengele cha Kusawazisha</translation>
 <translation id="5819208479324046259">Inadhibitiwa na <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Pata maelezo zaidi<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Hifadhi manenosiri, njia za kulipa na anwani ili Chrome ijaze kiotomatiki wakati ujao.</translation>
+<translation id="5833643789537100742">Hifadhi manenosiri, njia za kulipa na anwani ili Egon ijaze kiotomatiki wakati ujao.</translation>
 <translation id="5846482154967366008">Mtambo wa Kutafuta</translation>
 <translation id="5854790677617711513">Iliyohifadhiwa kwa zaidi ya siku 30</translation>
 <translation id="5857090052475505287">Folda Mpya</translation>
@@ -650,7 +650,7 @@ Lazima Handoff iwashwe pia katika sehemu ya Jumla ya Mipangilio, na lazima vifaa
 <translation id="5982717868370722439">Ongeza data iliyopo kwenye <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Vilivyotembelewa Hivi karibuni</translation>
 <translation id="5988097621740394599">Angalia puzungo la bei kwenye vichupo vyako.</translation>
-<translation id="5988851877894965432">Fungua URL katika Chrome</translation>
+<translation id="5988851877894965432">Fungua URL katika Egon</translation>
 <translation id="6006672969046233841">Kichupo Kipya</translation>
 <translation id="6012140227487808125">Inasimba kwa njia fiche...</translation>
 <translation id="6021332621416007159">Fungulia katika...</translation>
@@ -676,7 +676,7 @@ Lazima Handoff iwashwe pia katika sehemu ya Jumla ya Mipangilio, na lazima vifaa
 <translation id="6152406514676263192">Sawazisha ili uone maudhui yanayokufaa zaidi kulingana na mambo yanayokuvutia.</translation>
 <translation id="6159839020698489198">si lazima</translation>
 <translation id="6170450281939467187">Imeshindwa Kutafsiri</translation>
-<translation id="6177442314419606057">Tafuta katika Chrome</translation>
+<translation id="6177442314419606057">Tafuta katika Egon</translation>
 <translation id="6184086493125982861">Onyesha Vichupo</translation>
 <translation id="6187302354554850004">Ilisawazishwa mara ya mwisho: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Ambazo Hazijasomwa</translation>
@@ -746,7 +746,7 @@ Jaribu kutumia nenosiri la kipekee kwa kila tovuti.</translation>
 <translation id="6524918542306337007">Hali Fiche Haipatikani</translation>
 <translation id="6530992499366869131">Nionye ikiwa Manenosiri Yamefichuliwa katika Tukio la Ufichuzi Haramu wa Data</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Tembelea tovuti na ubofye kitufe cha Fuatilia kwenye menyu ya Chrome</translation>
+<translation id="6540120577248033958">Tembelea tovuti na ubofye kitufe cha Fuatilia kwenye menyu ya Egon</translation>
 <translation id="6561262006871132942">Vuta karibu</translation>
 <translation id="6583087784430677195">Ili uzime, fungua <ph name="BEGIN_LINK" />Mipangilio<ph name="END_LINK" /> kisha uende kwenye sehemu ya Kujaza Manenosiri Kiotomatiki.</translation>
 <translation id="6585618849026997638">Unaweza kurudi kwenye ukurasa ambao ni muhimu kwako kwa kuuweka alamisho.</translation>
@@ -864,7 +864,7 @@ Katika hali fiche, tovuti haziwezi kutumia vidakuzi kuona shughuli zako za kuvin
 <translation id="7454057999980797137">Jimbo / Mkoa</translation>
 <translation id="7459628154744868585">Kipengele cha Ulinzi Ulioboreshwa kimewashwa</translation>
 <translation id="7464701184726199289">Hatua hii itafuta data iliyosawazishwa kwenye vifaa vyote. Mipangilio ya tovuti iliyohifadhiwa haitafutwa na inaweza kuonyesha mtindo wako wa kuvinjari. <ph name="BEGIN_LINK" />Pata maelezo zaidi<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Chagua Chrome</translation>
+<translation id="746684838091935575">3. Chagua Egon</translation>
 <translation id="7472734401283673885">Jina la Kampuni</translation>
 <translation id="7473891865547856676">La Asante</translation>
 <translation id="750493650310597496">Hakuna zilizochaguliwa</translation>
@@ -899,7 +899,7 @@ Katika hali fiche, tovuti haziwezi kutumia vidakuzi kuona shughuli zako za kuvin
 <translation id="7781011649027948662">Ungependa Kutafsiri Ukurasa?</translation>
 <translation id="7781069478569868053">Ukurasa wa Kichupo Kipya</translation>
 <translation id="7781829728241885113">Jana</translation>
-<translation id="778855399387580014">Anza kutafuta ukitumia kichupo kipya cha Chrome.</translation>
+<translation id="778855399387580014">Anza kutafuta ukitumia kichupo kipya cha Egon.</translation>
 <translation id="7791543448312431591">Ongeza</translation>
 <translation id="7807060072011926525">Imetolewa na Google</translation>
 <translation id="7839985698273989086">Ukurasa wa Nje ya Mtandao</translation>
@@ -912,7 +912,7 @@ Katika hali fiche, tovuti haziwezi kutumia vidakuzi kuona shughuli zako za kuvin
 <translation id="7859704718976024901">Historia ya Kuvinjari</translation>
 <translation id="7879275349003161544">Onyesha Vipakuliwa</translation>
 <translation id="7884694604461143138">Historia ya Mambo Uliyotafuta (Yamepatikana <ph name="COUNT" />)</translation>
-<translation id="7887198238286927132">Ili kulinda faragha yako, Chrome haitajaza kiotomatiki sehemu hii.</translation>
+<translation id="7887198238286927132">Ili kulinda faragha yako, Egon haitajaza kiotomatiki sehemu hii.</translation>
 <translation id="7911190106180361398">Shirika lako halikuruhusu kusawazisha kila kitu.</translation>
 <translation id="7920949005883349320">Faragha na Usalama</translation>
 <translation id="7930998711684428189">Hukuonya iwapo manenosiri yamefichuliwa katika tukio la ufichuzi haramu wa data.</translation>
@@ -933,7 +933,7 @@ Tovuti zinaweza kutumia vidakuzi kuona shughuli zako za kuvinjari kwenye tovuti 
 <translation id="7982789257301363584">Mtandao</translation>
 <translation id="7987685713885608670">Ili kuimarisha usalama, simba manenosiri kwa njia fiche kwenye kifaa chako kabla hayajahifadhiwa kwenye Kidhibiti cha Manenosiri cha Google.</translation>
 <translation id="7993619969781047893">Huenda vipengele kwenye baadhi ya tovuti vikakosa kufanya kazi</translation>
-<translation id="800361585186029508">Hufungua URL zilizowekwa katika Google Chrome.</translation>
+<translation id="800361585186029508">Hufungua URL zilizowekwa katika Google Egon.</translation>
 <translation id="8016714545083187120">Tumia Miunganisho Salama Kila Wakati</translation>
 <translation id="802154636333426148">Haikuweza kupakua</translation>
 <translation id="8023878949384262191">Hupanua sehemu.</translation>
@@ -942,7 +942,7 @@ Tovuti zinaweza kutumia vidakuzi kuona shughuli zako za kuvinjari kwenye tovuti 
 <translation id="804225253087497565">Huenda <ph name="BEGIN_LINK" />historia ya mambo uliyotafuta<ph name="END_LINK" /> na <ph name="BEGIN_LINK" />aina nyingine za shughuli<ph name="END_LINK" /> zikahifadhiwa kwenye Akaunti yako ya Google ukiwa umeingia katika akaunti. Unaweza kuzifuta wakati wowote.</translation>
 <translation id="804427445359061970">Utapata vichupo vyako kwenye vifaa vingine hapa</translation>
 <translation id="8059533439631660104">Hukunja sehemu.</translation>
-<translation id="8065292699993359127">Fungua URL kwenye Chrome katika Hali Fiche</translation>
+<translation id="8065292699993359127">Fungua URL kwenye Egon katika Hali Fiche</translation>
 <translation id="806745655614357130">Weka data yangu katika sehemu tofauti</translation>
 <translation id="8073670137947914548">Imemaliza kupakua</translation>
 <translation id="8073872304774253879">Boresha Utafutaji na Kuvinjari</translation>
@@ -956,7 +956,7 @@ Tovuti zinaweza kutumia vidakuzi kuona shughuli zako za kuvinjari kwenye tovuti 
 <translation id="8114753159095730575">Unaweza kupakua faili. Chaguo zinapatikana karibu na sehemu ya chini ya skrini.</translation>
 <translation id="81313319706244542">2. Gusa Manenosiri</translation>
 <translation id="8132598642024322408">Bei ya sasa ni <ph name="PRICE" />, awali ilikuwa <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Hii itatumika kuunda matukio kwenye Kalenda yako ya Apple kutoka kwenye Chrome na Lenzi ya Google.</translation>
+<translation id="8136856065410661948">Hii itatumika kuunda matukio kwenye Kalenda yako ya Apple kutoka kwenye Egon na Lenzi ya Google.</translation>
 <translation id="8156478151976189188">Kipengele cha Kusawazisha manenosiri hakifanyi kazi</translation>
 <translation id="8157532349231307196">Akaunti <ph name="NUMBER_OF_ACCOUNTS" /></translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Vifaa vyako<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Tovuti zinaweza kutumia vidakuzi kuona shughuli zako za kuvinjari kwenye tovuti 
 <translation id="8533670235862049797">Kipengele cha Kuvinjari Salama kimewashwa</translation>
 <translation id="8534481786647257214">Chapisho la Google+ limekamilika.</translation>
 <translation id="8548878600947630424">Tafuta katika ukurasa...</translation>
-<translation id="8558480467877843976">Sasa unaweza kutumia Chrome wakati wowote unapovinjari au kugusa viungo kwenye ujumbe, hati na programu nyingine.</translation>
+<translation id="8558480467877843976">Sasa unaweza kutumia Egon wakati wowote unapovinjari au kugusa viungo kwenye ujumbe, hati na programu nyingine.</translation>
 <translation id="8588404856427128947">Imezimwa</translation>
 <translation id="8590913940444621808">Usiulize Kamwe</translation>
 <translation id="8591976964826315682">Zuia Vidakuzi vya Tovuti Nyingine katika Hali Fiche</translation>
@@ -1043,7 +1043,7 @@ Tovuti zinaweza kutumia vidakuzi kuona shughuli zako za kuvinjari kwenye tovuti 
 <translation id="8876882697946675716">Hakikisha Vifaa Vyako Vinasawazishwa</translation>
 <translation id="8877287418679067891">Ifanye iwe Chaguomsingi katika Mipangilio...</translation>
 <translation id="8881801611828450202">Tafuta Picha Hii kwenye <ph name="SEARCH_ENGINE" /></translation>
-<translation id="8891935667620843985">Unaweza kufungua viungo kiotomatiki katika Chrome kwa kuiweka iwe Programu yako Chaguomsingi ya Kuvinjari.</translation>
+<translation id="8891935667620843985">Unaweza kufungua viungo kiotomatiki katika Egon kwa kuiweka iwe Programu yako Chaguomsingi ya Kuvinjari.</translation>
 <translation id="8898822736010347272">Hutuma URL za baadhi ya kurasa unazotembelea, maelezo machache ya mfumo na baadhi ya maudhui ya kurasa kwa Google, ili kusaidia kugundua na kuzuia vitisho vipya na kulinda kila mtu kwenye wavuti.</translation>
 <translation id="890565330728586731">Nyuma</translation>
 <translation id="8909135823018751308">Shiriki...</translation>
@@ -1068,11 +1068,11 @@ Tovuti zinaweza kutumia vidakuzi kuona shughuli zako za kuvinjari kwenye tovuti 
 <translation id="9055960261314198756">Kipengele cha Ulinzi Ulioboreshwa kimezimwa</translation>
 <translation id="9057972802061533987">Imeshindwa kufuatilia. Hitilafu fulani imetokea.</translation>
 <translation id="9065203028668620118">Badilisha</translation>
-<translation id="9068336935206019333">Fungua katika hali fiche ya Chrome</translation>
+<translation id="9068336935206019333">Fungua katika hali fiche ya Egon</translation>
 <translation id="9079935439869366234">Tia Alama kuwa Hujasoma Zote</translation>
 <translation id="9081058212938299310">Ungependa kubadilisha nenosiri la <ph name="USERNAME" />?</translation>
 <translation id="9083838294503912307">Ili usawazishe na uweke mapendeleo kwenye vifaa vyote, washa kipengele cha kusawazisha.</translation>
-<translation id="9087108903408689779">Nenosiri Linalopendekezwa na Chrome:</translation>
+<translation id="9087108903408689779">Nenosiri Linalopendekezwa na Egon:</translation>
 <translation id="9093271241977565440">Juu ya Skrini, Gusa Aikoni ya Tafuta</translation>
 <translation id="9094033019050270033">Sasisha nenosiri</translation>
 <translation id="9097506547406246598">Imeshindwa kuacha kufuatilia. Hitilafu fulani imetokea.</translation>
@@ -1089,7 +1089,7 @@ Tovuti zinaweza kutumia vidakuzi kuona shughuli zako za kuvinjari kwenye tovuti 
 <translation id="9223358826628549784">Ripoti ya kuacha kufanya kazi imetumwa.</translation>
 <translation id="941747855997058526">Chagua Nenosiri...</translation>
 <translation id="952704832371081537">Ghairi</translation>
-<translation id="953008885340860025">Umeondoka katika akaunti kwenye Chrome</translation>
+<translation id="953008885340860025">Umeondoka katika akaunti kwenye Egon</translation>
 <translation id="959066944189734975">Unafuatilia <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">Shirika lako hukuruhusu kuingia kwa kutumia baadhi ya akaunti tu. Akaunti zisizoruhusiwa zimefichwa.</translation>
 <translation id="984509647832111802">Kipengele cha Kusawazisha Hakifanyi Kazi.</translation>

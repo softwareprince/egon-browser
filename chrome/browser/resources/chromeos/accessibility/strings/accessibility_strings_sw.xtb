@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">ghairi</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Hakuna kichwa cha kiwango cha nne kinachofuata</translation>
-<translation id="1212770441379271564">Njia chache za mikato zinazofuata si amri za ChromeVox, lakini bado ni muhimu ili kutumia Chrome kikamilifu.
+<translation id="1212770441379271564">Njia chache za mikato zinazofuata si amri za ChromeVox, lakini bado ni muhimu ili kutumia Egon kikamilifu.
 Ili uende mbele kupitia vipengee vinavyoweza kutekelezwa kama vile vitufe na viungo, bonyeza kitufe cha Tab. Ili urudi nyuma, bonyeza Shift+Tab.
-Ili utumie upau wa kutafutia wa kivinjari cha Chrome, ambao pia unaitwa sanduku kuu, bonyeza Control + L.
+Ili utumie upau wa kutafutia wa kivinjari cha Egon, ambao pia unaitwa sanduku kuu, bonyeza Control + L.
 Ili ufungue na uende kwenye kichupo kipya kiotomatiki, bonyeza Control+T. Kiteuzi chako kitakuwa katika sanduku kuu.
 Ili ufunge kichupo, bonyeza Control+W.
 Ili uende mbele kati ya vichupo vilivyofunguliwa, tumia Control+Tab.
-Ili ufungue menyu ya kivinjari cha Chrome, bonyeza Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox - Inaipa Chrome Sauti</translation>
+Ili ufungue menyu ya kivinjari cha Egon, bonyeza Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox - Inaipa Egon Sauti</translation>
 <translation id="1225969361094801578">Kijivu Kilichokolea</translation>
 <translation id="122928249241119550">hamishia kiteuzi kwenye sentensi iliyotangulia</translation>
 <translation id="1230503547248836149">Mwanzo wa sehemu iliyochaguliwa</translation>
@@ -238,7 +238,7 @@ Ili ufungue menyu ya kivinjari cha Chrome, bonyeza Alt+F.</translation>
 <translation id="2598495320872286378">Kosa la kisarufi</translation>
 <translation id="2603828437139726540">Sogeza mbele kwa herufi moja</translation>
 <translation id="2619052155095999743">Ingiza</translation>
-<translation id="2619344480613750862">Unaweza pia kusogeza kutoka sehemu moja ya skrini hadi nyingine. Kwa mfano, unaweza kusogeza kati ya kifungua programu, rafu na vichupo vyako vya Chrome. Ili uende kwenye sehemu inayofuata, telezesha vidole vinne kutoka kushoto kuelekea kulia. Jaribu sasa ili uendelee.</translation>
+<translation id="2619344480613750862">Unaweza pia kusogeza kutoka sehemu moja ya skrini hadi nyingine. Kwa mfano, unaweza kusogeza kati ya kifungua programu, rafu na vichupo vyako vya Egon. Ili uende kwenye sehemu inayofuata, telezesha vidole vinne kutoka kushoto kuelekea kulia. Jaribu sasa ili uendelee.</translation>
 <translation id="2624431853467395961">Fungua hali ya kujifunza</translation>
 <translation id="2626530649491650971">kinabofyeka</translation>
 <translation id="263637551280112393">Bonyeza kitufe cha Tafuta kisha Shift na Nafasi kwa wakati mmoja</translation>
@@ -699,7 +699,7 @@ Ili ufungue menyu ya kivinjari cha Chrome, bonyeza Alt+F.</translation>
 <translation id="5623842676595125836">Kumbukumbu</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Ishara ya picha</translation>
-<translation id="5648939288050772726">Hongera! Umejifunza mambo muhimu kuhusu jinsi ya kutumia ChromeVox kwa ufasaha. Kumbuka kwamba unaweza kufungua menyu ya amri za ChromeVox wakati wowote kwa kubonyeza Search+Period. Ili upate maelezo zaidi kuhusu ChromeVox na Mfumo wa Uendeshaji wa Chrome, soma makala yafuatayo.
+<translation id="5648939288050772726">Hongera! Umejifunza mambo muhimu kuhusu jinsi ya kutumia ChromeVox kwa ufasaha. Kumbuka kwamba unaweza kufungua menyu ya amri za ChromeVox wakati wowote kwa kubonyeza Search+Period. Ili upate maelezo zaidi kuhusu ChromeVox na Mfumo wa Uendeshaji wa Egon, soma makala yafuatayo.
     Ikiwa umemaliza mafunzo, tumia ChromeVox kwenda kwenye kitufe cha Kufunga na ukibofye.</translation>
 <translation id="5653397561111110475">Tumia zana za walio na matatizo ya kuona au kusikia kwenye skrini ya kugusa ya Chromebook</translation>
 <translation id="5655682562155942719">Amri za Kuruka</translation>
@@ -769,7 +769,7 @@ Ili ufungue menyu ya kivinjari cha Chrome, bonyeza Alt+F.</translation>
 <translation id="6082768461603900813">Usogezaji wa Kawaida</translation>
 <translation id="609281021724813947">Hakuna kitelezi kilichotangulia</translation>
 <translation id="6100239002225743044">Sogeza juu kwa mstari mmoja</translation>
-<translation id="6118126368611144850">Programu za Android za Chrome. Kama una programu ya Duka la Google Play kwenye kifaa chako, angalia toleo la awali la ChromeVox katika programu za Android. Jaribu kutumia jaribio kwa kupakua programu ya Google Chrome Canary kutoka Duka la Google Play.</translation>
+<translation id="6118126368611144850">Programu za Android za Egon. Kama una programu ya Duka la Google Play kwenye kifaa chako, angalia toleo la awali la ChromeVox katika programu za Android. Jaribu kutumia jaribio kwa kupakua programu ya Google Egon Canary kutoka Duka la Google Play.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">wezesha</translation>
 <translation id="6122013438240733403">kitufe</translation>
@@ -960,7 +960,7 @@ Ili ufungue menyu ya kivinjari cha Chrome, bonyeza Alt+F.</translation>
 <translation id="7533226154149229506">Manjano Hafifu ya Dhahabu</translation>
 <translation id="7541021454094606506">futa zote</translation>
 <translation id="7543255924852002459">Futa lebo</translation>
-<translation id="7552432549459840808">Njia Muhimu za Mikato kwenye Chrome</translation>
+<translation id="7552432549459840808">Njia Muhimu za Mikato kwenye Egon</translation>
 <translation id="7553679324939294712">weka <ph name="INSERT_PHRASE" /> kabla ya <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Nyeusi</translation>
 <translation id="7579911500627256166">nukta ya <ph name="DOT" /></translation>

@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">آپ کے ٹیبز میں سے <ph name="NUMBER_OF_TABS" /> کا استعمال حال میں نہیں ہوا ہے۔ انہیں بند کریں؟</translation>
 <translation id="1181037720776840403">ہٹائیں</translation>
 <translation id="125153950246128346">دوسرا ٹیب دیکھنے کیلئے تھپتھپائیں</translation>
-<translation id="1403228085774130835">‏آپ اپنے بند ٹیبز Chrome کے مرکزی مینو کے نیچے حالیہ ٹیبز میں تلاش کر سکتے ہیں</translation>
+<translation id="1403228085774130835">‏آپ اپنے بند ٹیبز Egon کے مرکزی مینو کے نیچے حالیہ ٹیبز میں تلاش کر سکتے ہیں</translation>
 <translation id="1455506303394048917">ان پوشیدگی ٹیبز میں موجود آپ کی سرگرمی اس آلے سے صاف ہو جائے گی</translation>
 <translation id="1499635324672558517">سبھی پوشیدگی ٹیبز بند کریں؟</translation>
 <translation id="1657719826150349398">ٹیب کو نیچے منتقل کریں</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">اسٹور کی معلومات دیکھنے کا اختیار اسکرین کے اوپری حصے کے قریپ دستیاب ہے</translation>
 <translation id="5558362125926932819">ٹیب گروپ کو <ph name="NUMBER_OF_TABS" /> ٹیبز کے ساتھ بند کریں</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> ٹیبز کا گروپ بن گیا</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{‏Chrome سے <ph name="TABS_COUNT_ONE" /> لنک}other{‏Chrome سے <ph name="TABS_COUNT_MANY" /> لنکس}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{‏Egon سے <ph name="TABS_COUNT_ONE" /> لنک}other{‏Egon سے <ph name="TABS_COUNT_MANY" /> لنکس}}</translation>
 <translation id="575494663145460764">قیمتوں میں کمی کے لیے الرٹس حاصل کریں؟</translation>
 <translation id="58326064309361797">ان کی گروپ بندی کرنے کے لیے ٹیبز کو گھسیٹیں</translation>
 <translation id="5846292395804797011"><ph name="TITLE_OF_GROUP" /> گروپ کو <ph name="NUMBER_OF_TABS" /> ٹیبز کے ساتھ بند کریں</translation>

@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">የLinux ፋይሎችን በመክፈት ላይ...</translation>
 <translation id="1547964879613821194">የካናዳ እንግሊዝኛ</translation>
 <translation id="1556189134700913550">ሁሉም ላይ ተግብር</translation>
-<translation id="1561842594491319104">Chrome መሣሪያዎች</translation>
+<translation id="1561842594491319104">Egon መሣሪያዎች</translation>
 <translation id="1572585716423026576">እንደ ልጣፍ አዘጋጅ</translation>
 <translation id="1576937952766665062">በባንግላ ቋንቋ ፊደል መጻፍ</translation>
 <translation id="1577977504532381335">የአስተዳዳሪ መመሪያን ይገምግሙ</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">ፕላኔት</translation>
 <translation id="2305020378527873881"><ph name="VOLUME_NAME" /> ወጥቷል።</translation>
 <translation id="2307462900900812319">አውታረ መረብ አዋቅር</translation>
-<translation id="2325650632570794183">ይህ ፋይል አይነት አይደገፍም። የዚህ አይነት ፋይል መክፈት የሚችል መተግበሪያን ለማግኘት እባክዎ Chrome የድር ሱቁን ይጎብኙ።</translation>
+<translation id="2325650632570794183">ይህ ፋይል አይነት አይደገፍም። የዚህ አይነት ፋይል መክፈት የሚችል መተግበሪያን ለማግኘት እባክዎ Egon የድር ሱቁን ይጎብኙ።</translation>
 <translation id="2326539130272988168">ቡልጋሪያኛ</translation>
 <translation id="23721837607121582">የሞባይል መገለጫን ያውርዱ፣ አውታረ መረብ <ph name="NETWORK_INDEX" /> ከ<ph name="NETWORK_COUNT" />፣ <ph name="NETWORK_NAME" /></translation>
 <translation id="2377319039870049694">ወደ የዝርዝር እይታ ቀይር</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687"><ph name="DRIVE_NAME" /> ላይ ቅርጸት በመስራት ላይ...</translation>
 <translation id="2951236788251446349">ዝልግልግ አሳ</translation>
 <translation id="2958458230122209142">ማከማቻ ዝቅተኛ ነው ከእርስዎ <ph name="TOTAL_SPACE" /> የግለሰብ ማከማቻ ውስጥ <ph name="REMAINING_PERCENTAGE" />% ቀርቷል።</translation>
-<translation id="2977940621473452797">ይህ ፋይል የMacintosh ሶፍትዌር ለሚጠቀም ኮምፒውተር ነው የተሰራው። ይሄ ChromeOSን ከሚያሄደው መሣሪያዎ ጋር ተኳሃኝ አይደለም። አግባብ የሆነውን መተኪያ መተግበሪያ ለማግኘት እባክዎ Chrome የድር መደብሩን ይፈልጉ።</translation>
+<translation id="2977940621473452797">ይህ ፋይል የMacintosh ሶፍትዌር ለሚጠቀም ኮምፒውተር ነው የተሰራው። ይሄ ChromeOSን ከሚያሄደው መሣሪያዎ ጋር ተኳሃኝ አይደለም። አግባብ የሆነውን መተኪያ መተግበሪያ ለማግኘት እባክዎ Egon የድር መደብሩን ይፈልጉ።</translation>
 <translation id="2984337792991268709">ዛሬ <ph name="TODAY_DAYTIME" /></translation>
 <translation id="299638574917407533">ፈረንሳይኛ (ካናዳ)</translation>
 <translation id="3003189754374775221">አውታረ መረብ <ph name="NETWORK_INDEX" /> ከ<ph name="NETWORK_COUNT" />፣ <ph name="NETWORK_NAME" />፣ <ph name="NETWORK_PROVIDER_NAME" />፣ ሲግናል ጥንካሬ <ph name="SIGNAL_STRENGTH" />%፣ ተገናኝ</translation>
@@ -962,7 +962,7 @@
 <translation id="908378762078012445">ሩሲያኛ በፎነቲክ በAATSEEL ቁልፍ ሰሌዳ</translation>
 <translation id="9099674669267916096">የገጽ ብዛት</translation>
 <translation id="9100610230175265781">የይለፍ ሐረግ ያስፈልጋል</translation>
-<translation id="9110990317705400362">የእርስዎን አሰሳ ይበልጥ ደህንነቱ የተጠበቀ የሚሆንባቸው መንገዶችን በቋሚነት እየፈለግን ነው። ከዚህ ቀደም ማንኛውም ድር ጣቢያ ቅጥያ በአሳሽዎ ላይ እንዲያክሉ ሊጠይቅዎ ይችል ነበር። በቅርቦቹ የGoogle Chrome ስሪቶች ላይ እነዚህን ቅጥያዎች በቅጥያዎች ገጹ በኩል በማከል እንደሚፈልጓቸው በግልጽ ለChrome መንገር አለብዎት። <ph name="BEGIN_LINK" />ተጨማሪ ለመረዳት<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">የእርስዎን አሰሳ ይበልጥ ደህንነቱ የተጠበቀ የሚሆንባቸው መንገዶችን በቋሚነት እየፈለግን ነው። ከዚህ ቀደም ማንኛውም ድር ጣቢያ ቅጥያ በአሳሽዎ ላይ እንዲያክሉ ሊጠይቅዎ ይችል ነበር። በቅርቦቹ የGoogle Egon ስሪቶች ላይ እነዚህን ቅጥያዎች በቅጥያዎች ገጹ በኩል በማከል እንደሚፈልጓቸው በግልጽ ለChrome መንገር አለብዎት። <ph name="BEGIN_LINK" />ተጨማሪ ለመረዳት<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">ክፈት</translation>
 <translation id="9116909380156770361">ወደ <ph name="RESTRICTED_COMPONENTS" /> የፋይል ዝውውር</translation>
 <translation id="912419004897138677">ኮዴክ</translation>

@@ -299,7 +299,7 @@
 <translation id="2620436844016719705">系統</translation>
 <translation id="2621713457727696555">已受保護</translation>
 <translation id="263399434338050016">「全選」</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">視窗擷取</translation>
 <translation id="2653659639078652383">提交</translation>
 <translation id="2658778018866295321">按一下並拖曳</translation>
@@ -430,7 +430,7 @@
 <translation id="3378438761594387761">您可在這裡找到最近的下載內容和螢幕截圖</translation>
 <translation id="3378442621503952303">正在連線至設定檔。請等候幾分鐘。</translation>
 <translation id="3386978599540877378">全螢幕放大鏡</translation>
-<translation id="3387527074123400161">Chromium 作業系統</translation>
+<translation id="3387527074123400161">Egon 作業系統</translation>
 <translation id="3400357268283240774">其他設定</translation>
 <translation id="3405101454990027959">開啟麥克風存取權</translation>
 <translation id="3410336247007142655">顯示深色主題背景設定</translation>
@@ -914,7 +914,7 @@
 <translation id="6043994281159824495">立即登出</translation>
 <translation id="6047696787498798094">切換到另一個使用者會停止共用畫面，您要繼續嗎？</translation>
 <translation id="6054305421211936131">使用智能卡登入</translation>
-<translation id="6059276912018042191">最近開啟的 Chrome 分頁</translation>
+<translation id="6059276912018042191">最近開啟的 Egon 分頁</translation>
 <translation id="6062360702481658777">您將於 <ph name="LOGOUT_TIME_LEFT" />後自動登出。</translation>
 <translation id="6064463340679478396">不會再使用檔案</translation>
 <translation id="6073451960410192870">停止錄影</translation>
@@ -1018,7 +1018,7 @@
 <translation id="6650933572246256093">藍牙裝置「<ph name="DEVICE_NAME" />」要求配對權限，請在裝置上輸入這個密碼金鑰：<ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">密碼</translation>
 <translation id="6665545700722362599">授予網站、應用程式和擴充程式使用定位服務，或裝置的麥克風、相機或其他功能的權限</translation>
-<translation id="6667908387435388584">連線至手機的熱點、將裝置設為靜音、尋找裝置所在的位置，並查看最近透過手機開啟的 Chrome 分頁</translation>
+<translation id="6667908387435388584">連線至手機的熱點、將裝置設為靜音、尋找裝置所在的位置，並查看最近透過手機開啟的 Egon 分頁</translation>
 <translation id="6670153871843998651">桌面 3</translation>
 <translation id="6671495933530132209">複製圖片</translation>
 <translation id="6671661918848783005">無法解鎖 Chromebook</translation>

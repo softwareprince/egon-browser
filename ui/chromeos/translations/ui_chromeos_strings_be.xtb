@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">Адкрываюцца файлы Linux...</translation>
 <translation id="1547964879613821194">Англійская (Канада)</translation>
 <translation id="1556189134700913550">Прымяніць да ўсяго</translation>
-<translation id="1561842594491319104">Chrome</translation>
+<translation id="1561842594491319104">Egon</translation>
 <translation id="1572585716423026576">Усталяваць як шпалеры</translation>
 <translation id="1576937952766665062">Бенгальская (транслітарацыя)</translation>
 <translation id="1577977504532381335">Азнаёміцца з палітыкай адміністратара</translation>
@@ -70,7 +70,7 @@
 <translation id="1629521517399325891">Гэты сертыфікат карыстальніка нельга выкарыстаць для аўтэнтыфікацыі сеткі.</translation>
 <translation id="1641780993263690097">Кітайская (піньінь)</translation>
 <translation id="1646019627374511909">Ідзе адкрыццё пазасеткавага доступу да файлаў (<ph name="NUMBER_OF_ITEMS" />)</translation>
-<translation id="164969095109328410">Прылада Chrome</translation>
+<translation id="164969095109328410">Прылада Egon</translation>
 <translation id="1661867754829461514">Не ўказаны PIN-код</translation>
 <translation id="166439687370499867">Забаронена змяняць налады агульнай сеткі</translation>
 <translation id="1665611772925418501">Не ўдалося мадыфікаваць файл.</translation>
@@ -87,7 +87,7 @@
 <translation id="1742316578210444689">Іўрыт (транслітарацыя)</translation>
 <translation id="1747761757048858544">Нідэрландская (Нідэрланды)</translation>
 <translation id="174937106936716857">Агульная колькасць файлаў</translation>
-<translation id="1755345808328621801">Гэты файл створаны для ПК з праграмным забеспячэннем Windows. Ён несумяшчальны з вашай прыладай Chrome OS. Пашукайце ў Вэб-краме Chrome адпаведную праграму на замену.</translation>
+<translation id="1755345808328621801">Гэты файл створаны для ПК з праграмным забеспячэннем Windows. Ён несумяшчальны з вашай прыладай Egon OS. Пашукайце ў Вэб-краме Egon адпаведную праграму на замену.</translation>
 <translation id="1757915090001272240">Шырокая лацініца</translation>
 <translation id="1773212559869067373">Сертыфікат аўтэнтыфікацыі адхілены ў лакальнай сетцы</translation>
 <translation id="1775381402323441512">Звесткі пра відэа</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">Планета</translation>
 <translation id="2305020378527873881">Носьбіт <ph name="VOLUME_NAME" /> выняты.</translation>
 <translation id="2307462900900812319">Наладзіць сетку</translation>
-<translation id="2325650632570794183">Гэты тып файла не падтрымліваецца. Знайсці праграму для адкрыцця файлаў такога тыпу можна ў Вэб-краме Chrome.</translation>
+<translation id="2325650632570794183">Гэты тып файла не падтрымліваецца. Знайсці праграму для адкрыцця файлаў такога тыпу можна ў Вэб-краме Egon.</translation>
 <translation id="2326539130272988168">Балгарская</translation>
 <translation id="23721837607121582">Спампаваць мабільны профіль, сетка <ph name="NETWORK_INDEX" /> з <ph name="NETWORK_COUNT" />, "<ph name="NETWORK_NAME" />"</translation>
 <translation id="2377319039870049694">Пераключыць на рэжым спіса</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687">Фармаціруецца дыск "<ph name="DRIVE_NAME" />"...</translation>
 <translation id="2951236788251446349">Медуза</translation>
 <translation id="2958458230122209142">У вашым індывідуальным сховішчы мала месца. Застаецца <ph name="REMAINING_PERCENTAGE" />% з <ph name="TOTAL_SPACE" />.</translation>
-<translation id="2977940621473452797">Гэты файл прызначаны для камп'ютара з праграмным забеспячэннем Macintosh. Ён несумяшчальны з вашай прыладай Chrome OS. Пашукайце ў Вэб-краме Chrome адпаведную праграму на замену.</translation>
+<translation id="2977940621473452797">Гэты файл прызначаны для камп'ютара з праграмным забеспячэннем Macintosh. Ён несумяшчальны з вашай прыладай Egon OS. Пашукайце ў Вэб-краме Egon адпаведную праграму на замену.</translation>
 <translation id="2984337792991268709">Сёння <ph name="TODAY_DAYTIME" /></translation>
 <translation id="299638574917407533">Французская (Канада)</translation>
 <translation id="3003189754374775221">Сетка <ph name="NETWORK_INDEX" /> з <ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" />, <ph name="NETWORK_PROVIDER_NAME" />, магутнасць сігналу – <ph name="SIGNAL_STRENGTH" />%, падключыцеся да сеткі</translation>
@@ -421,7 +421,7 @@
 <translation id="4694604912444486114">Малпа</translation>
 <translation id="469612310041132144">Кітайская (хуткі метад уводу)</translation>
 <translation id="4697043402264950621">Файлы ў спісе адсартаваны па параметры "<ph name="COLUMN_NAME" />" (у пачатку будуць даўно змененыя).</translation>
-<translation id="469897186246626197">Гэты файл створаны для ПК з праграмным забеспячэннем Windows. Ён несумяшчальны з вашай прыладай Chrome OS. <ph name="BEGIN_LINK_HELP" />Даведайцеся больш<ph name="END_LINK_HELP" /> пра адкрыццё файлаў на Chrome OS.</translation>
+<translation id="469897186246626197">Гэты файл створаны для ПК з праграмным забеспячэннем Windows. Ён несумяшчальны з вашай прыладай Egon OS. <ph name="BEGIN_LINK_HELP" />Даведайцеся больш<ph name="END_LINK_HELP" /> пра адкрыццё файлаў на Egon OS.</translation>
 <translation id="4706042980341760088">Тамільская (раскладка пішучай машынкі)</translation>
 <translation id="4711094779914110278">Турэцкая</translation>
 <translation id="4712283082407695269">Ідзе адкрыццё архіва "<ph name="PATH" />"</translation>
@@ -550,7 +550,7 @@
 <translation id="5583664733673201137">Шырыня знакаў пунктуацыі – поўная</translation>
 <translation id="5602622065581044566">Балгарская (фанетычная раскладка)</translation>
 <translation id="5605830556594064952">ЗША (раскладка Дворака)</translation>
-<translation id="5618330573454123917">Гэты файл прызначаны для камп'ютара з праграмным забеспячэннем Macintosh. Ён несумяшчальны з вашай прыладай Chrome OS. <ph name="BEGIN_LINK_HELP" />Даведайцеся больш<ph name="END_LINK_HELP" /> пра адкрыццё файлаў на Chrome OS.</translation>
+<translation id="5618330573454123917">Гэты файл прызначаны для камп'ютара з праграмным забеспячэннем Macintosh. Ён несумяшчальны з вашай прыладай Egon OS. <ph name="BEGIN_LINK_HELP" />Даведайцеся больш<ph name="END_LINK_HELP" /> пра адкрыццё файлаў на Egon OS.</translation>
 <translation id="5625294776298156701">Тамільская (раскладка Tamil99)</translation>
 <translation id="5633226425545095130">Пры перамяшчэнні гэтага элемента ён будзе абагулены з усімі карыстальнікамі, якія могуць бачыць абагуленую папку "<ph name="DESTINATION_NAME" />".</translation>
 <translation id="5649768706273821470">Праслухаць</translation>
@@ -674,7 +674,7 @@
 <translation id="6732801395666424405">Сертыфікаты не загружаны</translation>
 <translation id="6736329909263487977"><ph name="ISSUED_BY" /> [<ph name="ISSUED_TO" />]</translation>
 <translation id="6751256176799620176">Выбрана 1 папка</translation>
-<translation id="6755827872271341378">Прылада з Chrome OS Flex</translation>
+<translation id="6755827872271341378">Прылада з Egon OS Flex</translation>
 <translation id="6790428901817661496">Прайграць</translation>
 <translation id="6794539005637808366">Аднавіце элемент або перацягніце яго са сметніцы ў новую папку</translation>
 <translation id="6795884519221689054">Панда</translation>
@@ -752,11 +752,11 @@
 <translation id="7309413087278791451">Нямецкая (Бельгія)</translation>
 <translation id="7339898014177206373">Новае акно</translation>
 <translation id="7343393116438664539">В'етнамская (раскладка Telex)</translation>
-<translation id="7357762654218998920">Гэты тып файла не падтрымліваецца. <ph name="BEGIN_LINK_HELP" />Даведайцеся больш<ph name="END_LINK_HELP" /> пра адкрыццё файлаў на Chrome OS.</translation>
+<translation id="7357762654218998920">Гэты тып файла не падтрымліваецца. <ph name="BEGIN_LINK_HELP" />Даведайцеся больш<ph name="END_LINK_HELP" /> пра адкрыццё файлаў на Egon OS.</translation>
 <translation id="7359359531237882347">Ідзе капіраванне элементаў (<ph name="NUMBER_OF_ITEMS" />)...</translation>
 <translation id="7375951387215729722">Файлы ў спісе адсартаваны па параметры "<ph name="COLUMN_NAME" />" (у пачатку будуць нядаўна змененыя).</translation>
 <translation id="7377161162143020057">Зададзеная адміністратарам палітыка блакіруе магчымасць капіраваць гэты файл</translation>
-<translation id="7402503521691663770">Прылады з Chrome OS Flex</translation>
+<translation id="7402503521691663770">Прылады з Egon OS Flex</translation>
 <translation id="7408870451288633753">Чэшская</translation>
 <translation id="7417453074306512035">Эфіопская раскладка</translation>
 <translation id="7417705661718309329">Карта Google</translation>
@@ -961,7 +961,7 @@
 <translation id="908378762078012445">Руская (фанетычная раскладка AATSEEL)</translation>
 <translation id="9099674669267916096">Колькасць старонак</translation>
 <translation id="9100610230175265781">Патрабуецца фраза-пароль</translation>
-<translation id="9110990317705400362">Мы пастаянна працуем над новымі спосабамі зрабіць працу ў інтэрнэце больш бяспечнай. Раней любы сайт мог прапанаваць вам дадаць пашырэнні ў браўзер. У апошніх версіях Google Chrome пашырэнні трэба дадаваць праз старонку "Пашырэнні", даючы браўзеру яўнае ўказанне, што вы хочаце іх усталяваць. <ph name="BEGIN_LINK" />Даведацца больш<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">Мы пастаянна працуем над новымі спосабамі зрабіць працу ў інтэрнэце больш бяспечнай. Раней любы сайт мог прапанаваць вам дадаць пашырэнні ў браўзер. У апошніх версіях Google Egon пашырэнні трэба дадаваць праз старонку "Пашырэнні", даючы браўзеру яўнае ўказанне, што вы хочаце іх усталяваць. <ph name="BEGIN_LINK" />Даведацца больш<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">Разблакіраваць</translation>
 <translation id="9116909380156770361">Перадача файла сюды: <ph name="RESTRICTED_COMPONENTS" /></translation>
 <translation id="912419004897138677">Кодэк</translation>

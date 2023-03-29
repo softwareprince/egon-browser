@@ -299,7 +299,7 @@ Tālāk ir norādīti daži ieteikumi darba sākšanai.</translation>
 <translation id="2620436844016719705">Sistēma</translation>
 <translation id="2621713457727696555">Aizsargāts</translation>
 <translation id="263399434338050016">“Select all” (Atlasīt visu)</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">Loga uzņemšana</translation>
 <translation id="2653659639078652383">Iesniegt</translation>
 <translation id="2658778018866295321">Noklikšķiniet un velciet</translation>
@@ -430,7 +430,7 @@ Tālāk ir norādīti daži ieteikumi darba sākšanai.</translation>
 <translation id="3378438761594387761">Šeit būs redzamas jaunākās lejupielādes un ekrānuzņēmumi.</translation>
 <translation id="3378442621503952303">Notiek savienojuma izveide ar profilu. Uzgaidiet dažas minūtes.</translation>
 <translation id="3386978599540877378">pilnekrāna režīma lupa</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Papildu iestatījumi</translation>
 <translation id="3405101454990027959">Ieslēgt piekļuvi mikrofonam</translation>
 <translation id="3410336247007142655">Rādīt tumšā motīva iestatījumus</translation>
@@ -915,7 +915,7 @@ Pievienojiet ierīci barošanas avotam.</translation>
 <translation id="6043994281159824495">Izrakstīties tagad</translation>
 <translation id="6047696787498798094">Pārslēdzoties uz citu lietotāju, ekrāna koplietošana tiks apturēta. Vai vēlaties turpināt?</translation>
 <translation id="6054305421211936131">Pierakstīties ar viedkarti</translation>
-<translation id="6059276912018042191">Nesen atvērtās Chrome cilnes</translation>
+<translation id="6059276912018042191">Nesen atvērtās Egon cilnes</translation>
 <translation id="6062360702481658777">Jūs tiksiet automātiski izrakstīts pēc šāda laika: <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Vairs neizmantošu šo failu</translation>
 <translation id="6073451960410192870">Pārtraukt ierakstīšanu</translation>
@@ -1020,7 +1020,7 @@ Jauna instalācija</translation>
 <translation id="6650933572246256093">Bluetooth ierīce “<ph name="DEVICE_NAME" />” vēlas saņemt atļauju, lai izveidotu savienojumu pārī. Lūdzu, ievadiet ierīcē šo ieejas atslēgu: <ph name="PASSKEY" />.</translation>
 <translation id="6657585470893396449">Parole</translation>
 <translation id="6665545700722362599">Piešķirt tīmekļa vietnēm, lietotnēm un paplašinājumiem atļauju izmantot atrašanās vietu pakalpojumus, ierīces mikrofonu, kameru un citas funkcijas</translation>
-<translation id="6667908387435388584">Varat izveidot savienojumu ar tālruņa tīklāju, izslēgt ierīces skaņu, noteikt tās atrašanās vietu, kā arī skatīt nesen jūsu tālrunī atvērtās Chrome cilnes</translation>
+<translation id="6667908387435388584">Varat izveidot savienojumu ar tālruņa tīklāju, izslēgt ierīces skaņu, noteikt tās atrašanās vietu, kā arī skatīt nesen jūsu tālrunī atvērtās Egon cilnes</translation>
 <translation id="6670153871843998651">3. galds</translation>
 <translation id="6671495933530132209">Kopēt attēlu</translation>
 <translation id="6671661918848783005">Nevar atbloķēt Chromebook datoru.</translation>

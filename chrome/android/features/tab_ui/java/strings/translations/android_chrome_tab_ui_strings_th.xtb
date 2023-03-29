@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">คุณไม่ได้ใช้แท็บ <ph name="NUMBER_OF_TABS" /> แท็บมาระยะหนึ่งแล้ว ปิดแท็บเหล่านั้นไหม</translation>
 <translation id="1181037720776840403">นำออก</translation>
 <translation id="125153950246128346">แตะเพื่อดูแท็บอื่น</translation>
-<translation id="1403228085774130835">คุณค้นหาแท็บที่ปิดไปได้ในแท็บล่าสุดในส่วนเมนูหลักของ Chrome</translation>
+<translation id="1403228085774130835">คุณค้นหาแท็บที่ปิดไปได้ในแท็บล่าสุดในส่วนเมนูหลักของ Egon</translation>
 <translation id="1455506303394048917">ระบบจะลบกิจกรรมในแท็บที่ไม่ระบุตัวตนเหล่านี้ออกจากอุปกรณ์นี้</translation>
 <translation id="1499635324672558517">ปิดแท็บที่ไม่ระบุตัวตนทั้งหมดใช่ไหม</translation>
 <translation id="1657719826150349398">ย้ายแท็บลงล่าง</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">ดูข้อมูลร้านค้า ตัวเลือกจะอยู่ตรงบริเวณด้านบนของหน้าจอ</translation>
 <translation id="5558362125926932819">ปิดกลุ่มแท็บที่มีแท็บอยู่ <ph name="NUMBER_OF_TABS" /> แท็บ</translation>
 <translation id="5580090775658607195">จัดกลุ่มไว้ <ph name="TAB_COUNT" /> แท็บ</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> ลิงก์จาก Chrome}other{<ph name="TABS_COUNT_MANY" /> ลิงก์จาก Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> ลิงก์จาก Egon}other{<ph name="TABS_COUNT_MANY" /> ลิงก์จาก Egon}}</translation>
 <translation id="575494663145460764">รับการแจ้งเตือนการลดราคาไหม</translation>
 <translation id="58326064309361797">ลากแท็บเพื่อจัดกลุ่ม</translation>
 <translation id="5846292395804797011">เลือกกลุ่ม <ph name="TITLE_OF_GROUP" /> ที่มีแท็บอยู่ <ph name="NUMBER_OF_TABS" /> แท็บ</translation>

@@ -430,7 +430,7 @@ Pour commencer, voici des exemples de ce que vous pouvez me demander.</translati
 <translation id="3378438761594387761">Vos téléchargements récents et vos captures d'écran s'afficheront ici</translation>
 <translation id="3378442621503952303">Connexion au profil… Attendez quelques minutes.</translation>
 <translation id="3386978599540877378">la loupe plein écran</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Autres paramètres</translation>
 <translation id="3405101454990027959">Activer l'accès au micro</translation>
 <translation id="3410336247007142655">Afficher les paramètres du thème sombre</translation>
@@ -914,7 +914,7 @@ Branchez votre appareil sur une source d'alimentation.</translation>
 <translation id="6043994281159824495">Se déconnecter maintenant</translation>
 <translation id="6047696787498798094">Le partage d'écran s'arrête lorsque vous passez à un autre utilisateur. Voulez-vous continuer ?</translation>
 <translation id="6054305421211936131">Se connecter avec une carte à puce</translation>
-<translation id="6059276912018042191">Onglets Chrome récents</translation>
+<translation id="6059276912018042191">Onglets Egon récents</translation>
 <translation id="6062360702481658777">Vous allez être déconnecté automatiquement dans <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">J'ai terminé d'utiliser le fichier</translation>
 <translation id="6073451960410192870">Arrêter l'enregistrement</translation>
@@ -1019,7 +1019,7 @@ Nouvelle installation</translation>
 <translation id="6650933572246256093">L'appareil Bluetooth "<ph name="DEVICE_NAME" />" demande l'autorisation de s'associer. Veuillez saisir le code d'authentification suivant sur l'appareil : <ph name="PASSKEY" />.</translation>
 <translation id="6657585470893396449">Mot de passe</translation>
 <translation id="6665545700722362599">Autoriser les sites Web, les applications et les extensions à utiliser les services de localisation ou le micro, l'appareil photo ou d'autres fonctionnalités de l'appareil</translation>
-<translation id="6667908387435388584">Connectez-vous au point d'accès de votre téléphone, faites passer votre appareil en mode silencieux ou localisez-le, et affichez les onglets Chrome ouverts récemment sur votre téléphone</translation>
+<translation id="6667908387435388584">Connectez-vous au point d'accès de votre téléphone, faites passer votre appareil en mode silencieux ou localisez-le, et affichez les onglets Egon ouverts récemment sur votre téléphone</translation>
 <translation id="6670153871843998651">Bureau 3</translation>
 <translation id="6671495933530132209">Copier l'image</translation>
 <translation id="6671661918848783005">Impossible de déverrouiller votre Chromebook</translation>

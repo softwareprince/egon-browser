@@ -299,7 +299,7 @@
 <translation id="2620436844016719705">Систем</translation>
 <translation id="2621713457727696555">Заштићено</translation>
 <translation id="263399434338050016">„Изабери све“</translation>
-<translation id="2645435784669275700">Chrome ОС</translation>
+<translation id="2645435784669275700">Egon ОС</translation>
 <translation id="2653019840645008922">Снимање прозора</translation>
 <translation id="2653659639078652383">Пошаљи</translation>
 <translation id="2658778018866295321">Кликните и превуците</translation>
@@ -430,7 +430,7 @@
 <translation id="3378438761594387761">Овде ћете пронаћи недавна преузимања и снимке екрана</translation>
 <translation id="3378442621503952303">Повезује се са профилом. Сачекајте неколико минута.</translation>
 <translation id="3386978599540877378">лупа преко целог екрана</translation>
-<translation id="3387527074123400161">Chromium ОС</translation>
+<translation id="3387527074123400161">Egon ОС</translation>
 <translation id="3400357268283240774">Додатна подешавања</translation>
 <translation id="3405101454990027959">Укључи приступ микрофону</translation>
 <translation id="3410336247007142655">Прикажите подешавања тамне теме</translation>
@@ -916,7 +916,7 @@
 <translation id="6043994281159824495">Одјави ме одмах</translation>
 <translation id="6047696787498798094">Дељење екрана ће се прекинути када пребаците на другог корисника. Желите ли да наставите?</translation>
 <translation id="6054305421211936131">Пријавите се помоћу паметне картице</translation>
-<translation id="6059276912018042191">Недавне Chrome картице</translation>
+<translation id="6059276912018042191">Недавне Egon картице</translation>
 <translation id="6062360702481658777">Аутоматски ћете бити одјављени за <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Не желим више да користим овај фајл</translation>
 <translation id="6073451960410192870">Заустави снимање</translation>
@@ -1021,7 +1021,7 @@
 <translation id="6650933572246256093">Bluetooth уређај „<ph name="DEVICE_NAME" />“ жели дозволу за упаривање. Унесите ову шифру на том уређају: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Лозинка</translation>
 <translation id="6665545700722362599">Дозволите веб-сајтовима, апликацијама и додацима да користе услуге локације или микрофон, камеру или друге функције уређаја</translation>
-<translation id="6667908387435388584">Повежите се са хотспотом телефона, искључите звук уређаја и пронађите га и прегледајте недавне Chrome картице отворене на телефону</translation>
+<translation id="6667908387435388584">Повежите се са хотспотом телефона, искључите звук уређаја и пронађите га и прегледајте недавне Egon картице отворене на телефону</translation>
 <translation id="6670153871843998651">Радна површина 3</translation>
 <translation id="6671495933530132209">Копирај слику</translation>
 <translation id="6671661918848783005">Откључавање Chromebook-а није успело</translation>

@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Arrossega el control lliscant fins que puguis llegir aquest text còmodament. El text ha de ser almenys així de gran després de tocar dos cops un paràgraf.</translation>
 <translation id="2329473609445770916">Aquest lloc web defineix interessos que altres llocs web poden utilitzar per mostrar-te anuncis</translation>
 <translation id="2359808026110333948">Continua</translation>
-<translation id="2379925928934107488">Aplica el tema fosc als llocs web quan Chrome l'utilitzi i sigui possible</translation>
+<translation id="2379925928934107488">Aplica el tema fosc als llocs web quan Egon l'utilitzi i sigui possible</translation>
 <translation id="2387895666653383613">Ajust del text</translation>
 <translation id="2390272837142897736">Amplia el zoom</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">Del web</translation>
 <translation id="321187648315454507">Perquè <ph name="APP_NAME" /> et pugui enviar notificacions, també has d'activar-les a la <ph name="BEGIN_LINK" />configuració d'Android<ph name="END_LINK" />.</translation>
 <translation id="3227137524299004712">Micròfon</translation>
-<translation id="3248611290851046188">Aquest lloc web defineix interessos que altres llocs web poden utilitzar per mostrar-te anuncis. També obté els teus interessos de Chrome per mostrar-te anuncis més rellevants.</translation>
+<translation id="3248611290851046188">Aquest lloc web defineix interessos que altres llocs web poden utilitzar per mostrar-te anuncis. També obté els teus interessos de Egon per mostrar-te anuncis més rellevants.</translation>
 <translation id="3277252321222022663">Permet que els llocs web accedeixin als sensors (opció recomanada)</translation>
 <translation id="3285500645985761267">Permet que els llocs web relacionats vegin la teva activitat al grup</translation>
 <translation id="3295019059349372795">Capítol 11: La meravellosa Ciutat Maragda d'Oz</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">Amb aquesta acció s'esborraran dades i galetes (<ph name="DATASIZE" />) emmagatzemades per llocs web.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(i 1 més)}other{(i # més)}}</translation>
 <translation id="5403592356182871684">Noms</translation>
-<translation id="5412236728747081950">Aquest lloc web obté els teus interessos de Chrome per mostrar-te anuncis més rellevants</translation>
+<translation id="5412236728747081950">Aquest lloc web obté els teus interessos de Egon per mostrar-te anuncis més rellevants</translation>
 <translation id="5438097262470833822">Amb aquesta opció, es restabliran els permisos per a <ph name="WEBSITE" /></translation>
 <translation id="5489227211564503167">Temps transcorregut: <ph name="ELAPSED_TIME" /> de <ph name="TOTAL_TIME" />.</translation>
 <translation id="5494752089476963479">Bloqueja els anuncis als llocs web que mostren publicitat intrusiva o enganyosa</translation>

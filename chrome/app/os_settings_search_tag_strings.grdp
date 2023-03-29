@@ -414,7 +414,7 @@
   <message name="IDS_OS_SETTINGS_TAG_SYNC_ENCRYPTION_OPTIONS_ALT1" desc="Text for search result item which, when clicked, navigates the user to sync settings, with an option to choose whether synced data is encrypted with the user's Google account password or with a custom password chosen by the user. Alternate phrase for: 'Sync encryption options'">
     Sync encryption password
   </message>
-  <message name="IDS_OS_SETTINGS_TAG_SYNC_MANAGEMENT" desc="Text for search result item which, when clicked, navigates the user to sync settings, with the option to decide which types of data are synced via Chrome Sync.">
+  <message name="IDS_OS_SETTINGS_TAG_SYNC_MANAGEMENT" desc="Text for search result item which, when clicked, navigates the user to sync settings, with the option to decide which types of data are synced via Egon Sync.">
     Sync management
   </message>
   <message name="IDS_OS_SETTINGS_TAG_AUTOCOMPLETE_SEARCHES_AND_URLS" desc="Text for search result item which, when clicked, navigates the user to Google services settings, with a toggle to enable/disable a feature which autocompletes user searches and URLs using browser history and cookies.">

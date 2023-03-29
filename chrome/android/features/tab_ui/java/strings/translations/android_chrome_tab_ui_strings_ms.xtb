@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> daripada tab anda sudah lama tidak digunakan. Tutup tab?</translation>
 <translation id="1181037720776840403">Alih keluar</translation>
 <translation id="125153950246128346">Ketik untuk melihat tab lain</translation>
-<translation id="1403228085774130835">Anda boleh menemui tab anda yg ditutup dalam tab Baru-baru ini di bawah menu utama Chrome</translation>
+<translation id="1403228085774130835">Anda boleh menemui tab anda yg ditutup dalam tab Baru-baru ini di bawah menu utama Egon</translation>
 <translation id="1455506303394048917">Aktiviti anda dalam tab Inkognito ini akan dikosongkan daripada peranti ini</translation>
 <translation id="1499635324672558517">Tutup semua tab Inkognito?</translation>
 <translation id="1657719826150349398">Alihkan tab ke bawah</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Lihat maklumat kedai, pilihan tersedia berhampiran bahagian atas skrin</translation>
 <translation id="5558362125926932819">Tutup kumpulan tab dengan <ph name="NUMBER_OF_TABS" /> tab</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> tab dihimpunkan</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> pautan daripada Chrome}other{<ph name="TABS_COUNT_MANY" /> pautan daripada Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> pautan daripada Egon}other{<ph name="TABS_COUNT_MANY" /> pautan daripada Egon}}</translation>
 <translation id="575494663145460764">Dapatkan makluman untuk penurunan harga?</translation>
 <translation id="58326064309361797">Seret tab untuk dihimpunkan</translation>
 <translation id="5846292395804797011">Tutup kumpulan <ph name="TITLE_OF_GROUP" /> dengan <ph name="NUMBER_OF_TABS" /> tab</translation>

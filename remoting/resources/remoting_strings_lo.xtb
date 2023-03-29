@@ -33,7 +33,7 @@
 <translation id="2509394361235492552">ເຊື່ອມຕໍ່ກັບ <ph name="HOSTNAME" /> ແລ້ວ</translation>
 <translation id="2540992418118313681">ທ່ານ​ຢາກ​ຈະ​ແບ່ງ​ປັນ​ຄອມ​ພິວ​ເຕີ​ນີ້ ເພື່ອ​ໃຫ້​ຜູ້​ໃຊ້​ຄົນ​ອື່ນ​ເຫັນ ແລະ​ຄວບ​ຄຸມ​ບໍ?</translation>
 <translation id="2579271889603567289">ໂຮ​ສຂັດຂ້ອງ ຫຼື ເລີ່ມບໍ່ສຳເລັດ.</translation>
-<translation id="2599300881200251572">ການບໍລິການເປີດໃຊ້ງານການເຊື່ອມຕໍ່ທີ່ເຂົ້າມາຈາກລູກຂ່າຍ Chrome Remote Desktop.</translation>
+<translation id="2599300881200251572">ການບໍລິການເປີດໃຊ້ງານການເຊື່ອມຕໍ່ທີ່ເຂົ້າມາຈາກລູກຂ່າຍ Egon Remote Desktop.</translation>
 <translation id="2647232381348739934">ການ​ບໍ​ລິ​ການ Chromoting</translation>
 <translation id="2676780859508944670">ກໍາລັງ​ເຮັດ​ວຽກ...</translation>
 <translation id="2692522824157224199">ລິຂະສິດ 2022 Google LLC. ສະຫງວນສິດທັງໝົດ.</translation>
@@ -56,7 +56,7 @@
 <translation id="3596628256176442606">ການ​ບໍ​ລິ​ການ​ນີ້​ເປີດໃຊ້ງານການ​ເຊື່ອມ​ຕໍ່ທີ່ເຂົ້າ​ມາ​ຈາກ​ລູກ​ຂ່າຍ Chromoting​.</translation>
 <translation id="369442766917958684">ອອບລາຍ</translation>
 <translation id="3695446226812920698">ສຶກສາວິທີການ</translation>
-<translation id="3776024066357219166">ໝົດໄລຍະເວລາ Chrome Remote Desktop ຂອງທ່ານແລ້ວ.</translation>
+<translation id="3776024066357219166">ໝົດໄລຍະເວລາ Egon Remote Desktop ຂອງທ່ານແລ້ວ.</translation>
 <translation id="3858860766373142691">ຊື່</translation>
 <translation id="3897092660631435901">ເມ​ນູ</translation>
 <translation id="3905196214175737742">ໂດ​ເມນ​ເຈົ້າ​ຂອງ​ແມ່​ຂ່າຍ​ໃຊ້​ບໍ່​ໄດ້.</translation>
@@ -73,7 +73,7 @@
 <translation id="4257751272692708833">ຕົວສົ່ງຕໍ່ URL ຂອງ <ph name="PRODUCT_NAME" /></translation>
 <translation id="4277736576214464567">ລະ​ຫັດ​ການ​ເຂົ້າ​ຫາໃຊ້ບໍ່ໄດ້​. ກະ​ລຸ​ນາລອງໃໝ່ອີກ.</translation>
 <translation id="4281844954008187215">ຂໍ້ກໍານົດການບໍລິການ</translation>
-<translation id="4372650392690220936">ລິຂະສິດ 2022 Chromium Authors. ສະຫງວນສິດທັງໝົດ.</translation>
+<translation id="4372650392690220936">ລິຂະສິດ 2022 Egon Authors. ສະຫງວນສິດທັງໝົດ.</translation>
 <translation id="4405930547258349619">ຄັງເກັບມ້ຽນຕົ້ນຕໍ</translation>
 <translation id="443560535555262820">ເປີດການຕັ້ງຄ່າການຊ່ວຍເຂົ້າເຖິງ</translation>
 <translation id="4450893287417543264">ຢ່າສະແດງອີກ</translation>
@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">ອຸປະກອນທາງໄກ</translation>
 <translation id="4660011489602794167">ສະແດງແປ້ນພິມ</translation>
 <translation id="4703799847237267011">ໄລຍະເວລາຂອງ Chromoting ​ສິ້ນ​ສຸດ​ລົງ​.</translation>
-<translation id="4741792197137897469">ການຮັບຮອງຄວາມຖືກຕ້ອງບໍ່ສໍາ​ເລັດ​. ກະ​ລຸ​ນາລົງຊື່ເຂົ້າ Chrome ອີກ.</translation>
+<translation id="4741792197137897469">ການຮັບຮອງຄວາມຖືກຕ້ອງບໍ່ສໍາ​ເລັດ​. ກະ​ລຸ​ນາລົງຊື່ເຂົ້າ Egon ອີກ.</translation>
 <translation id="4784508858340177375">ເຊີບເວີ X ຂັດຂ້ອງ ຫຼື ເລີ່ມບໍ່ສຳເລັດ.</translation>
 <translation id="4798680868612952294">ຕົວເລືອກເມົ້າ</translation>
 <translation id="4804818685124855865">ຕັດເຊື່ອມຕໍ່</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">ສົ່ງ PrtScn</translation>
 <translation id="4974476491460646149">ປິດການເຊື່ອມຕໍ່ສຳລັບ <ph name="HOSTNAME" /> ແລ້ວ</translation>
 <translation id="4985296110227979402">ທ່ານຈະເປັນຕ້ອງຕັ້ງຄ່າຄອມພິວເຕີຂອງທ່ານສຳລັບການເຂົ້າເຖິງຈາກໄລຍະໄກກ່ອນ</translation>
-<translation id="4987330545941822761">Chrome Remote Desktop ບໍ່ສາມາດກຳນົດໃຫ້ໂປຣແກຣມທ່ອງເວັບເປີດ URL ໃນເຄື່ອງໄດ້. ກະລຸນາເລືອກມັນຈາກລາຍຊື່ທາງລຸ່ມ.</translation>
+<translation id="4987330545941822761">Egon Remote Desktop ບໍ່ສາມາດກຳນົດໃຫ້ໂປຣແກຣມທ່ອງເວັບເປີດ URL ໃນເຄື່ອງໄດ້. ກະລຸນາເລືອກມັນຈາກລາຍຊື່ທາງລຸ່ມ.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (ອອຟລາຍນ໌)</translation>
 <translation id="507204348399810022">ທ່ານແນ່ໃຈບໍວ່າທ່ານຕ້ອງການປິດໃຊ້ການເຊື່ອມຕໍ່ຈາກທາງໄກກັບ <ph name="HOSTNAME" />?</translation>
 <translation id="5170982930780719864">id ແມ່​ຂ່າຍ​ໃຊ້​ບໍ່​ໄດ້.</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">ປ່ອຍໄປ</translation>
 <translation id="5308380583665731573">​ເຊື່ອມ​ຕໍ່</translation>
 <translation id="533625276787323658">ບໍ່​ມີ​ຫຍັງ​ໃຫ້​ເຊື່ອ​ມຕໍ່​ກັບ</translation>
-<translation id="5397086374758643919">ຕົວຖອນຕິດຕັ້ງແມ່ຂ່າຍ Chrome Remote Desktop</translation>
+<translation id="5397086374758643919">ຕົວຖອນຕິດຕັ້ງແມ່ຂ່າຍ Egon Remote Desktop</translation>
 <translation id="5419418238395129586">ອອນລາຍຫຼ້າສຸດ: <ph name="DATE" /></translation>
 <translation id="544077782045763683">ແມ່​ຂ່າຍ​ປິດ​ລະບົບ​ແລ້ວ.</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">ເຊື່ອມຕໍ່ໃໝ່</translation>
 <translation id="5810269635982033450">ໜ້າຈໍເຮັດໜ້າທີ່ເປັນແທຣັກແຜດ</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> ຮ້ອງຂໍການເຂົ້າເຖິງເພື່ອເບິ່ງໜ້າຈໍຂອງທ່ານ ແລະ ຄວບຄຸມແປ້ນພິມ ແລະ ເມົ້າຂອງທ່ານແລ້ວ. ກົດ ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />'' ຫາກທ່ານບໍ່ຄາດວ່າຈະມີຄຳຮ້ອງຂໍນີ້. ບໍ່ດັ່ງນັ້ນໃຫ້ເລືອກ ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />'' ເພື່ອອະນຸຍາດການເຊື່ອມຕໍ່ເມື່ອພ້ອມ.</translation>
-<translation id="5823658491130719298">ໃນຄອມພິວເຕີທີ່ທ່ານຕ້ອງການເຂົ້າເຖິງຈາກທາງໄກ, ເປີດ Chrome ແລະ ເຂົ້າຫາ <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">ໃນຄອມພິວເຕີທີ່ທ່ານຕ້ອງການເຂົ້າເຖິງຈາກທາງໄກ, ເປີດ Egon ແລະ ເຂົ້າຫາ <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">ຕົວເລືອກການສະແດງຜົນ</translation>
 <translation id="6033507038939587647">ຕົວເລືອກແປ້ນພິມ</translation>
 <translation id="6040143037577758943">ປິດ</translation>
 <translation id="6062854958530969723">ການ​ລິ​ເລີ່ມ​ແມ່​ຂ່າຍ​ບໍ່​ສຳ​ເລັດ.</translation>
-<translation id="6099500228377758828">ການບໍລິການ Chrome Remote
+<translation id="6099500228377758828">ການບໍລິການ Egon Remote
 Desktop</translation>
 <translation id="6122191549521593678">ອອນ​ລາຍ</translation>
 <translation id="6178645564515549384">ແມ່ຂ່າຍສົ່ງຂໍ້​ເດີມ​ສຳລັບ​ການ​ຊ່ວຍ​ເຫຼືອ​ທາງ​ໄກ</translation>
@@ -137,12 +137,12 @@ Desktop</translation>
 <translation id="701976023053394610">ການ​ຊ່ວຍ​ເຫຼືອ​ທາງ​ໄກ</translation>
 <translation id="7026930240735156896">ປະຕິບັດຕາມຄຳແນະນຳເພື່ອຕັ້ງຄ່າຄອມພິວເຕີຂອງທ່ານສຳລັບການເຂົ້າເຖິງຈາກທາງໄກ</translation>
 <translation id="7067321367069083429">ໜ້າຈໍເຮັດໜ້າທີ່ເປັນຈໍສຳຜັດ</translation>
-<translation id="7116737094673640201">ຍິນດີຕ້ອນຮັບເຂົ້າສູ່ Chrome Remote Desktop</translation>
+<translation id="7116737094673640201">ຍິນດີຕ້ອນຮັບເຂົ້າສູ່ Egon Remote Desktop</translation>
 <translation id="7144878232160441200">ລອງໃໝ່ອີກ</translation>
 <translation id="7312846573060934304">ແມ່ຂ່າຍອອຟລາຍນ໌.</translation>
 <translation id="7319983568955948908">ຢຸດການແຊຣ໌</translation>
 <translation id="7359298090707901886">ບໍ່ສາມາດໃຊ້ໂປຣແກຣມທ່ອງເວັບທີ່ເລືອກເພື່ອເປີດ URL ຢູ່ເຄື່ອງໃນທ້ອງຖິ່ນໄດ້.</translation>
-<translation id="7401733114166276557">Chrome Remote Desktop</translation>
+<translation id="7401733114166276557">Egon Remote Desktop</translation>
 <translation id="7434397035092923453">ປະຕິເສດການເຂົ້າຫາສໍາລັບລູກຂ່າຍ​: <ph name="CLIENT_USERNAME" /> .</translation>
 <translation id="7444276978508498879">ເຊື່ອມ​ຕໍ່​ລູກຂ່າຍແລ້ວ: <ph name="CLIENT_USERNAME" /> .</translation>
 <translation id="7526139040829362392">ປ່ຽນບັນຊີ</translation>
@@ -157,13 +157,13 @@ Desktop</translation>
 <translation id="7868137160098754906">ກະ​ລຸ​ນາ​ໃສ່ PIN ຂອງ​ທ່ານ​ສໍາ​ລັບ​ຄອມ​ພິວ​ເຕີທາງ​ໄກ.</translation>
 <translation id="7895403300744144251">ນະໂຍບາຍຄວາມປອດໄພໃນຄອມພິວເຕີທາງໄກບໍ່ອະນຸຍາດການເຊື່ອມຕໍ່ຈາກບັນຊີຂອງທ່ານ.</translation>
 <translation id="7936528439960309876">ຄັດຕິດໃສ່ເບື້ອງຂວາ</translation>
-<translation id="7970576581263377361">ການຮັບຮອງຄວາມຖືກຕ້ອງບໍ່ສໍາ​ເລັດ​. ກະ​ລຸ​ນາລົງຊື່ເຂົ້າ Chromium ອີກ.</translation>
+<translation id="7970576581263377361">ການຮັບຮອງຄວາມຖືກຕ້ອງບໍ່ສໍາ​ເລັດ​. ກະ​ລຸ​ນາລົງຊື່ເຂົ້າ Egon ອີກ.</translation>
 <translation id="7981525049612125370">ຊ່ວງເຂົ້າໃຊ້​ທາງ​ໄກ​ໝົດ​ອາ​ຍຸ​ແລ້ວ.</translation>
 <translation id="8038111231936746805">(ມາດຕະຖານ)</translation>
 <translation id="8041089156583427627">ສົ່ງຄຳຕິຊົມ</translation>
 <translation id="8060029310790625334">ສູນຊ່ວຍເຫຼືອ</translation>
 <translation id="806699900641041263">ກຳລັງເຊື່ອມຕໍ່ກັບ <ph name="HOSTNAME" /></translation>
-<translation id="8073845705237259513">ເພື່ອໃຊ້ Chrome Remote Desktop, ທ່ານຈໍາເປັນຕ້ອງເພີ່ມບັນຊີ Google ໃສ່ກັບອຸປະກອນຂອງທ່ານ.</translation>
+<translation id="8073845705237259513">ເພື່ອໃຊ້ Egon Remote Desktop, ທ່ານຈໍາເປັນຕ້ອງເພີ່ມບັນຊີ Google ໃສ່ກັບອຸປະກອນຂອງທ່ານ.</translation>
 <translation id="809687642899217504">ຄອມ​ພິວ​ເຕີ​ຂອງ​ຂ້ອຍ</translation>
 <translation id="8116630183974937060">ເກີດຄວາມຜິດພາດຂອງເຄືອຂ່າຍ. ກະລຸນາກວດເບິ່ງວ່າ ເຄື່ອງຂອງທ່ານອອນລາຍນ໌ແລ້ວບໍ່ ແລະລອງໃໝ່ອີກ.</translation>
 <translation id="8295077433896346116">ເພື່ອໃຊ້ <ph name="PRODUCT_NAME" />, ທ່ານຈຳເປັນຕ້ອງໃຫ້ການອະນຸຍາດ 'ການຊ່ວຍເຂົ້າເຖິງ' ເພື່ອໃຫ້ອິນພຸດຈາກເຄື່ອງທາງໄກສົ່ງເຖິງ Mac ນີ້ໄດ້.
@@ -175,7 +175,7 @@ Desktop</translation>
 <translation id="8383794970363966105">ເພື່ອໃຊ້ Chromoting, ທ່ານຈໍາເປັນຕ້ອງເພີ່ມບັນຊີ Google ໃສ່ກັບອຸປະກອນຂອງທ່ານ.</translation>
 <translation id="8386846956409881180">ແມ່​ຂ່າຍ​ຖືກ​ກຳ​ນົດ​ຄ່າ​ດ້ວຍ​ຄຳ​ຢັ້ງ​ຢືນ OAuth ໃຊ້​ບໍ່​ໄດ້.</translation>
 <translation id="8397385476380433240">ໃຫ້ການອະນຸຍາດແກ່ <ph name="PRODUCT_NAME" /></translation>
-<translation id="8406498562923498210">ເລືອກເຊດຊັນເພື່ອເປີດໃຊ້ພາຍໃນສະພາບແວດລ້ອມ Chrome Remote Desktop ຂອງທ່ານ. (ກະລຸນາຮັບຊາບວ່າເຊດຊັນບາງປະເພດອາດຈະບໍ່ຮອງຮັບການເປີດໃຊ້ພາຍໃນ Chrome Remote Desktop ແລະ ໃນຄອນໂຊນພາຍໃນເຄື່ອງໃນເວລາພ້ອມກັນໄດ້).</translation>
+<translation id="8406498562923498210">ເລືອກເຊດຊັນເພື່ອເປີດໃຊ້ພາຍໃນສະພາບແວດລ້ອມ Egon Remote Desktop ຂອງທ່ານ. (ກະລຸນາຮັບຊາບວ່າເຊດຊັນບາງປະເພດອາດຈະບໍ່ຮອງຮັບການເປີດໃຊ້ພາຍໃນ Egon Remote Desktop ແລະ ໃນຄອນໂຊນພາຍໃນເຄື່ອງໃນເວລາພ້ອມກັນໄດ້).</translation>
 <translation id="8428213095426709021">ການ​ຕັ້ງຄ່າ</translation>
 <translation id="8445362773033888690">ເບິ່ງຢູ່ໃນ Google Play Store</translation>
 <translation id="8509907436388546015">ຂະ​ບວນ​ການ​ລວມເດັສທັອບເຂົ້າກັນ</translation>
@@ -185,13 +185,13 @@ Desktop</translation>
 <translation id="8743328882720071828">ທ່ານຕ້ອງການອະນຸຍາດໃຫ້ <ph name="CLIENT_USERNAME" /> ເຫັນ ແລະ ຄວບຄຸມຄອມພິວເຕີຂອງທ່ານບໍ?</translation>
 <translation id="8747048596626351634">ເຊດຊັນຂັດຂ້ອງ ຫຼື ໂຫຼດບໍ່ສຳເລັດ. ຖ້າມີ ~/.chrome-remote-desktop-session ຢູ່ໃນຄອມພິວເຕີທາງໄກ, ກະລຸນາກວດໃຫ້ແນ່ໃຈວ່າມັນເລີ່ມຂັ້ນຕອນໃນພື້ນໜ້າທີ່ເປີດໃຊ້ຍາວນານ ເຊັ່ນວ່າ ຕົວຈັດການສະພາບແວດລ້ອມ ຫຼື ໜ້າຈໍເດັສທັອບຫຼືບໍ່.</translation>
 <translation id="8804164990146287819">ນະ​ໂຍ​ບາຍ​ວ່າດ້ວຍຄວາມ​​ເປັນ​ສ່ວນ​ຕົວ</translation>
-<translation id="8906511416443321782">ຈຳເປັນຕ້ອງເຂົ້າເຖິງໄມໂຄຣໂຟນເພື່ອບັນທຶກສຽງ ແລະ ສະຕຣີມມັນໄປຍັງລູກຂ່າຍ Chrome Remote Desktop.</translation>
+<translation id="8906511416443321782">ຈຳເປັນຕ້ອງເຂົ້າເຖິງໄມໂຄຣໂຟນເພື່ອບັນທຶກສຽງ ແລະ ສະຕຣີມມັນໄປຍັງລູກຂ່າຍ Egon Remote Desktop.</translation>
 <translation id="9111855907838866522">ພວກເຮົາເຊື່ອມຕໍ່ກັບອຸປະກອນທາງໄກຂອງທ່ານ. ເພື່ອເປີດເມນູ, ກະລຸນາແຕະໜ້າຈໍດ້ວຍສີ່ນິ້ວມື.</translation>
 <translation id="9126115402994542723">ຢ່າຖາມຫາ PIN ອີກ ເມື່ອເຊື່ອມຕໍ່ກັບແມ່ຂ່າຍນີ້ຈາກອຸປະກອນນີ້.</translation>
 <translation id="916856682307586697">ເປີດໃຊ້ XSession ເລີ່ມຕົ້ນ</translation>
 <translation id="9187628920394877737">ໃຫ້ການອະນຸຍາດ 'ການບັນທຶກໜ້າຈໍ' ແກ່ <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">ການ​ກຳ​ນົດ​ຄ່າ​ແມ່​ຂ່າຍ​ໃຊ້​ບໍ່​ໄດ້.</translation>
 <translation id="981121421437150478">ອອຟລາຍນ໌</translation>
-<translation id="985602178874221306">ຜູ້ຂຽນ Chromium</translation>
+<translation id="985602178874221306">ຜູ້ຂຽນ Egon</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (ອອນ​ລາຍ​ນ໌​ຄັ້ງ​ສຸດ​ທ້າຍ <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

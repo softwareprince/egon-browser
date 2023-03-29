@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">የርቀት መሣሪያዎች</translation>
 <translation id="4660011489602794167">የቁልፍ ሰሌዳን አሳይ</translation>
 <translation id="4703799847237267011">የChromoting ክፍለ-ጊዜዎ ተጠናቅቋል።</translation>
-<translation id="4741792197137897469">ማረጋገጥ አልተሳካም። እባክዎ እንደገና ወደ Chrome ይግቡ።</translation>
+<translation id="4741792197137897469">ማረጋገጥ አልተሳካም። እባክዎ እንደገና ወደ Egon ይግቡ።</translation>
 <translation id="4784508858340177375">X አገልጋይ ተበላሽቷል ወይም መጀመር አልቻለም።</translation>
 <translation id="4798680868612952294">የመዳፊት አማራጮች</translation>
 <translation id="4804818685124855865">ግንኙነት አቋርጥ</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">PrtScn ላክ</translation>
 <translation id="4974476491460646149">የ<ph name="HOSTNAME" /> ግንኙነት ተዘግቷል</translation>
 <translation id="4985296110227979402">በመጀመሪያ ኮምፒውተርዎን ለርቀት መዳረሻ ማዋቀር አለብዎት</translation>
-<translation id="4987330545941822761">Chrome የርቀት ዴስክቶፕ ዩአርኤሎችን በአካባቢው ለመክፈት አሳሹን መወሰን አይችልም። እባክዎን ከዚህ በታች ካለው ዝርዝር ውስጥ ይምረጡ።</translation>
+<translation id="4987330545941822761">Egon የርቀት ዴስክቶፕ ዩአርኤሎችን በአካባቢው ለመክፈት አሳሹን መወሰን አይችልም። እባክዎን ከዚህ በታች ካለው ዝርዝር ውስጥ ይምረጡ።</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (ከመስመር ውጭ)</translation>
 <translation id="507204348399810022">ከ<ph name="HOSTNAME" /> ጋር ያሉ የርቀት ግንኙነቶችን ማሰናከል ይፈልጋሉ?</translation>
 <translation id="5170982930780719864">ልክ ያልሆነ የአስተናጋጅ መታወቂያ።</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">አሰናብት</translation>
 <translation id="5308380583665731573">ይገናኙ</translation>
 <translation id="533625276787323658">ምንም የሚገናኙት ነገር የለም</translation>
-<translation id="5397086374758643919">Chrome የርቀት ዴስክቶፕ አስተናጋጅ ማራገፊያ</translation>
+<translation id="5397086374758643919">Egon የርቀት ዴስክቶፕ አስተናጋጅ ማራገፊያ</translation>
 <translation id="5419418238395129586">መጨረሻ መስመር ላይ የነበረው በ፦ <ph name="DATE" /></translation>
 <translation id="544077782045763683">አስተናጋጅ ተዘግቷል።</translation>
 <translation id="5601503069213153581">ፒን</translation>
@@ -116,7 +116,7 @@
 <translation id="6033507038939587647">የቁልፍ ሰሌዳ አማራጮች</translation>
 <translation id="6040143037577758943">ዝጋ</translation>
 <translation id="6062854958530969723">አስተናጋጅን ማስጀመር አልተሳካም።</translation>
-<translation id="6099500228377758828">Chrome የርቀት ዴስክቶፕ አገልግሎት</translation>
+<translation id="6099500228377758828">Egon የርቀት ዴስክቶፕ አገልግሎት</translation>
 <translation id="6122191549521593678">መስመር ላይ</translation>
 <translation id="6178645564515549384">ቤተኛ የመልዕክት መላኪያ አስተናጋጅ ለርቀት እርዳታ</translation>
 <translation id="618120821413932081">ከመስኮቱ ጋር ለማገጣጠም የርቀት ምስል ጥራቱን ያዘምኑ</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">የርቀት እርዳታ</translation>
 <translation id="7026930240735156896">ኮምፒውተርዎን ለርቀት መዳረሻ ለማዋቀር መመሪያዎቹን ይከተሉ</translation>
 <translation id="7067321367069083429">ማያ ገጽ እንደ ማያንካ ይሆናል</translation>
-<translation id="7116737094673640201">እንኳን ወደ Chrome የርቀት ዴስክቶፕ በደህና መጡ</translation>
+<translation id="7116737094673640201">እንኳን ወደ Egon የርቀት ዴስክቶፕ በደህና መጡ</translation>
 <translation id="7144878232160441200">እንደገና ሞክር</translation>
 <translation id="7312846573060934304">አስተናጋጅ ከመስመር ውጭ ነው።</translation>
 <translation id="7319983568955948908">ማጋራት አቁም</translation>
 <translation id="7359298090707901886">የተመረጠው አሳሽ በአካባቢያዊ ማሽን ላይ ዩአርኤልዎችን ለመክፈት ጥቅም ላይ ሊውል አይችልም።</translation>
-<translation id="7401733114166276557">Chrome የርቀት ዴስክቶፕ</translation>
+<translation id="7401733114166276557">Egon የርቀት ዴስክቶፕ</translation>
 <translation id="7434397035092923453">ለደንበኛ መዳረሻ ተከልክሏል፦ <ph name="CLIENT_USERNAME" />።</translation>
 <translation id="7444276978508498879">የተገናኘው ደንበኛ፦ <ph name="CLIENT_USERNAME" />።</translation>
 <translation id="7526139040829362392">መለያ ቀይር</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">እባክዎ የእርስዎን ፒን ለርቀት ኮምፒውተር ያስገቡ</translation>
 <translation id="7895403300744144251">በርቀት ኮምፒውተሩ ላይ ያሉ የደህንነት መመሪያዎች ከእርስዎ መለያ ጋር ግንኙነቶችን አይፈቅዱም።</translation>
 <translation id="7936528439960309876">መትከያ ወደ ቀኝ</translation>
-<translation id="7970576581263377361">ማረጋገጥ አልተሳካም። እባክዎ እንደገና ወደ Chromium ይግቡ።</translation>
+<translation id="7970576581263377361">ማረጋገጥ አልተሳካም። እባክዎ እንደገና ወደ Egon ይግቡ።</translation>
 <translation id="7981525049612125370">የርቀት ክፍለጊዜውን ጊዜው አልፎበታል።</translation>
 <translation id="8038111231936746805">(ነባሪ)</translation>
 <translation id="8041089156583427627">ግብረ መልስ ላክ</translation>
 <translation id="8060029310790625334">የእገዛ ማዕከል</translation>
 <translation id="806699900641041263">ከ<ph name="HOSTNAME" /> ጋር በመገናኘት ላይ</translation>
-<translation id="8073845705237259513">Chrome የርቀት ዴስክቶፕን ለመጠቀም የአንድ የGoogle መለያ በመሣሪያዎ ላይ ማከል አለብዎት።</translation>
+<translation id="8073845705237259513">Egon የርቀት ዴስክቶፕን ለመጠቀም የአንድ የGoogle መለያ በመሣሪያዎ ላይ ማከል አለብዎት።</translation>
 <translation id="809687642899217504">የእኔ ኮምፒውተሮች</translation>
 <translation id="8116630183974937060">አንድ የአውታረ መረብ ስህተት ተከስቷል። እባክዎ የእርስዎ መሣሪያ መስመር ላይ መሆኑን ያረጋግጡና እንደገና ይሞክሩ።</translation>
 <translation id="8295077433896346116"><ph name="PRODUCT_NAME" />ን ለመጠቀም ከርቀት ማሽኑ የመጣ ግቤት ወደዚህ Mac እንዲገባ ለማድረግ የ«ተደራሽነት» ፈቃዱን መስጠት ይኖርብዎታል።
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">Chromotingን ለመጠቀም የአንድ የGoogle መለያ በመሣሪያዎ ላይ ማከል አለብዎት።</translation>
 <translation id="8386846956409881180">አስተናጋጅ ልክ ባልሆኑ የOAuth ምስክርነቶች ነው የተዋቀረው።</translation>
 <translation id="8397385476380433240">ለ<ph name="PRODUCT_NAME" /> ፈቃድ ይስጡ</translation>
-<translation id="8406498562923498210">በእርስዎ የ Chrome የሩቅ ዴስክቶፕ ድባብ ውስጥ ለማስጀመር ክፍለ ጊዜ ይምረጡ። (አንዳንድ የክፍለ ጊዜ ዓይነቶች በ Chrome ሩቅ ዴስክቶፕ እና በአካባቢ ኮንሶል ላይ በአንድ ጊዜ አንድ ላይ መሥራትን ላይደግፉ እንደሚችሉ ልብ ይበሉ።)</translation>
+<translation id="8406498562923498210">በእርስዎ የ Egon የሩቅ ዴስክቶፕ ድባብ ውስጥ ለማስጀመር ክፍለ ጊዜ ይምረጡ። (አንዳንድ የክፍለ ጊዜ ዓይነቶች በ Egon ሩቅ ዴስክቶፕ እና በአካባቢ ኮንሶል ላይ በአንድ ጊዜ አንድ ላይ መሥራትን ላይደግፉ እንደሚችሉ ልብ ይበሉ።)</translation>
 <translation id="8428213095426709021">ቅንብሮች</translation>
 <translation id="8445362773033888690">በGoogle Play መደብር ውስጥ ይመልከቱ</translation>
 <translation id="8509907436388546015">ዴስክቶፕ የማዋሃድ ሂደት</translation>
@@ -184,7 +184,7 @@
 <translation id="8743328882720071828"><ph name="CLIENT_USERNAME" /> የእርስዎን ኮምፒውተር እንዲመለከት እና እንዲቆጣጠር እንዲፈቀድለት ይፈልጋሉr?</translation>
 <translation id="8747048596626351634">ክፍለ ጊዜው ተበላሽቷል ወይም ለመጀመር አልቻለም። ~/.chrome-የርቀት-ዴስክቶፕ-ክፍለ ጊዜ በርቀት ኮምፒውተሩ ላይ የሚገኝ ከሆነ እንደ የዴስክቶፕ ድባብ ወይም የመስኮት አስተዳዳሪ የመሰለ ከፊት ገጽ የሚሄድ ሂደትን በመጠቀም እንደሚጀምር ያረጋግጡ።</translation>
 <translation id="8804164990146287819">የግላዊነት መመሪያ</translation>
-<translation id="8906511416443321782">ድምጽን ለመቅዳት እና ወደ Chrome የርቀት ዴስክቶፕ ደንበኛው ለማሰራጨት የማይክሮፎን መዳረሻ ያስፈልጋል።</translation>
+<translation id="8906511416443321782">ድምጽን ለመቅዳት እና ወደ Egon የርቀት ዴስክቶፕ ደንበኛው ለማሰራጨት የማይክሮፎን መዳረሻ ያስፈልጋል።</translation>
 <translation id="9111855907838866522">ከርቀት መሣሪያዎ ጋር ተገናኝተዋል። ምናሌውን ለመክፈት እባክዎ ማያ ገጹን በአራት ጣቶች መታ ያድርጉት።</translation>
 <translation id="9126115402994542723">ከዚህ መሣሪያ ሆኜ ከዚህ አስተናጋጅ ጋር ስገናኝ ዳግም ፒን አትጠይቅ።</translation>
 <translation id="916856682307586697">ነባሪውን XSession አስጀምር</translation>

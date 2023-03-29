@@ -15,21 +15,21 @@
 <translation id="1091604859693995976">Baxmaq üçün yeniləyin</translation>
 <translation id="1095761715416917775">Sinxronlaşdırma datasına həmişə girişinizin olduğuna əmin olun</translation>
 <translation id="1100066534610197918">Qrupda yeni tabda açın</translation>
-<translation id="1103142993930332957">Chrome'un təkmilləşdirilməsinə kömək edirsiniz?</translation>
+<translation id="1103142993930332957">Egon'un təkmilləşdirilməsinə kömək edirsiniz?</translation>
 <translation id="1105960400813249514">Ekranın Ani Çəkimi</translation>
 <translation id="1108938384783527433">Tarixçə sinxronizasiyası</translation>
 <translation id="1110914759170138831">Vurğulama qısaldılıb</translation>
 <translation id="1111673857033749125">Digər cihazlarınızda yadda saxlanmış əlfəcinlər burada görünəcək.</translation>
 <translation id="1113597929977215864">Sadə görüntüyə baxın</translation>
 <translation id="1118561384561215815">Vebdə tapşırıqlarla bağlı kömək əldə edin</translation>
-<translation id="1123070903960493543">Chrome ilə necə əlaqə yaratmağınız, seçdiyiniz ayarlar, Chrome xətalarının detalları</translation>
+<translation id="1123070903960493543">Egon ilə necə əlaqə yaratmağınız, seçdiyiniz ayarlar, Egon xətalarının detalları</translation>
 <translation id="1126809382673880764">Sizi təhlükəli veb sayt, endirmə və artırmalardan qorumur. Hələ də Gmail və Axtarış kimi digər Google xidmətlərində mümkün olduğu qədər Təhlükəsiz Baxış qoruması əldə edəcəksiniz.</translation>
 <translation id="1129510026454351943">Detallar: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">Bu saytların tərcümə edilməsini təklif etməyin</translation>
 <translation id="1145536944570833626">Mövcud datanı silin.</translation>
 <translation id="1146678959555564648">VR daxil edin</translation>
 <translation id="1149401351239820326">Bitmə ayı</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> Chrome'da açılacaq. Davam etməklə, <ph name="BEGIN_LINK1" />Google Xidmət Şərtləri<ph name="END_LINK1" /> və <ph name="BEGIN_LINK2" />Google Chrome və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_LINK2" /> ilə razılaşırsınız.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> Egon'da açılacaq. Davam etməklə, <ph name="BEGIN_LINK1" />Google Xidmət Şərtləri<ph name="END_LINK1" /> və <ph name="BEGIN_LINK2" />Google Egon və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_LINK2" /> ilə razılaşırsınız.</translation>
 <translation id="1154704303112745282">Səhifə oflayn əlçatan deyil: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"Popluyar saytlar" seçiminə klikləyin və məşhur saytlara baxın</translation>
 <translation id="1173894706177603556">Adını dəyişin</translation>
@@ -40,7 +40,7 @@
 <translation id="1201402288615127009">Növbəti</translation>
 <translation id="1202892408424955784">İzlənilən məhsullar</translation>
 <translation id="1204037785786432551">Linki endirin</translation>
-<translation id="1204692632633423444">Chrome əməliyyat düyməsi: <ph name="ACTION" /></translation>
+<translation id="1204692632633423444">Egon əməliyyat düyməsi: <ph name="ACTION" /></translation>
 <translation id="1206892813135768548">Link mətnini kopyalayın</translation>
 <translation id="1208340532756947324">Cihazlar üzrə sinxronizasiya etmək və fərdiləşdirmək üçün sinxronizasiyanı aktiv edin</translation>
 <translation id="1209206284964581585">Hələlik gizlədin</translation>
@@ -48,7 +48,7 @@
 <translation id="1231733316453485619">Sinxronizasiya ktiv edilsin?</translation>
 <translation id="123724288017357924">Keş məzmununu iqnor edərək cari səhifəni yenidən yükləyin</translation>
 <translation id="1239792311949352652">Bu səhifəni cəld paylaşın. Bu qısayolu redaktə etmək üçün Ayarlara keçin.</translation>
-<translation id="1240190568154816272">Chrome ipucuları</translation>
+<translation id="1240190568154816272">Egon ipucuları</translation>
 <translation id="1240288207750131269"><ph name="LANG" /> yüklənir</translation>
 <translation id="1240903469550363138">Davam etmək üçün <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE" /> ad, e-poçt ünvanı və profil şəklinizi bu sayt ilə paylaşacaq. Bu saytın <ph name="BEGIN_LINK1" />məxfilik siyasəti<ph name="END_LINK1" /> və <ph name="BEGIN_LINK2" />xidmət şərtlərinə<ph name="END_LINK2" /> baxın.</translation>
 <translation id="124116460088058876">Digər dillər</translation>
@@ -70,11 +70,11 @@
 <translation id="1316212908214730110">chrome_stylized_highlight_</translation>
 <translation id="1320912611264252795">Əlfəcin saxlama prosesi qovluqları tam hündürlükdə açılıb</translation>
 <translation id="1327257854815634930">Naviqasiya tarixçəsi açıqdır</translation>
-<translation id="1331212799747679585">Chrome güncəllənmədi. Digər seçimlər</translation>
-<translation id="1332100670807501334">Reklamın ölçülməsi ziyarət etdiyiniz saytlara Chrome'dan sayta reklamlarının performansını ölçməyə kömək edən məlumat tələb etməyə imkan verir. Reklamın ölçülməsi saytlar arasında mümkün qədər az məlumat ötürməklə saytlararası izləməni məhdudlaşdırır.
+<translation id="1331212799747679585">Egon güncəllənmədi. Digər seçimlər</translation>
+<translation id="1332100670807501334">Reklamın ölçülməsi ziyarət etdiyiniz saytlara Egon'dan sayta reklamlarının performansını ölçməyə kömək edən məlumat tələb etməyə imkan verir. Reklamın ölçülməsi saytlar arasında mümkün qədər az məlumat ötürməklə saytlararası izləməni məhdudlaşdırır.
 
 Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildiyiniz zaman əlaqədar ölçmə məlumatını da silirsiniz. <ph name="BEGIN_LINK" />Baxış tarixçənizə<ph name="END_LINK" /> baxın.</translation>
-<translation id="1332501820983677155">Google Chrome funksiya qısayolları</translation>
+<translation id="1332501820983677155">Google Egon funksiya qısayolları</translation>
 <translation id="1344653310988386453">Vurğulamaya keçidi daxil edin</translation>
 <translation id="1347468774581902829">Fəaliyyəti idarə edin</translation>
 <translation id="1360432990279830238">Sinxronizasiya deaktiv edilsin?</translation>
@@ -87,7 +87,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="1386674309198842382"><ph name="LAST_UPDATED" /> gün əvvəl aktiv olub</translation>
 <translation id="13931502444227376">Davam etmək üçün <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE" /> ad, e-poçt ünvanı və profil şəklinizi bu sayt ilə paylaşacaq. Bu saytın <ph name="BEGIN_LINK1" />xidmət şərtlərinə<ph name="END_LINK1" /> baxın.</translation>
 <translation id="1397811292916898096"><ph name="PRODUCT_NAME" /> ilə axtarın</translation>
-<translation id="139993653570221430">İstənilən vaxt Chrome ayarlarında fikrinizi dəyişə bilərsiniz. Sınaqlar reklamların cari təqdim olunma üsulu ilə yanaşı işləyir, beləliklə, dəyişiklikləri dərhal görməyəcəksiniz.</translation>
+<translation id="139993653570221430">İstənilən vaxt Egon ayarlarında fikrinizi dəyişə bilərsiniz. Sınaqlar reklamların cari təqdim olunma üsulu ilə yanaşı işləyir, beləliklə, dəyişiklikləri dərhal görməyəcəksiniz.</translation>
 <translation id="1406000523432664303">İzləməyin</translation>
 <translation id="1407069428457324124">Tünd tema</translation>
 <translation id="1407135791313364759">Hamısını açın</translation>
@@ -100,7 +100,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="1437543266176261764"><ph name="APP_NAME" /> tətbiqində işləyir</translation>
 <translation id="1448440926884431741">Əlfəcinlərdə izlədiyiniz məhsulları təşkil edin</translation>
 <translation id="1450753235335490080"><ph name="CONTENT_TYPE" /> paylaşmaq mümkün deyil</translation>
-<translation id="1466383950273130737">Chrome dilini seçin</translation>
+<translation id="1466383950273130737">Egon dilini seçin</translation>
 <translation id="1474893630593443211">Gördüyünüz reklamlar üzərində daha çox nəzarət</translation>
 <translation id="1477626028522505441"><ph name="FILE_NAME" /> faylının endirilməsi server problemləri səbəbindən alınmadı.</translation>
 <translation id="148482509007564431">Əlfəcin saxlama prosesi</translation>
@@ -117,8 +117,8 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="1538801903729528855">Vebdə daha yaxşı səs təcrübəsi əldə edin</translation>
 <translation id="1544826120773021464">Google hesabınızı idarə etmək üçün "Hesabı idarə edin" düyməsinə toxunun</translation>
 <translation id="1549000191223877751">Başqa pəncərəyə keçin</translation>
-<translation id="1553358976309200471">Chrome'u güncəlləşdirin</translation>
-<translation id="1554532453982918912">Chrome'u sizin kimi istifadə edən insanlar üçün təkmilləşdirməyə kömək edin</translation>
+<translation id="1553358976309200471">Egon'u güncəlləşdirin</translation>
+<translation id="1554532453982918912">Egon'u sizin kimi istifadə edən insanlar üçün təkmilləşdirməyə kömək edin</translation>
 <translation id="1558391695376153246">Anonim tabları qapadın</translation>
 <translation id="1571304935088121812">İstifadəçi adını kopyalayın</translation>
 <translation id="1592864538817356322">Standart qoruma:</translation>
@@ -128,13 +128,13 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 Müntəzəm olaraq hesaba daxil olmaq kimi saytla qarşılıqlı əlaqəniz əsasında həmin sayt brauzerinizə güvən nişanı verə bilər. Daha sonra ziyarət etdiyiniz digər saytlar keçərli güvən nişanını yoxlayıb tapsalar, onlar sizə bot deyil, insan kimi yanaşacaqlar.
 
 Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuzu öyrənmək üçün istifadə edilə bilməz.</translation>
-<translation id="1627304841979541023"><ph name="BEGIN_BOLD" />Datanızı necə idarə edə bilərsiniz:<ph name="END_BOLD" /> Məxfiliyinizi qorumaq üçün 4 həftədən köhnə maraqlarınızı avtomatik silirik. Baxmağa davam etdikcə, maraq siyahıda yenidən görünə bilər. Və ya Chrome'un nəzərə almasını istəmədiyiniz maraqları silə bilərsiniz.</translation>
+<translation id="1627304841979541023"><ph name="BEGIN_BOLD" />Datanızı necə idarə edə bilərsiniz:<ph name="END_BOLD" /> Məxfiliyinizi qorumaq üçün 4 həftədən köhnə maraqlarınızı avtomatik silirik. Baxmağa davam etdikcə, maraq siyahıda yenidən görünə bilər. Və ya Egon'un nəzərə almasını istəmədiyiniz maraqları silə bilərsiniz.</translation>
 <translation id="1628019612362412531">{NUM_SELECTED,plural, =1{Seçilmiş 1 elementi silin}other{Seçilmiş # elementi silin}}</translation>
-<translation id="1633659023549081553">Chrome'un əsas səhifəsində yeni məzmunu kəşf edin</translation>
+<translation id="1633659023549081553">Egon'un əsas səhifəsində yeni məzmunu kəşf edin</translation>
 <translation id="1641113438599504367">Təhlükəsiz Axtarış</translation>
 <translation id="164269334534774161"><ph name="CREATION_TIME" /> tarixində yaradılmış səhifənin oflayn nüsxəsini görürsünüz</translation>
 <translation id="1644574205037202324">Tarixçə</translation>
-<translation id="1668122540633280551">Video önizləmələrinin Chrome əsas səhifəsində avtomatik olaraq necə oxudulacağını seçin.</translation>
+<translation id="1668122540633280551">Video önizləmələrinin Egon əsas səhifəsində avtomatik olaraq necə oxudulacağını seçin.</translation>
 <translation id="1670399744444387456">Əsas</translation>
 <translation id="1671236975893690980">Endirilmə gözlənilir...</translation>
 <translation id="1672586136351118594">Göstərilməsin</translation>
@@ -145,7 +145,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="1710099199314114079">Tabları keçirin və ya bağlayın</translation>
 <translation id="1718835860248848330">Son saat</translation>
 <translation id="1724977129262658800">Parolunuzu redaktə etmək üçün kiliddən çıxarın</translation>
-<translation id="1726477445370128854">Chrome ziyarət edə biləcəyinizi düşündüyü səhifələri əvvəlcədən yüklədikdə daha sürətli gözdən keçirə və axtarış edə bilərsiniz</translation>
+<translation id="1726477445370128854">Egon ziyarət edə biləcəyinizi düşündüyü səhifələri əvvəlcədən yüklədikdə daha sürətli gözdən keçirə və axtarış edə bilərsiniz</translation>
 <translation id="173522743738009831">Təhlükəsiz Sandbox haqqında</translation>
 <translation id="1736419249208073774">Araşdırın</translation>
 <translation id="1749561566933687563">Əlfəcinlərinizi sinxronizasiya edin</translation>
@@ -161,27 +161,27 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="1829244130665387512">Səhifədə tapın</translation>
 <translation id="1832459821645506983">Bəli, varam</translation>
 <translation id="1849863543394887018">Ayarlara keçərək bildirişləri deaktiv edə bilərsiniz</translation>
-<translation id="1854311313115643875">Sınaqlar aktiv olduqda, reklamın ölçülməsi ziyarət etdiyiniz saytlara Chrome'dan sayta reklamlarının performansını ölçməyə kömək edən məlumat tələb etməyə imkan verir. Reklamın ölçülməsi saytlar arasında mümkün qədər az məlumat ötürməklə saytlararası izləməni məhdudlaşdırır.
+<translation id="1854311313115643875">Sınaqlar aktiv olduqda, reklamın ölçülməsi ziyarət etdiyiniz saytlara Egon'dan sayta reklamlarının performansını ölçməyə kömək edən məlumat tələb etməyə imkan verir. Reklamın ölçülməsi saytlar arasında mümkün qədər az məlumat ötürməklə saytlararası izləməni məhdudlaşdırır.
 
 Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildiyiniz zaman əlaqədar ölçmə məlumatını da silirsiniz. <ph name="BEGIN_LINK" />Baxış tarixçənizə<ph name="END_LINK" /> baxın.</translation>
-<translation id="1877026089748256423">Chrome'un vaxtı keçib</translation>
+<translation id="1877026089748256423">Egon'un vaxtı keçib</translation>
 <translation id="1883903952484604915">Fayllarım</translation>
 <translation id="189358972401248634">Digər dillərdə</translation>
 <translation id="1900260903084164610">Davam etməklə, <ph name="BEGIN_TOS_LINK" />Xidmət Şərtləri<ph name="END_TOS_LINK" /> ilə razılaşırsınız.</translation>
 <translation id="1904580727789512086">Ziyarət etdiyiniz keçidlər Google Hesabınızda saxlanılır</translation>
 <translation id="1910950723001426294">Paylaşım seçimlərinin siyahısı bağlıdır.</translation>
 <translation id="1918175104945982129">Assistentin səsli axtarış razılıq UI-si yarım hündürlükdə açılıb</translation>
-<translation id="1919130412786645364">Chrome girişinə icazə verin</translation>
+<translation id="1919130412786645364">Egon girişinə icazə verin</translation>
 <translation id="1922362554271624559">Təklif edilən dillər</translation>
 <translation id="1925021887439448749">Fərdi veb ünvanı daxil edin</translation>
 <translation id="1928696683969751773">Güncəlləşmələr</translation>
-<translation id="19288952978244135">Chrome'u yenidən açın.</translation>
+<translation id="19288952978244135">Egon'u yenidən açın.</translation>
 <translation id="1933845786846280168">Seçilmiş Panel</translation>
 <translation id="193571872656840963">Bu yaradıcıya təşəkkürü göstərin</translation>
 <translation id="1943432128510653496">Parolları yadda saxlayın</translation>
 <translation id="1952172573699511566">Mümkün olduqda veb səhifələr tərcih etdiyiniz dildə mətn göstərəcək.</translation>
 <translation id="1959679933317802873">Məzmun gözlənilir</translation>
-<translation id="1960290143419248813">Chrome güncəlləmələri artıq bu Android versiyasında dəstəklənmir</translation>
+<translation id="1960290143419248813">Egon güncəlləmələri artıq bu Android versiyasında dəstəklənmir</translation>
 <translation id="1963976881984600709">Standart qoruma</translation>
 <translation id="1966710179511230534">Hesaba giriş detallarınızı güncəlləşdirin.</translation>
 <translation id="197288927597451399">Saxlayın</translation>
@@ -195,7 +195,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="2013642289801508067">{FILE_COUNT,plural, =1{# Fayl}other{# Fayl}}</translation>
 <translation id="2021896219286479412">Tam ekran sayt nəzarətləri</translation>
 <translation id="2038563949887743358">Əsas Versiya Sorğusunu aktiv edin</translation>
-<translation id="204321170514947529">Həmçinin, <ph name="APP_NAME" /> tətbiqinin Chrome'da datası var</translation>
+<translation id="204321170514947529">Həmçinin, <ph name="APP_NAME" /> tətbiqinin Egon'da datası var</translation>
 <translation id="2046634576464120978">Qeydiyyat alınmadı</translation>
 <translation id="2049574241039454490"><ph name="FILE_SIZE_OF_TOTAL" /> <ph name="SEPARATOR" /> <ph name="DESCRIPTION" /></translation>
 <translation id="2052422354554967744">İnternetdə axtarın</translation>
@@ -213,13 +213,13 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="2122601567107267586">Tətbiqi açmaq alınmadı</translation>
 <translation id="2132122640199389833">Bütün əlaqəli cihazları silin</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> qapadıldı</translation>
-<translation id="2134927169889348449">Chrome'u istifadə etməklə, <ph name="BEGIN_TOS_LINK" />Google Xidmət Şərtləri<ph name="END_TOS_LINK" /> və <ph name="BEGIN_ATOS_LINK" />Google Chrome və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_ATOS_LINK" /> ilə razılaşırsınız.</translation>
+<translation id="2134927169889348449">Egon'u istifadə etməklə, <ph name="BEGIN_TOS_LINK" />Google Xidmət Şərtləri<ph name="END_TOS_LINK" /> və <ph name="BEGIN_ATOS_LINK" />Google Egon və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_ATOS_LINK" /> ilə razılaşırsınız.</translation>
 <translation id="2139186145475833000">Əsas ekrana əlavə edin</translation>
 <translation id="2141396931810938595">İstifadənizə əsasən</translation>
-<translation id="214888715418183969">Chrome ilə nəyi paylaşmağa hazır olduğunuzu seçin. Paylaşdığınız göstəricilər Chrome funksiyaları, məhsuldarlığı və stabilliyini yaxşılaşdırmaq üçün istifadə ediləcək.</translation>
+<translation id="214888715418183969">Egon ilə nəyi paylaşmağa hazır olduğunuzu seçin. Paylaşdığınız göstəricilər Egon funksiyaları, məhsuldarlığı və stabilliyini yaxşılaşdırmaq üçün istifadə ediləcək.</translation>
 <translation id="2149973817440762519">Əlfəcinə düzəliş edin</translation>
 <translation id="2155214902713132423">Bu doğrulama metodu bu cihaz üçün əlçatan deyil. Digər cihazınızda fərqli seçim edin.</translation>
-<translation id="2158408438301413340">Chrome bütün parolları yoxlaya bilmədi</translation>
+<translation id="2158408438301413340">Egon bütün parolları yoxlaya bilmədi</translation>
 <translation id="2172688499998841696">Şəkil təsvirləri deaktivdir</translation>
 <translation id="2172905120685242547">Pəncərə bağlansın?</translation>
 <translation id="2175927920773552910">QR Kod</translation>
@@ -246,7 +246,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="2323763861024343754">Sayt yaddaşı</translation>
 <translation id="2328985652426384049">Daxil olmaq mümkün deyil</translation>
 <translation id="234265804618409743">Kameranı açmaq olmur. Xəta baş verdi.</translation>
-<translation id="2349710944427398404">Hesablar, əlfəcinlər və yadda saxlanılan ayarlar daxil olmaqla, Chrome tərəfindən istifadə olunmuş ümumi data</translation>
+<translation id="2349710944427398404">Hesablar, əlfəcinlər və yadda saxlanılan ayarlar daxil olmaqla, Egon tərəfindən istifadə olunmuş ümumi data</translation>
 <translation id="2353636109065292463">İnternet bağlantısının yoxlanması</translation>
 <translation id="235789365079050412">Google Məxfilik Siyasəti</translation>
 <translation id="2359808026110333948">Davam edin</translation>
@@ -263,14 +263,14 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="2453860139492968684">Son</translation>
 <translation id="2459390580524506445">Genişləndirilmiş səsli axtarış</translation>
 <translation id="2461822463642141190">Cari</translation>
-<translation id="2472163211318554013">Chrome'dan maksimum yararlanmaq üçün daxil olun</translation>
+<translation id="2472163211318554013">Egon'dan maksimum yararlanmaq üçün daxil olun</translation>
 <translation id="247737702124049222">Şəkil təsvirləri aktivdir</translation>
 <translation id="2482878487686419369">Bildirişlər</translation>
 <translation id="2485422356828889247">Sistemdən silin</translation>
-<translation id="2494974097748878569">Google Assistent Chrome'da</translation>
+<translation id="2494974097748878569">Google Assistent Egon'da</translation>
 <translation id="2496180316473517155">Brauzer tarixçəsi</translation>
 <translation id="2497852260688568942">Sinxronizasiya administratorunuz tərəfindən deaktiv edilib</translation>
-<translation id="250020030759455918">Chrome'da <ph name="SITE_NAME" /> üçün giriş statusu, baxış datası və sayt datanızı görəcəksiniz</translation>
+<translation id="250020030759455918">Egon'da <ph name="SITE_NAME" /> üçün giriş statusu, baxış datası və sayt datanızı görəcəksiniz</translation>
 <translation id="2510106555128151389"><ph name="WEBAPK_NAME" /> quraşdırılır...</translation>
 <translation id="2513403576141822879">Məxfilik, təhlükəsizlik və data toplanması ilə bağlı daha çox ayarlar üçün <ph name="BEGIN_LINK" />Sinxronizasiya və Google xidmətləri<ph name="END_LINK" /> səhifəsinə daxil olun</translation>
 <translation id="2517472476991765520">Skan edin</translation>
@@ -288,8 +288,8 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="2567545343356994513">Təhlükəli veb saytlar, endirmələr və artırmalara qarşı daha sürətli, fəal qoruma</translation>
 <translation id="2569733278091928697">Media nizamlayıcılarını, Anonim sessiyaları, endirmələri və s. asanlıqla idarə edə biləcəksiniz</translation>
 <translation id="2571711316400087311">Başqa dillərdə olan səhifələrin Google Tərcüməyə göndərilməsini təklif edin</translation>
-<translation id="2573452357057307036">Chrome'u defolt brauzer kimi ayarlama qaydasını öyrənin</translation>
-<translation id="2581165646603367611">Bu, Chrome'un vacib hesab etmədiyi kukilər, keş və digər sayt datalarını siləcək.</translation>
+<translation id="2573452357057307036">Egon'u defolt brauzer kimi ayarlama qaydasını öyrənin</translation>
+<translation id="2581165646603367611">Bu, Egon'un vacib hesab etmədiyi kukilər, keş və digər sayt datalarını siləcək.</translation>
 <translation id="2587052924345400782">Ən yeni versiya əlçatandır</translation>
 <translation id="2593272815202181319">Monospace</translation>
 <translation id="2604446170045642109">Ayarlarınızda saytlar üçün tünd temanı deaktiv edə bilərsiniz.</translation>
@@ -337,12 +337,12 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="2842985007712546952">Ana qovluq</translation>
 <translation id="2856503607207334158">Daxil olmaq alınmadı</translation>
 <translation id="2860954141821109167">Telefon tətbiqinin bu cihazda aktiv edildiyinə əmin olun</translation>
-<translation id="2861923151411510142">Bəzi Chrome funksiyaları daha əlçatan olmayacaq</translation>
+<translation id="2861923151411510142">Bəzi Egon funksiyaları daha əlçatan olmayacaq</translation>
 <translation id="2870560284913253234">Sayt</translation>
 <translation id="2871733351037274014">Səhifələri əvvəlcədən yükləyin</translation>
 <translation id="2876136027428473467"><ph name="CHILD_NAME" /> bu vebsaytı təsdiq etməyinizi istəyir:</translation>
 <translation id="2886836735871983413">Vebdə axtarış etdiyiniz zaman saytların siyahısı burada görünəcək</translation>
-<translation id="2888126860611144412">Chrome haqqında</translation>
+<translation id="2888126860611144412">Egon haqqında</translation>
 <translation id="2891154217021530873">Səhifə yükləməsini dayandırın</translation>
 <translation id="2893180576842394309">Axtarış və digər Google xidmətlərini fərdiləşdirmək üçün Google tarixçədən istifadə edə bilər</translation>
 <translation id="2900528713135656174">Tədbir yaradın</translation>
@@ -355,10 +355,10 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="2923908459366352541">Ad yanlışdır</translation>
 <translation id="2932150158123903946">Google <ph name="APP_NAME" /> yaddaşı</translation>
 <translation id="2932222164150889403">Klaviatura dəyişməyəcək</translation>
-<translation id="2936980480904111527">Chrome bildirişləri işləri asanlaşdırır</translation>
+<translation id="2936980480904111527">Egon bildirişləri işləri asanlaşdırır</translation>
 <translation id="2940075786175545812">Vebsaytı təsdiqləmək və ya təsdiqləməmək seçimi</translation>
 <translation id="2942036813789421260">Önbaxış tabı bağlıdır</translation>
-<translation id="2946420957526726953">Digər cihazlara qoşulmaq üçün Chrome güncəllənir</translation>
+<translation id="2946420957526726953">Digər cihazlara qoşulmaq üçün Egon güncəllənir</translation>
 <translation id="2951071800649516099">Sonra üçün oxu siyahınıza səhifələr əlavə edin</translation>
 <translation id="2961208450284224863">{READING_LIST_UNREAD_PAGE_COUNT,plural, =1{<ph name="READING_LIST_UNREAD_PAGE_COUNT_ONE" /> oxunmamış səhifə}other{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY" /> oxunmamış səhifə}}</translation>
 <translation id="2961210776189273067">Başlıq</translation>
@@ -372,7 +372,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="2994959273484668146"><ph name="DOMAIN" /> silin</translation>
 <translation id="2996291259634659425">Parol söz yaradın</translation>
 <translation id="2996809686854298943">URL tələb olunur</translation>
-<translation id="2997081575621687554">Google saytı öz səhifəsindəki keçidləri məxfi olaraq əvvəlcədən yükləməyi tələb etdikdə, Chrome kukilər olmadan Google serverləri vasitəsilə səhifələri şifrələyir və əvvəlcədən yükləyir. Bu, kimliyinizi əvvəlcədən yüklənmiş saytdan gizlədir.</translation>
+<translation id="2997081575621687554">Google saytı öz səhifəsindəki keçidləri məxfi olaraq əvvəlcədən yükləməyi tələb etdikdə, Egon kukilər olmadan Google serverləri vasitəsilə səhifələri şifrələyir və əvvəlcədən yükləyir. Bu, kimliyinizi əvvəlcədən yüklənmiş saytdan gizlədir.</translation>
 <translation id="3006881078666935414">Data istifadəsi yoxdur</translation>
 <translation id="301080557829842765">Məxfilik bələdçisi</translation>
 <translation id="3016635187733453316">Bu cihazın internetə qoşulduğuna əmin olun</translation>
@@ -382,16 +382,16 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="3031225630520268969">Assistentin səsli axtarış razılıq UI-si</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK" />Yardım alın<ph name="END_LINK" /></translation>
 <translation id="3037177537145227281">Qiymət izlənilir</translation>
-<translation id="3037517125981011456">Chrome'a giriş tələblərini göstərir</translation>
+<translation id="3037517125981011456">Egon'a giriş tələblərini göstərir</translation>
 <translation id="3046945242843292318">Növbəti dəfə bu sayta daha tez daxil olun</translation>
 <translation id="3055113921564083271">Sildiyiniz maraqlar</translation>
 <translation id="3055259925215945098">Əlfəcin köçürülüb</translation>
-<translation id="3055841435094910999">Chrome istifadəniz haqqında məlumat Google'a göndərilir, lakin sizinlə əlaqələndirilmir\n\nChrome'da xəta olarsa, xəta ilə bağlı təfərrüatlar bəzi şəxsi məlumatları ehtiva edə bilər\n\nSinxronizasiyanı aktiv etsəniz, göstəricilərə daxil olduunuz keçidlər haqqında məlumat da daxil ola bilər</translation>
+<translation id="3055841435094910999">Egon istifadəniz haqqında məlumat Google'a göndərilir, lakin sizinlə əlaqələndirilmir\n\nChrome'da xəta olarsa, xəta ilə bağlı təfərrüatlar bəzi şəxsi məlumatları ehtiva edə bilər\n\nSinxronizasiyanı aktiv etsəniz, göstəricilərə daxil olduunuz keçidlər haqqında məlumat da daxil ola bilər</translation>
 <translation id="3060635849835183725">{BOOKMARKS_COUNT,plural, =1{<ph name="BOOKMARKS_COUNT_ONE" /> əlfəcin}other{<ph name="BOOKMARKS_COUNT_MANY" /> əlfəcin}}</translation>
-<translation id="3062802207422175757">Chrome'da maraqlarınıza dair məqalələr</translation>
+<translation id="3062802207422175757">Egon'da maraqlarınıza dair məqalələr</translation>
 <translation id="3066573403916685335">Aşağıya</translation>
 <translation id="3070005020161560471">Avtomatik tərcümə edin</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> Chrome'da açılacaq. Davam etməklə, <ph name="BEGIN_LINK1" />Google Xidmət Şərtləri<ph name="END_LINK1" /> və <ph name="BEGIN_LINK2" />Google Chrome və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_LINK2" /> ilə razılaşırsınız. <ph name="BEGIN_LINK3" />Məxfilik Siyasəti<ph name="END_LINK3" /> də tətbiq edilir.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> Egon'da açılacaq. Davam etməklə, <ph name="BEGIN_LINK1" />Google Xidmət Şərtləri<ph name="END_LINK1" /> və <ph name="BEGIN_LINK2" />Google Egon və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_LINK2" /> ilə razılaşırsınız. <ph name="BEGIN_LINK3" />Məxfilik Siyasəti<ph name="END_LINK3" /> də tətbiq edilir.</translation>
 <translation id="3091010850649238832">Mübadilə buferindəki kontenti göstərin</translation>
 <translation id="3098745985164956033">Sizin üçün təsvirləri yaxşılaşdırmaq üçün bəzi şəkillər Google'a göndərilir</translation>
 <translation id="3114507951000454849">Bugünün <ph name="NEWS_ICON" /> xəbərlərini oxuyun</translation>
@@ -399,9 +399,9 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="3123734510202723619">Elanlar</translation>
 <translation id="3130863904455712965">Tarixçə və digərləri</translation>
 <translation id="3134784203083076891">”</translation>
-<translation id="314939179385989105">Chrome’un əsas səhifəsi</translation>
+<translation id="314939179385989105">Egon’un əsas səhifəsi</translation>
 <translation id="3166827708714933426">Panel və pəncərə qısayolları</translation>
-<translation id="316694332262407393">Chrome artıq burada işləyir.</translation>
+<translation id="316694332262407393">Egon artıq burada işləyir.</translation>
 <translation id="3169472444629675720">Discover</translation>
 <translation id="3187472288455401631">Reklam ölçülməsi</translation>
 <translation id="3207960819495026254">Əlfəcinlənib</translation>
@@ -411,14 +411,14 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="321773570071367578">Əgər parol sözü unutmusunuzsa və ya bu ayarı dəyişmək istəyirsinizsə,  <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlayın<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Parollarınızı sinxronlaşdırmaq üçün kimliyinizi doğrulayın</translation>
 <translation id="3223522355830797639">Bankınız bunun siz olduğunuzu təsdiq etmək istəyir.</translation>
-<translation id="3227557059438308877">Təhlükəsizlik Açarı olaraq Google Chrome</translation>
+<translation id="3227557059438308877">Təhlükəsizlik Açarı olaraq Google Egon</translation>
 <translation id="3232754137068452469">Veb Tətbiq</translation>
 <translation id="3234978181857588512">Cihazda yadda saxlayın</translation>
 <translation id="3236059992281584593">1 dəqiqə qaldı</translation>
 <translation id="3237087289225714896">Standart əvvəlcədən yükləmə:</translation>
 <translation id="3237433641417325993">Təklif olunan məqalələrə baxmaq üçün aşağı sürüşdürün</translation>
 <translation id="3244271242291266297">MM</translation>
-<translation id="3245429137663807393">Chrome istifadə hesabatlarını da paylaşırsınızsa, bu hesabatlara ziyarət etdiyiniz keçidlər daxil olacaq</translation>
+<translation id="3245429137663807393">Egon istifadə hesabatlarını da paylaşırsınızsa, bu hesabatlara ziyarət etdiyiniz keçidlər daxil olacaq</translation>
 <translation id="3250563604907490871">Wi-Fi'a qoşulduğunuz zaman şəkil təsvirləri davam edəcək</translation>
 <translation id="3254409185687681395">Bu səhifəni əlfəcinləyin</translation>
 <translation id="3259831549858767975">Səhifədəki hər şeyi kiçildin</translation>
@@ -428,9 +428,9 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="3265534588625245297">İzlədiyiniz saytları idarə edin</translation>
 <translation id="3269093882174072735">Şəkli yükləyin</translation>
 <translation id="3280562213547448728">Səsli axtarış</translation>
-<translation id="3282568296779691940">Chrome'a daxil olun</translation>
+<translation id="3282568296779691940">Egon'a daxil olun</translation>
 <translation id="3284510035090979597">Proaktiv Kömək</translation>
-<translation id="3285080554353377245">Chrome'dan istifadə haqqında videolar</translation>
+<translation id="3285080554353377245">Egon'dan istifadə haqqında videolar</translation>
 <translation id="3288003805934695103">Səhifə təkrar yüklənir</translation>
 <translation id="3290249595466894471">Həmçinin yeni təhlükələri aşkarlamaqda kömək məqsədilə səhifə, endirmə, artırma fəaliyyətindən ibarət kiçik nümunə göndərir</translation>
 <translation id="3297344142967351106">Səsli yardım</translation>
@@ -439,10 +439,10 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="3334729583274622784">Fayl artırması dəyişdirilsin?</translation>
 <translation id="3341262203274374114">İzləmədən çıxarmaq olmur. Xəta baş verdi.</translation>
 <translation id="3359667936385849800">Cari xidmət təminatçınızı istifadə edin</translation>
-<translation id="3365271666488085187">Chrome bu marağı nəzərə ala bilər</translation>
+<translation id="3365271666488085187">Egon bu marağı nəzərə ala bilər</translation>
 <translation id="3367813778245106622">Sinxronizasiyanı başlamaq üçün yenidən daxil olun</translation>
-<translation id="3373979091428520308">Bu səhifəni başqa bir cihaz ilə paylaşmaq üçün digər cihazın Chrome ayarlarında sinxronlaşdırmanı yandırın</translation>
-<translation id="3374023511497244703">Əlfəcin, tarixçə, parol və digər Chrome datası artıq Google Hesabınıza sinxronizasiya edilməyəcək</translation>
+<translation id="3373979091428520308">Bu səhifəni başqa bir cihaz ilə paylaşmaq üçün digər cihazın Egon ayarlarında sinxronlaşdırmanı yandırın</translation>
+<translation id="3374023511497244703">Əlfəcin, tarixçə, parol və digər Egon datası artıq Google Hesabınıza sinxronizasiya edilməyəcək</translation>
 <translation id="3384347053049321195">Şəkli paylaşın</translation>
 <translation id="3387650086002190359">Fayl sistem xətaları səbəbindən <ph name="FILE_NAME" /> faylı endirilmədi.</translation>
 <translation id="3389286852084373014">Mətn çox böyükdür</translation>
@@ -451,12 +451,12 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="3407392651057365886">Daha çox səhifə əvvəlcədən yüklənir. Səhifələr başqa saytlar tərəfindən tələb edildikdə Google serverləri vasitəsilə əvvəlcədən yüklənə bilər.</translation>
 <translation id="3414952576877147120">Ölçü:</translation>
 <translation id="3421726884497337397">Üçüncü tərəf kukilərinin nə vaxt bloklanacağını seçin</translation>
-<translation id="3428747202529429621">Daxil olduğunuzda Chrome'da sizi qoruyur və digər Google tətbiqlərində təhlükəsizliyinizi artırmaq üçün istifadə edilə bilər</translation>
+<translation id="3428747202529429621">Daxil olduğunuzda Egon'da sizi qoruyur və digər Google tətbiqlərində təhlükəsizliyinizi artırmaq üçün istifadə edilə bilər</translation>
 <translation id="3429160811076349561">Sınaq funksiyaları deaktivdir</translation>
 <translation id="3435465986463792564">Çox sayda pəncərə var? Onları buradan idarə edə bilərsiniz</translation>
 <translation id="3443221991560634068">Cari səhifəni yenidən yükləyin</translation>
 <translation id="3444179773590444986">Saytlar üçün tünd tema barədə rəy paylaşılsın?</translation>
-<translation id="3452832259067974318">Chrome məxfiliyi qorumaq üçün parolu bu sahədə avtomatik doldurmayacaq.</translation>
+<translation id="3452832259067974318">Egon məxfiliyi qorumaq üçün parolu bu sahədə avtomatik doldurmayacaq.</translation>
 <translation id="3474624961160222204"><ph name="NAME" /> olaraq davam edin</translation>
 <translation id="3478363558367712427">Axtarış maşınını seçə bilərsiniz</translation>
 <translation id="3479552764303398839">İndi yox</translation>
@@ -464,7 +464,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="3495219333887281978">Giriş alt vərəqi yarı hündürlükdə açılıb.</translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
 <translation id="3507132249039706973">Standart Qoruma aktivdir</translation>
-<translation id="3509330069915219067">Oflayn. Chrome güncəlləmələri yoxlaya bilmir.</translation>
+<translation id="3509330069915219067">Oflayn. Egon güncəlləmələri yoxlaya bilmir.</translation>
 <translation id="3513704683820682405">Artırılmış Reallıq</translation>
 <translation id="3518985090088779359">Qəbul edin və davam edin</translation>
 <translation id="3522247891732774234">Güncəlləmə əlçatandır. Daha çox seçim</translation>
@@ -477,7 +477,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="3560491354538957576">Sayt maraqları müəyyən edə bilər</translation>
 <translation id="3563767357928833671">Mübadilə buferindəki kontent göstərilir</translation>
 <translation id="3566639033325271639">Ayarları güncəlləyin</translation>
-<translation id="3566923219790363270">Chrome VR üçün hələ də hazırlanır. Chrome'u sonra yenidən başladın.</translation>
+<translation id="3566923219790363270">Egon VR üçün hələ də hazırlanır. Egon'u sonra yenidən başladın.</translation>
 <translation id="3568688522516854065">Tabları digər cihazlarınızdan əldə etmək üçün daxil olun və sinxronizasiyanı aktiv edin</translation>
 <translation id="357465026686164600">Təhlükəsizlik açarı kimi telefon</translation>
 <translation id="3577473026931028326">Xəta baş verdi. Yenidən cəhd edin.</translation>
@@ -499,7 +499,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="3699022356773522638">Fayl endirilsin?</translation>
 <translation id="371230970611282515">Təhlükəli hadisələr baş vermədən əvvəl onları proqnozlaşdırır və sizə xəbərdarlıq edir.</translation>
 <translation id="3714981814255182093">Tapma Barını açın</translation>
-<translation id="3716182511346448902">Bu səhifə həddindən çox yaddaş istifadə etdiyinə görə Chrome tərəfindən dayandırıldı.</translation>
+<translation id="3716182511346448902">Bu səhifə həddindən çox yaddaş istifadə etdiyinə görə Egon tərəfindən dayandırıldı.</translation>
 <translation id="3721119614952978349">Siz və Google</translation>
 <translation id="3737319253362202215">Tərcümə ayarları</translation>
 <translation id="3737402728074743863">Bu cihazı təhlükəsizlik açarı kimi istifadə etmək üçün ekran kilidi ayarlayın</translation>
@@ -537,17 +537,17 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="393697183122708255">Aktiv səsli axtarış əlçatan deyil</translation>
 <translation id="395377504920307820">Hesab olmadan istifadə edin</translation>
 <translation id="3958287878205277013">Cihazınızdan Anonim brauzer tarixçəsini təmizləmək üçün bütün Anonim tabları bağlayın.</translation>
-<translation id="396192773038029076">{NUM_IN_PROGRESS,plural, =1{Chrome səhifəni cihaz onlayn olduqda yükləyəcək}other{Chrome səhifələri cihaz onlayn olduqda yükləyəcək}}</translation>
+<translation id="396192773038029076">{NUM_IN_PROGRESS,plural, =1{Egon səhifəni cihaz onlayn olduqda yükləyəcək}other{Egon səhifələri cihaz onlayn olduqda yükləyəcək}}</translation>
 <translation id="3962119236270174787">Təhlükəli hesab edilən veb saytlar, endirmələr və artırmalara qarşı standart qoruma</translation>
 <translation id="3963007978381181125">Google Pay'dəki ödəniş metodları və ünvanlar parol şifrələməsinə daxil deyil. Yalnız parolunuzu bilən şəxs şifrələnmiş datanı oxuya bilər. Google parolu əldə etmir və ya saxlamır. Parolu unutsanız və ya bu ayarı dəyişmək istəsəniz, sinxronizasiyanı sıfırlamalısınız. <ph name="BEGIN_LINK" />Ətraflı məlumat<ph name="END_LINK" /></translation>
-<translation id="3969142555815019568">Chrome parollarınızı yoxlaya bilmir</translation>
+<translation id="3969142555815019568">Egon parollarınızı yoxlaya bilmir</translation>
 <translation id="3969863827134279083">Yuxarı Köçürün</translation>
 <translation id="397583555483684758">Sinxronizasiya işləmir</translation>
 <translation id="3976396876660209797">Bu qısayolu silin və yenidən yaradın</translation>
 <translation id="3981902534690264083">Reklamçılar reklamların necə işlədiyini başa düşə bilər</translation>
 <translation id="3985215325736559418"><ph name="FILE_NAME" /> faylını yenidən endirmək istəyirsiniz?</translation>
 <translation id="3987993985790029246">Linki kopyalayın</translation>
-<translation id="3999683152997576765">Saytların sizə reklam göstərmək üçün istifadə etdiyi maraqlı mövzuları görə və silə bilərsiniz. Chrome son baxış tarixçənizə əsasən maraqlarınızı təxmin edir.</translation>
+<translation id="3999683152997576765">Saytların sizə reklam göstərmək üçün istifadə etdiyi maraqlı mövzuları görə və silə bilərsiniz. Egon son baxış tarixçənizə əsasən maraqlarınızı təxmin edir.</translation>
 <translation id="4000212216660919741">Ev oflayndır</translation>
 <translation id="4016425174436051808">İzləmək olmur. Xəta baş verdi.</translation>
 <translation id="4034817413553209278">{HOURS,plural, =1{# saat}other{# saat}}</translation>
@@ -562,17 +562,17 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="409109920254068737">Bu QR kodunu göstərən cihaza daxil olmaq üçün bu planşetdən istifadə edə bilərsiniz.</translation>
 <translation id="4095146165863963773">Tətbiq datası silinsin?</translation>
 <translation id="4096227151372679484">Əlfəcin saxlama prosesi yarım hündürlükdə açılıb</translation>
-<translation id="4099578267706723511">İstifadə statistikası və qəza raportlarını Google'a göndərməklə Chrome'un gəlişməsini sağlayın.</translation>
+<translation id="4099578267706723511">İstifadə statistikası və qəza raportlarını Google'a göndərməklə Egon'un gəlişməsini sağlayın.</translation>
 <translation id="4101475238162928417">Digər cihazlarınızda parollarınızı, əlfəcinlərinizi və daha çoxunu əldə etmək üçün sinxronizasiya edin</translation>
 <translation id="410351446219883937">Avtomatik oxutma</translation>
-<translation id="4106587138345390261">Chrome saytlara məlumatlarınızdan daha az istifadə etməklə eyni baxış təcrübəsi təqdim etməyə imkan verən yeni funksiyaları araşdırır</translation>
+<translation id="4106587138345390261">Egon saytlara məlumatlarınızdan daha az istifadə etməklə eyni baxış təcrübəsi təqdim etməyə imkan verən yeni funksiyaları araşdırır</translation>
 <translation id="4108314971463891922">İzləyin</translation>
 <translation id="4108998448622696017">Təhlükəli hadisələr baş verdikdə onları aşkarlayır və sizə xəbərdarlıq edir.</translation>
 <translation id="4116038641877404294">Oflayn istifadə etmək üçün səhifələri endirin</translation>
 <translation id="4135200667068010335">Tabı paylaşa biləcəyiniz cihazların siyahısı bağlıdır.</translation>
 <translation id="4137746084635924146">Cari cihaz dili</translation>
 <translation id="414128724510021958">Defolt olaraq tələb olunan masaüstü saytlar</translation>
-<translation id="4141536112466364990">Chrome'u öyrənin</translation>
+<translation id="4141536112466364990">Egon'u öyrənin</translation>
 <translation id="4162867837470729563">Paylaşım seçimlərinin siyahısı tam yüksəklikdədir.</translation>
 <translation id="4165986682804962316">Sayt ayarları</translation>
 <translation id="4170011742729630528">Xidmət əlçatmazdır. Yenidən cəhd edin.</translation>
@@ -582,21 +582,21 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="4196597275619698563">Kart yaradın</translation>
 <translation id="4198423547019359126">Əlçatan endirmə məkanı yoxdur</translation>
 <translation id="4209895695669353772">Google tərəfindən təklif olunan fərdiləşdirilmiş kontenti əldə etmək üçün sinxronizasiyanı aktiv edin</translation>
-<translation id="4214315110991671325">Kukilərə icazə versəniz, Chrome onları əvvəlcədən yükləmək üçün istifadə edə bilər.</translation>
+<translation id="4214315110991671325">Kukilərə icazə versəniz, Egon onları əvvəlcədən yükləmək üçün istifadə edə bilər.</translation>
 <translation id="4225895483398857530">Alətlər paneli qısayolu</translation>
 <translation id="4227318652298512614">İstədiyiniz saytları izləyin</translation>
 <translation id="4242533952199664413">Ayarları açın</translation>
 <translation id="4248098802131000011">Data pozuntuları və digər güvənlik məsələlərinə qarşı parollarınızı qoruyun</translation>
-<translation id="424864128008805179">Chrome'dan çıxılsın?</translation>
+<translation id="424864128008805179">Egon'dan çıxılsın?</translation>
 <translation id="4249955472157341256">Ən sonuncular üzrə sıalayın</translation>
 <translation id="4250229828105606438">Skrinşot</translation>
 <translation id="4256782883801055595">Açıq mənbə lisenziyaları</translation>
-<translation id="4262915912852657291"><ph name="BEGIN_BOLD" />Hansı data istifadə olunur:<ph name="END_BOLD" /> Baxış tarixçəniz, bu cihazda Chrome istifadə edərək ziyarət etdiyiniz saytların qeydi.</translation>
+<translation id="4262915912852657291"><ph name="BEGIN_BOLD" />Hansı data istifadə olunur:<ph name="END_BOLD" /> Baxış tarixçəniz, bu cihazda Egon istifadə edərək ziyarət etdiyiniz saytların qeydi.</translation>
 <translation id="4263656433980196874">Assistentin səsli axtarış razılıq UI-si tam hündürlükdə açılıb</translation>
 <translation id="4269820728363426813">Link ünvanını kopyalayın</translation>
 <translation id="4283102315569707115">Defolt olaraq masaüstü saytlar tələb olunsun?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android ayarlarında ekran kilidini aktiv edin<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Chrome'u istifadə etməklə, <ph name="BEGIN_TOS_LINK" />Google Xidmət Şərtləri<ph name="END_TOS_LINK" /> və <ph name="BEGIN_ATOS_LINK" />Google Chrome və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_ATOS_LINK" /> ilə razılaşırsınız. <ph name="BEGIN_PRIVACY_LINK" />Məxfilik Siyasəti<ph name="END_PRIVACY_LINK" /> də tətbiq edilir.</translation>
+<translation id="4293476595220860475">Egon'u istifadə etməklə, <ph name="BEGIN_TOS_LINK" />Google Xidmət Şərtləri<ph name="END_TOS_LINK" /> və <ph name="BEGIN_ATOS_LINK" />Google Egon və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_ATOS_LINK" /> ilə razılaşırsınız. <ph name="BEGIN_PRIVACY_LINK" />Məxfilik Siyasəti<ph name="END_PRIVACY_LINK" /> də tətbiq edilir.</translation>
 <translation id="4296252229500326964">Yeni Anonim tab</translation>
 <translation id="4298388696830689168">Əlaqədar saytlar</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -623,16 +623,16 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="4461614516424362539">Başqa cihazı QR kodu ilə əlaqələndirdiyiniz zaman o, bu telefonu təhlükəsizlik açarı kimi istifadə edə bilər. Onu silsəniz, onu yenidən əlaqələndirmək üçün QR kodunu skan etməli olacaqsınız.</translation>
 <translation id="4472118726404937099">Cihazlar üzrə sinxronizasiya etmək və fərdiləşdirmək üçün daxil olub sinxronizasiyanı aktiv edin</translation>
 <translation id="4479839115899251637">Oxu siyahısından silin</translation>
-<translation id="4479972344484327217">Chrome üçün <ph name="MODULE" /> quraşdırılır…</translation>
+<translation id="4479972344484327217">Egon üçün <ph name="MODULE" /> quraşdırılır…</translation>
 <translation id="4484496141267039529">Bağlantı yoxdur. Sonra cəhd edin.</translation>
-<translation id="4487967297491345095">Bütün Chrome tətbiq datası həmişəlik silinəcək. Bura fayllar, ayarlar, hesablar, data bazası və s. daxildir.</translation>
+<translation id="4487967297491345095">Bütün Egon tətbiq datası həmişəlik silinəcək. Bura fayllar, ayarlar, hesablar, data bazası və s. daxildir.</translation>
 <translation id="449126573531210296">Sinxronlaşdırılmış parolları Google Hesabınız ilə şifrləyin</translation>
 <translation id="4504667196171871375">Wi-Fi və mobil data ilə</translation>
 <translation id="4508528996305412043">Təchizat kartı menyusu açıqdır</translation>
 <translation id="4508642716788467538">Dil seçin</translation>
 <translation id="4513387527876475750">{DAYS,plural, =1{# gün öncə}other{# gün öncə}}</translation>
 <translation id="451872707440238414">Əlfəcin axtarın</translation>
-<translation id="4521489764227272523">Seçilmiş data Chrome və sinxronizasiya olunmuş cihazınızdan silindi. 
+<translation id="4521489764227272523">Seçilmiş data Egon və sinxronizasiya olunmuş cihazınızdan silindi. 
 
 <ph name="BEGIN_LINK" />history.google.com<ph name="END_LINK" /> linkində Google hesabınızın digər Google xidmətlərində axtarış və fəaliyyət kimi başqa formalı axtarış tarixçəsi ola bilər.</translation>
 <translation id="452750746583162491">Sinxronlaşdırılmış datanızı nəzərdən keçirin</translation>
@@ -660,14 +660,14 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="4663499661119906179">Sizin üçün populyar saytlar və hekayələrə baxın</translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS" /> əlfəcin silindi</translation>
 <translation id="4668347365065281350">Kukilər və digər yerli yadda saxlanmış data daxil olmaqla, saytların saxladığı bütün dütü</translation>
-<translation id="4678082183394354975">Saytlar üçün tünd tema Chrome'da aktivdir</translation>
+<translation id="4678082183394354975">Saytlar üçün tünd tema Egon'da aktivdir</translation>
 <translation id="4684427112815847243">Hər şeyi sinxronlaşdırın</translation>
 <translation id="4685741273709472646">Aşağı açılan siyahıdan seçin</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW" />\u2026 və <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS" /> digəri}other{<ph name="SHIPPING_OPTION_PREVIEW" />\u2026 və <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS" /> digəri}}</translation>
 <translation id="4699172675775169585">Keşlənmiş şəkillər və fayllar</translation>
 <translation id="4719927025381752090">Tərcümə təklif edin</translation>
 <translation id="4720023427747327413">Aç <ph name="PRODUCT_NAME" /></translation>
-<translation id="4720982865791209136">Chrome'u təkmilləşdirin. <ph name="BEGIN_LINK" />Sorğuya qatılın<ph name="END_LINK" /></translation>
+<translation id="4720982865791209136">Egon'u təkmilləşdirin. <ph name="BEGIN_LINK" />Sorğuya qatılın<ph name="END_LINK" /></translation>
 <translation id="47217992755561375">Populyar saytlara baxın</translation>
 <translation id="4732120983431207637">Stellaj Açıcı</translation>
 <translation id="4736934858538408121">Virtual kart</translation>
@@ -694,7 +694,7 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="4831037795716408498">Məzmunu endirin</translation>
 <translation id="4834007576107377210">Axtarış tarixçənizi silmək üçün axtarış sisteminizin təlimatlarına (təmin edilibsə) baxın</translation>
 <translation id="4834250788637067901">Google Pay istifadə edən ödəniş metodları, təkliflər və ünvanlar</translation>
-<translation id="4835385943915508971">Chrome'un sorğulanan mənbəyə girişi yoxdur.</translation>
+<translation id="4835385943915508971">Egon'un sorğulanan mənbəyə girişi yoxdur.</translation>
 <translation id="4837753911714442426">Səhifəni çap etmək üçün seçimləri açın</translation>
 <translation id="4842092870884894799">Parol yaradılması popapı göstərilir</translation>
 <translation id="4842515939542199281">Səsinizlə axtarış etmək üçün mikrofona toxunun</translation>
@@ -703,7 +703,7 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="4852014461738377247">Giriş edilir\u2026</translation>
 <translation id="4860895144060829044">Zəng</translation>
 <translation id="4864369630010738180">Daxil olunur...</translation>
-<translation id="4866368707455379617">Chrome üçün <ph name="MODULE" /> quraşdırmaq mümkün deyil</translation>
+<translation id="4866368707455379617">Egon üçün <ph name="MODULE" /> quraşdırmaq mümkün deyil</translation>
 <translation id="4871568871368204250">Sinxronizasiyanı deaktiv edin</translation>
 <translation id="4875775213178255010">Kontent Təklifləri</translation>
 <translation id="4877678010818027629">Anonim rejimə daxil olun</translation>
@@ -711,7 +711,7 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="4880127995492972015">Tərcümə edin...</translation>
 <translation id="4881695831933465202">Açın</translation>
 <translation id="488187801263602086">Faylın adını dəyişin</translation>
-<translation id="4885273946141277891">Dəstəklənməyən Chrome nümunələrinin sayı.</translation>
+<translation id="4885273946141277891">Dəstəklənməyən Egon nümunələrinin sayı.</translation>
 <translation id="4905823827770127520">Səhifəyə keçid daxil edin</translation>
 <translation id="4908869848243824489">Google Təkliflər</translation>
 <translation id="4909709702739934280">Brauzeriniz administratorunuz tərəfindən idarə edilir</translation>
@@ -722,7 +722,7 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="492284538114688557">Qiymət endirimi aşkarlandı</translation>
 <translation id="4925120120285606924">Skrinşot <ph name="CURRENT_DATE_ISO" /></translation>
 <translation id="49268022542405662">Parollarınız mətn faylı kimi eksport ediləcək və endiriləcək. Təyinat qovluğuna girişi olan hər kəs və hər bir tətbiq onları görəcək.</translation>
-<translation id="4932247056774066048"><ph name="DOMAIN_NAME" /> tərəfindən idarə edilən hesabdan çıxdığınıza görə Chrome datanız bu cihazdan silinəcək. Bu, Google Hesabında qalacaq.</translation>
+<translation id="4932247056774066048"><ph name="DOMAIN_NAME" /> tərəfindən idarə edilən hesabdan çıxdığınıza görə Egon datanız bu cihazdan silinəcək. Bu, Google Hesabında qalacaq.</translation>
 <translation id="4943703118917034429">Virtual Reallıq</translation>
 <translation id="4943872375798546930">Nəticə yoxdur</translation>
 <translation id="4950924971025849764">Eyni Google Hesabına daxil olduğunuz zaman digər cihazlar bu telefonu təhlükəsizlik açarı kimi istifadə edə bilər.</translation>
@@ -751,7 +751,7 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="5091249083535528968">Artırılmış istifadə datası</translation>
 <translation id="509429900233858213">Xəta baş verdi.</translation>
 <translation id="5099845111805573968">Masaüstü saytını bir dəfə seçdiyiniz zaman ayar hər dəfə ziyarət etdiyinizdə sayta tətbiq edilir</translation>
-<translation id="5102401324271069229">Sayt parolunuzu oğurlamağa çalışdıqda və ya zərərli fayl endirdiyinizdə Chrome səhifə məzmunundan kiçik nümunələr də daxil olmaqla, URL'ləri Təhlükəsiz Baxışa göndərə bilər</translation>
+<translation id="5102401324271069229">Sayt parolunuzu oğurlamağa çalışdıqda və ya zərərli fayl endirdiyinizdə Egon səhifə məzmunundan kiçik nümunələr də daxil olmaqla, URL'ləri Təhlükəsiz Baxışa göndərə bilər</translation>
 <translation id="510275257476243843">1 saat qaldı</translation>
 <translation id="5115811374190515607"><ph name="PRODUCT_NAME" /> məkanına</translation>
 <translation id="5118713593561876160">Maraqlar</translation>
@@ -765,7 +765,7 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="5170568018924773124">Qovluqda göstərin</translation>
 <translation id="5171045022955879922">Linki axtarın və ya yazın</translation>
 <translation id="517734441743343109">Davam etməklə, <ph name="BEGIN_TOS_LINK" />Xidmət Şərtləri<ph name="END_TOS_LINK" /> və <ph name="BEGIN_PRIVACY_LINK" />Məxfilik Siyasəti<ph name="END_PRIVACY_LINK" /> ilə razılaşırsınız.</translation>
-<translation id="5184329579814168207">Chrome'da açın</translation>
+<translation id="5184329579814168207">Egon'da açın</translation>
 <translation id="5191251636205085390">Üçüncü tərəf kukilərini əvəzləmək üçün hazırlanmış yeni texnologiyalar barədə öyrənin və onlara nəzarət edin</translation>
 <translation id="5193988420012215838">Buferə kopyalandı</translation>
 <translation id="5199929503336119739">İş Profili</translation>
@@ -787,8 +787,8 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="5304593522240415983">Bu hissə boş ola bilməz</translation>
 <translation id="5308380583665731573">Qoşun</translation>
 <translation id="5317780077021120954">Yadda saxlayın</translation>
-<translation id="5319359161174645648">Google, Chrome'u tövsiyə edir</translation>
-<translation id="5321849971085220133">Chrome izləməni azaltmaq və gözdən keçirərkən sizi daha da təhlükəsiz saxlamaq üçün yeni yollar tapır. Chrome həmçinin <ph name="BEGIN_LINK" />maraqlarınızı təxmin edir<ph name="END_LINK" /> və onları idarə etmənizə imkan verir. Sonra ziyarət etdiyiniz saytlar sizə reklam göstərmək üçün Chrome'dan maraqlarınızı tələb edə bilər.</translation>
+<translation id="5319359161174645648">Google, Egon'u tövsiyə edir</translation>
+<translation id="5321849971085220133">Egon izləməni azaltmaq və gözdən keçirərkən sizi daha da təhlükəsiz saxlamaq üçün yeni yollar tapır. Egon həmçinin <ph name="BEGIN_LINK" />maraqlarınızı təxmin edir<ph name="END_LINK" /> və onları idarə etmənizə imkan verir. Sonra ziyarət etdiyiniz saytlar sizə reklam göstərmək üçün Egon'dan maraqlarınızı tələb edə bilər.</translation>
 <translation id="5324858694974489420">Valideyn Ayarları</translation>
 <translation id="5326921373682845375">Əvvəlcədən yüklənmiş səhifələr şifrələndiyinə və səhifələrə keçid təmin edən sayt Google saytı olduğuna görə Google serverləri bu səhifələri məxfi olaraq əvvəlcədən yükləyərkən yeni məlumat almır.</translation>
 <translation id="5329858041417644019">Brauzer idarə edilmir</translation>
@@ -816,14 +816,14 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="5458366071038729214">İzlədiyiniz saytları burada tapa bilərsiniz</translation>
 <translation id="5468068603361015296">Hər halda <ph name="FILE_NAME" /> faylını endirmək istəyirsiniz?</translation>
 <translation id="548278423535722844">Xəritə tətbiqində açın</translation>
-<translation id="5483197086164197190">Chrome'u araşdırın</translation>
+<translation id="5483197086164197190">Egon'u araşdırın</translation>
 <translation id="5487521232677179737">Datanı silin</translation>
 <translation id="549025011754480756">Səsinizlə necə axtarmalı</translation>
 <translation id="5492637351392383067">Cihazda şifrələmə</translation>
 <translation id="5514904542973294328">Bu cihazın administratoru tərəfindən deaktiv edildi</translation>
 <translation id="5515439363601853141">Parola baxmaq üçün kiliddən çıxarın</translation>
 <translation id="5517095782334947753"><ph name="FROM_ACCOUNT" /> hesabından əlfəcin, tarixçə, parol və digər ayarlar var.</translation>
-<translation id="5524761631371622910">Sınaqlar aktiv olduqda və Chrome təsadüfi olaraq sizi aktiv sınağa təyin edibsə, baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün Chrome hər ay maraqlarınızı növbəlilik əsasında silir.</translation>
+<translation id="5524761631371622910">Sınaqlar aktiv olduqda və Egon təsadüfi olaraq sizi aktiv sınağa təyin edibsə, baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün Egon hər ay maraqlarınızı növbəlilik əsasında silir.</translation>
 <translation id="5524843473235508879">Yönləndirmə blok edildi.</translation>
 <translation id="5548606607480005320">Təhlükəsizlik yoxlanışı</translation>
 <translation id="5555525474779371165">Təhlükəsiz Baxış ilə qorunmanı seçin</translation>
@@ -847,19 +847,19 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="5655963694829536461">Endirmələri axtarın</translation>
 <translation id="5659593005791499971">E-poçt</translation>
 <translation id="5665379678064389456"><ph name="APP_NAME" /> tətbiqində tədbir yaradın</translation>
-<translation id="5683547024293500885">Chrome güncəlləmələri yoxlaya bilmir</translation>
+<translation id="5683547024293500885">Egon güncəlləmələri yoxlaya bilmir</translation>
 <translation id="5686790454216892815">Fayl adı çox uzundur</translation>
 <translation id="569536719314091526">Əlavə seçimlər düyməsində bu səhifəni istədiyiniz dilə tərcümə edin</translation>
-<translation id="5696597120588531049">Chrome sizi data pozuntuları, güvənli olmayan vebsaytlar və digər güvənlik məsələlərindən qoruya bilər</translation>
+<translation id="5696597120588531049">Egon sizi data pozuntuları, güvənli olmayan vebsaytlar və digər güvənlik məsələlərindən qoruya bilər</translation>
 <translation id="570347048394355941">Taba keçin</translation>
 <translation id="572328651809341494">Son panellər</translation>
 <translation id="5726692708398506830">Səhifədəki hər şeyi böyüdün</translation>
-<translation id="5727531838415286053">Chrome təsadüfi olaraq sizi aktiv sınağa təyin edibsə, baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün Chrome hər ay maraqlarınızı növbəlilik əsasında silir. Silmədiyiniz təqdirdə maraqlar yenilənir.</translation>
+<translation id="5727531838415286053">Egon təsadüfi olaraq sizi aktiv sınağa təyin edibsə, baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün Egon hər ay maraqlarınızı növbəlilik əsasında silir. Silmədiyiniz təqdirdə maraqlar yenilənir.</translation>
 <translation id="5748802427693696783">Standart panellərə keçdi</translation>
-<translation id="5749068826913805084">Faylları endirmək üçün Chrome yaddaşa giriş tələb edir.</translation>
+<translation id="5749068826913805084">Faylları endirmək üçün Egon yaddaşa giriş tələb edir.</translation>
 <translation id="5749237766298580851">Deaktiv <ph name="SEPARATOR" /> Tövsiyə edilmir</translation>
 <translation id="5752232708629533680">Yalnız GIF paylaşın</translation>
-<translation id="5753139477036638699">Chrome'da axtarış etmək üçün səsinizdən istifadə edə bilərsiniz</translation>
+<translation id="5753139477036638699">Egon'da axtarış etmək üçün səsinizdən istifadə edə bilərsiniz</translation>
 <translation id="5754350196967618083">Təklifləri yeniləmək olmur</translation>
 <translation id="5763382633136178763">İnkoqnito vərəqələri</translation>
 <translation id="5763514718066511291">Linki bu tətbiqə kopyalamaq üçün klikləyin</translation>
@@ -878,8 +878,8 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="5814749351757353073">Sevdiyiniz saytlardan xəbərdar olun</translation>
 <translation id="583281660410589416">Naməlum</translation>
 <translation id="5833984609253377421">Linki paylaşın</translation>
-<translation id="5834764604050996579">QR kodunu skanlamaq üçün Chrome'a kameranızdan istifadə imkanı verin</translation>
-<translation id="5839058148541733625">Chrome Dinozavr</translation>
+<translation id="5834764604050996579">QR kodunu skanlamaq üçün Egon'a kameranızdan istifadə imkanı verin</translation>
+<translation id="5839058148541733625">Egon Dinozavr</translation>
 <translation id="5842437907245493289">Qovluq ikonasından Əlfəcinlərdə izlənilən məhsulları təşkil edin</translation>
 <translation id="5853623416121554550">dayandırıldı</translation>
 <translation id="5854512288214985237">Heç bir statistika və ya xəta hesabatı Google'a göndərilmir.</translation>
@@ -893,23 +893,23 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="5865733239029070421">İstifadə statistikası və qəza raportlarını avtomatik Google'a göndərir</translation>
 <translation id="5869522115854928033">Saxlanılmış parollar</translation>
 <translation id="5869789175361934029">Başqa cihazdan davam edin</translation>
-<translation id="587735546353481577">Bir saytı izləmək üçün sayta keçin, Chrome menyusunu açın və İzlə seçiminə toxunun.</translation>
+<translation id="587735546353481577">Bir saytı izləmək üçün sayta keçin, Egon menyusunu açın və İzlə seçiminə toxunun.</translation>
 <translation id="5879072387416556377">Daha yaxşı təkliflər alın</translation>
 <translation id="5884076754568147479">Tapşırıqları tamamlamaqda sizə kömək etmək üçün Google Assistentdən istifadə etdiyiniz saytların URL və məzmunlarını, eləcə də Assistent vasitəsilə təqdim etdiyiniz məlumatları əldə edəcək</translation>
-<translation id="5906513782029855931">Saytların URL-lərini bilmək Google Assistentə tapşırıqları yerinə yetirməkdə sizə kömək etmək imkanı verir. Assistenti Chrome ayarlarında deaktiv edə bilərsiniz.</translation>
+<translation id="5906513782029855931">Saytların URL-lərini bilmək Google Assistentə tapşırıqları yerinə yetirməkdə sizə kömək etmək imkanı verir. Assistenti Egon ayarlarında deaktiv edə bilərsiniz.</translation>
 <translation id="5916664084637901428">Aktiv</translation>
 <translation id="5919204609460789179">Sinxronizasiyanı başlatmaq üçün <ph name="PRODUCT_NAME" /> məhsulunu yeniləyin</translation>
 <translation id="5938820472109305350"><ph name="INTEREST" /> əlavə edin</translation>
 <translation id="5942872142862698679">Axtarış üçün Google istifadə edilir</translation>
 <translation id="5945035219773565305">Cari tövsiyə: <ph name="RECOMMENDATION" /></translation>
 <translation id="5951119116059277034">Canlı səhifəyə baxılır</translation>
-<translation id="5956665950594638604">Chrome Yardım Mərkəzini yeni paneldə açın</translation>
+<translation id="5956665950594638604">Egon Yardım Mərkəzini yeni paneldə açın</translation>
 <translation id="5957442310066583693">Populyar saytlara baxmaq üçün Əsas səhifə düyməsinə toxunun</translation>
 <translation id="5958275228015807058">Fayl və səhifələri Endirilənlər bölməsində tapın</translation>
 <translation id="5958994127112619898">Səhifəni sadələşdirin</translation>
 <translation id="5962718611393537961">Yığcamlaşdırmaq üçün klikləyin</translation>
 <translation id="5964869237734432770">Şəkil təsvirini dayandırın</translation>
-<translation id="5966233851250124270">Chrome seçiminizi yadda saxlayacaq</translation>
+<translation id="5966233851250124270">Egon seçiminizi yadda saxlayacaq</translation>
 <translation id="5979084224081478209">Parolları yoxlayın</translation>
 <translation id="5995726099713306770">Səhifə yenidən endirilsin?</translation>
 <translation id="6000066717592683814">Google'u saxlayın</translation>
@@ -917,7 +917,7 @@ Ayarı dəyişmək üçün <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlay�
 <translation id="6002122790816966947">Cihazlarınız</translation>
 <translation id="6005538289190791541">Təklif edilən parol</translation>
 <translation id="6032091552407840792">Bu sınaq yalnız <ph name="BEGIN_LINK" />bəzi regionlarda<ph name="END_LINK" /> aktivdir.</translation>
-<translation id="6033245666633565791"><ph name="BEGIN_LINK" />Məxfilik Sendboksu<ph name="END_LINK" /> ilə Chrome açıq vebdən sərbəst şəkildə istifadənizi təmin edərkən sizi saytlararası izləmə mexanizmlərindən qoruyacaq yeni texnologiyalar hazırlayır.
+<translation id="6033245666633565791"><ph name="BEGIN_LINK" />Məxfilik Sendboksu<ph name="END_LINK" /> ilə Egon açıq vebdən sərbəst şəkildə istifadənizi təmin edərkən sizi saytlararası izləmə mexanizmlərindən qoruyacaq yeni texnologiyalar hazırlayır.
 
 Məxfilik Sendboksu sınaqları hələ də aktiv hazırlanma mərhələsindədir və seçilmiş regionlarda əlçatandır. Hələlik saytlar üçüncü tərəf kukiləri kimi cari veb texnologiyalarından istifadə etməyə davam edərkən Məxfilik Sendboksunu sınaqdan keçirə bilər.</translation>
 <translation id="6039379616847168523">Növbəti panelə keşin</translation>
@@ -944,7 +944,7 @@ Məxfilik Sendboksu sınaqları hələ də aktiv hazırlanma mərhələsindədir
 <translation id="6150320133806434356">Əlfəcin yadda saxlanıldı</translation>
 <translation id="6154478581116148741">Bu cihazdan parolları eksport etmək üçün Ayarlarda ekran kilidini aktiv edin</translation>
 <translation id="6159729262978459665">Bütün sinxronizasiya edilmiş cihazlardan tarixçəni təmizləyir.</translation>
-<translation id="6162892189396105610">Chrome'un ziyarət edə biləcəyinizi düşündüyü səhifələri əvvəlcədən yükləyir.</translation>
+<translation id="6162892189396105610">Egon'un ziyarət edə biləcəyinizi düşündüyü səhifələri əvvəlcədən yükləyir.</translation>
 <translation id="6186394685773237175">Oğurlanmış parol tapılmadı</translation>
 <translation id="6192907950379606605">Şəkil təsvirləri əldə edin</translation>
 <translation id="6193448654517602979">Tablar seçin</translation>
@@ -977,7 +977,7 @@ Məxfilik Sendboksu sınaqları hələ də aktiv hazırlanma mərhələsindədir
 <translation id="6357653805084533597">Bu QR kodunu göstərən cihaza daxil olmaq üçün bu telefondan istifadə edə bilərsiniz.</translation>
 <translation id="6363990818884053551">Sinxronizasiyaya başlamaq üçün kimliyinizi doğrulayın</translation>
 <translation id="6364438453358674297">Təklif tarixçədən silinsin?</translation>
-<translation id="6380100320871303656">Chrome'un ziyarət edəcəyinizi düşündüyü səhifələr daha çox əvvəlcədən yüklənir. Bu ayar data istifadəsinin artması ilə nəticələnə bilər.</translation>
+<translation id="6380100320871303656">Egon'un ziyarət edəcəyinizi düşündüyü səhifələr daha çox əvvəlcədən yüklənir. Bu ayar data istifadəsinin artması ilə nəticələnə bilər.</translation>
 <translation id="6385407407546870227">Sınaqlar aktiv olduqda, spam və dələduzluğun azaldılması saytlara dələduzluqla mübarizə aparmağa və botları insanlardan ayırmağa kömək etmək üçün güvən nişanlarına əsaslanır.
 
 Müntəzəm olaraq hesaba daxil olmaq kimi saytla qarşılıqlı əlaqəniz əsasında həmin sayt brauzerinizə güvən nişanı verə bilər. Daha sonra ziyarət etdiyiniz digər saytlar keçərli güvən nişanını yoxlayıb tapsalar, onlar sizə bot deyil, insan kimi yanaşacaqlar.
@@ -986,7 +986,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="6394791151443660613">Axtarış: <ph name="SEARCH_QUERY" /></translation>
 <translation id="6395288395575013217">LİNK</translation>
 <translation id="6397616442223433927">Bağlantı bərpa edildi</translation>
-<translation id="6401458660421980302">Bu tabı başqa cihaza göndərmək üçün orada Chrome'a daxil olun</translation>
+<translation id="6401458660421980302">Bu tabı başqa cihaza göndərmək üçün orada Egon'a daxil olun</translation>
 <translation id="6402652558933147609"><ph name="VIOLATED_URL" /> üzrə <ph name="ERROR_CODE" /></translation>
 <translation id="6403371459378431832">Datanızı bütün cihazlarda sinxronlaşdırın</translation>
 <translation id="6404511346730675251">Əlfəcinə düzəliş edin</translation>
@@ -995,7 +995,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="6410404864818553978">Təməl istifadə datası</translation>
 <translation id="6410883413783534063">Müxtəlif səhifələrə eyni vaxtda daxil olmaq üçün tabları açın</translation>
 <translation id="6411219469806822692">Bundan yuxarıya keçmək olmur. Səhifənin yuxarısından başlamağı sınayın.</translation>
-<translation id="6412673304250309937">URL'ləri Chrome'da saxlanılan təhlükəli saytların siyahısı ilə yoxlayır. Sayt parolunuzu oğurlamağa çalışdıqda və ya zərərli fayl endirdiyinizdə Chrome səhifə məzmunundan kiçik nümunələr də daxil olmaqla, URL'ləri Təhlükəsiz Baxışa göndərə bilər.</translation>
+<translation id="6412673304250309937">URL'ləri Egon'da saxlanılan təhlükəli saytların siyahısı ilə yoxlayır. Sayt parolunuzu oğurlamağa çalışdıqda və ya zərərli fayl endirdiyinizdə Egon səhifə məzmunundan kiçik nümunələr də daxil olmaqla, URL'ləri Təhlükəsiz Baxışa göndərə bilər.</translation>
 <translation id="641643625718530986">Çap edin...</translation>
 <translation id="6422857128426228781">İzlənən məhsulları burada tapa bilərsiniz</translation>
 <translation id="6433501201775827830">Axtarış sistemini seçin</translation>
@@ -1006,16 +1006,16 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="6447558397796644647">Bu əlfəcini tapmaq mümkün deyil. Orfoqrafiyanı yoxlayın və ya yeni əlfəcin əlavə edin.</translation>
 <translation id="6459045781120991510">Sorğular</translation>
 <translation id="6461962085415701688">Fayl açılmır</translation>
-<translation id="6464977750820128603">Chrome'da girdiyiniz saytlara baxa və onlar üçün taymer ayarlaya bilərsiniz.\n\nGoogle taymer ayarladığınız saytları və onlara hansı müddətdən bir girdiyiniz haqda məlumat əldə edir. Bu məlumat Digital Sağlamlığı təkmilləşdirmək üçün istifadə olunur.</translation>
+<translation id="6464977750820128603">Egon'da girdiyiniz saytlara baxa və onlar üçün taymer ayarlaya bilərsiniz.\n\nGoogle taymer ayarladığınız saytları və onlara hansı müddətdən bir girdiyiniz haqda məlumat əldə edir. Bu məlumat Digital Sağlamlığı təkmilləşdirmək üçün istifadə olunur.</translation>
 <translation id="6473086018775716761">Paylaşım seçimlərinin siyahısı yarım yüksəklikdə açılıb.</translation>
 <translation id="6475951671322991020">Videonu endirin</translation>
 <translation id="6477928892249167417">Bu saytlar sizə vacib görünür:</translation>
 <translation id="6482749332252372425">Yadda az olduğu üçün <ph name="FILE_NAME" /> endirilə bilmədi.</translation>
 <translation id="6496823230996795692"><ph name="APP_NAME" /> tətbiqini ilk dəfə istifadə etmək üçün internetə qoşulun.</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{Fayl endirildi}other{# endirmə tamamlandı}}</translation>
-<translation id="6508722015517270189">Chrome'u yenidən başladın</translation>
+<translation id="6508722015517270189">Egon'u yenidən başladın</translation>
 <translation id="6527303717912515753">Paylaşın</translation>
-<translation id="6532866250404780454">Chrome'da girdiyiniz saytlar göstərilməyəcək. Bütün sayt taymerləri silinəcək.</translation>
+<translation id="6532866250404780454">Egon'da girdiyiniz saytlar göstərilməyəcək. Bütün sayt taymerləri silinəcək.</translation>
 <translation id="6534565668554028783">Google cavab üçün çox vaxt aldı</translation>
 <translation id="6539092367496845964">Xəta baş verdi. Sonra cəhd edin.</translation>
 <translation id="6541042852576515209">Ölçünü dəyişdirin və fırladın</translation>
@@ -1028,29 +1028,29 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="6565959834589222080">Wi-Fi əlçatan olduqda istifadə edilir</translation>
 <translation id="6569373978618239158">İndi yeni tab açdığınız zaman <ph name="SITE_NAME" /> saytından hekayələri görəcəksiniz. İzlədiyiniz saytlar Google hesabınızda saxlanılır. Onları Təkliflər ayarlarında idarə edə bilərsiniz.</translation>
 <translation id="6573096386450695060">Həmişə icazə verin</translation>
-<translation id="6573431926118603307">Başqa cihaz ilə Chrome'da açdığınız panellər burada görünəcək.</translation>
+<translation id="6573431926118603307">Başqa cihaz ilə Egon'da açdığınız panellər burada görünəcək.</translation>
 <translation id="6583199322650523874">Cari səhifəni əlfəcin olaraq qeyd edin</translation>
 <translation id="6588043302623806746">Güvənli DNS yoxdur</translation>
 <translation id="6590471736817333463">60%-ədək dataya qənaət edin</translation>
 <translation id="6590680911007613645">Yadda saxlanılan parolun <ph name="SITE" /> paroluna uyğun olduğuna əmin olun</translation>
 <translation id="6593061639179217415">Masaüstü saytı</translation>
-<translation id="6594121454516132231">Chrome'un açıq vebi saxlayarkən sizi saytlararası izləmədən necə qoruyacağına baxın</translation>
+<translation id="6594121454516132231">Egon'un açıq vebi saxlayarkən sizi saytlararası izləmədən necə qoruyacağına baxın</translation>
 <translation id="6595046016124923392">Sizin üçün təsvirləri yaxşılaşdırmaq üçün şəkillər Google'a göndərilir.</translation>
-<translation id="6600954340915313787">Chrome'a kopYanlışır</translation>
+<translation id="6600954340915313787">Egon'a kopYanlışır</translation>
 <translation id="661266467055912436">Siz və vebdəki hər kəs üçün təhlükəsizliyi artırır.</translation>
 <translation id="6618554661997243500">Sizin üçün populyar saytlar və hekayələrə baxmaq üçün Əsas səhifə düyməsinə toxunun</translation>
-<translation id="6621391692573306628">Bu tabı başqa cihaza göndərmək üçün hər iki cihazda Chrome'a daxil olun</translation>
+<translation id="6621391692573306628">Bu tabı başqa cihaza göndərmək üçün hər iki cihazda Egon'a daxil olun</translation>
 <translation id="6627583120233659107">Qovluğa düzəliş edin</translation>
 <translation id="6633067410344541938">Anonim rejimi kiliddən çıxarın</translation>
 <translation id="6636623428211296678">Aşağıda digər ayarları araşdırın və ya indi bitirin</translation>
 <translation id="663674369910034433">Məxfilik, təhlükəsizlik və datanın toplanması ilə bağlı daha çox ayarlar üçün <ph name="BEGIN_LINK1" />Sinxronizasiya<ph name="END_LINK1" /> və <ph name="BEGIN_LINK2" />Google xidmətləri<ph name="END_LINK2" /> səhifəsinə daxil olun.</translation>
-<translation id="6637100877383020115">Tətbiqi təkmilləşdirməyə kömək etmək üçün Chrome istifadə və qəza datasını Google'a göndərir. <ph name="BEGIN_UMA_LINK" />İdarə edin<ph name="END_UMA_LINK" /></translation>
+<translation id="6637100877383020115">Tətbiqi təkmilləşdirməyə kömək etmək üçün Egon istifadə və qəza datasını Google'a göndərir. <ph name="BEGIN_UMA_LINK" />İdarə edin<ph name="END_UMA_LINK" /></translation>
 <translation id="6640207029842583248">Həmişə bloklayın</translation>
 <translation id="6641780377503683465"><ph name="INTEREST" /> silin</translation>
 <translation id="6643016212128521049">Silin</translation>
 <translation id="6645629752388991326">Bu cihazı təhlükəsizlik açarı kimi istifadə etməklə hansı cihazların daxil ola biləcəyinə nəzarət edin.</translation>
 <translation id="6647441008198474441">Ziyarət etdiyiniz keçidlər növbəti dəfə hansı saytlara daxil ola biləcəyinizi proqnozlaşdırmaq üçün Google'a göndərilir</translation>
-<translation id="6648459603387803038">Administrator brauzer quraşdırmasını uzaqdan dəyişə bilər. Bu cihazdakı fəaliyyət Chrome'dan kənarda da idarə edilə bilər.</translation>
+<translation id="6648459603387803038">Administrator brauzer quraşdırmasını uzaqdan dəyişə bilər. Bu cihazdakı fəaliyyət Egon'dan kənarda da idarə edilə bilər.</translation>
 <translation id="6648977384226967773">{CONTACT,plural, =1{<ph name="CONTACT_PREVIEW" />\u2026 və <ph name="NUMBER_OF_ADDITIONAL_CONTACTS" /> digəri}other{<ph name="CONTACT_PREVIEW" />\u2026 və <ph name="NUMBER_OF_ADDITIONAL_CONTACTS" /> digəri}}</translation>
 <translation id="6649642165559792194">Önizləmə şəkli <ph name="BEGIN_NEW" />Yeni<ph name="END_NEW" /></translation>
 <translation id="6657585470893396449">Parol</translation>
@@ -1058,9 +1058,9 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="666731172850799929"><ph name="APP_NAME" /> tətbiqində açın</translation>
 <translation id="6671495933530132209">Şəkli kopyalayın</translation>
 <translation id="6674571176963658787">Sinxronizasiyanı başlatmaq üçün parol ifadənizi daxil edin</translation>
-<translation id="6676840375528380067">Chrome datası bu cihazdan silinsin?</translation>
-<translation id="6676927815633975364">Bu sayta və Chrome'a daxil olun</translation>
-<translation id="6684809838922667136">Chrome'u yaxşılaşdırın</translation>
+<translation id="6676840375528380067">Egon datası bu cihazdan silinsin?</translation>
+<translation id="6676927815633975364">Bu sayta və Egon'a daxil olun</translation>
+<translation id="6684809838922667136">Egon'u yaxşılaşdırın</translation>
 <translation id="670498945988402717">Dünən yoxlanılıb</translation>
 <translation id="6710213216561001401">Əvvəlki</translation>
 <translation id="671481426037969117"><ph name="FQDN" /> taymerinin vaxtı bitir. Sabah yenidən başlayacaq.</translation>
@@ -1074,11 +1074,11 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="6767294960381293877">Yarı hündürlükdə açılan tabı paylaşa biləcəyiniz cihazların siyahısı.</translation>
 <translation id="6770042910635026163">Maraqlarınızı müəyyən edən ziyarət etdiyiniz saytlar</translation>
 <translation id="6770602306803890733">Siz və vebdəki hər kəs üçün təhlükəsizliyi artırır</translation>
-<translation id="6785476624617658922">Chrome və ChromeOS Əlavə Xidmət Şərtləri</translation>
+<translation id="6785476624617658922">Egon və ChromeOS Əlavə Xidmət Şərtləri</translation>
 <translation id="6795633245022906657">Cəld yeni tab açın. Bu qısayolu redaktə etmək üçün Ayarlara keçin.</translation>
 <translation id="6802555630140434547">Bu pəncərə bağlanacaq</translation>
 <translation id="6811034713472274749">Səhifəyə baxa bilərsiniz</translation>
-<translation id="6813446258015311409">Chrome'a giriş açılıb.</translation>
+<translation id="6813446258015311409">Egon'a giriş açılıb.</translation>
 <translation id="6817747507826986771">Bu səhifəni cəld paylaşın. Bu qısayolu redaktə etmək üçün toxunub saxlayın.</translation>
 <translation id="6819199143469632133">Cihazlarınızda Google komponentlərini əldə etmək üçün daxil olun</translation>
 <translation id="6820686453637990663">CVC</translation>
@@ -1121,7 +1121,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="7029390216614421513">QR kodu və ya barkodu bu çərçivəyə yerləşdirin.</translation>
 <translation id="7029809446516969842">Parollar</translation>
 <translation id="7030304022046916278">URL'ləri yoxlamaq üçün onları Təhlükəsiz Baxışa göndərir</translation>
-<translation id="7037830628447527439">Google Hesabınızla Chrome'a daxil olun</translation>
+<translation id="7037830628447527439">Google Hesabınızla Egon'a daxil olun</translation>
 <translation id="7038956721828960940">chrome_image_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
 <translation id="7054588988317389591">Şəkil təsvirləri əldə edilsin?</translation>
 <translation id="7055152154916055070">Yönləndirmə blok edildi:</translation>
@@ -1130,8 +1130,8 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="707155805709242880">Nəyi sinxronizasiya edəcəyinizi aşağıda seçin</translation>
 <translation id="7077143737582773186">SD Kart</translation>
 <translation id="7080806333218412752">URL'ləri yoxlamaq üçün onları Təhlükəsiz Baxışa göndərir. Həmçinin yeni təhlükələri aşkarlamaqda kömək məqsədilə səhifə, endirmə, artırma fəaliyyətindən ibarət kiçik nümunə göndərir. Daxil olduğunuzda sizi Google tətbiqlərində qorumaq üçün bu datanı Google Hesabınız ilə müvəqqəti olaraq əlaqələndirir.</translation>
-<translation id="7085332316435785646">Google xidmətlərində daha çox fərdiləşdirilmiş təcrübə üçün Chrome tarixçəsinin daxil edilib-edilməməsini seçin</translation>
-<translation id="7088681679121566888">Chrome güncəldir</translation>
+<translation id="7085332316435785646">Google xidmətlərində daha çox fərdiləşdirilmiş təcrübə üçün Egon tarixçəsinin daxil edilib-edilməməsini seçin</translation>
+<translation id="7088681679121566888">Egon güncəldir</translation>
 <translation id="7093803425429738190">Emosiya əlavə edin</translation>
 <translation id="7105047059074518658">Cihazlar arasında asan baxış üçün daxil olun</translation>
 <translation id="7106762743910369165">Təşkilatınız brauzerinizi idarə edir</translation>
@@ -1140,23 +1140,23 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="7143462160780459030">Skrinşot çəkmək olmur. Yenə cəhd edin.</translation>
 <translation id="7146622961999026732">Bu saytlar və tətbiqlər sizə vacib görünür:</translation>
 <translation id="7149893636342594995">Son 24 saat</translation>
-<translation id="7155317020660659215">QR kodu skanlamaq üçün ayarları dəyişərək Chrome'un kameranızdan istifadə etməsinə icazə verin</translation>
+<translation id="7155317020660659215">QR kodu skanlamaq üçün ayarları dəyişərək Egon'un kameranızdan istifadə etməsinə icazə verin</translation>
 <translation id="7173114856073700355">Ayarları Açın</translation>
 <translation id="7177466738963138057">Bunu daha sonra Ayarlar bölməsində dəyişə bilərsiniz</translation>
 <translation id="7177873915659574692">QR kod yaratmaq olmur. URL'də <ph name="CHARACTER_LIMIT" /> ədəddən çox simvol var.</translation>
-<translation id="7177959540995930968">Chrome ayarlarında bu funksiyalar haqqında ətraflı öyrənə bilərsiniz.</translation>
+<translation id="7177959540995930968">Egon ayarlarında bu funksiyalar haqqında ətraflı öyrənə bilərsiniz.</translation>
 <translation id="718226107353899806">Maksimum <ph name="MAX_NUM_REACTIONS" /> reaksiya əlavə edə bilərsiniz</translation>
 <translation id="7183693674623539380">Tab qrupu - <ph name="TITLE_OF_GROUP" /></translation>
-<translation id="7187993566681480880">Daxil olduğunuzda Chrome'da sizi qoruyur və digər Google tətbiqlərində təhlükəsizliyinizi artırmaq üçün istifadə edilə bilər.</translation>
+<translation id="7187993566681480880">Daxil olduğunuzda Egon'da sizi qoruyur və digər Google tətbiqlərində təhlükəsizliyinizi artırmaq üçün istifadə edilə bilər.</translation>
 <translation id="7191430249889272776">Panel arxa fonda açıldı.</translation>
 <translation id="7196215469483532480">Məxfilik bələdçisi izahı tam hündürlükdə açılıb</translation>
 <translation id="7207760545532569765"><ph name="TAB_COUNT" /> tabı yeni arxa fon tabları olaraq bərpa edin.</translation>
 <translation id="7208109991155904980">Reaksiya köçürülüb</translation>
-<translation id="7217781228893594884">Chrome'dan çıxdığınız zaman anonim tablar kilidlənəcək</translation>
+<translation id="7217781228893594884">Egon'dan çıxdığınız zaman anonim tablar kilidlənəcək</translation>
 <translation id="7222235798733126207">Saytlar arasında məhdud paylaşım</translation>
 <translation id="7227218174981371415">{FILE_COUNT,plural, =1{1 endirmə gözlənilir}other{# endirmə gözlənilir}}</translation>
 <translation id="7242755609445462077">Üslublaşdırılmış vurğulama <ph name="CURRENT_DATE" /></translation>
-<translation id="7248069434667874558"><ph name="TARGET_DEVICE_NAME" /> adlı cihazının Chrome tətbiqində sinxronizasiyanın aktiv edildiyinə əmin olun</translation>
+<translation id="7248069434667874558"><ph name="TARGET_DEVICE_NAME" /> adlı cihazının Egon tətbiqində sinxronizasiyanın aktiv edildiyinə əmin olun</translation>
 <translation id="7252076891734325316">Telefonunuzu kompüterə yaxın yerləşdirin</translation>
 <translation id="727288900855680735"><ph name="ONE_TIME_CODE" /> kodu <ph name="ORIGIN" /> ünvanına göndərilsin?</translation>
 <translation id="7274013316676448362">Blok edilmiş sayt</translation>
@@ -1166,7 +1166,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="7291910923717764901">Bu səhifə üçün şəkil təsvirləri əlavə edildi</translation>
 <translation id="7293429513719260019">Dil seçin</translation>
 <translation id="729975465115245577">Cihazda parollar faylını saxlamaq üçün tətbiq yoxdur.</translation>
-<translation id="7304873321153398381">Oflayn. Chrome parollarınızı yoxlaya bilmir.</translation>
+<translation id="7304873321153398381">Oflayn. Egon parollarınızı yoxlaya bilmir.</translation>
 <translation id="7313188324932846546">Sinxronlaşdırmanı ayarlamaq üçün toxunun</translation>
 <translation id="7332075081379534664">Giriş uğurlu oldu</translation>
 <translation id="7333232495927792353">Google'dan ən uyğun məzmunu əldə etmək üçün sinxronizasiya edin</translation>
@@ -1182,12 +1182,12 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="7376560087009844242">Digər səhifə mətnini daxil etməklə "Axtarmaq üçün toxunun" funksiyasından istifadə etdiyiniz zaman daha yaxşı nəticələr görə bilərsiniz Bunu istənilən vaxt <ph name="BEGIN_LINK" />ayarlarda<ph name="END_LINK" /> dəyişə bilərsiniz.</translation>
 <translation id="7379900596734708416">Saytlar üçün tünd tema əlçatandır</translation>
 <translation id="7400418766976504921">URL</translation>
-<translation id="7403691278183511381">İlkin Chrome Təcrübəsi</translation>
+<translation id="7403691278183511381">İlkin Egon Təcrübəsi</translation>
 <translation id="741204030948306876">Bəli, razıyam</translation>
 <translation id="7419565702166471774">Həmişə güvənli bağlantılardan istifadə edin</translation>
 <translation id="7431991332293347422">Axtarış tarixçəsinin Axtarış və sairəni necə fərdiləşdirdiyinə nəzarət edin</translation>
 <translation id="7435356471928173109">Administratorunuz tərəfindən deaktiv edilib</translation>
-<translation id="7437998757836447326">Chrome'dan çıxın</translation>
+<translation id="7437998757836447326">Egon'dan çıxın</translation>
 <translation id="7443901082822119557">Anonim rejimdə olduqda saytlar müxtəlif saytlarda axtarış fəaliyyətinizi görmək üçün kukilərinizdən istifadə edə bilmir (məsələn, reklamları fərdiləşdirmək üçün). Bəzi saytlarda funksiyalar işləməyə bilər.</translation>
 <translation id="7453467225369441013">Bununla əksər saytlardan çıxacaqsınız. Google Hesabından çıxmayacaqsınız.</translation>
 <translation id="7454641608352164238">Yetərincə yer yoxdur</translation>
@@ -1204,7 +1204,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="749294055653435199">Google Linza bu cihazda əlçatan deyil</translation>
 <translation id="7493994139787901920"><ph name="VERSION" /> (Güncəlləşib <ph name="TIME_SINCE_UPDATE" />)</translation>
 <translation id="7498271377022651285">Xahiş edirik gözləyin ...</translation>
-<translation id="7502234197872745058">Bütün vebsaytlarda Google Hesabınızdan çıxmaq üçün <ph name="BEGIN_LINK1" />Chrome'dan çıxın<ph name="END_LINK1" />.</translation>
+<translation id="7502234197872745058">Bütün vebsaytlarda Google Hesabınızdan çıxmaq üçün <ph name="BEGIN_LINK1" />Egon'dan çıxın<ph name="END_LINK1" />.</translation>
 <translation id="750228856503700085">Güncəlləmələr əlçatan deyil</translation>
 <translation id="7507207699631365376">Bu təminatçının <ph name="BEGIN_LINK" />məxfilik siyasətinə<ph name="END_LINK" /> baxın</translation>
 <translation id="7514365320538308">Endirmə</translation>
@@ -1212,7 +1212,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="752220631458524187">Hazır olduqda bağlantını ayırın</translation>
 <translation id="7523960634226602883">Google Linza istifadə edərək kameranızla axtarış edin</translation>
 <translation id="7562080006725997899">Baxış datası silinir</translation>
-<translation id="756809126120519699">Chrome datası təmizləndi</translation>
+<translation id="756809126120519699">Egon datası təmizləndi</translation>
 <translation id="7577900504646297215">Maraqları idarə edin</translation>
 <translation id="757855969265046257">{FILES,plural, =1{<ph name="FILES_DOWNLOADED_ONE" /> fayl endirildi}other{<ph name="FILES_DOWNLOADED_MANY" /> fayl endirildi}}</translation>
 <translation id="7581273696622423628">Sorğudan keçin</translation>
@@ -1224,7 +1224,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="7612619742409846846">Google'a bu cür daxil olunub</translation>
 <translation id="7616551326690708776">Vurğulamanız üçün şablon seçin.</translation>
 <translation id="7619072057915878432">Şəbəkə problemi səbəbi ilə <ph name="FILE_NAME" /> faylının yüklənməsi uğursuz oldu.</translation>
-<translation id="7626032353295482388">Chrome'a xoş gəlmisiniz</translation>
+<translation id="7626032353295482388">Egon'a xoş gəlmisiniz</translation>
 <translation id="7630202231528827509">Provayder URL-i</translation>
 <translation id="7634280112532283638">Spam və dələduzluğun azaldılması</translation>
 <translation id="7638584964844754484">Yanlış parol</translation>
@@ -1248,7 +1248,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="7725024127233776428">Seçdiyiniz səhifələr burada görünəcək</translation>
 <translation id="7757787379047923882"><ph name="DEVICE_NAME" /> cihazından paylaşılan mətn</translation>
 <translation id="7762668264895820836">SD Kart <ph name="SD_CARD_NUMBER" /></translation>
-<translation id="7762928140712606393">Əlavə funksiyalar və Chrome'un ən güclü təhlükəsizliyi üçün daxil olun</translation>
+<translation id="7762928140712606393">Əlavə funksiyalar və Egon'un ən güclü təhlükəsizliyi üçün daxil olun</translation>
 <translation id="7764225426217299476">Ünvan əlavə edin</translation>
 <translation id="7772032839648071052">Parolu təsdiq edin</translation>
 <translation id="7772375229873196092"><ph name="APP_NAME" /> tətbiqini bağlayın</translation>
@@ -1275,10 +1275,10 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="7875915731392087153">E-poçt yaradın</translation>
 <translation id="7876243839304621966">Hamısını silin</translation>
 <translation id="7879130110979560610">{READING_LIST_REMINDER_NOTIFICATION_SUBTITLE,plural, =1{<ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_ONE" /> oxunmamış səhifəniz var}other{<ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_MANY" /> oxunmamış səhifəniz var}}</translation>
-<translation id="7886917304091689118">Chrome'da istifadə edilir</translation>
+<translation id="7886917304091689118">Egon'da istifadə edilir</translation>
 <translation id="7887174313503389866">Əsas məxfilik və təhlükəsizlik nəzarətlərinə bələdçi ilə baxış keçirin. Digər seçimlər üçün fərdi ayarlara keçin.</translation>
 <translation id="7887334752153342268">Dublikat yaradın</translation>
-<translation id="789763218334337857">Chrome'dan necə istifadə etməli</translation>
+<translation id="789763218334337857">Egon'dan necə istifadə etməli</translation>
 <translation id="7903184275147100332">Bu, bir dəqiqə çəkə bilər</translation>
 <translation id="7914399737746719723">Tətbiq quraşdırılıb</translation>
 <translation id="7919123827536834358">Bu dilləri avtomatik tərcümə edin</translation>
@@ -1302,7 +1302,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="7998918019931843664">Qapalı nişanı yenidən</translation>
 <translation id="8004582292198964060">Brauzer</translation>
 <translation id="8006818846907410687">Anonim rejimdən istifadə edərkən bloklayın</translation>
-<translation id="8013372441983637696">Həmçinin Chrome datanızı bu cihazdan silin</translation>
+<translation id="8013372441983637696">Həmçinin Egon datanızı bu cihazdan silin</translation>
 <translation id="8015452622527143194">Səhifədəki hər şeyi defolt ölçüsünə qaytarın</translation>
 <translation id="8026334261755873520">Brauzinq datasını təmizləyin</translation>
 <translation id="8027863900915310177">Endiriləcək yeri seçin</translation>
@@ -1316,7 +1316,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="8048728378294435881">Elementləri yedəkləyin və istənilən cihazda istifadə edin</translation>
 <translation id="8051695050440594747"><ph name="MEGABYTES" /> MB əlçatandır</translation>
 <translation id="8058655154417507695">Bitmə ili</translation>
-<translation id="8058746566562539958">Yeni Chrome tabında açın</translation>
+<translation id="8058746566562539958">Yeni Egon tabında açın</translation>
 <translation id="8062594758852531064">Artırılmış əvvəlcədən yükləmə:</translation>
 <translation id="8063895661287329888">Əlfəcin əlavə etmək alınmadı.</translation>
 <translation id="806745655614357130">Datamı ayrı saxlayın</translation>
@@ -1327,14 +1327,14 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="8084285576995584326">Google Hesab datanıza nəzarət edin</translation>
 <translation id="808747664143081553">Cihaza qoşulub</translation>
 <translation id="8088176524274673045">Yaxınlıqdakı insanlarla paylaşmaq üçün onlara bu QR kodu skanlamaq icazəsi verin</translation>
-<translation id="8100969750121413114">Chrome'u fərdiləşdirmək üçün daxil olun</translation>
+<translation id="8100969750121413114">Egon'u fərdiləşdirmək üçün daxil olun</translation>
 <translation id="8103578431304235997">Gizli Panel</translation>
-<translation id="8105613260829665809">Davam etməklə, <ph name="BEGIN_TOS_LINK" /> Xidmət Şərtləri<ph name="END_TOS_LINK" /> ilə razılaşırsınız.\nTətbiqi təkmilləşdirməyə kömək etmək üçün Chrome istifadə və qəza datasını Google'a göndərir. <ph name="BEGIN_UMA_LINK" />İdarə edin<ph name="END_UMA_LINK" /></translation>
+<translation id="8105613260829665809">Davam etməklə, <ph name="BEGIN_TOS_LINK" /> Xidmət Şərtləri<ph name="END_TOS_LINK" /> ilə razılaşırsınız.\nTətbiqi təkmilləşdirməyə kömək etmək üçün Egon istifadə və qəza datasını Google'a göndərir. <ph name="BEGIN_UMA_LINK" />İdarə edin<ph name="END_UMA_LINK" /></translation>
 <translation id="8105893657415066307"><ph name="DESCRIPTION" /> <ph name="SEPARATOR" /> <ph name="FILE_SIZE" /></translation>
 <translation id="8107530384992929318">Çeşidləmə seçimlərini bağlayın</translation>
 <translation id="8109613176066109935">Bütün cihazlarınızda əlfəcinləri əldə etmək üçün sinxronizasiyanı aktiv edin</translation>
-<translation id="8110024788458304985">Chrome funksiyalarını və performansını təkmilləşdirməyə yardım edin</translation>
-<translation id="8110087112193408731">Digital Sağlamlıqda Chrome fəaliyyəti göstərilsin?</translation>
+<translation id="8110024788458304985">Egon funksiyalarını və performansını təkmilləşdirməyə yardım edin</translation>
+<translation id="8110087112193408731">Digital Sağlamlıqda Egon fəaliyyəti göstərilsin?</translation>
 <translation id="8127542551745560481">Əsas səhifəni redaktə edin</translation>
 <translation id="8130309322784422030">Saxladığınız giriş məlumatları köhnəlmiş ola bilər</translation>
 <translation id="813082847718468539">Sayt məlumatına baxın</translation>
@@ -1352,7 +1352,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="8221656072740924283">Davam edin</translation>
 <translation id="8223642481677794647">Lent kartı menyusu</translation>
 <translation id="8250920743982581267">Sənədlər</translation>
-<translation id="825412236959742607">Bu səhifə həddindən artıq çox yaddaşdan istifadə edir, buna görə də Chrome kontentin bir hissəsini silib.</translation>
+<translation id="825412236959742607">Bu səhifə həddindən artıq çox yaddaşdan istifadə edir, buna görə də Egon kontentin bir hissəsini silib.</translation>
 <translation id="8255617931166444521">Saytlar yalnız öz saytlarında axtarış fəaliyyətinizi görmək üçün kukilərinizdən istifadə edə bilər</translation>
 <translation id="8259179246279078674">Əvvəlcədən yüklənmiş səhifələr şifrələndiyinə görə Google əvvəlcədən yüklənmiş səhifə məzmunu haqqında heç nə öyrənməyəcək. Google serverləri hansı saytların məxfi olaraq əvvəlcədən yükləndiyini öyrənəcək. Bu məlumat yalnız səhifələri əvvəlcədən yükləmək üçün istifadə olunur və Google Hesabınızdakı digər məlumatlarla əlaqələndirilmir.</translation>
 <translation id="8260126382462817229">Yenidən daxil olmağa cəhd edin</translation>
@@ -1366,29 +1366,29 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="8310344678080805313">Standart panellər</translation>
 <translation id="831192587911042850">Cari veb saytı izlədiyiniz veb saytların siyahısına əlavə edir.</translation>
 <translation id="834313815369870491">Saytları heç vaxt tərcümə etməyin</translation>
-<translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Bu datanı necə istifadə edirik:<ph name="END_BOLD" /> Saytlar maraqlarınız haqqında Chrome ilə məlumat saxlaya bilər. Məsələn, marafona ayaqqabı almaq üçün sayta daxil olsanız, sayt marağınızı qaçış marafonu kimi müəyyən edə bilər. Sonra yarışa yazılmaq üçün başqa sayta daxil olsanız, həmin sayt maraqlarınız əsasında sizə qaçış ayaqqabısı reklamı göstərə bilər.</translation>
+<translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Bu datanı necə istifadə edirik:<ph name="END_BOLD" /> Saytlar maraqlarınız haqqında Egon ilə məlumat saxlaya bilər. Məsələn, marafona ayaqqabı almaq üçün sayta daxil olsanız, sayt marağınızı qaçış marafonu kimi müəyyən edə bilər. Sonra yarışa yazılmaq üçün başqa sayta daxil olsanız, həmin sayt maraqlarınız əsasında sizə qaçış ayaqqabısı reklamı göstərə bilər.</translation>
 <translation id="8352996530981010042">Reaksiyaları endirmək olmur. Yenə cəhd edin.</translation>
 <translation id="8354977102499939946">Səsinizlə sürətlə axtarın. Bu qısayolu redaktə etmək üçün Ayarlara keçin.</translation>
 <translation id="835847953965672673"><ph name="NUMBER_OF_DOWNLOADS" /> endirmə bərpa edilib</translation>
 <translation id="8364299278605033898">Populyar veb saytlara baxın</translation>
 <translation id="8368001212524806591">Qiyməti izləyin</translation>
-<translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Bu datanı necə istifadə edirik:<ph name="END_BOLD" /> Chrome maraqlarınızı təxmin edə bilər. Daha sonra ziyarət etdiyiniz sayt gördüyünüz reklamları fərdiləşdirmək üçün Chrome'dan maraqlarınızı görməyi tələb edə bilər.</translation>
+<translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Bu datanı necə istifadə edirik:<ph name="END_BOLD" /> Egon maraqlarınızı təxmin edə bilər. Daha sonra ziyarət etdiyiniz sayt gördüyünüz reklamları fərdiləşdirmək üçün Egon'dan maraqlarınızı görməyi tələb edə bilər.</translation>
 <translation id="8387617938027387193">Kimliyinizi doğrulayın</translation>
 <translation id="8393700583063109961">Mesaj göndərin</translation>
-<translation id="8394720698884623075">URL'ləri Chrome'da saxlanılan təhlükəli saytların siyahısı ilə yoxlayır</translation>
+<translation id="8394720698884623075">URL'ləri Egon'da saxlanılan təhlükəli saytların siyahısı ilə yoxlayır</translation>
 <translation id="8402673309244746971">İzlənənlərə keçin</translation>
 <translation id="8413126021676339697">Tam tarixçəni göstərin</translation>
 <translation id="8414396119627470038"><ph name="SITE_ETLD_PLUS_ONE" /> saytına <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE" /> ilə daxil olun</translation>
-<translation id="8416347857511542594">Chrome'da reklam fərdiləşdirməsi haqqında ətraflı məlumat</translation>
+<translation id="8416347857511542594">Egon'da reklam fərdiləşdirməsi haqqında ətraflı məlumat</translation>
 <translation id="8419244640277402268">Daxil edin</translation>
-<translation id="8424781820952413435">Səhifə göndərildi. Onu görmək üçün bu cihazda Chrome'u açın: <ph name="DEVICE_TYPE" /></translation>
+<translation id="8424781820952413435">Səhifə göndərildi. Onu görmək üçün bu cihazda Egon'u açın: <ph name="DEVICE_TYPE" /></translation>
 <translation id="8427875596167638501">Önbaxış tabının yarısı açılıb</translation>
 <translation id="8428213095426709021">Ayarlar</translation>
 <translation id="8430824733382774043">Yalnız skrinşot paylaşın</translation>
 <translation id="8438566539970814960">Axtarış və brauzer fəaliyyətini təkmilləşdirin</translation>
 <translation id="8439974325294139057"><ph name="LANG" /> - Dil hazırdır, <ph name="APP_NAME" /> tətbiqini yenidən başladın.</translation>
 <translation id="8442258441309440798">Əlçatan hekayə yoxdur</translation>
-<translation id="8443209985646068659">Chrome güncəllənmir</translation>
+<translation id="8443209985646068659">Egon güncəllənmir</translation>
 <translation id="8445448999790540984">Parolları eksport etmək alınmadı</translation>
 <translation id="8446884382197647889">Ətraflı Məlumat</translation>
 <translation id="8453310803815879010">Dinozavr oyununu başladın</translation>
@@ -1408,16 +1408,16 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="8497242791509864205">Çeşidləmə seçimlərini açın</translation>
 <translation id="8497480609928300907">Məxfilik bələdçisi izahı</translation>
 <translation id="8497726226069778601">Hələ ki, burada baxılası heç nə yoxdur.</translation>
-<translation id="8503559462189395349">Chrome Parolları</translation>
+<translation id="8503559462189395349">Egon Parolları</translation>
 <translation id="8503813439785031346">İstifadəçi adı</translation>
 <translation id="8505766168025405649">Endirmə statusu üçün bildirişə baxın</translation>
-<translation id="8514477925623180633">Chrome'da saxlanılan parolları eksport edin</translation>
+<translation id="8514477925623180633">Egon'da saxlanılan parolları eksport edin</translation>
 <translation id="8516012719330875537">Şəkil Redaktoru</translation>
-<translation id="8516431725144212809">Chrome tərəfindən təxmin edilən maraqlarınız</translation>
+<translation id="8516431725144212809">Egon tərəfindən təxmin edilən maraqlarınız</translation>
 <translation id="8523928698583292556">Yadda saxlanmış parolu silin</translation>
 <translation id="8540136935098276800">Düzgün formatlanmış URL daxil edin</translation>
 <translation id="854522910157234410">Bu səhifəni açın</translation>
-<translation id="8551513938758868521">Chrome'dan çıxdıqda Anonim tabları kilidləyin</translation>
+<translation id="8551513938758868521">Egon'dan çıxdıqda Anonim tabları kilidləyin</translation>
 <translation id="8559990750235505898">Digər dillərdə səhifələrin tərcümə edilməsini təklif edin</translation>
 <translation id="8560560256644480257">GIF yaradılır: <ph name="PERCENT" />%%</translation>
 <translation id="8560602726703398413">Əlfəcinlərdə oxuma siyahınızı tapın</translation>
@@ -1430,7 +1430,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="8583805026567836021">Hesab datası silinir</translation>
 <translation id="859046281437143747">"Digər seçimlər" düyməsi ilə qiyməti izləyin</translation>
 <translation id="860043288473659153">Kart sahibinin adı</translation>
-<translation id="8602358303461588329">Chrome'a giriş bağlıdır.</translation>
+<translation id="8602358303461588329">Egon'a giriş bağlıdır.</translation>
 <translation id="860282621117673749">Qiymət endirimi siqnalları</translation>
 <translation id="8616006591992756292"><ph name="BEGIN_LINK" />history.google.com<ph name="END_LINK" /> linkində Google Hesabına məxsus axtarış tarixçəsinin başqa formaları ola bilər.</translation>
 <translation id="8617240290563765734">Endirilmiş kontentdə təklif edilən link açılsın?</translation>
@@ -1440,10 +1440,10 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="864544049772947936">Pəncərələri idarə edin (<ph name="INSTANCE_COUNTS" />)</translation>
 <translation id="8645920082661222035">Təhlükəli hadisələr baş vermədən əvvəl onları proqnozlaşdırır və sizə xəbərdarlıq edir</translation>
 <translation id="8646467750715887511">Səhifələr yalnız siz onları açdıqdan sonra yüklənir.</translation>
-<translation id="8655129584991699539">Datanı Chrome Ayarlarından silə bilərsiniz</translation>
-<translation id="8659579665266920523">Chrome ilə necə axtarış etməli</translation>
+<translation id="8655129584991699539">Datanı Egon Ayarlarından silə bilərsiniz</translation>
+<translation id="8659579665266920523">Egon ilə necə axtarış etməli</translation>
 <translation id="8662811608048051533">Bununla əksər saytlardan çıxacaqsınız.</translation>
-<translation id="8664215986015753476">Chrome'u istədiyiniz kimi istifadə edin</translation>
+<translation id="8664215986015753476">Egon'u istədiyiniz kimi istifadə edin</translation>
 <translation id="8664979001105139458">Fayl adı artıq mövcuddur</translation>
 <translation id="8666759526542103597">Brauzer əsaslı reklam fərdiləşdirməsi haqqında</translation>
 <translation id="8676789164135894283">Giriş doğrulamaları</translation>
@@ -1487,8 +1487,8 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="8922289737868596582">Oflayn istifadə etmək üçün səhifələri Digər seçimlər düyməsindən endirin</translation>
 <translation id="8924575305646776101"><ph name="BEGIN_LINK" />Ətraflı Məlumat<ph name="END_LINK" /></translation>
 <translation id="892496902842311796"><ph name="LANG" /> hazırdır</translation>
-<translation id="8937267401510745927">Tapşırıqları tamamlamaqda sizə kömək etmək üçün Google Assistentdən istifadə etdiyiniz saytların URL və məzmunlarını, eləcə də Assistent vasitəsilə təqdim etdiyiniz məlumatları əldə edəcək. Bu məlumat Google hesabınızda saxlanıla bilər. Assistenti Chrome ayarlarında söndürə bilərsiniz.</translation>
-<translation id="8937772741022875483">Chrome fəaliyyəti Rəqəmsal Sağlamlıqdan silinsin?</translation>
+<translation id="8937267401510745927">Tapşırıqları tamamlamaqda sizə kömək etmək üçün Google Assistentdən istifadə etdiyiniz saytların URL və məzmunlarını, eləcə də Assistent vasitəsilə təqdim etdiyiniz məlumatları əldə edəcək. Bu məlumat Google hesabınızda saxlanıla bilər. Assistenti Egon ayarlarında söndürə bilərsiniz.</translation>
+<translation id="8937772741022875483">Egon fəaliyyəti Rəqəmsal Sağlamlıqdan silinsin?</translation>
 <translation id="8942627711005830162">Başqa pəncərədə açın</translation>
 <translation id="8945143127965743188"><ph name="LANG" /> - Bu dili endirmək mümkün olmadı. Sonra cəhd edin.</translation>
 <translation id="8955719471735800169">Önə qayıdın</translation>
@@ -1500,17 +1500,17 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="8972098258593396643">Defolt qovluğa endirilsin?</translation>
 <translation id="8987641763863173640">Video Önizləmə Ayarlarını İdarə Edin</translation>
 <translation id="898854820045159673">Reaksiya əlavə edilib</translation>
-<translation id="8989968390305463310">Baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün Chrome hər ay maraqlarınızı növbəlilik əsasında avtomatik olaraq silir. Silmədiyiniz təqdirdə maraqlar yenilənə bilər.</translation>
+<translation id="8989968390305463310">Baxış tarixçəniz gördüyünüz reklamlara və aşağıda təxmin edilən maraqlara təsir edir. Məxfiliyinizi qorumaq üçün Egon hər ay maraqlarınızı növbəlilik əsasında avtomatik olaraq silir. Silmədiyiniz təqdirdə maraqlar yenilənə bilər.</translation>
 <translation id="8993760627012879038">Incognito rejimində yeni panel açın</translation>
 <translation id="8996847606757455498">Başqa provayder seçin</translation>
-<translation id="8998729206196772491"><ph name="MANAGED_DOMAIN" /> tərəfindən idarə olunan hesab ilə daxil olursunuz və onun administratoruna Chrome datanız üzərində nəzarəti verirsiniz. Datanız həmişəlik bu hesab ilə əlaqələndiriləcək. Chrome'dan çıxmaq datanızı bu cihazdan siləcək, lakin data Google Hesabında qalacaq.</translation>
+<translation id="8998729206196772491"><ph name="MANAGED_DOMAIN" /> tərəfindən idarə olunan hesab ilə daxil olursunuz və onun administratoruna Egon datanız üzərində nəzarəti verirsiniz. Datanız həmişəlik bu hesab ilə əlaqələndiriləcək. Egon'dan çıxmaq datanızı bu cihazdan siləcək, lakin data Google Hesabında qalacaq.</translation>
 <translation id="9022774213089566801">Tez-tez ziyarət edilənlər</translation>
 <translation id="9041669420854607037">{FILE_COUNT,plural, =1{# Video}other{# Video}}</translation>
 <translation id="9042893549633094279">Məxfilik və təhlükəsizlik</translation>
 <translation id="9050666287014529139">Parol ifadəsi</translation>
 <translation id="9063523880881406963">Əsas Versiya Sorğusunu deaktiv edin</translation>
 <translation id="9065203028668620118">Düzəliş edin</translation>
-<translation id="9065383040763568503">Chrome'un vacib olduğunu düşünmədiyi saxlanmış data (məs. yadda saxlanmayan ayarlar ilə olan və ya tez-tez daxil olmadığınız saytlar)</translation>
+<translation id="9065383040763568503">Egon'un vacib olduğunu düşünmədiyi saxlanmış data (məs. yadda saxlanmayan ayarlar ilə olan və ya tez-tez daxil olmadığınız saytlar)</translation>
 <translation id="906781307897697745"><ph name="PRODUCT_NAME" /> ərazisində</translation>
 <translation id="9069999660519089861">Oxunmamış səhifə yoxdur</translation>
 <translation id="9070377983101773829">Səsli axtarışa başlayın</translation>
@@ -1543,14 +1543,14 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="9212845824145208577">Aşağıya keçmək olmur. Səhifənin aşağısından başlamağı sınayın.</translation>
 <translation id="9219103736887031265">Şəkillər</translation>
 <translation id="9219582468404818260">Daha yaxşı veb yaratmağımıza kömək edin</translation>
-<translation id="92381315203627188">Sayt öz səhifəsindəki keçidləri məxfi olaraq əvvəlcədən yükləməyi tələb etdikdə, Chrome kukilər olmadan Google serverləri vasitəsilə səhifələri şifrələyir və əvvəlcədən yükləyir. Bu, kimliyinizi əvvəlcədən yüklənmiş saytdan gizlədir.</translation>
-<translation id="926205370408745186">Digital Sağlamlıqdan Chrome fəaliyyətini silin</translation>
-<translation id="927968626442779827">Google Chrome'da Lite rejimindən istifadə edin</translation>
+<translation id="92381315203627188">Sayt öz səhifəsindəki keçidləri məxfi olaraq əvvəlcədən yükləməyi tələb etdikdə, Egon kukilər olmadan Google serverləri vasitəsilə səhifələri şifrələyir və əvvəlcədən yükləyir. Bu, kimliyinizi əvvəlcədən yüklənmiş saytdan gizlədir.</translation>
+<translation id="926205370408745186">Digital Sağlamlıqdan Egon fəaliyyətini silin</translation>
+<translation id="927968626442779827">Google Egon'da Lite rejimindən istifadə edin</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> izlənilir</translation>
 <translation id="932327136139879170">Ev</translation>
 <translation id="938850635132480979">Xəta: <ph name="ERROR_CODE" /></translation>
 <translation id="939598580284253335">Parol daxil edin</translation>
-<translation id="95817756606698420">Chrome, Çində axtarış üçün <ph name="BEGIN_BOLD" />Sogou<ph name="END_BOLD" /> istifadə edə bilər. Bunu <ph name="BEGIN_LINK" />Ayarlar<ph name="END_LINK" /> bölməsindən dəyişə bilərsiniz.</translation>
+<translation id="95817756606698420">Egon, Çində axtarış üçün <ph name="BEGIN_BOLD" />Sogou<ph name="END_BOLD" /> istifadə edə bilər. Bunu <ph name="BEGIN_LINK" />Ayarlar<ph name="END_LINK" /> bölməsindən dəyişə bilərsiniz.</translation>
 <translation id="962979164594783469">Bu tətbiqi quraşdırın</translation>
 <translation id="96681097142096641">Sadələşdirilmiş səhifəyə baxmaq istəyirsiniz?</translation>
 <translation id="968900484120156207">Girdiyiniz səhifələr burada görünəcək</translation>

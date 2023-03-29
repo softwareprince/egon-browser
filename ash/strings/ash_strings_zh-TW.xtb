@@ -430,7 +430,7 @@
 <translation id="3378438761594387761">你可在這裡找到最近的下載內容和螢幕畫面擷取項目</translation>
 <translation id="3378442621503952303">正在連線至設定檔，請稍後片刻。</translation>
 <translation id="3386978599540877378">全螢幕放大鏡</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">其他設定</translation>
 <translation id="3405101454990027959">允許存取麥克風</translation>
 <translation id="3410336247007142655">顯示深色主題設定</translation>
@@ -914,7 +914,7 @@
 <translation id="6043994281159824495">立即登出</translation>
 <translation id="6047696787498798094">切換到另一個使用者會停止共用螢幕，你要繼續嗎？</translation>
 <translation id="6054305421211936131">使用智慧型卡片登入</translation>
-<translation id="6059276912018042191">最近開啟的 Chrome 分頁</translation>
+<translation id="6059276912018042191">最近開啟的 Egon 分頁</translation>
 <translation id="6062360702481658777">你將於 <ph name="LOGOUT_TIME_LEFT" />後自動登出。</translation>
 <translation id="6064463340679478396">不會再使用這個檔案</translation>
 <translation id="6073451960410192870">停止錄影</translation>
@@ -1018,7 +1018,7 @@
 <translation id="6650933572246256093">藍牙裝置「<ph name="DEVICE_NAME" />」要求配對權限，請在裝置上輸入此密碼金鑰：<ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">密碼</translation>
 <translation id="6665545700722362599">將定位服務、裝置的麥克風、相機或其他功能的使用權限授予網站、應用程式及擴充功能</translation>
-<translation id="6667908387435388584">連線至手機的無線基地台、將裝置設為靜音、尋找裝置所在的位置，並查看最近透過手機開啟的 Chrome 分頁</translation>
+<translation id="6667908387435388584">連線至手機的無線基地台、將裝置設為靜音、尋找裝置所在的位置，並查看最近透過手機開啟的 Egon 分頁</translation>
 <translation id="6670153871843998651">桌面 3</translation>
 <translation id="6671495933530132209">複製圖片</translation>
 <translation id="6671661918848783005">無法解鎖 Chromebook</translation>

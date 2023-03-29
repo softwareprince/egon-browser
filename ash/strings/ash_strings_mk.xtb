@@ -299,7 +299,7 @@
 <translation id="2620436844016719705">Систем</translation>
 <translation id="2621713457727696555">Заштитена</translation>
 <translation id="263399434338050016">„Избери сѐ“</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">Снимање прозорец</translation>
 <translation id="2653659639078652383">Испрати</translation>
 <translation id="2658778018866295321">Кликни и повлечи</translation>
@@ -430,7 +430,7 @@
 <translation id="3378438761594387761">Неодамнешните преземања и снимања на екранот ќе ги најдете тука</translation>
 <translation id="3378442621503952303">Се поврзува со профилот. Почекајте неколку минути.</translation>
 <translation id="3386978599540877378">лупа за цел екран</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Дополнителни поставки</translation>
 <translation id="3405101454990027959">Вклучете пристап до микрофонот</translation>
 <translation id="3410336247007142655">Прикажи ги поставките за темната тема</translation>
@@ -916,7 +916,7 @@
 <translation id="6043994281159824495">Одјави се сега</translation>
 <translation id="6047696787498798094">Споделувањето екран ќе запре кога ќе промените на друг корисник. Дали сакате да продолжите?</translation>
 <translation id="6054305421211936131">Најавете се со паметна картичка</translation>
-<translation id="6059276912018042191">Неодамнешни картички на Chrome</translation>
+<translation id="6059276912018042191">Неодамнешни картички на Egon</translation>
 <translation id="6062360702481658777">Автоматски ќе бидете одјавени за <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Завршив со користење на датотеката</translation>
 <translation id="6073451960410192870">Сопри со снимање</translation>
@@ -1021,7 +1021,7 @@
 <translation id="6650933572246256093">Уредот со Bluetooth „<ph name="DEVICE_NAME" />“ бара дозвола за спарување. Внесете ја пристапната шифра на уредот: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Лозинка</translation>
 <translation id="6665545700722362599">Им доделува дозволи на веб-сајтовите, апликациите и екстензиите да ги користат услугите според локација или микрофонот, камерата или другите функции на уредот</translation>
-<translation id="6667908387435388584">Поврзете се со точката на пристап на телефонот, исклучете го звукот на уредот, лоцирајте го уредот и прегледувајте ги неодамнешните картички на Chrome што ви се отворени на телефонот</translation>
+<translation id="6667908387435388584">Поврзете се со точката на пристап на телефонот, исклучете го звукот на уредот, лоцирајте го уредот и прегледувајте ги неодамнешните картички на Egon што ви се отворени на телефонот</translation>
 <translation id="6670153871843998651">Биро 3</translation>
 <translation id="6671495933530132209">Копирај слика</translation>
 <translation id="6671661918848783005">Не може да се отклучи вашиот Chromebook</translation>

@@ -32,7 +32,7 @@ Hakukoneesi on <ph name="DSE_NAME" />. Katso tarvittaessa hakukoneen ohjeet haku
 <translation id="1165039591588034296">Virhe</translation>
 <translation id="1172898394251786223">Seuraava kenttä</translation>
 <translation id="1176932207622159128">Kuvaa ei voi tall.</translation>
-<translation id="1177414119866731261">Avaa Chrome-valikko</translation>
+<translation id="1177414119866731261">Avaa Egon-valikko</translation>
 <translation id="1181037720776840403">Poista</translation>
 <translation id="1207113853726624428">Uusi haku</translation>
 <translation id="1209206284964581585">Piilota toistaiseksi</translation>
@@ -128,7 +128,7 @@ Hakukoneesi on <ph name="DSE_NAME" />. Katso tarvittaessa hakukoneen ohjeet haku
 <translation id="1941314575388338491">Kopioi kaksoisnapauttamalla.</translation>
 <translation id="1943478190258551035">Valikko → Asetukset</translation>
 <translation id="1952172573699511566">Verkkosivustot näyttävät tekstin valitsemallasi kielellä, kun se on mahdollista.</translation>
-<translation id="1965935827552890526">Siirry toiseen avoimeen Chrome-ikkunaan ja viimeistele aloittamasi.</translation>
+<translation id="1965935827552890526">Siirry toiseen avoimeen Egon-ikkunaan ja viimeistele aloittamasi.</translation>
 <translation id="1973912524893600642">Säilytä data</translation>
 <translation id="1974060860693918893">Lisäasetukset</translation>
 <translation id="1981118202195772574">Mobiili</translation>
@@ -149,8 +149,8 @@ Hakukoneesi on <ph name="DSE_NAME" />. Katso tarvittaessa hakukoneen ohjeet haku
 <translation id="2139867232736819575">Hae kopioitua tekstiä</translation>
 <translation id="214201757571129614">Kirjaudu sisään…</translation>
 <translation id="2149973817440762519">Muokkaa kirjanmerkkiä</translation>
-<translation id="2150175299852799498">Chrome mobiililaitteille</translation>
-<translation id="2155145621546387786">Jaa Chrome</translation>
+<translation id="2150175299852799498">Egon mobiililaitteille</translation>
+<translation id="2155145621546387786">Jaa Egon</translation>
 <translation id="2175927920773552910">QR-koodi</translation>
 <translation id="2178545675770638239">Valitse salasana</translation>
 <translation id="2218443599109088993">Loitonna</translation>
@@ -238,7 +238,7 @@ Sivustot eivät näe selaustoimintaasi eri sivustoilla evästeiden kautta esim. 
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Nollaa käännösasetukset</translation>
 <translation id="2848086008667475748">Muuta oletusselaimeksi asetuksissa…</translation>
-<translation id="2858204748079866344">Tietojesi suojaamiseksi Chrome ei täytä salasanaasi automaattisesti tähän kenttään.</translation>
+<translation id="2858204748079866344">Tietojesi suojaamiseksi Egon ei täytä salasanaasi automaattisesti tähän kenttään.</translation>
 <translation id="285960592395650245">Yritä latausta uudelleen</translation>
 <translation id="2870560284913253234">Sivusto</translation>
 <translation id="2871695793448672541">Piilotettu salasana</translation>
@@ -374,7 +374,7 @@ Katso tarvittaessa hakukoneesi ohjeet hakuhistorian poistamiselle.</translation>
 <translation id="3858860766373142691">Nimi</translation>
 <translation id="3861486700625780712">Lopeta seuraaminen</translation>
 <translation id="3863769054730344136">Laitteille lähettäminen</translation>
-<translation id="387280738075653372">Lataa Chrome täältä.</translation>
+<translation id="387280738075653372">Lataa Egon täältä.</translation>
 <translation id="3888863481921783344">Sinulle näytetään mahdollisia osallistujia tapahtumaan.</translation>
 <translation id="3892144330757387737">Näet historiasi täällä</translation>
 <translation id="3897092660631435901">Valikko</translation>
@@ -519,7 +519,7 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK" />nollaa synkronointi<ph name
 <translation id="4944543191714094452">Hae sivulta…</translation>
 <translation id="4945756290001680296">Siirry salasana-asetuksiin</translation>
 <translation id="4971735654804503942">Nopeampi, proaktiivinen suojaus vaarallisia sivustoja, latauksia ja laajennuksia vastaan. Varoittaa sinua salasanarikkomuksista. Edellyttää selaustietojen lähettämistä Googlelle.</translation>
-<translation id="4979397965658815378">Kirjaudu Google-tilillesi, niin voit käyttää kirjanmerkkejäsi, salasanojasi, historiaasi ja muuta Chrome-sisältöäsi kaikilla laitteillasi.</translation>
+<translation id="4979397965658815378">Kirjaudu Google-tilillesi, niin voit käyttää kirjanmerkkejäsi, salasanojasi, historiaasi ja muuta Egon-sisältöäsi kaikilla laitteillasi.</translation>
 <translation id="4986678885919050584">Poista tältä laitteelta</translation>
 <translation id="4989542687859782284">Ei käytettävissä</translation>
 <translation id="498985224078955265">Jos haluat lähettää välilehden toiselle laitteelle, kirjaudu Chromeen molemmilla laitteilla.</translation>
@@ -532,13 +532,13 @@ Jos haluat muokata asetusta, <ph name="BEGIN_LINK" />nollaa synkronointi<ph name
 <translation id="5062321486222145940">Asenna Google Drive</translation>
 <translation id="5083464117946352670">Tiedostokokoa ei voi määrittää</translation>
 <translation id="5090832849094901128">Vaikka poistat salasanan, tiliäsi (<ph name="WEBSITE" />) ei poisteta.</translation>
-<translation id="5092117651143801290">Voit tallentaa sivuja luettavaksi myöhemmin tai ilman verkkoyhteyttä. Chrome kysyy, haluatko tallentaa pitkiä sivuja.</translation>
+<translation id="5092117651143801290">Voit tallentaa sivuja luettavaksi myöhemmin tai ilman verkkoyhteyttä. Egon kysyy, haluatko tallentaa pitkiä sivuja.</translation>
 <translation id="5094827893301452931">Tweet julkaistu.</translation>
 <translation id="5118713593561876160">Kiinnostuksen kohteet</translation>
 <translation id="5118764316110575523">Pois päältä</translation>
-<translation id="5119391094379141756">Valitse Chrome</translation>
+<translation id="5119391094379141756">Valitse Egon</translation>
 <translation id="5132942445612118989">Synkronoi salasanasi, historiasi ja paljon muuta kaikilla laitteilla</translation>
-<translation id="5140288047769711648">Chrome muistaa tämän salasanan, jotta sinun ei tarvitse.</translation>
+<translation id="5140288047769711648">Egon muistaa tämän salasanan, jotta sinun ei tarvitse.</translation>
 <translation id="5149188072385105201">Lisää salasana…</translation>
 <translation id="5150492518600715772">Lähetä laitteeseen</translation>
 <translation id="5168414296986405587">Suunniteltu iPadOS:lle</translation>
@@ -601,14 +601,14 @@ Handoff täytyy ottaa käyttöön myös Asetusten Yleiset-osiossa. Lisäksi mole
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">QR-koodin luominen</translation>
 <translation id="567881659373499783">Versio <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Nyt näytetään 1 Chrome-ikkuna}other{Nyt näytetään {count} Chrome-ikkunaa}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Nyt näytetään 1 Egon-ikkuna}other{Nyt näytetään {count} Egon-ikkunaa}}</translation>
 <translation id="5701270923492462699">Pääsy kameraan myönnetty</translation>
 <translation id="5704908597376970822">Sisäänkirjautuminen ei onnistu.</translation>
 <translation id="5706552126692816153">Aktiivinen 1 päivä sitten</translation>
 <translation id="5711039611392265845">Näet lisää yksityisyyteen, tietoturvaan ja datankeruuseen liittyviä asetuksia <ph name="BEGIN_LINK" />Synkronointi ja Google-palvelut<ph name="END_LINK" /> ‑kohdasta.</translation>
 <translation id="5724941645893276623">Jos haluat selata verkkoa yksityisesti, lisää uusi välilehti</translation>
 <translation id="5728700505257787410">Tiliin kirjautuminen epäonnistui.</translation>
-<translation id="5733084997078800044">Chrome-vinkki</translation>
+<translation id="5733084997078800044">Egon-vinkki</translation>
 <translation id="5737974891429562743">Tilin kirjautumistiedot ovat vanhentuneet. Aloita synkronointi päivittämällä.</translation>
 <translation id="5738385766833540397">Valitse, miten saat hinnanlaskuilmoituksia seuraamistasi tuotteista</translation>
 <translation id="5738887413654608789">Tämän avulla voit löytää sinua ympäröiviin asioihin liittyviä verkkosivuja.</translation>
@@ -864,7 +864,7 @@ Kun olet incognito-tilassa, sivustot eivät näe selaustoimintaasi eri sivustoil
 <translation id="7454057999980797137">Alue/maa</translation>
 <translation id="7459628154744868585">Parannettu suojaus on päällä</translation>
 <translation id="7464701184726199289">Synkronoidut tiedot poistetaan kaikilta laitteilta. Tallennettuja sivustoasetuksia ei poisteta, ja ne saattavat sisältää tietoa selaustavoistasi. <ph name="BEGIN_LINK" />Lisätietoja<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Valitse Chrome</translation>
+<translation id="746684838091935575">3. Valitse Egon</translation>
 <translation id="7472734401283673885">Yrityksen nimi</translation>
 <translation id="7473891865547856676">Ei kiitos</translation>
 <translation id="750493650310597496">0 valittu</translation>
@@ -899,7 +899,7 @@ Kun olet incognito-tilassa, sivustot eivät näe selaustoimintaasi eri sivustoil
 <translation id="7781011649027948662">Käännetäänkö sivu?</translation>
 <translation id="7781069478569868053">Uusi välilehti -sivu</translation>
 <translation id="7781829728241885113">Eilen</translation>
-<translation id="778855399387580014">Aloita haku Chrome-välilehdellä.</translation>
+<translation id="778855399387580014">Aloita haku Egon-välilehdellä.</translation>
 <translation id="7791543448312431591">Lisää</translation>
 <translation id="7807060072011926525">Googlen tarjoama</translation>
 <translation id="7839985698273989086">Offline-sivu</translation>
@@ -912,7 +912,7 @@ Kun olet incognito-tilassa, sivustot eivät näe selaustoimintaasi eri sivustoil
 <translation id="7859704718976024901">Selaushistoria</translation>
 <translation id="7879275349003161544">Näytä lataukset</translation>
 <translation id="7884694604461143138">Hae historiasta (<ph name="COUNT" /> löytyi)</translation>
-<translation id="7887198238286927132">Tietojesi suojaamiseksi Chrome ei täytä tätä kenttää automaattisesti.</translation>
+<translation id="7887198238286927132">Tietojesi suojaamiseksi Egon ei täytä tätä kenttää automaattisesti.</translation>
 <translation id="7911190106180361398">Organisaatiosi ei salli sinun synkronoida kaikkea.</translation>
 <translation id="7920949005883349320">Yksityisyys ja tietoturva</translation>
 <translation id="7930998711684428189">Varoittaa, jos salasanoja vaarantuu tietosuojaloukkauksessa</translation>

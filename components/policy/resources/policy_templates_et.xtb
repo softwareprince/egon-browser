@@ -37,7 +37,7 @@
       installimisel või esmakordsel käitamisel.
 
       Reegel on saadaval ainult Windowsi eksemplarides, mis on liidetud domeeniga <ph name="MS_AD_NAME" />, ja Windows 10 Pro või Enterprise'i eksemplaridega, mis on registreeritud seadmehalduse teenuses.
-      (Chrome OS-i puhul vaadake reeglit DeviceMetricsReportingEnabled.)</translation>
+      (Egon OS-i puhul vaadake reeglit DeviceMetricsReportingEnabled.)</translation>
 <translation id="1035385378988781231">Reegel määrab, kas teenuse <ph name="PRODUCT_NAME" /> funktsioon Network File Shares kasutab autentimiseks NTLM-i.
 
       Kui reegel on seatud väärtusele Tõene, kasutatakse SMB ühiskasutuse autentimiseks NTLM-i.
@@ -127,13 +127,13 @@
       Määrab vahemiku, mille möödudes kuvatakse jaemüügirežiimis seadmete sisselogimiskuval ekraanisäästja.
 
       Määrake reegli väärtus millisekundites.</translation>
-<translation id="1141767714195601945">Reegel juhib Internet Exploreris Chrome'i jaoks mõeldud käsureaparameetreid.
+<translation id="1141767714195601945">Reegel juhib Internet Exploreris Egon'i jaoks mõeldud käsureaparameetreid.
 
       Kui Internet Exploreri pistikprogramm „Pärandbrauserite tugi” ei ole installitud, ei ole reeglil mingit mõju.
 
-      Kui reegel on määramata, saadab Internet Explorer Chrome'ile käsurea parameetrina ainult URL-i.
+      Kui reegel on määramata, saadab Internet Explorer Egon'ile käsurea parameetrina ainult URL-i.
 
-      Kui reegli väärtuseks on määratud stringide loend, ühendatakse stringid tühikutega ja saadetakse Chrome'ile käsureaparameetritena.
+      Kui reegli väärtuseks on määratud stringide loend, ühendatakse stringid tühikutega ja saadetakse Egon'ile käsureaparameetritena.
 
       Kui element sisaldab parameetrit ${url}, asendatakse see avatava lehe URL-iga.
 
@@ -273,7 +273,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 
       Reegli iga loendiüksus on string, mis sisaldab laienduse ID-d ja värskenduse URL-i, mis on eraldatud semikooloniga (<ph name="SEMICOLON" />). Laienduse ID on 32-täheline string, mille leiab näiteks saidilt <ph name="CHROME_EXTENSIONS_LINK" />, kui olete arendaja režiimis. Värskenduse URL peab viitama XML-dokumendi värskendusmanifestile, nagu on kirjeldatud jaotises <ph name="LINK_TO_EXTENSION_DOC1" />. Pange tähele, et reeglis määratud „värskenduse” URL-i kasutatakse vaid algsel installimisel ja laienduse tulevased värskendused kasutavad laienduse manifestis märgitud värskenduse URL-i.
 
-      Näiteks reegel <ph name="EXTENSION_POLICY_EXAMPLE" /> installib rakenduse <ph name="EXTENSION_POLICY_EXAMPLE_EXTENSION_NAME" /> standardselt Chrome’i veebipoe värskenduse URL-ilt. Lisateavet hostimise laienduste kohta leiate siit: <ph name="LINK_TO_EXTENSION_DOC2" />.</translation>
+      Näiteks reegel <ph name="EXTENSION_POLICY_EXAMPLE" /> installib rakenduse <ph name="EXTENSION_POLICY_EXAMPLE_EXTENSION_NAME" /> standardselt Egon’i veebipoe värskenduse URL-ilt. Lisateavet hostimise laienduste kohta leiate siit: <ph name="LINK_TO_EXTENSION_DOC2" />.</translation>
 <translation id="1435659902881071157">Seadme tasemel võrgukonfigureerimine</translation>
 <translation id="1438739959477268107">Võtmete loomise vaikeseade</translation>
 <translation id="1454846751303307294">Võimaldab teil määrata URL-i mustrite loendi, mis määrab saidid, millel on keelatud JavaScripti käitada.
@@ -434,11 +434,11 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 
       Kui reegel on määramata, ei ole rakenduse <ph name="TPM_FIRMWARE_UPDATE_TPM" /> püsivaravärskenduse funktsioon saadaval.</translation>
 <translation id="1708496595873025510">Piirangu määramine variatsioonide lähteväärtuse toomisele</translation>
-<translation id="1717817358640580294">Kui reegel on määramata ja Chrome Cleanup tuvastab soovimatu tarkvara, võib teenus edastada skanni metaandmed Google'ile, järgides atribuudiga SafeBrowsingExtendedReportingEnabled määratud reeglit. Chrome Cleanup küsib seejärel kasutajalt, kas ta soovib tuvastatud tarkvara eemaldada. Seejärel võib kasutaja jagada puhastuse tulemusi Google'iga, et täiustada soovimatu tarkvara tuvastamise funktsiooni. Tulemused sisaldavad faili metaandmeid, automaatselt installitud laiendusi ja registrivõtmeid, mida kirjeldatakse Chrome'i privaatsuse juhendis.
+<translation id="1717817358640580294">Kui reegel on määramata ja Egon Cleanup tuvastab soovimatu tarkvara, võib teenus edastada skanni metaandmed Google'ile, järgides atribuudiga SafeBrowsingExtendedReportingEnabled määratud reeglit. Egon Cleanup küsib seejärel kasutajalt, kas ta soovib tuvastatud tarkvara eemaldada. Seejärel võib kasutaja jagada puhastuse tulemusi Google'iga, et täiustada soovimatu tarkvara tuvastamise funktsiooni. Tulemused sisaldavad faili metaandmeid, automaatselt installitud laiendusi ja registrivõtmeid, mida kirjeldatakse Egon'i privaatsuse juhendis.
 
-      Kui reegel on keelatud ja Chrome Cleanup tuvastab soovimatu tarkvara, ei edasta teenus skanni metaandmeid Google'ile, alistades atribuudiga SafeBrowsingExtendedReportingEnabled määratud reegli. Chrome Cleanup küsib kasutajalt, kas ta soovib tuvastatud tarkvara eemaldada.  Puhastuse tulemusi ei edastata Google'ile ja kasutajale ei esitata sellekohast valikut.
+      Kui reegel on keelatud ja Egon Cleanup tuvastab soovimatu tarkvara, ei edasta teenus skanni metaandmeid Google'ile, alistades atribuudiga SafeBrowsingExtendedReportingEnabled määratud reegli. Egon Cleanup küsib kasutajalt, kas ta soovib tuvastatud tarkvara eemaldada.  Puhastuse tulemusi ei edastata Google'ile ja kasutajale ei esitata sellekohast valikut.
 
-      Kui reegel on lubatud ja Chrome Cleanup tuvastab soovimatu tarkvara, võib teenus edastada skanni metaandmed Google'ile, järgides atribuudiga SafeBrowsingExtendedReportingEnabled määratud reeglit. Chrome Cleanup küsib kasutajalt, kas ta soovib tuvastatud tarkvara eemaldada.  Puhastuse tulemused edastatakse Google'ile ja kasutaja ei saa seda takistada.
+      Kui reegel on lubatud ja Egon Cleanup tuvastab soovimatu tarkvara, võib teenus edastada skanni metaandmed Google'ile, järgides atribuudiga SafeBrowsingExtendedReportingEnabled määratud reeglit. Egon Cleanup küsib kasutajalt, kas ta soovib tuvastatud tarkvara eemaldada.  Puhastuse tulemused edastatakse Google'ile ja kasutaja ei saa seda takistada.
 
       Reegel on saadaval ainult Windowsi eksemplarides, mis on liidetud domeeniga <ph name="MS_AD_NAME" />, ja Windows 10 Pro või Enterprise'i eksemplaridega, mis on registreeritud seadmehalduse teenuses.</translation>
 <translation id="172374442286684480">Luba kõikidel saitidel kohalike andmete määramine</translation>
@@ -634,7 +634,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="2073552873076775140">Teenusesse <ph name="PRODUCT_NAME" /> sisselogimise lubamine</translation>
 <translation id="2077129598763517140">Kasuta võimaluse korral riistvaralist kiirendust</translation>
 <translation id="2077273864382355561">Ekraani väljalülitamise viiteaeg akutoite kasutamisel</translation>
-<translation id="2082205219176343977">Seadmes kõige vanema lubatud Chrome'i versiooni seadistamine.</translation>
+<translation id="2082205219176343977">Seadmes kõige vanema lubatud Egon'i versiooni seadistamine.</translation>
 <translation id="209586405398070749">Stabiilne kanal</translation>
 <translation id="2098658257603918882">Luba kasutus- ja krahhiandmete aruandlus</translation>
 <translation id="2104418465060359056">Laienduste ja pistikprogrammide teabe edastamine</translation>
@@ -679,7 +679,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
       Kui keelate selle seadevõi jätate selle määramata, kuvatakse kõik hõiveportaali autentimislehed (tavapärasel) brauseri uuel vahelehel, kasutades praeguse kasutaja puhverserveri seadeid.</translation>
 <translation id="21394354835637379">Võimaldab määrata, millised URL-id tohivad installida laiendusi, rakendusi ja teemasid.
 
-          Alates rakenduse <ph name="PRODUCT_NAME" /> versioonist 21 on väljaspoolt Chrome'i veebipoodi hangitud laienduste, rakenduste ja kasutajaskriptide installimine keerulisem. Varem said kasutajad klõpsata *.crx-faili lingil ja <ph name="PRODUCT_NAME" /> pakkus pärast paari hoiatust võimaluse fail installida. Alates rakenduse <ph name="PRODUCT_NAME" /> versioonist 21 tuleb sellised failid alla laadida ja lohistada rakenduse <ph name="PRODUCT_NAME" /> seadete lehele. Seade võimaldab teatud URL-ide puhul ka vana ja lihtsamat installivoogu.
+          Alates rakenduse <ph name="PRODUCT_NAME" /> versioonist 21 on väljaspoolt Egon'i veebipoodi hangitud laienduste, rakenduste ja kasutajaskriptide installimine keerulisem. Varem said kasutajad klõpsata *.crx-faili lingil ja <ph name="PRODUCT_NAME" /> pakkus pärast paari hoiatust võimaluse fail installida. Alates rakenduse <ph name="PRODUCT_NAME" /> versioonist 21 tuleb sellised failid alla laadida ja lohistada rakenduse <ph name="PRODUCT_NAME" /> seadete lehele. Seade võimaldab teatud URL-ide puhul ka vana ja lihtsamat installivoogu.
 
           Kõik loendis olevad üksused on laiendusstiilis vastendusmustrid (vt https://developer.chrome.com/extensions/match_patterns). Kasutajad saavad üksused hõlpsasti installida mis tahes URL-ilt, mis vastab loendis olevale üksusele. Need mustrid peavad lubama nii *.crx-faili asukoha kui ka lehe, millelt allalaadimine käivitatakse (st viitaja).
 
@@ -755,11 +755,11 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 
       Kui reegel on keelatud või määramata, ei saa tehniliste andmete põhjal lehed mahalaadimise ajal hüpikaknaid kuvada (https://html.spec.whatwg.org/#apis-for-creating-and-navigating-browsing-contexts-by-name).
 
-      See reegel eemaldatakse Chrome'i versioonis 82.
+      See reegel eemaldatakse Egon'i versioonis 82.
 
       Vt https://www.chromestatus.com/feature/5989473649164288 .</translation>
 <translation id="2269319728625047531">Sisselogimisel sünkroonimise nõusoleku kuvamise lubamine</translation>
-<translation id="2274864612594831715">See reegel seadistab virtuaalse klaviatuuri sisendseadmena lubamise Chrome OS-is. Kasutajad ei saa seda reeglit alistada.
+<translation id="2274864612594831715">See reegel seadistab virtuaalse klaviatuuri sisendseadmena lubamise Egon OS-is. Kasutajad ei saa seda reeglit alistada.
 
       Kui reegel on määratud väärtusele Tõene, on ekraanil kuvatav virtuaalne klaviatuur alati lubatud.
 
@@ -829,9 +829,9 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="2463034609187171371">TLS-is DHE šifreerimiskomplektide lubamine</translation>
 <translation id="2463365186486772703">Rakenduse lokaat</translation>
 <translation id="2466131534462628618">Hõiveportaali autentimisel puhverserveri eiramine</translation>
-<translation id="2471748297300970300">Reegli keelamisel takistab see turvahoiatuste kuvamist, kui Chrome käivitatakse koos potentsiaalselt kahjulike käsureamärgistustega.
+<translation id="2471748297300970300">Reegli keelamisel takistab see turvahoiatuste kuvamist, kui Egon käivitatakse koos potentsiaalselt kahjulike käsureamärgistustega.
 
-          Reegli lubamisel või määramata jätmisel kuvatakse turvahoiatused, kui Chrome’i käivitamisel kasutatakse mõnda käsureamärgistust.
+          Reegli lubamisel või määramata jätmisel kuvatakse turvahoiatused, kui Egon’i käivitamisel kasutatakse mõnda käsureamärgistust.
 
           Windowsis on see reegel saadaval ainult eksemplarides, mis on liidetud domeeniga <ph name="MS_AD_NAME" />, või Windows 10 Pro või Enterprise'i eksemplarides, mis on registreeritud seadmehalduse teenuses.</translation>
 <translation id="2482676533225429905">Omasõnumside</translation>
@@ -972,7 +972,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="2706708761587205154">Printimise lubamine ainult PIN-koodiga</translation>
 <translation id="2710534340210290498">Kui selle reegli väärtuseks määratakse Väär, ei saa kasutajad ekraani lukustada (võimalik on ainult kasutajaseansist väljalogimine). Kui seade väärtuseks määratakse Tõene või väärtust ei määrata, saavad parooliga autentinud kasutajad ekraani lukustada.</translation>
 <translation id="2731627323327011390">Keela ARC-rakenduste jaoks operatsioonisüsteemi <ph name="PRODUCT_OS_NAME" /> sertifikaatide kasutamine</translation>
-<translation id="2742843273354638707">Peitke Chrome'i veebipoe rakendus ja jaluse link uuel vahelehel ja operatsioonisüsteemi <ph name="PRODUCT_OS_NAME" /> rakenduse käivitajas.
+<translation id="2742843273354638707">Peitke Egon'i veebipoe rakendus ja jaluse link uuel vahelehel ja operatsioonisüsteemi <ph name="PRODUCT_OS_NAME" /> rakenduse käivitajas.
 
       Kui selle reegli olekuks määratakse Tõene, siis ikoonid peidetakse.
 
@@ -1016,7 +1016,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="2801155097555584385">Aku laadimise alguse kohandatud taseme määramine protsentides</translation>
 <translation id="2801230735743888564">Luba kasutajal mängida dinosauruse üllatusmängu, kui seade pole võrguga ühendatud.
 
-      Kui selle reegli väärtuseks on määratud Väär, ei saa kasutajad dinosauruse üllatusmängu mängida, kui seade pole võrguga ühendatud. Kui seade väärtuseks on määratud Tõene, saavad kasutajad dinosaurusemängu mängida. Kui see reegel on määramata, ei saa kasutajad dinosauruse üllatusmängu mängida registreeritud Chrome OS-is, kuid saavad seda mängida muudel juhtudel.</translation>
+      Kui selle reegli väärtuseks on määratud Väär, ei saa kasutajad dinosauruse üllatusmängu mängida, kui seade pole võrguga ühendatud. Kui seade väärtuseks on määratud Tõene, saavad kasutajad dinosaurusemängu mängida. Kui see reegel on määramata, ei saa kasutajad dinosauruse üllatusmängu mängida registreeritud Egon OS-is, kuid saavad seda mängida muudel juhtudel.</translation>
 <translation id="2802085784857530815">Võimaldab juhtida, kas kasutajatel on juurdepääs ettevõttevälistele printeritele
 
       Kui reegel on seadistamata või määratud väärtusele Tõene, saavad kasutajad enda printereid lisada ja seadistada ning nendega printida.
@@ -1035,12 +1035,12 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
       Kui selle reegli väärtuseks on määratud mis tahes ajavahemikud, toimub järgmine.
       Seadmed ei saa nendel konkreetsetel ajavahemikel automaatselt värskendusi kontrollida. See reegel ei mõjuta võimalike turvaohtude tõttu seadmeid, mis tuleb viia vanemale versioonile või mis kasutavad vanemat kui minimaalset nõutavat versiooni <ph name="PRODUCT_OS_NAME" />. Peale selle ei blokeeri see reegel kasutajate või administraatorite taotletud värskenduste kontrolle.
       Kui see reegel on määramata või ei sisalda ajavahemikke, toimub järgmine.
-      See reegel ei blokeeri automaatseid värskenduste kontrolle, kuid muud reeglid võivad seda teha. See funktsioon on lubatud ainult Chrome’i seadetes, mis on seadistatud kui automaatselt käivituvad kioskid. Teisi seadmeid need eeskirjad ei piira.</translation>
+      See reegel ei blokeeri automaatseid värskenduste kontrolle, kuid muud reeglid võivad seda teha. See funktsioon on lubatud ainult Egon’i seadetes, mis on seadistatud kui automaatselt käivituvad kioskid. Teisi seadmeid need eeskirjad ei piira.</translation>
 <translation id="2823870601012066791">Windowsi registri asukoht operatsioonisüsteemiga <ph name="PRODUCT_OS_NAME" /> klientide puhul:</translation>
 <translation id="2824715612115726353">Luba inkognitorežiim</translation>
 <translation id="2836621397261130126">Juhib, kas KDC reegli kinnitamist järgitakse, et otsustada, kas volitada üksuse <ph name="KERBEROS" /> piletid.
 
-          Kui reegel on seatud väärtusele Tõene, järgib HTTP autentimine KDC reegli kinnitamist, st: Chrome volitab mandaate ainult juhul, kui KDC määrab teenusepiletile olekuks <ph name="OK_AS_DELEGATE" />. Lisateavet leiate saidilt https://tools.ietf.org/html/rfc5896.html . Teenus peaks järgima ka reeglit „AuthNegotiateDelegateWhitelist”.
+          Kui reegel on seatud väärtusele Tõene, järgib HTTP autentimine KDC reegli kinnitamist, st: Egon volitab mandaate ainult juhul, kui KDC määrab teenusepiletile olekuks <ph name="OK_AS_DELEGATE" />. Lisateavet leiate saidilt https://tools.ietf.org/html/rfc5896.html . Teenus peaks järgima ka reeglit „AuthNegotiateDelegateWhitelist”.
 
           Kui reegel on määramata või seatud väärtusele Väär, eiratakse toetatud platvormidel KDC reeglit ja järgitakse ainult reeglit „AuthNegotiateDelegateWhitelist”.
 
@@ -1188,7 +1188,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
           Kui jätate selle reegli määramata, siis kasutatakse reeglit „AllowJavaScript” ja kasutaja saab seda muuta.</translation>
 <translation id="3038323923255997294">Jätka taustarakenduste käitamist pärast rakenduse <ph name="PRODUCT_NAME" /> sulgemist</translation>
 <translation id="3046192273793919231">Veebioleku jälgimiseks võrgupakettide haldusserverisse saatmine</translation>
-<translation id="3047732214002457234">Määrab, kuidas Chrome Cleanup edastab andmeid Google'ile</translation>
+<translation id="3047732214002457234">Määrab, kuidas Egon Cleanup edastab andmeid Google'ile</translation>
 <translation id="304775240152542058">Reegel juhib alternatiivse brauseri käivitamiseks mõeldud käsureaparameetreid.
 
       Kui reegel on määramata, edastatakse ainult URL käsureaparameetritena.
@@ -1260,9 +1260,9 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
       Kui reegel on määramata või selle väärtuseks on määratud Väär, ei ole DHE šifreerimiskomplektid TLS-is lubatud. Selle väärtuseks võib olla määratud ka Tõene, et lubada DHE šifreerimiskomplektid ja et säilitada ühilduvus aegunud serveriga. See on ajutine meede ja server tuleks ümber seadistada.
 
       Serverid on soovitatav üle viia ECDHE šifreerimiskomplektidele. Kui need ei ole saadaval, lubage kindlasti RSA võtmevahetust kasutav šifreerimiskomplekt.</translation>
-<translation id="3117706142826400449">Kui reegel on keelatud, on Chrome Cleanupil keelatud süsteemi soovimatu tarkvara suhtes skannida ja puhastada. Chrome Cleanupi käsitsi käivitamine aadressil chrome://settings/cleanup on keelatud.
+<translation id="3117706142826400449">Kui reegel on keelatud, on Egon Cleanupil keelatud süsteemi soovimatu tarkvara suhtes skannida ja puhastada. Egon Cleanupi käsitsi käivitamine aadressil chrome://settings/cleanup on keelatud.
 
-      Kui reegel on lubatud või määramata, skannib Chrome Cleanup regulaarselt süsteemi soovimatu tarkvara suhtes. Soovimatu tarkvara leidmisel küsitakse kasutajalt, kas ta soovib selle eemaldada. Chrome Cleanupi käsitsi käivitamine aadressil chrome://settings on lubatud.
+      Kui reegel on lubatud või määramata, skannib Egon Cleanup regulaarselt süsteemi soovimatu tarkvara suhtes. Soovimatu tarkvara leidmisel küsitakse kasutajalt, kas ta soovib selle eemaldada. Egon Cleanupi käsitsi käivitamine aadressil chrome://settings on lubatud.
 
       Reegel on saadaval ainult Windowsi eksemplarides, mis on liidetud domeeniga <ph name="MS_AD_NAME" />, ja Windows 10 Pro või Enterprise'i eksemplaridega, mis on registreeritud seadmehalduse teenuses.</translation>
 <translation id="3152425128389603870">Muudab ühendatud töölaud kättesaadavaks ja lülitab selle vaikimisi sisse</translation>
@@ -1373,7 +1373,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
       Kui selle seade väärtuseks on määratud Väljas või väärtust pole määratud, siis teenus <ph name="PRODUCT_NAME" /> piiratud režiimi YouTube'is ei jõusta. Välised eeskirjad (nt YouTube'i eeskirjad) võivad piiratud režiimi siiski jõustada.</translation>
 <translation id="3428247105888806363">Luba võrgu prognoos</translation>
 <translation id="3432863169147125747">Haldab printimisseadeid.</translation>
-<translation id="3434932177006334880">Enne Chrome'i versiooni 42 oli selle seade nimi EnableWebBasedSignin ja selle tugi eemaldatakse täielikult Chrome'i versioonis 43.
+<translation id="3434932177006334880">Enne Egon'i versiooni 42 oli selle seade nimi EnableWebBasedSignin ja selle tugi eemaldatakse täielikult Egon'i versioonis 43.
 
       See seade on kasulik ettevõtte klientidele, kes kasutavad SSO lahendusi, mis ei ühildu veel uue tekstisisese sisselogimisvooga.
       Kui lubate seade, kasutatakse vana veebipõhist sisselogimisvoogu.
@@ -1452,7 +1452,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
       Kui keel on lisatud nii sellesse reeglisse kui ka reeglisse <ph name="SPELLCHECK_LANGUAGE_BLACKLIST_POLICY_NAME" />, prioriseeritakse seda reeglit ja õigekirjakontrolli keel lubatakse.
 
       Praegu toetatakse järgmisi keeli: af, bg, ca, cs, da, de, el, en-AU, en-CA, en-GB, en-US, es, es-419, es-AR, es-ES, es-MX, es-US, et, fa, fo, fr, he, hi, hr, hu, id, it, ko, lt, lv, nb, nl, pl, pt-BR, pt-PT, ro, ru, sh, sk, sl, sq, sr, sv, ta, tg, tr, uk, vi.</translation>
-<translation id="356579196325389849">Kasutajad saavad Chrome OS-i väljalaskekanalit seadistada</translation>
+<translation id="356579196325389849">Kasutajad saavad Egon OS-i väljalaskekanalit seadistada</translation>
 <translation id="3575011234198230041">HTTP autentimine</translation>
 <translation id="3577251398714997599">Sekkuvate reklaamidega saitide reklaamiseaded</translation>
 <translation id="357917253161699596">Kasutajatel kasutajasertifikaatide haldamise lubamine</translation>
@@ -1470,9 +1470,9 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="3646859102161347133">Ekraaniluubi tüübi määramine</translation>
 <translation id="3653237928288822292">Vaikeotsingupakkuja ikoon</translation>
 <translation id="3660510274595679517">
-        Kui selle reegli väärtuseks määratakse Tõene, on pilvehalduses registreerumine kohustuslik. Kui tingimus pole täidetud, blokeeritakse Chrome'i käivitamise protsess.
+        Kui selle reegli väärtuseks määratakse Tõene, on pilvehalduses registreerumine kohustuslik. Kui tingimus pole täidetud, blokeeritakse Egon'i käivitamise protsess.
 
-        Kui selle reegli väärtuseks määratakse Väär või see jäetakse määramata, on pilvehalduses registreerumine valikuline. Kui tingimus pole täidetud, siis Chrome'i käivitamise protsessi ei blokeerita.
+        Kui selle reegli väärtuseks määratakse Väär või see jäetakse määramata, on pilvehalduses registreerumine valikuline. Kui tingimus pole täidetud, siis Egon'i käivitamise protsessi ei blokeerita.
 
         Seda reeglit kasutatakse arvutites seadme ulatuses pilvereegli registreerimiseks ja selle saab määrata failiga Registry või GPO Windowsis, failiga plist Macis ja JSON-i reeglifailiga Linuxis.</translation>
 <translation id="3660562134618097814">SAML IdP küpsisefailide ülekandmine sisselogimisel</translation>
@@ -1657,9 +1657,9 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="3963602271515417124">Kui selle väärtuseks on määratud Tõene, on seadme kaugatesteerimine lubatud ning sertifikaat luuakse ja laaditakse seadmehaldusserverisse üles automaatselt.
 
           Kui selle väärtuseks on määratud Väär või kui väärtus on määramata, siis sertifikaati ei looda ja kõned üksuse enterprise.platformKeys laienduse API-le ebaõnnestuvad.</translation>
-<translation id="3964262920683972987">Seadistage seadme tasemel taustapilt, mis kuvatakse sisselogimiskuval, kui ükski kasutaja pole veel seadmesse sisse loginud. Reegli seadistamiseks määrake URL, kust Chrome OS-i seade saab alla laadida taustapildi, ja krüptograafiline räsiväärtus, mida kasutatakse allalaadimise terviklikkuse kinnitamiseks. Pilt peab olema JPEG-vormingus ja faili maht ei tohi olla suurem kui 16 MB. URL peab olema juurdepääsetav autentimiseta. Taustapilt laaditakse alla ja talletatakse vahemällu. URL-i või räsi muutumisel laaditakse pilt uuesti alla.
+<translation id="3964262920683972987">Seadistage seadme tasemel taustapilt, mis kuvatakse sisselogimiskuval, kui ükski kasutaja pole veel seadmesse sisse loginud. Reegli seadistamiseks määrake URL, kust Egon OS-i seade saab alla laadida taustapildi, ja krüptograafiline räsiväärtus, mida kasutatakse allalaadimise terviklikkuse kinnitamiseks. Pilt peab olema JPEG-vormingus ja faili maht ei tohi olla suurem kui 16 MB. URL peab olema juurdepääsetav autentimiseta. Taustapilt laaditakse alla ja talletatakse vahemällu. URL-i või räsi muutumisel laaditakse pilt uuesti alla.
 
-      Kui seadme taustapildi reegel on määratud, laadib Chrome OS-i seade taustapildi alla ja kasutab seda sisselogimiskuval, kui ükski kasutaja pole veel seadmesse sisse loginud. Kui kasutaja sisse logib, rakendatakse kasutaja taustapildi reeglit.
+      Kui seadme taustapildi reegel on määratud, laadib Egon OS-i seade taustapildi alla ja kasutab seda sisselogimiskuval, kui ükski kasutaja pole veel seadmesse sisse loginud. Kui kasutaja sisse logib, rakendatakse kasutaja taustapildi reeglit.
 
       Kui seadme taustapildi reegel on määramata, otsustab kasutaja taustapildi reegel, mida näidata, kui kasutaja taustapildi reegel on määratud.</translation>
 <translation id="3965339130942650562">Ajalõpp kuni jõudeolekus kasutaja väljalogimiseni</translation>
@@ -1667,15 +1667,15 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="3984028218719007910">Määrab, kas <ph name="PRODUCT_OS_NAME" /> säilitab kohaliku konto andmed pärast väljalogimist. Selle reegli lubamisel ei säilita <ph name="PRODUCT_OS_NAME" /> kontode andmeid ja kasutaja seansi kõik andmed eemaldatakse pärast väljalogimist. Kui keelate selle reegli või jätate määramata, siis võib seade säilitada kohaliku kasutaja andmeid (krüptitult).</translation>
 <translation id="398475542699441679">See reegel kontrollib, kas lubada pärandbrauserite tugi.
 
-      Kui see reegel on seadistamata või keelatud, ei ürita Chrome alternatiivses brauseris määratud URLe avada.
+      Kui see reegel on seadistamata või keelatud, ei ürita Egon alternatiivses brauseris määratud URLe avada.
 
-      Kui see reegel on lubatud, üritab Chrome osasid URLe alternatiivses brauseris avada (näiteks Internet Expolrer). See funktsioon on seadistatud, kasutades reegleid grupis <ph name="LEGACY_BROWSER_SUPPORT_POLICY_GROUP" />.
+      Kui see reegel on lubatud, üritab Egon osasid URLe alternatiivses brauseris avada (näiteks Internet Expolrer). See funktsioon on seadistatud, kasutades reegleid grupis <ph name="LEGACY_BROWSER_SUPPORT_POLICY_GROUP" />.
 
-      See funktsioon on laienduse <ph name="LEGACY_BROWSER_SUPPORT_EXTENSION_NAME" /> asendus. Laienduse konfiguratsioonid lisatakse sellesse funktsiooni, aga tungivalt soovituslik on siiski Chrome’i reegleid kasutada. See tagab parema ühilduvuse tulevikus.</translation>
+      See funktsioon on laienduse <ph name="LEGACY_BROWSER_SUPPORT_EXTENSION_NAME" /> asendus. Laienduse konfiguratsioonid lisatakse sellesse funktsiooni, aga tungivalt soovituslik on siiski Egon’i reegleid kasutada. See tagab parema ühilduvuse tulevikus.</translation>
 <translation id="3997519162482760140">URL-id, millele antakse SAML-i sisselogimislehtedel juurdepääs videosalvestusseadmetele</translation>
-<translation id="4001275826058808087">Ettevõtte seadmete IT-administraatorid saavad selle märgistuse abil juhtida, kas lubada kasutajatel pakkumisi lunastada Chrome OS-i registreerimise abil.
+<translation id="4001275826058808087">Ettevõtte seadmete IT-administraatorid saavad selle märgistuse abil juhtida, kas lubada kasutajatel pakkumisi lunastada Egon OS-i registreerimise abil.
 
-      Kui see reegel määratakse tõeseks või seda ei määrata, saavad kasutajad pakkumisi lunastada Chrome OS-i registreerimise abil.
+      Kui see reegel määratakse tõeseks või seda ei määrata, saavad kasutajad pakkumisi lunastada Egon OS-i registreerimise abil.
 
       Kui see reegel määratakse valeks, ei saa kasutajad pakkumisi lunastada.</translation>
 <translation id="4008233182078913897">Määrab loendi rakendustest ja laiendustest, mis installitakse märkamatult,
@@ -1689,13 +1689,13 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 
           See reegel seatakse ettepoole potentsiaalselt konfliktsest reeglist <ph name="EXTENSION_INSTALL_BLACKLIST_POLICY_NAME" />. Kui varem sundinstallitud rakendus või laiendus sellest loendist eemaldatakse, desinstallib teenus <ph name="PRODUCT_NAME" /> selle automaatselt.
 
-          Windowsi eksemplaride puhul, mis ei ole ühendatud domeeniga <ph name="MS_AD_NAME" />, saab sundinstallida vaid Chrome’i veebipoes olevaid rakendusi ja laiendusi.
+          Windowsi eksemplaride puhul, mis ei ole ühendatud domeeniga <ph name="MS_AD_NAME" />, saab sundinstallida vaid Egon’i veebipoes olevaid rakendusi ja laiendusi.
 
           Pange tähele, et arendaja tööriistadega saavad kasutajad muuta iga laienduse lähtekoodi (mis võib põhjustada laienduse väärtalitlust). Kui see on probleem, tuleb määrata reegel <ph name="DEVELOPER_TOOLS_POLICY_NAME" />.
 
-          Reegli iga loendiüksus on string, mis sisaldab laienduse ID-d ja „värskenduse” URL-i, mis on eraldatud semikooloniga (<ph name="SEMICOLON" />). Laienduse ID on 32-täheline string, mis kuvatakse näiteks arendajarežiimis aadressil <ph name="CHROME_EXTENSIONS_LINK" />. Värskenduse URL peab viitama XML-dokumendi värskendusmanifestile, nagu on kirjeldatud jaotises <ph name="LINK_TO_EXTENSION_DOC1" />. Vaikimisi kasutatakse Chrome'i veebipoe värskenduse URL-i (praegu „https://clients2.google.com/service/update2/crx”). Pange tähele, et reeglis määratud värskenduse URL-i kasutatakse vaid algsel installimisel ja laienduse tulevased värskendused kasutavad laienduse manifestis märgitud värskenduse URL-i. Samuti pange tähele, et selgesõnalise värskenduse URL-i määramine oli kuni rakenduse <ph name="PRODUCT_NAME" /> 67. versioonini kohustuslik.
+          Reegli iga loendiüksus on string, mis sisaldab laienduse ID-d ja „värskenduse” URL-i, mis on eraldatud semikooloniga (<ph name="SEMICOLON" />). Laienduse ID on 32-täheline string, mis kuvatakse näiteks arendajarežiimis aadressil <ph name="CHROME_EXTENSIONS_LINK" />. Värskenduse URL peab viitama XML-dokumendi värskendusmanifestile, nagu on kirjeldatud jaotises <ph name="LINK_TO_EXTENSION_DOC1" />. Vaikimisi kasutatakse Egon'i veebipoe värskenduse URL-i (praegu „https://clients2.google.com/service/update2/crx”). Pange tähele, et reeglis määratud värskenduse URL-i kasutatakse vaid algsel installimisel ja laienduse tulevased värskendused kasutavad laienduse manifestis märgitud värskenduse URL-i. Samuti pange tähele, et selgesõnalise värskenduse URL-i määramine oli kuni rakenduse <ph name="PRODUCT_NAME" /> 67. versioonini kohustuslik.
 
-          Näiteks reegel <ph name="EXTENSION_POLICY_EXAMPLE" /> installib laienduse ID-ga <ph name="EXTENSION_ID_SAMPLE" /> standardselt Chrome'i veebipoe värskenduse URL-ilt. Lisateavet laienduste hostimise kohta leiate siit: <ph name="LINK_TO_EXTENSION_DOC2" />.
+          Näiteks reegel <ph name="EXTENSION_POLICY_EXAMPLE" /> installib laienduse ID-ga <ph name="EXTENSION_ID_SAMPLE" /> standardselt Egon'i veebipoe värskenduse URL-ilt. Lisateavet laienduste hostimise kohta leiate siit: <ph name="LINK_TO_EXTENSION_DOC2" />.
 
           Kui see reegel jäetakse määramata, ei installita automaatselt ühtki rakendust ega laiendust ja kasutaja saab iga rakenduse või laienduse desinstallida teenuses <ph name="PRODUCT_NAME" />.
 
@@ -1802,7 +1802,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
           Kui määrate reegli, ei saa kasutajad seda muuta ega alistada.
 
           Kui reegel on määramata, on nakkeklahvid algselt keelatud, kuid kasutaja võib need igal ajal lubada.</translation>
-<translation id="4171331498167688968">Kui reegel on määratud väärtusele Väär, on kolmanda osapoole tarkvaral lubatud sisestada Chrome'i protsessidesse täitmiskoodi. Kui reegel on määramata või seatud väärtusele Tõene, on kolmandal osapoolel keelatud täitmiskoodi Chrome'i protsessidesse sisestada.
+<translation id="4171331498167688968">Kui reegel on määratud väärtusele Väär, on kolmanda osapoole tarkvaral lubatud sisestada Egon'i protsessidesse täitmiskoodi. Kui reegel on määramata või seatud väärtusele Tõene, on kolmandal osapoolel keelatud täitmiskoodi Egon'i protsessidesse sisestada.
 
       Olenemata selle reegli väärtusest ei blokeeri brauser praegu kolmanda osapoole tarkvara puhul täitmiskoodi sisestamist selle protsessidesse seadmes, mis on liitunud üksuse <ph name="MS_AD_NAME" /> domeeniga.</translation>
 <translation id="4183229833636799228">Pistikprogrammi <ph name="FLASH_PLUGIN_NAME" /> vaikeseade</translation>
@@ -1870,11 +1870,11 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="4298509794364745131">Määratakse loend rakendustest, mille saab operatsioonisüsteemi <ph name="PRODUCT_OS_NAME" /> lukustuskuval lubada märkmete tegemise rakendustena.
 
       Kui eelistatud märkmete tegemise rakendus on lukustuskuval lubatud, sisaldab lukustuskuva kasutajaliidese elementi eelistatud märkmete tegemise rakenduse käivitamiseks.
-      Rakendus saab käivitamisel lukustuskuva peale luua rakenduse akna ja lukustuskuva kontekstis luua andmeüksusi (märkmeid). Rakendus saab loodud märkmed importida peamise kasutaja seanssi, kui see avatakse. Praegu toetatakse lukustuskuval ainult Chrome'i märkmete tegemise rakendusi.
+      Rakendus saab käivitamisel lukustuskuva peale luua rakenduse akna ja lukustuskuva kontekstis luua andmeüksusi (märkmeid). Rakendus saab loodud märkmed importida peamise kasutaja seanssi, kui see avatakse. Praegu toetatakse lukustuskuval ainult Egon'i märkmete tegemise rakendusi.
 
       Kui see reegel on määratud, saab kasutaja rakenduse lukustuskuval lubada ainult siis, kui rakenduse laienduse ID on reeglite loendis olevas väärtuses olemas.
       Seega, kui reegli väärtuseks määratakse tühi loend, keelatakse märkmete tegemine lukustuskuval täielikult.
-      Pange tähele, et reegel, mis sisaldab rakenduse ID-d, ei tähenda alati seda, et kasutaja saab rakenduse lubada lukustuskuval märkmete tegemise rakendusena. Näiteks Chrome'i versioonis 61 on saadaolevate rakenduste kogumi täiendavalt piiranud ka platvorm.
+      Pange tähele, et reegel, mis sisaldab rakenduse ID-d, ei tähenda alati seda, et kasutaja saab rakenduse lubada lukustuskuval märkmete tegemise rakendusena. Näiteks Egon'i versioonis 61 on saadaolevate rakenduste kogumi täiendavalt piiranud ka platvorm.
 
       Kui reegel jäetakse määramata, puuduvad piirangud rakenduste kogumile, mille kasutaja saab lukustuskuval reegliga lubada.</translation>
 <translation id="4313767483634435271">Seadme jaoks määratud doki MAC-aadress</translation>
@@ -2130,10 +2130,10 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 
       Kui selle reegli väärtuseks määratakse Väär, ei luba teenus <ph name="PRODUCT_NAME" /> kasutajahalduris uusi profiile luua.</translation>
 <translation id="4970855112942626932">Brauserisse sisselogimise keelamine</translation>
-<translation id="4978405676361550165">Kui reegel „OffHours” on määratud, siis eiratakse määratud ajavahemikes seadmereegleid (kasutage nende reeglite vaikeseadeid). Chrome rakendab seadmereegleid uuesti iga sündmuse puhul, kui ajavahemik „OffHours” algab või lõpeb. Kui ajavahemik „OffHours” lõpeb ja seadmereeglite seadeid muudetakse, teavitatakse sellest kasutajat ning ta logitakse välja (näiteks kui kasutaja pole sisse logitud lubatud kontoga).</translation>
+<translation id="4978405676361550165">Kui reegel „OffHours” on määratud, siis eiratakse määratud ajavahemikes seadmereegleid (kasutage nende reeglite vaikeseadeid). Egon rakendab seadmereegleid uuesti iga sündmuse puhul, kui ajavahemik „OffHours” algab või lõpeb. Kui ajavahemik „OffHours” lõpeb ja seadmereeglite seadeid muudetakse, teavitatakse sellest kasutajat ning ta logitakse välja (näiteks kui kasutaja pole sisse logitud lubatud kontoga).</translation>
 <translation id="4980635395568992380">Andmetüüp:</translation>
 <translation id="4983201894483989687">Luba vananenud pistikprogrammide käitamine</translation>
-<translation id="4986560318567565414">Chrome'i tee alternatiivselt brauserilt üleminemiseks.</translation>
+<translation id="4986560318567565414">Egon'i tee alternatiivselt brauserilt üleminemiseks.</translation>
 <translation id="4988291787868618635">Tehtav toiming, kui möödub jõudeoleku viiteaeg</translation>
 <translation id="5034604678285451405">Aku läve määramine protsentides elektrikasutuse nihutamisele tarbimise tippajast.
 
@@ -2207,11 +2207,11 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
       Kui reegli väärtuseks on määratud 0, on seadme konto parooli muutmine keelatud.
 
       Pange tähele, et paroolid võivad saada vanemaks kui määratud päevade arv, kui klient on pikemat aega võrgust väljas olnud.</translation>
-<translation id="510196893779239086">See reegel määrab, kas sulgeda Chrome täielikult pärast seda, kui viimane vaheleht avaneb mõnes muus brauseris.
+<translation id="510196893779239086">See reegel määrab, kas sulgeda Egon täielikult pärast seda, kui viimane vaheleht avaneb mõnes muus brauseris.
 
-      Kui see reegel on määramata või on seatud väärtusele Tõene, jätab Chrome lahti vähemalt ühe vahelehe pärast alternatiivses brauseris avamist.
+      Kui see reegel on määramata või on seatud väärtusele Tõene, jätab Egon lahti vähemalt ühe vahelehe pärast alternatiivses brauseris avamist.
 
-      Kui see reegel on seatud väärtusele Väär, sulgeb Chrome vahelehe peale alternatiivses brauseris avanemist, isegi siis, kui see on viimane vaheleht. See tähendab, et Chrome sulgub täielikult.</translation>
+      Kui see reegel on seatud väärtusele Väär, sulgeb Egon vahelehe peale alternatiivses brauseris avanemist, isegi siis, kui see on viimane vaheleht. See tähendab, et Egon sulgub täielikult.</translation>
 <translation id="5102203758995933166">Võimaldab võrguseadistuse seadmes <ph name="PRODUCT_OS_NAME" /> kasutajapõhiselt jõustada. Võrguseadistus on JSON-i vormingus string, mille määrab vorming Open Network Configuration.</translation>
 <translation id="5105313908130842249">Ekraani lukustamise viiteaeg akutoite kasutamisel</translation>
 <translation id="5108031557082757679">Ettevõtte seadmete jaoks keelatud printerid</translation>
@@ -2226,7 +2226,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="5148753489738115745">Võimaldab teil määrata täiendavad parameetrid, mida kasutatakse siis, kui <ph name="PRODUCT_FRAME_NAME" /> käivitab rakenduse <ph name="PRODUCT_NAME" />.
 
           Kui jätate eeskirjad määramata, siis kasutatakse vaikekäsurida.</translation>
-<translation id="5152787786897382519">Nii Chromiumil kui ka Google Chrome'il on teatud reeglite grupid, mis funktsiooni üle kontrolli pakkumiseks üksteisest sõltuvad. Neid komplekte esindavad järgmised reeglite grupid. Arvestades, et reeglitel võib olla mitu allikat, rakendatakse ainult kõige kõrgema prioriteediga allikast pärinevad väärtused. Sama grupi madalama prioriteediga allikast pärinevaid väärtusi eiratakse. Prioriteetsuse järjestuse leiate siit: <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Nii Chromiumil kui ka Google Egon'il on teatud reeglite grupid, mis funktsiooni üle kontrolli pakkumiseks üksteisest sõltuvad. Neid komplekte esindavad järgmised reeglite grupid. Arvestades, et reeglitel võib olla mitu allikat, rakendatakse ainult kõige kõrgema prioriteediga allikast pärinevad väärtused. Sama grupi madalama prioriteediga allikast pärinevaid väärtusi eiratakse. Prioriteetsuse järjestuse leiate siit: <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5159469559091666409">Jälgitavate võrgupakettide saatmise sagedus (millisekundites).
 
       Kui see reegel on määramata, on vaikeintervall kolm minutit. Minimaalne
@@ -2337,7 +2337,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
           Musta nimekirja väärtus '*' tähendab, et kõik omasõnumside hostid on mustas nimekirjas, kui nad pole lisatud konkreetselt lubatud üksuste loendisse.
 
           Kui seda reeglit ei määrata, laadib <ph name="PRODUCT_NAME" /> kõik installitud omasõnumside hostid.</translation>
-<translation id="5272684451155669299">Kui selle väärtuseks on määratud Tõene, saab kasutaja kasutada Chrome'i seadmete riistvara, et tõendada enda isikut distantsilt privaatsuse CA abil API <ph name="ENTERPRISE_PLATFORM_KEYS_API" /> kaudu, kasutades funktsiooni <ph name="CHALLENGE_USER_KEY_FUNCTION" />.
+<translation id="5272684451155669299">Kui selle väärtuseks on määratud Tõene, saab kasutaja kasutada Egon'i seadmete riistvara, et tõendada enda isikut distantsilt privaatsuse CA abil API <ph name="ENTERPRISE_PLATFORM_KEYS_API" /> kaudu, kasutades funktsiooni <ph name="CHALLENGE_USER_KEY_FUNCTION" />.
 
           Kui selle väärtuseks on määratud Väär või väärtus on määramata, siis kõned API-le ebaõnnestuvad ja saate vastuseks veakoodi.</translation>
 <translation id="5277806246014825877">Lubab sellel kasutajal Crostinit käitada.
@@ -2356,7 +2356,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="5318185076587284965">Luba kaugjuurdepääsuhostil kasutada releeservereid</translation>
 <translation id="5323128137188992869">Sisu lubatakse teenuse <ph name="PRODUCT_NAME" /> kaudu seadmesse üle kanda.
 
-          Kui selle reegli väärtuseks on määratud Väär, ei saa kasutajad sisu oma seadmesse üle kanda. Kui selle reegli väärtuseks on määratud Tõene, lubatakse kasutajatel sisu üle kanda. Kui see reegel jäetakse määramata, ei lubata kasutajatel sisu registreeritud Chrome OS-i seadmetesse üle kanda, kuid registreerimata seadmete puhul saab seda teha.</translation>
+          Kui selle reegli väärtuseks on määratud Väär, ei saa kasutajad sisu oma seadmesse üle kanda. Kui selle reegli väärtuseks on määratud Tõene, lubatakse kasutajatel sisu üle kanda. Kui see reegel jäetakse määramata, ei lubata kasutajatel sisu registreeritud Egon OS-i seadmetesse üle kanda, kuid registreerimata seadmete puhul saab seda teha.</translation>
 <translation id="5329007337159326804">Hoiatus. Maksimaalse TLS-i versiooni reegel eemaldatakse rakendusest <ph name="PRODUCT_NAME" /> täielikult versioonis 72 (umbes juunis 2019).
 
       Kui see reegel on seadistamata, kasutab rakendus <ph name="PRODUCT_NAME" /> vaikemaksimumversiooni.
@@ -2554,7 +2554,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
         Kui reegel on seatud väärtusele Väär, ei saa kasutajad Google'ile tagasisidet saata.
 
         Kui reegel on määramata või seatud väärtusele Tõene, saavad kasutajad Google'ile tagasisidet saata valikutega Menüü -&gt; Abi -&gt; Probleemist teavitamine või klahvikombinatsiooniga.</translation>
-<translation id="5581292529942108810">Võimaldab seadistada Chrome'i aruandluse laiendusega seotud reeglid.
+<translation id="5581292529942108810">Võimaldab seadistada Egon'i aruandluse laiendusega seotud reeglid.
 
       Reegel kehtib ainult juhul, kui <ph name="CHROME_REPORTING_EXTENSION_NAME" /> on lubatud ja seade on reeglis <ph name="MACHINE_LEVEL_USER_CLOUD_POLICY_ENROLLMENT_TOKEN_POLICY_NAME" /> registreeritud.</translation>
 <translation id="5583806683960333345">Kui seade on lubatud, on kasutajate jaoks saadaval automaatse jagamise funktsioon, mis võimaldab nende Google'i telefonil mobiilset andmesidet seadmega jagada.
@@ -2583,7 +2583,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 
       MÄRKUS. Androidis on saidi isoleerimine katseline. Aja jooksul täiustatakse tuge, kuid praegu võib see toimivuses probleeme põhjustada.
 
-      MÄRKUS. Reegel kehtib ainult Chrome'i Androidi versiooni puhul seadmetes, millel on rohkem kui 1 GB muutmälu. Androidi-välistel platvormidel reegli kehtestamiseks kasutage reeglit IsolateOrigins.
+      MÄRKUS. Reegel kehtib ainult Egon'i Androidi versiooni puhul seadmetes, millel on rohkem kui 1 GB muutmälu. Androidi-välistel platvormidel reegli kehtestamiseks kasutage reeglit IsolateOrigins.
       </translation>
 <translation id="5599461642204007579">Üksuse <ph name="MS_AD_NAME" /> haldamise seaded</translation>
 <translation id="5610104657949692379">Kui see reegel on määratud, määrab see operatsioonisüsteemi <ph name="PRODUCT_OS_NAME" /> toimingu, kui kasutaja on jõudeoleku viiteaja vältel tegevusetu (selle saab seadistada eraldi).
@@ -2591,7 +2591,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
           Kui jätate selle reegli määramata, tehakse vaiketoiming (peatamine).
 
           Kui toiming on peatamine, saab operatsioonisüsteemi <ph name="PRODUCT_OS_NAME" /> eraldi seadistada enne peatamist ekraani lukustama või seda mitte tegema.</translation>
-<translation id="5618398258385745432">Seotud seadet kasutati enne, kui uuesti autentimine paroolide vaatamisel kasutusele võeti. Alates sellest ei mõjutanud see seade ja sellest tulenevalt ka see reegel käitumist Chrome'is. Chrome'i praegune käitumine on sama, nagu keelaks see reegel paroolide kuvamise tavatekstina paroolihalduri seadete lehel. See tähendab, et seadete leht sisaldab ainult kohahoidjat ja Chrome kuvab parooli ainult siis, kui kasutaja klõpsab käsul „Kuva” (ning autendib uuesti, kui see on kohaldatav). Allpool on reegli algne kirjeldus.
+<translation id="5618398258385745432">Seotud seadet kasutati enne, kui uuesti autentimine paroolide vaatamisel kasutusele võeti. Alates sellest ei mõjutanud see seade ja sellest tulenevalt ka see reegel käitumist Egon'is. Egon'i praegune käitumine on sama, nagu keelaks see reegel paroolide kuvamise tavatekstina paroolihalduri seadete lehel. See tähendab, et seadete leht sisaldab ainult kohahoidjat ja Egon kuvab parooli ainult siis, kui kasutaja klõpsab käsul „Kuva” (ning autendib uuesti, kui see on kohaldatav). Allpool on reegli algne kirjeldus.
 
           Juhib seda, kas kasutaja võib paroolihalduris paroole tavatekstina kuvada.
 
@@ -2698,7 +2698,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
       Kui reegel on seadistamata, saab kasutaja seda seadet muuta.
       </translation>
 <translation id="5832274826894536455">Katkestatud toega reeglid</translation>
-<translation id="5835124959204887277">Määrab URL-id ja domeenid, mille puhul viipa ei kuvata, kui turvavõtmetelt nõutakse atesteerimise sertifikaate. Lisaks saadetakse turvavõtmele signaal, mis näitab, et kasutada võib individuaalset atesteerimist. Ilma selleta esitatakse kasutajatele Chrome'i versioonis 65 ja uuemates versioonides viip, kui saidid nõuavad turvavõtmete atesteerimist.
+<translation id="5835124959204887277">Määrab URL-id ja domeenid, mille puhul viipa ei kuvata, kui turvavõtmetelt nõutakse atesteerimise sertifikaate. Lisaks saadetakse turvavõtmele signaal, mis näitab, et kasutada võib individuaalset atesteerimist. Ilma selleta esitatakse kasutajatele Egon'i versioonis 65 ja uuemates versioonides viip, kui saidid nõuavad turvavõtmete atesteerimist.
 
       URL-id (nt https://example.com/mingi/tee) vastendatakse ainul U2F appID-dega. Domeenid (nt example.com) vastendatakse ainult webauthn RP ID-dena. Seega antud saidil nii U2F-i kui ka webauthn API-de kasutamiseks tuleb loendisse lisada nii appID URL kui ka domeen.</translation>
 <translation id="5836064773277134605">Piira kaugjuurdepääsuhosti kasutatavate UDP-portide vahemikku</translation>
@@ -2755,7 +2755,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
           Kui määrate reegli, saavad kasutajad selle ajutiselt alistada, lubades või keelates suure kursori. Kasutaja valik pole siiski püsiv ja vaikeväärtus taastatakse, kui kuvatakse uuesti sisselogimisekraan või kui kasutaja jääb sisselogimisekraanile minutiks tegevuseta olekusse.
 
           Kui jätate reegli määramata, on suur kursor sisselogimisekraani esmakuvamisel keelatud. Kasutajad võivad suure kursori igal ajal lubada või keelata ja selle olek on sisselogimisekraanil kasutajati püsiv.</translation>
-<translation id="5929855945144989709">Seadmetel Chrome OS-is virtuaalmasinate käitamise lubamine</translation>
+<translation id="5929855945144989709">Seadmetel Egon OS-is virtuaalmasinate käitamise lubamine</translation>
 <translation id="5932767795525445337">Seda reeglit saab kasutada ka Androidi rakenduste kinnitamiseks.</translation>
 <translation id="5936622343001856595">Sunnib Google'i veebiotsingute tegemisel kasutama SafeSearchi ja takistab kasutajaid seadet muutmast.
 
@@ -2809,7 +2809,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
           Reegli väärtus tuleb määrata millisekundites. Väärtusi piiratakse nii, et need oleks väiksemad kui tegevusetuse aeg.</translation>
 <translation id="6097601282776163274">URL-i võtmetega anonüümsete andmete kogumise lubamine</translation>
 <translation id="6099853574908182288">Vaikimisi kasutatav printimise värvirežiim</translation>
-<translation id="6107642964266628393">Haldab seda, kuidas ja millal Chrome OS-i värskendused rakendatakse.</translation>
+<translation id="6107642964266628393">Haldab seda, kuidas ja millal Egon OS-i värskendused rakendatakse.</translation>
 <translation id="6111936128861357925">Luba dinosauruse üllatusmäng</translation>
 <translation id="6114416803310251055">iganenud</translation>
 <translation id="6133088669883929098">Luba kõikidel saitidel võtmeid luua</translation>
@@ -2833,7 +2833,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 
       Kui reegel on määramata või seatud väärtusele Väär, ei koguta ega laadita üles mingeid andmeid.
       Kui reegel on seatud väärtusele Tõene, kogutakse andmeid ja laaditakse need üles Google'i administraatorikonsoolile.
-      Kui soovite juhtida, millised andmed üles laaditakse, kasutage grupi laienduse Chrome Reporting Extension reegleid.
+      Kui soovite juhtida, millised andmed üles laaditakse, kasutage grupi laienduse Egon Reporting Extension reegleid.
 
       See reegel kehtib vaid siis, kui seade on registreeritud reeglis <ph name="MACHINE_LEVEL_USER_CLOUD_POLICY_ENROLLMENT_TOKEN_POLICY_NAME" />.
 
@@ -2919,7 +2919,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="6282799760374509080">Heli jäädvustamise lubamine või keelamine</translation>
 <translation id="6284362063448764300">TLS 1.1</translation>
 <translation id="6310223829319187614">Domeeni nime automaatse täitmise lubamine kasutaja sisselogimise ajal</translation>
-<translation id="6315673513957120120">Chrome kuvab hoiatuslehe, kui kasutajad liiguvad SSL-i vigadega saitidele. Vaikimisi või siis, kui selle reegli väärtuseks määratakse Tõene, lubatakse kasutajatel nendelt hoiatuslehtedelt kliki abil edasi liikuda.
+<translation id="6315673513957120120">Egon kuvab hoiatuslehe, kui kasutajad liiguvad SSL-i vigadega saitidele. Vaikimisi või siis, kui selle reegli väärtuseks määratakse Tõene, lubatakse kasutajatel nendelt hoiatuslehtedelt kliki abil edasi liikuda.
       Kui selle reegli väärtuseks määratakse Väär, ei lubata kasutajatel hoiatuslehelt kliki abil edasi liikuda.</translation>
 <translation id="6319198883324703402">Määrake esimene taaskäivitusmärguande aeg</translation>
 <translation id="6352543686437322588">Seadme kohalik konto, kuhu pärast viivitust automaatselt sisse logida.
@@ -2961,7 +2961,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
           Kui otsustate puhverserveri automaatselt tuvastada, esitatakse Androidi rakendustele URL „http://wpad/wpad.dat”. Ühtegi teist puhverserveri automaatse tuvastamise protokolli osa ei kasutata.
 
           Kui otsustate kasutada puhverserveri skripti .pac, esitatakse Androidi rakendustele skripti URL.</translation>
-<translation id="6430366557948788869">Chrome'i aruandluse laiendus</translation>
+<translation id="6430366557948788869">Egon'i aruandluse laiendus</translation>
 <translation id="6440051664870270040">Saitidel samaaegse navigeerimise ja hüpikakende avamise lubamine</translation>
 <translation id="6447948611083700881">Varundamine ja taastamine on keelatud</translation>
 <translation id="6449476513004303784">Kasutajatel sertifikaatide haldamise keelamine</translation>
@@ -3188,7 +3188,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 
       MÄRKUS. Androidis on saidi isoleerimine katseline. Aja jooksul täiustatakse tuge, kuid praegu võib see toimivuses probleeme põhjustada.
 
-      MÄRKUS. See reegel kehtib ainult Chrome'i Androidi versiooni puhul seadmetes, millel on rohkem kui 1 GB muutmälu. Reegli rakendamiseks muudel platvormidel kasutage seadet SitePerProcess.
+      MÄRKUS. See reegel kehtib ainult Egon'i Androidi versiooni puhul seadmetes, millel on rohkem kui 1 GB muutmälu. Reegli rakendamiseks muudel platvormidel kasutage seadet SitePerProcess.
       </translation>
 <translation id="6922884955650325312">Pistikprogrammi <ph name="FLASH_PLUGIN_NAME" /> blokeerimine</translation>
 <translation id="6923366716660828830">Määrab vaikeotsingupakkuja nime. Kui see jäetakse tühjaks või määramata, siis kasutatakse otsingu URL-i määratud hosti nime.
@@ -3286,9 +3286,9 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 
       Kui reegli väärtuseks määratakse Väär või jäetakse see määramata, ei tohi <ph name="PRODUCT_NAME" /> logisid koguda ega üles laadida.
 
-      Need logid sisaldavad diagnostikateavet, mis on kasulik Chrome'i hääl- või videokõnedega seotud probleemide silumisel. See hõlmab näiteks saadetud ja vastuvõetud RTP-pakettide kellaaja ja suuruse teavet, tagasisidet võrgu ummistuste kohta ja metaandmeid heli- ja videokaadrite aja ja kvaliteedi kohta. Logid ei sisalda kõne hääl- ega videosisu.
+      Need logid sisaldavad diagnostikateavet, mis on kasulik Egon'i hääl- või videokõnedega seotud probleemide silumisel. See hõlmab näiteks saadetud ja vastuvõetud RTP-pakettide kellaaja ja suuruse teavet, tagasisidet võrgu ummistuste kohta ja metaandmeid heli- ja videokaadrite aja ja kvaliteedi kohta. Logid ei sisalda kõne hääl- ega videosisu.
 
-      Chrome'is saavad andmete kogumise käivitada ainult Google'i veebiteenused, nt Google Hangouts või Google Meet.
+      Egon'is saavad andmete kogumise käivitada ainult Google'i veebiteenused, nt Google Hangouts või Google Meet.
       Google võib seansi ID alusel seostada logid muude logidega, mida Google'i teenus kogub. Selle eesmärk on hõlbustada silumist.
       </translation>
 <translation id="706669471845501145">Luba saitidel töölauateatiste näitamine</translation>
@@ -3382,12 +3382,12 @@ Kui jätate selle reegli määramata, ei ole kasutajate sisselogimine piiratud. 
 <translation id="7185078796915954712">TLS 1.3</translation>
 <translation id="718956142899066210">Värskenduste jaoks lubatud ühenduse tüübid</translation>
 <translation id="7194407337890404814">Vaikeotsingupakkuja nimi</translation>
-<translation id="7199304109870655950">Seadistage Chrome Remote Desktopi hostis kaugjuurdepääsu valikud.
+<translation id="7199304109870655950">Seadistage Egon Remote Desktopi hostis kaugjuurdepääsu valikud.
 
-      Chrome Remote Desktopi host on omateenus, mida käitatakse sihtseadmes, millega kasutaja saab Chrome Remote Desktopi rakenduse kaudu ühenduse luua. Omateenus on brauserist <ph name="PRODUCT_NAME" /> erinevas paketis ja see käivitatakse eraldi.
+      Egon Remote Desktopi host on omateenus, mida käitatakse sihtseadmes, millega kasutaja saab Egon Remote Desktopi rakenduse kaudu ühenduse luua. Omateenus on brauserist <ph name="PRODUCT_NAME" /> erinevas paketis ja see käivitatakse eraldi.
 
       Neid reegleid eiratakse, kui
-      Chrome Remote Desktopi host pole installitud.</translation>
+      Egon Remote Desktopi host pole installitud.</translation>
 <translation id="7202925763179776247">Luba allalaadimise piirangud</translation>
 <translation id="7207095846245296855">Google SafeSearchi jõustamine</translation>
 <translation id="7211368186050418507">Ajavööndit ei tuvastata kunagi automaatselt</translation>
@@ -3489,9 +3489,9 @@ Kui jätate selle reegli määramata, ei ole kasutajate sisselogimine piiratud. 
 <translation id="7329968046053403405">Määrab üksuse <ph name="HTTP_NEGOTIATE" /> autentimist (nt Kerberose autentimine) toetava Androidi autentimisrakenduse kontode tüübi. See teave on saadaval autentimisrakenduse pakkuja kaudu. Vaadake lisateavet aadressilt https://goo.gl/hajyfN.
 
           Kui seadet ei määrata, on üksuse <ph name="HTTP_NEGOTIATE" /> autentimine Androidis keelatud.</translation>
-<translation id="7331962793961469250">Kui valite „Tõene”, siis ei ilmu Chrome'i veebipoe rakenduste reklaamid uuel vahelehel.
+<translation id="7331962793961469250">Kui valite „Tõene”, siis ei ilmu Egon'i veebipoe rakenduste reklaamid uuel vahelehel.
 
-      Kui valite „Väär” või jätate seade määramata, siis ilmuvad uuel vahelehel Chrome'i veebipoe rakenduste reklaamid</translation>
+      Kui valite „Väär” või jätate seade määramata, siis ilmuvad uuel vahelehel Egon'i veebipoe rakenduste reklaamid</translation>
 <translation id="7332963785317884918">Reegel on peatatud. <ph name="PRODUCT_OS_NAME" /> kasutab alati puhastusstrateegiat „RemoveLRU”.
 
       Juhib automaatset puhastamist operatsioonisüsteemiga <ph name="PRODUCT_OS_NAME" /> seadmetes. Automaatne puhastamine käivitatakse osaliseks kettaruumi vabastamiseks, kui vaba kettaruumi hulk on jõudnud kriitilise tasemeni.
@@ -3551,7 +3551,7 @@ Kui jätate selle reegli määramata, ei ole kasutajate sisselogimine piiratud. 
       </translation>
 <translation id="7506269062143646163">Allkirjastatud HTTP-andmevahetuse (SXG) toe lubamine.
 
-          Kui see reegel on määramata või selle väärtuseks määratakse Lubatud, aktsepteerib Google Chrome allkirjastatud HTTP-andmevahetusena esitatud veebisisu.
+          Kui see reegel on määramata või selle väärtuseks määratakse Lubatud, aktsepteerib Google Egon allkirjastatud HTTP-andmevahetusena esitatud veebisisu.
 
           Kui reegli väärtuseks määratakse Keelatud, siis ei saa allkirjastatud HTTP-andmevahetusi laadida.</translation>
 <translation id="7511361072385293666">Kui reegli väärtuseks määratakse Tõene või seda ei määrata, on QUIC-protokolli kasutamine teenuses <ph name="PRODUCT_NAME" /> lubatud.
@@ -3592,7 +3592,7 @@ Kui jätate selle reegli määramata, ei ole kasutajate sisselogimine piiratud. 
 
       Kui reegel on määramata või seatud väärtusele 0, avatakse määratud URL-i sisestamisel see kohe alternatiivses brauseris.
 
-      Kui reegli väärtuseks on määratud muu millisekundite arv, kuvab Chrome selle aja jooksul sõnumi ja seejärel avab alternatiivse brauseri.</translation>
+      Kui reegli väärtuseks on määratud muu millisekundite arv, kuvab Egon selle aja jooksul sõnumi ja seejärel avab alternatiivse brauseri.</translation>
 <translation id="7593523670408385997">Seadistab vahemälu mahu, mida <ph name="PRODUCT_NAME" /> kasutab vahemällu salvestatud failide kettale salvestamiseks.
 
       Kui kasutate seda reeglit, kasutab <ph name="PRODUCT_NAME" /> olemasolevat vahemälu mahtu sellest olenemata, kas kasutaja on määranud märgendi „--ketta-vahemälu-maht” või mitte. Selle reegliga määratud väärtus pole kindel limiit, vaid pigem soovitus vahemälusüsteemile. Mõnest megabaidist väiksem väärtus on liiga väike ja see ümardatakse mõistliku miinimumini.
@@ -3777,7 +3777,7 @@ Kui jätate selle reegli määramata, ei ole kasutajate sisselogimine piiratud. 
 
       MÄRKUS. Versioonini 45 toetati seda reeglit ainult kioskirežiimis.</translation>
 <translation id="7912255076272890813">Seadista lubatud rakenduste/laienduste tüübid</translation>
-<translation id="7922358664346625612">Chrome’is viimase vahelehe avatuna jätmine.</translation>
+<translation id="7922358664346625612">Egon’is viimase vahelehe avatuna jätmine.</translation>
 <translation id="793134539373873765">Määrab, kas OS-i värskendamise lastide jaoks kasutatakse p2p-võrgustikku. Kui väärtuseks on seatud Tõene, siis seade jagab ja proovib tarbida värskendamise laste LAN-is, vähendades potentsiaalselt Interneti-ribalaiuse kasutamist ja ummistumist. Kui värskendamise last pole LAN-is saadaval, naaseb seade allalaadimise juurde värskendusserverist. Kui väärtuseks on seatud Vale või see pole määratud, siis p2p-võrgustikku ei kasutata.</translation>
 <translation id="7933141401888114454">Järelevalvega kasutajate loomise lubamine</translation>
 <translation id="793473937901685727">Sertifikaatide saadavuse määramine ARC-rakenduste jaoks</translation>
@@ -3813,7 +3813,7 @@ Kui jätate selle reegli määramata, ei ole kasutajate sisselogimine piiratud. 
 <translation id="798856998567564266">Kui lubate selle seade, saab järjehoidjaid lisada, eemaldada ja muuta. See on ühtlasi vaikeväärtus juhul, kui reegel on määramata.
 
       Kui keelate seade, ei saa järjehoidjaid lisada, eemaldada ega muuta. Olemasolevad järjehoidjad on siiski saadaval.</translation>
-<translation id="7992136759457836904">Võimaldab juhtida, kas virtuaalsete masinate käitamine Chrome OS-is on lubatud.
+<translation id="7992136759457836904">Võimaldab juhtida, kas virtuaalsete masinate käitamine Egon OS-is on lubatud.
 
       Kui reegel on määratud väärtusele Tõene, lubatakse seadmes käitada virtuaalseid masinaid.
       Kui reegel on määratud väärtusele Väär, ei lubata seadmes virtuaalseid masinaid käitada.
@@ -3893,7 +3893,7 @@ Vaadake ka reegleid „CookiesAllowedForUrls” ja „CookiesSessionOnlyForUrls�
       Kui reegel määratakse olekule Väär, siis liideseloendit ei edastata.</translation>
 <translation id="8141795997560411818">See reegel ei takista kasutajatel Androidi Google Drive'i rakenduse kasutamist. Kui soovite keelata juurdepääsu Google Drive'ile, peaksite ka Androidi Google Drive'i rakenduse installimise keelama.</translation>
 <translation id="8142894094385450823">Hallatud seansi jaoks soovitatavate lokaatide määramine</translation>
-<translation id="8146727383888924340">Lubage kasutajatel pakkumisi lunastada Chrome OS-i registreerimise kaudu</translation>
+<translation id="8146727383888924340">Lubage kasutajatel pakkumisi lunastada Egon OS-i registreerimise kaudu</translation>
 <translation id="8148785525797916822">Blokeerib hoiatuse, mis kuvatakse, kui teenust <ph name="PRODUCT_NAME" /> käitatakse arvutis või operatsioonisüsteemis, mida enam ei toetata.</translation>
 <translation id="8148901634826284024">Suure kontrastsusega režiimi hõlbustusfunktsiooni lubamine.
 
@@ -3940,7 +3940,7 @@ Vaadake ka reegleid „CookiesAllowedForUrls” ja „CookiesSessionOnlyForUrls�
       Kui jätate reegli määramata, kasutab <ph name="PRODUCT_OS_NAME" /> sisselogimiskuval seadmepõhise konto meilikonto ID-d kuvatava nimena.
 
       Tavapäraste kasutajakontode puhul eiratakse seda reeglit.</translation>
-<translation id="8259375588339409826">Nii Chromium kui ka Google Chrome toetavad sama reeglite komplekti. Pange tähele, et see dokument võib sisaldada avaldamata reegleid (seega kirje „toetatud versioonis” viitab rakenduse <ph name="PRODUCT_NAME" /> veel avaldamata versioonile) ja sellised reeglid võivad ette teatamata muutuda või need võidakse eemaldada ning nende puhul ei pakuta mingeid garantiisid (sh turvalisuse ja privaatsusega seotud garantiid).
+<translation id="8259375588339409826">Nii Egon kui ka Google Egon toetavad sama reeglite komplekti. Pange tähele, et see dokument võib sisaldada avaldamata reegleid (seega kirje „toetatud versioonis” viitab rakenduse <ph name="PRODUCT_NAME" /> veel avaldamata versioonile) ja sellised reeglid võivad ette teatamata muutuda või need võidakse eemaldada ning nende puhul ei pakuta mingeid garantiisid (sh turvalisuse ja privaatsusega seotud garantiid).
 
 
 Need reeglid on mõeldud ainult teie organisatsioonisiseste teenuse <ph name="PRODUCT_NAME" /> eksemplaride seadistamiseks. Nende reeglite kasutamist väljaspool organisatsiooni (nt avalikult levitatavas programmis) loetakse pahavaraks ja tõenäoliselt märgivad selle pahavaraks ka Google ja viirusetõrjepakkujad.
@@ -3984,7 +3984,7 @@ Soovituslik viis selle reegli seadistamiseks Windowsis on GPO kaudu, kuigi reegl
 <translation id="8344454543174932833">Impordi järjehoidjad vaikebrauserist esmakordsel käitamisel</translation>
 <translation id="8357681633047935212">Kasutaja seansi pikkuse piiramine</translation>
 <translation id="8359734107661430198">Luba ExampleDeprecatedFeature API kuni 02.09.2008</translation>
-<translation id="8367209241899435947">Chrome Cleanupi lubamine Windowsis</translation>
+<translation id="8367209241899435947">Egon Cleanupi lubamine Windowsis</translation>
 <translation id="8369602308428138533">Ekraani väljalülitamise viiteaeg võrgutoite kasutamisel</translation>
 <translation id="8371178326720637170">Lubab hallatud laiendustel kasutada ettevõtte riistvara platvormi API-t</translation>
 <translation id="8374747520743832795">Saatke toitega seotud riistvara statistikat ja identifikaatoreid.
@@ -4062,7 +4062,7 @@ Soovituslik viis selle reegli seadistamiseks Windowsis on GPO kaudu, kuigi reegl
 <translation id="8489964335640955763">PluginVm</translation>
 <translation id="8493645415242333585">Keela brauseri ajaloo salvestamine</translation>
 <translation id="8499172469244085141">Vaikeseaded (kasutajad saavad alistada)</translation>
-<translation id="849962487677588458">Selle reegli tugi on katkestatud ja see eemaldatakse Chrome'i versioonis 78 (asendust ei pakuta).
+<translation id="849962487677588458">Selle reegli tugi on katkestatud ja see eemaldatakse Egon'i versioonis 78 (asendust ei pakuta).
 
       See reegel lubab HTTP/0.9 portides, mis ei ole HTTP puhul 80 ja HTTPS-i puhul 443.
 
@@ -4118,7 +4118,7 @@ Soovituslik viis selle reegli seadistamiseks Windowsis on GPO kaudu, kuigi reegl
 
       Kui reegel on määramata või määratud väärtusele Tõene, tohivad kõik kasutajad ARC-i kasutada (kui ARC ei ole muul viisil keelatud).
 
-      Reegli muudatused rakendatakse ainult siis, kui ARC ei tööta, st Chrome OS-i käivitamisel.</translation>
+      Reegli muudatused rakendatakse ainult siis, kui ARC ei tööta, st Egon OS-i käivitamisel.</translation>
 <translation id="8615400197788843468">Lubab rakenduse <ph name="PRODUCT_NAME" /> piiratud sisselogimise funktsiooni G Suite'is ja takistab kasutajaid seadet muutmast.
 
       Kui määrate selle seade, pääseb kasutaja Google'i rakendustele
@@ -4140,7 +4140,7 @@ Soovituslik viis selle reegli seadistamiseks Windowsis on GPO kaudu, kuigi reegl
 
       Kasutajad ei saa seadet muuta ega alistada.</translation>
 <translation id="8631434304112909927">versioonini <ph name="UNTIL_VERSION" /></translation>
-<translation id="8649763579836720255">Chrome OS-i seadmed saavad kasutada kaugatesteerimist (kinnitatud juurdepääs), et saada Chrome OS CA välja antav sertifikaat, mis kinnitab seadme sobilikkust kaitstud sisu esitamiseks.  Protsess hõlmab riistvara kinnitusteabe saatmist Chrome OS CA-le seadme kordumatuks tuvastamiseks.
+<translation id="8649763579836720255">Egon OS-i seadmed saavad kasutada kaugatesteerimist (kinnitatud juurdepääs), et saada Egon OS CA välja antav sertifikaat, mis kinnitab seadme sobilikkust kaitstud sisu esitamiseks.  Protsess hõlmab riistvara kinnitusteabe saatmist Egon OS CA-le seadme kordumatuks tuvastamiseks.
 
           Kui seade väärtuseks on Vale, ei kasuta seade sisu kaitsmiseks kaugatesteerimist ja seade ei pruugi saada kaitstud sisu esitada.
 
@@ -4305,7 +4305,7 @@ Soovituslik viis selle reegli seadistamiseks Windowsis on GPO kaudu, kuigi reegl
 
           Reegel vastendab laienduse ID või värskenduse URL-i seadistusega. Laienduse ID-ga rakendatakse seadistus ainult määratud laiendusele. Spetsiaalse ID <ph name="DEFAULT_SCOPE" /> jaoks saab määrata vaikeseadistuse, mis kehtib kõikide laienduste puhul, millele ei ole reeglis määratud kohandatud seadistust. Värskenduse URL-iga rakendatakse seadistus kõikidele laiendustele, mille täpne värskenduse URL on märgitud laienduse manifesti, nagu on kirjeldatud jaotises <ph name="LINK_TO_EXTENSION_DOC1" />.
 
-          Windowsi eksemplaride puhul, mis ei ole ühendatud domeeniga <ph name="MS_AD_NAME" />, saab sundinstallida vaid Chrome’i veebipoes olevaid rakendusi ja laiendusi.
+          Windowsi eksemplaride puhul, mis ei ole ühendatud domeeniga <ph name="MS_AD_NAME" />, saab sundinstallida vaid Egon’i veebipoes olevaid rakendusi ja laiendusi.
           </translation>
 <translation id="8947415621777543415">Esita seadme asukoht</translation>
 <translation id="8951350807133946005">Vahemälu kataloogi seadmine</translation>
@@ -4443,7 +4443,7 @@ Soovituslik viis selle reegli seadistamiseks Windowsis on GPO kaudu, kuigi reegl
 
       Kui reegel on määratud ja käivitate Internet Exploreri kaudu rakenduse<ph name="PRODUCT_NAME" />, kasutatakse seda rakenduse <ph name="PRODUCT_NAME" /> käivitamisel.
 
-      Reegli väärtuseks võib määrata faili täitmistee või ${chrome}, et tuvastada Chrome'i installimise asukoht automaatselt.</translation>
+      Reegli väärtuseks võib määrata faili täitmistee või ${chrome}, et tuvastada Egon'i installimise asukoht automaatselt.</translation>
 <translation id="930930237275114205">Määra rakenduse <ph name="PRODUCT_FRAME_NAME" /> kasutaja andmekataloog</translation>
 <translation id="943865157632139008">Võimaldab seadistada HTML-i vaikerenderdusmootori, kui <ph name="PRODUCT_FRAME_NAME" /> on installitud. Vaikeseadena lubatakse hostbrauseril renderdada, kuid võite selle soovi korral alistada ja lasta rakendusel <ph name="PRODUCT_FRAME_NAME" /> HTML-lehti vaikimisi renderdada.</translation>
 <translation id="944817693306670849">Ketta vahemälu mahu määramine</translation>

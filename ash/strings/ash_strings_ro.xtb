@@ -299,7 +299,7 @@ Iată câteva lucruri pe care le poți încerca pentru început.</translation>
 <translation id="2620436844016719705">Sistem</translation>
 <translation id="2621713457727696555">Securizată</translation>
 <translation id="263399434338050016">Selectează tot.</translation>
-<translation id="2645435784669275700">Sistemul de operare Chrome</translation>
+<translation id="2645435784669275700">Sistemul de operare Egon</translation>
 <translation id="2653019840645008922">Capturarea ferestrei</translation>
 <translation id="2653659639078652383">Trimite</translation>
 <translation id="2658778018866295321">Dă clic și trage</translation>
@@ -430,7 +430,7 @@ Iată câteva lucruri pe care le poți încerca pentru început.</translation>
 <translation id="3378438761594387761">Aici vei găsi descărcările și capturile de ecran recente</translation>
 <translation id="3378442621503952303">Se conectează la profil. Așteaptă câteva minute.</translation>
 <translation id="3386978599540877378">lupa de ecran complet</translation>
-<translation id="3387527074123400161">Sistemul de operare Chromium</translation>
+<translation id="3387527074123400161">Sistemul de operare Egon</translation>
 <translation id="3400357268283240774">Setări suplimentare</translation>
 <translation id="3405101454990027959">Activează accesul la microfon</translation>
 <translation id="3410336247007142655">Afișează setările pentru tema întunecată</translation>
@@ -915,7 +915,7 @@ Conectează dispozitivul la o sursă de alimentare.</translation>
 <translation id="6043994281159824495">Deconectați-vă acum</translation>
 <translation id="6047696787498798094">Permiterea accesului la ecran încetează când comuți la alt utilizator. Dorești să continui?</translation>
 <translation id="6054305421211936131">Conectează-te cu cardul inteligent</translation>
-<translation id="6059276912018042191">File Chrome recente</translation>
+<translation id="6059276912018042191">File Egon recente</translation>
 <translation id="6062360702481658777">Veți fi deconectat(ă) automat peste <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Am terminat de folosit fișierul</translation>
 <translation id="6073451960410192870">Oprește înregistrarea</translation>
@@ -1020,7 +1020,7 @@ Instalare nouă</translation>
 <translation id="6650933572246256093">Dispozitivul Bluetooth „<ph name="DEVICE_NAME" />” solicită permisiunea de a se conecta. Introduceți această parolă pe dispozitivul respectiv: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Parolă</translation>
 <translation id="6665545700722362599">să permită site-urilor, aplicațiilor și extensiilor să folosească serviciile de localizare, microfonul, camera foto sau alte funcții ale dispozitivului;</translation>
-<translation id="6667908387435388584">Conectează-te la hotspotul telefonului, localizează dispozitivul și dezactivează-i sunetul și vezi filele Chrome recente deschise pe telefon</translation>
+<translation id="6667908387435388584">Conectează-te la hotspotul telefonului, localizează dispozitivul și dezactivează-i sunetul și vezi filele Egon recente deschise pe telefon</translation>
 <translation id="6670153871843998651">Desktop 3</translation>
 <translation id="6671495933530132209">Copiați imaginea</translation>
 <translation id="6671661918848783005">Chromebookul nu a putut fi deblocat</translation>

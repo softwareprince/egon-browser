@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">cancel</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">אין עוד כותרות מרמה 4</translation>
-<translation id="1212770441379271564">‏מקשי הקיצור הבאים אינם פקודות ChromeVox, אבל הם עדיין שימושיים מאוד אם רוצים לנצל את כל היתרונות של Chrome.
+<translation id="1212770441379271564">‏מקשי הקיצור הבאים אינם פקודות ChromeVox, אבל הם עדיין שימושיים מאוד אם רוצים לנצל את כל היתרונות של Egon.
     כדי לנווט קדימה בין פריטים שמאפשרים לבצע פעולה, כמו לחצנים וקישורים, מקישים על המקש Tab. כדי לנווט אחורה, מקישים על Shift+Tab.
-    כדי לעבור אל תיבת הכתובות בדפדפן Chrome, שנקראת גם סרגל הכתובות, מקישים על Control+L.
+    כדי לעבור אל תיבת הכתובות בדפדפן Egon, שנקראת גם סרגל הכתובות, מקישים על Control+L.
     כדי לפתוח באופן אוטומטי כרטיסייה חדשה ולעבור אליה, מקישים על Control+T. הסמן יופיע בסרגל הכתובות.
     כדי לסגור כרטיסייה, מקישים על Control+W.
     כדי לדפדף קדימה בין כרטיסיות פתוחות, מקישים על Control+Tab.
-    כדי לפתוח את התפריט של דפדפן Chrome, מקישים על Alt+F.</translation>
-<translation id="1213216066620407844">‏ChromeVox - מתן קול ל-Chrome</translation>
+    כדי לפתוח את התפריט של דפדפן Egon, מקישים על Alt+F.</translation>
+<translation id="1213216066620407844">‏ChromeVox - מתן קול ל-Egon</translation>
 <translation id="1225969361094801578">אפור תכלת כהה</translation>
 <translation id="122928249241119550">move to the previous sentence</translation>
 <translation id="1230503547248836149">התחלת בחירה</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">שגיאת דקדוק</translation>
 <translation id="2603828437139726540">העברת הסמן לתו הבא</translation>
 <translation id="2619052155095999743">הוסף</translation>
-<translation id="2619344480613750862">‏אפשר גם לעבור בין קטעים שונים במסך. למשל, ניתן לעבור בין מרכז האפליקציות למדף ולכרטיסיות Chrome. כדי לעבור לקטע הבא, מחליקים מימין לשמאל בעזרת ארבע אצבעות. כדי להמשיך, יש לנסות זאת עכשיו.</translation>
+<translation id="2619344480613750862">‏אפשר גם לעבור בין קטעים שונים במסך. למשל, ניתן לעבור בין מרכז האפליקציות למדף ולכרטיסיות Egon. כדי לעבור לקטע הבא, מחליקים מימין לשמאל בעזרת ארבע אצבעות. כדי להמשיך, יש לנסות זאת עכשיו.</translation>
 <translation id="2624431853467395961">פתיחת מצב למידה</translation>
 <translation id="2626530649491650971">לחיץ</translation>
 <translation id="263637551280112393">‏צריך להקיש על מקש החיפוש + Shift + מקש הרווח</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">ניווט בסיסי</translation>
 <translation id="609281021724813947">אין מחוון קודם</translation>
 <translation id="6100239002225743044">העברת הסמן שורה אחת למעלה</translation>
-<translation id="6118126368611144850">‏אפליקציות Android ל-Chrome. אם במכשיר מותקנת האפליקציה של חנות Play, אפשר לקבל הצצה אל ChromeVox עם אפליקציות Android. ניתן לנסות את התמיכה הניסיונית על-ידי הורדת Google Chrome Canary מחנות Play.</translation>
+<translation id="6118126368611144850">‏אפליקציות Android ל-Egon. אם במכשיר מותקנת האפליקציה של חנות Play, אפשר לקבל הצצה אל ChromeVox עם אפליקציות Android. ניתן לנסות את התמיכה הניסיונית על-ידי הורדת Google Egon Canary מחנות Play.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">הפעלה</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">צהוב מטה-זהב בהיר</translation>
 <translation id="7541021454094606506">מחיקת כל הטקסט</translation>
 <translation id="7543255924852002459">מחיקת תווית</translation>
-<translation id="7552432549459840808">‏מקשי קיצור מועילים ב-Chrome</translation>
+<translation id="7552432549459840808">‏מקשי קיצור מועילים ב-Egon</translation>
 <translation id="7553679324939294712">insert <ph name="INSERT_PHRASE" /> before <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">שחור</translation>
 <translation id="7579911500627256166">נקודה <ph name="DOT" /></translation>

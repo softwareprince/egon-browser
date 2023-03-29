@@ -15,21 +15,21 @@
 <translation id="1091604859693995976">Endurnýja til að skoða</translation>
 <translation id="1095761715416917775">Vertu viss um að hafa alltaf aðgang að samtilltu gögnunum þínum</translation>
 <translation id="1100066534610197918">Opna á nýjum flipa í hópi</translation>
-<translation id="1103142993930332957">Viltu hjálpa við að bæta Chrome?</translation>
+<translation id="1103142993930332957">Viltu hjálpa við að bæta Egon?</translation>
 <translation id="1105960400813249514">Skjámyndataka</translation>
 <translation id="1108938384783527433">Samstilla feril</translation>
 <translation id="1110914759170138831">Áherslumerktur texti var styttur</translation>
 <translation id="1111673857033749125">Bókamerki vistuð í öðrum tækjum munu birtast hér.</translation>
 <translation id="1113597929977215864">Sýna einfaldað yfirlit</translation>
 <translation id="1118561384561215815">Fáðu hjálp við verkefni á vefnum</translation>
-<translation id="1123070903960493543">Samskipti þín við Chrome, stillingar sem þú velur, upplýsingar um hrun Chrome</translation>
+<translation id="1123070903960493543">Samskipti þín við Egon, stillingar sem þú velur, upplýsingar um hrun Egon</translation>
 <translation id="1126809382673880764">Ver þig ekki gegn hættulegum vefsvæðum, niðurhali eða viðbótum. Þú munt áfram geta notað örugga vefskoðun, þar sem hún er í boði, í annarri þjónustu Google á borð við Gmail og leit.</translation>
 <translation id="1129510026454351943">Upplýsingar: <ph name="ERROR_DESCRIPTION" /></translation>
 <translation id="1142732900304639782">Ekki bjóða upp á að þýða þessi vefsvæði</translation>
 <translation id="1145536944570833626">Eyða fyrirliggjandi gögnum.</translation>
 <translation id="1146678959555564648">Hefja sýndarveruleika</translation>
 <translation id="1149401351239820326">Fyrningarmánuður</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> opnast í Chrome. Með því að halda áfram samþykkirðu <ph name="BEGIN_LINK1" />þjónustuskilmála Google<ph name="END_LINK1" /> og <ph name="BEGIN_LINK2" />viðbótarþjónustuskilmála Google Chrome og ChromeOS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> opnast í Egon. Með því að halda áfram samþykkirðu <ph name="BEGIN_LINK1" />þjónustuskilmála Google<ph name="END_LINK1" /> og <ph name="BEGIN_LINK2" />viðbótarþjónustuskilmála Google Egon og ChromeOS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Síða ekki í boði án nettengingar: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Sjáðu vinsæl vefsvæði með því að ýta á hnappinn „Vinsælast“</translation>
 <translation id="1173894706177603556">Endurnefna</translation>
@@ -40,7 +40,7 @@
 <translation id="1201402288615127009">Áfram</translation>
 <translation id="1202892408424955784">Vaktaðar vörur</translation>
 <translation id="1204037785786432551">Hlaða niður tengli</translation>
-<translation id="1204692632633423444">Hnappur fyrir Chrome aðgerð: <ph name="ACTION" /></translation>
+<translation id="1204692632633423444">Hnappur fyrir Egon aðgerð: <ph name="ACTION" /></translation>
 <translation id="1206892813135768548">Afrita texta tengils</translation>
 <translation id="1208340532756947324">Kveiktu á samstillingu til að hafa allt samstillt og sérsniðið í tækjunum þínum</translation>
 <translation id="1209206284964581585">Fela í bili</translation>
@@ -48,7 +48,7 @@
 <translation id="1231733316453485619">Kveikja á samstillingu?</translation>
 <translation id="123724288017357924">Endurhlaða núverandi síðu, hunsa efni í skyndiminni</translation>
 <translation id="1239792311949352652">Deildu þessari síðu á skjótan hátt. Opnaðu stillingar til að breyta þessari flýtileið.</translation>
-<translation id="1240190568154816272">Ábendingar fyrir Chrome</translation>
+<translation id="1240190568154816272">Ábendingar fyrir Egon</translation>
 <translation id="1240288207750131269">Hleður <ph name="LANG" /></translation>
 <translation id="1240903469550363138">Til að halda áfram mun <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE" /> deila nafni þínu, netfangi og prófílmynd með þessu vefsvæði. Sjá <ph name="BEGIN_LINK1" />persónuverndarstefnu<ph name="END_LINK1" /> og <ph name="BEGIN_LINK2" />þjónustuskilmála<ph name="END_LINK2" /> vefsvæðisins.</translation>
 <translation id="124116460088058876">Fleiri tungumál</translation>
@@ -70,11 +70,11 @@
 <translation id="1316212908214730110">chrome_stylized_highlight_</translation>
 <translation id="1320912611264252795">Möppur vistunar bókamerkja opnaðar á öllum skjánum</translation>
 <translation id="1327257854815634930">Ferill er opinn</translation>
-<translation id="1331212799747679585">Ekki er hægt að uppfæra Chrome. Fleiri valkostir.</translation>
-<translation id="1332100670807501334">Auglýsingamælingar gera vefsvæðum sem þú opnar kleift að biðja Chrome um upplýsingar sem hjálpa vefsvæðinu að mæla afköst auglýsinga þess. Auglýsingamælingar takmarka rakningu á milli vefsvæða með því að flytja eins lítið magn upplýsinga á milli vefsvæða og mögulegt er.
+<translation id="1331212799747679585">Ekki er hægt að uppfæra Egon. Fleiri valkostir.</translation>
+<translation id="1332100670807501334">Auglýsingamælingar gera vefsvæðum sem þú opnar kleift að biðja Egon um upplýsingar sem hjálpa vefsvæðinu að mæla afköst auglýsinga þess. Auglýsingamælingar takmarka rakningu á milli vefsvæða með því að flytja eins lítið magn upplýsinga á milli vefsvæða og mögulegt er.
 
 Þegar þú eyðir vafraferlinum — í heild sinni eða fyrir tiltekið vefsvæði — er tengdum mæligögnum einnig eytt. Skoða <ph name="BEGIN_LINK" />vafraferil<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Flýtilyklar eiginleika Google Chrome</translation>
+<translation id="1332501820983677155">Flýtilyklar eiginleika Google Egon</translation>
 <translation id="1344653310988386453">Taka með tengil í merktan texta</translation>
 <translation id="1347468774581902829">Stjórna virkni</translation>
 <translation id="1360432990279830238">Skrá út og slökkva á samstillingu?</translation>
@@ -87,7 +87,7 @@
 <translation id="1386674309198842382">Virkt fyrir <ph name="LAST_UPDATED" /> dögum</translation>
 <translation id="13931502444227376">Til að halda áfram mun <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE" /> deila nafni þínu, netfangi og prófílmynd með þessu vefsvæði. Sjá <ph name="BEGIN_LINK1" />þjónustuskilmála<ph name="END_LINK1" /> þessa vefsvæðis.</translation>
 <translation id="1397811292916898096">Leita með <ph name="PRODUCT_NAME" /></translation>
-<translation id="139993653570221430">Þú getur skipt um skoðun hvenær sem er í stillingum Chrome. Prófanirnar eru keyrðar meðfram núverandi birtingu auglýsinga, og því sérðu breytingar ekki um leið.</translation>
+<translation id="139993653570221430">Þú getur skipt um skoðun hvenær sem er í stillingum Egon. Prófanirnar eru keyrðar meðfram núverandi birtingu auglýsinga, og því sérðu breytingar ekki um leið.</translation>
 <translation id="1406000523432664303">„Ekki rekja“</translation>
 <translation id="1407069428457324124">Dökkt þema</translation>
 <translation id="1407135791313364759">Opna alla</translation>
@@ -100,7 +100,7 @@
 <translation id="1437543266176261764">Keyrt í <ph name="APP_NAME" /></translation>
 <translation id="1448440926884431741">Notaðu bókamerki til að flokka vörur sem þú vaktar</translation>
 <translation id="1450753235335490080">Ekki er hægt að deila <ph name="CONTENT_TYPE" /></translation>
-<translation id="1466383950273130737">Velja tungumál Chrome</translation>
+<translation id="1466383950273130737">Velja tungumál Egon</translation>
 <translation id="1474893630593443211">Betri stjórn á auglýsingunum sem þú sérð</translation>
 <translation id="1477626028522505441">Niðurhal á <ph name="FILE_NAME" /> mistókst vegna vandamála á netþjóni.</translation>
 <translation id="148482509007564431">Vistun bókamerkja</translation>
@@ -117,8 +117,8 @@
 <translation id="1538801903729528855">Láttu röddina þjóna þér betur á vefnum</translation>
 <translation id="1544826120773021464">Til að hafa umsjón með Google reikningnum þínum skaltu velja hnappinn „Stjórna reikningi“</translation>
 <translation id="1549000191223877751">Færa í annan glugga</translation>
-<translation id="1553358976309200471">Uppfæra Chrome</translation>
-<translation id="1554532453982918912">Hjálpaðu okkur að bæta Chrome fyrir fólk sem notar það á sama hátt og þú</translation>
+<translation id="1553358976309200471">Uppfæra Egon</translation>
+<translation id="1554532453982918912">Hjálpaðu okkur að bæta Egon fyrir fólk sem notar það á sama hátt og þú</translation>
 <translation id="1558391695376153246">Loka huliðsflipum</translation>
 <translation id="1571304935088121812">Afrita notandanafn</translation>
 <translation id="1592864538817356322">Hefðbundin vörn:</translation>
@@ -128,13 +128,13 @@
 Í samræmi við notkun þína á vefsvæði getur viðkomandi vefsvæði úthlutað traustum lykli á vafrann þinn. Þetta virkar á svipaðan hátt og regluleg innskráning á reikning. Þegar önnur vefsvæði sem þú opnar síðar leita að og finna gildan traustan lykil er líklegra að viðkomandi vefsvæði skilgreini þig sem manneskju en ekki spjallara.
 
 Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til að persónugreina þig.</translation>
-<translation id="1627304841979541023"><ph name="BEGIN_BOLD" />Svona geturðu stjórnað gögnunum þínum:<ph name="END_BOLD" /> Til að gæta persónuverndar þinnar eyðum við áhugasviðunum þínum sem eru eldri en 4 vikna sjálfkrafa. Áhugasvið kann að birtast aftur á listanum þegar þú heldur áfram að vafra. Þú getur einnig fjarlægt áhugasvið sem þú vilt ekki að Chrome taki tillit til.</translation>
+<translation id="1627304841979541023"><ph name="BEGIN_BOLD" />Svona geturðu stjórnað gögnunum þínum:<ph name="END_BOLD" /> Til að gæta persónuverndar þinnar eyðum við áhugasviðunum þínum sem eru eldri en 4 vikna sjálfkrafa. Áhugasvið kann að birtast aftur á listanum þegar þú heldur áfram að vafra. Þú getur einnig fjarlægt áhugasvið sem þú vilt ekki að Egon taki tillit til.</translation>
 <translation id="1628019612362412531">{NUM_SELECTED,plural, =1{Fjarlægja 1 valið atriði}one{Fjarlægja # valið atriði}other{Fjarlægja # valin atriði}}</translation>
-<translation id="1633659023549081553">Uppgötvaðu nýtt efni á heimasíðu Chrome</translation>
+<translation id="1633659023549081553">Uppgötvaðu nýtt efni á heimasíðu Egon</translation>
 <translation id="1641113438599504367">Örugg vefnotkun</translation>
 <translation id="164269334534774161">Þú ert að skoða ónettengt afrit af þessari síðu frá <ph name="CREATION_TIME" /></translation>
 <translation id="1644574205037202324">Ferill</translation>
-<translation id="1668122540633280551">Veldu hvernig forskoðun myndskeiða spilast sjálfkrafa á heimasíðu Chrome.</translation>
+<translation id="1668122540633280551">Veldu hvernig forskoðun myndskeiða spilast sjálfkrafa á heimasíðu Egon.</translation>
 <translation id="1670399744444387456">Grunnatriði</translation>
 <translation id="1671236975893690980">Niðurhal í bið…</translation>
 <translation id="1672586136351118594">Ekki sýna þetta aftur</translation>
@@ -145,7 +145,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="1710099199314114079">Skipta um eða loka flipum</translation>
 <translation id="1718835860248848330">Undanfarna klukkustund</translation>
 <translation id="1724977129262658800">Taktu úr lás til að breyta aðgangsorðinu</translation>
-<translation id="1726477445370128854">Þú getur vafrað og leitað á hraðari hátt þegar Chrome forhleður síðum sem vafrinn telur að þú munir opna</translation>
+<translation id="1726477445370128854">Þú getur vafrað og leitað á hraðari hátt þegar Egon forhleður síðum sem vafrinn telur að þú munir opna</translation>
 <translation id="173522743738009831">Um Privacy Sandbox</translation>
 <translation id="1736419249208073774">Kanna</translation>
 <translation id="1749561566933687563">Samstilltu bókamerkin þín</translation>
@@ -161,27 +161,27 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="1829244130665387512">Finna á síðu</translation>
 <translation id="1832459821645506983">Já, ég vil vera með</translation>
 <translation id="1849863543394887018">Þú getur slökkt á tilkynningum í stillingum</translation>
-<translation id="1854311313115643875">Þegar kveikt er á prufuútgáfum gera auglýsingamælingar vefsvæðum sem þú opnar kleift að biðja Chrome um upplýsingar sem hjálpa vefsvæðinu að mæla afköst auglýsinga þess. Auglýsingamælingar takmarka rakningu á milli vefsvæða með því að flytja eins lítið magn upplýsinga á milli vefsvæða og mögulegt er.
+<translation id="1854311313115643875">Þegar kveikt er á prufuútgáfum gera auglýsingamælingar vefsvæðum sem þú opnar kleift að biðja Egon um upplýsingar sem hjálpa vefsvæðinu að mæla afköst auglýsinga þess. Auglýsingamælingar takmarka rakningu á milli vefsvæða með því að flytja eins lítið magn upplýsinga á milli vefsvæða og mögulegt er.
 
 Þegar þú eyðir vafraferlinum — í heild sinni eða fyrir tiltekið vefsvæði — er tengdum mæligögnum einnig eytt. Skoða <ph name="BEGIN_LINK" />vafraferil<ph name="END_LINK" />.</translation>
-<translation id="1877026089748256423">Chrome er úrelt</translation>
+<translation id="1877026089748256423">Egon er úrelt</translation>
 <translation id="1883903952484604915">Skrárnar mínar</translation>
 <translation id="189358972401248634">Önnur tungumál</translation>
 <translation id="1900260903084164610">Með því að halda áfram samþykkirðu <ph name="BEGIN_TOS_LINK" />þjónustuskilmálana<ph name="END_TOS_LINK" /></translation>
 <translation id="1904580727789512086">Vefslóðirnar sem þú opnar eru vistaðar á Google reikningnum þínum</translation>
 <translation id="1910950723001426294">Listi yfir deilingarvalkosti er lokaður.</translation>
 <translation id="1918175104945982129">Samþykkisviðmót raddleitar Hjálpara opið á hálfum skjánum</translation>
-<translation id="1919130412786645364">Leyfa innskráningu í Chrome</translation>
+<translation id="1919130412786645364">Leyfa innskráningu í Egon</translation>
 <translation id="1922362554271624559">Tillögur að tungumálum</translation>
 <translation id="1925021887439448749">Færðu inn sérsniðna vefslóð</translation>
 <translation id="1928696683969751773">Uppfærslur</translation>
-<translation id="19288952978244135">Opnaðu Chrome aftur.</translation>
+<translation id="19288952978244135">Opnaðu Egon aftur.</translation>
 <translation id="1933845786846280168">Valinn flipi</translation>
 <translation id="193571872656840963">Þakkaðu þessum höfundi fyrir</translation>
 <translation id="1943432128510653496">Vista aðgangsorð</translation>
 <translation id="1952172573699511566">Vefsvæði birta texta á því tungumáli sem þú hefur valið þegar hægt er.</translation>
 <translation id="1959679933317802873">Bíður eftir efni</translation>
-<translation id="1960290143419248813">Chrome uppfærslur eru ekki lengur studdar fyrir þessa útgáfu af Android</translation>
+<translation id="1960290143419248813">Egon uppfærslur eru ekki lengur studdar fyrir þessa útgáfu af Android</translation>
 <translation id="1963976881984600709">Hefðbundin vörn</translation>
 <translation id="1966710179511230534">Uppfærðu innskráningarupplýsingarnar þínar.</translation>
 <translation id="197288927597451399">Halda</translation>
@@ -195,7 +195,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="2013642289801508067">{FILE_COUNT,plural, =1{# skrá}one{# skrá}other{# skrár}}</translation>
 <translation id="2021896219286479412">Stýringar vefsvæðis á öllum skjá</translation>
 <translation id="2038563949887743358">Kveikja á beiðni um vefsvæði fyrir tölvur</translation>
-<translation id="204321170514947529"><ph name="APP_NAME" /> er einnig með gögn í Chrome</translation>
+<translation id="204321170514947529"><ph name="APP_NAME" /> er einnig með gögn í Egon</translation>
 <translation id="2046634576464120978">Skráning mistókst</translation>
 <translation id="2049574241039454490"><ph name="FILE_SIZE_OF_TOTAL" /> <ph name="SEPARATOR" /> <ph name="DESCRIPTION" /></translation>
 <translation id="2052422354554967744">Leita á netinu</translation>
@@ -213,13 +213,13 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="2122601567107267586">Ekki var hægt að opna forritið</translation>
 <translation id="2132122640199389833">Fjarlægja öll tengd tæki</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> lokað</translation>
-<translation id="2134927169889348449">Með því að nota Chrome samþykkir þú <ph name="BEGIN_TOS_LINK" />þjónustuskilmála Google<ph name="END_TOS_LINK" />og <ph name="BEGIN_ATOS_LINK" />viðbótarskilmála Google Chrome og ChromeOS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Með því að nota Egon samþykkir þú <ph name="BEGIN_TOS_LINK" />þjónustuskilmála Google<ph name="END_TOS_LINK" />og <ph name="BEGIN_ATOS_LINK" />viðbótarskilmála Google Egon og ChromeOS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Setja á heimaskjá</translation>
 <translation id="2141396931810938595">Miðað við notkun þína</translation>
-<translation id="214888715418183969">Veldu hverju þú vilt deila með Chrome. Mæligildin sem þú deilir verða notuð til að bæta eiginleika, afköst og stöðugleika Chrome.</translation>
+<translation id="214888715418183969">Veldu hverju þú vilt deila með Egon. Mæligildin sem þú deilir verða notuð til að bæta eiginleika, afköst og stöðugleika Egon.</translation>
 <translation id="2149973817440762519">Breyta bókamerki</translation>
 <translation id="2155214902713132423">Þessi staðfestingaraðferð er ekki í boði fyrir þetta tæki. Veldu annan valkost í hinu tækinu þínu.</translation>
-<translation id="2158408438301413340">Chrome gat ekki athugað öll aðgangsorð</translation>
+<translation id="2158408438301413340">Egon gat ekki athugað öll aðgangsorð</translation>
 <translation id="2172688499998841696">Slökkt er á lýsingum mynda</translation>
 <translation id="2172905120685242547">Loka glugga?</translation>
 <translation id="2175927920773552910">QR-kóði</translation>
@@ -246,7 +246,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="2323763861024343754">Geymsla vefsvæða</translation>
 <translation id="2328985652426384049">Innskráning mistókst</translation>
 <translation id="234265804618409743">Ekki tókst að opna myndavélina. Eitthvað fór úrskeiðis.</translation>
-<translation id="2349710944427398404">Gögn sem Chrome notar alls, þ.m.t. reikningar, bókamerki og vistaðar stillingar</translation>
+<translation id="2349710944427398404">Gögn sem Egon notar alls, þ.m.t. reikningar, bókamerki og vistaðar stillingar</translation>
 <translation id="2353636109065292463">Verið er að athuga nettenginguna</translation>
 <translation id="235789365079050412">Persónuverndarstefna Google</translation>
 <translation id="2359808026110333948">Halda áfram</translation>
@@ -263,14 +263,14 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="2453860139492968684">Ljúka</translation>
 <translation id="2459390580524506445">Betri raddleit</translation>
 <translation id="2461822463642141190">Núna</translation>
-<translation id="2472163211318554013">Skráðu þig inn til að fá sem mest út úr Chrome</translation>
+<translation id="2472163211318554013">Skráðu þig inn til að fá sem mest út úr Egon</translation>
 <translation id="247737702124049222">Kveikt er á lýsingum mynda</translation>
 <translation id="2482878487686419369">Tilkynningar</translation>
 <translation id="2485422356828889247">Fjarlægja</translation>
-<translation id="2494974097748878569">Google hjálpari í Chrome</translation>
+<translation id="2494974097748878569">Google hjálpari í Egon</translation>
 <translation id="2496180316473517155">Vafraferill</translation>
 <translation id="2497852260688568942">Kerfisstjóri hefur gert samstillingu óvirka</translation>
-<translation id="250020030759455918">Þú sérð innskráningarstöðu þína, vafragögn og vefsvæðagögn fyrir <ph name="SITE_NAME" /> í Chrome.</translation>
+<translation id="250020030759455918">Þú sérð innskráningarstöðu þína, vafragögn og vefsvæðagögn fyrir <ph name="SITE_NAME" /> í Egon.</translation>
 <translation id="2510106555128151389">Setur upp <ph name="WEBAPK_NAME" />…</translation>
 <translation id="2513403576141822879">Frekari upplýsingar sem tengjast persónuvernd, öryggi og gagnasöfnun má finna í <ph name="BEGIN_LINK" />Samstilling og sérstillingar<ph name="END_LINK" /></translation>
 <translation id="2517472476991765520">Leita</translation>
@@ -288,8 +288,8 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="2567545343356994513">Hraðari forvirk vörn gegn hættulegum vefsvæðum, niðurhali og viðbótum</translation>
 <translation id="2569733278091928697">Þú getur auðveldlega stjórnað efnisstýringum, huliðslotum, niðurhali og fleira</translation>
 <translation id="2571711316400087311">Bjóðast til að þýða síður á öðrum tungumálum í Google Translate</translation>
-<translation id="2573452357057307036">Kynntu þér hvernig þú gerir Chrome að sjálfgefnum vafra</translation>
-<translation id="2581165646603367611">Þetta mun eyða fótsporum, skyndiminni og öðrum gögnum frá vefsvæðum sem Chrome telur ekki mikilvæg.</translation>
+<translation id="2573452357057307036">Kynntu þér hvernig þú gerir Egon að sjálfgefnum vafra</translation>
+<translation id="2581165646603367611">Þetta mun eyða fótsporum, skyndiminni og öðrum gögnum frá vefsvæðum sem Egon telur ekki mikilvæg.</translation>
 <translation id="2587052924345400782">Nýrri útgáfa er í boði</translation>
 <translation id="2593272815202181319">Jafnbreitt</translation>
 <translation id="2604446170045642109">Þú getur slökkt á dökku þema fyrir vefsvæði í stillingunum.</translation>
@@ -337,12 +337,12 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="2842985007712546952">Yfirmappa</translation>
 <translation id="2856503607207334158">Innskráning mistókst</translation>
 <translation id="2860954141821109167">Gakktu úr skugga um að símaforritið sé virkt í þessu tæki</translation>
-<translation id="2861923151411510142">Tilteknir Chrome eiginleikar verða ekki tiltækir lengur</translation>
+<translation id="2861923151411510142">Tilteknir Egon eiginleikar verða ekki tiltækir lengur</translation>
 <translation id="2870560284913253234">Vefsvæði</translation>
 <translation id="2871733351037274014">Forhlaða síðum</translation>
 <translation id="2876136027428473467"><ph name="CHILD_NAME" /> biður þig um að samþykkja þetta vefsvæði:</translation>
 <translation id="2886836735871983413">Listi yfir vefsvæði mun birtast hér þegar þú vafrar um vefinn</translation>
-<translation id="2888126860611144412">Um Chrome</translation>
+<translation id="2888126860611144412">Um Egon</translation>
 <translation id="2891154217021530873">Stöðva hleðslu síðu</translation>
 <translation id="2893180576842394309">Google notar hugsanlega ferilinn þinn til að sérsníða leitina og aðra þjónustu Google</translation>
 <translation id="2900528713135656174">Búa til viðburð</translation>
@@ -355,10 +355,10 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="2923908459366352541">Nafnið er ógilt</translation>
 <translation id="2932150158123903946">Google <ph name="APP_NAME" /> geymslurými</translation>
 <translation id="2932222164150889403">Lyklaborðið þitt breytist ekki</translation>
-<translation id="2936980480904111527">Chrome tilkynningar auðvelda málin</translation>
+<translation id="2936980480904111527">Egon tilkynningar auðvelda málin</translation>
 <translation id="2940075786175545812">Valkostur til að samþykkja eða samþykkja ekki vefsvæði</translation>
 <translation id="2942036813789421260">Forskoðunarflipi er lokaður</translation>
-<translation id="2946420957526726953">Uppfærir Chrome til að tengjast öðrum tækjum</translation>
+<translation id="2946420957526726953">Uppfærir Egon til að tengjast öðrum tækjum</translation>
 <translation id="2951071800649516099">Bæta síðum á leslistann þinn til síðari nota</translation>
 <translation id="2961208450284224863">{READING_LIST_UNREAD_PAGE_COUNT,plural, =1{<ph name="READING_LIST_UNREAD_PAGE_COUNT_ONE" /> ólesin síða}one{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY" /> ólesin síða}other{<ph name="READING_LIST_UNREAD_PAGE_COUNT_MANY" /> ólesnar síður}}</translation>
 <translation id="2961210776189273067">Titill</translation>
@@ -372,7 +372,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="2994959273484668146">Fjarlægja <ph name="DOMAIN" /></translation>
 <translation id="2996291259634659425">Búa til aðgangsorð</translation>
 <translation id="2996809686854298943">Vefslóð nauðsynleg</translation>
-<translation id="2997081575621687554">Þegar Google vefsvæði biður um að forhlaða tenglum á lokaðan hátt á síðu hjá sér dulkóðar Chrome og forhleður síðum í gegnum þjóna Google án fótspora. Þetta kemur í veg fyrir að forhlaðna vefsvæðið geti auðkennt þig.</translation>
+<translation id="2997081575621687554">Þegar Google vefsvæði biður um að forhlaða tenglum á lokaðan hátt á síðu hjá sér dulkóðar Egon og forhleður síðum í gegnum þjóna Google án fótspora. Þetta kemur í veg fyrir að forhlaðna vefsvæðið geti auðkennt þig.</translation>
 <translation id="3006881078666935414">Engin notkunargögn</translation>
 <translation id="301080557829842765">Leiðbeiningar um persónuvernd</translation>
 <translation id="3016635187733453316">Gakktu úr skugga um að tækið sé tengt við internetið</translation>
@@ -382,16 +382,16 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="3031225630520268969">Samþykkisviðmót raddleitar Hjálpara</translation>
 <translation id="3036750288708366620"><ph name="BEGIN_LINK" />Fá aðstoð<ph name="END_LINK" /></translation>
 <translation id="3037177537145227281">Vaktar verð</translation>
-<translation id="3037517125981011456">Sýnir innskráningartilkynningar í Chrome</translation>
+<translation id="3037517125981011456">Sýnir innskráningartilkynningar í Egon</translation>
 <translation id="3046945242843292318">Opna þetta vefsvæði hraðar í næsta sinn</translation>
 <translation id="3055113921564083271">Áhugasvið sem þú fjarlægðir</translation>
 <translation id="3055259925215945098">Bókamerki fært</translation>
-<translation id="3055841435094910999">Google fær sendar upplýsingar um notkun þína á Chrome en þær eru ekki tengdar við þig\n\nEf Chrome hrynur er hugsanlegt að upplýsingar um hrunið feli í sér einhverjar persónuupplýsingar\n\nEf þú kveikir á samstillingu kunna mæligildi einnig að innihalda upplýsingar um vefslóðirnar sem þú opnar</translation>
+<translation id="3055841435094910999">Google fær sendar upplýsingar um notkun þína á Egon en þær eru ekki tengdar við þig\n\nEf Egon hrynur er hugsanlegt að upplýsingar um hrunið feli í sér einhverjar persónuupplýsingar\n\nEf þú kveikir á samstillingu kunna mæligildi einnig að innihalda upplýsingar um vefslóðirnar sem þú opnar</translation>
 <translation id="3060635849835183725">{BOOKMARKS_COUNT,plural, =1{<ph name="BOOKMARKS_COUNT_ONE" /> bókamerki}one{<ph name="BOOKMARKS_COUNT_MANY" /> bókamerki}other{<ph name="BOOKMARKS_COUNT_MANY" /> bókamerki}}</translation>
-<translation id="3062802207422175757">Greinar sem tengjast áhugamálum þínum í Chrome</translation>
+<translation id="3062802207422175757">Greinar sem tengjast áhugamálum þínum í Egon</translation>
 <translation id="3066573403916685335">Færa niður</translation>
 <translation id="3070005020161560471">Þýða sjálfkrafa</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> opnast í Chrome. Með því að halda áfram samþykkirðu <ph name="BEGIN_LINK1" />þjónustuskilmála Google<ph name="END_LINK1" /> og <ph name="BEGIN_LINK2" />viðbótarþjónustuskilmála Google Chrome og ChromeOS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Persónuverndarstefnan<ph name="END_LINK3" /> gildir einnig.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> opnast í Egon. Með því að halda áfram samþykkirðu <ph name="BEGIN_LINK1" />þjónustuskilmála Google<ph name="END_LINK1" /> og <ph name="BEGIN_LINK2" />viðbótarþjónustuskilmála Google Egon og ChromeOS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Persónuverndarstefnan<ph name="END_LINK3" /> gildir einnig.</translation>
 <translation id="3091010850649238832">Sýna innihald klippiborðs</translation>
 <translation id="3098745985164956033">Sumar myndir eru sendar til Google til að bæta lýsingar</translation>
 <translation id="3114507951000454849">Lestu fréttir dagsins <ph name="NEWS_ICON" /></translation>
@@ -399,9 +399,9 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="3123734510202723619">Tilkynningar</translation>
 <translation id="3130863904455712965">Ferill og fleira</translation>
 <translation id="3134784203083076891">“</translation>
-<translation id="314939179385989105">Heimasíða Chrome</translation>
+<translation id="314939179385989105">Heimasíða Egon</translation>
 <translation id="3166827708714933426">Flýtilyklar flipa og glugga</translation>
-<translation id="316694332262407393">Chrome er þegar í gangi hér.</translation>
+<translation id="316694332262407393">Egon er þegar í gangi hér.</translation>
 <translation id="3169472444629675720">Discover</translation>
 <translation id="3187472288455401631">Auglýsingamælingar</translation>
 <translation id="3207960819495026254">Í bókamerkjum</translation>
@@ -411,14 +411,14 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="321773570071367578">Ef þú hefur gleymt aðgangsorðinu eða þig langar að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla samstillingu<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Staðfestu að þetta sért þú til að samstilla aðgangsorðin þín</translation>
 <translation id="3223522355830797639">Bankinn vill staðfesta að þetta sért þú.</translation>
-<translation id="3227557059438308877">Google Chrome sem öryggislykill</translation>
+<translation id="3227557059438308877">Google Egon sem öryggislykill</translation>
 <translation id="3232754137068452469">Vefforrit</translation>
 <translation id="3234978181857588512">Vista í tæki</translation>
 <translation id="3236059992281584593">Ein mín. eftir</translation>
 <translation id="3237087289225714896">Hefðbundin forhleðsla:</translation>
 <translation id="3237433641417325993">Flettu niður til að sjá tillögur að greinum</translation>
 <translation id="3244271242291266297">MM</translation>
-<translation id="3245429137663807393">Ef þú deilir einnig Chrome notkunarskýrslum innihalda þær skýrslur vefslóðirnar sem þú opnar</translation>
+<translation id="3245429137663807393">Ef þú deilir einnig Egon notkunarskýrslum innihalda þær skýrslur vefslóðirnar sem þú opnar</translation>
 <translation id="3250563604907490871">Lýsingar á myndum birtast á ný þegar tengst er Wi-Fi neti</translation>
 <translation id="3254409185687681395">Setja þessa síðu í bókamerki</translation>
 <translation id="3259831549858767975">Minnka allt á síðunni</translation>
@@ -428,9 +428,9 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="3265534588625245297">Stjórna vefsvæðunum sem þú fylgir</translation>
 <translation id="3269093882174072735">Hlaða mynd</translation>
 <translation id="3280562213547448728">Raddleit</translation>
-<translation id="3282568296779691940">Skráðu þig inn á Chrome</translation>
+<translation id="3282568296779691940">Skráðu þig inn á Egon</translation>
 <translation id="3284510035090979597">Hjálp að fyrra bragði</translation>
-<translation id="3285080554353377245">Myndskeið um hvernig á að nota Chrome</translation>
+<translation id="3285080554353377245">Myndskeið um hvernig á að nota Egon</translation>
 <translation id="3288003805934695103">Endurhlaða síðuna</translation>
 <translation id="3290249595466894471">Sendir einnig lítið brot af síðum, niðurhali, virkni viðbóta og kerfisupplýsingar til að auðvelda leit að nýjum ógnum</translation>
 <translation id="3297344142967351106">Raddaðstoð</translation>
@@ -439,10 +439,10 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="3334729583274622784">Breyta skráarendingu?</translation>
 <translation id="3341262203274374114">Ekki er hægt að hætta að fylgja. Eitthvað fór úrskeiðis.</translation>
 <translation id="3359667936385849800">Nota núverandi þjónustuaðila</translation>
-<translation id="3365271666488085187">Chrome getur haft þetta áhugasvið með</translation>
+<translation id="3365271666488085187">Egon getur haft þetta áhugasvið með</translation>
 <translation id="3367813778245106622">Skráðu þig inn aftur til að hefja samstillingu</translation>
-<translation id="3373979091428520308">Til að deila þessari síðu í annað tæki skaltu kveikja á samstillingu Chrome í hinu tækinu</translation>
-<translation id="3374023511497244703">Bókamerkin þín, ferillinn, aðgangsorðin og önnur gögn úr Chrome verða ekki lengur samstillt við Google reikninginn þinn</translation>
+<translation id="3373979091428520308">Til að deila þessari síðu í annað tæki skaltu kveikja á samstillingu Egon í hinu tækinu</translation>
+<translation id="3374023511497244703">Bókamerkin þín, ferillinn, aðgangsorðin og önnur gögn úr Egon verða ekki lengur samstillt við Google reikninginn þinn</translation>
 <translation id="3384347053049321195">Deila mynd</translation>
 <translation id="3387650086002190359">Niðurhal á <ph name="FILE_NAME" /> mistókst vegna villu í skráakerfi.</translation>
 <translation id="3389286852084373014">Textinn er of stór</translation>
@@ -451,12 +451,12 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="3407392651057365886">Fleiri síðum er forhlaðið. Síðum er hugsanlega forhlaðið í gegnum þjóna Google samkvæmt beiðnum frá öðrum vefsvæðum.</translation>
 <translation id="3414952576877147120">Stærð:</translation>
 <translation id="3421726884497337397">Veldu hvenær á að útiloka fótspor þriðju aðila</translation>
-<translation id="3428747202529429621">Tryggir öryggi þitt í Chrome og kann að vera notað til að auka öryggi þitt í öðrum Google forritum þegar þú ert skráð(ur) inn</translation>
+<translation id="3428747202529429621">Tryggir öryggi þitt í Egon og kann að vera notað til að auka öryggi þitt í öðrum Google forritum þegar þú ert skráð(ur) inn</translation>
 <translation id="3429160811076349561">Slökkt er á prufueiginleikum</translation>
 <translation id="3435465986463792564">Ertu með of marga glugga opna? Þú getur stjórnað gluggunum héðan</translation>
 <translation id="3443221991560634068">Endurhlaða þessa síðu</translation>
 <translation id="3444179773590444986">Deila ábendingu um dökkt þema fyrir vefsvæði?</translation>
-<translation id="3452832259067974318">Til að gæta persónuverndar þinnar fyllir Chrome ekki sjálfkrafa út aðgangsorðið þitt í þennan reit.</translation>
+<translation id="3452832259067974318">Til að gæta persónuverndar þinnar fyllir Egon ekki sjálfkrafa út aðgangsorðið þitt í þennan reit.</translation>
 <translation id="3474624961160222204">Halda áfram sem <ph name="NAME" /></translation>
 <translation id="3478363558367712427">Þú getur valið leitarvélina þína</translation>
 <translation id="3479552764303398839">Ekki núna</translation>
@@ -464,7 +464,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="3495219333887281978">Innskráningarblað neðst opið í hálfri hæð.</translation>
 <translation id="3499246418971111862">chrome_qrcode_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
 <translation id="3507132249039706973">Kveikt er á hefðbundinni vörn</translation>
-<translation id="3509330069915219067">Án nettengingar. Chrome getur ekki leitað að uppfærslum.</translation>
+<translation id="3509330069915219067">Án nettengingar. Egon getur ekki leitað að uppfærslum.</translation>
 <translation id="3513704683820682405">Aukinn veruleiki</translation>
 <translation id="3518985090088779359">Samþykkja og áfram</translation>
 <translation id="3522247891732774234">Uppfærsla í boði. Fleiri valkostir</translation>
@@ -477,7 +477,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="3560491354538957576">Vefsvæðið getur skilgreint áhugasvið</translation>
 <translation id="3563767357928833671">Efni klippiborðs sýnt</translation>
 <translation id="3566639033325271639">Uppfæra stillingar</translation>
-<translation id="3566923219790363270">Chrome er enn að undirbúa sig fyrir sýndarveruleika. Endurræstu Chrome síðar.</translation>
+<translation id="3566923219790363270">Egon er enn að undirbúa sig fyrir sýndarveruleika. Endurræstu Egon síðar.</translation>
 <translation id="3568688522516854065">Skráðu þig inn og kveiktu á samstillingu til að fá aðgang að flipunum þínum í öðrum tækjum</translation>
 <translation id="357465026686164600">Sími sem öryggislykill</translation>
 <translation id="3577473026931028326">Eitthvað fór úrskeiðis. Reyndu aftur.</translation>
@@ -499,7 +499,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="3699022356773522638">Sækja skrá?</translation>
 <translation id="371230970611282515">Spáir fyrir um og varar þig við hættulegum viðburðum áður en þeir gerast.</translation>
 <translation id="3714981814255182093">Opna leitarstikuna</translation>
-<translation id="3716182511346448902">Chrome stöðvaði þessa síðu því hún notar of mikið minni.</translation>
+<translation id="3716182511346448902">Egon stöðvaði þessa síðu því hún notar of mikið minni.</translation>
 <translation id="3721119614952978349">Þú og Google</translation>
 <translation id="3737319253362202215">Þýðingarstillingar</translation>
 <translation id="3737402728074743863">Stilltu skjálás til að nota þetta tæki sem öryggislykil</translation>
@@ -537,17 +537,17 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="393697183122708255">Engin virk raddleit er í boði</translation>
 <translation id="395377504920307820">Nota án reiknings</translation>
 <translation id="3958287878205277013">Lokaðu öllum huliðsflipum til að hreinsa vafraferil huliðsstillingar.</translation>
-<translation id="396192773038029076">{NUM_IN_PROGRESS,plural, =1{Chrome hleður síðunni þegar hún er tilbúin}one{Chrome hleður síðunum þegar þær eru tilbúnar}other{Chrome hleður síðunum þegar þær eru tilbúnar}}</translation>
+<translation id="396192773038029076">{NUM_IN_PROGRESS,plural, =1{Egon hleður síðunni þegar hún er tilbúin}one{Egon hleður síðunum þegar þær eru tilbúnar}other{Egon hleður síðunum þegar þær eru tilbúnar}}</translation>
 <translation id="3962119236270174787">Hefðbundin vörn gegn vefsvæðum, niðurhali og viðbótum sem vitað er að eru hættuleg</translation>
 <translation id="3963007978381181125">Dulkóðun aðgangsorðs inniheldur ekki greiðslumáta og heimilisföng af Google Pay. Aðeins þeir sem vita aðgangsorðið þitt geta lesið dulkóðuðu gögnin þín. Aðgangsorðið er hvorki sent til Google né geymt. Ef þú gleymir aðgangsorðinu eða vilt breyta þessari stillingu þarftu að endurstilla samstillingu. <ph name="BEGIN_LINK" />Frekari upplýsingar<ph name="END_LINK" /></translation>
-<translation id="3969142555815019568">Chrome getur ekki athugað aðgangsorðin þín</translation>
+<translation id="3969142555815019568">Egon getur ekki athugað aðgangsorðin þín</translation>
 <translation id="3969863827134279083">Færa upp</translation>
 <translation id="397583555483684758">Samstilling er hætt að virka</translation>
 <translation id="3976396876660209797">Fjarlægðu flýtileiðina og búðu hana til aftur</translation>
 <translation id="3981902534690264083">Auglýsendur fá upplýsingar um afköst auglýsinga</translation>
 <translation id="3985215325736559418">Viltu sækja <ph name="FILE_NAME" /> aftur?</translation>
 <translation id="3987993985790029246">Afrita tengil</translation>
-<translation id="3999683152997576765">Þú getur séð og fjarlægt áhugasvið sem vefsvæði nota til að birta þér auglýsingar. Chrome áætlar áhugasvið þín út frá nýlegum vafraferli þínum.</translation>
+<translation id="3999683152997576765">Þú getur séð og fjarlægt áhugasvið sem vefsvæði nota til að birta þér auglýsingar. Egon áætlar áhugasvið þín út frá nýlegum vafraferli þínum.</translation>
 <translation id="4000212216660919741">Ónettengt</translation>
 <translation id="4016425174436051808">Ekkki er hægt að fylgja. Eitthvað fór úrskeiðis.</translation>
 <translation id="4034817413553209278">{HOURS,plural, =1{# klst.}one{# klst.}other{# klst.}}</translation>
@@ -562,17 +562,17 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="409109920254068737">Þú getur notað þessa spjaldtölvu til að skrá þig inn í tækinu sem birtir þennan QR-kóða.</translation>
 <translation id="4095146165863963773">Eyða forritsgögnum?</translation>
 <translation id="4096227151372679484">Vistun bókamerkja opnuð á hálfum skjánum</translation>
-<translation id="4099578267706723511">Hjálpaðu til við að bæta Google Chrome með því að senda talnagögn um notkun og tilkynningar um hrun til Google.</translation>
+<translation id="4099578267706723511">Hjálpaðu til við að bæta Google Egon með því að senda talnagögn um notkun og tilkynningar um hrun til Google.</translation>
 <translation id="4101475238162928417">Samstilltu til að fá aðgangsorðin þín, bókamerkin og fleira í hinum tækjunum þínum</translation>
 <translation id="410351446219883937">Sjálfvirk spilun</translation>
-<translation id="4106587138345390261">Chrome er að kanna nýja eiginleika sem gera vefsvæðum kleift að skila sömu vafraupplifun án þess að nota jafn mikið af upplýsingum frá þér</translation>
+<translation id="4106587138345390261">Egon er að kanna nýja eiginleika sem gera vefsvæðum kleift að skila sömu vafraupplifun án þess að nota jafn mikið af upplýsingum frá þér</translation>
 <translation id="4108314971463891922">Fylgja</translation>
 <translation id="4108998448622696017">Greinir hættuleg atvik og varar þig við þeim þegar þau eiga sér stað.</translation>
 <translation id="4116038641877404294">Náðu í síður til að nota þær án nettengingar</translation>
 <translation id="4135200667068010335">Tækjalisti fyrir deilingu flipa er lokaður.</translation>
 <translation id="4137746084635924146">Núverandi tungumál tækis</translation>
 <translation id="414128724510021958">Sjálfgefið beðið um tölvuvefsvæði</translation>
-<translation id="4141536112466364990">Læra á Chrome</translation>
+<translation id="4141536112466364990">Læra á Egon</translation>
 <translation id="4162867837470729563">Listi yfir deilingarvalkosti á öllum skjánum.</translation>
 <translation id="4165986682804962316">Vefsvæðastillingar</translation>
 <translation id="4170011742729630528">Þjónustan er ekki aðgengileg; reyndu aftur síðar.</translation>
@@ -582,21 +582,21 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="4196597275619698563">Búa til spjald</translation>
 <translation id="4198423547019359126">Engar tiltækar niðurhalsstaðsetningar</translation>
 <translation id="4209895695669353772">Kveiktu á samstillingu til að fá sérsniðið efni sem Google stingur upp á</translation>
-<translation id="4214315110991671325">Chrome kann að nota fótspor við forhleðslu ef þú leyfir fótspor.</translation>
+<translation id="4214315110991671325">Egon kann að nota fótspor við forhleðslu ef þú leyfir fótspor.</translation>
 <translation id="4225895483398857530">Flýtileið á tækjastiku</translation>
 <translation id="4227318652298512614">Fylgdu öllum vefsvæðum sem þú vilt</translation>
 <translation id="4242533952199664413">Opna stillingar</translation>
 <translation id="4248098802131000011">Tryggðu öryggi aðgangsorðanna gagnvart öryggisbrotum og öðrum öryggisvandamálum</translation>
-<translation id="424864128008805179">Viltu skrá þig út úr Chrome?</translation>
+<translation id="424864128008805179">Viltu skrá þig út úr Egon?</translation>
 <translation id="4249955472157341256">Raða eftir nýjasta</translation>
 <translation id="4250229828105606438">Skjámynd</translation>
 <translation id="4256782883801055595">Leyfi opins kóða</translation>
-<translation id="4262915912852657291"><ph name="BEGIN_BOLD" />Hvaða gögn eru notuð:<ph name="END_BOLD" /> Vafraferillinn þinn, skrá yfir vefsvæði sem þú hefur opnað með Chrome í þessu tæki.</translation>
+<translation id="4262915912852657291"><ph name="BEGIN_BOLD" />Hvaða gögn eru notuð:<ph name="END_BOLD" /> Vafraferillinn þinn, skrá yfir vefsvæði sem þú hefur opnað með Egon í þessu tæki.</translation>
 <translation id="4263656433980196874">Samþykkisviðmót raddleitar Hjálpara opið á öllum skjánum</translation>
 <translation id="4269820728363426813">Afrita slóð tengils</translation>
 <translation id="4283102315569707115">Biðja sjálfgefið um tölvuvefi?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Kveiktu á skjálás í stillingum Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Með því að nota Chrome samþykkir þú <ph name="BEGIN_TOS_LINK" />þjónustuskilmála Google<ph name="END_TOS_LINK" />og <ph name="BEGIN_ATOS_LINK" />viðbótarskilmála Google Chrome og ChromeOS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Persónuverndarstefnan<ph name="END_PRIVACY_LINK" /> gildir einnig.</translation>
+<translation id="4293476595220860475">Með því að nota Egon samþykkir þú <ph name="BEGIN_TOS_LINK" />þjónustuskilmála Google<ph name="END_TOS_LINK" />og <ph name="BEGIN_ATOS_LINK" />viðbótarskilmála Google Egon og ChromeOS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Persónuverndarstefnan<ph name="END_PRIVACY_LINK" /> gildir einnig.</translation>
 <translation id="4296252229500326964">Nýr huliðsflipi</translation>
 <translation id="4298388696830689168">Tengd vefsvæði</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -623,16 +623,16 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="4461614516424362539">Þegar þú notar QR-kóða til að tengja annað tæki getur það notað þennan síma sem öryggislykil. Ef þú fjarlægir það þarftu að skanna QR-kóða til að tengja það aftur.</translation>
 <translation id="4472118726404937099">Skráðu þig inn og kveiktu á samstillingu til að hafa allt samstillt og sérsniðið í tækjunum þínum</translation>
 <translation id="4479839115899251637">Eyða af leslista</translation>
-<translation id="4479972344484327217">Setur upp <ph name="MODULE" /> fyrir Chrome…</translation>
+<translation id="4479972344484327217">Setur upp <ph name="MODULE" /> fyrir Egon…</translation>
 <translation id="4484496141267039529">Engin tenging. Reyndu aftur síðar.</translation>
-<translation id="4487967297491345095">Öllum forritsgögnum Chrome verður eytt fyrir fullt og allt. Þar með taldar eru allar skrár, stillingar, reikningar, gagnagrunnar o.s.frv.</translation>
+<translation id="4487967297491345095">Öllum forritsgögnum Egon verður eytt fyrir fullt og allt. Þar með taldar eru allar skrár, stillingar, reikningar, gagnagrunnar o.s.frv.</translation>
 <translation id="449126573531210296">Dulkóða samstillt aðgangsorð með Google reikningnum þínum</translation>
 <translation id="4504667196171871375">Á Wi-Fi og með farsímagögnum</translation>
 <translation id="4508528996305412043">Kortavalmynd straums er opin</translation>
 <translation id="4508642716788467538">Veldu tungumál</translation>
 <translation id="4513387527876475750">{DAYS,plural, =1{Fyrir # degi}one{Fyrir # degi}other{Fyrir # dögum}}</translation>
 <translation id="451872707440238414">Leita í bókamerkjunum þínum</translation>
-<translation id="4521489764227272523">Völdu gögnin hafa verið fjarlægð af Chrome og samstilltum tækjum.
+<translation id="4521489764227272523">Völdu gögnin hafa verið fjarlægð af Egon og samstilltum tækjum.
 
 Google reikningurinn þinn kann að vera með annars konar vefskoðunarferil, svo sem yfir leit og virkni í annarri þjónustu Google, á <ph name="BEGIN_LINK" />myactivity.google.com<ph name="END_LINK" />.</translation>
 <translation id="452750746583162491">Fara yfir samstillt gögn</translation>
@@ -660,14 +660,14 @@ Google reikningurinn þinn kann að vera með annars konar vefskoðunarferil, sv
 <translation id="4663499661119906179">Sjá mest sóttu vefsvæðin og sögur fyrir þig</translation>
 <translation id="4663756553811254707"><ph name="NUMBER_OF_BOOKMARKS" /> bókamerkjum eytt</translation>
 <translation id="4668347365065281350">Öll gögn sem vefsvæði geyma, þar á meðal fótspor og önnur gögn sem eru vistuð í tækinu</translation>
-<translation id="4678082183394354975">Kveikt er á dökku þema fyrir vefsvæði í Chrome</translation>
+<translation id="4678082183394354975">Kveikt er á dökku þema fyrir vefsvæði í Egon</translation>
 <translation id="4684427112815847243">Samstilla allt</translation>
 <translation id="4685741273709472646">Velja af fellilistanum</translation>
 <translation id="4695891336199304370">{SHIPPING_OPTIONS,plural, =1{<ph name="SHIPPING_OPTION_PREVIEW" />\u2026 og <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS" /> í viðbót}one{<ph name="SHIPPING_OPTION_PREVIEW" />\u2026 og <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS" /> í viðbót}other{<ph name="SHIPPING_OPTION_PREVIEW" />\u2026 og <ph name="NUMBER_OF_ADDITIONAL_SHIPPING_OPTIONS" /> í viðbót}}</translation>
 <translation id="4699172675775169585">Myndir og skrár í skyndiminni</translation>
 <translation id="4719927025381752090">Boð um þýðingu</translation>
 <translation id="4720023427747327413">Opna í <ph name="PRODUCT_NAME" /></translation>
-<translation id="4720982865791209136">Hjálpaðu til við að bæta Chrome. <ph name="BEGIN_LINK" />Svara könnun<ph name="END_LINK" /></translation>
+<translation id="4720982865791209136">Hjálpaðu til við að bæta Egon. <ph name="BEGIN_LINK" />Svara könnun<ph name="END_LINK" /></translation>
 <translation id="47217992755561375">Sjá mest sóttu vefsvæðin</translation>
 <translation id="4732120983431207637">Afstöflun</translation>
 <translation id="4736934858538408121">Sýndarkort</translation>
@@ -694,7 +694,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="4831037795716408498">Sækja innihald</translation>
 <translation id="4834007576107377210">Skoðaðu leiðbeiningar leitarvélarinnar um að eyða leitarferlinum ef það á við</translation>
 <translation id="4834250788637067901">Greiðslumátar, tilboð og heimilisföng sem nota Google Pay</translation>
-<translation id="4835385943915508971">Chrome hefur ekki aðgang að umbeðnu tilfangi.</translation>
+<translation id="4835385943915508971">Egon hefur ekki aðgang að umbeðnu tilfangi.</translation>
 <translation id="4837753911714442426">Opna valkosti fyrir prentun síðunnar</translation>
 <translation id="4842092870884894799">Sýnir sprettiglugga fyrir myndun aðgangsorðs</translation>
 <translation id="4842515939542199281">Ýttu á hljóðnemann til að leita með röddinni</translation>
@@ -703,7 +703,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="4852014461738377247">Skráir inn\u2026</translation>
 <translation id="4860895144060829044">Hringja</translation>
 <translation id="4864369630010738180">Skráir inn...</translation>
-<translation id="4866368707455379617">Ekki tókst að setja upp <ph name="MODULE" /> fyrir Chrome</translation>
+<translation id="4866368707455379617">Ekki tókst að setja upp <ph name="MODULE" /> fyrir Egon</translation>
 <translation id="4871568871368204250">Slökkva á samstillingu</translation>
 <translation id="4875775213178255010">Tillögur að efni</translation>
 <translation id="4877678010818027629">Kveikja á huliðsstillingu</translation>
@@ -711,7 +711,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="4880127995492972015">Þýða…</translation>
 <translation id="4881695831933465202">Opna</translation>
 <translation id="488187801263602086">Endurnefna skrá</translation>
-<translation id="4885273946141277891">Óstuddur fjöldi Chrome tilvika.</translation>
+<translation id="4885273946141277891">Óstuddur fjöldi Egon tilvika.</translation>
 <translation id="4905823827770127520">Hafa með tengil á síðuna</translation>
 <translation id="4908869848243824489">Tillögur frá Google</translation>
 <translation id="4909709702739934280">Vafranum er stjórnað af kerfisstjóranum þínum</translation>
@@ -722,7 +722,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="492284538114688557">Verðlækkun fannst</translation>
 <translation id="4925120120285606924">Skjámynd <ph name="CURRENT_DATE_ISO" /></translation>
 <translation id="49268022542405662">Aðgangsorðin þín verða flutt út og þeim hlaðið niður í textaskrá. Þau verða sýnileg öllum, þar á meðal öllum forritum, sem hafa aðgang að möppunni sem hún er vistuð í.</translation>
-<translation id="4932247056774066048">Þar sem þú ert að skrá þig út af reikningi sem er stjórnað af <ph name="DOMAIN_NAME" /> verður Chrome gögnum þínum eytt úr þessu tæki. Þau verða áfram á Google reikningnum þínum.</translation>
+<translation id="4932247056774066048">Þar sem þú ert að skrá þig út af reikningi sem er stjórnað af <ph name="DOMAIN_NAME" /> verður Egon gögnum þínum eytt úr þessu tæki. Þau verða áfram á Google reikningnum þínum.</translation>
 <translation id="4943703118917034429">Sýndarveruleiki</translation>
 <translation id="4943872375798546930">Engar niðurstöður</translation>
 <translation id="4950924971025849764">Önnur tæki geta notað þennan síma sem öryggislykil þegar þú ert skráð(ur) inn á sama Google reikninginn.</translation>
@@ -751,7 +751,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="5091249083535528968">Ítarleg notkunargögn</translation>
 <translation id="509429900233858213">Villa kom upp.</translation>
 <translation id="5099845111805573968">Þegar þú velur tölvuvef einu sinni er stillingin notuð fyrir vefsvæðið í hvert skipti sem þú opnar það.</translation>
-<translation id="5102401324271069229">Ef vefsvæði reynir að stela aðgangsorðinu þínu, eða ef þú sækir skaðlega skrá, kann Chrome að senda vefslóðir í örugga vefskoðun, þar á meðal hluta af innihaldi síðna</translation>
+<translation id="5102401324271069229">Ef vefsvæði reynir að stela aðgangsorðinu þínu, eða ef þú sækir skaðlega skrá, kann Egon að senda vefslóðir í örugga vefskoðun, þar á meðal hluta af innihaldi síðna</translation>
 <translation id="510275257476243843">Ein klst. eftir</translation>
 <translation id="5115811374190515607"><ph name="PRODUCT_NAME" /></translation>
 <translation id="5118713593561876160">Áhugasvið</translation>
@@ -765,7 +765,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="5170568018924773124">Sýna í möppu</translation>
 <translation id="5171045022955879922">Leitaðu eða sláðu inn vefslóð</translation>
 <translation id="517734441743343109">Með því að halda áfram samþykkirðu <ph name="BEGIN_TOS_LINK" />þjónustuskilmálana<ph name="END_TOS_LINK" /> og <ph name="BEGIN_PRIVACY_LINK" />persónuverndarstefnuna<ph name="END_PRIVACY_LINK" />.</translation>
-<translation id="5184329579814168207">Opna í Chrome</translation>
+<translation id="5184329579814168207">Opna í Egon</translation>
 <translation id="5191251636205085390">Kynntu þér og hafðu umsjón með nýrri tækni sem er ætlað að koma í stað fótspora þriðja aðila</translation>
 <translation id="5193988420012215838">Afritað á klippiborðið</translation>
 <translation id="5199929503336119739">Vinnusnið</translation>
@@ -787,8 +787,8 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="5304593522240415983">Þessi reitur má ekki vera auður</translation>
 <translation id="5308380583665731573">Tengjast</translation>
 <translation id="5317780077021120954">Vista</translation>
-<translation id="5319359161174645648">Google mælir með Chrome</translation>
-<translation id="5321849971085220133">Chrome leitar nýrra leiða til að draga úr rakningu og efla öryggi á meðan þú vafrar. Chrome <ph name="BEGIN_LINK" />áætlar einnig áhugasvið þín<ph name="END_LINK" /> og gerir þér kleift að stjórna þeim. Þá geta þau vefsvæði sem þú heimsækir fengið upplýsingar um áhugasvið þín hjá Chrome til að birta þér auglýsingar.</translation>
+<translation id="5319359161174645648">Google mælir með Egon</translation>
+<translation id="5321849971085220133">Egon leitar nýrra leiða til að draga úr rakningu og efla öryggi á meðan þú vafrar. Egon <ph name="BEGIN_LINK" />áætlar einnig áhugasvið þín<ph name="END_LINK" /> og gerir þér kleift að stjórna þeim. Þá geta þau vefsvæði sem þú heimsækir fengið upplýsingar um áhugasvið þín hjá Egon til að birta þér auglýsingar.</translation>
 <translation id="5324858694974489420">Barnalæsing</translation>
 <translation id="5326921373682845375">Forhlaðnar síður eru dulkóðaðar og vefsvæðið sem tengist síðunum er Google vefsvæði. Þess vegna fá netþjónar Google ekki nýjar upplýsingar þegar þessum síðum er forhlaðið á lokaðan hátt.</translation>
 <translation id="5329858041417644019">Vafrinn þinn er ekki í umsjón</translation>
@@ -816,14 +816,14 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="5458366071038729214">Hér birtast vefsvæði sem þú fylgir</translation>
 <translation id="5468068603361015296">Viltu samt sem áður að sækja <ph name="FILE_NAME" />?</translation>
 <translation id="548278423535722844">Opna í kortaforriti</translation>
-<translation id="5483197086164197190">Flettu í Chrome</translation>
+<translation id="5483197086164197190">Flettu í Egon</translation>
 <translation id="5487521232677179737">Hreinsa gögn</translation>
 <translation id="549025011754480756">Svona leitarðu með röddinni</translation>
 <translation id="5492637351392383067">Dulkóðun í tækinu</translation>
 <translation id="5514904542973294328">Stjórnandi tækisins gerði þetta óvirkt</translation>
 <translation id="5515439363601853141">Opnaðu til að skoða aðgangsorðið þitt</translation>
 <translation id="5517095782334947753">Þú ert með bókamerki, feril, aðgangsorð og aðrar stillingar frá <ph name="FROM_ACCOUNT" />.</translation>
-<translation id="5524761631371622910">Þegar kveikt er á prufuútgáfum og Chrome hefur skráð þig af handahófi í virka prufuútgáfu hefur vafraferillinn þinn áhrif á auglýsingarnar sem þú sérð og áhugasviðin sem eru áætluð hér fyrir neðan. Til að gæta persónuverndar þinnar eyðir Chrome áhugamálunum þínum sjálfkrafa mánaðarlega.</translation>
+<translation id="5524761631371622910">Þegar kveikt er á prufuútgáfum og Egon hefur skráð þig af handahófi í virka prufuútgáfu hefur vafraferillinn þinn áhrif á auglýsingarnar sem þú sérð og áhugasviðin sem eru áætluð hér fyrir neðan. Til að gæta persónuverndar þinnar eyðir Egon áhugamálunum þínum sjálfkrafa mánaðarlega.</translation>
 <translation id="5524843473235508879">Lokað á framsendingu.</translation>
 <translation id="5548606607480005320">Öryggisathugun</translation>
 <translation id="5555525474779371165">Veldu vernd öruggrar vefskoðunar</translation>
@@ -847,19 +847,19 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="5655963694829536461">Leita í niðurhali</translation>
 <translation id="5659593005791499971">Netfang</translation>
 <translation id="5665379678064389456">Búa til viðburð í <ph name="APP_NAME" /></translation>
-<translation id="5683547024293500885">Chrome getur ekki leitað að uppfærslum.</translation>
+<translation id="5683547024293500885">Egon getur ekki leitað að uppfærslum.</translation>
 <translation id="5686790454216892815">Skráarheiti of langt</translation>
 <translation id="569536719314091526">Notaðu hnappinn „Fleiri valkostir“ til að þýða þessa síðu yfir á hvaða tungumál sem er</translation>
-<translation id="5696597120588531049">Chrome getur veitt þér vernd gegn öryggisbrotum, hættulegum vefsvæðum og fleira</translation>
+<translation id="5696597120588531049">Egon getur veitt þér vernd gegn öryggisbrotum, hættulegum vefsvæðum og fleira</translation>
 <translation id="570347048394355941">Skipta yfir á flipa</translation>
 <translation id="572328651809341494">Nýlegir flipar</translation>
 <translation id="5726692708398506830">Stækka allt á síðunni</translation>
-<translation id="5727531838415286053">Ef Chrome hefur skráð þig af handahófi í virka prufuútgáfu hefur vafraferillinn þinn áhrif á auglýsingarnar sem þú sérð og áhugasviðin sem eru áætluð hér fyrir neðan. Til að gæta persónuverndar þinnar eyðir Chrome áhugamálunum þínum sjálfkrafa mánaðarlega. Áhugasvið verða endurnýjuð nema þú fjarlægir þau.</translation>
+<translation id="5727531838415286053">Ef Egon hefur skráð þig af handahófi í virka prufuútgáfu hefur vafraferillinn þinn áhrif á auglýsingarnar sem þú sérð og áhugasviðin sem eru áætluð hér fyrir neðan. Til að gæta persónuverndar þinnar eyðir Egon áhugamálunum þínum sjálfkrafa mánaðarlega. Áhugasvið verða endurnýjuð nema þú fjarlægir þau.</translation>
 <translation id="5748802427693696783">Skipt yfir í staðlaða flipa</translation>
-<translation id="5749068826913805084">Chrome þarf aðgang að geymslu til að geta sótt skrár.</translation>
+<translation id="5749068826913805084">Egon þarf aðgang að geymslu til að geta sótt skrár.</translation>
 <translation id="5749237766298580851">Slökkt <ph name="SEPARATOR" /> Ekki mælt með</translation>
 <translation id="5752232708629533680">Aðeins deila GIF</translation>
-<translation id="5753139477036638699">Þú getur notað röddina til að leita í Chrome</translation>
+<translation id="5753139477036638699">Þú getur notað röddina til að leita í Egon</translation>
 <translation id="5754350196967618083">Ekki er hægt að endurnýja Tillögur</translation>
 <translation id="5763382633136178763">Huliðsflipar</translation>
 <translation id="5763514718066511291">Ýttu til að afrita vefslóðina fyrir þetta forrit</translation>
@@ -878,8 +878,8 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="5814749351757353073">Fylgstu með uppáhalds vefsvæðunum þínum</translation>
 <translation id="583281660410589416">Óþekkt</translation>
 <translation id="5833984609253377421">Deila tengli</translation>
-<translation id="5834764604050996579">Leyfðu Chrome að nota myndavélina til að skanna inn QR-kóða</translation>
-<translation id="5839058148541733625">Chrome Dino</translation>
+<translation id="5834764604050996579">Leyfðu Egon að nota myndavélina til að skanna inn QR-kóða</translation>
+<translation id="5839058148541733625">Egon Dino</translation>
 <translation id="5842437907245493289">Notaðu bókamerki undir möpputákninu til að flokka vörur sem þú vaktar</translation>
 <translation id="5853623416121554550">hlé</translation>
 <translation id="5854512288214985237">Engin mæligildi eða hrunskýrslur eru sendar til Google</translation>
@@ -893,23 +893,23 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="5865733239029070421">Sendir sjálfkrafa talnagögn um notkun og tilkynningar um hrun til Google</translation>
 <translation id="5869522115854928033">Vistuð aðgangsorð</translation>
 <translation id="5869789175361934029">Halda áfram í öðru tæki</translation>
-<translation id="587735546353481577">Til að fylgja vefsvæði skaltu opna vefsvæðið, opna Chrome valmyndina og smella á „Fylgja“.</translation>
+<translation id="587735546353481577">Til að fylgja vefsvæði skaltu opna vefsvæðið, opna Egon valmyndina og smella á „Fylgja“.</translation>
 <translation id="5879072387416556377">Fáðu betri tillögur</translation>
 <translation id="5884076754568147479">Google fær vefslóðir og innihald vefsvæða þar sem þú notar hjálparann, auk upplýsinga sem þú sendir með hjálparanum, til að hjálpa þér að ljúka við verkefni</translation>
-<translation id="5906513782029855931">Þegar Google hjálparinn fær upplýsingar um vefslóðir vefsvæða getur hann aðstoðað þig við að ljúka verkefnum. Þú getur slökkt á Hjálparanum í stillingum Chrome.</translation>
+<translation id="5906513782029855931">Þegar Google hjálparinn fær upplýsingar um vefslóðir vefsvæða getur hann aðstoðað þig við að ljúka verkefnum. Þú getur slökkt á Hjálparanum í stillingum Egon.</translation>
 <translation id="5916664084637901428">Kveikt</translation>
 <translation id="5919204609460789179">Uppfærðu <ph name="PRODUCT_NAME" /> til að hefja samstillingu</translation>
 <translation id="5938820472109305350">Bæta <ph name="INTEREST" /> við</translation>
 <translation id="5942872142862698679">Notar Google fyrir leit</translation>
 <translation id="5945035219773565305">Núverandi tillaga:  <ph name="RECOMMENDATION" /></translation>
 <translation id="5951119116059277034">Skoðar síðu í beinni</translation>
-<translation id="5956665950594638604">Opna hjálparmiðstöð Chrome í nýjum flipa</translation>
+<translation id="5956665950594638604">Opna hjálparmiðstöð Egon í nýjum flipa</translation>
 <translation id="5957442310066583693">Ýttu á heimahnappinn til að sjá vefsvæðin sem þú heimsækir oftast</translation>
 <translation id="5958275228015807058">Þú finnur skrár og síður í Niðurhali</translation>
 <translation id="5958994127112619898">Einfalda síðu</translation>
 <translation id="5962718611393537961">Ýttu til að draga saman</translation>
 <translation id="5964869237734432770">Slökkva á myndlýsingum</translation>
-<translation id="5966233851250124270">Chrome man valið þitt</translation>
+<translation id="5966233851250124270">Egon man valið þitt</translation>
 <translation id="5979084224081478209">Yfirfara aðgangsorð</translation>
 <translation id="5995726099713306770">Sækja síðu aftur?</translation>
 <translation id="6000066717592683814">Nota Google áfram</translation>
@@ -917,7 +917,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="6002122790816966947">Tækin þín</translation>
 <translation id="6005538289190791541">Útbúið aðgangsorð</translation>
 <translation id="6032091552407840792">Þessi prufuútgáfa er aðeins virk á <ph name="BEGIN_LINK" />sumum svæðum<ph name="END_LINK" />.</translation>
-<translation id="6033245666633565791">Chrome notar <ph name="BEGIN_LINK" />Privacy Sandbox<ph name="END_LINK" /> til að þróa nýja tækni sem verndar þig fyrir rakningartækni en varðveitir á sama tíma opna vefinn.
+<translation id="6033245666633565791">Egon notar <ph name="BEGIN_LINK" />Privacy Sandbox<ph name="END_LINK" /> til að þróa nýja tækni sem verndar þig fyrir rakningartækni en varðveitir á sama tíma opna vefinn.
 
 Prufuútgáfur Privacy Sandbox eru enn í þróun og eru í boði á völdum svæðum. Eins og er geta vefsvæði prófað persónuverndarafmörkun á sama tíma og þau nota núverandi veftækni á borð við fótspor þriðja aðila.</translation>
 <translation id="6039379616847168523">Stökkva í næsta flipa</translation>
@@ -944,7 +944,7 @@ Prufuútgáfur Privacy Sandbox eru enn í þróun og eru í boði á völdum sv�
 <translation id="6150320133806434356">Bókamerki vistað</translation>
 <translation id="6154478581116148741">Kveiktu á skjálás í stillingunum til að flytja aðgangsorðin þín út úr þessu tæki</translation>
 <translation id="6159729262978459665">Hreinsar feril úr öllum samstilltum tækjum.</translation>
-<translation id="6162892189396105610">Forhleður síðum sem Chrome telur að þú munir opna.</translation>
+<translation id="6162892189396105610">Forhleður síðum sem Egon telur að þú munir opna.</translation>
 <translation id="6186394685773237175">Engin aðgangsorð í hættu fundust</translation>
 <translation id="6192907950379606605">Fá myndlýsingar</translation>
 <translation id="6193448654517602979">Velja flipa</translation>
@@ -979,7 +979,7 @@ Sum vefsvæði kunna til dæmis að bregðast við beiðninni með því að bir
 <translation id="6357653805084533597">Þú getur notað þennan síma til að skrá þig inn í tækinu sem birtir þennan QR-kóða.</translation>
 <translation id="6363990818884053551">Staðfestu að þetta sért þú til að hefja samstillingu</translation>
 <translation id="6364438453358674297">Fjarlægja tillögu úr ferlinum?</translation>
-<translation id="6380100320871303656">Forhleður oftar síðum sem Chrome telur að þú munir opna. Þessi stilling kann að auka gagnanotkun.</translation>
+<translation id="6380100320871303656">Forhleður oftar síðum sem Egon telur að þú munir opna. Þessi stilling kann að auka gagnanotkun.</translation>
 <translation id="6385407407546870227">Þegar kveikt er á prufuútgáfum eru traustir lyklar notaðir til að draga úr rusli og svikum til að auðvelda vefsvæðum að berjast gegn svikum og greina á milli spjallara og fólks.
 
 Í samræmi við notkun þína á vefsvæði, til dæmis þegar þú skráir þig reglulega inn á reikning, getur viðkomandi vefsvæði úthlutað vafranum þínum traustum lykli. Þegar önnur vefsvæði sem þú opnar síðar leita að og finna gildan traustan lykil er líklegra að viðkomandi vefsvæði skilgreini þig sem manneskju en spjallara.
@@ -988,7 +988,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="6394791151443660613">Leit: <ph name="SEARCH_QUERY" /></translation>
 <translation id="6395288395575013217">TENGILL</translation>
 <translation id="6397616442223433927">Nettenging komin aftur</translation>
-<translation id="6401458660421980302">Til að senda þennan flipa í annað tæki þarftu að skrá þig þar inn í Chrome</translation>
+<translation id="6401458660421980302">Til að senda þennan flipa í annað tæki þarftu að skrá þig þar inn í Egon</translation>
 <translation id="6402652558933147609"><ph name="ERROR_CODE" /> á <ph name="VIOLATED_URL" /></translation>
 <translation id="6403371459378431832">Samstilla gögnin þín í öllum tækjum</translation>
 <translation id="6404511346730675251">Breyta bókamerki</translation>
@@ -997,7 +997,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="6410404864818553978">Grunnnotkunargögn</translation>
 <translation id="6410883413783534063">Opnaðu flipa til að skoða mismunandi síður samtímis</translation>
 <translation id="6411219469806822692">Kemst ekki ofar. Prófaðu að byrja ofar á síðunni.</translation>
-<translation id="6412673304250309937">Ber vefslóðir saman við lista yfir óörugg vefsvæði sem er vistaður í Chrome. Ef vefsvæði reynir að stela aðgangsorðinu þínu, eða ef þú sækir skaðlega skrá, gæti Chrome einnig sent vefslóðir í Örugga vefskoðun, þar á meðal hluta af innihaldi síðna.</translation>
+<translation id="6412673304250309937">Ber vefslóðir saman við lista yfir óörugg vefsvæði sem er vistaður í Egon. Ef vefsvæði reynir að stela aðgangsorðinu þínu, eða ef þú sækir skaðlega skrá, gæti Egon einnig sent vefslóðir í Örugga vefskoðun, þar á meðal hluta af innihaldi síðna.</translation>
 <translation id="641643625718530986">Prenta...</translation>
 <translation id="6422857128426228781">Hér sérðu vörur sem þú vaktar</translation>
 <translation id="6433501201775827830">Veldu leitarvélina þína</translation>
@@ -1008,16 +1008,16 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="6447558397796644647">Bókamerki finnst ekki. Athugaðu stafsetninguna eða bættu við nýju bókamerki.</translation>
 <translation id="6459045781120991510">Kannanir</translation>
 <translation id="6461962085415701688">Ekki hægt að opna skrá</translation>
-<translation id="6464977750820128603">Þú sérð vefsvæðin sem þú opnar í Chrome og velur teljara fyrir þau.\n\nGoogle fær upplýsingar um þau vefsvæði sem þú velur teljara fyrir og hversu lengi þú ert á þeim. Þessar upplýsingar eru notaðar til að bæta virkni stafrænnar vellíðunar.</translation>
+<translation id="6464977750820128603">Þú sérð vefsvæðin sem þú opnar í Egon og velur teljara fyrir þau.\n\nGoogle fær upplýsingar um þau vefsvæði sem þú velur teljara fyrir og hversu lengi þú ert á þeim. Þessar upplýsingar eru notaðar til að bæta virkni stafrænnar vellíðunar.</translation>
 <translation id="6473086018775716761">Listi yfir deilingarkosti á hálfum skjánum.</translation>
 <translation id="6475951671322991020">Sækja myndskeið</translation>
 <translation id="6477928892249167417">Þessi vefsvæði virðast vera þér mikilvæg:</translation>
 <translation id="6482749332252372425"><ph name="FILE_NAME" /> niðurhal mistókst vegna skorts á geymslurými.</translation>
 <translation id="6496823230996795692">Til að nota <ph name="APP_NAME" /> í fyrsta skipti skaltu tengjast internetinu.</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{Skrá sótt}one{# skrá sótt}other{# skrár sóttar}}</translation>
-<translation id="6508722015517270189">Endurræsa Chrome</translation>
+<translation id="6508722015517270189">Endurræsa Egon</translation>
 <translation id="6527303717912515753">Deila</translation>
-<translation id="6532866250404780454">Vefsvæði sem þú opnar í Chrome birtast ekki. Öllum teljurum vefsvæða verður eytt.</translation>
+<translation id="6532866250404780454">Vefsvæði sem þú opnar í Egon birtast ekki. Öllum teljurum vefsvæða verður eytt.</translation>
 <translation id="6534565668554028783">Google var of lengi að svara</translation>
 <translation id="6539092367496845964">Eitthvað fór úrskeiðis. Reyndu aftur síðar.</translation>
 <translation id="6541042852576515209">Breyta stærð og snúa</translation>
@@ -1030,29 +1030,29 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="6565959834589222080">Wi-Fi er notað þegar það er í boði</translation>
 <translation id="6569373978618239158">Núna sérðu sögur frá <ph name="SITE_NAME" /> þegar þú opnar nýjan flipa. Vefsvæði sem þú fylgir eru vistuð á Google reikningnum þínum. Þú getur stjórnað þeim í stillingum Tillagna.</translation>
 <translation id="6573096386450695060">Leyfa alltaf</translation>
-<translation id="6573431926118603307">Flipar sem þú hefur opnað í Chrome í öðrum tækjum birtast hér.</translation>
+<translation id="6573431926118603307">Flipar sem þú hefur opnað í Egon í öðrum tækjum birtast hér.</translation>
 <translation id="6583199322650523874">Bókamerkja þessa síðu</translation>
 <translation id="6588043302623806746">Nota öruggt DNS</translation>
 <translation id="6590471736817333463">Sparaðu allt að 60% af gögnum</translation>
 <translation id="6590680911007613645">Gakktu úr skugga um að aðgangsorðið sem þú ert að vista passi við aðgangsorðið fyrir <ph name="SITE" />.</translation>
 <translation id="6593061639179217415">Tölvuvefsvæði</translation>
-<translation id="6594121454516132231">Sjáðu hvernig Chrome stefnir að því að vernda þig fyrir rakningartækni en varðveita á sama tíma opna vefinn.</translation>
+<translation id="6594121454516132231">Sjáðu hvernig Egon stefnir að því að vernda þig fyrir rakningartækni en varðveita á sama tíma opna vefinn.</translation>
 <translation id="6595046016124923392">Myndir eru sendar til Google til að bæta lýsingar.</translation>
-<translation id="6600954340915313787">Afritað yfir í Chrome</translation>
+<translation id="6600954340915313787">Afritað yfir í Egon</translation>
 <translation id="661266467055912436">Eykur öryggi þitt og allra á vefnum.</translation>
 <translation id="6618554661997243500">Ýttu á heimahnappinn til að sjá mest sóttu vefsvæðin og sögur fyrir þig</translation>
-<translation id="6621391692573306628">Til að senda þennan flipa í annað tæki þarftu að skrá þig inn í Chrome í báðum tækjum</translation>
+<translation id="6621391692573306628">Til að senda þennan flipa í annað tæki þarftu að skrá þig inn í Egon í báðum tækjum</translation>
 <translation id="6627583120233659107">Breyta möppu</translation>
 <translation id="6633067410344541938">Taka huliðsstillingu úr lás</translation>
 <translation id="6636623428211296678">Skoðaðu fleiri stillingar hér að neðan eða ljúktu þessu núna</translation>
 <translation id="663674369910034433">Frekari upplýsingar sem tengjast persónuvernd, öryggi og gagnasöfnun má finna í <ph name="BEGIN_LINK1" />Samstilling<ph name="END_LINK1" /> og <ph name="BEGIN_LINK2" />Google þjónustur<ph name="END_LINK2" /></translation>
-<translation id="6637100877383020115">Chrome sendir gögn um notkun og hrun til Google til að bæta forritið. <ph name="BEGIN_UMA_LINK" />Stjórna<ph name="END_UMA_LINK" /></translation>
+<translation id="6637100877383020115">Egon sendir gögn um notkun og hrun til Google til að bæta forritið. <ph name="BEGIN_UMA_LINK" />Stjórna<ph name="END_UMA_LINK" /></translation>
 <translation id="6640207029842583248">Útiloka alltaf</translation>
 <translation id="6641780377503683465">Fjarlægja <ph name="INTEREST" /></translation>
 <translation id="6643016212128521049">Hreinsa</translation>
 <translation id="6645629752388991326">Stjórnaðu því hvaða tæki geta skráð sig inn með því að nota þetta tæki sem öryggislykil.</translation>
 <translation id="6647441008198474441">Vefslóðir sem þú opnar eru sendar til Google til að spá fyrir um hvaða vefsvæði þú kannt að opna næst</translation>
-<translation id="6648459603387803038">Kerfisstjórinn þinn getur breytt uppsetningu vafrans með fjartengingu. Virkni þinni í þessu tæki er einnig hægt að stjórna utan Chrome.</translation>
+<translation id="6648459603387803038">Kerfisstjórinn þinn getur breytt uppsetningu vafrans með fjartengingu. Virkni þinni í þessu tæki er einnig hægt að stjórna utan Egon.</translation>
 <translation id="6648977384226967773">{CONTACT,plural, =1{<ph name="CONTACT_PREVIEW" />\u2026 og <ph name="NUMBER_OF_ADDITIONAL_CONTACTS" /> í viðbót}one{<ph name="CONTACT_PREVIEW" />\u2026 og <ph name="NUMBER_OF_ADDITIONAL_CONTACTS" /> í viðbót}other{<ph name="CONTACT_PREVIEW" />\u2026 og <ph name="NUMBER_OF_ADDITIONAL_CONTACTS" /> í viðbót}}</translation>
 <translation id="6649642165559792194">Forskoða mynd <ph name="BEGIN_NEW" />Nýtt<ph name="END_NEW" /></translation>
 <translation id="6657585470893396449">Aðgangsorð</translation>
@@ -1060,9 +1060,9 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="666731172850799929">Opna í <ph name="APP_NAME" /></translation>
 <translation id="6671495933530132209">Afrita mynd</translation>
 <translation id="6674571176963658787">Sláðu inn aðgangsorðið þitt til að hefja samstillingu</translation>
-<translation id="6676840375528380067">Viltu hreinsa Chrome gögnin úr þessu tæki?</translation>
-<translation id="6676927815633975364">Skráðu þig inn á þetta vefsvæði og Chrome</translation>
-<translation id="6684809838922667136">Bættu Chrome</translation>
+<translation id="6676840375528380067">Viltu hreinsa Egon gögnin úr þessu tæki?</translation>
+<translation id="6676927815633975364">Skráðu þig inn á þetta vefsvæði og Egon</translation>
+<translation id="6684809838922667136">Bættu Egon</translation>
 <translation id="670498945988402717">Athugað í gær</translation>
 <translation id="6710213216561001401">Til baka</translation>
 <translation id="671481426037969117">Tímamælir <ph name="FQDN" /> rann út. Hann byrjar aftur á morgun.</translation>
@@ -1076,11 +1076,11 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="6767294960381293877">Tækjalisti fyrir deilingu flipa opinn á hálfum skjánum.</translation>
 <translation id="6770042910635026163">Vefsvæði sem þú heimsækir sem skilgreina áhugasvið þitt</translation>
 <translation id="6770602306803890733">Eykur öryggi þitt og allra á vefnum</translation>
-<translation id="6785476624617658922">Viðbótarskilmálar Google Chrome og ChromeOS</translation>
+<translation id="6785476624617658922">Viðbótarskilmálar Google Egon og ChromeOS</translation>
 <translation id="6795633245022906657">Opna nýjan flipa hratt. Opnaðu stillingar til að breyta þessari flýtileið.</translation>
 <translation id="6802555630140434547">Glugganum verður lokað</translation>
 <translation id="6811034713472274749">Hægt er að skoða síðuna</translation>
-<translation id="6813446258015311409">Skrá inn á Chrome, opnað.</translation>
+<translation id="6813446258015311409">Skrá inn á Egon, opnað.</translation>
 <translation id="6817747507826986771">Deildu þessari síðu á skjótan hátt. Haltu fingri á þessari flýtileið til að breyta henni.</translation>
 <translation id="6819199143469632133">Skráðu þig inn til að fá aðgang að Google efninu þínu í öllum tækjum</translation>
 <translation id="6820686453637990663">CVC</translation>
@@ -1123,7 +1123,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="7029390216614421513">Staðsettu QR-kóðann eða strikamerkið innan rammans.</translation>
 <translation id="7029809446516969842">Aðgangsorð</translation>
 <translation id="7030304022046916278">Sendir vefslóðir til athugunar í öruggri vefskoðun</translation>
-<translation id="7037830628447527439">Skráðu þig inn á Chrome með Google reikningnum þínum</translation>
+<translation id="7037830628447527439">Skráðu þig inn á Egon með Google reikningnum þínum</translation>
 <translation id="7038956721828960940">chrome_image_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
 <translation id="7054588988317389591">Fá myndlýsingar?</translation>
 <translation id="7055152154916055070">Lokað á framsendingu:</translation>
@@ -1132,8 +1132,8 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="707155805709242880">Veldu hvað á að samstilla hér að neðan</translation>
 <translation id="7077143737582773186">SD-kort</translation>
 <translation id="7080806333218412752">Sendir vefslóðir til athugunar í Öruggri vefskoðun. Sendir einnig lítið brot af síðum, niðurhali, virkni viðbóta og kerfisupplýsingar til að auðvelda leit að nýjum ógnum. Tengir þessi gögn tímabundið við Google reikninginn þinn þegar þú ert skráð(ur) inn til að auka öryggi þitt í Google forritum.</translation>
-<translation id="7085332316435785646">Veldu hvort að Chrome ferill eigi að fylgja með til að fá sérsniðnari upplifun í Google þjónustum</translation>
-<translation id="7088681679121566888">Chrome er uppfærður</translation>
+<translation id="7085332316435785646">Veldu hvort að Egon ferill eigi að fylgja með til að fá sérsniðnari upplifun í Google þjónustum</translation>
+<translation id="7088681679121566888">Egon er uppfærður</translation>
 <translation id="7093803425429738190">Bæta við tilfinningu</translation>
 <translation id="7105047059074518658">Skráðu þig inn svo að vafrinn virki betur í öllum tækjunum þínum</translation>
 <translation id="7106762743910369165">Vafranum er stjórnað af fyrirtækinu þínu</translation>
@@ -1142,23 +1142,23 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="7143462160780459030">Ekki tókst að taka skjámynd. Reyndu aftur.</translation>
 <translation id="7146622961999026732">Þessi svæði og forrit virðast vera þér mikilvæg:</translation>
 <translation id="7149893636342594995">Síðastliðinn sólarhring</translation>
-<translation id="7155317020660659215">Breyttu stillingunum svo að Chrome geti notað myndavélina til að skanna inn QR-kóða</translation>
+<translation id="7155317020660659215">Breyttu stillingunum svo að Egon geti notað myndavélina til að skanna inn QR-kóða</translation>
 <translation id="7173114856073700355">Opna stillingar</translation>
 <translation id="7177466738963138057">Þú getur breytt þessu síðar í stillingunum</translation>
 <translation id="7177873915659574692">Ekki er hægt að búa til QR-kóða. Vefslóðin er lengri en <ph name="CHARACTER_LIMIT" /> stafir.</translation>
-<translation id="7177959540995930968">Þú getur kynnt þér þessa eiginleika betur í stillingum Chrome.</translation>
+<translation id="7177959540995930968">Þú getur kynnt þér þessa eiginleika betur í stillingum Egon.</translation>
 <translation id="718226107353899806">Þú getur bætt við allt að <ph name="MAX_NUM_REACTIONS" /> viðbrögðum</translation>
 <translation id="7183693674623539380">Flipahópur – <ph name="TITLE_OF_GROUP" /></translation>
-<translation id="7187993566681480880">Tryggir öryggi þitt í Chrome og kann að vera notað til að auka öryggi þitt í öðrum Google forritum þegar þú hefur skráð þig inn.</translation>
+<translation id="7187993566681480880">Tryggir öryggi þitt í Egon og kann að vera notað til að auka öryggi þitt í öðrum Google forritum þegar þú hefur skráð þig inn.</translation>
 <translation id="7191430249889272776">Flipi opnaður í bakgrunni.</translation>
 <translation id="7196215469483532480">Útskýring á leiðbeiningum um persónuvernd opnuð á öllum skjánum</translation>
 <translation id="7207760545532569765">Endurheimta <ph name="TAB_COUNT" /> flipa sem nýja bakgrunnsflipa.</translation>
 <translation id="7208109991155904980">Viðbrögð færð</translation>
-<translation id="7217781228893594884">Huliðsflipum verður læst þegar þú lokar Chrome</translation>
+<translation id="7217781228893594884">Huliðsflipum verður læst þegar þú lokar Egon</translation>
 <translation id="7222235798733126207">Takmörkuð deiling milli vefsvæða</translation>
 <translation id="7227218174981371415">{FILE_COUNT,plural, =1{Ein skrá bíður niðurhals}one{# skrá bíður niðurhals}other{# skrár bíða niðurhals}}</translation>
 <translation id="7242755609445462077">Áhersluatriði stílfært <ph name="CURRENT_DATE" /></translation>
-<translation id="7248069434667874558">Gakktu úr skugga um að kveikt sé á samstillingu í Chrome í <ph name="TARGET_DEVICE_NAME" /></translation>
+<translation id="7248069434667874558">Gakktu úr skugga um að kveikt sé á samstillingu í Egon í <ph name="TARGET_DEVICE_NAME" /></translation>
 <translation id="7252076891734325316">Stilltu símanum upp við tölvuna</translation>
 <translation id="727288900855680735">Senda <ph name="ONE_TIME_CODE" /> til <ph name="ORIGIN" />?</translation>
 <translation id="7274013316676448362">Vefsvæði á bannlista</translation>
@@ -1168,7 +1168,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="7291910923717764901">Lýsingum á myndum var bætt við fyrir þessa síðu</translation>
 <translation id="7293429513719260019">Velja tungumál</translation>
 <translation id="729975465115245577">Í tækinu er ekkert forrit sem getur vistað aðgangsorðaskrána.</translation>
-<translation id="7304873321153398381">Án nettengingar. Chrome getur ekki athugað aðgangsorðin þín.</translation>
+<translation id="7304873321153398381">Án nettengingar. Egon getur ekki athugað aðgangsorðin þín.</translation>
 <translation id="7313188324932846546">Ýttu til að setja upp samstillingu</translation>
 <translation id="7332075081379534664">Innskráning tókst</translation>
 <translation id="7333232495927792353">Samstilltu til að fá meira viðeigandi efni frá Google</translation>
@@ -1184,12 +1184,12 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="7376560087009844242">Þú gætir fengið betri niðurstöður ef þú setur inn meira af texta síðunnar þegar þú notar snertileit. Þú getur alltaf opnað <ph name="BEGIN_LINK" />stillingar<ph name="END_LINK" /> til að breyta þessu.</translation>
 <translation id="7379900596734708416">Dökkt þema fyrir vefsvæði er í boði</translation>
 <translation id="7400418766976504921">Vefslóð</translation>
-<translation id="7403691278183511381">Fyrsta notkun Chrome</translation>
+<translation id="7403691278183511381">Fyrsta notkun Egon</translation>
 <translation id="741204030948306876">Hljómar vel</translation>
 <translation id="7419565702166471774">Nota ávallt öruggar tengingar</translation>
 <translation id="7431991332293347422">Stjórnaðu því hvernig vefskoðunarferillinn þinn er notaður til að sérsníða leit og fleira</translation>
 <translation id="7435356471928173109">Kerfisstjórinn slökkti á þessu</translation>
-<translation id="7437998757836447326">Skrá út af Chrome</translation>
+<translation id="7437998757836447326">Skrá út af Egon</translation>
 <translation id="7443901082822119557">Þegar huliðsgluggi er notaður geta vefsvæði ekki notað fótspor til að sjá vafranotkun þína á vefsvæðum, til dæmis til að sérsníða auglýsingar. Ekki er víst að allir eiginleikar á öllum vefsvæðum virki.</translation>
 <translation id="7453467225369441013">Skráir þig út af flestum vefsvæðum. Þú verður ekki skráð(ur) út af Google reikningnum þínum.</translation>
 <translation id="7454641608352164238">Ekki nægt pláss</translation>
@@ -1206,7 +1206,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="749294055653435199">Google linsa er ekki í boði í þessu tæki</translation>
 <translation id="7493994139787901920"><ph name="VERSION" /> (uppfært <ph name="TIME_SINCE_UPDATE" />)</translation>
 <translation id="7498271377022651285">Augnablik…</translation>
-<translation id="7502234197872745058">Til að skrá þig út af Google reikningnum þínum á öllum vefsvæðum skaltu <ph name="BEGIN_LINK1" />skrá þig út af Chrome<ph name="END_LINK1" />.</translation>
+<translation id="7502234197872745058">Til að skrá þig út af Google reikningnum þínum á öllum vefsvæðum skaltu <ph name="BEGIN_LINK1" />skrá þig út af Egon<ph name="END_LINK1" />.</translation>
 <translation id="750228856503700085">Uppfærslur eru ekki tiltækar</translation>
 <translation id="7507207699631365376">Sjá <ph name="BEGIN_LINK" />persónuverndarstefnu<ph name="END_LINK" /> þjónustuveitu</translation>
 <translation id="7514365320538308">Sækja</translation>
@@ -1214,7 +1214,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="752220631458524187">Aftengja þegar þú ert búin(n)</translation>
 <translation id="7523960634226602883">Leitaðu með Google linsu í myndavélinni</translation>
 <translation id="7562080006725997899">Hreinsar vefskoðunargögn</translation>
-<translation id="756809126120519699">Chrome gögnum eytt</translation>
+<translation id="756809126120519699">Egon gögnum eytt</translation>
 <translation id="7577900504646297215">Stjórna áhugamálum</translation>
 <translation id="757855969265046257">{FILES,plural, =1{<ph name="FILES_DOWNLOADED_ONE" /> skrá sótt}one{<ph name="FILES_DOWNLOADED_MANY" /> skrá sótt}other{<ph name="FILES_DOWNLOADED_MANY" /> skrár sóttar}}</translation>
 <translation id="7581273696622423628">Svara könnun</translation>
@@ -1226,7 +1226,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="7612619742409846846">Innskráð(ur) á Google sem</translation>
 <translation id="7616551326690708776">Veldu sniðmát fyrir áherslumerkingu.</translation>
 <translation id="7619072057915878432">Niðurhal á <ph name="FILE_NAME" /> mistókst vegna villu í netkerfi.</translation>
-<translation id="7626032353295482388">Velkomin(n) í Chrome</translation>
+<translation id="7626032353295482388">Velkomin(n) í Egon</translation>
 <translation id="7630202231528827509">Vefslóð veitu</translation>
 <translation id="7634280112532283638">Dregið úr rusli og svikum</translation>
 <translation id="7638584964844754484">Rangt aðgangsorð</translation>
@@ -1250,7 +1250,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="7725024127233776428">Síður sem þú setur í bókamerki birtast hér</translation>
 <translation id="7757787379047923882">Texta deilt af <ph name="DEVICE_NAME" /></translation>
 <translation id="7762668264895820836">SD-kort <ph name="SD_CARD_NUMBER" /></translation>
-<translation id="7762928140712606393">Skráðu þig inn til að fá viðbótareiginleika og njóta hámarksöryggis Chrome</translation>
+<translation id="7762928140712606393">Skráðu þig inn til að fá viðbótareiginleika og njóta hámarksöryggis Egon</translation>
 <translation id="7764225426217299476">Bæta við heimilisfangi</translation>
 <translation id="7772032839648071052">Staðfestu aðgangsorðið</translation>
 <translation id="7772375229873196092">Loka <ph name="APP_NAME" /></translation>
@@ -1277,10 +1277,10 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="7875915731392087153">Skrifa tölvupóst</translation>
 <translation id="7876243839304621966">Fjarlægja allt</translation>
 <translation id="7879130110979560610">{READING_LIST_REMINDER_NOTIFICATION_SUBTITLE,plural, =1{<ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_ONE" /> síða er ólesin}one{<ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_MANY" /> síða er ólesin}other{<ph name="READING_LIST_REMINDER_NOTIFICATION_SUBTITLE_MANY" /> síður eru ólesnar}}</translation>
-<translation id="7886917304091689118">Keyrir í Chrome</translation>
+<translation id="7886917304091689118">Keyrir í Egon</translation>
 <translation id="7887174313503389866">Fáðu kynningu með leiðsögn um helstu öryggis- og persónuverndarstýringar Opnaðu hverja stillingu fyrir sig til að fá að sjá fleiri valkosti.</translation>
 <translation id="7887334752153342268">Afrita</translation>
-<translation id="789763218334337857">Svona notarðu Chrome</translation>
+<translation id="789763218334337857">Svona notarðu Egon</translation>
 <translation id="7903184275147100332">Þetta gæti tekið smástund</translation>
 <translation id="7914399737746719723">Forrit uppsett</translation>
 <translation id="7919123827536834358">Þýða þessi tungumál sjálfkrafa</translation>
@@ -1304,7 +1304,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="7998918019931843664">Opna aftur flipa sem var lokað</translation>
 <translation id="8004582292198964060">Vafri</translation>
 <translation id="8006818846907410687">Útiloka þegar huliðsstilling er notuð</translation>
-<translation id="8013372441983637696">Hreinsa líka Chrome gögn úr þessu tæki</translation>
+<translation id="8013372441983637696">Hreinsa líka Egon gögn úr þessu tæki</translation>
 <translation id="8015452622527143194">Færa allt á síðunni í upprunalega stærð</translation>
 <translation id="8026334261755873520">Hreinsa vafragögn</translation>
 <translation id="8027863900915310177">Velja hvert á að hlaða niður</translation>
@@ -1318,7 +1318,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="8048728378294435881">Afritaðu efnið þitt og notaðu það í hvaða tæki sem er</translation>
 <translation id="8051695050440594747"><ph name="MEGABYTES" /> MB tiltæk</translation>
 <translation id="8058655154417507695">Gildir til ársins</translation>
-<translation id="8058746566562539958">Opna í nýjum flipa Chrome</translation>
+<translation id="8058746566562539958">Opna í nýjum flipa Egon</translation>
 <translation id="8062594758852531064">Aukin forhleðsla:</translation>
 <translation id="8063895661287329888">Ekki tókst að bæta bókamerki við.</translation>
 <translation id="806745655614357130">Halda gögnunum mínum aðskildum</translation>
@@ -1329,14 +1329,14 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="8084285576995584326">Stjórnaðu gögnum Google reikningsins</translation>
 <translation id="808747664143081553">Tengt við tæki</translation>
 <translation id="8088176524274673045">Deildu með öðrum og leyfðu fólki í nágrenninu að skanna inn þennan QR-kóða</translation>
-<translation id="8100969750121413114">Skráðu þig inn til að laga Chrome að þínum þörfum</translation>
+<translation id="8100969750121413114">Skráðu þig inn til að laga Egon að þínum þörfum</translation>
 <translation id="8103578431304235997">Huliðsflipi</translation>
 <translation id="8105613260829665809">Með því að halda áfram samþykkirðu <ph name="BEGIN_TOS_LINK" />þjónustuskilmálana<ph name="END_TOS_LINK" />.\nChrome sendir gögn um notkun og hrun til Google til að bæta forritið. <ph name="BEGIN_UMA_LINK" />Stjórna<ph name="END_UMA_LINK" /></translation>
 <translation id="8105893657415066307"><ph name="DESCRIPTION" /> <ph name="SEPARATOR" /> <ph name="FILE_SIZE" /></translation>
 <translation id="8107530384992929318">Loka röðunarvalkostum</translation>
 <translation id="8109613176066109935">Kveiktu á samstillingu til að fá aðgang að bókamerkjunum þínum í öllum tækjum</translation>
-<translation id="8110024788458304985">Hjálpa til við að bæta eiginleika og afköst Chrome</translation>
-<translation id="8110087112193408731">Viltu sjá það sem þú gerir í Chrome í stafrænni vellíðan?</translation>
+<translation id="8110024788458304985">Hjálpa til við að bæta eiginleika og afköst Egon</translation>
+<translation id="8110087112193408731">Viltu sjá það sem þú gerir í Egon í stafrænni vellíðan?</translation>
 <translation id="8127542551745560481">Breyta heimasíðu</translation>
 <translation id="8130309322784422030">Vistuðu innskráningarupplýsingarnar þínar gætu verið úreltar</translation>
 <translation id="813082847718468539">Skoða upplýsingar um vefsvæði</translation>
@@ -1354,7 +1354,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="8221656072740924283">Áfram</translation>
 <translation id="8223642481677794647">Valmynd á straumspjaldi</translation>
 <translation id="8250920743982581267">Skjöl</translation>
-<translation id="825412236959742607">Chrome fjarlægði eitthvað efni því þessi síða notar of mikið minni.</translation>
+<translation id="825412236959742607">Egon fjarlægði eitthvað efni því þessi síða notar of mikið minni.</translation>
 <translation id="8255617931166444521">Vefsvæði geta einungis notað fótspor frá þér til að sjá vafranotkun þína á umræddu vefsvæði</translation>
 <translation id="8259179246279078674">Vegna þess að forhlaðnar síður eru dulkóðaðar mun Google ekki fá upplýsingar um efni þeirra. Netþjónar Google fá upplýsingar um hvaða vefsvæðum er forhlaðið á lokaðan hátt. Þær upplýsingar eru eingöngu notaðar til að forhlaða síðum og þær eru ekki tengdar við aðrar upplýsingar á Google reikningnum þínum.</translation>
 <translation id="8260126382462817229">Reyndu að skrá þig inn aftur</translation>
@@ -1368,22 +1368,22 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="8310344678080805313">Staðlaðir flipar</translation>
 <translation id="831192587911042850">Bætir núverandi vefsvæði á lista yfir vefsvæði sem þú fylgir.</translation>
 <translation id="834313815369870491">Aldrei þýða vefsvæði</translation>
-<translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Svona notum við þessi gögn:<ph name="END_BOLD" /> Vefsvæði geta vistað upplýsingar um áhugasvið þín í Chrome. Ef þú heimsækir til dæmis vefsvæði til að kaupa skó fyrir maraþonhlaup kann vefsvæðið að skilgreina maraþonhlaup sem áhugasvið þitt. Ef þú heimsækir svo annað vefsvæði síðar meir til að skrá þig í hlaup getur viðkomandi vefsvæði birt þér auglýsingu um hlaupaskó í samræmi við áhugasvið þitt.</translation>
+<translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Svona notum við þessi gögn:<ph name="END_BOLD" /> Vefsvæði geta vistað upplýsingar um áhugasvið þín í Egon. Ef þú heimsækir til dæmis vefsvæði til að kaupa skó fyrir maraþonhlaup kann vefsvæðið að skilgreina maraþonhlaup sem áhugasvið þitt. Ef þú heimsækir svo annað vefsvæði síðar meir til að skrá þig í hlaup getur viðkomandi vefsvæði birt þér auglýsingu um hlaupaskó í samræmi við áhugasvið þitt.</translation>
 <translation id="8352996530981010042">Ekki tókst að sækja viðbrögð. Reyndu aftur.</translation>
 <translation id="8354977102499939946">Beittu röddinni til að leita á skjótan hátt. Opnaðu stillingar til að breyta þessari flýtileið.</translation>
 <translation id="835847953965672673"><ph name="NUMBER_OF_DOWNLOADS" /> niðurhöl endurheimt</translation>
 <translation id="8364299278605033898">Sjáðu vinsæl vefsvæði</translation>
 <translation id="8368001212524806591">Vakta verð</translation>
-<translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Svona notum við þessi gögn:<ph name="END_BOLD" /> Chrome getur áætlað áhugasvið þitt. Seinna getur vefsvæði sem þú opnar beðið Chrome um að sýna áhugasvið þitt til að hægt sé að sérsníða auglýsingarnar sem þú sérð.</translation>
+<translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Svona notum við þessi gögn:<ph name="END_BOLD" /> Egon getur áætlað áhugasvið þitt. Seinna getur vefsvæði sem þú opnar beðið Egon um að sýna áhugasvið þitt til að hægt sé að sérsníða auglýsingarnar sem þú sérð.</translation>
 <translation id="8387617938027387193">Staðfestu hver þú ert</translation>
 <translation id="8393700583063109961">Senda skilaboð</translation>
-<translation id="8394720698884623075">Ber vefslóðir saman við lista yfir óörugg vefsvæði sem er vistaður í Chrome</translation>
+<translation id="8394720698884623075">Ber vefslóðir saman við lista yfir óörugg vefsvæði sem er vistaður í Egon</translation>
 <translation id="8402673309244746971">Opna „Fylgist með“</translation>
 <translation id="8413126021676339697">Sýna allan feril</translation>
 <translation id="8414396119627470038">Skráðu þig inn á <ph name="SITE_ETLD_PLUS_ONE" /> með <ph name="IDENTITY_PROVIDER_ETLD_PLUS_ONE" /></translation>
-<translation id="8416347857511542594">Nánar um sérsniðnar auglýsingar í Chrome</translation>
+<translation id="8416347857511542594">Nánar um sérsniðnar auglýsingar í Egon</translation>
 <translation id="8419244640277402268">Taka með</translation>
-<translation id="8424781820952413435">Síða send. Opnaðu Chrome í <ph name="DEVICE_TYPE" /> til að sjá hana.</translation>
+<translation id="8424781820952413435">Síða send. Opnaðu Egon í <ph name="DEVICE_TYPE" /> til að sjá hana.</translation>
 <translation id="8427875596167638501">Forskoðunarflipinn er hálfopinn</translation>
 <translation id="8428213095426709021">Stillingar</translation>
 <translation id="8430824733382774043">Aðeins deila skjámynd</translation>
@@ -1410,16 +1410,16 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="8497242791509864205">Opna röðunarvalkosti</translation>
 <translation id="8497480609928300907">Útskýring á leiðbeiningum um persónuvernd</translation>
 <translation id="8497726226069778601">Ekkert hér… enn sem komið er</translation>
-<translation id="8503559462189395349">Aðgangsorð í Chrome</translation>
+<translation id="8503559462189395349">Aðgangsorð í Egon</translation>
 <translation id="8503813439785031346">Notandanafn</translation>
 <translation id="8505766168025405649">Sjá tilkynningu um stöðu niðurhals</translation>
-<translation id="8514477925623180633">Flytja aðgangsorð út úr Chrome</translation>
+<translation id="8514477925623180633">Flytja aðgangsorð út úr Egon</translation>
 <translation id="8516012719330875537">Myndvinnsla</translation>
-<translation id="8516431725144212809">Mat Chrome á áhugasviðum þínum</translation>
+<translation id="8516431725144212809">Mat Egon á áhugasviðum þínum</translation>
 <translation id="8523928698583292556">Eyða vistuðu aðgangsorði</translation>
 <translation id="8540136935098276800">Sláðu inn vefslóð á réttu sniði</translation>
 <translation id="854522910157234410">Opna þessa síðu</translation>
-<translation id="8551513938758868521">Læsa huliðsflipum um leið og þú hættir í Chrome</translation>
+<translation id="8551513938758868521">Læsa huliðsflipum um leið og þú hættir í Egon</translation>
 <translation id="8559990750235505898">Bjóðast til að þýða síður á önnur tungumál</translation>
 <translation id="8560560256644480257">Býr til GIF <ph name="PERCENT" />%%</translation>
 <translation id="8560602726703398413">Finndu leslistann þinn í bókamerkjum</translation>
@@ -1432,7 +1432,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="8583805026567836021">Hreinsar reikningsgögn</translation>
 <translation id="859046281437143747">Nota hnappinn „Fleiri valkostir“ til að vakta verð</translation>
 <translation id="860043288473659153">Nafn korthafa</translation>
-<translation id="8602358303461588329">Skrá inn á Chrome, lokað.</translation>
+<translation id="8602358303461588329">Skrá inn á Egon, lokað.</translation>
 <translation id="860282621117673749">Tilkynningar um verðlækkanir</translation>
 <translation id="8616006591992756292">Google reikningurinn þinn kann að vera með annars konar vefskoðunarferil á <ph name="BEGIN_LINK" />myactivity.google.com<ph name="END_LINK" />.</translation>
 <translation id="8617240290563765734">Opna ráðlögðu vefslóðina sem tilgreind er í sótta efninu?</translation>
@@ -1442,10 +1442,10 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="864544049772947936">Stjórna gluggum (<ph name="INSTANCE_COUNTS" />)</translation>
 <translation id="8645920082661222035">Spáir fyrir um og varar þig við hættulegum atvikum áður en þau eiga sér stað</translation>
 <translation id="8646467750715887511">Síður hlaðast eingöngu eftir að þú opnar þær.</translation>
-<translation id="8655129584991699539">Þú getur hreinsað gögnin í stillingum Chrome</translation>
-<translation id="8659579665266920523">Svona leitarðu með Chrome</translation>
+<translation id="8655129584991699539">Þú getur hreinsað gögnin í stillingum Egon</translation>
+<translation id="8659579665266920523">Svona leitarðu með Egon</translation>
 <translation id="8662811608048051533">Skráir þig út af flestum vefsvæðum.</translation>
-<translation id="8664215986015753476">Notaðu Chrome eins og þér hentar best</translation>
+<translation id="8664215986015753476">Notaðu Egon eins og þér hentar best</translation>
 <translation id="8664979001105139458">Skráarheiti er þegar til</translation>
 <translation id="8666759526542103597">Um sérsniðnar auglýsingar út frá vafravirkni</translation>
 <translation id="8676789164135894283">Innskráningarstaðfestingar</translation>
@@ -1489,8 +1489,8 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="8922289737868596582">Náðu í síður með hnappnum „Fleiri valkostir“ til að nota þær án nettengingar</translation>
 <translation id="8924575305646776101"><ph name="BEGIN_LINK" />Nánar<ph name="END_LINK" /></translation>
 <translation id="892496902842311796"><ph name="LANG" /> er til reiðu</translation>
-<translation id="8937267401510745927">Google fær vefslóðir og innihald vefsvæða þar sem þú notar Hjálparann, auk upplýsinga sem þú sendir með Hjálparanum, til að auðvelda þér að ljúka verkefnum. Þessar upplýsingar gætu verið vistaðar á Google reikningnum þínum. Þú getur slökkt á Hjálparanum í stillingum Chrome.</translation>
-<translation id="8937772741022875483">Viltu fjarlægja það sem þú gerir í Chrome úr stafrænni vellíðan?</translation>
+<translation id="8937267401510745927">Google fær vefslóðir og innihald vefsvæða þar sem þú notar Hjálparann, auk upplýsinga sem þú sendir með Hjálparanum, til að auðvelda þér að ljúka verkefnum. Þessar upplýsingar gætu verið vistaðar á Google reikningnum þínum. Þú getur slökkt á Hjálparanum í stillingum Egon.</translation>
+<translation id="8937772741022875483">Viltu fjarlægja það sem þú gerir í Egon úr stafrænni vellíðan?</translation>
 <translation id="8942627711005830162">Opna í öðrum glugga</translation>
 <translation id="8945143127965743188"><ph name="LANG" /> - Ekki tókst að hlaða þessu tungumáli niður. Reyndu aftur síðar.</translation>
 <translation id="8955719471735800169">Efst á síðu</translation>
@@ -1502,17 +1502,17 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="8972098258593396643">Hlaða niður í sjálfgefna möppu?</translation>
 <translation id="8987641763863173640">Stjórna stillingum forskoðunar myndskeiða</translation>
 <translation id="898854820045159673">Viðbrögðum bætt við</translation>
-<translation id="8989968390305463310">Vafraferillinn þinn hefur áhrif á auglýsingarnar sem þú sérð og áhugasviðin sem eru áætluð hér fyrir neðan. Til að gæta persónuverndar þinnar eyðir Chrome áhugamálunum þínum sjálfkrafa mánaðarlega. Áhugasvið verða hugsanlega endurnýjuð nema þú fjarlægir þau.</translation>
+<translation id="8989968390305463310">Vafraferillinn þinn hefur áhrif á auglýsingarnar sem þú sérð og áhugasviðin sem eru áætluð hér fyrir neðan. Til að gæta persónuverndar þinnar eyðir Egon áhugamálunum þínum sjálfkrafa mánaðarlega. Áhugasvið verða hugsanlega endurnýjuð nema þú fjarlægir þau.</translation>
 <translation id="8993760627012879038">Opna nýjan flipa í huliðsstillingu</translation>
 <translation id="8996847606757455498">Velja aðra veitu</translation>
-<translation id="8998729206196772491">Þú ert að skrá þig út af reikningi sem <ph name="MANAGED_DOMAIN" /> stýrir og veitir í leiðinni stjórnanda lénsins umsjón með Chrome gögnunum þínum. Gögnin þín verða tengd við þennan reikning til frambúðar. Ef þú skráir þig út af Chrome verður gögnunum þínum á þessu tæki eytt, en þau verða áfram geymd á Google reikningnum þínum.</translation>
+<translation id="8998729206196772491">Þú ert að skrá þig út af reikningi sem <ph name="MANAGED_DOMAIN" /> stýrir og veitir í leiðinni stjórnanda lénsins umsjón með Egon gögnunum þínum. Gögnin þín verða tengd við þennan reikning til frambúðar. Ef þú skráir þig út af Egon verður gögnunum þínum á þessu tæki eytt, en þau verða áfram geymd á Google reikningnum þínum.</translation>
 <translation id="9022774213089566801">Oft skoðað</translation>
 <translation id="9041669420854607037">{FILE_COUNT,plural, =1{# myndskeið}one{# myndskeið}other{# myndskeið}}</translation>
 <translation id="9042893549633094279">Persónuvernd og öryggi</translation>
 <translation id="9050666287014529139">Aðgangsorð</translation>
 <translation id="9063523880881406963">Slökkva á beiðni um vefsvæði fyrir tölvur</translation>
 <translation id="9065203028668620118">Breyta</translation>
-<translation id="9065383040763568503">Vistuð gögn sem Chrome telur ekki mikilvæg (t.d. vefsvæði með engar vistaðar stillingar eða sem þú heimsækir sjaldan)</translation>
+<translation id="9065383040763568503">Vistuð gögn sem Egon telur ekki mikilvæg (t.d. vefsvæði með engar vistaðar stillingar eða sem þú heimsækir sjaldan)</translation>
 <translation id="906781307897697745">í <ph name="PRODUCT_NAME" /></translation>
 <translation id="9069999660519089861">Engar ólesnar síður</translation>
 <translation id="9070377983101773829">Hefja raddleit</translation>
@@ -1545,14 +1545,14 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="9212845824145208577">Ekki er hægt að fara neðar. Prófaðu að byrja neðar á síðunni.</translation>
 <translation id="9219103736887031265">Myndir</translation>
 <translation id="9219582468404818260">Hjálpaðu okkur að skapa betri vef</translation>
-<translation id="92381315203627188">Þegar vefsvæði biður um að forhlaða tenglum á lokaðan hátt, dulkóðar Chrome og forhleður síðum í gegnum þjóna Google án fótspora. Þetta kemur í veg fyrir að forhlaðna vefsvæðið geti auðkennt þig.</translation>
-<translation id="926205370408745186">Fjarlægja það sem þú gerir í Chrome úr stafrænni vellíðan</translation>
-<translation id="927968626442779827">Nota Léttútgáfu í Google Chrome</translation>
+<translation id="92381315203627188">Þegar vefsvæði biður um að forhlaða tenglum á lokaðan hátt, dulkóðar Egon og forhleður síðum í gegnum þjóna Google án fótspora. Þetta kemur í veg fyrir að forhlaðna vefsvæðið geti auðkennt þig.</translation>
+<translation id="926205370408745186">Fjarlægja það sem þú gerir í Egon úr stafrænni vellíðan</translation>
+<translation id="927968626442779827">Nota Léttútgáfu í Google Egon</translation>
 <translation id="928550791203542716">Fylgist með <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Heim</translation>
 <translation id="938850635132480979">Villa: <ph name="ERROR_CODE" /></translation>
 <translation id="939598580284253335">Sláðu inn aðgangsorð</translation>
-<translation id="95817756606698420">Chrome getur notast við <ph name="BEGIN_BOLD" />Sogou<ph name="END_BOLD" /> fyrir leit í Kína. Þú getur breytt þessu í <ph name="BEGIN_LINK" />stillingunum<ph name="END_LINK" />.</translation>
+<translation id="95817756606698420">Egon getur notast við <ph name="BEGIN_BOLD" />Sogou<ph name="END_BOLD" /> fyrir leit í Kína. Þú getur breytt þessu í <ph name="BEGIN_LINK" />stillingunum<ph name="END_LINK" />.</translation>
 <translation id="962979164594783469">Setja þetta forrit upp</translation>
 <translation id="96681097142096641">Skoða einfaldaða síðu?</translation>
 <translation id="968900484120156207">Síður sem þú heimsækir birtast hér</translation>

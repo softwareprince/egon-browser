@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">ನೀವು ಈ ನಡುವೆ ಬಳಸದ <ph name="NUMBER_OF_TABS" /> ಟ್ಯಾಬ್‌ಗಳಿವೆ. ಅವುಗಳನ್ನು ಮುಚ್ಚುವುದೇ?</translation>
 <translation id="1181037720776840403">ತೆಗೆದುಹಾಕು</translation>
 <translation id="125153950246128346">ಇನ್ನೊಂದು ಟ್ಯಾಬ್ ನೋಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ</translation>
-<translation id="1403228085774130835">Chrome ಮುಖ್ಯ ಮೆನು ಅಡಿಯಲ್ಲಿ ಇತ್ತೀಚಿನ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿ ನಿಮ್ಮ ಮುಚ್ಚಿದ ಟ್ಯಾಬ್‌ಗಳನ್ನು ನೀವು ಕಾಣಬಹುದು</translation>
+<translation id="1403228085774130835">Egon ಮುಖ್ಯ ಮೆನು ಅಡಿಯಲ್ಲಿ ಇತ್ತೀಚಿನ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿ ನಿಮ್ಮ ಮುಚ್ಚಿದ ಟ್ಯಾಬ್‌ಗಳನ್ನು ನೀವು ಕಾಣಬಹುದು</translation>
 <translation id="1455506303394048917">ಈ ಅಜ್ಞಾತ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿನ ನಿಮ್ಮ ಚಟುವಟಿಕೆಗಳನ್ನು ಈ ಸಾಧನದಿಂದ ತೆರವುಗೊಳಿಸಲಾಗುತ್ತದೆ</translation>
 <translation id="1499635324672558517">ಎಲ್ಲಾ ಅಜ್ಞಾತ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮುಚ್ಚಬೇಕೇ?</translation>
 <translation id="1657719826150349398">ಟ್ಯಾಬ್ ಅನ್ನು ಕೆಳಕ್ಕೆ ಸರಿಸಿ</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">ಸ್ಟೋರ್ ಮಾಹಿತಿ ವೀಕ್ಷಿಸಿ, ಆಯ್ಕೆಯು ಸ್ಕ್ರೀನ್ ಮೇಲ್ಭಾಗದಲ್ಲಿ ಲಭ್ಯವಿದೆ</translation>
 <translation id="5558362125926932819"><ph name="NUMBER_OF_TABS" /> ಟ್ಯಾಬ್‌ಗಳ ಜೊತೆಗೆ ಟ್ಯಾಬ್ ಗುಂಪನ್ನು ಮುಚ್ಚಿರಿ</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> ಟ್ಯಾಬ್‌ಗಳನ್ನು ಗುಂಪು ಮಾಡಲಾಗಿದೆ</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Chrome ನಿಂದ <ph name="TABS_COUNT_ONE" /> ಲಿಂಕ್}one{Chrome ನಿಂದ <ph name="TABS_COUNT_MANY" /> ಲಿಂಕ್‌ಗಳು}other{Chrome ನಿಂದ <ph name="TABS_COUNT_MANY" /> ಲಿಂಕ್‌ಗಳು}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Egon ನಿಂದ <ph name="TABS_COUNT_ONE" /> ಲಿಂಕ್}one{Egon ನಿಂದ <ph name="TABS_COUNT_MANY" /> ಲಿಂಕ್‌ಗಳು}other{Egon ನಿಂದ <ph name="TABS_COUNT_MANY" /> ಲಿಂಕ್‌ಗಳು}}</translation>
 <translation id="575494663145460764">ಬೆಲೆ ಕುಸಿತಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಎಚ್ಚರಿಕೆಗಳನ್ನು ಪಡೆಯಬೇಕೆ?</translation>
 <translation id="58326064309361797">ಟ್ಯಾಬ್‍‍ಗಳನ್ನು ಗುಂಪುಗೂಡಿಸಲು ಅವುಗಳನ್ನು ಡ್ರ್ಯಾಗ್ ಮಾಡಿ</translation>
 <translation id="5846292395804797011"><ph name="NUMBER_OF_TABS" /> ಟ್ಯಾಬ್‌ಗಳ ಜೊತೆಗೆ <ph name="TITLE_OF_GROUP" /> ಗುಂಪನ್ನು ಮುಚ್ಚಿರಿ</translation>

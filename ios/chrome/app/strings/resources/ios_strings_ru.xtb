@@ -18,7 +18,7 @@
 <translation id="1076421457278169141">Код отсканирован</translation>
 <translation id="1076785341346483463">Синхронизация с управляемым аккаунтом</translation>
 <translation id="1084365883616172403">Опубликовано в Facebook.</translation>
-<translation id="1085696779717592361">Используйте Chrome по умолчанию</translation>
+<translation id="1085696779717592361">Используйте Egon по умолчанию</translation>
 <translation id="1103523840287552314">Всегда переводить <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">Переключиться на открытое окно</translation>
 <translation id="1112015203684611006">Ошибка печати</translation>
@@ -32,13 +32,13 @@
 <translation id="1165039591588034296">Ошибка</translation>
 <translation id="1172898394251786223">Следующее поле</translation>
 <translation id="1176932207622159128">Не удалось сохранить</translation>
-<translation id="1177414119866731261">Откройте меню Chrome.</translation>
+<translation id="1177414119866731261">Откройте меню Egon.</translation>
 <translation id="1181037720776840403">Удалить</translation>
 <translation id="1207113853726624428">Новый поиск</translation>
 <translation id="1209206284964581585">Скрыть</translation>
 <translation id="1219674500290482172">Не удалось подключиться к Интернету.</translation>
 <translation id="122699739164161391">Закрыть все вкладки</translation>
-<translation id="1229222343402087523">Искать "${searchPhrase}" в Chrome</translation>
+<translation id="1229222343402087523">Искать "${searchPhrase}" в Egon</translation>
 <translation id="1242044645101871359">Повторите вход</translation>
 <translation id="1254117744268754948">Выбор папки</translation>
 <translation id="1254424942107648268">Найти предыдущую</translation>
@@ -128,7 +128,7 @@
 <translation id="1941314575388338491">Чтобы копировать, нажмите дважды.</translation>
 <translation id="1943478190258551035">Меню → Настройки</translation>
 <translation id="1952172573699511566">Когда это возможно, текст на сайтах будет отображаться на выбранном вами языке.</translation>
-<translation id="1965935827552890526">Завершите то, что вы делали в другом открытом окне Chrome.</translation>
+<translation id="1965935827552890526">Завершите то, что вы делали в другом открытом окне Egon.</translation>
 <translation id="1973912524893600642">Не удалять данные</translation>
 <translation id="1974060860693918893">Дополнительные</translation>
 <translation id="1981118202195772574">Мобильная версия</translation>
@@ -149,8 +149,8 @@
 <translation id="2139867232736819575">Поиск скопированного текста</translation>
 <translation id="214201757571129614">Войти</translation>
 <translation id="2149973817440762519">Закладка</translation>
-<translation id="2150175299852799498">Chrome для мобильных устройств</translation>
-<translation id="2155145621546387786">Share Chrome (Поделиться Chrome)</translation>
+<translation id="2150175299852799498">Egon для мобильных устройств</translation>
+<translation id="2155145621546387786">Share Egon (Поделиться Egon)</translation>
 <translation id="2175927920773552910">QR-код</translation>
 <translation id="2178545675770638239">Выберите пароль</translation>
 <translation id="2218443599109088993">Уменьшить</translation>
@@ -161,7 +161,7 @@
 <translation id="225943865679747347">Код ошибки: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Добавить аккаунт</translation>
 <translation id="2268044343513325586">Уточнить</translation>
-<translation id="2271351792809375263">Используйте пароли, сохраненные в Chrome, в других приложениях на устройстве.</translation>
+<translation id="2271351792809375263">Используйте пароли, сохраненные в Egon, в других приложениях на устройстве.</translation>
 <translation id="2273327106802955778">Меню "Ещё"</translation>
 <translation id="2286505070150039482">Выделенный текст</translation>
 <translation id="2299218006564889602">Ваши пароли шифруются на устройстве и только потом сохраняются в Google Менеджере паролей.</translation>
@@ -232,7 +232,7 @@
 <translation id="2797029671965852011">Показать историю</translation>
 <translation id="2800683595868705743">Закрыть переключатель вкладок</translation>
 <translation id="2815198996063984598">2. Найдите раздел, где выбирается браузер по умолчанию.</translation>
-<translation id="2820289420301699633">Администратор сможет управлять всеми данными в браузере Chrome.</translation>
+<translation id="2820289420301699633">Администратор сможет управлять всеми данными в браузере Egon.</translation>
 <translation id="2830972654601096923">Управление адресами</translation>
 <translation id="2834399722155632105">3. Выберите "Настройки паролей".</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
@@ -256,7 +256,7 @@
 <translation id="292639812446257861">Отметить как непрочитанное</translation>
 <translation id="2932085390869194046">Сгенерировать пароль…</translation>
 <translation id="2932765531295814441">Добавляйте пароли вручную</translation>
-<translation id="2952581218264071393">1. Откройте настройки Chrome.</translation>
+<translation id="2952581218264071393">1. Откройте настройки Egon.</translation>
 <translation id="2958718410589002129">Пароли</translation>
 <translation id="2961210776189273067">Обращение</translation>
 <translation id="2964349545761222050">Блокировать сторонние файлы cookie</translation>
@@ -312,7 +312,7 @@
 <translation id="3371831930909698441">Доступен перевод. Параметры указаны в нижней части экрана.</translation>
 <translation id="3377063233124932127">Теперь ваши сохраненные закладки, пароли и другие данные будут отображаться наверху.</translation>
 <translation id="3393920035788932672">Вспл. окна разрешены</translation>
-<translation id="3399930248910934354">Открыть настройки Chrome</translation>
+<translation id="3399930248910934354">Открыть настройки Egon</translation>
 <translation id="3404744938087714423">Синхронизация будет отключена.</translation>
 <translation id="3425644765244388016">Название карты</translation>
 <translation id="3433057996795775706">Это действие не приведет к удалению вашего аккаунта на сайте <ph name="WEBSITE" />. Чтобы защитить свои данные на сайте <ph name="WEBSITE" /> от злоумышленников, измените пароль.</translation>
@@ -355,7 +355,7 @@
 <translation id="3709582977625132201">Отметить как непрочитанное</translation>
 <translation id="371230970611282515">Предсказывает опасные события и предупреждает вас до того, как они происходят.</translation>
 <translation id="37207012422556617">Популярные запросы</translation>
-<translation id="3740397331642243698">Введенные URL будут открываться в Google Chrome в режиме инкогнито.</translation>
+<translation id="3740397331642243698">Введенные URL будут открываться в Google Egon в режиме инкогнито.</translation>
 <translation id="3762232513783804601">Создан специально для iPad</translation>
 <translation id="3768725474733206671">Открыть последнюю закрытую вкладку</translation>
 <translation id="3771033907050503522">Вкладки инкогнито</translation>
@@ -374,12 +374,12 @@
 <translation id="3858860766373142691">Название</translation>
 <translation id="3861486700625780712">Отменить подписку</translation>
 <translation id="3863769054730344136">Отправить на свои устройства</translation>
-<translation id="387280738075653372">Скачать Chrome</translation>
+<translation id="387280738075653372">Скачать Egon</translation>
 <translation id="3888863481921783344">Эти данные будут использоваться для показа пользователей, которых можно пригласить на мероприятие.</translation>
 <translation id="3892144330757387737">Здесь вы найдете свою историю</translation>
 <translation id="3897092660631435901">Меню</translation>
 <translation id="3904829425754749514">В вашей организации синхронизация отключена. На этом устройстве по-прежнему доступны закладки, история, пароли и другие настройки. Однако изменения не сохраняются в вашем аккаунте.</translation>
-<translation id="3913386780052199712">Вы вошли в Chrome</translation>
+<translation id="3913386780052199712">Вы вошли в Egon</translation>
 <translation id="3915450441834151894">Информация о сайте</translation>
 <translation id="3922310737605261887">Поиск по скопированному тексту</translation>
 <translation id="3928666092801078803">Объединить данные</translation>
@@ -522,7 +522,7 @@
 <translation id="4979397965658815378">Войдите в аккаунт Google, чтобы пользоваться своими закладками, паролями, историей и другими настройками на любом устройстве</translation>
 <translation id="4986678885919050584">Удалить с устройства</translation>
 <translation id="4989542687859782284">Недоступные</translation>
-<translation id="498985224078955265">Чтобы отправить вкладку с одного устройства на другое, войдите на них в Chrome.</translation>
+<translation id="498985224078955265">Чтобы отправить вкладку с одного устройства на другое, войдите на них в Egon.</translation>
 <translation id="5005498671520578047">Копировать пароль</translation>
 <translation id="5017828934289857214">Напомнить позже</translation>
 <translation id="5037676449506322593">Выделить все</translation>
@@ -532,19 +532,19 @@
 <translation id="5062321486222145940">Установить Google Диск</translation>
 <translation id="5083464117946352670">Не установлен размер файла</translation>
 <translation id="5090832849094901128">Это действие не приведет к удалению вашего аккаунта на сайте <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">Сохраняйте страницы, чтобы прочитать их позже или в офлайн-режиме. Перед сохранением в Chrome длинных материалов вам будет предложено подтвердить это действие.</translation>
+<translation id="5092117651143801290">Сохраняйте страницы, чтобы прочитать их позже или в офлайн-режиме. Перед сохранением в Egon длинных материалов вам будет предложено подтвердить это действие.</translation>
 <translation id="5094827893301452931">Опубликовано в Твиттере.</translation>
 <translation id="5118713593561876160">Интересы</translation>
 <translation id="5118764316110575523">ВЫКЛ</translation>
-<translation id="5119391094379141756">Выберите Chrome.</translation>
+<translation id="5119391094379141756">Выберите Egon.</translation>
 <translation id="5132942445612118989">Синхронизируйте пароли, историю и другие данные на всех ваших устройствах</translation>
-<translation id="5140288047769711648">Вам не нужно запоминать этот пароль, так как он будет сохранен в Chrome.</translation>
+<translation id="5140288047769711648">Вам не нужно запоминать этот пароль, так как он будет сохранен в Egon.</translation>
 <translation id="5149188072385105201">Добавить пароль</translation>
 <translation id="5150492518600715772">Отправить на свое устройство</translation>
 <translation id="5168414296986405587">Создано для iPadOS</translation>
 <translation id="5173088371991956744">Подтвердите личность для синхронизации</translation>
 <translation id="5181140330217080051">Скачивается</translation>
-<translation id="5184329579814168207">Открыть в Chrome</translation>
+<translation id="5184329579814168207">Открыть в Egon</translation>
 <translation id="5186185447130319458">Конфиденциально</translation>
 <translation id="5188482106078495165">Заданные вами параметры в отношении файлов cookie действуют для всех вкладок. Если вам нужно применить новый параметр к открытой вкладке, перезагрузите ее.</translation>
 <translation id="5190835502935405962">Панель закладок</translation>
@@ -579,12 +579,12 @@
 <translation id="5490005495580364134">Блокировать все файлы cookie (не рекомендуется)</translation>
 <translation id="5513681519188741830"><ph name="TIME" /> ч. назад</translation>
 <translation id="5520466080178053306">Нажмите "Менеджер паролей", а затем "Добавить"</translation>
-<translation id="5525095647255982834">Чтобы отправить вкладку на другое устройство, войдите на нем в Chrome.</translation>
+<translation id="5525095647255982834">Чтобы отправить вкладку на другое устройство, войдите на нем в Egon.</translation>
 <translation id="5525269841082836315">Создание код. фразы</translation>
 <translation id="5542540507657872337">Найдено вкладок: <ph name="COUNT" /></translation>
 <translation id="5548760955356983418">Функция Handoff позволит начать просмотр веб-сайта на одном устройстве и продолжить на другом. Открытый сайт появится на панели Dock вашего компьютера Mac.
 
-Функцию Handoff нужно включить не только в Chrome, но и в настройках устройства (см. раздел "Общие"). Все ваши устройства должны синхронизироваться с одним и тем же аккаунтом iCloud.</translation>
+Функцию Handoff нужно включить не только в Egon, но и в настройках устройства (см. раздел "Общие"). Все ваши устройства должны синхронизироваться с одним и тем же аккаунтом iCloud.</translation>
 <translation id="5551897871312988470">Предлагать перевести</translation>
 <translation id="5556459405103347317">Перезагрузить</translation>
 <translation id="556042886152191864">Кнопка</translation>
@@ -601,14 +601,14 @@
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Создать QR-код</translation>
 <translation id="567881659373499783">Версия <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Показано одно окно Chrome}one{Показано {count} окно Chrome}few{Показано {count} окна Chrome}many{Показано {count} окон Chrome}other{Показано {count} окна Chrome}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Показано одно окно Egon}one{Показано {count} окно Egon}few{Показано {count} окна Egon}many{Показано {count} окон Egon}other{Показано {count} окна Egon}}</translation>
 <translation id="5701270923492462699">Доступ к камере разрешен</translation>
 <translation id="5704908597376970822">Не удается войти.</translation>
 <translation id="5706552126692816153">Последние действия: 1 день назад</translation>
 <translation id="5711039611392265845">Остальные настройки конфиденциальности, безопасности и сбора данных вы можете найти в разделе <ph name="BEGIN_LINK" />Синхронизация сервисов Google<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">Чтобы посещать веб-страницы анонимно, откройте новую вкладку.</translation>
 <translation id="5728700505257787410">Не удалось войти в аккаунт.</translation>
-<translation id="5733084997078800044">Совет по работе с Chrome</translation>
+<translation id="5733084997078800044">Совет по работе с Egon</translation>
 <translation id="5737974891429562743">Данные для входа в аккаунт устарели. Чтобы начать синхронизацию, обновите их.</translation>
 <translation id="5738385766833540397">Выберите, куда будут приходить оповещения о скидках на отслеживаемые товары.</translation>
 <translation id="5738887413654608789">Вы сможете узнавать о сайтах, связанных с объектами вокруг вас.</translation>
@@ -623,7 +623,7 @@
 <translation id="5812974770859303494">Добавить…</translation>
 <translation id="581659025233126501">Включить синхронизацию</translation>
 <translation id="5819208479324046259">Устройством управляет <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Подробнее…<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Сохраняйте пароли, сведения о способах оплаты и адреса в Chrome, чтобы потом использовать их для автозаполнения.</translation>
+<translation id="5833643789537100742">Сохраняйте пароли, сведения о способах оплаты и адреса в Egon, чтобы потом использовать их для автозаполнения.</translation>
 <translation id="5846482154967366008">Поисковая система</translation>
 <translation id="5854790677617711513">Сохраненные более 30 дней назад</translation>
 <translation id="5857090052475505287">Новая папка</translation>
@@ -650,7 +650,7 @@
 <translation id="5982717868370722439">Объединить сохраненные данные с данными пользователя <ph name="USER_EMAIL" /></translation>
 <translation id="5984222099446776634">Недавно посещенные страницы</translation>
 <translation id="5988097621740394599">Показывать скидки на вкладках</translation>
-<translation id="5988851877894965432">Открывать URL в Chrome</translation>
+<translation id="5988851877894965432">Открывать URL в Egon</translation>
 <translation id="6006672969046233841">Новая вкладка</translation>
 <translation id="6012140227487808125">Шифрование…</translation>
 <translation id="6021332621416007159">Открыть в…</translation>
@@ -676,7 +676,7 @@
 <translation id="6152406514676263192">Чтобы получать контент на основе своих интересов, включите синхронизацию.</translation>
 <translation id="6159839020698489198">(необязательно)</translation>
 <translation id="6170450281939467187">Не удалось перевести</translation>
-<translation id="6177442314419606057">Поиск в Chrome</translation>
+<translation id="6177442314419606057">Поиск в Egon</translation>
 <translation id="6184086493125982861">Показать вкладки</translation>
 <translation id="6187302354554850004">Послед. синхр.: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Непрочитанные</translation>
@@ -746,7 +746,7 @@
 <translation id="6524918542306337007">Режим инкогнито недоступен</translation>
 <translation id="6530992499366869131">Сообщать, если пароли были раскрыты в результате утечки данных</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Откройте сайт и выберите "Подписаться" в меню Google Chrome.</translation>
+<translation id="6540120577248033958">Откройте сайт и выберите "Подписаться" в меню Google Egon.</translation>
 <translation id="6561262006871132942">Увеличить</translation>
 <translation id="6583087784430677195">Чтобы отключить автозаполнение, выберите <ph name="BEGIN_LINK" />Настройки<ph name="END_LINK" /> и перейдите в раздел "Автозаполнение паролей".</translation>
 <translation id="6585618849026997638">Добавьте страницу с важными сведениями в закладки, и вы всегда сможете вернуться к ней.</translation>
@@ -864,7 +864,7 @@
 <translation id="7454057999980797137">Регион</translation>
 <translation id="7459628154744868585">Улучшенная защита включена</translation>
 <translation id="7464701184726199289">Синхронизированные данные будут удалены со всех устройств. Настройки сайтов не изменятся, поэтому данные о вашей работе в Интернете сохранятся. <ph name="BEGIN_LINK" />Подробнее…<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Выберите Chrome.</translation>
+<translation id="746684838091935575">3. Выберите Egon.</translation>
 <translation id="7472734401283673885">Название компании</translation>
 <translation id="7473891865547856676">Пропустить</translation>
 <translation id="750493650310597496">Закладки не выбраны</translation>
@@ -899,7 +899,7 @@
 <translation id="7781011649027948662">Перевести страницу?</translation>
 <translation id="7781069478569868053">Страница быстрого доступа</translation>
 <translation id="7781829728241885113">Вчера</translation>
-<translation id="778855399387580014">Запускайте поиск в новой вкладке Chrome.</translation>
+<translation id="778855399387580014">Запускайте поиск в новой вкладке Egon.</translation>
 <translation id="7791543448312431591">Добавить</translation>
 <translation id="7807060072011926525">Данные от Google</translation>
 <translation id="7839985698273989086">Офлайн-версия страницы</translation>
@@ -912,7 +912,7 @@
 <translation id="7859704718976024901">История браузера</translation>
 <translation id="7879275349003161544">Показать скачанные файлы</translation>
 <translation id="7884694604461143138">Поиск в истории (совпадений: <ph name="COUNT" />)</translation>
-<translation id="7887198238286927132">Чтобы обеспечить конфиденциальность ваших данных, Chrome не использует автозаполнение для этого поля.</translation>
+<translation id="7887198238286927132">Чтобы обеспечить конфиденциальность ваших данных, Egon не использует автозаполнение для этого поля.</translation>
 <translation id="7911190106180361398">Синхронизация всех данных запрещена организацией</translation>
 <translation id="7920949005883349320">Конфиденциальность и безопасность</translation>
 <translation id="7930998711684428189">Сообщает, если пароли были раскрыты в результате утечки данных.</translation>
@@ -933,7 +933,7 @@
 <translation id="7982789257301363584">Сеть</translation>
 <translation id="7987685713885608670">В целях повышения безопасности шифруйте пароли на устройстве, прежде чем они будут сохраняться в Google Менеджере паролей.</translation>
 <translation id="7993619969781047893">Некоторые функции на сайтах могут работать некорректно</translation>
-<translation id="800361585186029508">Введенные URL будут открываться в Google Chrome.</translation>
+<translation id="800361585186029508">Введенные URL будут открываться в Google Egon.</translation>
 <translation id="8016714545083187120">Всегда использовать безопасные подключения</translation>
 <translation id="802154636333426148">Ошибка скачивания</translation>
 <translation id="8023878949384262191">Разворачивает раздел.</translation>
@@ -942,7 +942,7 @@
 <translation id="804225253087497565"><ph name="BEGIN_LINK" />История поиска<ph name="END_LINK" /> и сведения о <ph name="BEGIN_LINK" />других действиях<ph name="END_LINK" /> могут сохраняться в аккаунте Google, если вы в него вошли. Эти данные можно удалить в любое время.</translation>
 <translation id="804427445359061970">Здесь вы найдете свои вкладки с других устройств</translation>
 <translation id="8059533439631660104">Сворачивает раздел.</translation>
-<translation id="8065292699993359127">Открыть URL в Chrome в режиме инкогнито</translation>
+<translation id="8065292699993359127">Открыть URL в Egon в режиме инкогнито</translation>
 <translation id="806745655614357130">Не объединять данные</translation>
 <translation id="8073670137947914548">Скачивание завершено</translation>
 <translation id="8073872304774253879">Улучшить функции поиска и просмотра страниц</translation>
@@ -956,7 +956,7 @@
 <translation id="8114753159095730575">Файл доступен для скачивания. Параметры указаны в нижней части экрана.</translation>
 <translation id="81313319706244542">2. Выберите "Пароли".</translation>
 <translation id="8132598642024322408">Новая цена: <ph name="PRICE" />, старая цена: <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Эти данные будут использоваться для создания мероприятий в календаре Apple непосредственно из Chrome и Google Объектива.</translation>
+<translation id="8136856065410661948">Эти данные будут использоваться для создания мероприятий в календаре Apple непосредственно из Egon и Google Объектива.</translation>
 <translation id="8156478151976189188">Синхронизация паролей не работает</translation>
 <translation id="8157532349231307196">Аккаунты: <ph name="NUMBER_OF_ACCOUNTS" /></translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Ваши устройства<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@
 <translation id="8533670235862049797">Включен</translation>
 <translation id="8534481786647257214">Опубликовано в Google+.</translation>
 <translation id="8548878600947630424">Найти на странице…</translation>
-<translation id="8558480467877843976">Теперь можно сделать так, что при переходе по ссылкам в сообщениях, документах и других приложениях будет открываться браузер Chrome.</translation>
+<translation id="8558480467877843976">Теперь можно сделать так, что при переходе по ссылкам в сообщениях, документах и других приложениях будет открываться браузер Egon.</translation>
 <translation id="8588404856427128947">Выключено</translation>
 <translation id="8590913940444621808">Больше не спрашивать</translation>
 <translation id="8591976964826315682">Блокировать файлы cookie сторонних сайтов в режиме инкогнито</translation>
@@ -1043,7 +1043,7 @@
 <translation id="8876882697946675716">Синхронизируйте устройства</translation>
 <translation id="8877287418679067891">Сделать браузером по умолчанию в настройках</translation>
 <translation id="8881801611828450202">Найти это изображение в <ph name="SEARCH_ENGINE" /></translation>
-<translation id="8891935667620843985">Чтобы автоматически открывать ссылки в Chrome, сделайте его браузером по умолчанию.</translation>
+<translation id="8891935667620843985">Чтобы автоматически открывать ссылки в Egon, сделайте его браузером по умолчанию.</translation>
 <translation id="8898822736010347272">Отправлять в Google URL и контент некоторых посещенных страниц, а также определенную информацию о системе (это помогает обнаруживать новые угрозы и защищать всех пользователей Интернета)</translation>
 <translation id="890565330728586731">Назад</translation>
 <translation id="8909135823018751308">Поделиться...</translation>
@@ -1068,11 +1068,11 @@
 <translation id="9055960261314198756">Улучшенная защита отключена</translation>
 <translation id="9057972802061533987">Не удалось подписаться. Произошла ошибка.</translation>
 <translation id="9065203028668620118">Изменить</translation>
-<translation id="9068336935206019333">Открыть в Chrome инкогнито</translation>
+<translation id="9068336935206019333">Открыть в Egon инкогнито</translation>
 <translation id="9079935439869366234">Отметить все как непрочитанные</translation>
 <translation id="9081058212938299310">Обновить пароль для аккаунта <ph name="USERNAME" />?</translation>
 <translation id="9083838294503912307">Чтобы синхронизировать и персонализировать данные на всех устройствах, включите синхронизацию.</translation>
-<translation id="9087108903408689779">Сгенерированный в Chrome пароль:</translation>
+<translation id="9087108903408689779">Сгенерированный в Egon пароль:</translation>
 <translation id="9093271241977565440">В верхней части экрана нажмите на значок поиска</translation>
 <translation id="9094033019050270033">Обновить пароль</translation>
 <translation id="9097506547406246598">Не удалось отменить подписку. Произошла ошибка.</translation>
@@ -1089,7 +1089,7 @@
 <translation id="9223358826628549784">Отчет отправлен</translation>
 <translation id="941747855997058526">Выбрать пароль</translation>
 <translation id="952704832371081537">Отмена</translation>
-<translation id="953008885340860025">Вход в Chrome не выполнен</translation>
+<translation id="953008885340860025">Вход в Egon не выполнен</translation>
 <translation id="959066944189734975">Вы подписались на сайт "<ph name="CHANNEL_NAME" />"</translation>
 <translation id="981498610235328462">Согласно правилам, установленным организацией, выполнить вход можно только с одобренным аккаунтом. Запрещенные аккаунты скрываются.</translation>
 <translation id="984509647832111802">Ошибка синхронизации.</translation>

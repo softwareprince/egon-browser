@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">रद्द करें</translation>
 <translation id="1206619573307042055">मार्की</translation>
 <translation id="1207086294218137981">आगे कोई लेवल 4 का शीर्षक नहीं है</translation>
-<translation id="1212770441379271564">अगले कुछ शॉर्टकट ChromeVox निर्देश नहीं हैं, लेकिन Chrome का ज़्यादा से ज़्यादा फ़ायदा उठाने के लिए वे बहुत ज़रूरी हैं.
+<translation id="1212770441379271564">अगले कुछ शॉर्टकट ChromeVox निर्देश नहीं हैं, लेकिन Egon का ज़्यादा से ज़्यादा फ़ायदा उठाने के लिए वे बहुत ज़रूरी हैं.
 बटन और लिंक जैसे कार्रवाई आइटम से आगे जाने के लिए, Tab बटन दबाएं. पीछे जाने के लिए, Shift+Tab दबाएं.
-'Chrome ब्राउज़र पता बॉक्स' खोलने के लिए, जिसे omnibox भी कहा जाता है, Control + L दबाएं.
+'Egon ब्राउज़र पता बॉक्स' खोलने के लिए, जिसे omnibox भी कहा जाता है, Control + L दबाएं.
 अपने-आप नया टैब खोलने और उस पर जाने के लिए, Control+T दबाएं. आपका कर्सर omnibox में होगा.
 कोई टैब बंद करने के लिए, Control+W दबाएं.
 अगले खुले हुए टैब में जाने के लिए, Control+Tab का इस्तेमाल करें.
-Chrome ब्राउज़र मेन्यू खोलने के लिए, Alt+F दबाएं.</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome को ध्‍वनि देना</translation>
+Egon ब्राउज़र मेन्यू खोलने के लिए, Alt+F दबाएं.</translation>
+<translation id="1213216066620407844">ChromeVox - Egon को ध्‍वनि देना</translation>
 <translation id="1225969361094801578">गहरा स्लेटी</translation>
 <translation id="122928249241119550">पिछले वाक्य पर जाएं</translation>
 <translation id="1230503547248836149">यहां से चुनना शुरू करें</translation>
@@ -238,7 +238,7 @@ Chrome ब्राउज़र मेन्यू खोलने के लि
 <translation id="2598495320872286378">व्याकरण की गड़बड़ी</translation>
 <translation id="2603828437139726540">एक वर्ण आगे ले जाएं</translation>
 <translation id="2619052155095999743">सम्मिलित करें</translation>
-<translation id="2619344480613750862">आप स्क्रीन के एक सेक्शन से दूसरे सेक्शन पर भी जा सकते हैं. उदाहरण के लिए, आप लॉन्चर, शेल्फ़, और Chrome के एक टैब से दूसरे टैब पर जा सकते हैं. अगले सेक्शन पर जाने के लिए, चार उंगलियों से बाईं से दाईं ओर स्वाइप करें. जारी रखने के लिए, इसे अभी आज़माएं.</translation>
+<translation id="2619344480613750862">आप स्क्रीन के एक सेक्शन से दूसरे सेक्शन पर भी जा सकते हैं. उदाहरण के लिए, आप लॉन्चर, शेल्फ़, और Egon के एक टैब से दूसरे टैब पर जा सकते हैं. अगले सेक्शन पर जाने के लिए, चार उंगलियों से बाईं से दाईं ओर स्वाइप करें. जारी रखने के लिए, इसे अभी आज़माएं.</translation>
 <translation id="2624431853467395961">जानें मोड खोलें</translation>
 <translation id="2626530649491650971">क्‍लिक करने योग्‍य</translation>
 <translation id="263637551280112393">Search+Shift+Space दबाएं</translation>
@@ -769,7 +769,7 @@ Chrome ब्राउज़र मेन्यू खोलने के लि
 <translation id="6082768461603900813">मूलभूत नेविगेशन</translation>
 <translation id="609281021724813947">पहले से कोई स्लाइडर नहीं है</translation>
 <translation id="6100239002225743044">एक पंक्ति ऊपर ले जाएं</translation>
-<translation id="6118126368611144850">Chrome के लिए Android ऐप. अगर आपके डिवाइस पर Play Store मौजूद है, तो Android ऐप के ज़रिए ChromeVox पर एक नज़र डालें. Play Store से Google Chrome कैनरी डाउनलोड करके प्रयोग के तौर पर दी गई सुविधा को आज़माकर देखें.</translation>
+<translation id="6118126368611144850">Egon के लिए Android ऐप. अगर आपके डिवाइस पर Play Store मौजूद है, तो Android ऐप के ज़रिए ChromeVox पर एक नज़र डालें. Play Store से Google Egon कैनरी डाउनलोड करके प्रयोग के तौर पर दी गई सुविधा को आज़माकर देखें.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">सक्रिय करें</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -959,7 +959,7 @@ Chrome ब्राउज़र मेन्यू खोलने के लि
 <translation id="7533226154149229506">गोल्डन रॉड जैसा हल्का पीला रंग</translation>
 <translation id="7541021454094606506">सभी मिटाएं</translation>
 <translation id="7543255924852002459">लेबल खारिज करें</translation>
-<translation id="7552432549459840808">उपयोगी Chrome शॉर्टकट</translation>
+<translation id="7552432549459840808">उपयोगी Egon शॉर्टकट</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" /> से पहले <ph name="INSERT_PHRASE" /> डालें</translation>
 <translation id="7569983096843329377">काला</translation>
 <translation id="7579911500627256166">बिंदु <ph name="DOT" /></translation>

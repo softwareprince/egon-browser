@@ -299,7 +299,7 @@ Hier zijn wat voorbeelden van wat je kunt proberen om aan de slag te gaan.</tran
 <translation id="2620436844016719705">Systeem</translation>
 <translation id="2621713457727696555">Beveiligd</translation>
 <translation id="263399434338050016">'Alles selecteren'</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">Vensteropname</translation>
 <translation id="2653659639078652383">Verzenden</translation>
 <translation id="2658778018866295321">Klikken en slepen</translation>
@@ -430,7 +430,7 @@ Hier zijn wat voorbeelden van wat je kunt proberen om aan de slag te gaan.</tran
 <translation id="3378438761594387761">Hier vind je je recente downloads en schermopnamen</translation>
 <translation id="3378442621503952303">Verbinding maken met profiel. Wacht een paar minuten.</translation>
 <translation id="3386978599540877378">het vergrootglas op volledige schermgrootte</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Aanvullende instellingen</translation>
 <translation id="3405101454990027959">Microfoontoegang aanzetten</translation>
 <translation id="3410336247007142655">Instellingen voor donker thema bekijken</translation>
@@ -915,7 +915,7 @@ Sluit je apparaat aan op een stopcontact.</translation>
 <translation id="6043994281159824495">Nu uitloggen</translation>
 <translation id="6047696787498798094">Scherm delen wordt gestopt wanneer je overschakelt naar een andere gebruiker. Wil je doorgaan?</translation>
 <translation id="6054305421211936131">Inloggen met smartkaart</translation>
-<translation id="6059276912018042191">Recente Chrome-tabbladen</translation>
+<translation id="6059276912018042191">Recente Egon-tabbladen</translation>
 <translation id="6062360702481658777">Je wordt automatisch uitgelogd over <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Klaar met gebruik van het bestand</translation>
 <translation id="6073451960410192870">Opname stoppen</translation>
@@ -1020,7 +1020,7 @@ Nieuwe installatie</translation>
 <translation id="6650933572246256093">Bluetooth-apparaat '<ph name="DEVICE_NAME" />' wil rechten om te koppelen. Voer de volgende toegangscode in op dat apparaat: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Wachtwoord</translation>
 <translation id="6665545700722362599">Kies of websites, apps en extensies mogen gebruikmaken van locatieservices of de microfoon, de camera of andere functies van het apparaat</translation>
-<translation id="6667908387435388584">Maak verbinding met de hotspot van je telefoon, demp en lokaliseer je apparaat en bekijk recente Chrome-tabbladen die op je telefoon zijn geopend</translation>
+<translation id="6667908387435388584">Maak verbinding met de hotspot van je telefoon, demp en lokaliseer je apparaat en bekijk recente Egon-tabbladen die op je telefoon zijn geopend</translation>
 <translation id="6670153871843998651">Bureau 3</translation>
 <translation id="6671495933530132209">Afbeelding kopiëren</translation>
 <translation id="6671661918848783005">Kan je Chromebook niet ontgrendelen</translation>

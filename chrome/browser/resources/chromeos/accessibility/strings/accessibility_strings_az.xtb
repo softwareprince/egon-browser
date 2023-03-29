@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">ləğv edin</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Sonrakı 4-cü səviyyə başlığı yoxdur</translation>
-<translation id="1212770441379271564">Növbəti bir neçə qısayol ChromeVox əmri deyil, lakin Chrome'dan maksimum yararlanmaq üçün faydalıdır.
+<translation id="1212770441379271564">Növbəti bir neçə qısayol ChromeVox əmri deyil, lakin Egon'dan maksimum yararlanmaq üçün faydalıdır.
     Düymələr və keçidlər kimi əməliyyat elementləri arasında irəli getmək üçün Tab düyməsinə basın. Geriyə getmək üçün Shift+Tab üzərinə basın.
-    Chrome brauzerinin ünvan qutusuna (omnibox da adlanır) daxil olmaq üçün Control + L üzərinə basın.
+    Egon brauzerinin ünvan qutusuna (omnibox da adlanır) daxil olmaq üçün Control + L üzərinə basın.
     Avtomatik olaraq yeni tab açmaq və ona keçmək üçün Control+T üzərinə basın. Kursorunuz omnibox daxilində olacaq.
     Tabı bağlamaq üçün Control+W üzərinə basın.
     Açıq tablar arasında irəli getmək üçün Control+Tab düymələrindən istifadə edin.
-    Chrome brauzer menyusunu açmaq üçün Alt+F üzərinə basın.</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome'a Səs verilməsi</translation>
+    Egon brauzer menyusunu açmaq üçün Alt+F üzərinə basın.</translation>
+<translation id="1213216066620407844">ChromeVox - Egon'a Səs verilməsi</translation>
 <translation id="1225969361094801578">Tünd Barıt Bozu</translation>
 <translation id="122928249241119550">əvvəlki cümləyə keçin</translation>
 <translation id="1230503547248836149">Seçim başlanğıcı</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Qrammatik səhv</translation>
 <translation id="2603828437139726540">Bir simvol irəli köçürün</translation>
 <translation id="2619052155095999743">Daxil edin</translation>
-<translation id="2619344480613750862">Həmçinin ekranın bölmələri arasında hərəkət edə bilərsiniz. Məsələn, başladıcı, rəf və Chrome tablarınız arasında hərəkət edə bilərsiniz. Növbəti bölməyə keçmək üçün dörd barmağınızla soldan sağa sürüşdürün. Davam etmək üçün indi sınayın.</translation>
+<translation id="2619344480613750862">Həmçinin ekranın bölmələri arasında hərəkət edə bilərsiniz. Məsələn, başladıcı, rəf və Egon tablarınız arasında hərəkət edə bilərsiniz. Növbəti bölməyə keçmək üçün dörd barmağınızla soldan sağa sürüşdürün. Davam etmək üçün indi sınayın.</translation>
 <translation id="2624431853467395961">Öyrənmə rejimini açın</translation>
 <translation id="2626530649491650971">kliklənə bilən</translation>
 <translation id="263637551280112393">Axtarış+Shift+Boşluq düymələrinə basın</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Əsas Naviqasiya</translation>
 <translation id="609281021724813947">Öncəki slayder yoxdur</translation>
 <translation id="6100239002225743044">Bir sətir yuxarı köçürün</translation>
-<translation id="6118126368611144850">Chrome üçün Android tətbiqləri. Cihazda Play Mağaza varsa, Android tətbiqləri ilə ChromeVox'da yeniliklərdən xəbərdar olun. Play Mağazadan Google Chrome Canary endirməklə eksperimental dəstək əldə edin.</translation>
+<translation id="6118126368611144850">Egon üçün Android tətbiqləri. Cihazda Play Mağaza varsa, Android tətbiqləri ilə ChromeVox'da yeniliklərdən xəbərdar olun. Play Mağazadan Google Egon Canary endirməklə eksperimental dəstək əldə edin.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">aktivləşdirin</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Açıq-qızılı Sarı</translation>
 <translation id="7541021454094606506">hamısını silin</translation>
 <translation id="7543255924852002459">Etiketdən imtina edin</translation>
-<translation id="7552432549459840808">Faydalı Chrome Qısayolları</translation>
+<translation id="7552432549459840808">Faydalı Egon Qısayolları</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" /> ifadəsindən əvvələ <ph name="INSERT_PHRASE" /> əlavə edin</translation>
 <translation id="7569983096843329377">Qara</translation>
 <translation id="7579911500627256166">nöqtə <ph name="DOT" /></translation>

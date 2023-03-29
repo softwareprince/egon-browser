@@ -18,7 +18,7 @@
 <translation id="1076421457278169141">ಕೋಡ್‌ ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗಿದೆ</translation>
 <translation id="1076785341346483463">ನಿರ್ವಹಿಸಲಾದ ಖಾತೆ ಬಳಸಿಕೊಂಡು ಸಿಂಕ್ ಮಾಡಿ</translation>
 <translation id="1084365883616172403">Facebook ಪೋಸ್ಟ್ ಪೂರ್ಣಗೊಂಡಿದೆ.</translation>
-<translation id="1085696779717592361">ಡಿಫಾಲ್ಟ್ ಆಗಿ Chrome ಅನ್ನು ಬಳಸಿ</translation>
+<translation id="1085696779717592361">ಡಿಫಾಲ್ಟ್ ಆಗಿ Egon ಅನ್ನು ಬಳಸಿ</translation>
 <translation id="1103523840287552314">ಯಾವಾಗಲೂ ಅನುವಾದಿಸಿ <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">ತೆರೆದ ವಿಂಡೋಗೆ ಬದಲಿಸಿ.</translation>
 <translation id="1112015203684611006">ಮುದ್ರಿಸುವಿಕೆ ವಿಫಲಗೊಂಡಿದೆ.</translation>
@@ -32,13 +32,13 @@
 <translation id="1165039591588034296">ದೋಷ</translation>
 <translation id="1172898394251786223">ಮುಂದಿನ ಕ್ಷೇತ್ರ</translation>
 <translation id="1176932207622159128">ಚಿತ್ರವನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ</translation>
-<translation id="1177414119866731261">Chrome ಮೆನು ತೆರೆಯಿರಿ</translation>
+<translation id="1177414119866731261">Egon ಮೆನು ತೆರೆಯಿರಿ</translation>
 <translation id="1181037720776840403">ತೆಗೆದುಹಾಕು</translation>
 <translation id="1207113853726624428">ಹೊಸ ಹುಡುಕಾಟ</translation>
 <translation id="1209206284964581585">ಸದ್ಯಕ್ಕೆ ಮರೆಮಾಡಿ</translation>
 <translation id="1219674500290482172">ಇಂಟರ್ನೆಟ್‌ ಸಂಪರ್ಕ ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.</translation>
 <translation id="122699739164161391">ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮುಚ್ಚಿ</translation>
-<translation id="1229222343402087523">Chrome ನಲ್ಲಿ ${searchPhrase} ಹುಡುಕಿ</translation>
+<translation id="1229222343402087523">Egon ನಲ್ಲಿ ${searchPhrase} ಹುಡುಕಿ</translation>
 <translation id="1242044645101871359">ಪುನಃ ಸೈನ್ ಇನ್ ಮಾಡಿ</translation>
 <translation id="1254117744268754948">ಫೋಲ್ಡರ್ ಆರಿಸಿ</translation>
 <translation id="1254424942107648268">ಹಿಂದಿನದು ಹುಡುಕಿ</translation>
@@ -128,7 +128,7 @@
 <translation id="1941314575388338491">ನಕಲಿಸಲು ಡಬಲ್‌ ಟ್ಯಾಪ್ ಮಾಡಿ.</translation>
 <translation id="1943478190258551035">ಮೆನು → ಸೆಟ್ಟಿಂಗ್‌ಗಳು</translation>
 <translation id="1952172573699511566">ಸಾಧ್ಯವಾದಾಗ, ನೀವು ಆದ್ಯತೆ ನೀಡುವ ಭಾಷೆಯಲ್ಲಿ ವೆಬ್‌ಸೈಟ್‌ಗಳು ಪಠ್ಯವನ್ನು ತೋರಿಸುತ್ತವೆ.</translation>
-<translation id="1965935827552890526">ನಿಮ್ಮ ಇತರ ತೆರೆದ Chrome ವಿಂಡೋದಲ್ಲಿ ನೀವು ಮಾಡುತ್ತಿರುವ ಕೆಲಸವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ.</translation>
+<translation id="1965935827552890526">ನಿಮ್ಮ ಇತರ ತೆರೆದ Egon ವಿಂಡೋದಲ್ಲಿ ನೀವು ಮಾಡುತ್ತಿರುವ ಕೆಲಸವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ.</translation>
 <translation id="1973912524893600642">ಡೇಟಾವನ್ನು ಇರಿಸಿಕೊಳ್ಳಿ</translation>
 <translation id="1974060860693918893">ಸುಧಾರಿತ</translation>
 <translation id="1981118202195772574">ಮೊಬೈಲ್</translation>
@@ -149,8 +149,8 @@
 <translation id="2139867232736819575">ನೀವು ನಕಲಿಸಿದ ಪಠ್ಯವನ್ನು ಹುಡುಕಿ</translation>
 <translation id="214201757571129614">ಸೈನ್ ಇನ್…</translation>
 <translation id="2149973817440762519">ಬುಕ್‌ಮಾರ್ಕ್ ಎಡಿಟ್ ಮಾಡಿ</translation>
-<translation id="2150175299852799498">ಮೊಬೈಲ್‌ಗಾಗಿ Chrome</translation>
-<translation id="2155145621546387786">Chrome ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಿ</translation>
+<translation id="2150175299852799498">ಮೊಬೈಲ್‌ಗಾಗಿ Egon</translation>
+<translation id="2155145621546387786">Egon ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಿ</translation>
 <translation id="2175927920773552910">QR ಕೋಡ್</translation>
 <translation id="2178545675770638239">ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ</translation>
 <translation id="2218443599109088993">ಝೂಮ್ ಔಟ್</translation>
@@ -161,7 +161,7 @@
 <translation id="225943865679747347">ದೋಷ ಕೋಡ್: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">ಖಾತೆ ಸೇರಿಸಿ</translation>
 <translation id="2268044343513325586">ಪರಿಷ್ಕರಿಸು</translation>
-<translation id="2271351792809375263">ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿನ ಇತರ ಆ್ಯಪ್‌ಗಳಲ್ಲಿ ನೀವು Chrome ನಲ್ಲಿ ಉಳಿಸಿದ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಬಳಸಿ</translation>
+<translation id="2271351792809375263">ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿನ ಇತರ ಆ್ಯಪ್‌ಗಳಲ್ಲಿ ನೀವು Egon ನಲ್ಲಿ ಉಳಿಸಿದ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಬಳಸಿ</translation>
 <translation id="2273327106802955778">ಹೆಚ್ಚಿನ ಮೆನು</translation>
 <translation id="2286505070150039482">ಹೈಲೈಟ್ ಮಾಡಿದ ಪಠ್ಯ</translation>
 <translation id="2299218006564889602">ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು Google ಪಾಸ್‌ವರ್ಡ್ ನಿರ್ವಾಹಕದಲ್ಲಿ ಉಳಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗುತ್ತದೆ</translation>
@@ -232,13 +232,13 @@
 <translation id="2797029671965852011">ಇತಿಹಾಸವನ್ನು ತೋರಿಸಿ</translation>
 <translation id="2800683595868705743">ಟ್ಯಾಬ್ ಸ್ವಿಚರ್ ತ್ಯಜಿಸಿ</translation>
 <translation id="2815198996063984598">2. ಡೀಫಾಲ್ಟ್ ಬ್ರೌಸರ್ ಆ್ಯಪ್ ಟ್ಯಾಪ್ ಮಾಡಿ</translation>
-<translation id="2820289420301699633">ನಿಮ್ಮ ನಿರ್ವಾಹಕರು Chrome ಮೇಲೆ ನಿಯಂತ್ರಣವನ್ನು ಹೊಂದಿದ್ದಾರೆ ಮತ್ತು ಅದರ ಡೇಟಾವನ್ನು ಪ್ರವೇಶಿಸಬಹುದು</translation>
+<translation id="2820289420301699633">ನಿಮ್ಮ ನಿರ್ವಾಹಕರು Egon ಮೇಲೆ ನಿಯಂತ್ರಣವನ್ನು ಹೊಂದಿದ್ದಾರೆ ಮತ್ತು ಅದರ ಡೇಟಾವನ್ನು ಪ್ರವೇಶಿಸಬಹುದು</translation>
 <translation id="2830972654601096923">ವಿಳಾಸಗಳನ್ನು ನಿರ್ವಹಿಸಿ...</translation>
 <translation id="2834399722155632105">3. ಪಾಸ್‌ವರ್ಡ್ ಆಯ್ಕೆಗಳು ಎಂಬುದನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">ಅನುವಾದ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಮರುಹೊಂದಿಸಿ</translation>
 <translation id="2848086008667475748">ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಡೀಫಾಲ್ಟ್ ಎಂಬುದನ್ನು ಬದಲಿಸಿ…</translation>
-<translation id="2858204748079866344">ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು, Chrome ಈ ಫೀಲ್ಡ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಸ್ವಯಂ ಭರ್ತಿ ಮಾಡುವುದಿಲ್ಲ.</translation>
+<translation id="2858204748079866344">ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು, Egon ಈ ಫೀಲ್ಡ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಸ್ವಯಂ ಭರ್ತಿ ಮಾಡುವುದಿಲ್ಲ.</translation>
 <translation id="285960592395650245">ಡೌನ್‌ಲೋಡ್ ಮರುಪ್ರಯತ್ನಿಸಿ</translation>
 <translation id="2870560284913253234">ಸೈಟ್</translation>
 <translation id="2871695793448672541">ಪಾಸ್‌ವರ್ಡ್ ಮರೆಮಾಡಲಾಗಿದೆ</translation>
@@ -256,7 +256,7 @@
 <translation id="292639812446257861">ಓದದಿರುವುದು ಎಂಬಂತೆ ಗುರುತಿಸಿ</translation>
 <translation id="2932085390869194046">ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಸೂಚಿಸಿ...</translation>
 <translation id="2932765531295814441">ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಹಸ್ತಚಾಲಿತವಾಗಿ ಸೇರಿಸಿ</translation>
-<translation id="2952581218264071393">1. Chrome ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</translation>
+<translation id="2952581218264071393">1. Egon ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</translation>
 <translation id="2958718410589002129">ಪಾಸ್‌ವರ್ಡ್‌ಗಳು</translation>
 <translation id="2961210776189273067">ಶೀರ್ಷಿಕೆ</translation>
 <translation id="2964349545761222050">ಥರ್ಡ್ ಪಾರ್ಟಿ ಕುಕೀಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ</translation>
@@ -312,7 +312,7 @@
 <translation id="3371831930909698441">ಅನುವಾದ ಲಭ್ಯವಿದೆ. ಪರದೆಯ ಕೆಳಭಾಗದ ಸಮೀಪದಲ್ಲಿ ಆಯ್ಕೆಗಳು ಲಭ್ಯವಿವೆ.</translation>
 <translation id="3377063233124932127">ಇದೀಗ ನೀವು ಉಳಿಸಿದ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು, ಪಾಸ್‌ವರ್ಡ್‌ಗಳು ಹಾಗೂ ಇನ್ನಷ್ಟು ವಿಷಯಗಳು ಮೇಲ್ಭಾಗದಲ್ಲಿ ಇರುತ್ತವೆ.</translation>
 <translation id="3393920035788932672">ಪಾಪ್-ಅಪ್‌ಗಳನ್ನು ಅನುಮತಿಸಲಾಗಿದೆ</translation>
-<translation id="3399930248910934354">Chrome ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</translation>
+<translation id="3399930248910934354">Egon ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</translation>
 <translation id="3404744938087714423">ಸೈನ್ ಔಟ್ ಮಾಡುವುದರಿಂದ ಸಿಂಕ್ ಅನ್ನು ಆಫ್ ಮಾಡುತ್ತದೆ</translation>
 <translation id="3425644765244388016">ಕಾರ್ಡ್ ಅಡ್ಡ ಹೆಸರು</translation>
 <translation id="3433057996795775706">ಈ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಅಳಿಸುವುದರಿಂದ <ph name="WEBSITE" /> ನಲ್ಲಿ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ. <ph name="WEBSITE" /> ಅನ್ನು ಇತರರಿಂದ ರಕ್ಷಿಸಲು, ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾಯಿಸಿ.</translation>
@@ -355,7 +355,7 @@
 <translation id="3709582977625132201">ಓದದಿರುವುದು ಎಂದು ಗುರುತಿಸು</translation>
 <translation id="371230970611282515">ಅಪಾಯಕಾರಿ ಘಟನೆಗಳು ಸಂಭವಿಸುವ ಮೊದಲೇ, ಅವುಗಳನ್ನು ಪತ್ತೆಹಚ್ಚುತ್ತದೆ ಮತ್ತು ನಿಮಗೆ ಎಚ್ಚರಿಕೆ ನೀಡುತ್ತದೆ.</translation>
 <translation id="37207012422556617">ಟ್ರೆಂಡಿಂಗ್ ಹುಡುಕಾಟಗಳು</translation>
-<translation id="3740397331642243698">Google Chrome ನ ಅದೃಶ್ಯ ಮೋಡ್‌ನಲ್ಲಿ ಇನ್‌ಪುಟ್ ಮಾಡಿದ URL ಗಳನ್ನು ತೆರೆಯುತ್ತದೆ.</translation>
+<translation id="3740397331642243698">Google Egon ನ ಅದೃಶ್ಯ ಮೋಡ್‌ನಲ್ಲಿ ಇನ್‌ಪುಟ್ ಮಾಡಿದ URL ಗಳನ್ನು ತೆರೆಯುತ್ತದೆ.</translation>
 <translation id="3762232513783804601">ನಿಮ್ಮ iPad ಗಾಗಿ ನಿರ್ಮಿಸಲಾಗಿದೆ</translation>
 <translation id="3768725474733206671">ಕೊನೆಯದಾಗಿ ಮುಚ್ಚಿದ ಟ್ಯಾಬ್ ಮರುತೆರೆಯಿರಿ</translation>
 <translation id="3771033907050503522">ಅದೃಶ್ಯ ಟ್ಯಾಬ್‌ಗಳು</translation>
@@ -374,12 +374,12 @@
 <translation id="3858860766373142691">ಹೆಸರು</translation>
 <translation id="3861486700625780712">ಅನುಸರಿಸಬೇಡಿ</translation>
 <translation id="3863769054730344136">ನಿಮ್ಮ ಸಾಧನಗಳಿಗೆ ಕಳುಹಿಸಿ</translation>
-<translation id="387280738075653372">Chrome ಅನ್ನು ಇಲ್ಲಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.</translation>
+<translation id="387280738075653372">Egon ಅನ್ನು ಇಲ್ಲಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ.</translation>
 <translation id="3888863481921783344">ನಿಮ್ಮ ಈವೆಂಟ್‌ಗೆ ಆಗಮಿಸುವ ಸಂಭವನೀಯ ಆಹ್ವಾನಿತರನ್ನು ತೋರಿಸಲು ಇದನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.</translation>
 <translation id="3892144330757387737">ನಿಮ್ಮ ಇತಿಹಾಸವನ್ನು ನೀವು ಇಲ್ಲಿ ಕಾಣಬಹುದು</translation>
 <translation id="3897092660631435901">ಮೆನು</translation>
 <translation id="3904829425754749514">ನಿಮ್ಮ ಸಂಸ್ಥೆ ಸಿಂಕ್ ಅನ್ನು ಆಫ್ ಮಾಡಿದೆ. ನೀವು ಈಗಲೂ ಈ ಸಾಧನದಲ್ಲಿ ನಿಮ್ಮ ಎಲ್ಲಾ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು, ಇತಿಹಾಸ, ಪಾಸ್‌ವರ್ಡ್‌ಗಳು ಮತ್ತು ಇತರ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ನೋಡಬಹುದು. ನೀವು ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಿದರೆ, ಅವುಗಳು ನಿಮ್ಮ ಖಾತೆಗೆ ಸಿಂಕ್ ಆಗುವುದಿಲ್ಲ.</translation>
-<translation id="3913386780052199712">Chrome ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಲಾಗಿದೆ</translation>
+<translation id="3913386780052199712">Egon ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಲಾಗಿದೆ</translation>
 <translation id="3915450441834151894">ಸೈಟ್ ಮಾಹಿತಿ</translation>
 <translation id="3922310737605261887">ನಕಲಿಸಿದ ಪಠ್ಯವನ್ನು ಹುಡುಕಿ</translation>
 <translation id="3928666092801078803">ನನ್ನ ಡೇಟಾ ಒಂದುಗೂಡಿಸಿ</translation>
@@ -522,7 +522,7 @@
 <translation id="4979397965658815378">ನಿಮ್ಮ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು, ಪಾಸ್‌ವರ್ಡ್‌ಗಳು, ಇತಿಹಾಸ ಮತ್ತು ಇತರ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳಲ್ಲಿ ಪಡೆಯಲು ನಿಮ್ಮ Google ಖಾತೆ ಮೂಲಕ ಸೈನ್ ಇನ್ ಮಾಡಿ</translation>
 <translation id="4986678885919050584">ಈ ಸಾಧನದಿಂದ ತೆಗೆದುಹಾಕಿ</translation>
 <translation id="4989542687859782284">ಲಭ್ಯವಿಲ್ಲ</translation>
-<translation id="498985224078955265">ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಬೇರೊಂದು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸಲು, ಎರಡೂ ಸಾಧನಗಳಲ್ಲಿ Chrome ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.</translation>
+<translation id="498985224078955265">ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಬೇರೊಂದು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸಲು, ಎರಡೂ ಸಾಧನಗಳಲ್ಲಿ Egon ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.</translation>
 <translation id="5005498671520578047">ಪಾಸ್‌ವರ್ಡ್ ನಕಲಿಸಿ</translation>
 <translation id="5017828934289857214">ನಂತರ ನನಗೆ ಜ್ಞಾಪಿಸಿ</translation>
 <translation id="5037676449506322593">ಎಲ್ಲವನ್ನು ಆಯ್ಕೆಮಾಡಿ</translation>
@@ -532,19 +532,19 @@
 <translation id="5062321486222145940">Google ಡ್ರೈವ್‌ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ</translation>
 <translation id="5083464117946352670">ಫೈಲ್‌ ಗಾತ್ರವನ್ನು ನಿರ್ಧರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</translation>
 <translation id="5090832849094901128">ಈ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಅಳಿಸುವುದರಿಂದ <ph name="WEBSITE" /> ನಲ್ಲಿ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ.</translation>
-<translation id="5092117651143801290">ನೀವು ಪುಟಗಳನ್ನು ನಂತರ ಅಥವಾ ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಓದಲು ಉಳಿಸಬಹುದು. ನೀವು ದೀರ್ಘ ಪುಟಗಳನ್ನು ಉಳಿಸಲು ಬಯಸುತ್ತೀರಾ ಎಂದು Chrome ಕೇಳುತ್ತದೆ.</translation>
+<translation id="5092117651143801290">ನೀವು ಪುಟಗಳನ್ನು ನಂತರ ಅಥವಾ ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಓದಲು ಉಳಿಸಬಹುದು. ನೀವು ದೀರ್ಘ ಪುಟಗಳನ್ನು ಉಳಿಸಲು ಬಯಸುತ್ತೀರಾ ಎಂದು Egon ಕೇಳುತ್ತದೆ.</translation>
 <translation id="5094827893301452931">Tweet ಪೂರ್ಣಗೊಂಡಿದೆ.</translation>
 <translation id="5118713593561876160">ಆಸಕ್ತಿಗಳು</translation>
 <translation id="5118764316110575523">ಆಫ್ ಆಗಿದೆ</translation>
-<translation id="5119391094379141756">Chrome ಆಯ್ಕೆಮಾಡಿ</translation>
+<translation id="5119391094379141756">Egon ಆಯ್ಕೆಮಾಡಿ</translation>
 <translation id="5132942445612118989">ಎಲ್ಲಾ ಸಾಧನಗಳಲ್ಲೂ ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್‌ಗಳು, ಇತಿಹಾಸ ಹಾಗೂ ಇನ್ನೂ ಹೆಚ್ಚಿನವುಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ</translation>
-<translation id="5140288047769711648">Chrome ನಿಮಗಾಗಿ ಈ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ನೆನಪಿನಲ್ಲಿರಿಸಿಕೊಳ್ಳುತ್ತದೆ. ನೀವು ಅದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವ ಅಗತ್ಯವಿಲ್ಲ.</translation>
+<translation id="5140288047769711648">Egon ನಿಮಗಾಗಿ ಈ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ನೆನಪಿನಲ್ಲಿರಿಸಿಕೊಳ್ಳುತ್ತದೆ. ನೀವು ಅದನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುವ ಅಗತ್ಯವಿಲ್ಲ.</translation>
 <translation id="5149188072385105201">ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಸೇರಿಸಿ...</translation>
 <translation id="5150492518600715772">ನಿಮ್ಮ ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸಿ</translation>
 <translation id="5168414296986405587">iPadOS ಗಾಗಿ ನಿರ್ಮಿಸಲಾಗಿದೆ</translation>
 <translation id="5173088371991956744">ಇದು ನೀವೇ ಎಂದು ಪರಿಶೀಲಿಸಲು ಸಿಂಕ್‌ಗೆ ಅಗತ್ಯವಿದೆ</translation>
 <translation id="5181140330217080051">ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ</translation>
-<translation id="5184329579814168207">Chrome ನಲ್ಲಿ ತೆರೆಯಿರಿ</translation>
+<translation id="5184329579814168207">Egon ನಲ್ಲಿ ತೆರೆಯಿರಿ</translation>
 <translation id="5186185447130319458">ಖಾಸಗಿ</translation>
 <translation id="5188482106078495165">ನಿಮ್ಮ ಕುಕೀಗಳ ಸೆಟ್ಟಿಂಗ್ ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳಿಗೆ ಅನ್ವಯಿಸುತ್ತದೆ. ತೆರೆದ ಟ್ಯಾಬ್‌ ಒಂದಕ್ಕೆ ಹೊಸ ಸೆಟ್ಟಿಂಗ್ ಅನ್ನು ಅನ್ವಯಿಸಲು, ಟ್ಯಾಬ್ ಅನ್ನು ಮರುಲೋಡ್ ಮಾಡಿ.</translation>
 <translation id="5190835502935405962">ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳ ಬಾರ್</translation>
@@ -579,7 +579,7 @@
 <translation id="5490005495580364134">ಎಲ್ಲಾ ಕುಕೀಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ (ಶಿಫಾರಸು ಮಾಡಲಾಗಿಲ್ಲ)</translation>
 <translation id="5513681519188741830"><ph name="TIME" /> ಗಂಟೆಯ ಹಿಂದೆ</translation>
 <translation id="5520466080178053306">ಪಾಸ್‌ವರ್ಡ್‌ಗಳ ನಿರ್ವಾಹಕವನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ ನಂತರ ಸೇರಿಸಿ ಟ್ಯಾಪ್ ಮಾಡಿ</translation>
-<translation id="5525095647255982834">ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಬೇರೊಂದು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸಲು, ಅಲ್ಲಿ Chrome ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.</translation>
+<translation id="5525095647255982834">ಈ ಟ್ಯಾಬ್ ಅನ್ನು ಬೇರೊಂದು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸಲು, ಅಲ್ಲಿ Egon ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ.</translation>
 <translation id="5525269841082836315">ಪಾಸ್‌ಫ್ರೇಸ್ ರಚಿಸಿ</translation>
 <translation id="5542540507657872337"><ph name="COUNT" /> ಕಂಡುಬಂದಿದೆ</translation>
 <translation id="5548760955356983418">ಹ್ಯಾಂಡ್ಆಫ್ ವೆಬ್‌ಸೈಟ್ ಈ ಸಾಧನದಲ್ಲಿ ಬ್ರೌಸ್ ಮಾಡುವುದನ್ನು ಪ್ರಾರಂಭಿಸಲು ನಂತರ ನಿಮ್ಮ Mac ನಲ್ಲಿ ಸುಲಭವಾಗಿ ಮುಂದುವರಿಸಲು ಅನುಮತಿಸುತ್ತದೆ. ಪ್ರಸ್ತುತ ತೆರೆದ ವೆಬ್‌ಸೈಟ್ ನಿಮ್ಮ Mac ನಲ್ಲಿನ ಡಾಕ್‌ನಲ್ಲಿ ಗೋಚರಿಸುತ್ತದೆ.
@@ -601,14 +601,14 @@
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">QR ಕೋಡ್ ಅನ್ನು ರಚಿಸಿ</translation>
 <translation id="567881659373499783">ಆವೃತ್ತಿ <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{ಈಗ 1 Chrome ವಿಂಡೋವನ್ನು ತೋರಿಸುತ್ತಿದೆ}one{ಈಗ {count} Chrome ವಿಂಡೋಗಳನ್ನು ತೋರಿಸುತ್ತಿದೆ}other{ಈಗ {count} Chrome ವಿಂಡೋಗಳನ್ನು ತೋರಿಸುತ್ತಿದೆ}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{ಈಗ 1 Egon ವಿಂಡೋವನ್ನು ತೋರಿಸುತ್ತಿದೆ}one{ಈಗ {count} Egon ವಿಂಡೋಗಳನ್ನು ತೋರಿಸುತ್ತಿದೆ}other{ಈಗ {count} Egon ವಿಂಡೋಗಳನ್ನು ತೋರಿಸುತ್ತಿದೆ}}</translation>
 <translation id="5701270923492462699">ಕ್ಯಾಮರಾ ಪ್ರವೇಶವನ್ನು ಅನುಮತಿಸಲಾಗಿದೆ</translation>
 <translation id="5704908597376970822">ಸೈನ್ ಇನ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.</translation>
 <translation id="5706552126692816153">1 ದಿನದ ಹಿಂದೆ ಸಕ್ರಿಯ</translation>
 <translation id="5711039611392265845">ಗೌಪ್ಯತೆ, ಸುರಕ್ಷತೆ ಮತ್ತು ಡೇಟಾ ಸಂಗ್ರಹಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಹೆಚ್ಚಿನ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗಾಗಿ <ph name="BEGIN_LINK" />ಸಿಂಕ್ ಮತ್ತು Google ಸೇವೆಗಳನ್ನು<ph name="END_LINK" /> ನೋಡಿ.</translation>
 <translation id="5724941645893276623">ವೆಬ್ ಅನ್ನು ಖಾಸಗಿಯಾಗಿ ಬ್ರೌಸ್ ಮಾಡಲು, ಹೊಸ ಟ್ಯಾಬ್ ಒಂದನ್ನು ಸೇರಿಸಿ</translation>
 <translation id="5728700505257787410">ಕ್ಷಮಿಸಿ, ನಿಮ್ಮ ಖಾತೆಗೆ ಸೈನ್ ಇನ್ ಮಾಡುವಲ್ಲಿ ಸಮಸ್ಯೆ ಇದೆ.</translation>
-<translation id="5733084997078800044">Chrome ಸಲಹೆ</translation>
+<translation id="5733084997078800044">Egon ಸಲಹೆ</translation>
 <translation id="5737974891429562743">ಖಾತೆಯ ಸೈನ್-ಇನ್ ವಿವರಗಳು ಹಳೆಯದಾಗಿವೆ. ಸಿಂಕ್ ಪ್ರಾರಂಭಿಸಲು ಅಪ್‌ಡೇಟ್ ಮಾಡಿ.</translation>
 <translation id="5738385766833540397">ನೀವು ಟ್ರ್ಯಾಕ್ ಮಾಡುವ ಉತ್ಪನ್ನಗಳ ಬೆಲೆ ಕುಸಿತದ ಎಚ್ಚರಿಕೆಗಳನ್ನು ನೀವು ಹೇಗೆ ಸ್ವೀಕರಿಸುತ್ತೀರಿ ಎಂಬುದನ್ನು ನಿರ್ವಹಿಸಿ</translation>
 <translation id="5738887413654608789">ನಿಮ್ಮ ಸುತ್ತಲಿನಲ್ಲಿರುವುದನ್ನು ಆಧರಿಸಿ, ಸಂಬಂಧಿಸಿದ ವೆಬ್ ಪುಟಗಳನ್ನು ಅನ್ವೇಷಿಸಲು ಇದು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ.</translation>
@@ -623,7 +623,7 @@
 <translation id="5812974770859303494">ಇದಕ್ಕೆ ಸೇರಿಸಿ...</translation>
 <translation id="581659025233126501">ಸಿಂಕ್ ಆನ್ ಮಾಡಿ</translation>
 <translation id="5819208479324046259"><ph name="MANAGER" /> ಮೂಲಕ ನಿರ್ವಹಿಸಲಾಗುತ್ತಿದೆ. <ph name="BEGIN_LINK" />ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">ಆನಂತರ Chrome ಸ್ವಯಂಭರ್ತಿ ಮಾಡುವುದಕ್ಕಾಗಿ, ಪಾಸ್‌ವರ್ಡ್‌ಗಳು, ಪಾವತಿ ವಿಧಾನಗಳು ಮತ್ತು ವಿಳಾಸಗಳನ್ನು ಉಳಿಸಿ.</translation>
+<translation id="5833643789537100742">ಆನಂತರ Egon ಸ್ವಯಂಭರ್ತಿ ಮಾಡುವುದಕ್ಕಾಗಿ, ಪಾಸ್‌ವರ್ಡ್‌ಗಳು, ಪಾವತಿ ವಿಧಾನಗಳು ಮತ್ತು ವಿಳಾಸಗಳನ್ನು ಉಳಿಸಿ.</translation>
 <translation id="5846482154967366008">ಹುಡುಕಾಟ ಇಂಜಿನ್</translation>
 <translation id="5854790677617711513">30 ದಿನಗಳಿಗಿಂತ ಹಳೆಯದು</translation>
 <translation id="5857090052475505287">ಹೊಸ ಫೋಲ್ಡರ್</translation>
@@ -650,7 +650,7 @@
 <translation id="5982717868370722439">ಪ್ರಸ್ತುತ ಡೇಟಾವನ್ನು <ph name="USER_EMAIL" /> ಗೆ ಸೇರಿಸಿ.</translation>
 <translation id="5984222099446776634">ಇತ್ತೀಚೆಗೆ ಭೇಟಿ ನೀಡಿದವು</translation>
 <translation id="5988097621740394599">ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿ ಬೆಲೆ ಕುಸಿತಗಳನ್ನು ನೋಡಿ.</translation>
-<translation id="5988851877894965432">Chrome ನಲ್ಲಿ URL ಗಳನ್ನು ತೆರೆಯಿರಿ</translation>
+<translation id="5988851877894965432">Egon ನಲ್ಲಿ URL ಗಳನ್ನು ತೆರೆಯಿರಿ</translation>
 <translation id="6006672969046233841">ಹೊಸ ಟ್ಯಾಬ್</translation>
 <translation id="6012140227487808125">ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ...</translation>
 <translation id="6021332621416007159">ಇದರಲ್ಲಿ ತೆರೆಯಿರಿ...</translation>
@@ -676,7 +676,7 @@
 <translation id="6152406514676263192">ನಿಮ್ಮ ಆಸಕ್ತಿಗಳನ್ನು ಆಧರಿಸಿದ ಅತ್ಯಂತ ಸೂಕ್ತ ವಿಷಯವನ್ನು ಪಡೆಯಲು ಸಿಂಕ್ ಮಾಡಿ.</translation>
 <translation id="6159839020698489198">ಐಚ್ಛಿಕ</translation>
 <translation id="6170450281939467187">ಅನುವಾದ ವಿಫಲವಾಗಿದೆ</translation>
-<translation id="6177442314419606057">Chrome ನಲ್ಲಿ ಹುಡುಕಿ</translation>
+<translation id="6177442314419606057">Egon ನಲ್ಲಿ ಹುಡುಕಿ</translation>
 <translation id="6184086493125982861">ಟ್ಯಾಬ್‌ಗಳನ್ನು ತೋರಿಸಿ</translation>
 <translation id="6187302354554850004">ಕೊನೆಯದಾಗಿ ಸಿಂಕ್ ಮಾಡಿರುವುದು: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">ಓದದಿರುವುದು</translation>
@@ -746,7 +746,7 @@
 <translation id="6524918542306337007">ಅಜ್ಞಾತ ಮೋಡ್ ಲಭ್ಯವಿಲ್ಲ</translation>
 <translation id="6530992499366869131">ಡೇಟಾ ಉಲ್ಲಂಘನೆಯಲ್ಲಿ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸಿದರೆ, ನಿಮಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಲಾಗುತ್ತದೆ</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">ಸೈಟ್ ಒಂದಕ್ಕೆ ಭೇಟಿ ನೀಡಿ ಮತ್ತು Chrome ಮೆನುವಿನಲ್ಲಿ ಫಾಲೋ ಮಾಡಿ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ</translation>
+<translation id="6540120577248033958">ಸೈಟ್ ಒಂದಕ್ಕೆ ಭೇಟಿ ನೀಡಿ ಮತ್ತು Egon ಮೆನುವಿನಲ್ಲಿ ಫಾಲೋ ಮಾಡಿ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ</translation>
 <translation id="6561262006871132942">ಝೂಮ್ ಇನ್</translation>
 <translation id="6583087784430677195">ಆಫ್ ಮಾಡಲು, <ph name="BEGIN_LINK" />ಸೆಟ್ಟಿಂಗ್‌ಗಳು<ph name="END_LINK" /> ತೆರೆಯಿರಿ ಹಾಗೂ ಸ್ವಯಂ ಭರ್ತಿ ಪಾಸ್‌ವರ್ಡ್‌ಗಳಿಗೆ ಹೋಗಿ.</translation>
 <translation id="6585618849026997638">ಬುಕ್‌ಮಾರ್ಕ್ ಒಂದನ್ನು ಸೇರಿಸುವ ಮೂಲಕ ನಿಮಗೆ ಮುಖ್ಯವಾದ ಪುಟಕ್ಕೆ ನೀವು ಹಿಂತಿರುಗಬಹುದಾಗಿದೆ</translation>
@@ -864,7 +864,7 @@
 <translation id="7454057999980797137">ರಾಜ್ಯ / ಕೌಂಟಿ</translation>
 <translation id="7459628154744868585">ವರ್ಧಿತ ಸುರಕ್ಷತೆ ಆನ್ ಆಗಿದೆ</translation>
 <translation id="7464701184726199289">ಇದು ಎಲ್ಲಾ ಸಾಧನಗಳಲ್ಲಿನ ಸಿಂಕ್‌ ಮಾಡಲಾದ ಡೇಟಾವನ್ನು ತೆರವುಗೊಳಿಸುತ್ತದೆ. ಉಳಿಸಲಾದ ಸೈಟ್‌ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಅಳಿಸಲಾಗುವುದಿಲ್ಲ ಮತ್ತು ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಹವ್ಯಾಸಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸಬಹುದು. <ph name="BEGIN_LINK" />ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Chrome ಆಯ್ಕೆಮಾಡಿ</translation>
+<translation id="746684838091935575">3. Egon ಆಯ್ಕೆಮಾಡಿ</translation>
 <translation id="7472734401283673885">ಕಂಪನಿ ಹೆಸರು</translation>
 <translation id="7473891865547856676">ಇಲ್ಲ, ಧನ್ಯವಾದಗಳು</translation>
 <translation id="750493650310597496">0 ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</translation>
@@ -899,7 +899,7 @@
 <translation id="7781011649027948662">ಪುಟವನ್ನು ಅನುವಾದಿಸಬೇಕೇ?</translation>
 <translation id="7781069478569868053">ಹೊಸ ಟ್ಯಾಬ್‌ ಪುಟ</translation>
 <translation id="7781829728241885113">ನಿನ್ನೆ</translation>
-<translation id="778855399387580014">ಹೊಸ Chrome ಟ್ಯಾಬ್‌ನಲ್ಲಿ ಹುಡುಕಾಟವನ್ನು ಪ್ರಾರಂಭಿಸಿ.</translation>
+<translation id="778855399387580014">ಹೊಸ Egon ಟ್ಯಾಬ್‌ನಲ್ಲಿ ಹುಡುಕಾಟವನ್ನು ಪ್ರಾರಂಭಿಸಿ.</translation>
 <translation id="7791543448312431591">ಸೇರಿಸು</translation>
 <translation id="7807060072011926525">Google ಮೂಲಕ ಒದಗಿಸಲಾಗಿದೆ</translation>
 <translation id="7839985698273989086">ಆಫ್‌ಲೈನ್ ಪುಟ</translation>
@@ -912,7 +912,7 @@
 <translation id="7859704718976024901">ಬ್ರೌಸಿಂಗ್ ಇತಿಹಾಸ</translation>
 <translation id="7879275349003161544">ಡೌನ್‌ಲೋಡ್‌ಗಳನ್ನು ತೋರಿಸಿ</translation>
 <translation id="7884694604461143138">ಹುಡುಕಾಟದ ಇತಿಹಾಸ (<ph name="COUNT" /> ಪತ್ತೆಯಾಗಿದೆ)</translation>
-<translation id="7887198238286927132">ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು, Chrome ಈ ಫೀಲ್ಡ್ ಅನ್ನು ಸ್ವಯಂ ಭರ್ತಿ ಮಾಡುವುದಿಲ್ಲ.</translation>
+<translation id="7887198238286927132">ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ರಕ್ಷಿಸಲು, Egon ಈ ಫೀಲ್ಡ್ ಅನ್ನು ಸ್ವಯಂ ಭರ್ತಿ ಮಾಡುವುದಿಲ್ಲ.</translation>
 <translation id="7911190106180361398">ಎಲ್ಲವನ್ನೂ ಸಿಂಕ್ ಮಾಡಲು ನಿಮ್ಮ ಸಂಸ್ಥೆ ನಿಮಗೆ ಅನುಮತಿಸುವುದಿಲ್ಲ.</translation>
 <translation id="7920949005883349320">ಗೌಪ್ಯತೆ ಮತ್ತು ಭದ್ರತೆ</translation>
 <translation id="7930998711684428189">ಡೇಟಾ ಉಲ್ಲಂಘನೆಯ ಮೂಲಕ ಪಾಸ್‌ವರ್ಡ್‌ಗಳು ಬಹಿರಂಗವಾದರೆ, ನಿಮಗೆ ಎಚ್ಚರಿಕೆ ನೀಡುತ್ತದೆ.</translation>
@@ -933,7 +933,7 @@
 <translation id="7982789257301363584">ನೆಟ್‌ವರ್ಕ್</translation>
 <translation id="7987685713885608670">ಹೆಚ್ಚಿನ ಸುರಕ್ಷತೆಗಾಗಿ, ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು Google ಪಾಸ್‌ವರ್ಡ್ ನಿರ್ವಾಹಕದಲ್ಲಿ ಉಳಿಸುವ ಮೊದಲು ಅವುಗಳನ್ನು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡಿ.</translation>
 <translation id="7993619969781047893">ಕೆಲವು ಸೈಟ್‌ಗಳಲ್ಲಿನ ಫೀಚರ್‌ಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದನ್ನು ನಿಲ್ಲಿಸಬಹುದು</translation>
-<translation id="800361585186029508">Google Chrome ನಲ್ಲಿ ಇನ್‌ಪುಟ್ ಮಾಡಿದ URL ಗಳನ್ನು ತೆರೆಯುತ್ತದೆ.</translation>
+<translation id="800361585186029508">Google Egon ನಲ್ಲಿ ಇನ್‌ಪುಟ್ ಮಾಡಿದ URL ಗಳನ್ನು ತೆರೆಯುತ್ತದೆ.</translation>
 <translation id="8016714545083187120">ಯಾವಾಗಲೂ ಸುರಕ್ಷಿತವಾದ ಕನೆಕ್ಷನ್‌ಗಳನ್ನು ಬಳಸಿ</translation>
 <translation id="802154636333426148">ಡೌನ್‌ಲೋಡ್‌ ವಿಫಲಗೊಂಡಿದೆ</translation>
 <translation id="8023878949384262191">ವಿಭಾಗವನ್ನು ವಿಸ್ತರಿಸುತ್ತದೆ.</translation>
@@ -942,7 +942,7 @@
 <translation id="804225253087497565">ನೀವು ಸೈನ್ ಇನ್ ಮಾಡಿರುವಾಗ, ನಿಮ್ಮ Google ಖಾತೆಯಲ್ಲಿ <ph name="BEGIN_LINK" />ಹುಡುಕಾಟದ ಇತಿಹಾಸ<ph name="END_LINK" /> ಮತ್ತು <ph name="BEGIN_LINK" />ಚಟುವಟಿಕೆಯ ಇತರ ವಿಧಾನಗಳನ್ನು<ph name="END_LINK" /> ಉಳಿಸಬಹುದು. ನೀವು ಅವುಗಳನ್ನು ಯಾವಾಗ ಬೇಕಾದರೂ ಅಳಿಸಬಹುದು.</translation>
 <translation id="804427445359061970">ಇತರ ಸಾಧನಗಳಲ್ಲಿನ ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು ನೀವು ಇಲ್ಲಿ ಕಾಣಬಹುದು</translation>
 <translation id="8059533439631660104">ವಿಭಾಗವನ್ನು ಕುಗ್ಗಿಸುತ್ತದೆ.</translation>
-<translation id="8065292699993359127">URL ಗಳನ್ನು Chrome ನ ಅದೃಶ್ಯ ಮೋಡ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ</translation>
+<translation id="8065292699993359127">URL ಗಳನ್ನು Egon ನ ಅದೃಶ್ಯ ಮೋಡ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ</translation>
 <translation id="806745655614357130">ನನ್ನ ಡೇಟಾ ಪ್ರತ್ಯೇಕವಾಗಿ ಇರಿಸಿಕೊಳ್ಳಿ</translation>
 <translation id="8073670137947914548">ಡೌನ್‌ಲೋಡ್‌ ಪೂರ್ಣಗೊಂಡಿದೆ</translation>
 <translation id="8073872304774253879">ಹುಡುಕಾಟಗಳು ಮತ್ತು ಬ್ರೌಸಿಂಗ್ ಅನ್ನು ಉತ್ತಮಗೊಳಿಸಿ</translation>
@@ -956,7 +956,7 @@
 <translation id="8114753159095730575">ಫೈಲ್‌ ಅನ್ನು ಡೌನ್‌ಲೋಡ್‌ ಮಾಡುವ ಸೌಲಭ್ಯ ಲಭ್ಯವಿದೆ. ಪರದೆಯ ಕೆಳಗಿನ ಭಾಗದಲ್ಲಿ ಆಯ್ಕೆಗಳು ಲಭ್ಯವಿವೆ.</translation>
 <translation id="81313319706244542">2. ಪಾಸ್‌ವರ್ಡ್‌ಗಳು ಎಂಬುದನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ</translation>
 <translation id="8132598642024322408">ಈಗಿನ ಬೆಲೆ <ph name="PRICE" />, ಹಿಂದಿನ ಬೆಲೆ <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Chrome ಮತ್ತು Google Lens ಸಹಾಯದಿಂದ ನಿಮ್ಮ Apple Calendar ನಲ್ಲಿ ಈವೆಂಟ್‌ಗಳನ್ನು ರಚಿಸಲು ಇದನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.</translation>
+<translation id="8136856065410661948">Egon ಮತ್ತು Google Lens ಸಹಾಯದಿಂದ ನಿಮ್ಮ Apple Calendar ನಲ್ಲಿ ಈವೆಂಟ್‌ಗಳನ್ನು ರಚಿಸಲು ಇದನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.</translation>
 <translation id="8156478151976189188">ಪಾಸ್‌ವರ್ಡ್ ಸಿಂಕ್ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿಲ್ಲ</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> ಖಾತೆಗಳು</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />ನಿಮ್ಮ ಸಾಧನಗಳು<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@
 <translation id="8533670235862049797">ಸುರಕ್ಷಿತ ಬ್ರೌಸಿಂಗ್ ಆನ್ ಆಗಿದೆ</translation>
 <translation id="8534481786647257214">Google+ ಪೋಸ್ಟ್ ಪೂರ್ಣಗೊಂಡಿದೆ.</translation>
 <translation id="8548878600947630424">ಪುಟದಲ್ಲಿ ಹುಡುಕಿ...</translation>
-<translation id="8558480467877843976">ಇದೀಗ ನೀವು ಸಂದೇಶಗಳು, ಡಾಕ್ಯುಮೆಂಟ್‌ಗಳು ಮತ್ತು ಇತರ ಆ್ಯಪ್‌ಗಳಲ್ಲಿ ಲಿಂಕ್‌ಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿದಾಗ ಅಥವಾ ಟ್ಯಾಪ್ ಮಾಡಿದಾಗ, ಯಾವಾಗ ಬೇಕಾದರೂ Chrome ಅನ್ನು ಬಳಸಬಹುದು.</translation>
+<translation id="8558480467877843976">ಇದೀಗ ನೀವು ಸಂದೇಶಗಳು, ಡಾಕ್ಯುಮೆಂಟ್‌ಗಳು ಮತ್ತು ಇತರ ಆ್ಯಪ್‌ಗಳಲ್ಲಿ ಲಿಂಕ್‌ಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಿದಾಗ ಅಥವಾ ಟ್ಯಾಪ್ ಮಾಡಿದಾಗ, ಯಾವಾಗ ಬೇಕಾದರೂ Egon ಅನ್ನು ಬಳಸಬಹುದು.</translation>
 <translation id="8588404856427128947">ಆಫ್</translation>
 <translation id="8590913940444621808">ಎಂದಿಗೂ ಕೇಳಬೇಡಿ</translation>
 <translation id="8591976964826315682">ಅದೃಶ್ಯ ಮೋಡ್‌ನಲ್ಲಿ ಥರ್ಡ್ ಪಾರ್ಟಿ ಕುಕೀಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ</translation>
@@ -1043,7 +1043,7 @@
 <translation id="8876882697946675716">ನಿಮ್ಮ ಸಾಧನಗಳನ್ನು ಸಿಂಕ್‌ನಲ್ಲಿ ಇರಿಸಿ</translation>
 <translation id="8877287418679067891">ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಡೀಫಾಲ್ಟ್ ಮಾಡಿ…</translation>
 <translation id="8881801611828450202">ಈ ಚಿತ್ರಕ್ಕಾಗಿ <ph name="SEARCH_ENGINE" /> ನಲ್ಲಿ ಹುಡುಕಿ</translation>
-<translation id="8891935667620843985">Chrome ಅನ್ನು ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಬ್ರೌಸರ್ ಆ್ಯಪ್ ಮಾಡಿಕೊಳ್ಳುವ ಮೂಲಕ ಅದರಲ್ಲಿ ಲಿಂಕ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ತೆರೆಯಿರಿ.</translation>
+<translation id="8891935667620843985">Egon ಅನ್ನು ನಿಮ್ಮ ಡೀಫಾಲ್ಟ್ ಬ್ರೌಸರ್ ಆ್ಯಪ್ ಮಾಡಿಕೊಳ್ಳುವ ಮೂಲಕ ಅದರಲ್ಲಿ ಲಿಂಕ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ತೆರೆಯಿರಿ.</translation>
 <translation id="8898822736010347272">ಹೊಸ ಅಪಾಯಗಳನ್ನು ಕಂಡುಹಿಡಿಯಲು ಮತ್ತು ವೆಬ್‌ನಲ್ಲಿರುವ ಪ್ರತಿಯೊಬ್ಬರನ್ನು ರಕ್ಷಿಸುವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡಲು, ನೀವು ಭೇಟಿ ನೀಡುವ ಕೆಲವು ಪುಟಗಳ URL ಗಳು, ಸೀಮಿತ ಸಿಸ್ಟಂ ಮಾಹಿತಿ ಮತ್ತು ಪುಟಗಳಲ್ಲಿನ ಕೆಲವು ಕಂಟೆಂಟ್ ಅನ್ನು Google ಗೆ ಕಳುಹಿಸುತ್ತದೆ.</translation>
 <translation id="890565330728586731">ಹಿಂದಕ್ಕೆ</translation>
 <translation id="8909135823018751308">ಹಂಚಿಕೊಳ್ಳು...</translation>
@@ -1068,11 +1068,11 @@
 <translation id="9055960261314198756">ವರ್ಧಿತ ಸುರಕ್ಷತೆ ಆಫ್ ಆಗಿದೆ</translation>
 <translation id="9057972802061533987">ಫಾಲೋ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ. ಏನೋ ತಪ್ಪಾಗಿದೆ.</translation>
 <translation id="9065203028668620118">ಎಡಿಟ್</translation>
-<translation id="9068336935206019333">Chrome ಅಜ್ಞಾತ ಮೋಡ್‌ನಲ್ಲಿ ತೆರಯಬೇಕೆ?</translation>
+<translation id="9068336935206019333">Egon ಅಜ್ಞಾತ ಮೋಡ್‌ನಲ್ಲಿ ತೆರಯಬೇಕೆ?</translation>
 <translation id="9079935439869366234">ಎಲ್ಲಾ ಓದದೇ ಇರುವವುಗಳನ್ನು ಗುರುತಿಸಿ</translation>
 <translation id="9081058212938299310"><ph name="USERNAME" /> ಗೆ ಸಂಬಂಧಿಸಿದ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡುವುದೇ?</translation>
 <translation id="9083838294503912307">ಸಾಧನಗಳಾದ್ಯಂತ ಸಿಂಕ್ ಮಾಡಲು ಮತ್ತು ವೈಯಕ್ತೀಕರಿಸಲು, ಸಿಂಕ್ ಆನ್ ಮಾಡಿ.</translation>
-<translation id="9087108903408689779">Chrome ಸೂಚಿಸಿರುವ ಪಾಸ್‌ವರ್ಡ್:</translation>
+<translation id="9087108903408689779">Egon ಸೂಚಿಸಿರುವ ಪಾಸ್‌ವರ್ಡ್:</translation>
 <translation id="9093271241977565440">ಸ್ಕ್ರೀನ್‌ನ ಮೇಲ್ಭಾಗದಲ್ಲಿ, ಹುಡುಕಾಟ ಐಕಾನ್ ಅನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ</translation>
 <translation id="9094033019050270033">ಪಾಸ್‌ವರ್ಡ್ ಅಪ್‌ಡೇಟ್ ಮಾಡು</translation>
 <translation id="9097506547406246598">ಅನ್‌ಫಾಲೋ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ. ಏನೋ ತಪ್ಪಾಗಿದೆ.</translation>
@@ -1089,7 +1089,7 @@
 <translation id="9223358826628549784">ಕ್ರ್ಯಾಶ್ ವರದಿಯನ್ನು ಕಳುಹಿಸಲಾಗಿದೆ.</translation>
 <translation id="941747855997058526">ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ...</translation>
 <translation id="952704832371081537">ರದ್ದುಮಾಡಿ</translation>
-<translation id="953008885340860025">Chrome ನಿಂದ ಸೈನ್‌ಔಟ್ ಮಾಡಲಾಗಿದೆ</translation>
+<translation id="953008885340860025">Egon ನಿಂದ ಸೈನ್‌ಔಟ್ ಮಾಡಲಾಗಿದೆ</translation>
 <translation id="959066944189734975">ನೀವು <ph name="CHANNEL_NAME" /> ಅನ್ನು ಫಾಲೋ ಮಾಡುತ್ತಿದ್ದೀರಿ</translation>
 <translation id="981498610235328462">ಕೆಲವು ಖಾತೆಗಳ ಮೂಲಕ ಮಾತ್ರ ಸೈನ್ ಇನ್ ಮಾಡಲು ನಿಮ್ಮ ಸಂಸ್ಥೆ ನಿಮಗೆ ಅನುಮತಿ ನೀಡುತ್ತದೆ. ಅನುಮತಿಸದ ಖಾತೆಗಳನ್ನು ಮರೆಮಾಡಲಾಗಿದೆ.</translation>
 <translation id="984509647832111802">ಸಿಂಕ್ ಕೆಲಸ ಮಾಡುತ್ತಿಲ್ಲ.</translation>

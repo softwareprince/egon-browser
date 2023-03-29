@@ -18,7 +18,7 @@ Jūsu meklētājprogramma ir <ph name="DSE_NAME" />. Skatiet tās norādījumus 
 <translation id="1076421457278169141">Kods ir skenēts</translation>
 <translation id="1076785341346483463">Sinhronizācija ar pārvaldītu kontu</translation>
 <translation id="1084365883616172403">Facebook ziņa izveidota.</translation>
-<translation id="1085696779717592361">Chrome izmantošana pēc noklusējuma</translation>
+<translation id="1085696779717592361">Egon izmantošana pēc noklusējuma</translation>
 <translation id="1103523840287552314">Vienmēr tulkot <ph name="LANGUAGE" /> valodas saturu</translation>
 <translation id="110724200315609752">Pārslēgties uz atvērto logu</translation>
 <translation id="1112015203684611006">Neizdevās drukāt.</translation>
@@ -32,13 +32,13 @@ Jūsu meklētājprogramma ir <ph name="DSE_NAME" />. Skatiet tās norādījumus 
 <translation id="1165039591588034296">Kļūda</translation>
 <translation id="1172898394251786223">Nākamais lauks</translation>
 <translation id="1176932207622159128">Attēlu nevar sagl.</translation>
-<translation id="1177414119866731261">Atveriet Chrome izvēlni.</translation>
+<translation id="1177414119866731261">Atveriet Egon izvēlni.</translation>
 <translation id="1181037720776840403">Noņemt</translation>
 <translation id="1207113853726624428">Jauns meklēšanas vaicājums</translation>
 <translation id="1209206284964581585">Pagaidām slēpt</translation>
 <translation id="1219674500290482172">Nevar izveidot savienojumu ar internetu.</translation>
 <translation id="122699739164161391">Aizvērt visas cilnes</translation>
-<translation id="1229222343402087523">Meklēt “${searchPhrase}” pārlūkprogrammā Chrome</translation>
+<translation id="1229222343402087523">Meklēt “${searchPhrase}” pārlūkprogrammā Egon</translation>
 <translation id="1242044645101871359">Pierakstieties vēlreiz</translation>
 <translation id="1254117744268754948">Mapes izvēle</translation>
 <translation id="1254424942107648268">Atrast iepriekšējo</translation>
@@ -128,7 +128,7 @@ Jūsu meklētājprogramma ir <ph name="DSE_NAME" />. Skatiet tās norādījumus 
 <translation id="1941314575388338491">Veiciet dubultskārienu, lai kopētu.</translation>
 <translation id="1943478190258551035">Izvēlne → Iestatījumi</translation>
 <translation id="1952172573699511566">Kad vien iespējams, vietnēs tiks rādīts teksts atlasītajā valodā.</translation>
-<translation id="1965935827552890526">Pabeidziet citā atvērtā Chrome logā iesākto darbu.</translation>
+<translation id="1965935827552890526">Pabeidziet citā atvērtā Egon logā iesākto darbu.</translation>
 <translation id="1973912524893600642">Paturēt datus</translation>
 <translation id="1974060860693918893">Papildu</translation>
 <translation id="1981118202195772574">Vietne mobilajām ierīcēm</translation>
@@ -149,8 +149,8 @@ Jūsu meklētājprogramma ir <ph name="DSE_NAME" />. Skatiet tās norādījumus 
 <translation id="2139867232736819575">Meklēt kopēto tekstu</translation>
 <translation id="214201757571129614">Pierakstīties…</translation>
 <translation id="2149973817440762519">Rediģēt grāmatzīmes</translation>
-<translation id="2150175299852799498">Chrome mobilajām ierīcēm</translation>
-<translation id="2155145621546387786">Koplietot Chrome</translation>
+<translation id="2150175299852799498">Egon mobilajām ierīcēm</translation>
+<translation id="2155145621546387786">Koplietot Egon</translation>
 <translation id="2175927920773552910">kvadrātkods</translation>
 <translation id="2178545675770638239">Paroles atlase</translation>
 <translation id="2218443599109088993">Tālināt</translation>
@@ -161,7 +161,7 @@ Jūsu meklētājprogramma ir <ph name="DSE_NAME" />. Skatiet tās norādījumus 
 <translation id="225943865679747347">Kļūdas kods: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Pievienot kontu</translation>
 <translation id="2268044343513325586">Uzlabot</translation>
-<translation id="2271351792809375263">Izmantojiet pārlūkā Chrome saglabātās paroles citās lietotnēs jūsu ierīcē</translation>
+<translation id="2271351792809375263">Izmantojiet pārlūkā Egon saglabātās paroles citās lietotnēs jūsu ierīcē</translation>
 <translation id="2273327106802955778">Izvēlne Vairāk</translation>
 <translation id="2286505070150039482">Atzīmētais teksts</translation>
 <translation id="2299218006564889602">Jūsu paroles tiek šifrētas jūsu ierīcē, pirms tās tiek saglabātas Google paroļu pārvaldniekā.</translation>
@@ -232,13 +232,13 @@ Vietnes nedrīkst izmantot sīkfailus, lai skatītu jūsu pārlūkošanas darbī
 <translation id="2797029671965852011">Rādīt vēsturi</translation>
 <translation id="2800683595868705743">Aizvērt ciļņu pārslēdzēju</translation>
 <translation id="2815198996063984598">2. Pieskarieties vienumam Noklusējuma pārlūka lietotne.</translation>
-<translation id="2820289420301699633">Jūsu administrators kontrolē pārlūku Chrome un var piekļūt tā datiem</translation>
+<translation id="2820289420301699633">Jūsu administrators kontrolē pārlūku Egon un var piekļūt tā datiem</translation>
 <translation id="2830972654601096923">Pārvaldīt adreses...</translation>
 <translation id="2834399722155632105">3. Pieskarieties pogai Paroles iespējas.</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Atiestatīt tulk. iestat.</translation>
 <translation id="2848086008667475748">Padarīt par noklusējumu sadaļā Iestatījumi…</translation>
-<translation id="2858204748079866344">Lai aizsargātu jūsu konfidencialitāti, Chrome neveiks šī lauka automātisko aizpildi ar jūsu paroli.</translation>
+<translation id="2858204748079866344">Lai aizsargātu jūsu konfidencialitāti, Egon neveiks šī lauka automātisko aizpildi ar jūsu paroli.</translation>
 <translation id="285960592395650245">Lejupielādēt vēlreiz</translation>
 <translation id="2870560284913253234">Vietne</translation>
 <translation id="2871695793448672541">Slēpta, parole</translation>
@@ -256,7 +256,7 @@ Vietnes nedrīkst izmantot sīkfailus, lai skatītu jūsu pārlūkošanas darbī
 <translation id="292639812446257861">Atzīmēt kā nelasītus</translation>
 <translation id="2932085390869194046">Ieteikt paroli...</translation>
 <translation id="2932765531295814441">Manuāla paroļu pievienošana</translation>
-<translation id="2952581218264071393">1. Atveriet pārlūka Chrome iestatījumus.</translation>
+<translation id="2952581218264071393">1. Atveriet pārlūka Egon iestatījumus.</translation>
 <translation id="2958718410589002129">Paroles</translation>
 <translation id="2961210776189273067">Uzruna/amats</translation>
 <translation id="2964349545761222050">Bloķēt trešo pušu sīkfailus</translation>
@@ -312,7 +312,7 @@ Skatiet savas meklētājprogrammas norādījumus par meklēšanas vēstures dzē
 <translation id="3371831930909698441">Ir pieejams tulkojums. Opcijas, kas pieejamas ekrāna apakšējā daļā.</translation>
 <translation id="3377063233124932127">Tagad jūsu saglabātās grāmatzīmes, paroles un citi dati atrodas augšdaļā.</translation>
 <translation id="3393920035788932672">Uznir. logi atļauti</translation>
-<translation id="3399930248910934354">Atvērt Chrome iestatījumus</translation>
+<translation id="3399930248910934354">Atvērt Egon iestatījumus</translation>
 <translation id="3404744938087714423">Izrakstoties tiks izslēgta sinhronizācija.</translation>
 <translation id="3425644765244388016">Kredītkartes apzīmējums</translation>
 <translation id="3433057996795775706">Izdzēšot šo paroli, netiks dzēsts jūsu konts vietnē <ph name="WEBSITE" />. Lai aizsargātu kontu no citām personām, nomainiet paroli vietnē <ph name="WEBSITE" />.</translation>
@@ -355,7 +355,7 @@ Skatiet savas meklētājprogrammas norādījumus par meklēšanas vēstures dzē
 <translation id="3709582977625132201">Atzīmēt kā nelasītu</translation>
 <translation id="371230970611282515">Bīstami notikumi tiek prognozēti, un jūs jau iepriekš saņemat brīdinājumus.</translation>
 <translation id="37207012422556617">Populārākie meklēšanas vaicājumi</translation>
-<translation id="3740397331642243698">Atver ievadītos vietrāžus URL inkognito režīmā pārlūkā Chrome.</translation>
+<translation id="3740397331642243698">Atver ievadītos vietrāžus URL inkognito režīmā pārlūkā Egon.</translation>
 <translation id="3762232513783804601">Izstrādāts jūsu iPad planšetdatoram</translation>
 <translation id="3768725474733206671">Vēlreiz atvērt pēdējo aizvērto cilni</translation>
 <translation id="3771033907050503522">Inkognito režīma cilnes</translation>
@@ -374,12 +374,12 @@ Skatiet savas meklētājprogrammas norādījumus par meklēšanas vēstures dzē
 <translation id="3858860766373142691">Nosaukums</translation>
 <translation id="3861486700625780712">Nesekot</translation>
 <translation id="3863769054730344136">Sūtīt uz jūsu ierīcēm</translation>
-<translation id="387280738075653372">Lejupielādējiet lietotni Chrome šeit.</translation>
+<translation id="387280738075653372">Lejupielādējiet lietotni Egon šeit.</translation>
 <translation id="3888863481921783344">Piekļuve tiks izmantota, lai rādītu jums lietotājus, ko varat ielūgt uz savu pasākumu.</translation>
 <translation id="3892144330757387737">Šeit varēsiet skatīt savu vēsturi</translation>
 <translation id="3897092660631435901">Izvēlne</translation>
 <translation id="3904829425754749514">Jūsu organizācija izslēdza sinhronizāciju Šajā ierīcē joprojām varat skatīt savas grāmatzīmes, vēsturi, paroles un citus iestatījumus. Ja veiksiet izmaiņas, tās netiks sinhronizētas ar jūsu kontu.</translation>
-<translation id="3913386780052199712">Pierakstījies pārlūkā Chrome</translation>
+<translation id="3913386780052199712">Pierakstījies pārlūkā Egon</translation>
 <translation id="3915450441834151894">Vietnes informācija</translation>
 <translation id="3922310737605261887">Meklēt kopēto tekstu</translation>
 <translation id="3928666092801078803">Datu apvienošana</translation>
@@ -519,10 +519,10 @@ Lai mainītu šo iestatījumu, <ph name="BEGIN_LINK" />atiestatiet sinhronizāci
 <translation id="4944543191714094452">Atrast lapā…</translation>
 <translation id="4945756290001680296">Piekļūt paroles iestatījumiem</translation>
 <translation id="4971735654804503942">Ātrāka, aktīva aizsardzība pret bīstamām tīmekļa vietnēm, lejupielādēm un paplašinājumiem. Jūs saņemat brīdinājumus par paroļu pārkāpumiem. Pārlūkošanas dati ir jāsūta uzņēmumam Google.</translation>
-<translation id="4979397965658815378">Pierakstieties Google kontā, lai izmantotu savas grāmatzīmes, paroles, vēsturi un citus Chrome datus visās jūsu ierīcēs.</translation>
+<translation id="4979397965658815378">Pierakstieties Google kontā, lai izmantotu savas grāmatzīmes, paroles, vēsturi un citus Egon datus visās jūsu ierīcēs.</translation>
 <translation id="4986678885919050584">Noņemt no šīs ierīces</translation>
 <translation id="4989542687859782284">Nav pieejami</translation>
-<translation id="498985224078955265">Lai nosūtītu šo cilni uz citu ierīci, abās ierīcēs pierakstieties pārlūkā Chrome.</translation>
+<translation id="498985224078955265">Lai nosūtītu šo cilni uz citu ierīci, abās ierīcēs pierakstieties pārlūkā Egon.</translation>
 <translation id="5005498671520578047">Paroles kopēšana</translation>
 <translation id="5017828934289857214">Atgādināt vēlāk</translation>
 <translation id="5037676449506322593">Atlasīt visu</translation>
@@ -532,19 +532,19 @@ Lai mainītu šo iestatījumu, <ph name="BEGIN_LINK" />atiestatiet sinhronizāci
 <translation id="5062321486222145940">Instalēt Google disku</translation>
 <translation id="5083464117946352670">Nevar noteikt faila lielumu.</translation>
 <translation id="5090832849094901128">Izdzēšot šo paroli, netiks dzēsts jūsu konts vietnē <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">Varat saglabāt lapas lasīšanai vēlāk vai bezsaistē. Pārlūkā Chrome tiks vaicāts, vai vēlaties saglabāt apjomīgas lapas.</translation>
+<translation id="5092117651143801290">Varat saglabāt lapas lasīšanai vēlāk vai bezsaistē. Pārlūkā Egon tiks vaicāts, vai vēlaties saglabāt apjomīgas lapas.</translation>
 <translation id="5094827893301452931">Twitter ziņa izveidota.</translation>
 <translation id="5118713593561876160">Intereses</translation>
 <translation id="5118764316110575523">Izslēgts</translation>
-<translation id="5119391094379141756">Atlasiet Chrome</translation>
+<translation id="5119391094379141756">Atlasiet Egon</translation>
 <translation id="5132942445612118989">Sinhronizējiet paroles, vēsturi un citu saturu visās ierīcēs</translation>
-<translation id="5140288047769711648">Chrome iegaumēs šo paroli. Jums tā nav jāatceras.</translation>
+<translation id="5140288047769711648">Egon iegaumēs šo paroli. Jums tā nav jāatceras.</translation>
 <translation id="5149188072385105201">Pievienot paroli…</translation>
 <translation id="5150492518600715772">Nosūtīt uz jūsu ierīci</translation>
 <translation id="5168414296986405587">Izstrādāts operētājsistēmai iPadOS</translation>
 <translation id="5173088371991956744">Sinhronizēšanai nepieciešams apstiprināt jūsu identitāti</translation>
 <translation id="5181140330217080051">Notiek lejupielāde</translation>
-<translation id="5184329579814168207">Atvērt pārlūkā Chrome</translation>
+<translation id="5184329579814168207">Atvērt pārlūkā Egon</translation>
 <translation id="5186185447130319458">Privāti</translation>
 <translation id="5188482106078495165">Izvēlētais sīkfailu iestatījums attiecas uz visām cilnēm. Lai atvērtā cilnē lietotu jaunu iestatījumu, atkārtoti ielādējiet cilni.</translation>
 <translation id="5190835502935405962">Grāmatzīmju josla</translation>
@@ -579,7 +579,7 @@ Lai mainītu šo iestatījumu, <ph name="BEGIN_LINK" />atiestatiet sinhronizāci
 <translation id="5490005495580364134">Bloķēt visus sīkfailus (nav ieteicams)</translation>
 <translation id="5513681519188741830">Pirms <ph name="TIME" /> h</translation>
 <translation id="5520466080178053306">Pieskarieties vienumam Paroļu pārvaldnieks un pēc tam — vienumam Pievienot.</translation>
-<translation id="5525095647255982834">Lai nosūtītu šo cilni uz citu ierīci, otrā ierīcē pierakstieties pārlūkā Chrome.</translation>
+<translation id="5525095647255982834">Lai nosūtītu šo cilni uz citu ierīci, otrā ierīcē pierakstieties pārlūkā Egon.</translation>
 <translation id="5525269841082836315">Ieejas frāz. izveide</translation>
 <translation id="5542540507657872337">Atrasto ciļņu skaits: <ph name="COUNT" /></translation>
 <translation id="5548760955356983418">Izmantojot funkciju Handoff, varat pārlūkot vietni šajā ierīcē un pēc tam turpināt pārlūkošanu Mac datorā. Atvērtā vietne būs redzama Mac datora ikonjoslā Dock.
@@ -601,14 +601,14 @@ Funkcija Handoff ir jāiespējo arī iestatījumu sadaļā General (Vispārīgi)
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Izveidot kvadrātkodu</translation>
 <translation id="567881659373499783">Versija <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Tagad tiek rādīts 1 Chrome logs}zero{Tagad tiek rādīti {count} Chrome logi}one{Tagad tiek rādīts {count} Chrome logs}other{Tagad tiek rādīti {count} Chrome logi}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Tagad tiek rādīts 1 Egon logs}zero{Tagad tiek rādīti {count} Egon logi}one{Tagad tiek rādīts {count} Egon logs}other{Tagad tiek rādīti {count} Egon logi}}</translation>
 <translation id="5701270923492462699">Piekļuve kamerai ir atļauta</translation>
 <translation id="5704908597376970822">Nevar pierakstīties.</translation>
 <translation id="5706552126692816153">Aktīva pirms 1 dienas</translation>
 <translation id="5711039611392265845">Papildu iestatījumus, kas attiecas uz konfidencialitāti, drošību un datu apkopošanu, skatiet lapā <ph name="BEGIN_LINK" />Sinhronizēšana un Google pakalpojumi<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">Lai pārlūkotu tīmekli privāti, pievienojiet jaunu cilni</translation>
 <translation id="5728700505257787410">Diemžēl, pierakstoties kontā, radās problēma.</translation>
-<translation id="5733084997078800044">Chrome padoms</translation>
+<translation id="5733084997078800044">Egon padoms</translation>
 <translation id="5737974891429562743">Konta pieteikuminformācija ir novecojusi. Atjauniniet to, lai sāktu sinhronizāciju.</translation>
 <translation id="5738385766833540397">Pārvaldiet, kā saņemt paziņojumus par izsekoto produktu cenu kritumu</translation>
 <translation id="5738887413654608789">Tādējādi varat atklāt atbilstošas tīmekļa lapas, pamatojoties uz datiem par jūsu apkārtni.</translation>
@@ -623,7 +623,7 @@ Funkcija Handoff ir jāiespējo arī iestatījumu sadaļā General (Vispārīgi)
 <translation id="5812974770859303494">Pievienot...</translation>
 <translation id="581659025233126501">Ieslēgt sinhronizāciju</translation>
 <translation id="5819208479324046259">Pārvalda <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Uzzināt vairāk<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Saglabājiet paroles, maksājumu veidus un adreses, lai vēlāk varētu tās automātiski aizpildīt pārlūkā Chrome.</translation>
+<translation id="5833643789537100742">Saglabājiet paroles, maksājumu veidus un adreses, lai vēlāk varētu tās automātiski aizpildīt pārlūkā Egon.</translation>
 <translation id="5846482154967366008">Meklētājprogramma</translation>
 <translation id="5854790677617711513">Vecāki par 30 dienām</translation>
 <translation id="5857090052475505287">Jauna mape</translation>
@@ -650,7 +650,7 @@ Funkcija Handoff ir jāiespējo arī iestatījumu sadaļā General (Vispārīgi)
 <translation id="5982717868370722439">Pievienot esošos datus kontam <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Nesen apmeklētie</translation>
 <translation id="5988097621740394599">Skatiet cenu kritumu savās cilnēs.</translation>
-<translation id="5988851877894965432">Atvērt vietrāžus URL pārlūkā Chrome</translation>
+<translation id="5988851877894965432">Atvērt vietrāžus URL pārlūkā Egon</translation>
 <translation id="6006672969046233841">Jauna cilne</translation>
 <translation id="6012140227487808125">Notiek šifrēšana…</translation>
 <translation id="6021332621416007159">Atvērt...</translation>
@@ -676,7 +676,7 @@ Funkcija Handoff ir jāiespējo arī iestatījumu sadaļā General (Vispārīgi)
 <translation id="6152406514676263192">Ieslēdziet sinhronizāciju, lai atrastu savām interesēm atbilstošāko saturu.</translation>
 <translation id="6159839020698489198">neobligāts</translation>
 <translation id="6170450281939467187">Neizdevās pārtulkot</translation>
-<translation id="6177442314419606057">Meklēšana pārlūkā Chrome</translation>
+<translation id="6177442314419606057">Meklēšana pārlūkā Egon</translation>
 <translation id="6184086493125982861">Rādīt cilnes</translation>
 <translation id="6187302354554850004">Pēdējoreiz sinhr.: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Nelasīts</translation>
@@ -746,7 +746,7 @@ Ieteicams izmantot unikālu paroli katrai vietnei.</translation>
 <translation id="6524918542306337007">Inkognito režīms nav pieejams</translation>
 <translation id="6530992499366869131">Brīdināt, ja paroles tiek atklātas datu aizsardzības pārkāpuma dēļ</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Apmeklējiet kādu vietni un Chrome izvēlnē noklikšķiniet uz Sekot</translation>
+<translation id="6540120577248033958">Apmeklējiet kādu vietni un Egon izvēlnē noklikšķiniet uz Sekot</translation>
 <translation id="6561262006871132942">Tuvināt</translation>
 <translation id="6583087784430677195">Atveriet sadaļu <ph name="BEGIN_LINK" />Settings<ph name="END_LINK" /> (Iestatījumi) un pārejiet uz iestatījumu “AutoFill Passwords” (Automātiska paroļu aizpilde), lai to izslēgtu.</translation>
 <translation id="6585618849026997638">Varat pievienot grāmatzīmi, lai varētu atgriezties vajadzīgajā lapā</translation>
@@ -864,7 +864,7 @@ Inkognito režīmā vietnes nedrīkst izmantot sīkfailus, lai skatītu jūsu p�
 <translation id="7454057999980797137">Štats/valsts</translation>
 <translation id="7459628154744868585">Uzlabota aizsardzība ir ieslēgta</translation>
 <translation id="7464701184726199289">Tādējādi visās ierīcēs tiek notīrīti sinhronizētie dati. Saglabātie vietņu iestatījumi netiks dzēsti, un tie var atspoguļot jūsu pārlūkošanas ieradumus. <ph name="BEGIN_LINK" />Uzziniet vairāk<ph name="END_LINK" />.</translation>
-<translation id="746684838091935575">3. Atlasiet Chrome.</translation>
+<translation id="746684838091935575">3. Atlasiet Egon.</translation>
 <translation id="7472734401283673885">Uzņ. nosaukums</translation>
 <translation id="7473891865547856676">Nē, paldies!</translation>
 <translation id="750493650310597496">Atlasītas: 0</translation>
@@ -899,7 +899,7 @@ Inkognito režīmā vietnes nedrīkst izmantot sīkfailus, lai skatītu jūsu p�
 <translation id="7781011649027948662">Vai tulkot lapu?</translation>
 <translation id="7781069478569868053">Jaunas cilnes lapa</translation>
 <translation id="7781829728241885113">Vakar</translation>
-<translation id="778855399387580014">Meklējiet jaunā Chrome cilnē.</translation>
+<translation id="778855399387580014">Meklējiet jaunā Egon cilnē.</translation>
 <translation id="7791543448312431591">Pievienot</translation>
 <translation id="7807060072011926525">Nodrošina Google</translation>
 <translation id="7839985698273989086">Bezsaistes lapa</translation>
@@ -912,7 +912,7 @@ Inkognito režīmā vietnes nedrīkst izmantot sīkfailus, lai skatītu jūsu p�
 <translation id="7859704718976024901">Pārlūkošanas vēsture</translation>
 <translation id="7879275349003161544">Rādīt lejupielādes</translation>
 <translation id="7884694604461143138">Meklēt vēsturē (atrasti rezultāti: <ph name="COUNT" />)</translation>
-<translation id="7887198238286927132">Lai aizsargātu jūsu konfidencialitāti, Chrome neveiks šī lauka automātisko aizpildi.</translation>
+<translation id="7887198238286927132">Lai aizsargātu jūsu konfidencialitāti, Egon neveiks šī lauka automātisko aizpildi.</translation>
 <translation id="7911190106180361398">Jūsu organizācija neatļauj jums sinhronizēt visu.</translation>
 <translation id="7920949005883349320">Konfidencialitāte un drošība</translation>
 <translation id="7930998711684428189">Jūs saņemat brīdinājumu, ja paroles tiek atklātas datu aizsardzības pārkāpuma dēļ.</translation>
@@ -933,7 +933,7 @@ Vietnes drīkst izmantot sīkfailus, lai skatītu jūsu pārlūkošanas darbība
 <translation id="7982789257301363584">Tīkls</translation>
 <translation id="7987685713885608670">Lai gādātu par papildu drošību, šifrējiet paroles savā ierīcē, pirms tās tiek saglabātas Google paroļu pārvaldniekā.</translation>
 <translation id="7993619969781047893">Noteiktās vietnēs funkcijas var nedarboties</translation>
-<translation id="800361585186029508">Ievadītie vietrāži URL tiek atvērti pārlūkā Google Chrome.</translation>
+<translation id="800361585186029508">Ievadītie vietrāži URL tiek atvērti pārlūkā Google Egon.</translation>
 <translation id="8016714545083187120">Vienmēr izmantot drošus savienojumus</translation>
 <translation id="802154636333426148">Lejupielāde neizdevās</translation>
 <translation id="8023878949384262191">Izvērš sadaļu.</translation>
@@ -942,7 +942,7 @@ Vietnes drīkst izmantot sīkfailus, lai skatītu jūsu pārlūkošanas darbība
 <translation id="804225253087497565">Kad esat pierakstījies, jūsu Google kontā var saglabāt <ph name="BEGIN_LINK" />meklēšanas vēsturi<ph name="END_LINK" /> un <ph name="BEGIN_LINK" />citu veidu darbības<ph name="END_LINK" />. Jebkurā laikā varat tās izdzēst.</translation>
 <translation id="804427445359061970">Šeit varēsiet skatīt cilnes no citām ierīcēm</translation>
 <translation id="8059533439631660104">Sakļauj sadaļu.</translation>
-<translation id="8065292699993359127">Vietrāžu URL atvēršana inkognito režīmā pārlūkā Chrome</translation>
+<translation id="8065292699993359127">Vietrāžu URL atvēršana inkognito režīmā pārlūkā Egon</translation>
 <translation id="806745655614357130">Glabāt datus atsevišķi</translation>
 <translation id="8073670137947914548">Lejupielāde ir pabeigta</translation>
 <translation id="8073872304774253879">Uzlabot meklēšanu un pārlūkošanu</translation>
@@ -956,7 +956,7 @@ Vietnes drīkst izmantot sīkfailus, lai skatītu jūsu pārlūkošanas darbība
 <translation id="8114753159095730575">Pieejama failu lejupielāde. Pieejamās opcijas redzamas ekrāna apakšdaļā.</translation>
 <translation id="81313319706244542">2. Pieskarieties vienumam Paroles.</translation>
 <translation id="8132598642024322408">Pašreizējā cena: <ph name="PRICE" />; iepriekšējā cena: <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Piekļuve tiks izmantota, lai jūsu Apple kalendārā veidotu pasākumus no pārlūka Chrome un funkcijas Google Lens.</translation>
+<translation id="8136856065410661948">Piekļuve tiks izmantota, lai jūsu Apple kalendārā veidotu pasākumus no pārlūka Egon un funkcijas Google Lens.</translation>
 <translation id="8156478151976189188">Paroļu sinhronizācija nedarbojas</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> konti</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Jūsu ierīces<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Vietnes drīkst izmantot sīkfailus, lai skatītu jūsu pārlūkošanas darbība
 <translation id="8533670235862049797">Ir ieslēgta droša pārlūkošana</translation>
 <translation id="8534481786647257214">Google+ ziņa izveidota.</translation>
 <translation id="8548878600947630424">Atrast lapā...</translation>
-<translation id="8558480467877843976">Tagad varat izmantot Chrome ikreiz, kad pārlūkojat saturu vai pieskaraties saitēm ziņojumos, dokumentos un citās lietotnēs.</translation>
+<translation id="8558480467877843976">Tagad varat izmantot Egon ikreiz, kad pārlūkojat saturu vai pieskaraties saitēm ziņojumos, dokumentos un citās lietotnēs.</translation>
 <translation id="8588404856427128947">Izslēgts</translation>
 <translation id="8590913940444621808">Vairs nejautāt</translation>
 <translation id="8591976964826315682">Inkognito režīmā bloķēt trešo pušu sīkfailus</translation>
@@ -1043,7 +1043,7 @@ Vietnes drīkst izmantot sīkfailus, lai skatītu jūsu pārlūkošanas darbība
 <translation id="8876882697946675716">Sinhronizējiet savas ierīces</translation>
 <translation id="8877287418679067891">Padarīt par noklusējumu sadaļā Iestatījumi…</translation>
 <translation id="8881801611828450202">Meklēt šo attēlu ar <ph name="SEARCH_ENGINE" /></translation>
-<translation id="8891935667620843985">Varat automātiski atvērt saites pārlūkā Chrome, iestatot to kā savu noklusējuma pārlūka lietotni.</translation>
+<translation id="8891935667620843985">Varat automātiski atvērt saites pārlūkā Egon, iestatot to kā savu noklusējuma pārlūka lietotni.</translation>
 <translation id="8898822736010347272">Tiek nosūtīti dažu apmeklēto lapu vietrāži URL, ierobežota sistēmas informācija un noteiktu lapu saturs Google serveriem, lai palīdzētu atklāt jaunus apdraudējumus un aizsargāt visus tīmekļa lietotājus.</translation>
 <translation id="890565330728586731">Atpakaļ</translation>
 <translation id="8909135823018751308">Kopīgot...</translation>
@@ -1068,11 +1068,11 @@ Vietnes drīkst izmantot sīkfailus, lai skatītu jūsu pārlūkošanas darbība
 <translation id="9055960261314198756">Uzlabota aizsardzība ir izslēgta</translation>
 <translation id="9057972802061533987">Nevar sekot. Radās kļūda.</translation>
 <translation id="9065203028668620118">Labot</translation>
-<translation id="9068336935206019333">Atvērt Chrome inkognito režīmā</translation>
+<translation id="9068336935206019333">Atvērt Egon inkognito režīmā</translation>
 <translation id="9079935439869366234">Atzīmēt visu kā nelasītu</translation>
 <translation id="9081058212938299310">Vai atjaunināt lietotājvārda <ph name="USERNAME" /> paroli?</translation>
 <translation id="9083838294503912307">Lai sinhronizētu un personalizētu saturu dažādās ierīcēs, ieslēdziet sinhronizāciju.</translation>
-<translation id="9087108903408689779">Chrome ieteiktā parole:</translation>
+<translation id="9087108903408689779">Egon ieteiktā parole:</translation>
 <translation id="9093271241977565440">Ekrāna augšdaļā pieskarieties meklēšanas ikonai</translation>
 <translation id="9094033019050270033">Atjaunināt paroli</translation>
 <translation id="9097506547406246598">Nevar pārtraukt sekošanu. Radās kļūda.</translation>
@@ -1089,7 +1089,7 @@ Vietnes drīkst izmantot sīkfailus, lai skatītu jūsu pārlūkošanas darbība
 <translation id="9223358826628549784">Avārijas ziņojums nosūtīts.</translation>
 <translation id="941747855997058526">Atlasīt paroli…</translation>
 <translation id="952704832371081537">Atcelt</translation>
-<translation id="953008885340860025">Esat izrakstījies pārlūkā Chrome</translation>
+<translation id="953008885340860025">Esat izrakstījies pārlūkā Egon</translation>
 <translation id="959066944189734975">Jūs sekojat kanālam <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">Jūsu organizācija ir atļāvusi pierakstīšanos tikai ar noteiktiem kontiem. Konti, kas nav atļauti, ir paslēpti.</translation>
 <translation id="984509647832111802">Sinhronizācija nedarbojas.</translation>

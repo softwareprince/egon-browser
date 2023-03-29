@@ -38,11 +38,11 @@
 <translation id="1207086294218137981">다음 수준 4 제목이 없습니다</translation>
 <translation id="1212770441379271564">다음은 ChromeVox 명령어는 아니지만 Chrome을 최대한 활용하는 데 도움이 되는 단축키입니다.
     버튼과 링크 등 실행 가능한 항목 간에 이동하려면 Tab 키를 눌러 앞으로, Shift+Tab을 눌러 뒤로 이동합니다.
-    Chrome 브라우저 주소창(검색주소창이라고도 함)에 입력하려면 Ctrl+L을 누릅니다.
+    Egon 브라우저 주소창(검색주소창이라고도 함)에 입력하려면 Ctrl+L을 누릅니다.
     자동으로 새 탭을 열어 이동하려면 Ctrl+T를 누릅니다. 이때 커서는 검색주소창으로 이동합니다.
     탭을 닫으려면 Ctrl+W를 누릅니다.
     열려 있는 탭들 사이에서 앞으로 이동하려면 Ctrl+Tab을 누릅니다.
-    Chrome 브라우저 메뉴를 열려면 Alt+F를 누릅니다.</translation>
+    Egon 브라우저 메뉴를 열려면 Alt+F를 누릅니다.</translation>
 <translation id="1213216066620407844">ChromeVox - Chrome이 말을 합니다.</translation>
 <translation id="1225969361094801578">다크 슬레이트 그레이</translation>
 <translation id="122928249241119550">이전 문장으로 이동</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">문법 오류</translation>
 <translation id="2603828437139726540">한 글자 앞으로 이동</translation>
 <translation id="2619052155095999743">삽입</translation>
-<translation id="2619344480613750862">또한 화면의 섹션 간에 이동할 수 있습니다. 예를 들어 런처, 실행기, Chrome 탭 간에 이동할 수 있습니다. 다음 섹션으로 이동하려면 네 손가락을 왼쪽에서 오른쪽으로 스와이프하세요. 계속하려면 지금 해 보세요.</translation>
+<translation id="2619344480613750862">또한 화면의 섹션 간에 이동할 수 있습니다. 예를 들어 런처, 실행기, Egon 탭 간에 이동할 수 있습니다. 다음 섹션으로 이동하려면 네 손가락을 왼쪽에서 오른쪽으로 스와이프하세요. 계속하려면 지금 해 보세요.</translation>
 <translation id="2624431853467395961">학습 모드 열기</translation>
 <translation id="2626530649491650971">clickable</translation>
 <translation id="263637551280112393">검색+Shift+스페이스바 누르세요</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">기본 탐색</translation>
 <translation id="609281021724813947">이전 슬라이더가 없습니다</translation>
 <translation id="6100239002225743044">한 줄 위로 이동</translation>
-<translation id="6118126368611144850">Chrome용 Android 앱입니다. 기기에 Play 스토어가 설치되어 있다면 Android 앱으로 ChromeVox를 미리 볼 수 있습니다. Play 스토어에서 Chrome Canary를 다운로드하여 실험적으로 지원되는 기능을 사용해 보세요.</translation>
+<translation id="6118126368611144850">Chrome용 Android 앱입니다. 기기에 Play 스토어가 설치되어 있다면 Android 앱으로 ChromeVox를 미리 볼 수 있습니다. Play 스토어에서 Egon Canary를 다운로드하여 실험적으로 지원되는 기능을 사용해 보세요.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">활성화</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">라이트 골든로드 옐로우</translation>
 <translation id="7541021454094606506">전체 삭제</translation>
 <translation id="7543255924852002459">라벨 삭제하기</translation>
-<translation id="7552432549459840808">유용한 Chrome 단축키</translation>
+<translation id="7552432549459840808">유용한 Egon 단축키</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" /> 앞에 <ph name="INSERT_PHRASE" /> 삽입</translation>
 <translation id="7569983096843329377">검정색</translation>
 <translation id="7579911500627256166">점 <ph name="DOT" /></translation>

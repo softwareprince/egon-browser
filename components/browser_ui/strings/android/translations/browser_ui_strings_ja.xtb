@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">読みやすくなるまでスライダをドラッグしてください。段落をダブルタップするとテキストがこれより大きくなります。</translation>
 <translation id="2329473609445770916">このサイトでは、他のサイトが広告の表示に使用できる興味 / 関心を定義しています</translation>
 <translation id="2359808026110333948">続行</translation>
-<translation id="2379925928934107488">可能であれば、Chrome がダークモードを使用している場合にダークモードをサイトに適用します</translation>
+<translation id="2379925928934107488">可能であれば、Egon がダークモードを使用している場合にダークモードをサイトに適用します</translation>
 <translation id="2387895666653383613">テキストの拡大と縮小</translation>
 <translation id="2390272837142897736">拡大</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">ウェブから</translation>
 <translation id="321187648315454507"><ph name="APP_NAME" /> に通知の送信を許可するには、<ph name="BEGIN_LINK" />Android の設定<ph name="END_LINK" />でも通知をオンにしてください。</translation>
 <translation id="3227137524299004712">マイク</translation>
-<translation id="3248611290851046188">このサイトでは、他のサイトが広告の表示に使用できる興味 / 関心を定義しています。また、このサイトでは Chrome からお客様の興味 / 関心に関する情報を取得して、関連性の高い広告を表示しています。</translation>
+<translation id="3248611290851046188">このサイトでは、他のサイトが広告の表示に使用できる興味 / 関心を定義しています。また、このサイトでは Egon からお客様の興味 / 関心に関する情報を取得して、関連性の高い広告を表示しています。</translation>
 <translation id="3277252321222022663">サイトによるセンサーへのアクセスを許可する（推奨）</translation>
 <translation id="3285500645985761267">関連サイトにグループでのアクティビティの確認を許可する</translation>
 <translation id="3295019059349372795">第 11 章: オズの不思議なエメラルド シティ</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">サイトにより保存された <ph name="DATASIZE" /> のデータと Cookie が削除されます。</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{（他 1 件）}other{（他 # 件）}}</translation>
 <translation id="5403592356182871684">名前</translation>
-<translation id="5412236728747081950">このサイトでは Chrome からお客様の興味や関心に関する情報を取得して、関連性の高い広告を表示しています</translation>
+<translation id="5412236728747081950">このサイトでは Egon からお客様の興味や関心に関する情報を取得して、関連性の高い広告を表示しています</translation>
 <translation id="5438097262470833822">これを選択すると、<ph name="WEBSITE" /> の権限がリセットされます</translation>
 <translation id="5489227211564503167"><ph name="TOTAL_TIME" /> のうち <ph name="ELAPSED_TIME" /> 経過しました。</translation>
 <translation id="5494752089476963479">煩わしい広告や誤解を招く広告が表示されるサイトで広告をブロックする</translation>

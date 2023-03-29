@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">Anuluj</translation>
 <translation id="1206619573307042055">transparent</translation>
 <translation id="1207086294218137981">Nie ma następnego nagłówka poziomu 4</translation>
-<translation id="1212770441379271564">Poniższe skróty nie są poleceniami ChromeVoxa, ale są bardzo przydatne podczas korzystania z Chrome.
+<translation id="1212770441379271564">Poniższe skróty nie są poleceniami ChromeVoxa, ale są bardzo przydatne podczas korzystania z Egon.
     Aby przejść do następnego aktywnego elementu, np. przycisku lub linku, naciśnij klawisz Tab. Aby przejść do poprzedniego elementu, naciśnij Shift + Tab.
-    Aby otworzyć pole adresu w przeglądarce Chrome (omnibox), naciśnij Ctrl + L.
+    Aby otworzyć pole adresu w przeglądarce Egon (omnibox), naciśnij Ctrl + L.
     Aby otworzyć nową kartę i automatycznie do niej przejść, naciśnij Ctrl + T. Kursor zostanie ustawiony w omniboksie.
     Aby zamknąć kartę, naciśnij Ctrl + W.
     Aby przejść do następnej otwartej karty, naciśnij Ctrl + Tab.
-    Aby otworzyć menu przeglądarki Chrome, naciśnij Alt + F.</translation>
-<translation id="1213216066620407844">ChromeVox – niech Chrome przemówi</translation>
+    Aby otworzyć menu przeglądarki Egon, naciśnij Alt + F.</translation>
+<translation id="1213216066620407844">ChromeVox – niech Egon przemówi</translation>
 <translation id="1225969361094801578">Ciemny szaroniebieski</translation>
 <translation id="122928249241119550">Przejdź do poprzedniego zdania</translation>
 <translation id="1230503547248836149">Początek zaznaczenia</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Błąd gramatyczny</translation>
 <translation id="2603828437139726540">Przejdź jeden znak dalej</translation>
 <translation id="2619052155095999743">Wstaw</translation>
-<translation id="2619344480613750862">Możesz też przechodzić między sekcjami ekranu. Na przykład możesz przechodzić między Menu z aplikacjami, półką a kartami Chrome. Aby przejść do następnej sekcji, przesuń z lewej do prawej czterema palcami. Zrób to teraz, aby przejść dalej.</translation>
+<translation id="2619344480613750862">Możesz też przechodzić między sekcjami ekranu. Na przykład możesz przechodzić między Menu z aplikacjami, półką a kartami Egon. Aby przejść do następnej sekcji, przesuń z lewej do prawej czterema palcami. Zrób to teraz, aby przejść dalej.</translation>
 <translation id="2624431853467395961">Otwórz tryb informacyjny</translation>
 <translation id="2626530649491650971">klikalny</translation>
 <translation id="263637551280112393">Naciśnij Wyszukaj + Shift + Spacja</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Dziennik</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Symbol graficzny</translation>
-<translation id="5648939288050772726">Gratulacje! Znasz już podstawy korzystania z czytnika ChromeVox. Pamiętaj, że menu poleceń ChromeVoxa możesz otworzyć w każdej chwili, naciskając Wyszukaj + kropkę. Aby dowiedzieć się więcej o czytniku ChromeVox i systemie operacyjnym Chrome, przeczytaj poniższe artykuły.
+<translation id="5648939288050772726">Gratulacje! Znasz już podstawy korzystania z czytnika ChromeVox. Pamiętaj, że menu poleceń ChromeVoxa możesz otworzyć w każdej chwili, naciskając Wyszukaj + kropkę. Aby dowiedzieć się więcej o czytniku ChromeVox i systemie operacyjnym Egon, przeczytaj poniższe artykuły.
     Jeśli nie korzystasz już z samouczka, za pomocą czytnika ChromeVox przejdź do przycisku Zamknij i kliknij go.</translation>
 <translation id="5653397561111110475">Korzystanie z ułatwień dostępu na ekranie dotykowym Chromebooka</translation>
 <translation id="5655682562155942719">Polecenia nawigacyjne</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Podstawowa nawigacja</translation>
 <translation id="609281021724813947">Nie ma poprzedniego suwaka</translation>
 <translation id="6100239002225743044">Przejdź jeden wiersz wyżej</translation>
-<translation id="6118126368611144850">Aplikacje na Androida dla Chrome. Jeśli na urządzeniu masz zainstalowany Sklep Play, możesz sprawdzić, jak ChromeVox współpracuje z aplikacjami na Androida. Przekonaj się, jak działa eksperymentalna obsługa – pobierz Google Chrome Canary ze Sklepu Play.</translation>
+<translation id="6118126368611144850">Aplikacje na Androida dla Egon. Jeśli na urządzeniu masz zainstalowany Sklep Play, możesz sprawdzić, jak ChromeVox współpracuje z aplikacjami na Androida. Przekonaj się, jak działa eksperymentalna obsługa – pobierz Google Egon Canary ze Sklepu Play.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">aktywuj</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">Jasny złotożółty</translation>
 <translation id="7541021454094606506">usuń wszystko</translation>
 <translation id="7543255924852002459">Odrzuć etykietę</translation>
-<translation id="7552432549459840808">Przydatne skróty Chrome</translation>
+<translation id="7552432549459840808">Przydatne skróty Egon</translation>
 <translation id="7553679324939294712">Wstaw: <ph name="INSERT_PHRASE" /> przed: <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Czarny</translation>
 <translation id="7579911500627256166">punkt <ph name="DOT" /></translation>

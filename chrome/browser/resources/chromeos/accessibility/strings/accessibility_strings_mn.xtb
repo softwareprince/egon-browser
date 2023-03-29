@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">цуцал</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Дараагийн 4-р түвшний гарчиг алга байна</translation>
-<translation id="1212770441379271564">Дараагийн хэдэн товчлол нь ChromeVox-н тушаал биш боловч Chrome-г бүрэн ашиглахад ихээхэн тустай.
+<translation id="1212770441379271564">Дараагийн хэдэн товчлол нь ChromeVox-н тушаал биш боловч Egon-г бүрэн ашиглахад ихээхэн тустай.
     Товчлуур, холбоос зэрэг үйлдэл хийж болох зүйлүүдийн хооронд дараагийнх руу шилжихийн тулд Tab түлхүүрийг дарна уу. Харин буцаж шилжихийн тулд Shift+Tab-г дарна уу.
-    Chrome хөтчийн хаягийн хайрцагт, мөн omnibox гэж нэрлэгддэг, нэвтрэхийн тулд Control + L-г дарна уу.
+    Egon хөтчийн хаягийн хайрцагт, мөн omnibox гэж нэрлэгддэг, нэвтрэхийн тулд Control + L-г дарна уу.
     Шинэ таб автоматаар нээж, очихын тулд Control+T-г дарна уу. Таны курсор omnibox-д байрлах болно.
     Табыг хаахын тулд Control+W-г дарна уу.
     Нээлттэй табуудын хооронд дараагийнх руу очихын тулд Control+Tab-г ашиглана уу.
-    Chrome хөтчийн цэсийг нээхийн тулд Alt+F-г дарна уу.</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome-д дуу оруулах</translation>
+    Egon хөтчийн цэсийг нээхийн тулд Alt+F-г дарна уу.</translation>
+<translation id="1213216066620407844">ChromeVox - Egon-д дуу оруулах</translation>
 <translation id="1225969361094801578">Гүн хөх саарал</translation>
 <translation id="122928249241119550">өмнөх өгүүлбэр лүү оч</translation>
 <translation id="1230503547248836149">Сонголтын эхлэл</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Дүрмийн алдаа</translation>
 <translation id="2603828437139726540">Нэг тэмдэгтээр урагшаа зөөвөрлөх</translation>
 <translation id="2619052155095999743">Оруулах</translation>
-<translation id="2619344480613750862">Та мөн дэлгэцийн хэсэг хооронд шилжих боломжтой. Жишээлбэл та эхлүүлэгч, тавиур болон өөрийн Chrome-н табууд хооронд шилжих боломжтой. Дараагийн хэсэг рүү очихын тулд дөрвөн хуруугаараа зүүнээс баруун тийш шударна уу. Үргэлжлүүлэхийн тулд үүнийг одоо туршиж үзнэ үү.</translation>
+<translation id="2619344480613750862">Та мөн дэлгэцийн хэсэг хооронд шилжих боломжтой. Жишээлбэл та эхлүүлэгч, тавиур болон өөрийн Egon-н табууд хооронд шилжих боломжтой. Дараагийн хэсэг рүү очихын тулд дөрвөн хуруугаараа зүүнээс баруун тийш шударна уу. Үргэлжлүүлэхийн тулд үүнийг одоо туршиж үзнэ үү.</translation>
 <translation id="2624431853467395961">Сурах горимыг нээх</translation>
 <translation id="2626530649491650971">дарж болохоор</translation>
 <translation id="263637551280112393">Search+Shift+Space дээр дарна уу</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Үндсэн шилжилт</translation>
 <translation id="609281021724813947">Өмнөх слайдер алга байна</translation>
 <translation id="6100239002225743044">Нэг мөрөөр дээшээ зөөвөрлөх</translation>
-<translation id="6118126368611144850">Chrome-н Андройд апп. Хэрэв таны төхөөрөмжид Play Store байвал Андройд аппаар ChromeVox-г туршиж үзээрэй. Play Store-с Google Chrome Canary-г татаж туршилтын дэмжлэгийг ашиглаж үзнэ үү.</translation>
+<translation id="6118126368611144850">Egon-н Андройд апп. Хэрэв таны төхөөрөмжид Play Store байвал Андройд аппаар ChromeVox-г туршиж үзээрэй. Play Store-с Google Egon Canary-г татаж туршилтын дэмжлэгийг ашиглаж үзнэ үү.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">идэвхжүүлэх</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Бага зэргийн алтан шаргал туяатай цайвар саарал</translation>
 <translation id="7541021454094606506">бүгдийг устгах</translation>
 <translation id="7543255924852002459">Шошгыг болих</translation>
-<translation id="7552432549459840808">Chrome-н хэрэгтэй товчлол</translation>
+<translation id="7552432549459840808">Egon-н хэрэгтэй товчлол</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" />-н өмнө <ph name="INSERT_PHRASE" />-г оруул</translation>
 <translation id="7569983096843329377">Хар</translation>
 <translation id="7579911500627256166">цэг <ph name="DOT" /></translation>

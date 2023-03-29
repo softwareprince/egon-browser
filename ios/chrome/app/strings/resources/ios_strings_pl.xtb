@@ -18,7 +18,7 @@ Twoja wyszukiwarka to <ph name="DSE_NAME" />. Zapoznaj się z jej instrukcjami,
 <translation id="1076421457278169141">Kod został zeskanowany</translation>
 <translation id="1076785341346483463">Synchronizacja z kontem zarządzanym</translation>
 <translation id="1084365883616172403">Post na Facebooku dodany.</translation>
-<translation id="1085696779717592361">Domyślne korzystanie z Chrome</translation>
+<translation id="1085696779717592361">Domyślne korzystanie z Egon</translation>
 <translation id="1103523840287552314">Zawsze tłumacz z języka: <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">Przełącz na otwarte okno</translation>
 <translation id="1112015203684611006">Drukowanie nie udało się.</translation>
@@ -32,13 +32,13 @@ Twoja wyszukiwarka to <ph name="DSE_NAME" />. Zapoznaj się z jej instrukcjami,
 <translation id="1165039591588034296">Błąd</translation>
 <translation id="1172898394251786223">Następne pole</translation>
 <translation id="1176932207622159128">Nie można zapisać</translation>
-<translation id="1177414119866731261">Otwórz menu Chrome</translation>
+<translation id="1177414119866731261">Otwórz menu Egon</translation>
 <translation id="1181037720776840403">Usuń</translation>
 <translation id="1207113853726624428">Nowe wyszukiwanie</translation>
 <translation id="1209206284964581585">Na razie ukryj</translation>
 <translation id="1219674500290482172">Nie można połączyć się z internetem.</translation>
 <translation id="122699739164161391">Zamknij wszystkie karty</translation>
-<translation id="1229222343402087523">Wyszukaj ${searchPhrase} w Chrome</translation>
+<translation id="1229222343402087523">Wyszukaj ${searchPhrase} w Egon</translation>
 <translation id="1242044645101871359">Zaloguj się ponownie</translation>
 <translation id="1254117744268754948">Wybierz folder</translation>
 <translation id="1254424942107648268">Znajdź poprzedni</translation>
@@ -128,7 +128,7 @@ Twoja wyszukiwarka to <ph name="DSE_NAME" />. Zapoznaj się z jej instrukcjami,
 <translation id="1941314575388338491">Kliknij dwukrotnie, by skopiować.</translation>
 <translation id="1943478190258551035">Menu → Ustawienia</translation>
 <translation id="1952172573699511566">Gdy będzie to możliwe, tekst na stronach internetowych będzie się wyświetlać w Twoim preferowanym języku.</translation>
-<translation id="1965935827552890526">Dokończ czynności rozpoczęte w innym otwartym oknie Chrome.</translation>
+<translation id="1965935827552890526">Dokończ czynności rozpoczęte w innym otwartym oknie Egon.</translation>
 <translation id="1973912524893600642">Zachowaj dane</translation>
 <translation id="1974060860693918893">Zaawansowane</translation>
 <translation id="1981118202195772574">Mobilny</translation>
@@ -149,8 +149,8 @@ Twoja wyszukiwarka to <ph name="DSE_NAME" />. Zapoznaj się z jej instrukcjami,
 <translation id="2139867232736819575">Wyszukaj skopiowany tekst</translation>
 <translation id="214201757571129614">Zaloguj się…</translation>
 <translation id="2149973817440762519">Edytuj zakładkę</translation>
-<translation id="2150175299852799498">Mobilna wersja Chrome</translation>
-<translation id="2155145621546387786">Udostępnij Chrome</translation>
+<translation id="2150175299852799498">Mobilna wersja Egon</translation>
+<translation id="2155145621546387786">Udostępnij Egon</translation>
 <translation id="2175927920773552910">Kod QR</translation>
 <translation id="2178545675770638239">Wybierz hasło</translation>
 <translation id="2218443599109088993">Pomniejsz</translation>
@@ -161,7 +161,7 @@ Twoja wyszukiwarka to <ph name="DSE_NAME" />. Zapoznaj się z jej instrukcjami,
 <translation id="225943865679747347">Kod błędu: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Dodaj konto</translation>
 <translation id="2268044343513325586">Zawęź</translation>
-<translation id="2271351792809375263">Korzystaj z haseł zapisanych w Chrome w innych aplikacjach na urządzeniu</translation>
+<translation id="2271351792809375263">Korzystaj z haseł zapisanych w Egon w innych aplikacjach na urządzeniu</translation>
 <translation id="2273327106802955778">Menu Więcej</translation>
 <translation id="2286505070150039482">Zaznaczony tekst</translation>
 <translation id="2299218006564889602">Przed zapisaniem w menedżerze haseł Google hasła są szyfrowane na urządzeniu.</translation>
@@ -232,13 +232,13 @@ Witryny nie mogą używać plików cookie do śledzenia Twojej aktywności zwią
 <translation id="2797029671965852011">Pokaż historię</translation>
 <translation id="2800683595868705743">Zamknij przełącznik kart</translation>
 <translation id="2815198996063984598">2. Kliknij opcję Domyślna przeglądarka.</translation>
-<translation id="2820289420301699633">Twój administrator ma kontrolę nad Chrome i dostęp do danych w Chrome</translation>
+<translation id="2820289420301699633">Twój administrator ma kontrolę nad Egon i dostęp do danych w Egon</translation>
 <translation id="2830972654601096923">Zarządzaj adresami...</translation>
 <translation id="2834399722155632105">3. Kliknij Opcje haseł</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Zresetuj ustawienia tłumaczenia</translation>
 <translation id="2848086008667475748">Określ jako domyślną w ustawieniach…</translation>
-<translation id="2858204748079866344">Aby chronić Twoją prywatność, Chrome nie będzie autouzupełniać hasła w tym polu.</translation>
+<translation id="2858204748079866344">Aby chronić Twoją prywatność, Egon nie będzie autouzupełniać hasła w tym polu.</translation>
 <translation id="285960592395650245">Ponów pobieranie</translation>
 <translation id="2870560284913253234">Witryna</translation>
 <translation id="2871695793448672541">Ukryte, hasło</translation>
@@ -256,7 +256,7 @@ Witryny nie mogą używać plików cookie do śledzenia Twojej aktywności zwią
 <translation id="292639812446257861">Oznacz jako nieprzeczytane</translation>
 <translation id="2932085390869194046">Zaproponuj hasło...</translation>
 <translation id="2932765531295814441">Ręczne dodawanie haseł</translation>
-<translation id="2952581218264071393">1. Otwórz ustawienia Chrome.</translation>
+<translation id="2952581218264071393">1. Otwórz ustawienia Egon.</translation>
 <translation id="2958718410589002129">Hasła</translation>
 <translation id="2961210776189273067">Tytuł</translation>
 <translation id="2964349545761222050">Blokowanie plików cookie innych firm</translation>
@@ -312,7 +312,7 @@ Jeśli chcesz usunąć historię wyszukiwania, zapoznaj się z instrukcjami wys
 <translation id="3371831930909698441">Dostępne jest tłumaczenie. Opcje znajdują się u dołu ekranu.</translation>
 <translation id="3377063233124932127">Zapisane zakładki, hasła i inne elementy będą widoczne u góry.</translation>
 <translation id="3393920035788932672">Pop-upy akceptowane</translation>
-<translation id="3399930248910934354">Otwórz ustawienia Chrome</translation>
+<translation id="3399930248910934354">Otwórz ustawienia Egon</translation>
 <translation id="3404744938087714423">Wylogowanie spowoduje wyłączenie synchronizacji.</translation>
 <translation id="3425644765244388016">Nazwa karty</translation>
 <translation id="3433057996795775706">Usunięcie tego hasła nie spowoduje usunięcia Twojego konta w serwisie <ph name="WEBSITE" />. Aby uniemożliwić innym osobom dostęp do konta w serwisie <ph name="WEBSITE" />, zmień do niego hasło.</translation>
@@ -355,7 +355,7 @@ Jeśli chcesz usunąć historię wyszukiwania, zapoznaj się z instrukcjami wys
 <translation id="3709582977625132201">Oznacz jako nieprzeczytane</translation>
 <translation id="371230970611282515">Przewiduje niebezpieczne zdarzenia i ostrzega Cię przed nimi, zanim nastąpią.</translation>
 <translation id="37207012422556617">Wyszukiwania zyskujące popularność</translation>
-<translation id="3740397331642243698">Otwiera wpisane adresy URL w Google Chrome w trybie incognito.</translation>
+<translation id="3740397331642243698">Otwiera wpisane adresy URL w Google Egon w trybie incognito.</translation>
 <translation id="3762232513783804601">Dla Twojego iPada</translation>
 <translation id="3768725474733206671">Otwórz ostatnio zamkniętą kartę</translation>
 <translation id="3771033907050503522">Karty incognito</translation>
@@ -374,12 +374,12 @@ Jeśli chcesz usunąć historię wyszukiwania, zapoznaj się z instrukcjami wys
 <translation id="3858860766373142691">Nazwa</translation>
 <translation id="3861486700625780712">Przestań obserwować</translation>
 <translation id="3863769054730344136">Wyślij na swoje urządzenia</translation>
-<translation id="387280738075653372">Tutaj możesz pobrać Chrome.</translation>
+<translation id="387280738075653372">Tutaj możesz pobrać Egon.</translation>
 <translation id="3888863481921783344">Będziemy z tego korzystać, aby sugerować Ci osoby, które możesz zaprosić na swoje wydarzenie.</translation>
 <translation id="3892144330757387737">Tu znajdziesz swoją historię</translation>
 <translation id="3897092660631435901">Menu</translation>
 <translation id="3904829425754749514">Twoja organizacja wyłączyła synchronizację. Nadal masz dostęp do swoich zakładek, historii, haseł i innych ustawień na tym urządzeniu. Jeśli wprowadzisz zmiany, nie zostaną one zsynchronizowane na Twoim koncie.</translation>
-<translation id="3913386780052199712">Zalogowany w Chrome</translation>
+<translation id="3913386780052199712">Zalogowany w Egon</translation>
 <translation id="3915450441834151894">Informacje o witrynie</translation>
 <translation id="3922310737605261887">Wyszukaj skopiowany tekst</translation>
 <translation id="3928666092801078803">Połącz moje dane</translation>
@@ -522,7 +522,7 @@ Aby zmienić to ustawienie, <ph name="BEGIN_LINK" />zresetuj synchronizację<ph 
 <translation id="4979397965658815378">Zaloguj się na konto Google, by korzystać z zakładek, haseł, historii i innych ustawień na wszystkich urządzeniach</translation>
 <translation id="4986678885919050584">Usuń z tego urządzenia</translation>
 <translation id="4989542687859782284">Niedostępne</translation>
-<translation id="498985224078955265">Aby wysłać tę kartę na inne urządzenie, na obu urządzeniach zaloguj się w Chrome.</translation>
+<translation id="498985224078955265">Aby wysłać tę kartę na inne urządzenie, na obu urządzeniach zaloguj się w Egon.</translation>
 <translation id="5005498671520578047">Skopiuj hasło</translation>
 <translation id="5017828934289857214">Przypomnij później</translation>
 <translation id="5037676449506322593">Wybierz wszystko</translation>
@@ -532,19 +532,19 @@ Aby zmienić to ustawienie, <ph name="BEGIN_LINK" />zresetuj synchronizację<ph 
 <translation id="5062321486222145940">Zainstaluj Dysk Google</translation>
 <translation id="5083464117946352670">Nie można ustalić rozmiaru pliku.</translation>
 <translation id="5090832849094901128">Usunięcie tego hasła nie spowoduje usunięcia Twojego konta w serwisie <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">Możesz zapisywać strony do przeczytania później lub offline. Chrome zapyta, czy chcesz zapisać długie strony.</translation>
+<translation id="5092117651143801290">Możesz zapisywać strony do przeczytania później lub offline. Egon zapyta, czy chcesz zapisać długie strony.</translation>
 <translation id="5094827893301452931">Tweet opublikowany.</translation>
 <translation id="5118713593561876160">Zainteresowania</translation>
 <translation id="5118764316110575523">Wyłączono</translation>
-<translation id="5119391094379141756">Wybierz Chrome.</translation>
+<translation id="5119391094379141756">Wybierz Egon.</translation>
 <translation id="5132942445612118989">Synchronizuj swoje hasła, historię i inne dane na wszystkich swoich urządzeniach</translation>
-<translation id="5140288047769711648">Chrome będzie pamiętać to hasło za Ciebie. Nie musisz go zapamiętywać.</translation>
+<translation id="5140288047769711648">Egon będzie pamiętać to hasło za Ciebie. Nie musisz go zapamiętywać.</translation>
 <translation id="5149188072385105201">Dodaj hasło…</translation>
 <translation id="5150492518600715772">Wyślij na swoje urządzenie</translation>
 <translation id="5168414296986405587">Stworzona dla iPadOS</translation>
 <translation id="5173088371991956744">Synchronizacja musi potwierdzić Twoją tożsamość</translation>
 <translation id="5181140330217080051">Pobieranie</translation>
-<translation id="5184329579814168207">Otwórz w Chrome</translation>
+<translation id="5184329579814168207">Otwórz w Egon</translation>
 <translation id="5186185447130319458">Prywatna</translation>
 <translation id="5188482106078495165">Ustawienie plików cookie obowiązuje w odniesieniu do wszystkich kart. Aby zastosować nowe ustawienie do otwartej karty, załaduj ją ponownie.</translation>
 <translation id="5190835502935405962">Pasek zakładek</translation>
@@ -579,7 +579,7 @@ Aby zmienić to ustawienie, <ph name="BEGIN_LINK" />zresetuj synchronizację<ph 
 <translation id="5490005495580364134">Blokuj wszystkie pliki cookie (niezalecane)</translation>
 <translation id="5513681519188741830"><ph name="TIME" /> g temu</translation>
 <translation id="5520466080178053306">Kliknij kolejno: Menedżer haseł i Dodaj</translation>
-<translation id="5525095647255982834">Aby wysłać tę kartę na inne urządzenie, zaloguj się na nim w Chrome.</translation>
+<translation id="5525095647255982834">Aby wysłać tę kartę na inne urządzenie, zaloguj się na nim w Egon.</translation>
 <translation id="5525269841082836315">Utwórz hasło</translation>
 <translation id="5542540507657872337">Znaleziono <ph name="COUNT" /></translation>
 <translation id="5548760955356983418">Dzięki funkcji Handoff możesz rozpocząć przeglądanie strony na tym urządzeniu, a następnie płynnie kontynuować na Macu. Aktualnie otwarta strona internetowa wyświetli się w Docku na Macu.
@@ -601,14 +601,14 @@ Funkcja Handoff musi być też włączona w sekcji Ogólne w Ustawieniach, a urz
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Utwórz kod QR</translation>
 <translation id="567881659373499783">Wersja <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Pokazuję 1 okno Chrome}few{Pokazuję {count} okna Chrome}many{Pokazuję {count} okien Chrome}other{Pokazuję {count} okna Chrome}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Pokazuję 1 okno Egon}few{Pokazuję {count} okna Egon}many{Pokazuję {count} okien Egon}other{Pokazuję {count} okna Egon}}</translation>
 <translation id="5701270923492462699">Przyznano dostęp do aparatu</translation>
 <translation id="5704908597376970822">Nie można się zalogować.</translation>
 <translation id="5706552126692816153">Aktywność 1 dzień temu</translation>
 <translation id="5711039611392265845">Więcej ustawień związanych z prywatnością, bezpieczeństwem i zbieraniem danych znajdziesz w sekcji <ph name="BEGIN_LINK" />Synchronizacja i usługi Google<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">Aby przeglądać strony internetowe prywatnie, dodaj nową kartę</translation>
 <translation id="5728700505257787410">Niestety, wystąpił problem z zalogowaniem się na konto.</translation>
-<translation id="5733084997078800044">Wskazówka dotycząca Chrome</translation>
+<translation id="5733084997078800044">Wskazówka dotycząca Egon</translation>
 <translation id="5737974891429562743">Dane logowania na konto są nieaktualne. Zaktualizuj je, by rozpocząć synchronizację.</translation>
 <translation id="5738385766833540397">Zarządzaj sposobami otrzymywania alertów o obniżkach cen produktów, które śledzisz</translation>
 <translation id="5738887413654608789">Pozwoli Ci to odkrywać strony internetowe dotyczące rzeczy z Twojego otoczenia.</translation>
@@ -623,7 +623,7 @@ Funkcja Handoff musi być też włączona w sekcji Ogólne w Ustawieniach, a urz
 <translation id="5812974770859303494">Dodaj do...</translation>
 <translation id="581659025233126501">Włącz synchronizację</translation>
 <translation id="5819208479324046259">Przeglądarką zarządza <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Więcej informacji<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Zapisuj w Chrome hasła, formy płatności i adresy, aby później automatycznie je uzupełniać.</translation>
+<translation id="5833643789537100742">Zapisuj w Egon hasła, formy płatności i adresy, aby później automatycznie je uzupełniać.</translation>
 <translation id="5846482154967366008">Wyszukiwarka</translation>
 <translation id="5854790677617711513">Sprzed ponad 30 dni</translation>
 <translation id="5857090052475505287">Nowy folder</translation>
@@ -650,7 +650,7 @@ Funkcja Handoff musi być też włączona w sekcji Ogólne w Ustawieniach, a urz
 <translation id="5982717868370722439">Dodaj istniejące dane do konta <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Ostatnio odwiedzone</translation>
 <translation id="5988097621740394599">Pokazuj obniżki cen na kartach.</translation>
-<translation id="5988851877894965432">Otwórz adresy URL w Chrome</translation>
+<translation id="5988851877894965432">Otwórz adresy URL w Egon</translation>
 <translation id="6006672969046233841">Nowa karta</translation>
 <translation id="6012140227487808125">Szyfruję…</translation>
 <translation id="6021332621416007159">Otwórz w...</translation>
@@ -676,7 +676,7 @@ Funkcja Handoff musi być też włączona w sekcji Ogólne w Ustawieniach, a urz
 <translation id="6152406514676263192">Włącz synchronizację, aby wyświetlały się treści najlepiej pasujące do Twoich zainteresowań.</translation>
 <translation id="6159839020698489198">opcjonalnie</translation>
 <translation id="6170450281939467187">Nie udało się przetłumaczyć</translation>
-<translation id="6177442314419606057">Szukaj w Chrome</translation>
+<translation id="6177442314419606057">Szukaj w Egon</translation>
 <translation id="6184086493125982861">Pokaż karty</translation>
 <translation id="6187302354554850004">Ostatnia synchronizacja: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Nieprzeczytane</translation>
@@ -746,7 +746,7 @@ Postaraj się używać innego hasła w każdej witrynie.</translation>
 <translation id="6524918542306337007">Tryb incognito jest niedostępny</translation>
 <translation id="6530992499366869131">Ostrzegaj, jeśli wskutek naruszenia bezpieczeństwa danych doszło do ujawnienia haseł</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Wejdź na stronę i kliknij Obserwuj w menu Chrome</translation>
+<translation id="6540120577248033958">Wejdź na stronę i kliknij Obserwuj w menu Egon</translation>
 <translation id="6561262006871132942">Powiększ</translation>
 <translation id="6583087784430677195">Aby wyłączyć funkcję, otwórz <ph name="BEGIN_LINK" />Ustawienia<ph name="END_LINK" /> i przejdź do sekcji Automatyczne wypełnianie haseł.</translation>
 <translation id="6585618849026997638">Utwórz zakładkę, jeśli chcesz wrócić do interesującej Cię strony</translation>
@@ -864,7 +864,7 @@ W trybie incognito witryny nie mogą używać plików cookie do śledzenia Twoj
 <translation id="7454057999980797137">Stan/region</translation>
 <translation id="7459628154744868585">Silniejsza ochrona jest włączona</translation>
 <translation id="7464701184726199289">Spowoduje to usunięcie zsynchronizowanych danych ze wszystkich urządzeń. Zapisane ustawienia witryn nie zostaną usunięte i mogą zawierać informacje o Twoim korzystaniu z przeglądarki. <ph name="BEGIN_LINK" />Więcej informacji<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Wybierz Chrome.</translation>
+<translation id="746684838091935575">3. Wybierz Egon.</translation>
 <translation id="7472734401283673885">Nazwa firmy</translation>
 <translation id="7473891865547856676">Nie, dziękuję</translation>
 <translation id="750493650310597496">Nic nie wybrałeś</translation>
@@ -899,7 +899,7 @@ W trybie incognito witryny nie mogą używać plików cookie do śledzenia Twoj
 <translation id="7781011649027948662">Przetłumaczyć stronę?</translation>
 <translation id="7781069478569868053">Strona Nowa karta</translation>
 <translation id="7781829728241885113">Wczoraj</translation>
-<translation id="778855399387580014">Rozpocznij wyszukiwanie na nowej karcie Chrome.</translation>
+<translation id="778855399387580014">Rozpocznij wyszukiwanie na nowej karcie Egon.</translation>
 <translation id="7791543448312431591">Dodaj</translation>
 <translation id="7807060072011926525">Udostępniany przez Google</translation>
 <translation id="7839985698273989086">Strona offline</translation>
@@ -912,7 +912,7 @@ W trybie incognito witryny nie mogą używać plików cookie do śledzenia Twoj
 <translation id="7859704718976024901">Historia przeglądania</translation>
 <translation id="7879275349003161544">Wyświetl pobrane pliki</translation>
 <translation id="7884694604461143138">Historia wyszukiwania (liczba wyników: <ph name="COUNT" />)</translation>
-<translation id="7887198238286927132">Aby chronić Twoją prywatność, Chrome nie będzie automatycznie wypełniać tego pola.</translation>
+<translation id="7887198238286927132">Aby chronić Twoją prywatność, Egon nie będzie automatycznie wypełniać tego pola.</translation>
 <translation id="7911190106180361398">Twoja organizacja nie pozwala Ci synchronizować wszystkich danych.</translation>
 <translation id="7920949005883349320">Prywatność i bezpieczeństwo</translation>
 <translation id="7930998711684428189">Ostrzega, jeśli wskutek naruszenia bezpieczeństwa danych doszło do ujawnienia haseł.</translation>
@@ -933,7 +933,7 @@ Witryny mogą używać plików cookie do śledzenia Twojej aktywności związane
 <translation id="7982789257301363584">Sieć</translation>
 <translation id="7987685713885608670">Zanim zapiszesz hasła w menedżerze haseł Google, zaszyfruj je na urządzeniu, aby zwiększyć ich bezpieczeństwo.</translation>
 <translation id="7993619969781047893">Funkcje niektórych stron mogą nie działać prawidłowo</translation>
-<translation id="800361585186029508">Otwiera wpisane adresy URL w Google Chrome.</translation>
+<translation id="800361585186029508">Otwiera wpisane adresy URL w Google Egon.</translation>
 <translation id="8016714545083187120">Zawsze używaj bezpiecznych połączeń</translation>
 <translation id="802154636333426148">Nie udało się pobrać</translation>
 <translation id="8023878949384262191">Rozwija sekcję.</translation>
@@ -942,7 +942,7 @@ Witryny mogą używać plików cookie do śledzenia Twojej aktywności związane
 <translation id="804225253087497565"><ph name="BEGIN_LINK" />Historia wyszukiwania<ph name="END_LINK" /> i <ph name="BEGIN_LINK" />inne formy aktywności<ph name="END_LINK" /> mogą być zapisywane na Twoim koncie Google, gdy się zalogujesz. W każdej chwili możesz je usunąć.</translation>
 <translation id="804427445359061970">Znajdziesz tu swoje karty z innych urządzeń</translation>
 <translation id="8059533439631660104">Zwija sekcję.</translation>
-<translation id="8065292699993359127">Otwórz adresy URL w Chrome w trybie incognito</translation>
+<translation id="8065292699993359127">Otwórz adresy URL w Egon w trybie incognito</translation>
 <translation id="806745655614357130">Przechowuj dane oddzielnie</translation>
 <translation id="8073670137947914548">Pobieranie zakończone</translation>
 <translation id="8073872304774253879">Ulepsz wyszukiwanie i przeglądanie</translation>
@@ -956,7 +956,7 @@ Witryny mogą używać plików cookie do śledzenia Twojej aktywności związane
 <translation id="8114753159095730575">Pobrany plik jest dostępny. Opcje są dostępne u dołu ekranu.</translation>
 <translation id="81313319706244542">2. Kliknij Hasła</translation>
 <translation id="8132598642024322408">Teraz <ph name="PRICE" />, wcześniej <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Będziemy z tego korzystać, aby tworzyć wydarzenia z Chrome i Obiektywu Google w kalendarzu Apple.</translation>
+<translation id="8136856065410661948">Będziemy z tego korzystać, aby tworzyć wydarzenia z Egon i Obiektywu Google w kalendarzu Apple.</translation>
 <translation id="8156478151976189188">Funkcja Password Sync nie działa</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> kont(a)</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Twoje urządzenia<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Witryny mogą używać plików cookie do śledzenia Twojej aktywności związane
 <translation id="8533670235862049797">Bezpieczne przeglądanie jest włączone</translation>
 <translation id="8534481786647257214">Post w Google+ opublikowany.</translation>
 <translation id="8548878600947630424">Znajdź na stronie...</translation>
-<translation id="8558480467877843976">Teraz możesz używać Chrome za każdym razem, gdy przeglądasz lub klikasz linki w wiadomościach, dokumentach i innych aplikacjach.</translation>
+<translation id="8558480467877843976">Teraz możesz używać Egon za każdym razem, gdy przeglądasz lub klikasz linki w wiadomościach, dokumentach i innych aplikacjach.</translation>
 <translation id="8588404856427128947">Wyłączono</translation>
 <translation id="8590913940444621808">Nigdy nie pytaj</translation>
 <translation id="8591976964826315682">Blokuj pliki cookie innych firm w trybie incognito</translation>
@@ -1043,7 +1043,7 @@ Witryny mogą używać plików cookie do śledzenia Twojej aktywności związane
 <translation id="8876882697946675716">Synchronizacja urządzeń</translation>
 <translation id="8877287418679067891">Określ jako domyślną w ustawieniach…</translation>
 <translation id="8881801611828450202">Szukaj tego obrazu w: <ph name="SEARCH_ENGINE" /></translation>
-<translation id="8891935667620843985">Ustaw Chrome jako przeglądarkę domyślną, aby linki otwierały się w niej automatycznie.</translation>
+<translation id="8891935667620843985">Ustaw Egon jako przeglądarkę domyślną, aby linki otwierały się w niej automatycznie.</translation>
 <translation id="8898822736010347272">Wysyła do Google adresy URL niektórych odwiedzanych przez Ciebie stron, niektóre informacje o systemie i niektóre treści ze stron, by pomóc w wykrywaniu nowych zagrożeń i chronić wszystkich użytkowników internetu.</translation>
 <translation id="890565330728586731">Wstecz</translation>
 <translation id="8909135823018751308">Udostępnij…</translation>
@@ -1068,11 +1068,11 @@ Witryny mogą używać plików cookie do śledzenia Twojej aktywności związane
 <translation id="9055960261314198756">Silniejsza ochrona jest wyłączona</translation>
 <translation id="9057972802061533987">Nie udało się dodać do obserwowanych. Coś poszło nie tak.</translation>
 <translation id="9065203028668620118">Edytuj</translation>
-<translation id="9068336935206019333">Otwórz w Chrome w trybie incognito</translation>
+<translation id="9068336935206019333">Otwórz w Egon w trybie incognito</translation>
 <translation id="9079935439869366234">Oznacz wszystkie jako nieprzeczytane</translation>
 <translation id="9081058212938299310">Zaktualizować hasło dla <ph name="USERNAME" />?</translation>
 <translation id="9083838294503912307">Aby synchronizować i personalizować wszystkie swoje urządzenia, włącz synchronizację.</translation>
-<translation id="9087108903408689779">Hasło proponowane przez Chrome:</translation>
+<translation id="9087108903408689779">Hasło proponowane przez Egon:</translation>
 <translation id="9093271241977565440">U góry ekranu kliknij ikonę wyszukiwania</translation>
 <translation id="9094033019050270033">Aktualizuj hasło</translation>
 <translation id="9097506547406246598">Nie udało się zrezygnować z obserwowania. Coś poszło nie tak.</translation>
@@ -1089,7 +1089,7 @@ Witryny mogą używać plików cookie do śledzenia Twojej aktywności związane
 <translation id="9223358826628549784">Raport o awarii został wysłany.</translation>
 <translation id="941747855997058526">Wybierz hasło</translation>
 <translation id="952704832371081537">Anuluj</translation>
-<translation id="953008885340860025">Wylogowano z Chrome</translation>
+<translation id="953008885340860025">Wylogowano z Egon</translation>
 <translation id="959066944189734975">Obserwujesz kanał <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">Twoja organizacja pozwala logować się tylko na określone konta. Niedozwolone konta zostały ukryte.</translation>
 <translation id="984509647832111802">Synchronizacja nie działa.</translation>

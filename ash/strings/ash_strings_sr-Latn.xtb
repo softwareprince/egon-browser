@@ -299,7 +299,7 @@ Evo nekoliko stvari koje možete da probate za početak.</translation>
 <translation id="2620436844016719705">Sistem</translation>
 <translation id="2621713457727696555">Zaštićeno</translation>
 <translation id="263399434338050016">„Izaberi sve“</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">Snimanje prozora</translation>
 <translation id="2653659639078652383">Pošalji</translation>
 <translation id="2658778018866295321">Kliknite i prevucite</translation>
@@ -430,7 +430,7 @@ Evo nekoliko stvari koje možete da probate za početak.</translation>
 <translation id="3378438761594387761">Ovde ćete pronaći nedavna preuzimanja i snimke ekrana</translation>
 <translation id="3378442621503952303">Povezuje se sa profilom. Sačekajte nekoliko minuta.</translation>
 <translation id="3386978599540877378">lupa preko celog ekrana</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Dodatna podešavanja</translation>
 <translation id="3405101454990027959">Uključi pristup mikrofonu</translation>
 <translation id="3410336247007142655">Prikažite podešavanja tamne teme</translation>
@@ -916,7 +916,7 @@ Probajte ponovo u režimu laptopa.</translation>
 <translation id="6043994281159824495">Odjavi me odmah</translation>
 <translation id="6047696787498798094">Deljenje ekrana će se prekinuti kada prebacite na drugog korisnika. Želite li da nastavite?</translation>
 <translation id="6054305421211936131">Prijavite se pomoću pametne kartice</translation>
-<translation id="6059276912018042191">Nedavne Chrome kartice</translation>
+<translation id="6059276912018042191">Nedavne Egon kartice</translation>
 <translation id="6062360702481658777">Automatski ćete biti odjavljeni za <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Ne želim više da koristim ovaj fajl</translation>
 <translation id="6073451960410192870">Zaustavi snimanje</translation>
@@ -1021,7 +1021,7 @@ Novo instaliranje</translation>
 <translation id="6650933572246256093">Bluetooth uređaj „<ph name="DEVICE_NAME" />“ želi dozvolu za uparivanje. Unesite ovu šifru na tom uređaju: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Lozinka</translation>
 <translation id="6665545700722362599">Dozvolite veb-sajtovima, aplikacijama i dodacima da koriste usluge lokacije ili mikrofon, kameru ili druge funkcije uređaja</translation>
-<translation id="6667908387435388584">Povežite se sa hotspotom telefona, isključite zvuk uređaja i pronađite ga i pregledajte nedavne Chrome kartice otvorene na telefonu</translation>
+<translation id="6667908387435388584">Povežite se sa hotspotom telefona, isključite zvuk uređaja i pronađite ga i pregledajte nedavne Egon kartice otvorene na telefonu</translation>
 <translation id="6670153871843998651">Radna površina 3</translation>
 <translation id="6671495933530132209">Kopiraj sliku</translation>
 <translation id="6671661918848783005">Otključavanje Chromebook-a nije uspelo</translation>

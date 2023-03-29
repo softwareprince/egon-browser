@@ -28,7 +28,7 @@
 <translation id="4115165561519362854">O administrador deste dispositivo require que <ph name="EXTENSION_NAME" /> teña como mínimo a versión <ph name="EXTENSION_VERSION" />. Non se pode activar ata que se actualice a esa versión ou a unha superior.</translation>
 <translation id="4233778200880751280">Non se puido cargar a páxina de información <ph name="ABOUT_PAGE" />.</translation>
 <translation id="471800408830181311">Erro ao emitir a clave privada.</translation>
-<translation id="4811956658694082538">Non se puido instalar o paquete porque se produciu un fallo no proceso de execución dunha utilidade. Proba a reiniciar Chrome e téntao de novo.</translation>
+<translation id="4811956658694082538">Non se puido instalar o paquete porque se produciu un fallo no proceso de execución dunha utilidade. Proba a reiniciar Egon e téntao de novo.</translation>
 <translation id="4988792151665380515">Erro ao exportar a clave pública.</translation>
 <translation id="5026754133087629784">Vista web: <ph name="WEBVIEW_TAG_NAME" /></translation>
 <translation id="5098647635849512368">Non se pode atopar a ruta absoluta ao directorio que se debe incluír en paquetes.</translation>

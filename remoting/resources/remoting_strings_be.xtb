@@ -33,7 +33,7 @@
 <translation id="2509394361235492552">Падключана да хоста <ph name="HOSTNAME" /></translation>
 <translation id="2540992418118313681">Абагуліць гэты камп'ютар, каб іншы карыстальнік змог назіраць і кіраваць ім?</translation>
 <translation id="2579271889603567289">Хост нечакана спыніў працу ці не запусціўся.</translation>
-<translation id="2599300881200251572">Гэты сэрвіс уключае ўваходныя падключэнні кліентаў Аддаленага працоўнага стала Chrome.</translation>
+<translation id="2599300881200251572">Гэты сэрвіс уключае ўваходныя падключэнні кліентаў Аддаленага працоўнага стала Egon.</translation>
 <translation id="2647232381348739934">Сэрвіс Chromoting</translation>
 <translation id="2676780859508944670">Ідзе апрацоўка…</translation>
 <translation id="2692522824157224199">Аўтарскае права належыць Google LLC, 2022. Усе правы абаронены.</translation>
@@ -56,7 +56,7 @@
 <translation id="3596628256176442606">Гэты сэрвіс уключае ўваходныя падключэнні кліентаў Chromoting.</translation>
 <translation id="369442766917958684">Па-за сеткай.</translation>
 <translation id="3695446226812920698">Даведацца больш</translation>
-<translation id="3776024066357219166">Сеанс Аддаленага працоўнага стала Chrome завершаны.</translation>
+<translation id="3776024066357219166">Сеанс Аддаленага працоўнага стала Egon завершаны.</translation>
 <translation id="3858860766373142691">Назва</translation>
 <translation id="3897092660631435901">Меню</translation>
 <translation id="3905196214175737742">Уладальнік хоста выкарыстоўвае недапушчальны дамен.</translation>
@@ -73,7 +73,7 @@
 <translation id="4257751272692708833">Праграма для пераадрасацыі URL-адраса <ph name="PRODUCT_NAME" /></translation>
 <translation id="4277736576214464567">Несапраўдны код доступу. Паўтарыце спробу.</translation>
 <translation id="4281844954008187215">Умовы выкарыстання</translation>
-<translation id="4372650392690220936">Аўтарскае права: стваральнікі Chromium, 2022. Усе правы абаронены.</translation>
+<translation id="4372650392690220936">Аўтарскае права: стваральнікі Egon, 2022. Усе правы абаронены.</translation>
 <translation id="4405930547258349619">Асноўная бібліятэка</translation>
 <translation id="443560535555262820">Адкрыць параметры спецыяльных магчымасцей</translation>
 <translation id="4450893287417543264">Больш не паказваць</translation>
@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">Аддаленыя прылады</translation>
 <translation id="4660011489602794167">Паказаць клавіятуру</translation>
 <translation id="4703799847237267011">Сеанс Chromoting завершаны.</translation>
-<translation id="4741792197137897469">Памылка аўтэнтыфікацыі. Увайдзіце ў Chrome зноў.</translation>
+<translation id="4741792197137897469">Памылка аўтэнтыфікацыі. Увайдзіце ў Egon зноў.</translation>
 <translation id="4784508858340177375">На серверы X адбыўся збой, або яму не ўдалося запусціцца.</translation>
 <translation id="4798680868612952294">Параметры мышы</translation>
 <translation id="4804818685124855865">Адключыцца</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">Адправіць націсканне клавішы PrtScn</translation>
 <translation id="4974476491460646149">Падключэнне для хоста <ph name="HOSTNAME" /> спынена</translation>
 <translation id="4985296110227979402">Спачатку наладзьце камп'ютар для аддаленага доступу</translation>
-<translation id="4987330545941822761">Аддалены працоўны стол Chrome не можа вызначыць браўзер для лакальнага адкрыцця URL-адрасоў. Выберыце браўзер са спіса ніжэй.</translation>
+<translation id="4987330545941822761">Аддалены працоўны стол Egon не можа вызначыць браўзер для лакальнага адкрыцця URL-адрасоў. Выберыце браўзер са спіса ніжэй.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (па-за сеткай)</translation>
 <translation id="507204348399810022">Сапраўды выключыць аддаленыя падключэнні да хоста <ph name="HOSTNAME" />?</translation>
 <translation id="5170982930780719864">Няправільны ідэнтыфікатар хоста.</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">Адхіліць</translation>
 <translation id="5308380583665731573">Падключыцца</translation>
 <translation id="533625276787323658">Няма да чаго падключыцца</translation>
-<translation id="5397086374758643919">Праграма выдалення хоста Аддаленага працоўнага стала Chrome</translation>
+<translation id="5397086374758643919">Праграма выдалення хоста Аддаленага працоўнага стала Egon</translation>
 <translation id="5419418238395129586">Апошні раз у інтэрнэце: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Хост адключыўся.</translation>
 <translation id="5601503069213153581">PIN-код</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">Падключыцца зноў</translation>
 <translation id="5810269635982033450">Экран дзейнічае як сэнсарная панэль</translation>
 <translation id="5823554426827907568">Карыстальнік <ph name="CLIENT_USERNAME" /> запытвае доступ да вашага экрана, а таксама магчымасць кіраваць вашай клавіятурай і мышшу. Калі вы не чакалі гэтага запыту, націсніце ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />''. Каб дазволіць гэта падключэнне, націсніце "<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />", калі будзеце гатовыя.</translation>
-<translation id="5823658491130719298">На камп'ютары, да якога трэба атрымаць аддалены доступ, адкрыйце Chrome, а ў ім – старонку <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">На камп'ютары, да якога трэба атрымаць аддалены доступ, адкрыйце Egon, а ў ім – старонку <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">Параметры адлюстравання</translation>
 <translation id="6033507038939587647">Параметры клавіятуры</translation>
 <translation id="6040143037577758943">Закрыць</translation>
 <translation id="6062854958530969723">Збой ініцыялізацыі хоста.</translation>
-<translation id="6099500228377758828">Сэрвіс Аддаленага працоўнага стала Chrome</translation>
+<translation id="6099500228377758828">Сэрвіс Аддаленага працоўнага стала Egon</translation>
 <translation id="6122191549521593678">У інтэрнэце</translation>
 <translation id="6178645564515549384">Хост уласнага абмену паведамленнямі для аддаленай дапамогі</translation>
 <translation id="618120821413932081">Падладзіць раздзяляльнасць аддаленага працоўнага стала пад памер акна</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">Аддаленая дапамога</translation>
 <translation id="7026930240735156896">Для наладжвання аддаленага доступу выканайце гэтыя інструкцыі.</translation>
 <translation id="7067321367069083429">Экран дзейнічае як сэнсарны</translation>
-<translation id="7116737094673640201">Вітаем у Аддаленым працоўным стале Chrome</translation>
+<translation id="7116737094673640201">Вітаем у Аддаленым працоўным стале Egon</translation>
 <translation id="7144878232160441200">Паўтарыць</translation>
 <translation id="7312846573060934304">Хост па-за сеткай</translation>
 <translation id="7319983568955948908">Спыніць абагульванне</translation>
 <translation id="7359298090707901886">Выбраны браўзер не можа выкарыстоўвацца для адкрыцця URL-адрасоў на лакальнай машыне.</translation>
-<translation id="7401733114166276557">Аддалены працоўны стол Chrome</translation>
+<translation id="7401733114166276557">Аддалены працоўны стол Egon</translation>
 <translation id="7434397035092923453">Кліенту адмоўлена ў доступе: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Падключыўся кліент: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Змяніць уліковы запіс</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">Увядзіце PIN-код для аддаленага камп'ютара.</translation>
 <translation id="7895403300744144251">Палітыкі бяспекі на аддаленым камп'ютары не дазваляюць падключэнні з вашага ўліковага запісу.</translation>
 <translation id="7936528439960309876">Замацаваць справа</translation>
-<translation id="7970576581263377361">Памылка аўтэнтыфікацыі. Увайдзіце ва ўліковы запіс Chromium зноў.</translation>
+<translation id="7970576581263377361">Памылка аўтэнтыфікацыі. Увайдзіце ва ўліковы запіс Egon зноў.</translation>
 <translation id="7981525049612125370">Час аддаленага сеанса скончыўся.</translation>
 <translation id="8038111231936746805">(стандартна)</translation>
 <translation id="8041089156583427627">Адправіць водгук</translation>
 <translation id="8060029310790625334">Даведачны цэнтр</translation>
 <translation id="806699900641041263">Ідзе падключэнне да хоста <ph name="HOSTNAME" /></translation>
-<translation id="8073845705237259513">Каб выкарыстоўваць Аддалены працоўны стол Chrome, трэба дадаць на прыладу Уліковы запіс Google.</translation>
+<translation id="8073845705237259513">Каб выкарыстоўваць Аддалены працоўны стол Egon, трэба дадаць на прыладу Уліковы запіс Google.</translation>
 <translation id="809687642899217504">Мае камп'ютары</translation>
 <translation id="8116630183974937060">Памылка сеткі. Праверце, ці падключана прылада да інтэрнэту, і паўтарыце спробу.</translation>
 <translation id="8295077433896346116">Каб мець магчымасць выкарыстоўваць <ph name="PRODUCT_NAME" /> і каб уведзеныя з аддаленай прылады даныя можна было атрымліваць на гэтай прыладзе Mac, трэба даць дазвол на выкарыстанне спецыяльных магчымасцей.
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">Каб выкарыстоўваць Chromoting, трэба дадаць на прыладу Уліковы запіс Google.</translation>
 <translation id="8386846956409881180">Хост сканфігураваны з памылковымі ўліковымі данымі OAuth.</translation>
 <translation id="8397385476380433240">Атрыманне дазволу сэрвісам "<ph name="PRODUCT_NAME" />"</translation>
-<translation id="8406498562923498210">Выберыце, які сеанс запусціць у асяроддзі Аддаленага працоўнага стала Chrome. (Заўважце, што некаторыя тыпы сеансаў могуць не падтрымліваць працу ў Аддаленым працоўным стале Chrome і лакальнай кансолі адначасова.)</translation>
+<translation id="8406498562923498210">Выберыце, які сеанс запусціць у асяроддзі Аддаленага працоўнага стала Egon. (Заўважце, што некаторыя тыпы сеансаў могуць не падтрымліваць працу ў Аддаленым працоўным стале Egon і лакальнай кансолі адначасова.)</translation>
 <translation id="8428213095426709021">Налады</translation>
 <translation id="8445362773033888690">Прагледзець у краме Google Play</translation>
 <translation id="8509907436388546015">Працэс інтэграцыі працоўнага стала</translation>
@@ -184,13 +184,13 @@
 <translation id="8743328882720071828">Дазволіць карыстальніку <ph name="CLIENT_USERNAME" /> праглядаць дзеянні на камп'ютары і кіраваць ім?</translation>
 <translation id="8747048596626351634">Сеанс завяршыўся збоем ці не запусціўся. Калі файл ~/.chrome-remote-desktop-session існуе на аддаленым камп'ютары, упэўніцеся, што ён запускае працяглы працэс пярэдняга плана — напрыклад, асяроддзе працоўнага стала або інструмент кіравання вокнамі.</translation>
 <translation id="8804164990146287819">Палітыка прыватнасці</translation>
-<translation id="8906511416443321782">Доступ да мікрафона неабходны для запісу аўдыя і перадачы яго плынню на кліент Аддаленага працоўнага стала Chrome.</translation>
+<translation id="8906511416443321782">Доступ да мікрафона неабходны для запісу аўдыя і перадачы яго плынню на кліент Аддаленага працоўнага стала Egon.</translation>
 <translation id="9111855907838866522">Вы падключаны да аддаленай прылады. Каб адкрыць меню, дакраніцеся да экрана чатырма пальцамі.</translation>
 <translation id="9126115402994542723">Не запытваць PIN-код зноў пры падключэнні да гэтага хоста з гэтай прылады.</translation>
 <translation id="916856682307586697">Запусціць стандартны сеанс XSession</translation>
 <translation id="9187628920394877737">Дайце сэрвісу "<ph name="PRODUCT_NAME" />" дазвол на выкарыстанне функцыі "Запіс экрана"</translation>
 <translation id="9213184081240281106">Няправільная канфігурацыя хоста.</translation>
 <translation id="981121421437150478">Па-за сеткай</translation>
-<translation id="985602178874221306">Аўтары Chromium</translation>
+<translation id="985602178874221306">Аўтары Egon</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (апошні раз у інтэрнэце – <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

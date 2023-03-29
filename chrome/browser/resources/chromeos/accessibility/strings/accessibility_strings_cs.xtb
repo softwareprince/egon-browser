@@ -38,11 +38,11 @@
 <translation id="1207086294218137981">Žádný další nadpis 4. úrovně</translation>
 <translation id="1212770441379271564">Následující klávesové zkratky nejsou příkazy nástroje ChromeVox, ale přesto jsou velmi užitečné pro maximální využití Chromu.
     Chcete-li přejít na další položku, která umožňuje provedení akce (například tlačítko nebo odkaz), stiskněte tabulátor. Zpět přejdete stisknutím kláves Shift + Tabulátor.
-    Chcete-li přejít do adresního řádku prohlížeče Chrome (omniboxu), stiskněte Control + L.
+    Chcete-li přejít do adresního řádku prohlížeče Egon (omniboxu), stiskněte Control + L.
     Chcete-li otevřít novou kartu a automaticky na ni přejít, stiskněte Control + T. Kurzor bude v omniboxu.
     Chcete-li zavřít kartu, stiskněte Control + W.
     Chcete-li přejít na další otevřenou kartu, stiskněte Control + Tabulátor.
-    Chcete-li otevřít nabídku prohlížeče Chrome, stiskněte Alt + F.</translation>
+    Chcete-li otevřít nabídku prohlížeče Egon, stiskněte Alt + F.</translation>
 <translation id="1213216066620407844">ChromeVox – hlas Chromu</translation>
 <translation id="1225969361094801578">Tmavá břidlicová šedá</translation>
 <translation id="122928249241119550">přejít na předchozí větu</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Gramatická chyba</translation>
 <translation id="2603828437139726540">Přejít o znak dopředu</translation>
 <translation id="2619052155095999743">Vložit</translation>
-<translation id="2619344480613750862">Můžete také přecházet mezi sekcemi obrazovky. Můžete například přecházet mezi spouštěčem, poličkou a kartami prohlížeče Chrome. Na další sekci přejdete přejetím čtyřmi prsty zleva doprava. Zkuste tím pokračovat.</translation>
+<translation id="2619344480613750862">Můžete také přecházet mezi sekcemi obrazovky. Můžete například přecházet mezi spouštěčem, poličkou a kartami prohlížeče Egon. Na další sekci přejdete přejetím čtyřmi prsty zleva doprava. Zkuste tím pokračovat.</translation>
 <translation id="2624431853467395961">Otevřít režim výuky</translation>
 <translation id="2626530649491650971">klikatelné</translation>
 <translation id="263637551280112393">Stiskněte vyhledávací tlačítko + Shift + mezerník</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Základní navigace</translation>
 <translation id="609281021724813947">Žádný předchozí posuvník není</translation>
 <translation id="6100239002225743044">Přejít o řádek nahoru</translation>
-<translation id="6118126368611144850">Aplikace Android pro Chrome. Pokud na zařízení máte Obchod Play, můžete ChromeVox vyzkoušet s aplikacemi pro Android. Tuto experimentální funkci získáte tak, že si z Obchodu Play stáhnete Google Chrome Canary.</translation>
+<translation id="6118126368611144850">Aplikace Android pro Egon. Pokud na zařízení máte Obchod Play, můžete ChromeVox vyzkoušet s aplikacemi pro Android. Tuto experimentální funkci získáte tak, že si z Obchodu Play stáhnete Google Egon Canary.</translation>
 <translation id="611827076493383239">navštív</translation>
 <translation id="6119846243427417423">aktivovat</translation>
 <translation id="6122013438240733403">tlčtko</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">Světle žlutá</translation>
 <translation id="7541021454094606506">smazat vše</translation>
 <translation id="7543255924852002459">Zahodit štítek</translation>
-<translation id="7552432549459840808">Užitečné klávesové zkratky prohlížeče Chrome</translation>
+<translation id="7552432549459840808">Užitečné klávesové zkratky prohlížeče Egon</translation>
 <translation id="7553679324939294712">vložit <ph name="INSERT_PHRASE" /> před <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Černá</translation>
 <translation id="7579911500627256166">bod <ph name="DOT" /></translation>

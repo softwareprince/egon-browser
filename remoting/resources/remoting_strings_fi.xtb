@@ -33,7 +33,7 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittuna, poista valinta ja valitse
 <translation id="2509394361235492552">Yhdistetty isäntään <ph name="HOSTNAME" /></translation>
 <translation id="2540992418118313681">Haluatko jakaa tämän tietokoneen niin, että toinen käyttäjä voi käyttää ja valvoa sitä?</translation>
 <translation id="2579271889603567289">Isäntä kaatui tai sen käynnistäminen epäonnistui.</translation>
-<translation id="2599300881200251572">Tämä palvelu mahdollistaa Chrome-etäkäytön asiakkaiden muodostamat yhteydet.</translation>
+<translation id="2599300881200251572">Tämä palvelu mahdollistaa Egon-etäkäytön asiakkaiden muodostamat yhteydet.</translation>
 <translation id="2647232381348739934">Chromoting-palvelu</translation>
 <translation id="2676780859508944670">Käsitellään…</translation>
 <translation id="2692522824157224199">Copyright 2022 Google LLC. Kaikki oikeudet pidätetään.</translation>
@@ -56,7 +56,7 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittuna, poista valinta ja valitse
 <translation id="3596628256176442606">Tämä palvelu mahdollistaa Chromoting-asiakkaiden muodostamat yhteydet.</translation>
 <translation id="369442766917958684">Offline.</translation>
 <translation id="3695446226812920698">Lisätietoja</translation>
-<translation id="3776024066357219166">Chrome-etäkäyttökerta on päättynyt.</translation>
+<translation id="3776024066357219166">Egon-etäkäyttökerta on päättynyt.</translation>
 <translation id="3858860766373142691">Nimi</translation>
 <translation id="3897092660631435901">Valikko</translation>
 <translation id="3905196214175737742">Isännän omistajan verkkotunnus on virheellinen.</translation>
@@ -73,7 +73,7 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittuna, poista valinta ja valitse
 <translation id="4257751272692708833">URL-osoitteen välittäjä: <ph name="PRODUCT_NAME" /></translation>
 <translation id="4277736576214464567">Käyttökoodi on virheellinen. Yritä uudelleen.</translation>
 <translation id="4281844954008187215">Käyttöehdot</translation>
-<translation id="4372650392690220936">Copyright 2022 The Chromium Authors. Kaikki oikeudet pidätetään.</translation>
+<translation id="4372650392690220936">Copyright 2022 The Egon Authors. Kaikki oikeudet pidätetään.</translation>
 <translation id="4405930547258349619">Ydinkirjasto</translation>
 <translation id="443560535555262820">Avaa esteettömyysasetukset</translation>
 <translation id="4450893287417543264">Älä näytä uudelleen</translation>
@@ -92,7 +92,7 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittuna, poista valinta ja valitse
 <translation id="4867841927763172006">Lähetä PrtScn</translation>
 <translation id="4974476491460646149">Yhteys suljettu isäntään <ph name="HOSTNAME" /></translation>
 <translation id="4985296110227979402">Määritä ensin tietokone, johon haluat muodostaa etäyhteyden.</translation>
-<translation id="4987330545941822761">Chrome-etäkäyttö ei tunnista URL-osoitteiden paikalliseen avaamiseen käytettävää selainta. Valitse se listalta.</translation>
+<translation id="4987330545941822761">Egon-etäkäyttö ei tunnista URL-osoitteiden paikalliseen avaamiseen käytettävää selainta. Valitse se listalta.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (offline)</translation>
 <translation id="507204348399810022">Haluatko varmasti poistaa käytöstä etäyhteydet kohteeseen <ph name="HOSTNAME" />?</translation>
 <translation id="5170982930780719864">Isännän tunnus on virheellinen.</translation>
@@ -101,7 +101,7 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittuna, poista valinta ja valitse
 <translation id="5234764350956374838">Hylkää</translation>
 <translation id="5308380583665731573">Muodosta yhteys</translation>
 <translation id="533625276787323658">Et ole määrittänyt etätietokoneita.</translation>
-<translation id="5397086374758643919">Chrome-etäkäytön isännän asennuksen poisto</translation>
+<translation id="5397086374758643919">Egon-etäkäytön isännän asennuksen poisto</translation>
 <translation id="5419418238395129586">Yhdistetty verkkoon viimeksi: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Isäntä on offline-tilassa.</translation>
 <translation id="5601503069213153581">PIN-koodi</translation>
@@ -111,12 +111,12 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittuna, poista valinta ja valitse
 <translation id="579702532610384533">Yhdistä uudelleen</translation>
 <translation id="5810269635982033450">Näyttö toimii ohjauslevynä</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> on pyytänyt lupaa nähdä näyttösi ja ohjata näppäimistöäsi ja hiirtäsi. Paina ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />'', jos et odottanut tätä pyyntöä. Muussa tapauksessa voit sallia yhteyden valitsemalla ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />'', kun olet valmis.</translation>
-<translation id="5823658491130719298">Kun olet tietokoneella, jota haluat käyttää etänä, avaa Chrome ja siirry osoitteeseen <ph name="INSTALLATION_LINK" />.</translation>
+<translation id="5823658491130719298">Kun olet tietokoneella, jota haluat käyttää etänä, avaa Egon ja siirry osoitteeseen <ph name="INSTALLATION_LINK" />.</translation>
 <translation id="5841343754884244200">Näyttöasetukset</translation>
 <translation id="6033507038939587647">Näppäimistöasetukset</translation>
 <translation id="6040143037577758943">Sulje</translation>
 <translation id="6062854958530969723">Isännän alustus epäonnistui.</translation>
-<translation id="6099500228377758828">Chrome-etäkäyttöpalvelu</translation>
+<translation id="6099500228377758828">Egon-etäkäyttöpalvelu</translation>
 <translation id="6122191549521593678">Online</translation>
 <translation id="6178645564515549384">Viestiliikenteen alkuperäinen isäntä etäavustukselle</translation>
 <translation id="618120821413932081">Päivitä etäresoluutio vastaamaan ikkunan resoluutiota</translation>
@@ -136,12 +136,12 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittuna, poista valinta ja valitse
 <translation id="701976023053394610">Etätuki</translation>
 <translation id="7026930240735156896">Määritä tietokone etäyhteyttä varten seuraamalla ohjeita</translation>
 <translation id="7067321367069083429">Näyttö toimii kosketusnäyttönä</translation>
-<translation id="7116737094673640201">Tervetuloa Chrome-etäkäyttöön</translation>
+<translation id="7116737094673640201">Tervetuloa Egon-etäkäyttöön</translation>
 <translation id="7144878232160441200">Yritä uudelleen</translation>
 <translation id="7312846573060934304">Isäntä on offline-tilassa.</translation>
 <translation id="7319983568955948908">Lopeta jakaminen</translation>
 <translation id="7359298090707901886">Valitulla selaimella ei voi avata URL-osoitteita paikallisella laitteella.</translation>
-<translation id="7401733114166276557">Chrome-etäkäyttö</translation>
+<translation id="7401733114166276557">Egon-etäkäyttö</translation>
 <translation id="7434397035092923453">Käyttöoikeus kiellettiin asiakkaalta <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Asiakas <ph name="CLIENT_USERNAME" /> yhdistettiin.</translation>
 <translation id="7526139040829362392">Vaihda tiliä</translation>
@@ -162,7 +162,7 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittuna, poista valinta ja valitse
 <translation id="8041089156583427627">Lähetä palautetta</translation>
 <translation id="8060029310790625334">Ohjekeskus</translation>
 <translation id="806699900641041263">Yhdistetään isäntään <ph name="HOSTNAME" /></translation>
-<translation id="8073845705237259513">Sinun on lisättävä laitteeseesi Google-tili, jotta voit käyttää Chrome-etäkäyttöä.</translation>
+<translation id="8073845705237259513">Sinun on lisättävä laitteeseesi Google-tili, jotta voit käyttää Egon-etäkäyttöä.</translation>
 <translation id="809687642899217504">Omat tietokoneet</translation>
 <translation id="8116630183974937060">Tapahtui verkkovirhe. Tarkista, että laite on yhdistetty verkkoon, ja yritä uudelleen.</translation>
 <translation id="8295077433896346116">Jos haluat, että <ph name="PRODUCT_NAME" /> on käytettävissä, sinun on myönnettävä Esteettömyys-käyttölupa, jotta etäkoneen syöte voidaan siirtää tälle Macille.
@@ -174,7 +174,7 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittu, poista valinta ja valitse s
 <translation id="8383794970363966105">Sinun on lisättävä laitteeseesi Google-tili, jotta voit käyttää Chromotingia.</translation>
 <translation id="8386846956409881180">Isännälle on määritetty virheelliset OAuth-kirjautumistiedot.</translation>
 <translation id="8397385476380433240">Myönnä käyttölupa: <ph name="PRODUCT_NAME" /></translation>
-<translation id="8406498562923498210">Valitse käyttökerta, jonka haluat käynnistää Chrome-etäkäyttöympäristössä. (Huomaa, että jotkin käyttökertatyypit eivät välttämättä toimi yhtä aikaa Chrome-etäkäytöllä ja paikallisella konsolilla.)</translation>
+<translation id="8406498562923498210">Valitse käyttökerta, jonka haluat käynnistää Egon-etäkäyttöympäristössä. (Huomaa, että jotkin käyttökertatyypit eivät välttämättä toimi yhtä aikaa Egon-etäkäytöllä ja paikallisella konsolilla.)</translation>
 <translation id="8428213095426709021">Asetukset</translation>
 <translation id="8445362773033888690">Tarkastele Google Play Kaupassa</translation>
 <translation id="8509907436388546015">Tietokoneen integrointiprosessi</translation>
@@ -184,13 +184,13 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittu, poista valinta ja valitse s
 <translation id="8743328882720071828">Haluatko sallia sen, että <ph name="CLIENT_USERNAME" /> voi nähdä ja ohjata tietokonettasi?</translation>
 <translation id="8747048596626351634">Istunto kaatui tai sen käynnistäminen epäonnistui. Jos ~/.chrome-remote-desktop-session on olemassa etätietokoneella, varmista, että se käynnistää pitkäkestoisen etualaprosessin, esim. työpöytäympäristön tai ikkunanhallinnan.</translation>
 <translation id="8804164990146287819">Tietosuojakäytäntö</translation>
-<translation id="8906511416443321782">Audion tallennus ja sen striimaus Chrome-etäkäyttösovellukseen edellyttävät mikrofonin käyttöoikeuksia.</translation>
+<translation id="8906511416443321782">Audion tallennus ja sen striimaus Egon-etäkäyttösovellukseen edellyttävät mikrofonin käyttöoikeuksia.</translation>
 <translation id="9111855907838866522">Olet yhteydessä etälaitteeseesi. Avaa valikko koskettamalla näyttöä neljällä sormella.</translation>
 <translation id="9126115402994542723">Älä kysy PIN-koodia uudelleen yhdistettäessä tähän isäntään tältä laitteelta.</translation>
 <translation id="916856682307586697">Käynnistä XSession-oletuskäyttökerta</translation>
 <translation id="9187628920394877737">Myönnä Näytön tallennus ‑käyttölupa: <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Isännän omistajan määritykset ovat virheelliset.</translation>
 <translation id="981121421437150478">Offline</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Egon Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (viimeksi online-tilassa <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

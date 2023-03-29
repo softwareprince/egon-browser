@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">avbryt</translation>
 <translation id="1206619573307042055">markör</translation>
 <translation id="1207086294218137981">Det finns inga fler rubriker på nivå 4</translation>
-<translation id="1212770441379271564">De följande kortkommandona är inte ChromeVox-kommandon, men de är fortfarande mycket användbara för att få ut så mycket som möjligt av Chrome.
+<translation id="1212770441379271564">De följande kortkommandona är inte ChromeVox-kommandon, men de är fortfarande mycket användbara för att få ut så mycket som möjligt av Egon.
     Navigera framåt genom objekt som knappar och länkar genom att trycka på tabbtangenten. Navigera bakåt genom att trycka på Skift + tabbtangenten.
-    Öppna adressfältet i Chrome genom att trycka på Ctrl + L.
+    Öppna adressfältet i Egon genom att trycka på Ctrl + L.
     Öppna en ny flik automatiskt genom att trycka på Ctrl + T. Markören är i adressfältet.
     Stäng en flik genom att trycka Ctrl + W.
     Flytta framåt mellan öppna flikar genom att trycka på Ctrl + tabbtangenten.
-    Öppna Chrome-menyn genom att trycka på Alt + F.</translation>
-<translation id="1213216066620407844">ChromeVox – ger röst åt Chrome</translation>
+    Öppna Egon-menyn genom att trycka på Alt + F.</translation>
+<translation id="1213216066620407844">ChromeVox – ger röst åt Egon</translation>
 <translation id="1225969361094801578">Mörkt skiffergrå</translation>
 <translation id="122928249241119550">flytta till föregående mening</translation>
 <translation id="1230503547248836149">Textmarkeringens början</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Grammatikfel</translation>
 <translation id="2603828437139726540">Flytta framåt ett tecken</translation>
 <translation id="2619052155095999743">Infoga</translation>
-<translation id="2619344480613750862">Du kan även flytta dig från en del av skärmen till en annan. Du kan till exempel flytta dig mellan Appstartaren, hyllan och flikar i Chrome. Du kommer till nästa del genom att svepa från vänster till höger med fyra fingrar. Prova det nu för att fortsätta.</translation>
+<translation id="2619344480613750862">Du kan även flytta dig från en del av skärmen till en annan. Du kan till exempel flytta dig mellan Appstartaren, hyllan och flikar i Egon. Du kommer till nästa del genom att svepa från vänster till höger med fyra fingrar. Prova det nu för att fortsätta.</translation>
 <translation id="2624431853467395961">Öppna inlärningsläge</translation>
 <translation id="2626530649491650971">klickbart</translation>
 <translation id="263637551280112393">Tryck på Sök + Skift + blanksteg</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Logg</translation>
 <translation id="5628125749885014029">rubr4</translation>
 <translation id="5632083598315326067">Grafisk symbol</translation>
-<translation id="5648939288050772726">Grattis! Nu kan du grunderna i att använda ChromeVox. Kom ihåg att du kan öppna kommandomenyn för ChromeVox när som helst genom att trycka på söktangenten + punkt. Om du vill veta ännu mer om ChromeVox och Chrome OS kan du läsa följande artiklar.
+<translation id="5648939288050772726">Grattis! Nu kan du grunderna i att använda ChromeVox. Kom ihåg att du kan öppna kommandomenyn för ChromeVox när som helst genom att trycka på söktangenten + punkt. Om du vill veta ännu mer om ChromeVox och Egon OS kan du läsa följande artiklar.
     Om du är klar med självstudierna kan du använda ChromeVox till att navigera till stängningsknappen och klicka på den.</translation>
 <translation id="5653397561111110475">Använda tillgänglighetsfunktioner för pekskärmen på Chromebook</translation>
 <translation id="5655682562155942719">Hoppkommandon</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Grundläggande navigering</translation>
 <translation id="609281021724813947">Det finns inget föregående skjutreglage</translation>
 <translation id="6100239002225743044">Flytta uppåt en rad</translation>
-<translation id="6118126368611144850">Android-appar till Chrome. Du kan få en förhandstitt på hur ChromeVox fungerar med Android-appar om Play Butik är installerat på enheten. Ladda ned Google Chrome Canary från Play Butik och testa det experimentella stödet för Android-appar.</translation>
+<translation id="6118126368611144850">Android-appar till Egon. Du kan få en förhandstitt på hur ChromeVox fungerar med Android-appar om Play Butik är installerat på enheten. Ladda ned Google Egon Canary från Play Butik och testa det experimentella stödet för Android-appar.</translation>
 <translation id="611827076493383239">besökt</translation>
 <translation id="6119846243427417423">aktivera</translation>
 <translation id="6122013438240733403">knapp</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Ljust gullrisgul</translation>
 <translation id="7541021454094606506">radera allt</translation>
 <translation id="7543255924852002459">Ignorera etikett</translation>
-<translation id="7552432549459840808">Användbara kortkommandon i Chrome</translation>
+<translation id="7552432549459840808">Användbara kortkommandon i Egon</translation>
 <translation id="7553679324939294712">infoga <ph name="INSERT_PHRASE" /> före <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Svart</translation>
 <translation id="7579911500627256166">punkt <ph name="DOT" /></translation>

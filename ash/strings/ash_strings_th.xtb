@@ -299,7 +299,7 @@
 <translation id="2620436844016719705">ระบบ</translation>
 <translation id="2621713457727696555">ปลอดภัย</translation>
 <translation id="263399434338050016">"เลือกทั้งหมด"</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">การจับภาพหน้าต่าง</translation>
 <translation id="2653659639078652383">ส่ง</translation>
 <translation id="2658778018866295321">คลิกแล้วลาก</translation>
@@ -430,7 +430,7 @@
 <translation id="3378438761594387761">คุณจะเห็นการดาวน์โหลดและการจับภาพหน้าจอล่าสุดที่นี่</translation>
 <translation id="3378442621503952303">กำลังเชื่อมต่อโปรไฟล์ รอสักครู่</translation>
 <translation id="3386978599540877378">แว่นขยายแบบเต็มหน้าจอ</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">การตั้งค่าเพิ่มเติม</translation>
 <translation id="3405101454990027959">เปิดการเข้าถึงไมโครโฟน</translation>
 <translation id="3410336247007142655">แสดงการตั้งค่าธีมมืด</translation>
@@ -915,7 +915,7 @@
 <translation id="6043994281159824495">ออกจากระบบเลย</translation>
 <translation id="6047696787498798094">การแชร์หน้าจอจะหยุดเมื่อคุณสลับไปเป็นผู้ใช้อีกรายหนึ่ง ต้องการดำเนินการต่อไหม</translation>
 <translation id="6054305421211936131">ลงชื่อเข้าใช้ด้วยสมาร์ทการ์ด</translation>
-<translation id="6059276912018042191">แท็บ Chrome ล่าสุด</translation>
+<translation id="6059276912018042191">แท็บ Egon ล่าสุด</translation>
 <translation id="6062360702481658777">คุณจะออกจากระบบโดยอัตโนมัติใน <ph name="LOGOUT_TIME_LEFT" /></translation>
 <translation id="6064463340679478396">ใช้ไฟล์เสร็จแล้ว</translation>
 <translation id="6073451960410192870">หยุดบันทึก</translation>
@@ -1020,7 +1020,7 @@
 <translation id="6650933572246256093">อุปกรณ์บลูทูธ "<ph name="DEVICE_NAME" />" ต้องการสิทธิ์ในการจับคู่ โปรดป้อนรหัสผ่านนี้บนอุปกรณ์นั้น: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">รหัสผ่าน</translation>
 <translation id="6665545700722362599">ให้สิทธิ์เว็บไซต์ แอป และส่วนขยายเพื่อใช้บริการตำแหน่ง ไมโครโฟนของอุปกรณ์ กล้อง หรือฟีเจอร์อื่นๆ</translation>
-<translation id="6667908387435388584">เชื่อมต่อฮอตสปอตของโทรศัพท์ ปิดเสียงและระบุตำแหน่งของอุปกรณ์ ตลอดจนดูแท็บ Chrome ล่าสุดที่เปิดอยู่ในโทรศัพท์</translation>
+<translation id="6667908387435388584">เชื่อมต่อฮอตสปอตของโทรศัพท์ ปิดเสียงและระบุตำแหน่งของอุปกรณ์ ตลอดจนดูแท็บ Egon ล่าสุดที่เปิดอยู่ในโทรศัพท์</translation>
 <translation id="6670153871843998651">เดสก์ที่ 3</translation>
 <translation id="6671495933530132209">คัดลอกรูปภาพ</translation>
 <translation id="6671661918848783005">ปลดล็อก Chromebook ไม่ได้</translation>

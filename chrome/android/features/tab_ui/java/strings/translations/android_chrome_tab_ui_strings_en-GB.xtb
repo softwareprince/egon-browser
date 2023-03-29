@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> of your tabs haven't been used lately. Close them?</translation>
 <translation id="1181037720776840403">Remove</translation>
 <translation id="125153950246128346">Tap to see another tab</translation>
-<translation id="1403228085774130835">You can find your closed tabs in Recent tabs under the Chrome main menu</translation>
+<translation id="1403228085774130835">You can find your closed tabs in Recent tabs under the Egon main menu</translation>
 <translation id="1455506303394048917">Your activity in these incognito tabs will be cleared from this device</translation>
 <translation id="1499635324672558517">Close all incognito tabs?</translation>
 <translation id="1657719826150349398">Move tab down</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">View shop info, option available near top of the screen</translation>
 <translation id="5558362125926932819">Close tab group with <ph name="NUMBER_OF_TABS" /> tabs</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> tabs grouped</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link from Chrome}other{<ph name="TABS_COUNT_MANY" /> links from Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link from Egon}other{<ph name="TABS_COUNT_MANY" /> links from Egon}}</translation>
 <translation id="575494663145460764">Get alerts for price drops?</translation>
 <translation id="58326064309361797">Drag tabs to group them</translation>
 <translation id="5846292395804797011">Close <ph name="TITLE_OF_GROUP" /> group with <ph name="NUMBER_OF_TABS" /> tabs</translation>

@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Faites glisser le curseur pour lire le texte aisément. Sa taille doit être similaire à celle-ci lorsque vous appuyez deux fois sur un paragraphe.</translation>
 <translation id="2329473609445770916">Ce site définit des centres d'intérêt que d'autres sites peuvent utiliser pour vous montrer des annonces</translation>
 <translation id="2359808026110333948">Continuer</translation>
-<translation id="2379925928934107488">Si possible, appliquer le thème sombre aux sites lorsque Chrome l'utilise</translation>
+<translation id="2379925928934107488">Si possible, appliquer le thème sombre aux sites lorsque Egon l'utilise</translation>
 <translation id="2387895666653383613">Mise à l'échelle texte</translation>
 <translation id="2390272837142897736">Augmenter le zoom</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> Mo</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">Du Web</translation>
 <translation id="321187648315454507">Pour autoriser <ph name="APP_NAME" /> à vous envoyer des notifications, vous devez aussi activer celles-ci dans les <ph name="BEGIN_LINK" />paramètres d'Android<ph name="END_LINK" />.</translation>
 <translation id="3227137524299004712">Microphone</translation>
-<translation id="3248611290851046188">Ce site définit des centres d'intérêt que d'autres sites peuvent utiliser pour vous montrer des annonces. Ce site récupère également vos centres d'intérêt de Chrome pour vous montrer des annonces plus pertinentes.</translation>
+<translation id="3248611290851046188">Ce site définit des centres d'intérêt que d'autres sites peuvent utiliser pour vous montrer des annonces. Ce site récupère également vos centres d'intérêt de Egon pour vous montrer des annonces plus pertinentes.</translation>
 <translation id="3277252321222022663">Autoriser les sites à accéder aux capteurs (recommandé)</translation>
 <translation id="3285500645985761267">Autoriser les sites connexes à voir votre activité dans le groupe</translation>
 <translation id="3295019059349372795">Chapitre 11 : La merveilleuse cité d'émeraude d'Oz</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">Cette action effacera <ph name="DATASIZE" /> de données et de témoins qu'ont stockés des sites.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(+ 1 autre)}one{(+ # autre)}other{(+ # autres)}}</translation>
 <translation id="5403592356182871684">Noms</translation>
-<translation id="5412236728747081950">Ce site récupère vos centres d'intérêt de Chrome pour vous montrer des annonces plus pertinentes</translation>
+<translation id="5412236728747081950">Ce site récupère vos centres d'intérêt de Egon pour vous montrer des annonces plus pertinentes</translation>
 <translation id="5438097262470833822">Ce choix réinitialisera les autorisations du site <ph name="WEBSITE" /></translation>
 <translation id="5489227211564503167">Temps écoulé : <ph name="ELAPSED_TIME" /> sur <ph name="TOTAL_TIME" /></translation>
 <translation id="5494752089476963479">Bloquer les annonces sur les sites qui diffusent des annonces intrusives ou trompeuses</translation>

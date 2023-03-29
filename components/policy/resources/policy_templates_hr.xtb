@@ -36,7 +36,7 @@
       prilikom instalacije/prvog pokretanja.
 
       Pravilo je dostupno samo na instancama Windowsa koje su pridružene domeni <ph name="MS_AD_NAME" /> ili instancama Windowsa 10 Pro ili Enterprise prijavljenim za upravljanje uređajima.
-      (Za OS Chrome pogledajte pravilo DeviceMetricsReportingEnabled.)</translation>
+      (Za OS Egon pogledajte pravilo DeviceMetricsReportingEnabled.)</translation>
 <translation id="1035385378988781231">To pravilo određuje hoće li značajka mrežnog dijeljenja datoteka za <ph name="PRODUCT_NAME" /> upotrebljavati NTLM za autentifikaciju.
 
       Ako se to pravilo postavi na True, NTLM će se upotrebljavati za autentifikaciju SMB dijeljenja ako je potrebna.
@@ -113,7 +113,7 @@
       Određuje koliko će potrajati prije nego što se čuvar zaslona prikaže na zaslonu prijave za uređaje u prodajnom načinu.
 
       Vrijednost pravila trebala bi biti navedena u milisekundama.</translation>
-<translation id="1141767714195601945">To pravilo upravlja parametrima naredbenog retka za Chrome iz Internet Explorera.
+<translation id="1141767714195601945">To pravilo upravlja parametrima naredbenog retka za Egon iz Internet Explorera.
 
       To pravilo nema utjecaja ako nije instaliran dodatak Podrška za stare preglednike za Internet Explorer.
 
@@ -257,7 +257,7 @@
 
       Svaka stavka na popisu tog pravila niz je koji sadrži ID proširenja i URL za ažuriranje odvojene točkom sa zarezom (<ph name="SEMICOLON" />). ID proširenja niz je od 32 slova koji se primjerice može pronaći na stranici <ph name="CHROME_EXTENSIONS_LINK" /> u načinu rada razvojnog programera. URL za ažuriranje treba usmjeravati na XML dokument Manifest ažuriranja kao što je opisano na stranici <ph name="LINK_TO_EXTENSION_DOC1" />. URL za ažuriranje koji se postavi u ovom pravilu upotrebljava se samo za prvu instalaciju, dok se za naknadna ažuriranja proširenja upotrebljava URL za ažuriranje naveden u manifestu proširenja.
 
-      Na primjer, <ph name="EXTENSION_POLICY_EXAMPLE" /> instalira aplikaciju <ph name="EXTENSION_POLICY_EXAMPLE_EXTENSION_NAME" /> sa standardnog URL-a za ažuriranje Chrome web-trgovine. Više informacija o hostingu proširenja potražite na stranici: <ph name="LINK_TO_EXTENSION_DOC2" />.</translation>
+      Na primjer, <ph name="EXTENSION_POLICY_EXAMPLE" /> instalira aplikaciju <ph name="EXTENSION_POLICY_EXAMPLE_EXTENSION_NAME" /> sa standardnog URL-a za ažuriranje Egon web-trgovine. Više informacija o hostingu proširenja potražite na stranici: <ph name="LINK_TO_EXTENSION_DOC2" />.</translation>
 <translation id="1435659902881071157">Mrežna konfiguracija na razini uređaja</translation>
 <translation id="1438739959477268107">Zadana postavka za generiranje ključeva</translation>
 <translation id="1454846751303307294">Omogućuje postavljanje popisa uzoraka URL-ova koji određuju web-lokacije kojima nije dopušteno pokretanje JavaScripta. Ako ovo pravilo nije postavljeno, upotrebljavat će se globalna zadana vrijednost za sve web-lokacije iz pravila "DefaultJavaScriptSetting", ako je postavljeno, odnosno iz osobne konfiguracije korisnika, ako nije.</translation>
@@ -416,7 +416,7 @@
 
       Ako se pravilo ne postavi, funkcija ažuriranja <ph name="TPM_FIRMWARE_UPDATE_TPM" /> opreme neće biti dostupna.</translation>
 <translation id="1708496595873025510">Postavljanje ograničenja za dohvaćanje vrijednosti varijacija</translation>
-<translation id="1717817358640580294">Ako pravilo nije postavljeno, a Chromeov alat za čišćenje otkrije neželjeni softver, Googleu se mogu prijaviti metapodaci o pretraživanju u skladu s pravilima postavljenim pravilom SafeBrowsingExtendedReportingEnabled. Chromeov alat za čišćenje korisniku će zatim postaviti upit želi li ukloniti neželjeni softver. Korisnik može podijeliti rezultate čišćenja s Googleom za pomoć pri budućem otkrivanju neželjenog softvera. Ti rezultati sadrže metapodatke datoteka, automatski instalirana proširenja i ključeve registra kao što je opisano u Dokumentu o privatnosti preglednika Google Chrome.
+<translation id="1717817358640580294">Ako pravilo nije postavljeno, a Chromeov alat za čišćenje otkrije neželjeni softver, Googleu se mogu prijaviti metapodaci o pretraživanju u skladu s pravilima postavljenim pravilom SafeBrowsingExtendedReportingEnabled. Chromeov alat za čišćenje korisniku će zatim postaviti upit želi li ukloniti neželjeni softver. Korisnik može podijeliti rezultate čišćenja s Googleom za pomoć pri budućem otkrivanju neželjenog softvera. Ti rezultati sadrže metapodatke datoteka, automatski instalirana proširenja i ključeve registra kao što je opisano u Dokumentu o privatnosti preglednika Google Egon.
 
       Ako se pravilo onemogući, a Chromeov alat za čišćenje otkrije neželjeni softver, Googleu se neće prijaviti metapodaci o pretraživanju, a bilo koje pravilo postavljeno pravilom SafeBrowsingExtendedReportingEnabled bit će nadjačano. Chromeov alat za čišćenje korisniku će postaviti upit želi li ukloniti neželjeni softver.  Rezultati čišćenja neće se prijaviti Googleu niti će to korisnik moći učiniti.
 
@@ -655,7 +655,7 @@
       Ako onemogućite tu postavku ili je ne postavite, sve autentifikacijske stranice zaštitnog portala prikazivat će se u (uobičajenoj) novoj kartici preglednika, na temelju trenutačnih korisničkih postavki proxyja.</translation>
 <translation id="21394354835637379">Omogućuje vam da odredite URL-ove kojima je dopušteno instaliranje proširenja, aplikacija i tema.
 
-          Počevši s preglednikom <ph name="PRODUCT_NAME" /> 21 instaliranje proširenja, aplikacija i korisničkih skripta iz izvora izvan okvira Chrome web-trgovine postalo je teže. Prije su korisnici mogli kliknuti vezu na *.crx datoteku i preglednik <ph name="PRODUCT_NAME" /> ponudio bi instaliranje datoteke nakon nekoliko upozorenja. Od preglednika <ph name="PRODUCT_NAME" /> 21 takve se datoteke moraju preuzeti i povući na stranicu postavki preglednika <ph name="PRODUCT_NAME" />. Ova postavka omogućuje određenim URL-ovima stari, jednostavniji tijek instalacije.
+          Počevši s preglednikom <ph name="PRODUCT_NAME" /> 21 instaliranje proširenja, aplikacija i korisničkih skripta iz izvora izvan okvira Egon web-trgovine postalo je teže. Prije su korisnici mogli kliknuti vezu na *.crx datoteku i preglednik <ph name="PRODUCT_NAME" /> ponudio bi instaliranje datoteke nakon nekoliko upozorenja. Od preglednika <ph name="PRODUCT_NAME" /> 21 takve se datoteke moraju preuzeti i povući na stranicu postavki preglednika <ph name="PRODUCT_NAME" />. Ova postavka omogućuje određenim URL-ovima stari, jednostavniji tijek instalacije.
 
           Svaka stavka na tom popisu podudaran je uzorak stila proširenja (pogledajte https://developer.chrome.com/extensions/match_patterns). Korisnici će moći jednostavno instalirati stavke s bilo kojeg URL-a koji se podudara sa stavkom na tom popisu. Ti uzorci moraju dopustiti lokaciju *.crx datoteke kao i stranicu s koje se pokreće preuzimanje (tj. referalnu stranicu).
 
@@ -733,7 +733,7 @@
 
       Pročitajte https://www.chromestatus.com/feature/5989473649164288</translation>
 <translation id="2269319728625047531">Omogući prikaz pristanka na sinkronizaciju tijekom prijave</translation>
-<translation id="2274864612594831715">To pravilo konfigurira omogućivanje virtualne tipkovnice kao uređaja za unos na OS-u Chrome. Korisnici ne mogu nadjačati to pravilo.
+<translation id="2274864612594831715">To pravilo konfigurira omogućivanje virtualne tipkovnice kao uređaja za unos na OS-u Egon. Korisnici ne mogu nadjačati to pravilo.
 
       Ako se pravilo postavi na istinito, virtualna zaslonska tipkovnica uvijek će biti omogućena.
 
@@ -801,7 +801,7 @@
 <translation id="2463034609187171371">Omogući DHE pakete šifri u TLS-u</translation>
 <translation id="2463365186486772703">Oznaka zemlje/jezika aplikacije</translation>
 <translation id="2466131534462628618">Autentifikacija putem obaveznog portala zanemaruje proxy</translation>
-<translation id="2471748297300970300">Ako se onemogući, sprječava pojavljivanje sigurnosnih upozorenja kad se Chrome pokrene s nekim potencijalno opasnim oznakama naredbenih redaka.
+<translation id="2471748297300970300">Ako se onemogući, sprječava pojavljivanje sigurnosnih upozorenja kad se Egon pokrene s nekim potencijalno opasnim oznakama naredbenih redaka.
 
           Ako se omogući ili se ne postavi, sigurnosna se upozorenja prikazuju kad se neke oznake naredbenih redaka upotrijebe za pokretanje Chromea.
 
@@ -933,7 +933,7 @@
 <translation id="2706708761587205154">Dopusti ispis samo s PIN-om</translation>
 <translation id="2710534340210290498">Ako se to pravilo postavi na false, korisnici neće moći zaključati zaslon (bit će moguća samo odjava s korisničke sesije). Ako se to pravilo postavi na true ili se ne postavi, korisnici koji su se autentificirali zaporkom moći će zaključati zaslon.</translation>
 <translation id="2731627323327011390">Onemogući upotrebu <ph name="PRODUCT_OS_NAME" /> certifikata za ARC aplikacije</translation>
-<translation id="2742843273354638707">Skrivanje aplikacije Chrome web-trgovine i veze u podnožju na web-stranici nove kartice i pokretača aplikacija za <ph name="PRODUCT_OS_NAME" />.
+<translation id="2742843273354638707">Skrivanje aplikacije Egon web-trgovine i veze u podnožju na web-stranici nove kartice i pokretača aplikacija za <ph name="PRODUCT_OS_NAME" />.
 
       Kada je to pravilo postavljeno na točno, ikone su skrivene.
 
@@ -977,7 +977,7 @@
 <translation id="2801155097555584385">Postavi prilagođeni početak punjenja baterije u postocima</translation>
 <translation id="2801230735743888564">Dopusti korisnicima igranje skrivene igre s dinosaurom kada je uređaj izvan mreže.
 
-      Ako se to pravilo postavi na "False", korisnici neće moći igrati skrivenu igru s dinosaurom kada uređaj nije povezan s mrežom. Ako se ta postavka postavi na "True", korisnici će moći igrati igru s dinosaurom. Ako se to pravilo ne postavi, korisnici neće moći igrati skrivenu igru s dinosaurom u prijavljenom OS-u Chrome, ali će je moći igrati u drugim okolnostima.</translation>
+      Ako se to pravilo postavi na "False", korisnici neće moći igrati skrivenu igru s dinosaurom kada uređaj nije povezan s mrežom. Ako se ta postavka postavi na "True", korisnici će moći igrati igru s dinosaurom. Ako se to pravilo ne postavi, korisnici neće moći igrati skrivenu igru s dinosaurom u prijavljenom OS-u Egon, ali će je moći igrati u drugim okolnostima.</translation>
 <translation id="2802085784857530815">Omogućuje vam da odredite mogu li korisnici pristupiti pisačima izvan tvrtke
 
       Ako se pravilo postavi na True ili se ne postavi, korisnici će moći dodavati i konfigurirati nativne pisače te ispisivati na njima.
@@ -996,12 +996,12 @@
       Kad se to pravilo postavi na popis vremenskih intervala koji nije prazan:
       Uređaji neće moći automatski provjeravati ima li ažuriranja tijekom navedenih vremenskih intervala. To pravilo neće utjecati na uređaje koje je potrebno vratiti na prethodnu verziju ili koji su ispod minimalne verzije sustava <ph name="PRODUCT_OS_NAME" /> zbog mogućih sigurnosnih poteškoća. Osim toga, pravilo neće blokirati provjere ažuriranja koje zatraže korisnici ili administratori.
       Kad se to pravilo ne postavi ili ne sadrži vremenske intervale:
-      Pravilo neće blokirati automatske provjere ažuriranja, no možda će ih blokirati druga pravila. Ta je značajka omogućena samo na Chrome uređajima koji su konfigurirani kao kiosci s automatskim pokretanjem. Ostali uređaji neće biti ograničeni tim pravilom.</translation>
+      Pravilo neće blokirati automatske provjere ažuriranja, no možda će ih blokirati druga pravila. Ta je značajka omogućena samo na Egon uređajima koji su konfigurirani kao kiosci s automatskim pokretanjem. Ostali uređaji neće biti ograničeni tim pravilom.</translation>
 <translation id="2823870601012066791">Lokacija Windows registra za <ph name="PRODUCT_OS_NAME" /> klijente:</translation>
 <translation id="2824715612115726353">Omogući anonimni način</translation>
 <translation id="2836621397261130126">Kontrolira poštuje li se odobrenje prema pravilima KDC-a kako bi se odlučilo hoće li se dodijeliti tiketi protokola <ph name="KERBEROS" />.
 
-          Ako se pravilo postavi na true, HTTP autentifikacija poštuje odobrenje prema pravilima KDC-a, odnosno Chrome dodjeljuje vjerodajnice samo ako KDC postavi <ph name="OK_AS_DELEGATE" /> na tiketu usluge. Više informacija potražite na https://tools.ietf.org/html/rfc5896.html. Usluga također treba biti usklađena s pravilom "AuthNegotiateDelegateWhitelist".
+          Ako se pravilo postavi na true, HTTP autentifikacija poštuje odobrenje prema pravilima KDC-a, odnosno Egon dodjeljuje vjerodajnice samo ako KDC postavi <ph name="OK_AS_DELEGATE" /> na tiketu usluge. Više informacija potražite na https://tools.ietf.org/html/rfc5896.html. Usluga također treba biti usklađena s pravilom "AuthNegotiateDelegateWhitelist".
 
           Ako se pravilo ne postavi ili se postavi na false, pravilo KDC-a zanemaruje se na podržanim platformama i poštuje se samo pravilo "AuthNegotiateDelegateWhitelist".
 
@@ -1409,7 +1409,7 @@
       Ako je jezik naveden i u ovom pravilu i u pravilu <ph name="SPELLCHECK_LANGUAGE_BLACKLIST_POLICY_NAME" />, prioritet će imati ovo pravilo i jezik za provjeru pravopisa bit će omogućen.
 
       Trenutačno su podržani sljedeći jezici: af, bg, ca, cs, da, de, el, en-AU, en-CA, en-GB, en-US, es, es-419, es-AR, es-ES, es-MX, es-US, et, fa, fo, fr, he, hi, hr, hu, id, it, ko, lt, lv, nb, nl, pl, pt-BR, pt-PT, ro, ru, sh, sk, sl, sq, sr, sv, ta, tg, tr, uk, vi.</translation>
-<translation id="356579196325389849">Korisnici mogu konfigurirati kanal izdanja OS-a Chrome</translation>
+<translation id="356579196325389849">Korisnici mogu konfigurirati kanal izdanja OS-a Egon</translation>
 <translation id="3575011234198230041">HTTP autentifikacija</translation>
 <translation id="3577251398714997599">Postavke oglasa za web-lokacije s ometajućim oglasima</translation>
 <translation id="357917253161699596">Omogući korisnicima upravljanje korisničkim certifikatima</translation>
@@ -1612,9 +1612,9 @@
 <translation id="3963602271515417124">Ako je točno, daljinsko atestiranje dopušteno je za uređaj i certifikat će se automatski generirati i prenijeti na poslužitelj za upravljanje uređajem.
 
           Ako se postavi na netočno ili se ne postavi, certifikat se neće generirati i pozivi API-ju proširenja enterprise.platformKeys neće uspjeti.</translation>
-<translation id="3964262920683972987">Konfiguriraj sliku pozadine na razini uređaja koja se prikazuje na zaslonu za prijavu ako se nijedan korisnik još nije prijavio na uređaj. Pravilo se postavlja tako da se navede URL s kojeg uređaj s OS-om Chrome može preuzeti sliku pozadine i kriptografsko hashiranje kojim se potvrđuje integritet preuzimanja. Slika mora biti u JPEG formatu i ne smije biti veća od 16 MB. URL-u se mora moći pristupiti bez autentifikacije. Slika pozadine preuzima se i sprema u predmemoriju. Ponovo će se preuzeti svaki put kada se URL ili hashiranje promijene.
+<translation id="3964262920683972987">Konfiguriraj sliku pozadine na razini uređaja koja se prikazuje na zaslonu za prijavu ako se nijedan korisnik još nije prijavio na uređaj. Pravilo se postavlja tako da se navede URL s kojeg uređaj s OS-om Egon može preuzeti sliku pozadine i kriptografsko hashiranje kojim se potvrđuje integritet preuzimanja. Slika mora biti u JPEG formatu i ne smije biti veća od 16 MB. URL-u se mora moći pristupiti bez autentifikacije. Slika pozadine preuzima se i sprema u predmemoriju. Ponovo će se preuzeti svaki put kada se URL ili hashiranje promijene.
 
-      Ako se postavi pravilo za pozadinu uređaja, uređaj s OS-om Chrome preuzet će i koristiti sliku pozadine na zaslonu za prijavu ako se nijedan korisnik još nije prijavio na uređaj. Kad se korisnik prijavi, primjenjuje se njegovo pravilo za pozadinu.
+      Ako se postavi pravilo za pozadinu uređaja, uređaj s OS-om Egon preuzet će i koristiti sliku pozadine na zaslonu za prijavu ako se nijedan korisnik još nije prijavio na uređaj. Kad se korisnik prijavi, primjenjuje se njegovo pravilo za pozadinu.
 
       Ako se pravilo o pozadini za uređaj ne postavi, o prikazivanju pozadine odlučuje korisnikovo pravilo o pozadini, ako je postavljeno.</translation>
 <translation id="3965339130942650562">Privremeni prekid do izvršavanja odjave korisnika u stanju mirovanja</translation>
@@ -1622,15 +1622,15 @@
 <translation id="3984028218719007910">Određuje hoće li sustav <ph name="PRODUCT_OS_NAME" /> zadržati lokalne podatke računa nakon odjave. Ako je to pravilo postavljeno na "istinito", sustav <ph name="PRODUCT_OS_NAME" /> ne zadržava trajne račune i svi podaci s korisnikove sesije bit će odbačeni nakon odjave. Ako je to pravilo postavljeno na "lažno" ili ako nije konfigurirano, uređaj će možda zadržavati (kriptirane) lokalne korisničke podatke.</translation>
 <translation id="398475542699441679">Pravilo određuje hoće li se omogućiti Podrška za stare preglednike.
 
-      Kad se to pravilo ne postavi ili se postavi na False, Chrome neće pokušati pokrenuti označene URL-ove u alternativnom pregledniku.
+      Kad se to pravilo ne postavi ili se postavi na False, Egon neće pokušati pokrenuti označene URL-ove u alternativnom pregledniku.
 
-      Kad se to pravilo postavi na True, Chrome će pokušati pokrenuti neke URL-ove u alternativnom pregledniku (na primjer Internet Exploreru). Značajka se konfigurira pomoću pravila u grupi <ph name="LEGACY_BROWSER_SUPPORT_POLICY_GROUP" />.
+      Kad se to pravilo postavi na True, Egon će pokušati pokrenuti neke URL-ove u alternativnom pregledniku (na primjer Internet Exploreru). Značajka se konfigurira pomoću pravila u grupi <ph name="LEGACY_BROWSER_SUPPORT_POLICY_GROUP" />.
 
       Ta je značajka zamjena za proširenje <ph name="LEGACY_BROWSER_SUPPORT_EXTENSION_NAME" />. Konfiguracija proširenja prenijet će se na tu značajku, no preporučuje se da umjesto toga upotrijebite Chromeova pravila. Time se osigurava bolja kompatibilnost ubuduće.</translation>
 <translation id="3997519162482760140">URL-ovi koji će dobiti pristup uređajima za videosnimanje na SAML stranicama za prijavu</translation>
-<translation id="4001275826058808087">IT administratori za poslovne uređaje pomoću te oznake mogu kontrolirati hoće li korisnici moći iskoristiti ponude registracijom OS-a Chrome.
+<translation id="4001275826058808087">IT administratori za poslovne uređaje pomoću te oznake mogu kontrolirati hoće li korisnici moći iskoristiti ponude registracijom OS-a Egon.
 
-      Ako je ovo pravilo postavljeno na istinito ili ako nije postavljeno, korisnici će moći iskoristiti ponude registracijom OS-a Chrome.
+      Ako je ovo pravilo postavljeno na istinito ili ako nije postavljeno, korisnici će moći iskoristiti ponude registracijom OS-a Egon.
 
       Ako je pravilo postavljeno na neistinito, korisnici neće moći iskoristiti ponude.</translation>
 <translation id="4008233182078913897">Određuje popis aplikacija i proširenja koji se instaliraju u pozadini
@@ -1644,13 +1644,13 @@
 
           To pravilo ima prednost pred pravilom <ph name="EXTENSION_INSTALL_BLACKLIST_POLICY_NAME" /> s kojim potencijalno može biti u sukobu. Ako se s popisa ukloni aplikacija ili proširenje koji su prethodno bili prisilno instalirani, <ph name="PRODUCT_NAME" /> automatski će ih deinstalirati.
 
-          Za instance Windowsa koje nisu pridružene domeni <ph name="MS_AD_NAME" /> prisilna instalacija ograničena je na aplikacije i proširenja koji su navedeni u Chrome web-trgovini.
+          Za instance Windowsa koje nisu pridružene domeni <ph name="MS_AD_NAME" /> prisilna instalacija ograničena je na aplikacije i proširenja koji su navedeni u Egon web-trgovini.
 
           Korisnici mogu izmijeniti izvorni kôd proširenja pomoću Alata za razvojne programere (zbog čega proširenje može prestati funkcionirati). Ako to predstavlja problem, postavite pravilo <ph name="DEVELOPER_TOOLS_POLICY_NAME" />.
 
-          Svaka stavka pravila niz je koji sadrži ID proširenja i URL za "ažuriranje" odvojene točkom sa zarezom (<ph name="SEMICOLON" />). ID proširenja niz je od 32 slova koji se primjerice može pronaći na <ph name="CHROME_EXTENSIONS_LINK" /> u načinu rada razvojnog programera. URL za "ažuriranje", ako se navede, treba usmjeravati na XML dokument manifesta ažuriranja kako je opisano u dokumentu <ph name="LINK_TO_EXTENSION_DOC1" />. Prema zadanim postavkama, upotrebljava se URL za ažuriranje Chrome web-trgovine (koji je trenutačno "https://clients2.google.com/service/update2/crx"). URL za "ažuriranje" postavljen u ovom pravilu upotrebljava se samo za prvo instaliranje, dok će se za daljnja ažuriranja proširenja upotrebljavati URL ažuriranja naveden u manifestu proširenja. Napominjemo i to da je eksplicitno navođenje URL-a za "ažuriranje" bilo obavezno u verzijama preglednika <ph name="PRODUCT_NAME" /> zaključno s verzijom 67.
+          Svaka stavka pravila niz je koji sadrži ID proširenja i URL za "ažuriranje" odvojene točkom sa zarezom (<ph name="SEMICOLON" />). ID proširenja niz je od 32 slova koji se primjerice može pronaći na <ph name="CHROME_EXTENSIONS_LINK" /> u načinu rada razvojnog programera. URL za "ažuriranje", ako se navede, treba usmjeravati na XML dokument manifesta ažuriranja kako je opisano u dokumentu <ph name="LINK_TO_EXTENSION_DOC1" />. Prema zadanim postavkama, upotrebljava se URL za ažuriranje Egon web-trgovine (koji je trenutačno "https://clients2.google.com/service/update2/crx"). URL za "ažuriranje" postavljen u ovom pravilu upotrebljava se samo za prvo instaliranje, dok će se za daljnja ažuriranja proširenja upotrebljavati URL ažuriranja naveden u manifestu proširenja. Napominjemo i to da je eksplicitno navođenje URL-a za "ažuriranje" bilo obavezno u verzijama preglednika <ph name="PRODUCT_NAME" /> zaključno s verzijom 67.
 
-          Na primjer, <ph name="EXTENSION_POLICY_EXAMPLE" /> instalira proširenje s ID-jem <ph name="EXTENSION_ID_SAMPLE" /> sa standardnog URL-a za "ažuriranje" Chrome web-trgovine. Više informacija o hostingu proširenja potražite ovdje: <ph name="LINK_TO_EXTENSION_DOC2" />.
+          Na primjer, <ph name="EXTENSION_POLICY_EXAMPLE" /> instalira proširenje s ID-jem <ph name="EXTENSION_ID_SAMPLE" /> sa standardnog URL-a za "ažuriranje" Egon web-trgovine. Više informacija o hostingu proširenja potražite ovdje: <ph name="LINK_TO_EXTENSION_DOC2" />.
 
           Ako se to pravilo ne postavi, aplikacije ili proširenja neće se instalirati automatski i korisnik može deinstalirati bilo koju aplikaciju ili proširenje u pregledniku <ph name="PRODUCT_NAME" />.
 
@@ -2076,7 +2076,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
 
       Ako se pravilo postavi na netočno, <ph name="PRODUCT_NAME" /> neće dopustiti izradu novih profila iz upravitelja profila.</translation>
 <translation id="4970855112942626932">Onemogući prijavu putem preglednika</translation>
-<translation id="4978405676361550165">Ako se postavi pravilo "OffHours", navedena pravila za uređaje zanemaruju se (upotreba zadanih postavki tih pravila) tijekom navedenih vremenskih intervala. Chrome ponovo primjenjuje pravila za uređaje na svaki događaj kada razdoblje "OffHours" započne ili završi. Korisnik će dobiti obavijest i morat će se odjaviti kada vrijeme za "OffHours" završi i kada se postavke pravila za uređaje promijene (odnosno kada je korisnik prijavljen računom koji nije dopušten).</translation>
+<translation id="4978405676361550165">Ako se postavi pravilo "OffHours", navedena pravila za uređaje zanemaruju se (upotreba zadanih postavki tih pravila) tijekom navedenih vremenskih intervala. Egon ponovo primjenjuje pravila za uređaje na svaki događaj kada razdoblje "OffHours" započne ili završi. Korisnik će dobiti obavijest i morat će se odjaviti kada vrijeme za "OffHours" završi i kada se postavke pravila za uređaje promijene (odnosno kada je korisnik prijavljen računom koji nije dopušten).</translation>
 <translation id="4980635395568992380">Vrste podataka:</translation>
 <translation id="4983201894483989687">Dopusti pokretanje dodataka koji su zastarjeli</translation>
 <translation id="4986560318567565414">Put do Chromea za prebacivanje iz zamjenskog preglednika.</translation>
@@ -2149,11 +2149,11 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
       Ako se pravilo postavi na 0, promjena zaporke računa na računalu onemogućena je.
 
       Zaporke mogu biti i starije od navedenog broja dana ako je klijent bio offline dulje vrijeme.</translation>
-<translation id="510196893779239086">To pravilo određuje hoće li se Chrome potpuno zatvoriti kada se posljednja kartica prebaci u drugi preglednik.
+<translation id="510196893779239086">To pravilo određuje hoće li se Egon potpuno zatvoriti kada se posljednja kartica prebaci u drugi preglednik.
 
-      Ako se pravilo ne postavi ili se postavi na True, Chrome će zadržati barem jednu otvorenu karticu nakon prebacivanja na zamjenski preglednik.
+      Ako se pravilo ne postavi ili se postavi na True, Egon će zadržati barem jednu otvorenu karticu nakon prebacivanja na zamjenski preglednik.
 
-      Ako se pravilo postavi na False, Chrome će zatvoriti karticu nakon prebacivanja na zamjenski preglednik, čak i ako je to bila posljednja kartica. Chrome će se tako u potpunosti zatvoriti.</translation>
+      Ako se pravilo postavi na False, Egon će zatvoriti karticu nakon prebacivanja na zamjenski preglednik, čak i ako je to bila posljednja kartica. Egon će se tako u potpunosti zatvoriti.</translation>
 <translation id="5102203758995933166">Omogućuje primjenu mrežne konfiguracije za svakog korisnika na <ph name="PRODUCT_OS_NAME" /> uređaju. Mrežna je konfiguracija niz u formatu JSON, kao što je definirano formatom Open Network Configuration.</translation>
 <translation id="5105313908130842249">Odgoda zaključavanja zaslona za vrijeme baterijskog napajanja</translation>
 <translation id="5108031557082757679">Onemogućeni pisači za uređaje tvrtke</translation>
@@ -2168,7 +2168,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
 <translation id="5148753489738115745">Omogućuje vam da odredite dodatne parametre koji se upotrebljavaju kada <ph name="PRODUCT_FRAME_NAME" /> pokreće uslugu <ph name="PRODUCT_NAME" />.
 
           Ako se to pravilo ne postavi, upotrebljavat će se zadani naredbeni redak.</translation>
-<translation id="5152787786897382519">Chromium i Google Chrome imaju neke grupe međusobno ovisnih pravila koja omogućuju upravljanje značajkom. Te su skupine predstavljene sljedećim grupama pravila. S obzirom da pravila mogu imati više izvora, primjenjuju se samo vrijednosti koje potječu iz izvora pravila najvišeg prioriteta. Vrijednosti koje potječu iz izvora nižeg prioriteta u istoj grupi zanemarit će se. Redoslijed prioriteta definiran je u pravilu <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Egon i Google Egon imaju neke grupe međusobno ovisnih pravila koja omogućuju upravljanje značajkom. Te su skupine predstavljene sljedećim grupama pravila. S obzirom da pravila mogu imati više izvora, primjenjuju se samo vrijednosti koje potječu iz izvora pravila najvišeg prioriteta. Vrijednosti koje potječu iz izvora nižeg prioriteta u istoj grupi zanemarit će se. Redoslijed prioriteta definiran je u pravilu <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5159469559091666409">Učestalost slanja mrežnih paketa za praćenje u milisekundama.
 
       Ako se to pravilo ne postavi, zadani interval iznosi 3 minute. Minimalni
@@ -2273,7 +2273,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
           Vrijednost "*" na popisu nedopuštenih znači da su svi hostovi za lokalno slanje poruka zabranjeni, osim u slučaju kada su izričito navedeni na popisu dopuštenih.
 
           Ako se to pravilo ne postavi, usluga <ph name="PRODUCT_NAME" /> učitat će sve instalirane hostove za lokalno slanje poruka.</translation>
-<translation id="5272684451155669299">Ako se postavi na True, korisnik može upotrebljavati hardver na Chrome uređajima za daljinsko atestiranje identiteta CA-u privatnosti putem API-ja <ph name="ENTERPRISE_PLATFORM_KEYS_API" /> pomoću funkcije <ph name="CHALLENGE_USER_KEY_FUNCTION" />.
+<translation id="5272684451155669299">Ako se postavi na True, korisnik može upotrebljavati hardver na Egon uređajima za daljinsko atestiranje identiteta CA-u privatnosti putem API-ja <ph name="ENTERPRISE_PLATFORM_KEYS_API" /> pomoću funkcije <ph name="CHALLENGE_USER_KEY_FUNCTION" />.
 
           Ako se postavi na False ili ako se ne postavi, pozivi API-ju vratit će kôd pogreške.</translation>
 <translation id="5277806246014825877">Omogućuje tom korisniku da pokrene Crostini.
@@ -2292,7 +2292,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
 <translation id="5318185076587284965">Omogući hostu za daljinski pristup upotrebu relejnih poslužitelja</translation>
 <translation id="5323128137188992869">Dopusti emitiranje sadržaja na uređaj pomoću usluge <ph name="PRODUCT_NAME" />.
 
-          Ako se to pravilo postavi na False, korisnici neće moći emitirati sadržaj na svom uređaju. Ako se pravilo postavi na True, korisnici će moći emitirati sadržaj. Ako se pravilo ne postavi, korisnici neće moći emitirati sadržaj na registrirane uređaje s OS-om Chrome, ali će moći emitirati na neregistrirane uređaje.</translation>
+          Ako se to pravilo postavi na False, korisnici neće moći emitirati sadržaj na svom uređaju. Ako se pravilo postavi na True, korisnici će moći emitirati sadržaj. Ako se pravilo ne postavi, korisnici neće moći emitirati sadržaj na registrirane uređaje s OS-om Egon, ali će moći emitirati na neregistrirane uređaje.</translation>
 <translation id="5329007337159326804">Upozorenje: pravilo o maksimalnoj verziji TLS-a u potpunosti će se ukloniti iz proizvoda <ph name="PRODUCT_NAME" /> oko verzije 75 (oko lipnja 2019.).
 
       Ako se to pravilo ne konfigurira, <ph name="PRODUCT_NAME" /> upotrebljava zadanu maksimalnu verziju.
@@ -2509,7 +2509,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
 
       NAPOMENA: izolacija web-lokacija na Androidu u eksperimentalnoj je fazi. Podrška će se s vremenom poboljšati, ali trenutačno može doći do problema pri izvedbi.
 
-      NAPOMENA: ovo pravilo primjenjuje se samo na Chrome na Androidu koji se izvodi na uređajima koji moraju imati više od 1 GB RAM-a. Za primjenu pravila na drugim platformama upotrijebite IsolateOrigins.
+      NAPOMENA: ovo pravilo primjenjuje se samo na Egon na Androidu koji se izvodi na uređajima koji moraju imati više od 1 GB RAM-a. Za primjenu pravila na drugim platformama upotrijebite IsolateOrigins.
       </translation>
 <translation id="5599461642204007579">Postavke upravljanja za <ph name="MS_AD_NAME" /></translation>
 <translation id="5610104657949692379">Ako se postavi, to pravilo određuje koju će radnju <ph name="PRODUCT_OS_NAME" /> izvršiti kada korisnik nije aktivan tijekom razdoblja zadanog odgodom neaktivnosti koja se može konfigurirati zasebno.
@@ -2517,7 +2517,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
           Ako se pravilo ne postavi, poduzima se zadana radnja, a to je obustava.
 
           Ako je radnja obustava, moguće je zasebno konfigurirati hoće li <ph name="PRODUCT_OS_NAME" /> zaključati zaslon prije obustavljanja.</translation>
-<translation id="5618398258385745432">Povezana postavka upotrijebljena je prije uvođenja ponovne autentifikacije za prikaz zaporki. Od tada ta postavka pa ni ovo pravilo nisu utjecali na ponašanje Chromea. Trenutačno ponašanje Chromea sada je isto kao da se tim pravilom onemogućuje prikaz čitljivog teksta zaporki na stranici postavki upravitelja zaporki. To znači da stranica postavki sadrži samo rezervirano mjesto, a Chrome će prikazati zaporku tek kad korisnik klikne "Prikaži" (i izvrši ponovnu autentifikaciju ako je primjenjivo). Izvorni opis pravila naveden je u nastavku.
+<translation id="5618398258385745432">Povezana postavka upotrijebljena je prije uvođenja ponovne autentifikacije za prikaz zaporki. Od tada ta postavka pa ni ovo pravilo nisu utjecali na ponašanje Chromea. Trenutačno ponašanje Chromea sada je isto kao da se tim pravilom onemogućuje prikaz čitljivog teksta zaporki na stranici postavki upravitelja zaporki. To znači da stranica postavki sadrži samo rezervirano mjesto, a Egon će prikazati zaporku tek kad korisnik klikne "Prikaži" (i izvrši ponovnu autentifikaciju ako je primjenjivo). Izvorni opis pravila naveden je u nastavku.
 
           Upravlja time može li korisnik prikazati zaporke čitljivim tekstom u upravitelju zaporki.
 
@@ -2675,7 +2675,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
           Ako postavite to pravilo, korisnici ga mogu privremeno premostiti omogućujući ili onemogućujući veliki pokazivač. Međutim, korisnički odabir nije trajan i zadana se vrijednost vraća svaki put kada se zaslon za prijavu prikaže iznova ili ako taj zaslon miruje jednu minutu.
 
           Ako se to pravilo ne postavi, veliki je pokazivač onemogućen pri prvom prikazivanju zaslona za prijavu. Korisnici mogu omogućiti ili onemogućiti veliki pokazivač u bilo kojem trenutku, a njegov status na zaslonu za prijavu zadržat će se i za sljedeće korisnike.</translation>
-<translation id="5929855945144989709">Dopusti uređajima pokretanje virtualnih računala na OS-u Chrome</translation>
+<translation id="5929855945144989709">Dopusti uređajima pokretanje virtualnih računala na OS-u Egon</translation>
 <translation id="5932767795525445337">To se pravilo može koristiti i za prikvačivanje Android aplikacija.</translation>
 <translation id="5936622343001856595">Nameće da se upiti u Google web-pretraživanju provode s aktiviranom funkcijom Sigurno pretraživanje te sprječava korisnike da promijene tu postavku.
 
@@ -2729,7 +2729,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
           Vrijednost pravila treba navesti u milisekundama. Vrijednosti se ograničavaju kako bi bile kraće od vremena do ulaska u stanje mirovanja.</translation>
 <translation id="6097601282776163274">Omogući prikupljanje anonimiziranih podataka zaključano URL-om</translation>
 <translation id="6099853574908182288">Način boje zadanog ispisa</translation>
-<translation id="6107642964266628393">Upravlja načinom i vremenom primjene ažuriranja Chrome OS-a.</translation>
+<translation id="6107642964266628393">Upravlja načinom i vremenom primjene ažuriranja Egon OS-a.</translation>
 <translation id="6111936128861357925">Dopuštanje skrivene igre s dinosaurom</translation>
 <translation id="6114416803310251055">neodobreno</translation>
 <translation id="6133088669883929098">Dopusti svim web-lokacijama da upotrebljavaju generiranje ključeva</translation>
@@ -2834,7 +2834,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
 <translation id="6282799760374509080">Omogući ili onemogući snimanje zvuka</translation>
 <translation id="6284362063448764300">TLS 1.1</translation>
 <translation id="6310223829319187614">Omogući samodovršavanje naziva domene tijekom prijave korisnika</translation>
-<translation id="6315673513957120120">Chrome prikazuje stranicu upozorenja kada korisnici dođu do web-lokacija koje sadrže pogreške SSL-a. Prema zadanim postavkama ili kada se to pravilo postavi na "True", korisnicima je dopušteno klikanjem proći stranice upozorenja.
+<translation id="6315673513957120120">Egon prikazuje stranicu upozorenja kada korisnici dođu do web-lokacija koje sadrže pogreške SSL-a. Prema zadanim postavkama ili kada se to pravilo postavi na "True", korisnicima je dopušteno klikanjem proći stranice upozorenja.
       Ako se pravilo postavi na "False", korisnici neće moći klikanjem proći stranice upozorenja.</translation>
 <translation id="6319198883324703402">Postavi vrijeme prve obavijesti o ponovnom pokretanju za korisnika</translation>
 <translation id="6352543686437322588">Lokalni račun na uređaju koji se treba automatski prijaviti nakon odgode.
@@ -3016,7 +3016,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
 <translation id="6698632841807204978">Omogući jednobojni ispis</translation>
 <translation id="6699880231565102694">Omogući autentifikaciju s dva čimbenika za hostove daljinskog pristupa</translation>
 <translation id="6731757988219967594">Filtriraj vršne web-lokacije (ali ne ugrađene iframeove) na temelju sadržaja za odrasle</translation>
-<translation id="6734521799274931721">Određuje dostupnost mrežnog dijeljenja datoteka za OS Chrome</translation>
+<translation id="6734521799274931721">Određuje dostupnost mrežnog dijeljenja datoteka za OS Egon</translation>
 <translation id="6735701345096330595">Nametni omogućivanje provjere pravopisa za jezike</translation>
 <translation id="673699536430961464">Ova postavka korisnicima omogućuje promjenu Google računa unutar područja sadržaja u prozoru preglednika nakon što se prijave na svojem <ph name="PRODUCT_OS_NAME" /> uređaju.
 
@@ -3061,7 +3061,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
 
       Ako se pravilo postavi na False, ugrađeni DNS klijent nikad se neće upotrebljavati.
 
-      Ako se to pravilo ne postavi, ugrađeni DNS klijent bit će omogućen prema zadanim postavkama na MacOS-u, Androidu (ako nisu omogućeni ni Privatni DNS ni VPN) i OS-u Chrome, a korisnici će moći promijeniti postavku upotrebe ugrađenog DNS klijenta uređivanjem oznaka na stranici chrome://flags ili navođenjem oznake naredbenog retka.</translation>
+      Ako se to pravilo ne postavi, ugrađeni DNS klijent bit će omogućen prema zadanim postavkama na MacOS-u, Androidu (ako nisu omogućeni ni Privatni DNS ni VPN) i OS-u Egon, a korisnici će moći promijeniti postavku upotrebe ugrađenog DNS klijenta uređivanjem oznaka na stranici chrome://flags ili navođenjem oznake naredbenog retka.</translation>
 <translation id="6843296367238757293">Pravilo je zastarjelo. Njegova se upotreba ne preporučuje. Pročitajte više na https://support.google.com/chrome/a/answer/7643500</translation>
 <translation id="684856667300805181">To je pravilo uklonjeno iz sustava <ph name="PRODUCT_NAME" /> 68 i zamijenjeno pravilom <ph name="ARC_GLS_POLICY_NAME" />.</translation>
 <translation id="6856743875250214792">To je pravilo zastarjelo i uklonjeno u M66 budući da se upotrebljavalo samo za interno testiranje i predstavlja sigurnosni rizik.
@@ -3103,7 +3103,7 @@ onemogućene. Korisnici će još uvijek moći ručno omogućiti SitePerProcess.
 
       NAPOMENA: izolacija web-lokacija na Androidu je eksperimentalna. Podrška će se s vremenom poboljšati, ali trenutačno može uzrokovati probleme s izvedbom.
 
-      NAPOMENA: ovo pravilo primjenjuje se samo na Chrome na Androidu koji se izvodi na uređajima koji moraju imati više od 1 GB RAM-a. Da bi se pravilo primijenilo na druge platforme, upotrijebite SitePerProcess.
+      NAPOMENA: ovo pravilo primjenjuje se samo na Egon na Androidu koji se izvodi na uređajima koji moraju imati više od 1 GB RAM-a. Da bi se pravilo primijenilo na druge platforme, upotrijebite SitePerProcess.
       </translation>
 <translation id="6922884955650325312">Blokiraj dodatak <ph name="FLASH_PLUGIN_NAME" /></translation>
 <translation id="6923366716660828830">Određuje naziv zadanog davatelja usluga pretraživanja. Ako naziv ostane prazan ili nije postavljen, upotrebljavat će se naziv hosta određen URL-om pretraživanja. Ovo će pravilo biti uzeto u obzir samo ako je omogućeno pravilo "DefaultSearchProviderEnabled".</translation>
@@ -3280,12 +3280,12 @@ onemogućene. Korisnici će još uvijek moći ručno omogućiti SitePerProcess.
 <translation id="7185078796915954712">TLS 1.3</translation>
 <translation id="718956142899066210">Dopuštene vrste veza za ažuriranja</translation>
 <translation id="7194407337890404814">Naziv zadanog davatelja usluge pretraživanja</translation>
-<translation id="7199304109870655950">Konfigurira opcije daljinskog pristupa na hostu Udaljene radne površine Chrome.
+<translation id="7199304109870655950">Konfigurira opcije daljinskog pristupa na hostu Udaljene radne površine Egon.
 
-      Host Udaljene radne površine Chrome nativna je usluga koja se izvodi na ciljnom računalu s kojim se korisnik može povezati pomoću aplikacije Udaljena radna površina Chrome.  Nativna je usluga pakirana i izvršava se zasebno od preglednika <ph name="PRODUCT_NAME" />.
+      Host Udaljene radne površine Egon nativna je usluga koja se izvodi na ciljnom računalu s kojim se korisnik može povezati pomoću aplikacije Udaljena radna površina Egon.  Nativna je usluga pakirana i izvršava se zasebno od preglednika <ph name="PRODUCT_NAME" />.
 
       Ta se pravila zanemaruju ako host Udaljene
-      radne površine Chrome nije instaliran.</translation>
+      radne površine Egon nije instaliran.</translation>
 <translation id="7202925763179776247">Dopusti ograničenja za preuzimanja</translation>
 <translation id="7207095846245296855">Nametni Google sigurno pretraživanje</translation>
 <translation id="7211368186050418507">Nikad ne otkrivaj vremensku zonu automatski</translation>
@@ -3387,7 +3387,7 @@ onemogućene. Korisnici će još uvijek moći ručno omogućiti SitePerProcess.
 <translation id="7329968046053403405">Određuje vrstu računa za račune koje pruža Androidova aplikacija za autentifikaciju koja podržava <ph name="HTTP_NEGOTIATE" /> autentifikaciju (npr., autentifikaciju Kerberos). Te informacije pruža dobavljač aplikacije za autentifikaciju. Više informacija potražite na https://goo.gl/hajyfN.
 
           Ako se ne navede nijedna postavka, na Androidu nije omogućena <ph name="HTTP_NEGOTIATE" /> autentifikacija.</translation>
-<translation id="7331962793961469250">Kada je postavljeno na "true" (točno), promocije za aplikacije Chrome web-trgovine neće se pojavljivati na stranici Nova kartica. Ako se ova opcija postavi na "false" (netočno) ili se ne postavi uopće, promocije za aplikacije Chrome web-trgovine prikazivat će se na stranici Nova kartica</translation>
+<translation id="7331962793961469250">Kada je postavljeno na "true" (točno), promocije za aplikacije Egon web-trgovine neće se pojavljivati na stranici Nova kartica. Ako se ova opcija postavi na "false" (netočno) ili se ne postavi uopće, promocije za aplikacije Egon web-trgovine prikazivat će se na stranici Nova kartica</translation>
 <translation id="7332963785317884918">Pravilo je zastarjelo. Sustav <ph name="PRODUCT_OS_NAME" /> uvijek će upotrebljavati strategiju čišćenja "RemoveLRU".
 
       Upravlja ponašanjem automatskog čišćenja na uređajima <ph name="PRODUCT_OS_NAME" />. Automatsko čišćenje pokreće se kada količina slobodnog prostora na disku dosegne kritičnu razinu kako bi se oslobodio prostor na disku.
@@ -3447,7 +3447,7 @@ onemogućene. Korisnici će još uvijek moći ručno omogućiti SitePerProcess.
       </translation>
 <translation id="7506269062143646163">Omogući podršku za Potpisanu HTTP razmjenu (SXG).
 
-          Ako se to pravilo ne postavi ili se omogući, Google Chrome prihvaćat će web-sadržaje koji se poslužuju kao potpisane HTTP razmjene.
+          Ako se to pravilo ne postavi ili se omogući, Google Egon prihvaćat će web-sadržaje koji se poslužuju kao potpisane HTTP razmjene.
 
           Ako se pravilo onemogući, potpisane HTTP razmjene ne mogu se učitati.</translation>
 <translation id="7511361072385293666">Ako se to pravilo postavi na "istinito" ili ako se ne postavi, dopuštena je upotreba QUIC protokola na proizvodu <ph name="PRODUCT_NAME" />.
@@ -3486,7 +3486,7 @@ onemogućene. Korisnici će još uvijek moći ručno omogućiti SitePerProcess.
 
       Ako se to pravilo ne postavi ili se postavi na 0, nakon pomicanja na označeni URL on se odmah otvara u zamjenskom pregledniku.
 
-      Kada se to pravilo postavi na neki broj, Chrome će prikazati poruku na toliko milisekunda, a zatim će otvoriti zamjenski preglednik.</translation>
+      Kada se to pravilo postavi na neki broj, Egon će prikazati poruku na toliko milisekunda, a zatim će otvoriti zamjenski preglednik.</translation>
 <translation id="7593523670408385997">Konfigurira veličinu predmemorije koju će <ph name="PRODUCT_NAME" /> upotrebljavati za pohranu predmemoriranih datoteka na disku.
 
       Ako postavite ovo pravilo, <ph name="PRODUCT_NAME" /> upotrebljavat će ponuđenu veličinu predmemorije, bez obzira je li korisnik označio "--disk-cache-size". Vrijednost navedena u ovom pravilu nije čvrsto postavljena granica, već prijedlog za sustav predmemoriranja; svaka vrijednost ispod nekoliko megabajta premala je i zaokružit će se na prihvatljivi minimum.
@@ -3698,7 +3698,7 @@ onemogućene. Korisnici će još uvijek moći ručno omogućiti SitePerProcess.
 <translation id="798856998567564266">Ako omogućite tu postavku, oznake se mogu dodavati, uklanjati ili mijenjati. To je zadana postavka čak i ako se ne postavi pravilo.
 
       Ako onemogućite tu postavku, oznake se neće moći dodavati, uklanjati ni mijenjati. Postojeće oznake i dalje su dostupne.</translation>
-<translation id="7992136759457836904">Omogućuje vam da odredite je li virtualnim računalima dopušteno pokretanje na OS-u Chrome.
+<translation id="7992136759457836904">Omogućuje vam da odredite je li virtualnim računalima dopušteno pokretanje na OS-u Egon.
 
       Ako se to pravilo postavi na True, uređaju je dopušteno pokretanje virtualnih računala.
       Ako se pravilo postavi na False, uređaju nije dopušteno pokretanje virtualnih računala.
@@ -3778,7 +3778,7 @@ onemogućene. Korisnici će još uvijek moći ručno omogućiti SitePerProcess.
       Ako se pravilo postavi na neistinito, popis sučelja neće se generirati.</translation>
 <translation id="8141795997560411818">To pravilo ne sprječava korisnika da upotrebljava Android aplikaciju Google disk. Ako želite spriječiti pristup Google disku, onemogućite instaliranje Android aplikacije Google disk.</translation>
 <translation id="8142894094385450823">Postavi preporučene jezike za upravljanu sesiju</translation>
-<translation id="8146727383888924340">Dopusti korisnicima da iskoriste ponude tijekom registracije OS-a Chrome</translation>
+<translation id="8146727383888924340">Dopusti korisnicima da iskoriste ponude tijekom registracije OS-a Egon</translation>
 <translation id="8148785525797916822">Sprječava upozorenje koje se prikazuje kada se <ph name="PRODUCT_NAME" /> izvodi na računalima ili operativnim sustavima koji više nisu podržani.</translation>
 <translation id="8148901634826284024">Omogući značajku pristupačnosti načina visokog kontrasta.
 
@@ -3825,7 +3825,7 @@ onemogućene. Korisnici će još uvijek moći ručno omogućiti SitePerProcess.
       Ako pravilo nije postavljeno, proizvod <ph name="PRODUCT_OS_NAME" /> upotrijebit će ID računa e-pošte lokalnog računa uređaja kao naziv za prikaz na zaslonu prijave.
 
       Ovo se pravilo zanemaruje za redovite korisničke račune.</translation>
-<translation id="8259375588339409826">Chromium i Google Chrome podržavaju isti skup pravila. Napominjemo da ovaj dokument može sadržavati neobjavljena pravila (to jest, unos "podržano na" odnosi se na neobjavljene verzije proizvoda <ph name="PRODUCT_NAME" />) podložna promjeni ili uklanjanju bez prethodne najave i za koja se ne pružaju nikakva jamstva, što znači da nema jamstava ni za sigurnost ni privatnost.
+<translation id="8259375588339409826">Egon i Google Egon podržavaju isti skup pravila. Napominjemo da ovaj dokument može sadržavati neobjavljena pravila (to jest, unos "podržano na" odnosi se na neobjavljene verzije proizvoda <ph name="PRODUCT_NAME" />) podložna promjeni ili uklanjanju bez prethodne najave i za koja se ne pružaju nikakva jamstva, što znači da nema jamstava ni za sigurnost ni privatnost.
 
 Ta su pravila namijenjena isključivo konfiguriranju instanci preglednika <ph name="PRODUCT_NAME" /> za unutarnju upotrebu u vašoj organizaciji. Upotreba tih pravila izvan vaše organizacije (na primjer u javno distribuiranom programu) smatra se zlonamjernim softverom, pa će je Google i dobavljači antivirusnih programa vjerojatno označiti kao takvu.
 
@@ -4024,7 +4024,7 @@ Za sustav Windows preporučuje se konfiguriranje pravila putem GPO-a, iako se pr
 
       Tu postavku korisnici ne mogu promijeniti niti nadjačati.</translation>
 <translation id="8631434304112909927">do verzije <ph name="UNTIL_VERSION" /></translation>
-<translation id="8649763579836720255">Uređaji s OS-om Chrome mogu upotrebljavati daljinsku ovjeru (potvrđeni pristup) kako bi dobili certifikat koji izdaje tijelo za izdavanje certifikata OS-a Chrome koje potvrđuje da uređaj ispunjava uvjete za reprodukciju zaštićenog sadržaja. Taj proces uključuje slanje informacija o potvrdi hardvera tijelu za izdavanje certifikata OS-a Chrome koje jedinstveno identificira uređaj.
+<translation id="8649763579836720255">Uređaji s OS-om Egon mogu upotrebljavati daljinsku ovjeru (potvrđeni pristup) kako bi dobili certifikat koji izdaje tijelo za izdavanje certifikata OS-a Egon koje potvrđuje da uređaj ispunjava uvjete za reprodukciju zaštićenog sadržaja. Taj proces uključuje slanje informacija o potvrdi hardvera tijelu za izdavanje certifikata OS-a Egon koje jedinstveno identificira uređaj.
 
           Ako je ta postavka netočna, uređaj neće upotrebljavati daljinsku ovjeru za zaštitu sadržaja i uređaj možda neće moći reproducirati zaštićeni sadržaj.
 
@@ -4168,7 +4168,7 @@ Za sustav Windows preporučuje se konfiguriranje pravila putem GPO-a, iako se pr
 
           To pravila mapira ID proširenja ili URL za ažuriranje u svoju konfiguraciju. Uz ID proširenja konfiguracija će se primijeniti samo na navedeno proširenje. Zadana konfiguracija može se postaviti za posebni ID <ph name="DEFAULT_SCOPE" />, koji će se primjenjivati na sva proširenja za koja nije postavljena prilagođena konfiguracija u tom pravilu. Uz URL za ažuriranje konfiguracija će se primijeniti na sva proširenja s URL-om za ažuriranje navedenim u manifestu tog proširenja, kao što je opisano na <ph name="LINK_TO_EXTENSION_DOC1" />.
 
-          Za instance Windowsa koje nisu pridružene domeni <ph name="MS_AD_NAME" /> prisilna instalacija ograničena je na aplikacije i proširenja koji su navedeni u Chrome web-trgovini.
+          Za instance Windowsa koje nisu pridružene domeni <ph name="MS_AD_NAME" /> prisilna instalacija ograničena je na aplikacije i proširenja koji su navedeni u Egon web-trgovini.
           </translation>
 <translation id="8947415621777543415">Prijava lokacije uređaja</translation>
 <translation id="8951350807133946005">Postavi direktorij predmemorije na disku</translation>
@@ -4215,13 +4215,13 @@ Za sustav Windows preporučuje se konfiguriranje pravila putem GPO-a, iako se pr
       Ako se vrijednost pravila postavi na token koji mapira na međuverziju za brzi popravak, uređaj će se ažurirati na odgovarajuću međuverziju ako ažuriranje nije blokirano drugim pravilom.
 
       Ako se pravilo ne postavi ili njegova vrijednost ne mapira na međuverziju za brzi popravak, uređaj se neće ažurirati na međuverziju za brzi popravak. Ako je na uređaju već instalirana međuverzija za brzi popravak i pravilo više nije postavljeno ili njegova vrijednost više ne mapira na međuverziju za brzi popravak, uređaj će se ažurirati na regularnu međuverziju ako ažuriranje nije blokirano drugim pravilom.</translation>
-<translation id="9054012305936267950">To pravilo upravlja ponašanjem prijave putem preglednika. Omogućuje vam da odredite može li se korisnik prijaviti u preglednik <ph name="PRODUCT_NAME" /> svojim računom i upotrebljavati usluge povezane s računom kao što je Chrome sinkronizacija.
+<translation id="9054012305936267950">To pravilo upravlja ponašanjem prijave putem preglednika. Omogućuje vam da odredite može li se korisnik prijaviti u preglednik <ph name="PRODUCT_NAME" /> svojim računom i upotrebljavati usluge povezane s računom kao što je Egon sinkronizacija.
 
-      Ako se to pravilo postavi na "Onemogući prijavu putem preglednika", korisnik se ne može prijaviti u preglednik i upotrebljavati usluge računa. U tom se slučaju značajke na razini preglednika kao što je Chrome sinkronizacija ne mogu upotrebljavati i neće biti dostupne. Ako je korisnik bio prijavljen i pravilo se postavi na "Onemogućeno", korisnik će se odjaviti sljedeći put kad pokrene Chrome, no zadržat će se lokalni podaci profila kao što su oznake, zaporke itd. Korisnik će se i dalje moći prijaviti na Googleove web-usluge kao što je Gmail i moći će ih upotrebljavati.
+      Ako se to pravilo postavi na "Onemogući prijavu putem preglednika", korisnik se ne može prijaviti u preglednik i upotrebljavati usluge računa. U tom se slučaju značajke na razini preglednika kao što je Egon sinkronizacija ne mogu upotrebljavati i neće biti dostupne. Ako je korisnik bio prijavljen i pravilo se postavi na "Onemogućeno", korisnik će se odjaviti sljedeći put kad pokrene Egon, no zadržat će se lokalni podaci profila kao što su oznake, zaporke itd. Korisnik će se i dalje moći prijaviti na Googleove web-usluge kao što je Gmail i moći će ih upotrebljavati.
 
-      Ako se to pravilo postavi na "Omogući prijavu putem preglednika", korisnik se može prijaviti u preglednik i automatski se prijavljuje u preglednik kad se prijavi na Googleove web-usluge kao što je Gmail. Kad je korisnik prijavljen u pregledniku, to znači da preglednik sprema podatke o korisnikovom računu. No to ne znači da će Chrome sinkronizacija biti uključena prema zadanim postavkama; da bi upotrebljavao tu značajku, korisnik se mora uključiti zasebno. Ako se to pravilo omogući, korisnik neće moći isključiti postavku koja omogućuje prijavu u preglednik. Da biste kontrolirali dostupnost Chrome sinkronizacije, upotrijebite pravilo "SyncDisabled".
+      Ako se to pravilo postavi na "Omogući prijavu putem preglednika", korisnik se može prijaviti u preglednik i automatski se prijavljuje u preglednik kad se prijavi na Googleove web-usluge kao što je Gmail. Kad je korisnik prijavljen u pregledniku, to znači da preglednik sprema podatke o korisnikovom računu. No to ne znači da će Egon sinkronizacija biti uključena prema zadanim postavkama; da bi upotrebljavao tu značajku, korisnik se mora uključiti zasebno. Ako se to pravilo omogući, korisnik neće moći isključiti postavku koja omogućuje prijavu u preglednik. Da biste kontrolirali dostupnost Egon sinkronizacije, upotrijebite pravilo "SyncDisabled".
 
-      Ako se pravilo postavi na "Nametni prijavu putem preglednika", korisniku se prikazuje dijaloški okvir za odabir računa i on mora odabrati račun i prijaviti se da bi upotrebljavao preglednik. Na taj se način za upravljane račune osigurava primjena i provedba pravila povezanih s računom. Prema zadanim postavkama time se uključuje Chrome sinkronizacija za račun, osim kad je sinkronizaciju onemogućio administrator domene ili kad je onemogućena putem pravila "SyncDisabled". Zadana vrijednost za BrowserGuestModeEnabled bit će postavljena na "netočno". Postojeći neprijavljeni profili zaključat će se i neće biti dostupni nakon što se to pravilo omogući. Više informacija potražite u članku centra za pomoć: https://support.google.com/chrome/a/answer/7572556. Ova opcija ne podržava Linux i, ako se koristi, vratit će se na "Omogući prijavu putem preglednika".
+      Ako se pravilo postavi na "Nametni prijavu putem preglednika", korisniku se prikazuje dijaloški okvir za odabir računa i on mora odabrati račun i prijaviti se da bi upotrebljavao preglednik. Na taj se način za upravljane račune osigurava primjena i provedba pravila povezanih s računom. Prema zadanim postavkama time se uključuje Egon sinkronizacija za račun, osim kad je sinkronizaciju onemogućio administrator domene ili kad je onemogućena putem pravila "SyncDisabled". Zadana vrijednost za BrowserGuestModeEnabled bit će postavljena na "netočno". Postojeći neprijavljeni profili zaključat će se i neće biti dostupni nakon što se to pravilo omogući. Više informacija potražite u članku centra za pomoć: https://support.google.com/chrome/a/answer/7572556. Ova opcija ne podržava Linux i, ako se koristi, vratit će se na "Omogući prijavu putem preglednika".
 
       Ako se to pravilo ne postavi, korisnik može odlučiti hoće li omogućiti opciju prijave putem preglednika i može je upotrebljavati kako želi.</translation>
 <translation id="9072600218500597787">Konfigurira tražene nazive domena hosta koji će se nametnuti za hostove daljinskog pristupa i onemogućuje korisnicima da to promijene.

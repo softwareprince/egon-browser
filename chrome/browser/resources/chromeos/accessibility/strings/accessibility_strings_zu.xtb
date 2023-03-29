@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">khansela</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Asikho isihloko esilandelayo seleveli engu-4</translation>
-<translation id="1212770441379271564">Izinqamuleli ezimbalwa ezilandelayo akuyona imiyalo ye-ChromeVox, kodwa zisengasebenziseka kakhulu ukuze kutholwe okuningi kusukela ku-Chrome.
+<translation id="1212770441379271564">Izinqamuleli ezimbalwa ezilandelayo akuyona imiyalo ye-ChromeVox, kodwa zisengasebenziseka kakhulu ukuze kutholwe okuningi kusukela ku-Egon.
     Ukuze kuzulazulwe kuyiwe phambili ngezinto zesenzo ezifana nezinkinobho nezixhumanisi, cindezela ukhiye othi Ithebhu. Ukuze uzulazule uye emuva, cindezela okuthi Shift+Tab.
-    Ukuze ufake ibhokisi lekheli lesiphequluli se-Chrome, eliphinda libizwe nge-omnibox, cindezela ku-Control + L.
+    Ukuze ufake ibhokisi lekheli lesiphequluli se-Egon, eliphinda libizwe nge-omnibox, cindezela ku-Control + L.
     Ukuze uvule uphinde uye kuthebhu entsha ngokuzenzakalelayo, cindezela ku-Control+T. I-cursor yakho izoba ku-omnibox.
     Ukuze uvale ithebhu, cindezela ku-Control+W.
     Ukuze uye phambili phakathi kwamathebhu avuliwe, sebenzisa i-Control+Tab.
-    Ukuze uvule imenyu yesiphequluli se-Chrome, cindezela ku-Alt+F.</translation>
-<translation id="1213216066620407844">I-ChromeVox - Inikeza izwi ku-Chrome</translation>
+    Ukuze uvule imenyu yesiphequluli se-Egon, cindezela ku-Alt+F.</translation>
+<translation id="1213216066620407844">I-ChromeVox - Inikeza izwi ku-Egon</translation>
 <translation id="1225969361094801578">Okumpunga kakhulu kwe-slate</translation>
 <translation id="122928249241119550">hambisa emushweni odlule</translation>
 <translation id="1230503547248836149">Ukuqala kokukhethwa</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Iphutha lohlelo lolimi</translation>
 <translation id="2603828437139726540">Hamba phambili ngohlamvu olulodwa</translation>
 <translation id="2619052155095999743">Faka</translation>
-<translation id="2619344480613750862">Ungahamba naphakathi kwezigaba zesikrini. Ngokwesibonelo, ungahamba phakathi kwesiqalisi, ishalufu, namathebhu akho e-Chrome. Ukuze uye esigabeni esilandelayo, swayipha kusuka kwesobunxele kuya kwesokudla ngeminwe emine. Kuzame manje ukuze uqhubeke.</translation>
+<translation id="2619344480613750862">Ungahamba naphakathi kwezigaba zesikrini. Ngokwesibonelo, ungahamba phakathi kwesiqalisi, ishalufu, namathebhu akho e-Egon. Ukuze uye esigabeni esilandelayo, swayipha kusuka kwesobunxele kuya kwesokudla ngeminwe emine. Kuzame manje ukuze uqhubeke.</translation>
 <translation id="2624431853467395961">Vula imodi yokufunda</translation>
 <translation id="2626530649491650971">iyachofozeka</translation>
 <translation id="263637551280112393">Cindezela ku-Search+Shift+Space</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Ukuzulazula okuyisisekelo</translation>
 <translation id="609281021724813947">Asikho isilayida sangaphambilini</translation>
 <translation id="6100239002225743044">Hamba phezulu ngomugqa owodwa</translation>
-<translation id="6118126368611144850">Izinhlelo zokusebenza ze-Android ze-Chrome. Uma une-Google Play Isitolo kudivayisi yakho, thola ukukhetha ku-ChromeVox ngezinhlelo zokusebenza ze-Android. Zama usekelo lwesilingo ngokulanda i-Google Chrome Canary kusuka ku-Google Play Isitolo.</translation>
+<translation id="6118126368611144850">Izinhlelo zokusebenza ze-Android ze-Egon. Uma une-Google Play Isitolo kudivayisi yakho, thola ukukhetha ku-ChromeVox ngezinhlelo zokusebenza ze-Android. Zama usekelo lwesilingo ngokulanda i-Google Egon Canary kusuka ku-Google Play Isitolo.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">yenza kusebenze</translation>
 <translation id="6122013438240733403">i-btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">I-Light Golden Rod Yellow</translation>
 <translation id="7541021454094606506">sula konke</translation>
 <translation id="7543255924852002459">Ilebula yokulahla</translation>
-<translation id="7552432549459840808">Izinqamuleli ezinosizo ze-Chrome</translation>
+<translation id="7552432549459840808">Izinqamuleli ezinosizo ze-Egon</translation>
 <translation id="7553679324939294712">Faka u-<ph name="INSERT_PHRASE" /> ngaphambili kuka-<ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Mnyama</translation>
 <translation id="7579911500627256166">ichashazi elingu-<ph name="DOT" /></translation>

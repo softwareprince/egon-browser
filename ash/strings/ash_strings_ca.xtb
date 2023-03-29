@@ -430,7 +430,7 @@ A continuació t'indico algunes coses que pots provar per començar.</translatio
 <translation id="3378438761594387761">Aquí trobaràs les captures de pantalla i les baixades recents</translation>
 <translation id="3378442621503952303">S'està connectant a un perfil. Espera uns minuts.</translation>
 <translation id="3386978599540877378">la lupa de pantalla completa</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Configuració addicional</translation>
 <translation id="3405101454990027959">Activa l'accés al micròfon</translation>
 <translation id="3410336247007142655">Mostra la configuració del tema fosc</translation>
@@ -915,7 +915,7 @@ Connecta el dispositiu a l'alimentació.</translation>
 <translation id="6043994281159824495">Tanca la sessió ara</translation>
 <translation id="6047696787498798094">La compartició de pantalla s'aturarà quan canviïs d'usuari. Vols continuar?</translation>
 <translation id="6054305421211936131">Inicia la sessió amb la targeta intel·ligent</translation>
-<translation id="6059276912018042191">Pestanyes de Chrome recents</translation>
+<translation id="6059276912018042191">Pestanyes de Egon recents</translation>
 <translation id="6062360702481658777">Es tancarà la sessió automàticament d'aquí a <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Ja he acabat d'utilitzar el fitxer</translation>
 <translation id="6073451960410192870">Atura la gravació</translation>
@@ -1020,7 +1020,7 @@ Instal·lació nova</translation>
 <translation id="6650933572246256093">El dispositiu Bluetooth "<ph name="DEVICE_NAME" />" sol·licita permís per vincular-se. Introdueix-hi aquesta clau d'accés: <ph name="PASSKEY" />.</translation>
 <translation id="6657585470893396449">Contrasenya</translation>
 <translation id="6665545700722362599">Concedir permís als llocs web, a les aplicacions i a les extensions per utilitzar els serveis d'ubicació o el micròfon, la càmera o altres funcions del dispositiu.</translation>
-<translation id="6667908387435388584">Connecta't al punt d'accés Wi-Fi del telèfon, silencia i localitza el dispositiu i consulta les pestanyes de Chrome obertes recentment al telèfon</translation>
+<translation id="6667908387435388584">Connecta't al punt d'accés Wi-Fi del telèfon, silencia i localitza el dispositiu i consulta les pestanyes de Egon obertes recentment al telèfon</translation>
 <translation id="6670153871843998651">Escriptori 3</translation>
 <translation id="6671495933530132209">Copia la imatge</translation>
 <translation id="6671661918848783005">No es pot desbloquejar el Chromebook</translation>

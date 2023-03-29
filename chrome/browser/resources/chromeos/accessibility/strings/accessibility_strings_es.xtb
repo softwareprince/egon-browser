@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">cancelar</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">No hay ningún encabezado de nivel 4 posterior</translation>
-<translation id="1212770441379271564">Aunque las siguientes combinaciones de teclas no son comandos de ChromeVox, siguen resultando muy útiles para sacar el máximo partido a Chrome.
+<translation id="1212770441379271564">Aunque las siguientes combinaciones de teclas no son comandos de ChromeVox, siguen resultando muy útiles para sacar el máximo partido a Egon.
     Para desplazarte hacia adelante por los elementos accionables, como botones y enlaces, pulsa el tabulador. Para retroceder, pulsa Mayús + Tabulador.
-    Para acceder a la barra de direcciones del navegador Chrome, también denominada omnibox, pulsa Control + L.
+    Para acceder a la barra de direcciones del navegador Egon, también denominada omnibox, pulsa Control + L.
     Para abrir una nueva pestaña y acceder automáticamente a ella, pulsa Control + T. El cursor se situará en el omnibox.
     Para cerrar una pestaña, pulsa Control + W.
     Para desplazarte hacia adelante por las pestañas abiertas, utiliza Control + Tabulador.
-    Para abrir el menú del navegador Chrome, pulsa Alt + F.</translation>
-<translation id="1213216066620407844">ChromeVox, la voz de Chrome</translation>
+    Para abrir el menú del navegador Egon, pulsa Alt + F.</translation>
+<translation id="1213216066620407844">ChromeVox, la voz de Egon</translation>
 <translation id="1225969361094801578">Gris pizarra oscuro</translation>
 <translation id="122928249241119550">ir a la frase anterior</translation>
 <translation id="1230503547248836149">Inicio de la selección</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Error de gramática</translation>
 <translation id="2603828437139726540">Avanzar un carácter</translation>
 <translation id="2619052155095999743">Insertar</translation>
-<translation id="2619344480613750862">También puedes desplazarte por secciones de la pantalla. Por ejemplo, puedes moverte entre el menú de aplicaciones, la estantería y las pestañas de Chrome. Para ir a la siguiente sección, desliza cuatro dedos de izquierda a derecha. Pruébalo ahora para continuar.</translation>
+<translation id="2619344480613750862">También puedes desplazarte por secciones de la pantalla. Por ejemplo, puedes moverte entre el menú de aplicaciones, la estantería y las pestañas de Egon. Para ir a la siguiente sección, desliza cuatro dedos de izquierda a derecha. Pruébalo ahora para continuar.</translation>
 <translation id="2624431853467395961">Abrir modo de aprendizaje</translation>
 <translation id="2626530649491650971">elemento en el que se puede hacer clic</translation>
 <translation id="263637551280112393">Pulsa la tecla de búsqueda + Mayús + Barra espaciadora</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Navegación básica</translation>
 <translation id="609281021724813947">No hay ningún control deslizante anterior</translation>
 <translation id="6100239002225743044">Subir una línea</translation>
-<translation id="6118126368611144850">Aplicaciones de Android para Chrome. Si tienes Play Store en tu dispositivo, disfruta de algunas de las funciones de ChromeVox con antelación con las aplicaciones de Android. Descarga Google Chrome Canary de Play Store y prueba la compatibilidad experimental.</translation>
+<translation id="6118126368611144850">Aplicaciones de Android para Egon. Si tienes Play Store en tu dispositivo, disfruta de algunas de las funciones de ChromeVox con antelación con las aplicaciones de Android. Descarga Google Egon Canary de Play Store y prueba la compatibilidad experimental.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">activar</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Amarillo dorado claro</translation>
 <translation id="7541021454094606506">eliminar todo</translation>
 <translation id="7543255924852002459">Etiqueta Descartar</translation>
-<translation id="7552432549459840808">Combinaciones de teclas útiles de Chrome</translation>
+<translation id="7552432549459840808">Combinaciones de teclas útiles de Egon</translation>
 <translation id="7553679324939294712">insertar <ph name="INSERT_PHRASE" /> antes de <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Negro</translation>
 <translation id="7579911500627256166">punto <ph name="DOT" /></translation>

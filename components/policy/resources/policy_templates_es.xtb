@@ -54,7 +54,7 @@
 <translation id="1035860095382451169">Habilitar el icono del candado en el omnibox en el caso de las conexiones seguras</translation>
 <translation id="1037470927044831850">Permitir que los sitios soliciten al usuario que comparta un stream de vídeo de su pantalla</translation>
 <translation id="1038725366103635282">Permitir la detección de sistemas de archivos compartidos de NetBIOS</translation>
-<translation id="1040125341954178855">Esta función se ha eliminado en Chrome 100.
+<translation id="1040125341954178855">Esta función se ha eliminado en Egon 100.
 
       Si se habilita esta política, se mostrarán recomendaciones de aplicaciones instaladas anteriormente por el usuario en otros dispositivos. Estas recomendaciones aparecerán en el menú de aplicaciones después de las de aplicaciones locales si no se ha introducido ningún texto de búsqueda.
 
@@ -109,7 +109,7 @@ Ten en cuenta que en <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> y <ph 
 <translation id="1082802595100075771">Permitir a los usuarios elegir usar un servicio de Google anónimo para proporcionar descripciones automáticas para las imágenes no etiquetadas</translation>
 <translation id="1087057100912843460">Permitir las actualizaciones</translation>
 <translation id="1087437665304381368">Esta política permite controlar únicamente el modo desarrollador de <ph name="PRODUCT_OS_NAME" />. Si quieres impedir el acceso a las opciones para desarrolladores de Android, debes asignar un valor a la política <ph name="DEVELOPER_TOOLS_DISABLED_POLICY_NAME" />.</translation>
-<translation id="1087707496788636333">La lista de políticas de Chrome Enterprise se traslada a otra URL. Modifica tus marcadores para que incluyan la URL actualizada: <ph name="POLICY_DOCUMENTATION_URL" />.</translation>
+<translation id="1087707496788636333">La lista de políticas de Egon Enterprise se traslada a otra URL. Modifica tus marcadores para que incluyan la URL actualizada: <ph name="POLICY_DOCUMENTATION_URL" />.</translation>
 <translation id="1089150222292592899">Autocompletar el nombre de usuario en la página del proveedor de identidades SAML</translation>
 <translation id="1091765729282771296">Permite que los sitios pidan permiso al usuario para acceder a un dispositivo HID</translation>
 <translation id="1095209545735032039">Bloquear la API Serial en estos sitios web</translation>
@@ -291,7 +291,7 @@ Ten en cuenta que en <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> y <ph 
 
       Si se inhabilita esta política y <ph name="CHROME_CLEANUP_NAME" /> detecta software no deseado, no informará del análisis a Google, independientemente del valor de <ph name="SAFE_BROWSING_EXTENDED_REPORTING_ENABLED_POLICY_NAME" />. <ph name="CHROME_CLEANUP_NAME" /> preguntará a los usuarios si quieren eliminar el software no deseado. Los resultados no se enviarán a Google.
 
-      Si no se asigna ningún valor a esta política, es posible que <ph name="CHROME_CLEANUP_NAME" /> envíe los resultados de los análisis para detectar software no deseado a Google, según lo establecido en la política <ph name="SAFE_BROWSING_EXTENDED_REPORTING_ENABLED_POLICY_NAME" />. <ph name="CHROME_CLEANUP_NAME" /> preguntará a los usuarios si quieren eliminar el software no deseado y compartir los resultados con Google para ayudar a detectar software no deseado en el futuro. Estos resultados tienen metadatos de archivos, extensiones instaladas de forma automática y claves de registro, tal como se describe en la página de información sobre privacidad de Chrome.
+      Si no se asigna ningún valor a esta política, es posible que <ph name="CHROME_CLEANUP_NAME" /> envíe los resultados de los análisis para detectar software no deseado a Google, según lo establecido en la política <ph name="SAFE_BROWSING_EXTENDED_REPORTING_ENABLED_POLICY_NAME" />. <ph name="CHROME_CLEANUP_NAME" /> preguntará a los usuarios si quieren eliminar el software no deseado y compartir los resultados con Google para ayudar a detectar software no deseado en el futuro. Estos resultados tienen metadatos de archivos, extensiones instaladas de forma automática y claves de registro, tal como se describe en la página de información sobre privacidad de Egon.
 
       En <ph name="MS_WIN_NAME" />, esta función solo está disponible en instancias que estén vinculadas a un dominio de <ph name="MS_AD_NAME" /> que se ejecuten en Windows 10 Pro o que se hayan registrado en <ph name="CHROME_BROWSER_CLOUD_MANAGEMENT_NAME" />.</translation>
 <translation id="1285819498003746288">La API Event.path no estará disponible.</translation>
@@ -299,7 +299,7 @@ Ten en cuenta que en <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> y <ph 
 <translation id="1294263471858445589">Habilita la autenticación pasiva en sesiones normales y de incógnito.</translation>
 <translation id="1295737447968372331">Habilita el dictado en la pantalla de inicio de sesión</translation>
 <translation id="1297182715641689552">Utilizar una secuencia de comandos .pac de proxy</translation>
-<translation id="1297961932043741908">Define el límite de megabytes de memoria que puede usar una instancia de Chrome individual.</translation>
+<translation id="1297961932043741908">Define el límite de megabytes de memoria que puede usar una instancia de Egon individual.</translation>
 <translation id="1304973015437969093">IDs de extensiones/aplicaciones y URLs de actualización que se instalan automáticamente</translation>
 <translation id="1305400589435476516">Si se habilita la política, se permitirá utilizar el roaming de datos en el dispositivo.
 
@@ -429,7 +429,7 @@ Ten en cuenta que en <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> y <ph 
       Si se configura esta política, los usuarios no pueden cambiarla. Si no se le asigna ningún valor, las opciones de accesibilidad no se incluyen en el menú, pero los usuarios pueden hacerlas aparecer desde la página de configuración.
 
       Si las funciones de accesibilidad se habilitan de otra forma (por ejemplo, mediante una combinación de teclas), siempre se mostrarán en el menú de la bandeja del sistema</translation>
-<translation id="1449777485284610883">Permitir la instalación y actualización de extensiones alojadas fuera de Chrome Web Store</translation>
+<translation id="1449777485284610883">Permitir la instalación y actualización de extensiones alojadas fuera de Egon Web Store</translation>
 <translation id="1451113827539677573">Controla el modo en que <ph name="PRODUCT_NAME" /> imprime en <ph name="MS_WIN_NAME" />.
 
       Cuando se imprime en una impresora que no utiliza PostScript en <ph name="MS_WIN_NAME" />, los trabajos de impresión a veces se tienen que rasterizar para que se impriman correctamente.
@@ -586,7 +586,7 @@ Si inhabilitas esta política, se inhabilitará el desplazamiento de una página
 
       Si esta política no se establece para un sitio, se le aplicará la política de <ph name="DEFAULT_WINDOW_PLACEMENT_SETTING_POLICY_NAME" /> (si se ha definido). Si no se ha definido, el permiso se ajustará a los valores predeterminados del navegador y los usuarios podrán elegir este permiso en función del sitio.</translation>
 <translation id="1574258262373444557">No usa <ph name="AES_KL_NAME" /> como algoritmo de cifrado para el cifrado del almacenamiento de los datos del usuario</translation>
-<translation id="1575015449587326319">Política de configuración del conector OnFileDownloaded de Chrome Enterprise Connectors</translation>
+<translation id="1575015449587326319">Política de configuración del conector OnFileDownloaded de Egon Enterprise Connectors</translation>
 <translation id="1583248206450240930">Utilizar <ph name="PRODUCT_FRAME_NAME" /> de forma predeterminada</translation>
 <translation id="1587585749332985896">No permite utilizar el modo sin interfaz gráfica</translation>
 <translation id="1588240398285670601">Configuración del navegador</translation>
@@ -597,9 +597,9 @@ Si inhabilitas esta política, se inhabilitará el desplazamiento de una página
 <translation id="1597684038583138808">Habilitar definición de Respuestas rápidas</translation>
 <translation id="1598258379228800626">Habilitar el resaltado del foco del teclado en la pantalla de inicio de sesión</translation>
 <translation id="1599424828227887013">Habilitar el aislamiento de sitios web específicos en dispositivos Android</translation>
-<translation id="159946228300522107">Si se asigna el valor "Verdadero" a esta política, Chrome maximizará la primera ventana que se muestre al ejecutarse por primera vez.
+<translation id="159946228300522107">Si se asigna el valor "Verdadero" a esta política, Egon maximizará la primera ventana que se muestre al ejecutarse por primera vez.
 
-      Si se le asigna el valor "Falso" o no se le asigna ninguno, es posible que Chrome maximice la primera ventana, en función del tamaño de la pantalla.</translation>
+      Si se le asigna el valor "Falso" o no se le asigna ninguno, es posible que Egon maximice la primera ventana, en función del tamaño de la pantalla.</translation>
 <translation id="1600340610556453828">Si se inhabilita esta política, <ph name="PRODUCT_OS_NAME" /> desactivará la conexión Wi-Fi y los usuarios no podrán activarla.
 
       Si se habilita la política o no se establece, se permitirá que los usuarios activen y desactiven la conexión Wi-Fi.</translation>
@@ -719,12 +719,12 @@ Si inhabilitas esta política, se inhabilitará el desplazamiento de una página
       Esta política permite especificar una resolución determinada que se usará cuando se rastericen PDFs para imprimir.
 
       Si se le asigna el valor cero a esta política o no se establece, se usará la resolución predeterminada del sistema durante la rasterización de las imágenes de la página.</translation>
-<translation id="1700458869527146675">Si se establece la política, se definirá la configuración de proxy aplicable a Chrome y a las aplicaciones ARC, que ignoran todas las opciones relacionadas con el proxy especificadas en la línea de comandos.
+<translation id="1700458869527146675">Si se establece la política, se definirá la configuración de proxy aplicable a Egon y a las aplicaciones ARC, que ignoran todas las opciones relacionadas con el proxy especificadas en la línea de comandos.
 
        Si no se establece la política, los usuarios podrán elegir su configuración de proxy.
 
        Si se establece la política <ph name="PROXY_SETTINGS_POLICY_NAME" />, se aceptarán los siguientes campos:
-         * <ph name="PROXY_MODE_PROXY_SETTINGS_FIELD" />: permite especificar el servidor proxy que usará Chrome, e impide que los usuarios puedan cambiar la configuración del proxy.
+         * <ph name="PROXY_MODE_PROXY_SETTINGS_FIELD" />: permite especificar el servidor proxy que usará Egon, e impide que los usuarios puedan cambiar la configuración del proxy.
          * <ph name="PROXY_PAC_URL_PROXY_SETTINGS_FIELD" />: URL a un archivo .pac de proxy.
          * <ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" />: evita que la pila de red recurra a conexiones directas con una secuencia de comandos PAC no válida o no disponible.
          * <ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" />: URL del servidor proxy.
@@ -739,7 +739,7 @@ Si inhabilitas esta política, se inhabilitará el desplazamiento de una página
           * <ph name="PROXY_MODE_ENUM_FIXED_SERVERS" />: se usarán los campos <ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" /> y <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />.
           * <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" />: se usarán los campos <ph name="PROXY_BYPASS_LIST_PROXY_PAC_URL" />, <ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" /> y <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />.
 
-      Nota: Puedes consultar ejemplos más detallados en The Chromium Projects: https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett.</translation>
+      Nota: Puedes consultar ejemplos más detallados en The Egon Projects: https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett.</translation>
 <translation id="1700811900332333712">Permite el uso de Powerwash en el dispositivo</translation>
 <translation id="1705215165572785706">Tratar las teclas de la fila superior como teclas multimedia, pero permitir que el usuario cambie este ajuste</translation>
 <translation id="1708496595873025510">Establecer restricción en obtención de base de variaciones</translation>
@@ -753,7 +753,7 @@ Si inhabilitas esta política, se inhabilitará el desplazamiento de una página
 
       Si se le asigna el valor "Falso", los usuarios no podrán añadir, quitar ni modificar marcadores. Sin embargo, podrán usar los marcadores existentes.</translation>
 <translation id="1715151459541210849">Habilita la función de accesibilidad de dictado</translation>
-<translation id="1716468109214130396">Impedir que Chrome se inicie si no está registrado en Gestión en la nube del navegador Chrome</translation>
+<translation id="1716468109214130396">Impedir que Egon se inicie si no está registrado en Gestión en la nube del navegador Egon</translation>
 <translation id="1719033799014769396">Inhabilitar los informes sobre el modo Inicio del dispositivo</translation>
 <translation id="1721158690981421598">Si se le asigna un valor a esta política, se especificarán los nombres de dominio del host que se aplicarán a los hosts de acceso remoto, y los usuarios no podrán cambiarlos. Los hosts solo se podrán compartir con cuentas registradas en uno de los nombres de dominio especificados.
 
@@ -792,7 +792,7 @@ Si inhabilitas esta política, se inhabilitará el desplazamiento de una página
 
        Deja esta política sin establecer si has seleccionado otro modo para configurar las políticas de proxy.
 
-       Nota: Puedes consultar más ejemplos detallados en The Chromium Projects: https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett</translation>
+       Nota: Puedes consultar más ejemplos detallados en The Egon Projects: https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett</translation>
 <translation id="1767673020408652620">Habilitar la opción Aplicaciones recomendadas en estado cero del cuadro de búsqueda.</translation>
 <translation id="1770071413238151235">Formato de reloj de 12 horas</translation>
 <translation id="1771024053220392089">Inhabilitar la compatibilidad con navegadores antiguos</translation>
@@ -833,9 +833,9 @@ Esta política no tendrá efecto si la opción de conservar los datos de navegac
           dependan, de algún modo, de un orden determinado. También puede afectar a sitios que usen mucho la función setTimeout()
           con un tiempo de espera de 0 ms (por ejemplo, podría aumentar la carga de la CPU).
 
-          Para los usuarios que no tengan esta política configurada, Chrome lanzará el cambio de forma gradual en el canal estable.
+          Para los usuarios que no tengan esta política configurada, Egon lanzará el cambio de forma gradual en el canal estable.
 
-          Esta es una política temporal y se prevé que se elimine en la versión 105 de Chrome. Este plazo puede ampliarse si lo necesitan las empresas.
+          Esta es una política temporal y se prevé que se elimine en la versión 105 de Egon. Este plazo puede ampliarse si lo necesitan las empresas.
           </translation>
 <translation id="1808715480127969042">Bloquear cookies en estos sitios</translation>
 <translation id="1810261428246410396">Permitir conexión compartida instantánea.</translation>
@@ -876,7 +876,7 @@ Esta política no tendrá efecto si la opción de conservar los datos de navegac
 
           Esta política solo se respeta si se habilita la política "DefaultSearchProviderEnabled".</translation>
 <translation id="1850439894606905202">De manera predeterminada, los documentos se incluyen en clústeres de agentes con clave de sitio. El descriptor de acceso document.domain podrá establecerse.</translation>
-<translation id="1851282952069386119">Los usuarios pueden elegir si quieren compartir con Google los resultados obtenidos al ejecutar Limpiador de Chrome</translation>
+<translation id="1851282952069386119">Los usuarios pueden elegir si quieren compartir con Google los resultados obtenidos al ejecutar Limpiador de Egon</translation>
 <translation id="1852294065645015766">Permitir reproducción automática de contenido multimedia</translation>
 <translation id="1855963029978337744">Habilitar esta política permite definir una lista de URLs que especifica qué sitios obtendrán permiso automáticamente para acceder a un dispositivo HID que tenga los IDs de proveedor y de producto establecidos. Cada elemento de la lista debe tener los campos <ph name="DEVICES_FIELD_NAME" /> y <ph name="URLS_FIELD_NAME" /> para ser válido. De lo contrario, el elemento se ignorará. Cada elemento del campo <ph name="DEVICES_FIELD_NAME" /> debe tener un campo <ph name="VENDOR_ID_FIELD_NAME" /> y puede tener un campo <ph name="PRODUCT_ID_FIELD_NAME" />. Si se omite el campo <ph name="PRODUCT_ID_FIELD_NAME" />, se creará una política referida a todos los dispositivos con el ID de proveedor especificado. Un elemento que tenga un campo <ph name="PRODUCT_ID_FIELD_NAME" />, pero que no tenga un campo <ph name="VENDOR_ID_FIELD_NAME" />, no se considerará válido y se ignorará.
 
@@ -939,7 +939,7 @@ Esta política no tendrá efecto si la opción de conservar los datos de navegac
      </translation>
 <translation id="1919802376548418720">Usa la política del centro de distribución de llaves (KDC) para delegar credenciales.</translation>
 <translation id="1920046221095339924">Permitir sesión gestionada en el dispositivo</translation>
-<translation id="1920772397574801429">Si se define esta política, se especificará el tipo de cuentas proporcionadas por la aplicación de autenticación de Android compatible con la autenticación <ph name="HTTP_NEGOTIATE" /> (como la autenticación Kerberos). Esta información debe estar disponible desde el proveedor de la aplicación de autenticación. Para obtener más información, consulta The Chromium Projects (https://goo.gl/hajyfN).
+<translation id="1920772397574801429">Si se define esta política, se especificará el tipo de cuentas proporcionadas por la aplicación de autenticación de Android compatible con la autenticación <ph name="HTTP_NEGOTIATE" /> (como la autenticación Kerberos). Esta información debe estar disponible desde el proveedor de la aplicación de autenticación. Para obtener más información, consulta The Egon Projects (https://goo.gl/hajyfN).
 
       Si no se define esta política, se desactivará la autenticación <ph name="HTTP_NEGOTIATE" /> en Android.</translation>
 <translation id="1923704782248889851">Habilitar el dictado</translation>
@@ -953,9 +953,9 @@ Esta política no tendrá efecto si la opción de conservar los datos de navegac
 <translation id="194407941132272412">Inhabilitar el aislamiento en todos los sitios web, pero permitir que el usuario lo habilite</translation>
 <translation id="1945994447126139909">Esta política de empresa sirve para una adaptación a corto plazo y se eliminará en la versión 88 de <ph name="PRODUCT_NAME" />.
 
-      Se refuerza la política de referrer predeterminada de Chrome cambiándola de su valor actual de no-referrer-when-downgrade a strict-origin-when-cross-origin (que es más seguro) mediante un lanzamiento gradual dirigido a la versión 85 estable de Chrome.
+      Se refuerza la política de referrer predeterminada de Egon cambiándola de su valor actual de no-referrer-when-downgrade a strict-origin-when-cross-origin (que es más seguro) mediante un lanzamiento gradual dirigido a la versión 85 estable de Egon.
 
-      Esta política de empresa no tendrá ningún efecto antes del lanzamiento. Después del lanzamiento, cuando se habilite esta política de empresa, a la política de referrer predeterminada de Chrome se le asignará su valor anterior, es decir, no-referrer-when-downgrade.
+      Esta política de empresa no tendrá ningún efecto antes del lanzamiento. Después del lanzamiento, cuando se habilite esta política de empresa, a la política de referrer predeterminada de Egon se le asignará su valor anterior, es decir, no-referrer-when-downgrade.
 
       Esta política de empresa está inhabilitada de forma predeterminada.</translation>
 <translation id="1947848925128084608">Inhabilitar el contraste alto en la pantalla de inicio de sesión y permitir que el usuario lo habilite temporalmente</translation>
@@ -1074,7 +1074,7 @@ Si esta política se establece en True, <ph name="PRODUCT_OS_NAME" /> intentará
 <translation id="2017301949684549118">URLs de aplicaciones web que se tienen que instalar de forma silenciosa.</translation>
 <translation id="2017459564744167827">Consulta la página <ph name="REFERENCE_URL" /> para obtener más información sobre el esquema y el formato.</translation>
 <translation id="2018425641414671849">No permitir que los usuarios reproduzcan contenido multimedia cuando el dispositivo esté bloqueado</translation>
-<translation id="2021087124402050619">Permitir que Limpiador de Chrome analice periódicamente el sistema y permitir los análisis manuales</translation>
+<translation id="2021087124402050619">Permitir que Limpiador de Egon analice periódicamente el sistema y permitir los análisis manuales</translation>
 <translation id="2024476116966025075">Configurar el nombre de dominio requerido para los clientes de acceso remoto</translation>
 <translation id="2029985289397958781">Inhabilitar búsqueda asistida mediante cámara de <ph name="GOOGLE_LENS_PRODUCT_NAME" /> para usuarios de empresa</translation>
 <translation id="2030905906517501646">Palabra clave de proveedor de búsquedas predeterminadas</translation>
@@ -1127,10 +1127,10 @@ Si esta política se establece en True, <ph name="PRODUCT_OS_NAME" /> intentará
 <translation id="2077129598763517140">Utilizar aceleración por hardware cuando esté disponible</translation>
 <translation id="2077273864382355561">Retraso de desconexión de pantalla cuando el dispositivo funciona con la batería</translation>
 <translation id="2081969239334697268">
-        Si se inhabilita esta política, se inhabilitará la actualización de las aplicaciones de kiosco de Chrome en la sesión (que usa la URL de actualización del archivo de manifiesto de la extensión) y solo se permitirá la actualización mediante la precarga de un archivo CRX.
-        Si se habilita esta política o no se establece, las aplicaciones de kiosco de Chrome se podrán actualizar en la sesión.
+        Si se inhabilita esta política, se inhabilitará la actualización de las aplicaciones de kiosco de Egon en la sesión (que usa la URL de actualización del archivo de manifiesto de la extensión) y solo se permitirá la actualización mediante la precarga de un archivo CRX.
+        Si se habilita esta política o no se establece, las aplicaciones de kiosco de Egon se podrán actualizar en la sesión.
         </translation>
-<translation id="2082205219176343977">Configurar la versión mínima permitida de Chrome en el dispositivo.</translation>
+<translation id="2082205219176343977">Configurar la versión mínima permitida de Egon en el dispositivo.</translation>
 <translation id="20838788335877967">Inhabilitar informes de datos sobre la identificación de usuarios</translation>
 <translation id="208566302163036794">Bloquear las funciones inhabilitadas</translation>
 <translation id="208623333578980446">Permitir los wake locks de pantalla para la gestión de energía</translation>
@@ -1317,7 +1317,7 @@ Si esta política se establece en True, <ph name="PRODUCT_OS_NAME" /> intentará
 <translation id="2246011554082893079">Controla la disponibilidad de <ph name="BOREALIS_NAME" /> en este dispositivo.
 
       Si se le asigna el valor false, <ph name="BOREALIS_NAME" /> no estará disponible para ningún usuario del dispositivo. Si, por el contrario, se le asigna el valor true o no se le asigna ningún valor, <ph name="BOREALIS_NAME" /> estará disponible únicamente si no lo desactiva otra política o ajuste.</translation>
-<translation id="2246621891161157804">Permitir que Chrome bloquee el acceso a protocolos externos dentro de iframes en entornos aislados</translation>
+<translation id="2246621891161157804">Permitir que Egon bloquee el acceso a protocolos externos dentro de iframes en entornos aislados</translation>
 <translation id="224750967938323855">No mostrar Sync Consent durante el inicio de sesión</translation>
 <translation id="225340736558643885">Habilitar advertencias en formularios no seguros</translation>
 <translation id="2258126710006312594">Permite que los usuarios con acceso remoto transfieran archivos al host y desde el host</translation>
@@ -1335,7 +1335,7 @@ Si esta política se establece en True, <ph name="PRODUCT_OS_NAME" /> intentará
       Esta política no debería aplicarse en dispositivos utilizados por el público general.
 
       Si se le asigna el valor "True" o no se le asigna ningún valor, la notificación de advertencia de privacidad en la sesión de invitado administrada e iniciada automáticamente quedará fijada hasta que el usuario la cierre.</translation>
-<translation id="2281878365805647176">Si se define esta política, se activará la función de inicio de sesión restringido de Chrome en <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME" />. Los usuarios no podrán cambiar este ajuste. Los usuarios solo podrán acceder a las herramientas de Google desde cuentas de los dominios especificados. Si quieres dar permiso a cuentas gmail o googlemail, añade consumer_accounts a la lista de dominios. Este ajuste impide que los usuarios inicien sesión y añadan una cuenta secundaria en un dispositivo gestionado que requiera autenticación de Google si esa cuenta no pertenece a uno de los dominios explícitamente permitidos.
+<translation id="2281878365805647176">Si se define esta política, se activará la función de inicio de sesión restringido de Egon en <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME" />. Los usuarios no podrán cambiar este ajuste. Los usuarios solo podrán acceder a las herramientas de Google desde cuentas de los dominios especificados. Si quieres dar permiso a cuentas gmail o googlemail, añade consumer_accounts a la lista de dominios. Este ajuste impide que los usuarios inicien sesión y añadan una cuenta secundaria en un dispositivo gestionado que requiera autenticación de Google si esa cuenta no pertenece a uno de los dominios explícitamente permitidos.
 
       Si este ajuste se deja vacío o sin definir, los usuarios podrán acceder a <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME" /> con cualquier cuenta.
 
@@ -1464,7 +1464,7 @@ Si esta política se establece en True, <ph name="PRODUCT_OS_NAME" /> intentará
 
       Si no se le asigna ningún valor a esta política, los usuarios podrán cambiar esta opción.
 
-      Nota: Aislar demasiados sitios en Android puede causar problemas de rendimiento, sobre todo en dispositivos con poca memoria. Esta política solo se aplica a Chrome si se utiliza en dispositivos Android con más de 1 GB de RAM. Para aplicar esta política en plataformas distintas de Android, usa <ph name="ISOLATE_ORIGINS_POLICY_NAME" />.</translation>
+      Nota: Aislar demasiados sitios en Android puede causar problemas de rendimiento, sobre todo en dispositivos con poca memoria. Esta política solo se aplica a Egon si se utiliza en dispositivos Android con más de 1 GB de RAM. Para aplicar esta política en plataformas distintas de Android, usa <ph name="ISOLATE_ORIGINS_POLICY_NAME" />.</translation>
 <translation id="2407758458436268630">Permitir que el modelo de atenuación inteligente prolongue el tiempo hasta que la pantalla se atenúe</translation>
 <translation id="2411629345938804022">Si se asigna el valor 3 a esta política, los sitios web podrán pedir acceso a los dispositivos Bluetooth cercanos. Si se le asigna el valor 2, se denegará el acceso a los dispositivos Bluetooth cercanos.
 
@@ -1483,7 +1483,7 @@ Si no se le asigna ningún valor, la pantalla de privacidad se inhabilitará ini
 <translation id="2413899611035194909">Mostrar las opciones de accesibilidad en el menú de la bandeja del sistema de la pantalla de inicio de sesión</translation>
 <translation id="2415715982424988916">Explorar (compatible desde la versión 91)</translation>
 <translation id="2421400544595297401">No permitir que los usuarios no afiliados utilicen aplicaciones Android</translation>
-<translation id="2421677964966613267">Esta política está obsoleta en M88. Chrome ya no es compatible con Flash. Si le asignas un valor a esta política, podrás establecer una lista de patrones de URL donde se especifique qué sitios no pueden ejecutar el complemento <ph name="FLASH_PLUGIN_NAME" />.
+<translation id="2421677964966613267">Esta política está obsoleta en M88. Egon ya no es compatible con Flash. Si le asignas un valor a esta política, podrás establecer una lista de patrones de URL donde se especifique qué sitios no pueden ejecutar el complemento <ph name="FLASH_PLUGIN_NAME" />.
 
       Si no se le asigna ningún valor, <ph name="DEFAULT_PLUGINS_SETTING_POLICY_NAME" /> se aplicará en todos los sitios, si se ha definido previamente. Si no, se aplicará la configuración personal del usuario.
 
@@ -1546,11 +1546,11 @@ Si no se le asigna ningún valor, la pantalla de privacidad se inhabilitará ini
 <translation id="2476249479201711962">Habilitar el acceso al menú contextual del proveedor de búsqueda predeterminado</translation>
 <translation id="247658312644322296">Destino Guardar como PDF</translation>
 <translation id="2478756867046106663">Permitir que los sitios con experiencias engañosas abran nuevas ventanas o pestañas</translation>
-<translation id="2480971699591919564">Habilita la función Clic de llamada, que permite a los usuarios enviar números de teléfono desde Chrome para ordenador a un dispositivo Android si el usuario ha iniciado sesión. Puedes consultar más información en este artículo del Centro de Ayuda: https://support.google.com/chrome/answer/9430554?hl=es
+<translation id="2480971699591919564">Habilita la función Clic de llamada, que permite a los usuarios enviar números de teléfono desde Egon para ordenador a un dispositivo Android si el usuario ha iniciado sesión. Puedes consultar más información en este artículo del Centro de Ayuda: https://support.google.com/chrome/answer/9430554?hl=es
 
-      Si se habilita esta política, el usuario de Chrome podrá enviar números de teléfono a dispositivos Android.
+      Si se habilita esta política, el usuario de Egon podrá enviar números de teléfono a dispositivos Android.
 
-      Si no se habilita esta política, el usuario de Chrome no podrá enviar números de teléfono a dispositivos Android.
+      Si no se habilita esta política, el usuario de Egon no podrá enviar números de teléfono a dispositivos Android.
 
       Si estableces esta política, los usuarios no podrán cambiarla ni anularla.
 
@@ -1621,7 +1621,7 @@ Si no se le asigna ningún valor, la pantalla de privacidad se inhabilitará ini
       Si se asigna el valor "True" al indicador recomendado, los usuarios podrán cambiar la resolución y el factor de escala de cualquier pantalla desde la página de configuración, pero, en el siguiente reinicio, se volverán a establecer los valores definidos en la política. Si se asigna el valor "False" al indicador recomendado o no se le asigna ningún valor, los usuarios no podrán cambiar la configuración de las pantallas.
 
       Nota: Los valores de <ph name="EXTERNAL_WIDTH" /> y de <ph name="EXTERNAL_HEIGHT" /> deben indicarse en píxeles y los de <ph name="EXTERNAL_SCALE_PERCENTAGE" /> y <ph name="INTERNAL_SCALE_PERCENTAGE" />, en porcentajes.</translation>
-<translation id="2548331788863219790">Evitar la instalación y actualización de extensiones alojadas fuera de Chrome Web Store</translation>
+<translation id="2548331788863219790">Evitar la instalación y actualización de extensiones alojadas fuera de Egon Web Store</translation>
 <translation id="2548397295248733155">Ten en cuenta que esta política está obsoleta y se eliminará de la versión 85 de <ph name="PRODUCT_OS_NAME" />. Utiliza <ph name="POWER_MANAGEMENT_IDLE_SETTINGS_POLICY_NAME" /> en su lugar.
 
           Permite especificar el tiempo que debe transcurrir sin que el usuario realice ninguna acción antes de que la pantalla se apague (con batería).
@@ -1635,7 +1635,7 @@ Si no se le asigna ningún valor, la pantalla de privacidad se inhabilitará ini
           El valor de esta política debe especificarse en milisegundos. Los valores deben ser inferiores o iguales al retraso de inactividad.</translation>
 <translation id="2548572254685798999">Recoger información sobre Navegación segura</translation>
 <translation id="2550593661567988768">Solo impresión por una cara</translation>
-<translation id="2552318891854145040">Si se establece esta política, se definirá una lista de marcadores en la que cada uno es un diccionario con las claves "<ph name="NAME" />" y "<ph name="URL_LABEL" />". Estas claves contienen el nombre y la URL de destino del marcador. Los administradores podrán configurar una subcarpeta definiendo un marcador sin una clave "<ph name="URL_LABEL" />", pero con una clave "<ph name="CHILDREN" />" adicional. Esta clave también contiene una lista de marcadores, algunos de los cuales también pueden ser carpetas. Chrome modifica las URL incompletas como si se enviasen mediante la barra de direcciones. Por ejemplo, "<ph name="GOOGLE_COM" />" se convierte en "<ph name="HTTPS_GOOGLE_COM" />".
+<translation id="2552318891854145040">Si se establece esta política, se definirá una lista de marcadores en la que cada uno es un diccionario con las claves "<ph name="NAME" />" y "<ph name="URL_LABEL" />". Estas claves contienen el nombre y la URL de destino del marcador. Los administradores podrán configurar una subcarpeta definiendo un marcador sin una clave "<ph name="URL_LABEL" />", pero con una clave "<ph name="CHILDREN" />" adicional. Esta clave también contiene una lista de marcadores, algunos de los cuales también pueden ser carpetas. Egon modifica las URL incompletas como si se enviasen mediante la barra de direcciones. Por ejemplo, "<ph name="GOOGLE_COM" />" se convierte en "<ph name="HTTPS_GOOGLE_COM" />".
 
       Los usuarios no podrán cambiar las carpetas en las que están colocados los marcadores, pero podrán ocultarlas de la barra de marcadores. El nombre predeterminado de la carpeta de marcadores administrados es "Marcadores administrados", pero se puede cambiar si se añade un nuevo subdiccionario a la política con una única clave llamada "<ph name="TOPLEVEL_NAME" />" que tenga asignado como valor el nombre que se quiera asignar a la carpeta. Los marcadores administrados no se sincronizan con la cuenta de usuario y las extensiones no pueden modificarlos.</translation>
 <translation id="2552966063069741410">Zona horaria</translation>
@@ -1691,11 +1691,11 @@ Si no se le asigna ningún valor, la pantalla de privacidad se inhabilitará ini
 <translation id="2608887839902987727">Evitar que la autenticación de portales cautivos ignore la configuración de proxy</translation>
 <translation id="2608985885792348429">Configuración de portapapeles predeterminada</translation>
 <translation id="2615240493030733717">Informar sobre la zona horaria</translation>
-<translation id="2619966380594000538">Si la política se habilita o no se define, se mostrarán advertencias de seguridad cuando se usen instrucciones de línea de comandos potencialmente peligrosas para iniciar Chrome.
+<translation id="2619966380594000538">Si la política se habilita o no se define, se mostrarán advertencias de seguridad cuando se usen instrucciones de línea de comandos potencialmente peligrosas para iniciar Egon.
 
-      Si se inhabilita esta política, no se mostrará ninguna advertencia de seguridad cuando se inicie Chrome con instrucciones de línea de comandos potencialmente peligrosas.
+      Si se inhabilita esta política, no se mostrará ninguna advertencia de seguridad cuando se inicie Egon con instrucciones de línea de comandos potencialmente peligrosas.
 
-      En <ph name="MS_WIN_NAME" />, esta función solo está disponible en instancias que estén vinculadas a un dominio de <ph name="MS_AD_NAME" />, que se ejecuten en Windows 10 Pro o que se hayan registrado en Gestión en la nube del navegador Chrome. En <ph name="MAC_OS_NAME" />, esta función solo está disponible en instancias que se gestionen mediante MDM o que estén vinculadas a un dominio a través de MCX.</translation>
+      En <ph name="MS_WIN_NAME" />, esta función solo está disponible en instancias que estén vinculadas a un dominio de <ph name="MS_AD_NAME" />, que se ejecuten en Windows 10 Pro o que se hayan registrado en Gestión en la nube del navegador Egon. En <ph name="MAC_OS_NAME" />, esta función solo está disponible en instancias que se gestionen mediante MDM o que estén vinculadas a un dominio a través de MCX.</translation>
 <translation id="2621290137818374425">Si se establece esta política, se desactivarán los requisitos de divulgación de transparencia en los certificados para los nombres de host de las URLs especificadas. Aunque resulte más difícil detectar certificados que se hayan publicado incorrectamente, los hosts pueden seguir usando certificados que, de lo contrario, no serían de confianza (por no haberse comunicado públicamente de forma correcta).
 
       Si no se asigna ningún valor a esta política, los certificados que se deban comunicar a través de la transparencia en los certificados no serán de confianza para <ph name="PRODUCT_NAME" /> si no se comunican.
@@ -1721,7 +1721,7 @@ Si no se le asigna ningún valor, la pantalla de privacidad se inhabilitará ini
 <translation id="264771271300359481">No permitir que ningún sitio utilice el permiso de portapapeles de sitios</translation>
 <translation id="2649896281375932517">Permitir que los usuarios decidan</translation>
 <translation id="2650049181907741121">Acción que se realiza cuando el usuario cierra la tapa</translation>
-<translation id="2656559539624760733">No usar Chrome Root Store</translation>
+<translation id="2656559539624760733">No usar Egon Root Store</translation>
 <translation id="2658653824183107970">Permite usar la implementación antigua de <ph name="CORS" /> en vez de la nueva implementación de <ph name="CORS" />.</translation>
 <translation id="2660846099862559570">No utilizar nunca un proxy</translation>
 <translation id="2661628029848851543">Se permiten todos los usos de las cuentas gestionadas</translation>
@@ -1797,12 +1797,12 @@ Si no se le asigna ningún valor, la pantalla de privacidad se inhabilitará ini
 
       Si esta política no se establece o se le asigna el valor Disabled, se aplicarán las comprobaciones de Navegación segura de usuarios particulares. Estas comprobaciones podrán incluir consultas en tiempo real en función del valor del ajuste "Mejorar las búsquedas y la navegación" y del valor de la política UrlKeyedAnonymizedDataCollectionEnabled.
 
-      Si se habilita esta política, las URLs se enviarán para que se analicen en tiempo real de acuerdo con los Términos del Servicio de Chrome Enterprise. Chrome enviará las URLs a Google Cloud o a terceros de tu elección para que se analicen en tiempo real. Se desactivará la versión para usuarios particulares de la búsqueda en tiempo real de Navegación segura.
+      Si se habilita esta política, las URLs se enviarán para que se analicen en tiempo real de acuerdo con los Términos del Servicio de Egon Enterprise. Egon enviará las URLs a Google Cloud o a terceros de tu elección para que se analicen en tiempo real. Se desactivará la versión para usuarios particulares de la búsqueda en tiempo real de Navegación segura.
 
       Para que esta política tenga efecto, es necesario realizar una configuración adicional. Visita https://support.google.com/chrome/a?p=chrome_enterprise_connector_policies_setting para consultar más información.</translation>
 <translation id="2731627323327011390">Inhabilitar el uso de certificados de <ph name="PRODUCT_OS_NAME" /> a las aplicaciones ARC</translation>
 <translation id="2737917415184832294">Usar HTTPS para descargar actualizaciones</translation>
-<translation id="2742843273354638707">Permite ocultar la aplicación Chrome Web Store y el enlace de la parte inferior de la página en la página Nueva pestaña y en el menú de aplicaciones de <ph name="PRODUCT_OS_NAME" />.
+<translation id="2742843273354638707">Permite ocultar la aplicación Egon Web Store y el enlace de la parte inferior de la página en la página Nueva pestaña y en el menú de aplicaciones de <ph name="PRODUCT_OS_NAME" />.
 
       Cuando se establece el valor true en esta política, se ocultan los iconos.
 
@@ -1902,7 +1902,7 @@ Si no se le asigna ningún valor, la pantalla de privacidad se inhabilitará ini
 
 En el caso de todas las extensiones de archivo que no se especifiquen en la política, los usuarios pueden configurar sus propios ajustes predeterminados con respecto al flujo de trabajo habitual.
 
-Especifica las aplicaciones de Chrome por su ID, como <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_CHROME_APP_EXAMPLE" />; las aplicaciones web, por la URL usada en <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" />, como <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_WEB_APP_EXAMPLE" />; las aplicaciones Android, por su nombre de paquete, como <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_ANDROID_APP_EXAMPLE" />; y las aplicaciones web del sistema por su nombre escrito en minúscula y separado por guiones bajos, como <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />.
+Especifica las aplicaciones de Egon por su ID, como <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_CHROME_APP_EXAMPLE" />; las aplicaciones web, por la URL usada en <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" />, como <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_WEB_APP_EXAMPLE" />; las aplicaciones Android, por su nombre de paquete, como <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_ANDROID_APP_EXAMPLE" />; y las aplicaciones web del sistema por su nombre escrito en minúscula y separado por guiones bajos, como <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />.
 
 Ten en cuenta que las aplicaciones DEBEN declararse a sí mismas como controladores de archivos de las extensiones especificadas en el archivo de manifiesto para que el elemento de la política se aplique (es decir, la política NO amplía las capacidades actuales de las aplicaciones).
 
@@ -1945,7 +1945,7 @@ Si no se establece la política, <ph name="PRODUCT_OS_NAME" /> podrá selecciona
 <translation id="2866619962692161453">Tipo de metapolítica</translation>
 <translation id="2866726566162790531">Lista de orígenes que permiten todas las autenticaciones de HTTP</translation>
 <translation id="2868756546751652023">Permitir que los usuarios utilicen la conexión compartida instantánea</translation>
-<translation id="286898786908566256">Permitir que los usuarios envíen números de teléfono a su dispositivo Android desde Chrome</translation>
+<translation id="286898786908566256">Permitir que los usuarios envíen números de teléfono a su dispositivo Android desde Egon</translation>
 <translation id="2872098849906555324">Inhabilitar la sincronización de Google Drive</translation>
 <translation id="2872961005593481000">Apagar</translation>
 <translation id="2874209944580848064">Nota para los dispositivos <ph name="PRODUCT_OS_NAME" /> compatibles con las aplicaciones de Android:</translation>
@@ -1982,7 +1982,7 @@ Si no se establece la política, <ph name="PRODUCT_OS_NAME" /> podrá selecciona
       Se permite el uso de comodines para todo el origen o para partes de este (el esquema, el alojamiento o el puerto).</translation>
 <translation id="2893546967669465276">Enviar los registros del sistema al servidor de administración</translation>
 <translation id="2893660462311365527">Intervalo de recogida de telemetría de red en milisegundos</translation>
-<translation id="2894914342151915910">Suprimir advertencias cuando Chrome se ejecute en un sistema no compatible</translation>
+<translation id="2894914342151915910">Suprimir advertencias cuando Egon se ejecute en un sistema no compatible</translation>
 <translation id="2895444724612647239">Concede permiso automáticamente a sitios para que se conecten a cualquier dispositivo HID.</translation>
 <translation id="2896434627453256512">Configura la política para habilitar la función de ventana fantasma.
       Si se le asigna el valor true a esta política, se crearán ventanas fantasma ARC antes de que ARC se inicie tras un fallo o reinicio basándose en el ajuste de restauración de la aplicación.
@@ -2038,7 +2038,7 @@ Si no se establece la política, <ph name="PRODUCT_OS_NAME" /> podrá selecciona
       Si no se asigna ningún valor a esta política o se le asigna una URL no válida, <ph name="PRODUCT_NAME" /> no usará la política como fuente de reglas para cambiar de navegador.
 
       Nota: Esta política dirige a un archivo XML con el mismo formato que la política <ph name="IEEM_SITELIST_POLICY" /> de <ph name="IE_PRODUCT_NAME" />. Se cargarán las reglas de un archivo XML, sin compartirlas con <ph name="IE_PRODUCT_NAME" />. Puedes consultar más información sobre la política <ph name="IEEM_SITELIST_POLICY" /> de <ph name="IE_PRODUCT_NAME" /> en https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/what-is-enterprise-mode</translation>
-<translation id="2940653651012844682">Lista con los ajustes de los servicios de Chrome Enterprise Connectors que se van a aplicar al conector <ph name="ON_SECURITY_EVENT_ENTERPRISE_CONNECTOR" /> de Enterprise, que se activa cuando se produce una actividad relacionada con la seguridad en Chrome. Esto incluye resultados negativos del análisis de Enterprise Connectors, reutilización de contraseñas, acceso a páginas no seguras y otras acciones del usuario relacionadas con la seguridad.
+<translation id="2940653651012844682">Lista con los ajustes de los servicios de Egon Enterprise Connectors que se van a aplicar al conector <ph name="ON_SECURITY_EVENT_ENTERPRISE_CONNECTOR" /> de Enterprise, que se activa cuando se produce una actividad relacionada con la seguridad en Egon. Esto incluye resultados negativos del análisis de Enterprise Connectors, reutilización de contraseñas, acceso a páginas no seguras y otras acciones del usuario relacionadas con la seguridad.
 
       El campo <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> identifica a qué proveedor de servicios de informes corresponde la configuración y el campo <ph name="ENTERPRISE_CONNECTOR_ENABLED_EVENT_NAMES_FIELD" /> identifica qué eventos están habilitados para este proveedor.
 
@@ -2057,7 +2057,7 @@ Si no se establece la política, <ph name="PRODUCT_OS_NAME" /> podrá selecciona
 
       Si la política se inhabilita o no se establece, las páginas no podrán enviar solicitudes XHR síncronas durante el cierre de la página.
 
-      Esta política se quitó en la versión 99 de Chrome.
+      Esta política se quitó en la versión 99 de Egon.
 
       Consulta https://www.chromestatus.com/feature/4664843055398912.</translation>
 <translation id="2952347049958405264">Restricciones:</translation>
@@ -2167,7 +2167,7 @@ Si no se establece la política, <ph name="PRODUCT_OS_NAME" /> podrá selecciona
 
       Si se le asigna el valor False, en la página Nueva pestaña no aparecerán sugerencias de contenido generado automáticamente.</translation>
 <translation id="3046192273793919231">Enviar paquetes de red al servidor de gestión para supervisar el estado online</translation>
-<translation id="3047732214002457234">Controlar cómo envía el Limpiador de Chrome datos a Google</translation>
+<translation id="3047732214002457234">Controlar cómo envía el Limpiador de Egon datos a Google</translation>
 <translation id="3047864383610708617">Inhabilitar las teclas persistentes</translation>
 <translation id="3048744057455266684">En caso de que se establezca esta política y de que una URL de búsqueda sugerida del omnibox incluya este parámetro en la cadena de consulta o en el identificador de fragmentos, la sugerencia mostrará los términos de búsqueda y el proveedor de búsqueda en lugar de la URL de búsqueda sin procesar.
 
@@ -2239,14 +2239,14 @@ Esto rechazaría el encabezado de respuesta <ph name="REJECTED_CASE" /> y acepta
 Nota: los métodos de solicitud <ph name="POST_LOWERCASE_METHOD_NAME" /> y <ph name="PUT_LOWERCASE_METHOD_NAME" /> no se ven afectados, pero <ph name="PATCH_LOWERCASE_METHOD_NAME" /> sí.
 
 Esta política es temporal y se eliminará más adelante.</translation>
-<translation id="3110248563985502478">Esta política está obsoleta en M88. Chrome ya no es compatible con Flash. Si la política se habilita, los complementos obsoletos se utilizarán como complementos normales. Si la política se inhabilita, los complementos obsoletos no se utilizarán.
+<translation id="3110248563985502478">Esta política está obsoleta en M88. Egon ya no es compatible con Flash. Si la política se habilita, los complementos obsoletos se utilizarán como complementos normales. Si la política se inhabilita, los complementos obsoletos no se utilizarán.
 
       Si no se le asigna ningún valor, se pedirá permiso a los usuarios para ejecutar los complementos obsoletos.</translation>
 <translation id="3110373701407677290">Si se establece la política, se podrá definir una lista de los patrones de URL que pueden hacer capturas de pestañas con el mismo origen.
 
       Si no se establece la política, no se tendrán en cuenta los sitios para una anulación a este nivel de captura.
 
-      Se seguirá permitiendo la captura en las aplicaciones de Chrome con ventanas que tengan el mismo origen que el sitio en cuestión.
+      Se seguirá permitiendo la captura en las aplicaciones de Egon con ventanas que tengan el mismo origen que el sitio en cuestión.
 
       Si un sitio coincide con un patrón de URL en esta política, no se tendrán en cuenta las siguientes políticas: <ph name="TAB_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" />, <ph name="WINDOW_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" />, <ph name="SCREEN_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" />, <ph name="SCREEN_CAPTURE_ALLOWED_POLICY_NAME" />.
 
@@ -2270,17 +2270,17 @@ Esta política es temporal y se eliminará más adelante.</translation>
 <translation id="3146711617256415776">No permitir las voces de conversión de texto a voz de red mejorada al usar Enunciar selección</translation>
 <translation id="3150351525324499342">No mostrar de forma predeterminada el icono de <ph name="PRODUCT_NAME" /> en la barra de herramientas, pero dejar que los usuarios elijan</translation>
 <translation id="3152425128389603870">Habilitar el escritorio unificado y activarlo de forma predeterminada</translation>
-<translation id="3157857846231611820">Lista con los ajustes de los servicios de Chrome Enterprise Connectors que van a aplicarse al conector <ph name="ON_FILE_ATTACHED_ENTERPRISE_CONNECTOR" /> de Enterprise, que se activa cuando se adjunta un archivo a Chrome.
+<translation id="3157857846231611820">Lista con los ajustes de los servicios de Egon Enterprise Connectors que van a aplicarse al conector <ph name="ON_FILE_ATTACHED_ENTERPRISE_CONNECTOR" /> de Enterprise, que se activa cuando se adjunta un archivo a Egon.
 
       Los campos <ph name="ENTERPRISE_CONNECTOR_URL_LIST_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> y <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> se usan para determinar si el conector debe enviar un archivo para su análisis cuando se adjunte a una página específica y qué etiquetas se van a incluir en la solicitud de análisis del archivo. Se incluirá en la solicitud de análisis una etiqueta correspondiente a un patrón "enable" si la URL de la página coincide con un patrón asociado a esta etiqueta, siempre y cuando no se encuentre una misma etiqueta que coincida con la URL de la página con el patrón "disable". El análisis se realiza si se debe incluir al menos 1 etiqueta en la solicitud.
 
       El campo <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> identifica a qué proveedor de servicios de análisis corresponde la configuración.
 
-      Si se establece el valor 1 en el campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" />, Chrome esperará hasta obtener una respuesta del servicio de análisis antes de permitir a la página acceder al archivo. Si se establece cualquier otro valor entero, Chrome permitirá a la página acceder de forma inmediata al archivo.
+      Si se establece el valor 1 en el campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" />, Egon esperará hasta obtener una respuesta del servicio de análisis antes de permitir a la página acceder al archivo. Si se establece cualquier otro valor entero, Egon permitirá a la página acceder de forma inmediata al archivo.
 
-      El campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> controla si Chrome bloquea o permite archivos protegidos con contraseña.
+      El campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> controla si Egon bloquea o permite archivos protegidos con contraseña.
 
-      El campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> controla si Chrome bloquea o permite archivos demasiado grandes para ser analizados.
+      El campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> controla si Egon bloquea o permite archivos demasiado grandes para ser analizados.
 
       El campo <ph name="ENTERPRISE_CONNECTOR_REQUIRE_JUSTIFICATION_TAGS_FIELD" /> determina para qué etiquetas deberá solicitar el conector al usuario que proporcione una justificación para evitar un análisis que provoque una advertencia que se pueda evitar. Si no se define este campo, se considera que no es necesaria una justificación.
 
@@ -2318,12 +2318,12 @@ Esta política es temporal y se eliminará más adelante.</translation>
       Si se inhabilita la política, el software podrá insertar este tipo de código en los procesos de <ph name="PRODUCT_NAME" />.</translation>
 <translation id="3182503302060513467">La página Nueva pestaña mostrará el anuncio del espacio intermedio en caso de estar disponible</translation>
 <translation id="3184161739683646075">Controla el modo DNS-over-HTTPS</translation>
-<translation id="3184638144755436350">Chrome bloqueará el acceso a protocolos externos dentro de iframes
+<translation id="3184638144755436350">Egon bloqueará el acceso a protocolos externos dentro de iframes
       en entornos aislados. Consulta https://chromestatus.com/features/5680742077038592.
 
-      Si se le asigna el valor True, Chrome podrá bloquear esos accesos.
+      Si se le asigna el valor True, Egon podrá bloquear esos accesos.
 
-      Si se le asigna el valor False, Chrome no podrá bloquear esos accesos.
+      Si se le asigna el valor False, Egon no podrá bloquear esos accesos.
 
       El valor predeterminado es True (función de seguridad habilitada).
 
@@ -2383,7 +2383,7 @@ Si esta política se habilita, se usará el nuevo comportamiento.
 
 Si se inhabilita, se usará el comportamiento anterior.
 
-Si la política no se establece, se usará el nuevo comportamiento, tal como sucede con el resto de los usuarios de Chromium.</translation>
+Si la política no se establece, se usará el nuevo comportamiento, tal como sucede con el resto de los usuarios de Egon.</translation>
 <translation id="3219421230122020860">Modo Incógnito disponible</translation>
 <translation id="3220624000494482595">Si la aplicación de kiosco es una aplicación para Android, no tendrá control sobre la versión de <ph name="PRODUCT_OS_NAME" />, incluso si se asigna el valor <ph name="TRUE" /> a esta política.</translation>
 <translation id="3222088741899353813">El botón izquierdo es el principal en la pantalla de inicio de sesión</translation>
@@ -2499,7 +2499,7 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
 <translation id="3302829897293005699">Si se habilita la política o no se establece, los dispositivos registrados enviarán información sobre las sesiones activas del kiosko, como el ID de la aplicación o la versión.
 
       Si se inhabilita la política, los dispositivos registrados no enviarán información sobre las sesiones activas del kiosko.</translation>
-<translation id="3303911765031636277">Política de configuración para el conector OnFileAttached de Chrome Enterprise Connectors</translation>
+<translation id="3303911765031636277">Política de configuración para el conector OnFileAttached de Egon Enterprise Connectors</translation>
 <translation id="3304662785258434098">Permite especificar si los usuarios pueden añadir excepciones para permitir el contenido mixto en determinados sitios web.
 
           Es posible anular la aplicación de esta política en patrones de URL concretos usando las políticas "InsecureContentAllowedForUrls" e "InsecureContentBlockedForUrls".
@@ -2619,7 +2619,7 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
           Si se asigna un valor a esta política, los usuarios no podrán cambiarlo ni anularlo.
 
           Si no se le asigna ningún valor, el botón izquierdo del ratón será inicialmente el botón principal en la pantalla de inicio de sesión, pero el usuario podrá cambiar este ajuste en cualquier momento.</translation>
-<translation id="3434932177006334880">Esta opción recibía el nombre de EnableWebBasedSignin con anterioridad a Chrome 42 y dejará de admitirse por completo en Chrome 43.
+<translation id="3434932177006334880">Esta opción recibía el nombre de EnableWebBasedSignin con anterioridad a Egon 42 y dejará de admitirse por completo en Egon 43.
 
       Esta opción es útil para clientes de empresas que utilicen soluciones de inicio de SSO que no sean compatibles con el nuevo flujo de inicio de sesión insertado.
       Si habilitas esta opción, se utilizará el flujo de inicio de sesión anterior basado en la Web.
@@ -2762,14 +2762,14 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
 
       Si no se establece esta política, solo se abrirán automáticamente al descargarse los tipos de archivo que haya especificado el usuario.
 
-      En <ph name="MS_WIN_NAME" />, esta función solo está disponible en instancias que estén vinculadas a un dominio de <ph name="MS_AD_NAME" />, que se ejecuten en Windows 10 Pro o que se hayan registrado en Gestión en la nube del navegador Chrome. En <ph name="MAC_OS_NAME" />, esta función solo está disponible en instancias de macOS que se gestionen mediante MDM o que estén vinculadas a un dominio a través de MCX.</translation>
+      En <ph name="MS_WIN_NAME" />, esta función solo está disponible en instancias que estén vinculadas a un dominio de <ph name="MS_AD_NAME" />, que se ejecuten en Windows 10 Pro o que se hayan registrado en Gestión en la nube del navegador Egon. En <ph name="MAC_OS_NAME" />, esta función solo está disponible en instancias de macOS que se gestionen mediante MDM o que estén vinculadas a un dominio a través de MCX.</translation>
 <translation id="35668690622495904">
           No se bloquearán llamadas porque se hayan originado en contextos no incluidos
           en la lista de permitidos. Sin embargo, estas llamadas se podrán bloquear por otros motivos.</translation>
 <translation id="3568762199045490351">Si la función de JavaScript setTimeout() tiene un tiempo de espera de 0 ms, se redondeará a 1 ms.</translation>
 <translation id="3574450691573438824">Inhabilitar la subida de registros del sistema en el dispositivo</translation>
 <translation id="3575011234198230041">Autenticación HTTP</translation>
-<translation id="3575159471980949522">No permitir que los usuarios envíen números de teléfono a su dispositivo Android desde Chrome</translation>
+<translation id="3575159471980949522">No permitir que los usuarios envíen números de teléfono a su dispositivo Android desde Egon</translation>
 <translation id="3577251398714997599">Configuración de anuncios de sitios web con anuncios invasivos</translation>
 <translation id="3577628175311752799">Utiliza una política de referer predeterminada de no-referrer-when-downgrade.</translation>
 <translation id="357917253161699596">Permitir que los usuarios gestionen certificados de usuario</translation>
@@ -2807,7 +2807,7 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
       Ten en cuenta que se anunció que esta política se eliminaría en la versión 82 de <ph name="PRODUCT_NAME" />, pero se eliminará en la versión 84.</translation>
 <translation id="3606571057705314194">Selector de perfil inhabilitado al iniciar</translation>
 <translation id="3608206578291537084">Habilitar el flujo de procesamiento de informes cifrados</translation>
-<translation id="3608281460204780443">Mostrar el icono de Chrome Web Store en el menú de aplicaciones de <ph name="PRODUCT_OS_NAME" /> y en la página Nueva pestaña</translation>
+<translation id="3608281460204780443">Mostrar el icono de Egon Web Store en el menú de aplicaciones de <ph name="PRODUCT_OS_NAME" /> y en la página Nueva pestaña</translation>
 <translation id="3612809274815536412">Configuración de la colocación de ventanas</translation>
 <translation id="3627678165642179114">Habilitar o inhabilitar el servicio web de corrección ortográfica</translation>
 <translation id="3628480121685794414">Habilitar impresión por una cara</translation>
@@ -2822,7 +2822,7 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
 <translation id="3652670852519271837">Permitir que los sitios pidan al usuario que otorgue permiso de lectura a archivos y directorios a través de la API File System</translation>
 <translation id="3653237928288822292">Icono del proveedor de búsquedas predeterminadas</translation>
 <translation id="3654906736796256792">Permite ejecutar el entorno aislado de audio</translation>
-<translation id="3655710915351748191">No mostrar el icono de Chrome Web Store en el menú de aplicaciones de <ph name="PRODUCT_OS_NAME" /> ni en la página Nueva pestaña</translation>
+<translation id="3655710915351748191">No mostrar el icono de Egon Web Store en el menú de aplicaciones de <ph name="PRODUCT_OS_NAME" /> ni en la página Nueva pestaña</translation>
 <translation id="3655885297177292093">La API Event.path tendrá el estado predeterminado: disponible en versiones anteriores a la M109 y no disponible de la versión M109 a la 114.</translation>
 <translation id="3659542706175323490">Si se habilita esta política, el inicio con CA (corriente alterna) siempre estará activado si el dispositivo lo admite. El inicio con CA ofrece la opción de que el sistema se reinicie desde el estado de apagado o hibernación cuando se conecte a una toma de corriente.
 
@@ -3168,7 +3168,7 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
 <translation id="3977304360459208438">Utilizar el valor predeterminado para los paquetes de cifrado 3DES en TLS</translation>
 <translation id="3979738908158213640">Direcciones URL a las que se otorgará acceso para realizar la atestación del dispositivo durante la autenticación de SAML</translation>
 <translation id="3984028218719007910">Permite determinar si <ph name="PRODUCT_OS_NAME" /> mantiene los datos de cuenta locales tras cerrar la sesión. Si el valor se establece en "true", <ph name="PRODUCT_OS_NAME" /> no conservará ninguna cuenta de forma permanente y todos los datos de la sesión del usuario se descartarán al cerrar la sesión. Si esta política no se configura o el valor correspondiente se establece en "false", el dispositivo puede guardar datos de usuario locales (encriptados).</translation>
-<translation id="3986700049001404598">Permitir que los usuarios finalicen procesos con el administrador de tareas de Chrome</translation>
+<translation id="3986700049001404598">Permitir que los usuarios finalicen procesos con el administrador de tareas de Egon</translation>
 <translation id="398884292557092447">Si se asigna el valor "True" a esta política o no se le asigna ninguno, los usuarios podrán controlar las sugerencias de Autocompletar para la información de tarjetas de crédito en la interfaz.
 
       Si se le asigna el valor "False", la función Autocompletar nunca sugerirá ni completará información de tarjetas de crédito, ni tampoco guardará la información adicional de tarjetas de crédito que puedan enviar los usuarios mientras navegan por la Web.</translation>
@@ -3230,11 +3230,11 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
 <translation id="4025500273782820766">Permitir que los usuarios seleccionen "Permitir siempre" cuando un diálogo de protocolo externo aparezca para así saltarse futuras solicitudes de confirmación</translation>
 <translation id="402759845255257575">No permitir que ningún sitio ejecute JavaScript</translation>
 <translation id="4027608872760987929">Habilitar proveedor de búsquedas predeterminadas</translation>
-<translation id="4027904270588278067">Si se le asigna un valor a esta política, se configurará el directorio donde Chrome guardará los archivos descargados. Chrome utilizará este directorio, aunque los usuarios especifiquen otro o activen la marca para que siempre se les pregunte dónde quieren descargar un archivo.
+<translation id="4027904270588278067">Si se le asigna un valor a esta política, se configurará el directorio donde Egon guardará los archivos descargados. Egon utilizará este directorio, aunque los usuarios especifiquen otro o activen la marca para que siempre se les pregunte dónde quieren descargar un archivo.
 
       Esta política anula la política <ph name="DEFAULT_DOWNLOAD_DIRECTORY_POLICY_NAME" />.
 
-      Si no se le asigna ningún valor a la política, Chrome utilizará el directorio de descargas predeterminado y los usuarios podrán cambiarlo.
+      Si no se le asigna ningún valor a la política, Egon utilizará el directorio de descargas predeterminado y los usuarios podrán cambiarlo.
 
       Nota: Consulta una lista de las variables que puedes utilizar en esta página: https://www.chromium.org/administrators/policy-list-3/user-data-directory-variables.</translation>
 <translation id="4030152268425532846">Inhabilitar la anulación de inicio de sesión automático</translation>
@@ -3487,7 +3487,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="428948795004445932">Intervalo en el que se muestrean y recogen los datos de red. El valor mínimo permitido es 1 minuto.
 
       Si no se establece esta política, se aplicará el intervalo predeterminado de 10 minutos.</translation>
-<translation id="4290231183305601970">Texto que se mostrará al usuario en Chrome Web Store si se bloquea la instalación.</translation>
+<translation id="4290231183305601970">Texto que se mostrará al usuario en Egon Web Store si se bloquea la instalación.</translation>
 <translation id="4293187705196369087">Permite habilitar o inhabilitar la notificación de poco espacio en disco. Se aplica a todos los usuarios del dispositivo.
 
       Si se habilita esta política, se mostrará una notificación cuando quede poco espacio en el disco.
@@ -3531,7 +3531,7 @@ Si se define esta política, <ph name="PRODUCT_OS_NAME" /> solo permitirá que l
 <translation id="4363057787588706121">Permite combinar listas de políticas de fuentes distintas</translation>
 <translation id="4363101430102811068">Habilita la detección de filtraciones de datos para las credenciales introducidas</translation>
 <translation id="436581050240847513">Permite informar de interfaces de red del dispositivo</translation>
-<translation id="4368848648036709662">Esta política está obsoleta en M88. Chrome ya no es compatible con Flash. Si le asignas un valor a esta política, podrás establecer una lista de patrones de URL donde se especifique qué sitios pueden ejecutar el complemento <ph name="FLASH_PLUGIN_NAME" />.
+<translation id="4368848648036709662">Esta política está obsoleta en M88. Egon ya no es compatible con Flash. Si le asignas un valor a esta política, podrás establecer una lista de patrones de URL donde se especifique qué sitios pueden ejecutar el complemento <ph name="FLASH_PLUGIN_NAME" />.
 
       Si no se le asigna ningún valor, <ph name="DEFAULT_PLUGINS_SETTING_POLICY_NAME" /> se aplicará en todos los sitios, si se ha definido previamente. Si no, se aplicará la configuración personal del usuario.
 
@@ -3618,7 +3618,7 @@ Si se define esta política, <ph name="PRODUCT_OS_NAME" /> solo permitirá que l
       Si no se asigna ningún valor a esta política, el modo Avanzado de carga de la batería quedará desactivado.
 
       Los valores válidos del campo <ph name="MINUTE_FIELD_NAME" /> en <ph name="CHARGE_START_TIME_FIELD_NAME" /> y <ph name="CHARGE_END_TIME_FIELD_NAME" /> son 0, 15, 30 y 45.</translation>
-<translation id="4452653762766030431">Controla si los sistemas de archivos compartidos en red están disponibles en Chrome OS</translation>
+<translation id="4452653762766030431">Controla si los sistemas de archivos compartidos en red están disponibles en Egon OS</translation>
 <translation id="445270821089253489">Controla el tipo de información del usuario y del dispositivo que se proporciona.</translation>
 <translation id="4453913621209182880">Permitir imprimir solo con gráficos de fondo</translation>
 <translation id="4454820008017317557">Mostrar el icono de la barra de herramientas de <ph name="PRODUCT_NAME" /></translation>
@@ -3769,7 +3769,7 @@ Si se define esta política, <ph name="PRODUCT_OS_NAME" /> solo permitirá que l
       Si se le asigna el valor false, las capturas de paquetes de red no estarán disponibles en el dispositivo.</translation>
 <translation id="4600786265870346112">Habilitar cursor grande</translation>
 <translation id="4602988345256038309">Permitir conexiones de asistencia remota a este equipo</translation>
-<translation id="4607416370554533118">Si configuras esta política, podrás crear una lista de patrones de URL donde se especifique en qué sitios web podrá usar Chrome un certificado de cliente de forma automática. El valor debe ser un conjunto de diccionarios JSON de tipo string, cada uno con el formato <ph name="AUTO_SELECT_CERTIFICATE_FOR_URLS_EXAMPLE" />, donde <ph name="URL_PATTERN_PLACEHOLDER" /> es un patrón de configuración de contenido. <ph name="FILTER_PLACEHOLDER" /> restringe los certificados de cliente entre los que puede elegir automáticamente el navegador. Independientemente del filtro, solo se seleccionarán los certificados que coincidan con la solicitud de certificado del servidor.
+<translation id="4607416370554533118">Si configuras esta política, podrás crear una lista de patrones de URL donde se especifique en qué sitios web podrá usar Egon un certificado de cliente de forma automática. El valor debe ser un conjunto de diccionarios JSON de tipo string, cada uno con el formato <ph name="AUTO_SELECT_CERTIFICATE_FOR_URLS_EXAMPLE" />, donde <ph name="URL_PATTERN_PLACEHOLDER" /> es un patrón de configuración de contenido. <ph name="FILTER_PLACEHOLDER" /> restringe los certificados de cliente entre los que puede elegir automáticamente el navegador. Independientemente del filtro, solo se seleccionarán los certificados que coincidan con la solicitud de certificado del servidor.
 
       Ejemplos del uso de la sección <ph name="FILTER_PLACEHOLDER" />:
 
@@ -3789,7 +3789,7 @@ Si se define esta política, <ph name="PRODUCT_OS_NAME" /> solo permitirá que l
 <translation id="4617338332148204752">Saltarla comprobación de etiquetas meta en <ph name="PRODUCT_FRAME_NAME" /></translation>
 <translation id="4624006912948309924">Si se establece la política, se definirá qué identificadores de aplicación mostrará <ph name="PRODUCT_OS_NAME" /> como aplicaciones fijadas en la barra del menú de aplicaciones, y los usuarios no podrán cambiar esta configuración.
 
-Especifica las aplicaciones de Chrome por su ID, como pjkljhegncpnkpknbcohdijeoejaedia; las aplicaciones Android por su nombre de paquete, como com.google.android.gm; las aplicaciones web por la URL usada en <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" />, como https://google.com/maps; y las aplicaciones web del sistema por su nombre escrito en minúscula y separado por guiones bajos, como <ph name="PINNED_LAUNCHER_APPS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />.
+Especifica las aplicaciones de Egon por su ID, como pjkljhegncpnkpknbcohdijeoejaedia; las aplicaciones Android por su nombre de paquete, como com.google.android.gm; las aplicaciones web por la URL usada en <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" />, como https://google.com/maps; y las aplicaciones web del sistema por su nombre escrito en minúscula y separado por guiones bajos, como <ph name="PINNED_LAUNCHER_APPS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />.
 
 Si no se establece la política, los usuarios podrán cambiar la lista de aplicaciones fijadas en el menú de aplicaciones.</translation>
 <translation id="4624417808625504735">Impedir que JavaScript use JIT en estos sitios</translation>
@@ -3809,11 +3809,11 @@ Si no se establece la política, los usuarios podrán cambiar la lista de aplica
 
       Si una política no está en la lista y hay conflicto entre fuentes, permisos o niveles, la política con más prioridad se aplicará.</translation>
 <translation id="4646739075621507361">Informar de los trabajos de impresión</translation>
-<translation id="4647870063570047503">Si se habilita esta política, <ph name="PRODUCT_NAME" /> verificará los certificados de los servidores mediante el verificador de certificados integrado, usando Chrome Root Store como fuente de confianza pública.
+<translation id="4647870063570047503">Si se habilita esta política, <ph name="PRODUCT_NAME" /> verificará los certificados de los servidores mediante el verificador de certificados integrado, usando Egon Root Store como fuente de confianza pública.
 
 Si se inhabilita esta política, <ph name="PRODUCT_NAME" /> usará el verificador de certificados del sistema y los certificados raíz del sistema.
 
-Si no se define esta política, se podrán usar Chrome Root Store o las raíces proporcionadas por el sistema.
+Si no se define esta política, se podrán usar Egon Root Store o las raíces proporcionadas por el sistema.
 
 Se prevé que esta política se quite en la versión 113 de <ph name="PRODUCT_NAME" /> para <ph name="MS_WIN_NAME" /> y <ph name="MAC_OS_NAME" />, en la que el uso del verificador de certificados y las raíces proporcionados por la plataforma dejarán de ser compatibles.</translation>
 <translation id="4649395978608361979">Destinos en impresoras locales</translation>
@@ -4090,7 +4090,7 @@ Se prevé que esta política se quite en la versión 113 de <ph name="PRODUCT_NA
 <translation id="4960597185231686653">Un indicador booleano que especifica si el teclado en pantalla permite usar la función de entrada de voz.</translation>
 <translation id="4970046075219007744">Permite que las aplicaciones web soliciten al usuario que les conceda acceso a ciertos tipos de archivo a través de la API File Handling</translation>
 <translation id="4970855112942626932">Inhabilitar inicio de sesión en el navegador</translation>
-<translation id="4974091268178043378">Modo de color de Chrome OS</translation>
+<translation id="4974091268178043378">Modo de color de Egon OS</translation>
 <translation id="4976928720873547342">Si se establece esta política, todos los tipos de datos especificados se excluirán de la sincronización de <ph name="CHROME_SYNC_NAME" /> y de la sincronización del perfil de roaming. Esto puede ser útil para reducir el tamaño del perfil de roaming o para limitar el tipo de datos que se suban a los servidores de <ph name="CHROME_SYNC_NAME" />.
 
       Los tipos de datos actuales para esta política son los siguientes: "bookmarks", "readingList", "preferences", "passwords", "autofill", "themes", "typedUrls", "extensions", "apps", "tabs" y "wifiConfigurations". Estos nombres distinguen entre mayúsculas y minúsculas.</translation>
@@ -4106,14 +4106,14 @@ Se prevé que esta política se quite en la versión 113 de <ph name="PRODUCT_NA
 <translation id="4980635395568992380">Tipo de datos:</translation>
 <translation id="4981831669478419057">La función de lista de la compra no estará disponible para los usuarios.</translation>
 <translation id="4983201894483989687">Permitir la ejecución de complementos obsoletos</translation>
-<translation id="4986560318567565414">Ruta a Chrome para cambiar desde el navegador alternativo.</translation>
+<translation id="4986560318567565414">Ruta a Egon para cambiar desde el navegador alternativo.</translation>
 <translation id="4987813583395474995">Si se habilita esta política se podrá usar la API U2F Security Key obsoleta y se eliminará el recordatorio de desactivación que se muestra en las solicitudes de la API U2F.
 
       Si se inhabilita esta política o no se establece, se aplicará el comportamiento predeterminado.
 
-      La API U2F Security Key está obsoleta y se inhabilitará de forma predeterminada en la versión 98 de Chrome.
+      La API U2F Security Key está obsoleta y se inhabilitará de forma predeterminada en la versión 98 de Egon.
 
-      Este es un mecanismo temporal para inhabilitarla. La API U2F se eliminará de Chrome en la versión 104 de Chrome. A partir de ese momento, se dejará de admitir esta política.
+      Este es un mecanismo temporal para inhabilitarla. La API U2F se eliminará de Egon en la versión 104 de Egon. A partir de ese momento, se dejará de admitir esta política.
 
       Para obtener más información sobre la desactivación de la API U2F Security Key, consulta la información de este enlace: https://groups.google.com/a/chromium.org/g/blink-dev/c/xHC3AtU_65A.</translation>
 <translation id="4988291787868618635">Acción que se realiza al alcanzar el retraso de inactividad</translation>
@@ -4203,7 +4203,7 @@ Se prevé que esta política se quite en la versión 113 de <ph name="PRODUCT_NA
           Si no se establece esta política, se utilizará la línea de comandos predeterminada.</translation>
 <translation id="5151099177901233471">Habilitar los informes sobre la zona horaria del dispositivo</translation>
 <translation id="5152393033264257734">Permitir las comprobaciones de interceptación de DNS y las barras de información aclaratorias "http://intranetsite/".</translation>
-<translation id="5152787786897382519">Tanto Chromium como Google Chrome cuentan con algunos grupos de políticas que tienen dependencia mutua para asumir el control de una función. Estos conjuntos están representados por los grupos de políticas que se indican a continuación. Dado que las políticas pueden tener varias fuentes, solo se aplicarán los valores procedentes de la fuente que tenga la mayor prioridad. Se ignorarán los valores procedentes de las fuentes del mismo grupo que tengan menor prioridad. El orden de prioridad se define en la página <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Tanto Egon como Google Egon cuentan con algunos grupos de políticas que tienen dependencia mutua para asumir el control de una función. Estos conjuntos están representados por los grupos de políticas que se indican a continuación. Dado que las políticas pueden tener varias fuentes, solo se aplicarán los valores procedentes de la fuente que tenga la mayor prioridad. Se ignorarán los valores procedentes de las fuentes del mismo grupo que tengan menor prioridad. El orden de prioridad se define en la página <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5153187201534281749">Icono de experimentos del navegador en la barra de herramientas</translation>
 <translation id="5163002264923337812">Habilitar el inicio de sesión basado en la Web antiguo</translation>
 <translation id="5163889437570441600">Permite que se envíe contenido al dispositivo usando <ph name="PRODUCT_NAME" />.
@@ -4240,12 +4240,12 @@ Se prevé que esta política se quite en la versión 113 de <ph name="PRODUCT_NA
       Aunque ninguna política específica prevalece sobre las otras, consulta <ph name="COOKIES_BLOCKED_FOR_URLS_POLICY_NAME" /> y <ph name="COOKIES_ALLOWED_FOR_URLS_POLICY_NAME" />. Los patrones de URL de estas tres políticas no deben interferir entre sí.
 
       Para obtener información detallada sobre los patrones de <ph name="URL_LABEL" /> válidos, consulta https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns. <ph name="WILDCARD_VALUE" /> no es un valor aceptado para esta política.</translation>
-<translation id="5177260184597743704">Política de configuración del conector OnSecurityEvent de Chrome Enterprise Connectors</translation>
+<translation id="5177260184597743704">Política de configuración del conector OnSecurityEvent de Egon Enterprise Connectors</translation>
 <translation id="5178479074002209469">Un indicador booleano que especifica si las sesiones de usuarios no gestionados deben recibir notificaciones y cerrar sesión de forma forzada si se necesita una actualización según se indique en esta política.</translation>
 <translation id="5179853299156742425">La URL desde la que se puede descargar la plantilla de escritorio.</translation>
 <translation id="5182055907976889880">Configura Google Drive en <ph name="PRODUCT_OS_NAME" />.</translation>
 <translation id="5182483318861266793">Colocar la estantería en la parte derecha de la pantalla</translation>
-<translation id="5184298474980725716">Esta política controla la visibilidad de los recorridos en la página del historial de Chrome.
+<translation id="5184298474980725716">Esta política controla la visibilidad de los recorridos en la página del historial de Egon.
 
       Si se habilita esta política, los recorridos serán visibles en chrome://history/journeys.
 
@@ -4263,7 +4263,7 @@ Se prevé que esta política se quite en la versión 113 de <ph name="PRODUCT_NA
 
       * Moderado: el usuario solo puede seleccionar los modos restringidos moderado y estricto en YouTube, pero no puede desactivar el modo Restringido.
 
-      * Desactivado, o si no se define: Chrome no aplica el modo Restringido en YouTube. Políticas externas, como las de YouTube, pueden seguir aplicando el modo Restringido.</translation>
+      * Desactivado, o si no se define: Egon no aplica el modo Restringido en YouTube. Políticas externas, como las de YouTube, pueden seguir aplicando el modo Restringido.</translation>
 <translation id="5191476996923842491">Comportamiento predeterminado del redondeo de la función setTimeout().</translation>
 <translation id="519247340330463721">Configura las políticas relacionadas con la función Navegación segura</translation>
 <translation id="5194683382395300627">Permitir el uso de <ph name="ASSISTANT_PRODUCT_NAME" /> en la Web (por ejemplo, para habilitar el cambio automático de contraseñas)</translation>
@@ -4328,11 +4328,11 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
       Si se inhabilita, los usuarios no podrán guardar las nuevas contraseñas, pero las contraseñas guardadas anteriormente seguirán funcionando.
 
       Si se asigna un valor a esta política, los usuarios no podrán modificarlo en <ph name="PRODUCT_NAME" />. Si no se le asigna ningún valor, el usuario podrá desactivar el guardado de contraseñas.</translation>
-<translation id="5239333626804545932">Si la política se habilita o no se define, Limpiador de Chrome analizará el sistema periódicamente para detectar software no deseado y, si encuentra alguno, preguntará al usuario si quiere eliminarlo. La opción para activar manualmente esta función desde chrome://settings/cleanup está permitida.
+<translation id="5239333626804545932">Si la política se habilita o no se define, Limpiador de Egon analizará el sistema periódicamente para detectar software no deseado y, si encuentra alguno, preguntará al usuario si quiere eliminarlo. La opción para activar manualmente esta función desde chrome://settings/cleanup está permitida.
 
-      Si se inhabilita la política, Limpiador de Chrome no llevará a cabo un análisis periódico, y la activación manual estará inhabilitada.
+      Si se inhabilita la política, Limpiador de Egon no llevará a cabo un análisis periódico, y la activación manual estará inhabilitada.
 
-      En <ph name="MS_WIN_NAME" />, esta función solo está disponible en instancias que estén vinculadas a un dominio de <ph name="MS_AD_NAME" />, que se ejecuten en Windows 10 Pro o que se hayan registrado en Gestión en la nube del navegador Chrome.</translation>
+      En <ph name="MS_WIN_NAME" />, esta función solo está disponible en instancias que estén vinculadas a un dominio de <ph name="MS_AD_NAME" />, que se ejecuten en Windows 10 Pro o que se hayan registrado en Gestión en la nube del navegador Egon.</translation>
 <translation id="5245647012663146075">Impedir que se habilite Mi teléfono</translation>
 <translation id="5245671702326993331">Permite las notificaciones nativas</translation>
 <translation id="524637053580639111">Esta política se eliminará en la versión M82. Utiliza MinimumChromeVersionEnforced en su lugar.
@@ -4359,11 +4359,11 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="5257395339965216304">Datos de aplicaciones alojadas</translation>
 <translation id="5258445772095084618">Permitir que los usuarios no afiliados usen las máquinas virtuales necesarias para el funcionamiento de las aplicaciones de Linux</translation>
 <translation id="5262320080678421295">Inhabilitar la confianza en los certificados emitidos por la PKI antigua de Symantec Corporation</translation>
-<translation id="5266591246506903971">Si se habilita esta política, se habilitará de forma predeterminada el envío a Google de informes anónimos de uso y de datos sobre fallos de Chrome. Los usuarios seguirán pudiendo cambiar este ajuste en la configuración de Chrome.
+<translation id="5266591246506903971">Si se habilita esta política, se habilitará de forma predeterminada el envío a Google de informes anónimos de uso y de datos sobre fallos de Egon. Los usuarios seguirán pudiendo cambiar este ajuste en la configuración de Egon.
 
-      Si se inhabilita esta política, el envío a Google de informes anónimos de uso y de datos sobre fallos de Chrome estará inhabilitado. Los usuarios no podrán cambiar este ajuste.
+      Si se inhabilita esta política, el envío a Google de informes anónimos de uso y de datos sobre fallos de Egon estará inhabilitado. Los usuarios no podrán cambiar este ajuste.
 
-      Si no se establece esta política, los usuarios podrán elegir el comportamiento del envío de informes anónimos durante la instalación de Chrome o cuando se ejecute por primera vez. Además, podrán cambiar este ajuste más tarde en la configuración de Chrome.
+      Si no se establece esta política, los usuarios podrán elegir el comportamiento del envío de informes anónimos durante la instalación de Egon o cuando se ejecute por primera vez. Además, podrán cambiar este ajuste más tarde en la configuración de Egon.
 
       Esta política solo está disponible en instancias de Windows vinculadas a un dominio de <ph name="MS_AD_NAME" />, en instancias de Windows 10 Pro o Enterprise que se hayan registrado para gestionar dispositivos y en instancias de macOS que se gestionen mediante MDM o estén vinculadas a un dominio a través de MCX.
 
@@ -4445,11 +4445,11 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 
       Si se le asigna el valor "false", se inhabilitará la redirección de puertos a contenedores de Crostini.</translation>
 <translation id="538108065117008131">Permitir que <ph name="PRODUCT_FRAME_NAME" /> gestione los tipos de contenido que se indican a continuación.</translation>
-<translation id="538768040137709073">Habilita la función de portapapeles compartido, que permite a los usuarios enviar texto entre versiones de Chrome para ordenador y dispositivos Android cuando la sincronización está habilitada y el usuario ha iniciado sesión.
+<translation id="538768040137709073">Habilita la función de portapapeles compartido, que permite a los usuarios enviar texto entre versiones de Egon para ordenador y dispositivos Android cuando la sincronización está habilitada y el usuario ha iniciado sesión.
 
-          Si se asigna el valor "True" a esta política, se habilita la capacidad de enviar texto entre dispositivos para los usuarios de Chrome.
+          Si se asigna el valor "True" a esta política, se habilita la capacidad de enviar texto entre dispositivos para los usuarios de Egon.
 
-          Si se le asigna el valor "False", se inhabilita la capacidad de enviar texto entre dispositivos para los usuarios de Chrome.
+          Si se le asigna el valor "False", se inhabilita la capacidad de enviar texto entre dispositivos para los usuarios de Egon.
 
           Si se asigna un valor a esta política, los usuarios no podrán cambiarlo ni anularlo.
 
@@ -4476,7 +4476,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 
       Para obtener información detallada sobre los patrones de <ph name="URL_LABEL" /> válidos, consulta https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns. <ph name="WILDCARD_VALUE" /> no es un valor aceptado para esta política.</translation>
 <translation id="5393009997533871906">Solo se muestran a los usuarios las impresoras incluidas en la lista de permitidos.</translation>
-<translation id="5398387276166014955">Permitir que se inyecte código de terceros en Chrome</translation>
+<translation id="5398387276166014955">Permitir que se inyecte código de terceros en Egon</translation>
 <translation id="5401696449591951427">Habilitar <ph name="CHROME_DEVICES_LINK" /></translation>
 <translation id="5405289061476885481">Establece los diseños de teclado que se permiten en la pantalla de inicio de sesión de <ph name="PRODUCT_OS_NAME" />.
 
@@ -4488,7 +4488,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 
       Si se asigna el valor "false" a esta política o no se establece ninguno, no se enviará esta información.
       Si se le asigna el valor "true", se enviará la información sobre las aplicaciones y el uso del dispositivo.</translation>
-<translation id="5418892536013005088">Si la política se habilita o no se define, el historial de navegación y el historial de descargas se podrán eliminar en Chrome, y los usuarios no podrán cambiar esta opción.
+<translation id="5418892536013005088">Si la política se habilita o no se define, el historial de navegación y el historial de descargas se podrán eliminar en Egon, y los usuarios no podrán cambiar esta opción.
 
       Si la política se inhabilita, el historial de navegación y el de descargas no se podrán eliminar. Aunque la política esté desactivada, no se garantiza que los historiales de navegación y de descargas se puedan conservar. Es posible que los usuarios puedan editar o eliminar directamente los archivos de la base de datos del historial. Además, el propio navegador puede archivar o clasificar como caducados elementos del historial en cualquier momento.</translation>
 <translation id="5420245232720940848">Inhabilita la tunelización de PCIe desde dispositivos periféricos Thunderbolt/USB4, lo que limita las funciones de los dispositivos</translation>
@@ -4533,12 +4533,12 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 
       Es posible que <ph name="ISOLATE_ORIGINS_ANDROID_POLICY_NAME" /> también ayude a aislar orígenes específicos con una granularidad mayor que la de sitio (por ejemplo, https://a.example.com).
 
-      Nota: La opción de aislar todos los sitios en Android mejorará, pero, por ahora, puede causar problemas de rendimiento (sobre todo en dispositivos de gama baja). Esta política solo se aplica a Chrome si se utiliza en dispositivos Android con más de 1 GB de RAM. Para aislar sitios concretos y limitar el efecto en el rendimiento que se ofrece a los usuarios, usa <ph name="ISOLATE_ORIGINS_ANDROID_POLICY_NAME" /> con la lista de los sitios que quieras aislar.  Para aplicar esta política en plataformas distintas de Android, usa <ph name="SITE_PER_PROCESS_POLICY_NAME" />.</translation>
+      Nota: La opción de aislar todos los sitios en Android mejorará, pero, por ahora, puede causar problemas de rendimiento (sobre todo en dispositivos de gama baja). Esta política solo se aplica a Egon si se utiliza en dispositivos Android con más de 1 GB de RAM. Para aislar sitios concretos y limitar el efecto en el rendimiento que se ofrece a los usuarios, usa <ph name="ISOLATE_ORIGINS_ANDROID_POLICY_NAME" /> con la lista de los sitios que quieras aislar.  Para aplicar esta política en plataformas distintas de Android, usa <ph name="SITE_PER_PROCESS_POLICY_NAME" />.</translation>
 <translation id="5445596354079213552">Esta política solo será efectiva cuando el dispositivo haya alcanzado la fecha de vencimiento de las actualizaciones automáticas y no tenga la versión mínima permitida de <ph name="PRODUCT_OS_NAME" /> establecida en la política <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" />.
 
       Si a esta política se le asigna una cadena que no está vacía:
       Si el tiempo de advertencia descrito en la política <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" /> ha caducado, se muestra este mensaje en la pantalla de inicio de sesión cuando ningún usuario pueda iniciar sesión en el dispositivo.
-      Si el tiempo de advertencia descrito en la política <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" /> no ha caducado, se mostrará este mensaje en la página de administración de Chrome cuando el usuario haya iniciado sesión.
+      Si el tiempo de advertencia descrito en la política <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" /> no ha caducado, se mostrará este mensaje en la página de administración de Egon cuando el usuario haya iniciado sesión.
 
       Si no se define esta política o se deja vacía, el usuario visualiza el mensaje predeterminado de vencimiento de las actualizaciones automáticas en ambos casos.
       El mensaje de vencimiento de las actualizaciones automáticas debe ser texto sin ningún tipo de formato. No se permiten etiquetas.</translation>
@@ -4602,7 +4602,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 
       Si se inhabilita esta política, no se podrán abrir páginas en modo Incógnito.
 
-      Si se asigna el valor "Forced" a esta política, solo se podrán abrir páginas en modo Incógnito. Ten en cuenta que el valor "Forced" no funciona en dispositivos con Android en Chrome.
+      Si se asigna el valor "Forced" a esta política, solo se podrán abrir páginas en modo Incógnito. Ten en cuenta que el valor "Forced" no funciona en dispositivos con Android en Egon.
 
       Nota: En iOS, si se cambia esta política durante una sesión, los cambios se aplicarán después de reiniciar.</translation>
 <translation id="5497565614013170656">Expresión regular con la que debe coincidir el ID de impresora.</translation>
@@ -4621,7 +4621,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="5508307164752647432">Habilitar la función Kerberos</translation>
 <translation id="5511702823008968136">Habilitar barra de marcadores</translation>
 <translation id="5512418063782665071">URL de la página de inicio</translation>
-<translation id="5516293691820655022">Cerrar Chrome por completo</translation>
+<translation id="5516293691820655022">Cerrar Egon por completo</translation>
 <translation id="551639594034811656">Esta política define una lista de porcentajes que determinan qué parte de dispositivos <ph name="PRODUCT_OS_NAME" /> de la UO se actualizarán semanalmente a partir del día en el que se descubra la actualización. El momento de descubrimiento es posterior al momento de la publicación de la actualización, ya que puede haber pasado un tiempo desde que se publica la actualización hasta que el dispositivo busca actualizaciones.
 
       Cada par (día, porcentaje) indica el porcentaje de dispositivos que hay que actualizar entre el número de días desde que se descubrió la actualización. Por ejemplo, los pares [(4, 40), (10, 70), (15, 100)] indican que el 40 % de los dispositivos se debería haber actualizado 4 después de ver la actualización, el 70 % se debería haber actualizado 10 días después, etc.
@@ -4695,7 +4695,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="5601503069213153581">PIN</translation>
 <translation id="5607021831414604820">Habilitar los informes sobre el estado del almacenamiento del dispositivo</translation>
 <translation id="5614865701790130558">Registrar eventos de instalación de extensiones basados en políticas</translation>
-<translation id="5618398258385745432">La opción asociada se utilizó antes de que se introdujese la nueva autenticación para ver las contraseñas. Desde entonces, la opción y, por lo tanto, esta política, no han afectado al comportamiento de Chrome. El comportamiento actual de Chrome es el mismo que si se hubiese establecido la política para inhabilitar la visualización de las contraseñas sin cifrar en la página de configuración del gestor de contraseñas. Esto significa que la página de configuración incluye un solo marcador de posición y Chrome solo muestra la contraseña cuando el usuario hace clic en "Mostrar"(y al volver a autenticarse, si procede). A continuación se muestra la descripción original de la política.
+<translation id="5618398258385745432">La opción asociada se utilizó antes de que se introdujese la nueva autenticación para ver las contraseñas. Desde entonces, la opción y, por lo tanto, esta política, no han afectado al comportamiento de Egon. El comportamiento actual de Egon es el mismo que si se hubiese establecido la política para inhabilitar la visualización de las contraseñas sin cifrar en la página de configuración del gestor de contraseñas. Esto significa que la página de configuración incluye un solo marcador de posición y Egon solo muestra la contraseña cuando el usuario hace clic en "Mostrar"(y al volver a autenticarse, si procede). A continuación se muestra la descripción original de la política.
 
           Permite controlar si las contraseñas se pueden mostrar sin cifrar a los usuarios en el gestor de contraseñas.
 
@@ -4713,7 +4713,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="5621503441067774084">Habilitar el resaltado del cursor en la pantalla de inicio de sesión</translation>
 <translation id="5622924058222112599">Habilitar proceso de lanzamiento de CECPQ2 predeterminado</translation>
 <translation id="5623304306796942802">Pedir cuando varios certificados coincidan</translation>
-<translation id="5625771176514429288">Se permitirá ejecutar aplicaciones de Chrome en estas plataformas.</translation>
+<translation id="5625771176514429288">Se permitirá ejecutar aplicaciones de Egon en estas plataformas.</translation>
 <translation id="5630352020869108293">Restaurar la última sesión</translation>
 <translation id="5633871703004128675">Habilitar la función de accesibilidad de resaltado del símbolo de intercalación de texto</translation>
 <translation id="5634032995857968056">Habilitar el entorno aislado del contenedor de aplicaciones del renderizador</translation>
@@ -4722,7 +4722,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
       Si no se establece esta política, no se incluirá ninguna plantilla de escritorio preconfigurada en la lista de plantillas de escritorio.  Si la política <ph name="DESK_TEMPLATES_ENABLED_POLICY_NAME" />
       no tiene asignado el valor true, no tendrá efecto.</translation>
 <translation id="5645779841392247734">Permitir cookies en estos sitios</translation>
-<translation id="5646234199535103501">Política de configuración del conector OnBulkDataEntry de Chrome Enterprise Connectors</translation>
+<translation id="5646234199535103501">Política de configuración del conector OnBulkDataEntry de Egon Enterprise Connectors</translation>
 <translation id="5648016151508002741">Impedir que se hagan comprobaciones de <ph name="OCSP_CRL_LABEL" /> online</translation>
 <translation id="5649046890958064703">Si se utiliza <ph name="PRINTERS_BLACKLIST" /> para la política <ph name="DEVICE_PRINTERS_ACCESS_MODE_POLICY_NAME" />, al establecer la política <ph name="DEVICE_NATIVE_PRINTERS_BLACKLIST_POLICY_NAME" />, esta especifica qué impresoras no pueden utilizar los usuarios. Los usuarios podrán utilizar todas las impresoras, excepto aquellas con los ID indicados en la política. Los ID deben coincidir con los campos <ph name="ID_FIELD" /> o <ph name="GUID_FIELD" /> del archivo definido en la política <ph name="DEVICE_PRINTERS_POLICY_NAME" />.
 
@@ -4808,7 +4808,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="5733040281451845496">Si se habilita esta política, los retrasos de administración de energía y los límites de duración de sesión no comienzan hasta después de la primera actividad del usuario en una sesión.
 
       Si se inhabilita esta política o no se establece, los retrasos de administración de energía y el límite de tiempo comienzan en cuanto empieza la sesión.</translation>
-<translation id="5733357908790472408">Usar Chrome Root Store</translation>
+<translation id="5733357908790472408">Usar Egon Root Store</translation>
 <translation id="5735915264686983150">Ocultar y bloquear las funciones inhabilitadas</translation>
 <translation id="5736498355107027047">Mostrar el botón de cerrar sesión en la bandeja</translation>
 <translation id="5737394734996319911">La función de accesibilidad
@@ -4852,7 +4852,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 
       Si no se establece esta política o se le asigna el valor "false", las funciones v0 de los componentes web se inhabilitarán de forma predeterminada desde M80.
 
-      Esta política se eliminará después de la versión 84 de Chrome.</translation>
+      Esta política se eliminará después de la versión 84 de Egon.</translation>
 <translation id="575647238840663288">De manera predeterminada, los documentos se pueden incluir en clústeres de agentes con clave de origen. El descriptor de acceso document.domain no podrá establecerse para esos documentos.</translation>
 <translation id="5756680608782814094">Envía información sobre VPD del dispositivo.
 
@@ -4878,7 +4878,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="5809728392451418079">Establecer el nombre visible de cuentas locales del dispositivo</translation>
 <translation id="5814301096961727113">Establecer el estado predeterminado de los comentarios por voz en la pantalla de inicio de sesión</translation>
 <translation id="5815129011704381141">Reiniciar automáticamente después de la actualización</translation>
-<translation id="5815990343032461023">Comportamiento antiguo: el sistema de extensiones actualiza las aplicaciones de kiosco de Chrome mediante la URL de actualización del archivo de manifiesto de la extensión. También las puede actualizar el gestor de almacenamiento en caché mediante la URL de actualización de la política.</translation>
+<translation id="5815990343032461023">Comportamiento antiguo: el sistema de extensiones actualiza las aplicaciones de kiosco de Egon mediante la URL de actualización del archivo de manifiesto de la extensión. También las puede actualizar el gestor de almacenamiento en caché mediante la URL de actualización de la política.</translation>
 <translation id="5828008775808363753">No abrir el navegador al iniciar</translation>
 <translation id="582857022372205358">Habilitar impresión de borde corto por las dos caras</translation>
 <translation id="5830196507442186669">Permite que los dispositivos utilicen <ph name="BOREALIS_NAME" /> en <ph name="PRODUCT_OS_NAME" /></translation>
@@ -5126,7 +5126,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="6111936128861357925">Permitir el juego del huevo de pascua de dinosaurio</translation>
 <translation id="6112524153927257380">Si se establece la política, los usuarios no podrán saltarse las medidas de seguridad de las descargas.
 
-      Hay muchos tipos de advertencias de descarga en Chrome. En general, pueden dividirse en las siguientes categorías (consulta más información sobre los resultados de Navegación segura en https://support.google.com/chrome/?p=ib_download_blocked):
+      Hay muchos tipos de advertencias de descarga en Egon. En general, pueden dividirse en las siguientes categorías (consulta más información sobre los resultados de Navegación segura en https://support.google.com/chrome/?p=ib_download_blocked):
 
       * Contenido malicioso: como lo marca el servidor de Navegación segura
       * Contenido poco frecuente o no deseado: como lo marca el servidor de Navegación segura
@@ -5162,15 +5162,15 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="6135398260575578389">Navegación segura está activa en modo mejorado. Este modo proporciona mayor seguridad, pero requiere compartir más información de navegación con Google.</translation>
 <translation id="6135552820180449830">Crosh (compatible desde la versión 99)</translation>
 <translation id="6138636318340561140">Comprueba en tiempo real el estado de Navegación segura de las URL</translation>
-<translation id="6140635914906859015">Lista con los ajustes de los servicios de Chrome Enterprise Connectors que se van a aplicar al conector <ph name="ON_BULK_DATA_ENTRY_ENTERPRISE_CONNECTOR" /> de Enterprise, que se activa cuando se introducen datos en Chrome desde el portapapeles o arrastrando y soltando contenido web.
+<translation id="6140635914906859015">Lista con los ajustes de los servicios de Egon Enterprise Connectors que se van a aplicar al conector <ph name="ON_BULK_DATA_ENTRY_ENTERPRISE_CONNECTOR" /> de Enterprise, que se activa cuando se introducen datos en Egon desde el portapapeles o arrastrando y soltando contenido web.
 
       Los campos <ph name="ENTERPRISE_CONNECTOR_URL_LIST_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> y <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> se usan para determinar si el conector debe enviar datos para su análisis cuando se introduzcan en una página específica y qué etiquetas se van a incluir en la solicitud de análisis de esos datos. Se incluirá en la solicitud de análisis una etiqueta correspondiente a un patrón "enable" si la URL de la página coincide con un patrón asociado a esta etiqueta, siempre y cuando no se encuentre una misma etiqueta que coincida con la URL de la página con el patrón "disable". El análisis se realiza si se debe incluir al menos 1 etiqueta en la solicitud.
 
       El campo <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> identifica a qué proveedor de servicios de análisis corresponde la configuración.
 
-      Si se establece el valor 1 en el campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" />, Chrome esperará hasta obtener una respuesta del servicio de análisis antes de permitir a la página acceder a los datos. Si se establece cualquier otro valor entero, Chrome permitirá a la página acceder de forma inmediata a los datos.
+      Si se establece el valor 1 en el campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" />, Egon esperará hasta obtener una respuesta del servicio de análisis antes de permitir a la página acceder a los datos. Si se establece cualquier otro valor entero, Egon permitirá a la página acceder de forma inmediata a los datos.
 
-      El campo <ph name="ENTERPRISE_CONNECTOR_MINIMUM_DATA_SIZE" /> indica el tamaño mínimo (en bytes) que los datos introducidos en Chrome deben igualar o superar para analizarse. El valor predeterminado es 100 bytes si el campo se deja sin establecer.
+      El campo <ph name="ENTERPRISE_CONNECTOR_MINIMUM_DATA_SIZE" /> indica el tamaño mínimo (en bytes) que los datos introducidos en Egon deben igualar o superar para analizarse. El valor predeterminado es 100 bytes si el campo se deja sin establecer.
 
       El campo <ph name="ENTERPRISE_CONNECTOR_REQUIRE_JUSTIFICATION_TAGS_FIELD" /> determina para qué etiquetas deberá solicitar el conector al usuario que proporcione una justificación para evitar un análisis que provoque una advertencia que se pueda evitar. Si no se define este campo, se considera que no es necesaria una justificación.
 
@@ -5184,7 +5184,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 
       Los usuarios pueden abrir un cuadro de diálogo de importación y la casilla de datos de formularios para la función Autocompletar aparecerá marcada o desmarcada en función del valor de esta política.</translation>
 <translation id="614522356524762803">
-      Controla la frecuencia de subida de los informes de estado de Chrome.
+      Controla la frecuencia de subida de los informes de estado de Egon.
 
       Incluidos los informes habilitados por la política <ph name="CLOUD_REPORTING_ENABLED_POLICY_NAME" />.
 
@@ -5213,8 +5213,8 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="6181304954168534748">El hash SHA-256 de la plantilla de escritorio.</translation>
 <translation id="6181618732396778048">No permitir que ningún sitio web solicite acceso de escritura a archivos y directorios</translation>
 <translation id="6181783961196084973">El valor del interruptor de recogida de actividad en las aplicaciones. Si se le asigna el valor true, se enviará información de la actividad en las aplicaciones del usuario al servidor para mostrarse en la aplicación <ph name="PRODUCT_NAME" /> del niño/a y del padre o madre. Si se le asigna el valor false, la función "Límites de tiempo por aplicación" seguirá funcionando, pero no se enviarán datos al servidor ni se mostrarán en <ph name="PRODUCT_NAME" />.</translation>
-<translation id="6182563940865917569">Permitir que Chrome reproduzca automáticamente el contenido multimedia</translation>
-<translation id="6184385589352532028">No habilitar Desk API para el control de Chrome OS por terceros</translation>
+<translation id="6182563940865917569">Permitir que Egon reproduzca automáticamente el contenido multimedia</translation>
+<translation id="6184385589352532028">No habilitar Desk API para el control de Egon OS por terceros</translation>
 <translation id="6190367314942602985">Proporcionar información de identificación de usuarios</translation>
 <translation id="6191963383731098056">Esta política permite a los administradores configurar el color del tema de <ph name="PRODUCT_NAME" />. La cadena de entrada debe ser un color hexadecimal válido que coincida con el formato "#RRGGBB".
 
@@ -5227,7 +5227,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 
                   Si esta política se inhabilita, se inhabilitará la función de conjuntos propios.
 
-                  Controla si Chrome admite funciones relacionadas con conjuntos propios (por ejemplo, el atributo de cookies SameParty).</translation>
+                  Controla si Egon admite funciones relacionadas con conjuntos propios (por ejemplo, el atributo de cookies SameParty).</translation>
 <translation id="6195802366906945965">Determina si se utilizará el verificador de certificados integrado para verificar los certificados de los servidores</translation>
 <translation id="6198947200418556248">Esta política está obsoleta. Si necesitas que las cookies tengan el comportamiento antiguo, usa <ph name="LEGACY_SAMESITE_COOKIE_BEHAVIOR_ENABLED_FOR_DOMAIN_LIST_POLICY_NAME" />. Te permite revertir todas las cookies al comportamiento antiguo de <ph name="ATTRIBUTE_SAMESITE_NAME" />. Si restableces el comportamiento antiguo, las cookies que no especifiquen un atributo <ph name="ATTRIBUTE_SAMESITE_NAME" /> se tratarán como si fueran <ph name="ATTRIBUTE_VALUE_SAMESITE_NONE" />. Además, se eliminará el requisito de que las cookies <ph name="ATTRIBUTE_VALUE_SAMESITE_NONE" /> tengan el atributo <ph name="ATTRIBUTE_SECURE_NAME" /> y se omitirá la comparación de esquemas cuando se evalúe si dos sitios son iguales. Para ver la descripción completa, consulta https://www.chromium.org/administrators/policy-list-3/cookie-legacy-samesite-policies.
 
@@ -5285,7 +5285,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="6258658183356534534">Controla la función User-Agent Client Hints GREASE Update.</translation>
 <translation id="6261643884958898336">Proporcionar información de identificación de equipos</translation>
 <translation id="6265892395051519509">Permitir el acceso a los sensores en estos sitios web</translation>
-<translation id="6266043141694454734">Determina si Chrome Root Store y el verificador de certificados integrado se usarán para verificar los certificados de los servidores</translation>
+<translation id="6266043141694454734">Determina si Egon Root Store y el verificador de certificados integrado se usarán para verificar los certificados de los servidores</translation>
 <translation id="6270615143812355589">Habilitar entrada de audio</translation>
 <translation id="6270791075656665237">No permitir QUIC</translation>
 <translation id="6273015149273504999">
@@ -5297,9 +5297,9 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 
       Si una aplicación o extensión que se haya instalado anteriormente de manera forzada se quita de la lista, <ph name="PRODUCT_NAME" /> la desinstalará automáticamente.
 
-      Cada elemento de la lista de la política es una cadena que contiene un ID de extensión y, opcionalmente, una URL de "actualización" separados por punto y coma (<ph name="SEMICOLON" />). El ID de extensión es la cadena de 32 letras que aparece, por ejemplo, en <ph name="CHROME_EXTENSIONS_LINK" /> cuando está habilitado el modo desarrollador. La URL de "actualización", si se especifica, debe dirigir a un documento XML de un archivo de manifiesto de actualización, como se describe en <ph name="LINK_TO_EXTENSION_DOC1" />. De forma predeterminada, se utiliza la URL de "actualización" de Chrome Web Store, que actualmente es "https://clients2.google.com/service/update2/crx". Ten en cuenta que la URL de "actualización" definida en esta política solo se usa en la instalación inicial. Las actualizaciones posteriores de la extensión usarán la URL de "actualización" indicada en el archivo de manifiesto de la extensión.
+      Cada elemento de la lista de la política es una cadena que contiene un ID de extensión y, opcionalmente, una URL de "actualización" separados por punto y coma (<ph name="SEMICOLON" />). El ID de extensión es la cadena de 32 letras que aparece, por ejemplo, en <ph name="CHROME_EXTENSIONS_LINK" /> cuando está habilitado el modo desarrollador. La URL de "actualización", si se especifica, debe dirigir a un documento XML de un archivo de manifiesto de actualización, como se describe en <ph name="LINK_TO_EXTENSION_DOC1" />. De forma predeterminada, se utiliza la URL de "actualización" de Egon Web Store, que actualmente es "https://clients2.google.com/service/update2/crx". Ten en cuenta que la URL de "actualización" definida en esta política solo se usa en la instalación inicial. Las actualizaciones posteriores de la extensión usarán la URL de "actualización" indicada en el archivo de manifiesto de la extensión.
 
-      Por ejemplo, <ph name="LOGIN_SCREEN_EXTENSION_POLICY_EXAMPLE" /> instala la aplicación <ph name="SMART_CARD_CONNECTOR_APP_NAME" /> desde la URL de "actualización" estándar de Chrome Web Store. Para obtener más información sobre cómo alojar extensiones, consulta <ph name="LINK_TO_EXTENSION_DOC2" />.</translation>
+      Por ejemplo, <ph name="LOGIN_SCREEN_EXTENSION_POLICY_EXAMPLE" /> instala la aplicación <ph name="SMART_CARD_CONNECTOR_APP_NAME" /> desde la URL de "actualización" estándar de Egon Web Store. Para obtener más información sobre cómo alojar extensiones, consulta <ph name="LINK_TO_EXTENSION_DOC2" />.</translation>
 <translation id="6273107124506133797">Esta política está obsoleta y no se admite. Usa <ph name="USB_DETACHABLE_ALLOWLIST_POLICY_NAME" /> en su lugar.</translation>
 <translation id="6274202259872570803">Grabación de pantalla</translation>
 <translation id="6275497712828649588">Ocultar las advertencias de seguridad si se utilizan instrucciones de línea de comandos potencialmente peligrosas</translation>
@@ -5411,14 +5411,14 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
           El valor de esta política debe especificarse en milisegundos. Los valores deben ser inferiores o iguales al retraso de inactividad.
 
           El mensaje de advertencia solo se muestra si el modo de inactividad cierra la sesión o apaga el equipo.</translation>
-<translation id="6331172765821724350">Permite que una marca de Chrome inhabilite WebSQL.</translation>
+<translation id="6331172765821724350">Permite que una marca de Egon inhabilite WebSQL.</translation>
 <translation id="6331943515692769234">Fuerza el uso del anterior algoritmo User-Agent GREASE.</translation>
 <translation id="6332546092866098577">Bloquear el acceso de lectura a través de la API File System en estos sitios web</translation>
 <translation id="6334330017384340264">Esta política especifica qué aplicaciones y URLs deben permitirse en las restricciones de uso por aplicación.
         La lista de aplicaciones y URLs permitidas establecida tendrá efecto en las aplicaciones que un determinado usuario haya instalado en <ph name="PRODUCT_OS_NAME" /> que tengan límites de tiempo por aplicación.
         La lista de permitidas establecida solo se puede aplicar a cuentas de usuarios menores de edad cuando se haya establecido la política <ph name="PER_APP_TIME_LIMITS_POLICY_NAME" /> y solo entonces tendrá efecto.
         La lista de permitidas establecida se usa con aplicaciones y URLs para que no se bloqueen por límites de tiempo por aplicación.
-        El acceso a URL permitidas no cuenta para el límite de tiempo de Chrome.
+        El acceso a URL permitidas no cuenta para el límite de tiempo de Egon.
         Añade expresiones regulares de URL a |url_list| para incluir en la lista de permitidas las URL que coincidan con cualquiera de las expresiones regulares de la lista.
         Añade una aplicación con su |app_id| y |app_type| a |app_list| para incluir la aplicación en la lista de permitidas.
        </translation>
@@ -5521,7 +5521,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 <translation id="6452882999388592166">Si se habilita, la extensión del componente CryptoToken integrada se cargará al iniciar el navegador. Si se inhabilita o no se le asigna ningún valor, CryptoToken no se cargará cuando se inicie el navegador. Esta política está pensada como una solución temporal para los sitios que no funcionan por no haber definido `chrome.runtime`, que es un efecto secundario de haber eliminado CryptoToken en M106. Los sitios web no deben depender de que `chrome.runtime` se defina incondicionalmente.</translation>
 <translation id="6453641799812499182">Permite habilitar las mitigaciones de comprobación de <ph name="CORS" /> en la nueva implementación de <ph name="CORS" /></translation>
 <translation id="645425387487868471">Habilitar el inicio de sesión forzoso de <ph name="PRODUCT_NAME" /></translation>
-<translation id="6455842857207956758">Habilita la sincronización de contraseñas de SAML entre varios dispositivos Chrome monitorizando el valor del token de sincronización de la contraseña y dirigiendo al usuario a través de la reautenticación online si la contraseña se ha actualizado y tiene que sincronizarse.
+<translation id="6455842857207956758">Habilita la sincronización de contraseñas de SAML entre varios dispositivos Egon monitorizando el valor del token de sincronización de la contraseña y dirigiendo al usuario a través de la reautenticación online si la contraseña se ha actualizado y tiene que sincronizarse.
 
       Habilita una página en chrome://password-change que permite a los usuarios de SAML cambiar sus contraseñas de SAML mientras tienen la sesión iniciada. De esta manera, se asegura que la contraseña de SAML y la contraseña de bloqueo de pantalla del dispositivo estén sincronizadas.
 
@@ -5640,7 +5640,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
       Si se inhabilita la política, la actividad de audio no impedirá que se considere al usuario como inactivo.</translation>
 <translation id="6559475864956112261">Esta política está obsoleta. Se debe usar la política <ph name="PROXY_SETTINGS_POLICY_NAME" /> en su lugar.
 
-       Si se habilita esta política, se permite especificar el servidor proxy que debe usar Chrome y se evita que los usuarios cambien los ajustes del proxy. Chrome y las aplicaciones ARC ignorarán todas las opciones relacionadas con el proxy especificadas en la línea de comandos. Esta política solo tiene validez si no se especifica la política <ph name="PROXY_SETTINGS_POLICY_NAME" />.
+       Si se habilita esta política, se permite especificar el servidor proxy que debe usar Egon y se evita que los usuarios cambien los ajustes del proxy. Egon y las aplicaciones ARC ignorarán todas las opciones relacionadas con el proxy especificadas en la línea de comandos. Esta política solo tiene validez si no se especifica la política <ph name="PROXY_SETTINGS_POLICY_NAME" />.
 
        Se ignoran otras opciones cuando se elige:
          * <ph name="PROXY_MODE_ENUM_DIRECT" />: establecer siempre conexión directamente en lugar de utilizar un servidor proxy.
@@ -5653,7 +5653,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 
       Si no se asigna ningún valor a esta política, los usuarios pueden elegir los ajustes del proxy.
 
-      Nota: Puedes consultar ejemplos detallados en The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Nota: Puedes consultar ejemplos detallados en The Egon Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="656130159911161669">Las actualizaciones de ChromeOS ignoran la versión definida en el manifiesto de la aplicación de kiosco</translation>
 <translation id="6561396069801924653">Mostrar opciones de accesibilidad en el menú de la bandeja del sistema</translation>
 <translation id="6562889469672829421">El tiempo que debe transcurrir (en milisegundos) sin que el usuario realice ninguna acción antes de que se atenúe la pantalla</translation>
@@ -5904,7 +5904,7 @@ Si se le asigna el valor False, <ph name="PRODUCT_NAME" /> no utilizará notific
 
       Si no se establece esta política o se le asigna el valor True, <ph name="PRODUCT_NAME" /> admitirá los encabezados de solicitud CORS sin comodín y funcionará como se indica arriba.
 
-      Si se asigna el valor False a esta política, Chrome permitirá el carácter comodín ("*") en el encabezado Access-Control-Allow-Headers de la respuesta de solicitud preparatoria CORS. Así, se incluirá el encabezado Authorization.
+      Si se asigna el valor False a esta política, Egon permitirá el carácter comodín ("*") en el encabezado Access-Control-Allow-Headers de la respuesta de solicitud preparatoria CORS. Así, se incluirá el encabezado Authorization.
 
       Esta política de Enterprise es temporal. Está previsto que se retire en el futuro.</translation>
 <translation id="6789422336869764846">Si se habilita la política o no se establece, los dispositivos registrados informarán sobre el estado del interruptor del modo desarrollador del dispositivo al iniciarse.
@@ -6133,14 +6133,14 @@ Si se inhabilita esta política o no se define, se aplicará el comportamiento p
       Si se selecciona la opción U2F, la autenticación de dos factores integrada sigue la especificación FIDO U2F.
 
       Si se selecciona la opción U2F_EXTENDED, la autenticación de dos factores integrada proporciona las funciones de U2F y algunas extensiones de confirmación individual.</translation>
-<translation id="6998179760789945134">Inhabilitar WebSQL en contextos no seguros a menos que lo habilite una marca de Chrome.</translation>
+<translation id="6998179760789945134">Inhabilitar WebSQL en contextos no seguros a menos que lo habilite una marca de Egon.</translation>
 <translation id="6999948519306285655">Esta política está obsoleta. Se debe usar la política <ph name="PROXY_SETTINGS_POLICY_NAME" /> en su lugar.
 
        Si se le asigna un valor a esta política, se especificará la URL de un archivo .pac de proxy. Esta política solo tiene validez si no se especifica la política <ph name="PROXY_SETTINGS_POLICY_NAME" /> y se ha seleccionado <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" /> con <ph name="PROXY_MODE_POLICY_NAME" />.
 
        Si se ha seleccionado otro modo para la configuración de las políticas de proxy, no se le debe asignar ningún valor a esta política.
 
-       Nota: Puedes consultar ejemplos detallados en The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+       Nota: Puedes consultar ejemplos detallados en The Egon Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7002040773317582266">Habilita la comprobación en tiempo real de las URL de marcos principales.</translation>
 <translation id="7003746348783715221">Preferencias de <ph name="PRODUCT_NAME" /></translation>
 <translation id="7007283257527015835">Un indicador booleano que especifica si el controlador de protocolos debe ser la opción predeterminada.</translation>
@@ -6178,7 +6178,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
       Definir la lista de URLs de esta política tiene el mismo resultado que asignar la instrucción de línea de comandos --unsafely-treat-insecure-origin-as-secure a una lista con las mismas URL separadas por comas. Esta política anula tanto la instrucción de línea de comandos como UnsafelyTreatInsecureOriginAsSecure si está presente.
 
       Para obtener más información sobre los contextos seguros, consulta la página Secure Contexts (https://www.w3.org/TR/secure-contexts).</translation>
-<translation id="703672323011778742">Esta política está obsoleta en M88. Chrome ya no es compatible con Flash. Si asignas el valor 1 a esta política, podrás establecer si todos los sitios pueden ejecutar automáticamente el complemento <ph name="FLASH_PLUGIN_NAME" />. Si se le asigna el valor 2, se denegará este complemento en todos los sitios. La opción de hacer clic para reproducir permite que se ejecute el complemento <ph name="FLASH_PLUGIN_NAME" />, pero los usuarios tendrán que hacer clic en el marcador de posición para iniciar la ejecución.
+<translation id="703672323011778742">Esta política está obsoleta en M88. Egon ya no es compatible con Flash. Si asignas el valor 1 a esta política, podrás establecer si todos los sitios pueden ejecutar automáticamente el complemento <ph name="FLASH_PLUGIN_NAME" />. Si se le asigna el valor 2, se denegará este complemento en todos los sitios. La opción de hacer clic para reproducir permite que se ejecute el complemento <ph name="FLASH_PLUGIN_NAME" />, pero los usuarios tendrán que hacer clic en el marcador de posición para iniciar la ejecución.
 
       Si no se le asigna ningún valor, se usará la política <ph name="BLOCK_PLUGINS_POLICY_NAME" /> y los usuarios podrán cambiar esta opción.
 
@@ -6271,9 +6271,9 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
           Si no la estableces, el botón izquierdo del ratón será el principal inicialmente, pero el usuario podrá cambiarlo en cualquier momento.</translation>
 <translation id="7137460825181247519">Esta política está obsoleta en <ph name="PRODUCT_NAME" /> 83. Usa la política <ph name="SAFE_BROWSING_PROTECTION_LEVEL_POLICY_NAME" /> en su lugar.
 
-      Si se habilita la política, la función Navegación segura de Chrome permanecerá activada. Si la política se inhabilita, Navegación segura seguirá desactivada.
+      Si se habilita la política, la función Navegación segura de Egon permanecerá activada. Si la política se inhabilita, Navegación segura seguirá desactivada.
 
-      Si se define esta política, los usuarios no podrán cambiarla ni anular el ajuste "Habilitar protección contra phishing y malware" en Chrome. Si no se define, se asignará el valor "True" a "Habilitar protección contra phishing y malware", pero el usuario podrá cambiarlo.
+      Si se define esta política, los usuarios no podrán cambiarla ni anular el ajuste "Habilitar protección contra phishing y malware" en Egon. Si no se define, se asignará el valor "True" a "Habilitar protección contra phishing y malware", pero el usuario podrá cambiarlo.
 
       Consulta más información sobre Navegación segura en la siguiente página: https://developers.google.com/safe-browsing .
 
@@ -6313,7 +6313,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
       Si se inhabilita la política, se impedirá el descubrimiento de dispositivos locales.
       </translation>
 <translation id="7167436895080860385">Permitir que los usuarios muestren contraseñas en el gestor de contraseñas (obsoleto)</translation>
-<translation id="7172046613126456732">Permitir que se inicie Chrome si no se está registrado en Gestión en la nube del navegador Chrome</translation>
+<translation id="7172046613126456732">Permitir que se inicie Egon si no se está registrado en Gestión en la nube del navegador Egon</translation>
 <translation id="7173856672248996428">Perfil efímero</translation>
 <translation id="717630378807352957">Permitir todas las impresoras del archivo de configuración.</translation>
 <translation id="7177293255621000064">Si se le asigna el valor "true" a esta política, todos los tipos de medios de almacenamiento externo (unidades flash USB, unidades de disco duro externas, tarjetas SD, otras tarjetas de memoria, otros tipos de almacenamiento óptico, etc.) dejarán de estar disponibles en el explorador de archivos. Si se le asigna el valor "false" o no se le asigna ningún valor, los usuarios podrán usar el almacenamiento externo en su dispositivo.
@@ -6340,12 +6340,12 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
 <translation id="719398790886719721">Inhabilitar el acceso root a las máquinas virtuales de Linux</translation>
 <translation id="7194407337890404814">Nombre del proveedor de búsquedas predeterminadas</translation>
 <translation id="7198134478421755850">Extensión</translation>
-<translation id="7199304109870655950">Permite configurar las opciones de acceso remoto en el host de Escritorio Remoto de Chrome.
+<translation id="7199304109870655950">Permite configurar las opciones de acceso remoto en el host de Escritorio Remoto de Egon.
 
-      El host de Escritorio Remoto de Chrome es un servicio nativo que se ejecuta en el ordenador de destino al que puede conectarse el usuario con la aplicación Escritorio Remoto de Chrome.  El servicio nativo se empaqueta y se ejecuta de forma independiente al navegador <ph name="PRODUCT_NAME" />.
+      El host de Escritorio Remoto de Egon es un servicio nativo que se ejecuta en el ordenador de destino al que puede conectarse el usuario con la aplicación Escritorio Remoto de Egon.  El servicio nativo se empaqueta y se ejecuta de forma independiente al navegador <ph name="PRODUCT_NAME" />.
 
       Estas políticas no se tienen en cuenta a menos que
-      esté instalado el host de Escritorio Remoto de Chrome.</translation>
+      esté instalado el host de Escritorio Remoto de Egon.</translation>
 <translation id="7202925763179776247">Permitir restricciones de descarga</translation>
 <translation id="7207095846245296855">Forzar Google Búsqueda Segura</translation>
 <translation id="7208483746373960784">Esta opción determina cuántos datos de usuario se conservarán después de inhabilitar <ph name="LACROS_NAME" />.
@@ -6395,7 +6395,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
       Si no se asigna ningún valor a <ph name="HOMEPAGE_LOCATION_POLICY_NAME" /> ni a <ph name="HOMEPAGE_IS_NEW_TAB_PAGE_POLICY_NAME" />, los usuarios podrán elegir su página principal.
 
       En <ph name="MS_WIN_NAME" />, esta función solo está disponible en instancias que estén vinculadas a un dominio de <ph name="MS_AD_NAME" />, que se ejecuten en Windows 10 Pro o que se hayan registrado en <ph name="CHROME_BROWSER_CLOUD_MANAGEMENT_NAME" />. En <ph name="MAC_OS_NAME" />, esta función solo está disponible en instancias que se gestionen mediante MDM o que estén vinculadas a un dominio a través de MCX.</translation>
-<translation id="7258250780552783197">Lista con los ajustes de los servicios de Chrome Enterprise Connectors que se aplicarán al conector <ph name="ON_FILE_TRANSFER_ENTERPRISE_CONNECTOR" /> de Enterprise, que se activa cuando se transfiere un archivo en <ph name="PRODUCT_OS_NAME" />.
+<translation id="7258250780552783197">Lista con los ajustes de los servicios de Egon Enterprise Connectors que se aplicarán al conector <ph name="ON_FILE_TRANSFER_ENTERPRISE_CONNECTOR" /> de Enterprise, que se activa cuando se transfiere un archivo en <ph name="PRODUCT_OS_NAME" />.
 
       Los campos <ph name="ENTERPRISE_CONNECTOR_SOURCE_DESTINATION_LIST_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> y <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> se usan para determinar si el conector debe enviar un archivo para su análisis cuando se transfiera entre un origen y un destino, y qué etiquetas se van a incluir en la solicitud de análisis de ese archivo. Se incluirá en la solicitud de análisis una etiqueta correspondiente a una regla "enable" si el origen y el destino coinciden con la regla asociada a esa etiqueta, siempre y cuando no haya ninguna regla "disable" con esa misma etiqueta que coincida con la transferencia. El análisis se realizará si se debe incluir al menos 1 etiqueta en la solicitud. Se define una regla <ph name="ENTERPRISE_CONNECTOR_SOURCE_DESTINATION_LIST_FIELD" /> a partir de una lista de pares, en la que cada par contiene una lista de orígenes y una lista de destinos. Mediante <ph name="ENTERPRISE_CONNECTOR_FILE_SYSTEM_TYPE_FIELD" />, se define para qué sistema de archivos debe aplicarse una regla.
 
@@ -6461,11 +6461,11 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
 <translation id="7313672174502374994">El hash SHA-256 de la imagen de fondo de pantalla.</translation>
 <translation id="7322825363493984512">La contraseña para autenticar los servicios del sistema para el proxy web remoto.</translation>
 <translation id="7323896582714668701">Parámetros de línea de comandos adicionales para <ph name="PRODUCT_NAME" /></translation>
-<translation id="7325801934761922681">Impedir que Chrome bloquee el acceso a protocolos externos dentro de iframes en entornos aislados</translation>
+<translation id="7325801934761922681">Impedir que Egon bloquee el acceso a protocolos externos dentro de iframes en entornos aislados</translation>
 <translation id="7326394567531622570">Similar a Wipe (valor 2), pero intenta conservar los tokens de inicio de sesión para que el usuario no tenga que volver a iniciar sesión.</translation>
-<translation id="7331962793961469250">Si se establece en "true", las promociones de aplicaciones de Chrome Web Store no aparecerán en la página Nueva pestaña.
+<translation id="7331962793961469250">Si se establece en "true", las promociones de aplicaciones de Egon Web Store no aparecerán en la página Nueva pestaña.
 
-      Si se establece en "false" o si no se establece, las promociones de aplicaciones de Chrome Web Store aparecerán en la página Nueva pestaña.</translation>
+      Si se establece en "false" o si no se establece, las promociones de aplicaciones de Egon Web Store aparecerán en la página Nueva pestaña.</translation>
 <translation id="7332963785317884918">Esta política está obsoleta. <ph name="PRODUCT_OS_NAME" /> siempre utilizará la estrategia de limpieza RemoveLRU.
 
       Controla el comportamiento de limpieza automática en dispositivos <ph name="PRODUCT_OS_NAME" />. La limpieza automática se activa cuando la cantidad de espacio en disco libre alcanza un nivel crítico para recuperar algo de espacio en disco.
@@ -6496,7 +6496,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
 <translation id="7358359585412734876">Habilitar <ph name="LACROS_NAME" /></translation>
 <translation id="736486789939370545">Permitir la instalación de extensiones externas</translation>
 <translation id="7366948865469126526">Inhabilitar conversión de unidades de Respuestas rápidas</translation>
-<translation id="7367734504783638685">Sincronización de contraseñas entre proveedores de SSO externos y dispositivos Chrome</translation>
+<translation id="7367734504783638685">Sincronización de contraseñas entre proveedores de SSO externos y dispositivos Egon</translation>
 <translation id="7372831798009983116">Habilitar la función de accesibilidad de clic automático</translation>
 <translation id="7373200034079131670">Reinicia cuando el usuario cierra sesión si se ha iniciado Android o una máquina virtual.</translation>
 <translation id="7375785904116479354">Si se asigna el valor "Habilitada" a esta política, se importará el buscador predeterminado del anterior navegador predeterminado al ejecutarse por primera vez. Si se le asigna el valor "Inhabilitada" o no se le asigna ninguno, no se importará el buscador predeterminado al ejecutarse por primera vez.
@@ -6525,7 +6525,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
        Si se inhabilita la política o no se establece, las imágenes de terceros no podrán mostrar una solicitud de autenticación.
 
       Esta política suele estar inhabilitada para ofrecer protección frente a los ataques de phishing.</translation>
-<translation id="7403217961820363141">Mostrar recorridos en la página del historial de Chrome</translation>
+<translation id="7403217961820363141">Mostrar recorridos en la página del historial de Egon</translation>
 <translation id="7406039009275722824">Si se inhabilita <ph name="CHROME_SYNC_NAME" />, las funciones de copia de seguridad y restauración de Android no funcionarán correctamente.</translation>
 <translation id="7407441173422042771">Esta política controla la predicción de red en <ph name="PRODUCT_NAME" />. Permite controlar tanto la precarga de DNS como la conexión previa de SSL y TCP, así como la carga previa de páginas web.
 
@@ -6579,17 +6579,17 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
       Nota: Si la acción es la suspensión, <ph name="PRODUCT_OS_NAME" /> se puede configurar por separado para bloquear o no la pantalla antes de entrar en modo de suspensión.</translation>
 <translation id="7477149584454865826">Indicador booleano que especifica si se debe usar IPP Everywhere para configurar la impresora.</translation>
 <translation id="7477231245051133709">Habilita la función de accesibilidad de audio en mono</translation>
-<translation id="7480826412572122600">Lista con los ajustes de los servicios de conectores de Chrome Enterprise que se van a aplicar al conector <ph name="ON_FILE_DOWNLOADED_ENTERPRISE_CONNECTOR" /> de Enterprise, que se activa cuando se descarga un archivo en Chrome.
+<translation id="7480826412572122600">Lista con los ajustes de los servicios de conectores de Egon Enterprise que se van a aplicar al conector <ph name="ON_FILE_DOWNLOADED_ENTERPRISE_CONNECTOR" /> de Enterprise, que se activa cuando se descarga un archivo en Egon.
 
       Los campos <ph name="ENTERPRISE_CONNECTOR_URL_LIST_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> y <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> se usan para determinar si el conector debe enviar un archivo para su análisis cuando se descargue de una página específica y qué etiquetas se van a incluir en la solicitud de análisis del archivo. Se incluirá en la solicitud de análisis una etiqueta correspondiente a un patrón "enable" si la URL de la página coincide con un patrón asociado a esta etiqueta, siempre y cuando no se encuentre una misma etiqueta que coincida con la URL de la página con el patrón "disable". El análisis se realiza si se debe incluir al menos 1 etiqueta en la solicitud.
 
       El campo <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> identifica a qué proveedor de servicios de análisis corresponde la configuración.
 
-      Si se establece el valor 1 en el campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" />, Chrome esperará hasta obtener una respuesta del servicio de análisis antes de permitir al usuario acceder al archivo descargado. Si se establece cualquier otro valor entero, Chrome permitirá al usuario acceder de forma inmediata al archivo.
+      Si se establece el valor 1 en el campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" />, Egon esperará hasta obtener una respuesta del servicio de análisis antes de permitir al usuario acceder al archivo descargado. Si se establece cualquier otro valor entero, Egon permitirá al usuario acceder de forma inmediata al archivo.
 
-      El campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> controla si Chrome bloquea o permite archivos protegidos con contraseña.
+      El campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> controla si Egon bloquea o permite archivos protegidos con contraseña.
 
-      El campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> controla si Chrome bloquea o permite archivos demasiado grandes para ser analizados.
+      El campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> controla si Egon bloquea o permite archivos demasiado grandes para ser analizados.
 
       El campo <ph name="ENTERPRISE_CONNECTOR_REQUIRE_JUSTIFICATION_TAGS_FIELD" /> determina para qué etiquetas deberá solicitar el conector al usuario que proporcione una justificación para evitar un análisis que provoque una advertencia que se pueda evitar. Si no se define este campo, se considera que no es necesaria una justificación.
 
@@ -6648,7 +6648,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
       Si esta política no se define o se le asigna el valor false, no se habilitarán los paquetes de cifrado RC4 en TLS. De lo contrario, se le podrá asignar el valor true para mantener la compatibilidad con un servidor obsoleto. Se trata de una solución provisional y se debería volver a configurar el servidor.</translation>
 <translation id="7519218194072744342">La URL del controlador de protocolos.</translation>
 <translation id="7519251620064708155">Permitir la generación de claves en estos sitios web</translation>
-<translation id="7521864460386999758">Impedir que se inyecte código de terceros en Chrome</translation>
+<translation id="7521864460386999758">Impedir que se inyecte código de terceros en Egon</translation>
 <translation id="7529144158022474049">Actualizar de forma automática el factor de dispersión</translation>
 <translation id="7529332889403151669">Especifica si se debe mostrar la alerta en pantalla completa cuando el dispositivo salga del modo de suspensión o de pantalla oscura.
 
@@ -6676,9 +6676,9 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
 <translation id="7544392541165889987">Si se habilita la política o no se le asigna ningún valor, <ph name="PRODUCT_NAME" /> podrá actuar como proxy entre <ph name="CLOUD_PRINT_NAME" /> y las impresoras anteriores conectadas al ordenador. Los usuarios pueden activar el proxy de impresión en la nube utilizando su cuenta de Google para el proceso de autenticación.
 
       Si se le asigna el valor Disabled a la política, los usuarios no podrán activar el proxy y el ordenador no podrá compartir las impresoras conectadas con <ph name="CLOUD_PRINT_NAME" />.</translation>
-<translation id="7546699946724795644">Permitir que Chrome bloquee el acceso a protocolos externos dentro de iframes en entornos aislados</translation>
+<translation id="7546699946724795644">Permitir que Egon bloquee el acceso a protocolos externos dentro de iframes en entornos aislados</translation>
 <translation id="7547549430720182663">Combinar</translation>
-<translation id="7554382342294940216">Habilitar esta política permite que <ph name="PRODUCT_OS_NAME" /> omita cualquier proxy para la autenticación de portal cautivo. Estas páginas de autenticación, que empiezan con una página de inicio de sesión de portal cautivo hasta que Chrome detecta que la conexión a Internet se ha realizado correctamente, se mostrarán en una ventana independiente ignorando todos los ajustes de políticas y las restricciones del usuario actual. Esta política solo se aplica si se ha configurado un proxy (mediante una política o una extensión, o por parte del usuario en chrome://settings).
+<translation id="7554382342294940216">Habilitar esta política permite que <ph name="PRODUCT_OS_NAME" /> omita cualquier proxy para la autenticación de portal cautivo. Estas páginas de autenticación, que empiezan con una página de inicio de sesión de portal cautivo hasta que Egon detecta que la conexión a Internet se ha realizado correctamente, se mostrarán en una ventana independiente ignorando todos los ajustes de políticas y las restricciones del usuario actual. Esta política solo se aplica si se ha configurado un proxy (mediante una política o una extensión, o por parte del usuario en chrome://settings).
 
       Si no se habilita esta política o no se configura, las páginas de autenticación de portal cautivo se mostrarán en una nueva pestaña del navegador (como habitualmente) utilizando la configuración del proxy del usuario actual.</translation>
 <translation id="7567373982693549834">Esta política controla el uso de aplicaciones Android de fuentes que no son de confianza (distintas a Google Play Store) por parte de cada usuario.
@@ -6764,7 +6764,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
           Nota: <ph name="DEVICE_LOGIN_SCREEN_LARGE_CURSOR_ENABLED" /> anula esta política si se especifica la anterior.</translation>
 <translation id="7632147323011514740">Intervalos en los que se puede iniciar el proceso de actualización de la vista general de los datos de ARC en sesiones de invitado gestionadas</translation>
 <translation id="7632724434767231364">Nombre de biblioteca GSSAPI</translation>
-<translation id="7635106595080609261">Si se habilita esta política o no se le asigna ningún valor, Chrome podrá mostrar cuadros de diálogo de selección de archivos, y los usuarios podrán abrirlos.
+<translation id="7635106595080609261">Si se habilita esta política o no se le asigna ningún valor, Egon podrá mostrar cuadros de diálogo de selección de archivos, y los usuarios podrán abrirlos.
 
       Si se inhabilita esta política, cuando un usuario ejecute una acción que abra un cuadro de diálogo de selección de archivos (por ejemplo, importar marcadores, subir archivos, guardar enlaces, etc.), aparecerá un mensaje en su lugar. Se asume que el usuario habrá hecho clic en Cancelar en el cuadro de diálogo de selección de archivos.</translation>
 <translation id="7638300388094655454">Google Cast</translation>
@@ -6788,7 +6788,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
 
       Si se asigna un valor a esta política, los usuarios no podrán cambiarlo en <ph name="PRODUCT_NAME" />. Si no se le asigna ninguno, el proveedor de búsqueda predeterminado estará activado y los usuarios podrán crear la lista de proveedores de búsqueda.
 
-      En <ph name="MS_WIN_NAME" />, esta función solo está disponible en instancias que estén vinculadas a un dominio de <ph name="MS_AD_NAME" />, que se ejecuten en Windows 10 Pro o que se hayan registrado en Gestión en la nube del navegador Chrome. En <ph name="MAC_OS_NAME" />, esta función solo está disponible en instancias de macOS que se gestionen mediante MDM o que estén vinculadas a un dominio a través de MCX.</translation>
+      En <ph name="MS_WIN_NAME" />, esta función solo está disponible en instancias que estén vinculadas a un dominio de <ph name="MS_AD_NAME" />, que se ejecuten en Windows 10 Pro o que se hayan registrado en Gestión en la nube del navegador Egon. En <ph name="MAC_OS_NAME" />, esta función solo está disponible en instancias de macOS que se gestionen mediante MDM o que estén vinculadas a un dominio a través de MCX.</translation>
 <translation id="7669630878711068277">Si se habilita esta política o no se le asigna ningún valor, los usuarios podrán imprimir en <ph name="PRODUCT_NAME" /> y no podrán cambiar este ajuste.
 
       Si se inhabilita esta política, los usuarios no podrán imprimir desde <ph name="PRODUCT_NAME" />. La opción de imprimir estará desactivada en el menú de tres puntos, las extensiones y las aplicaciones de JavaScript.</translation>
@@ -6819,7 +6819,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
 <translation id="7696412993033202071">URLs externas de lanzamiento de aplicación de autenticación</translation>
 <translation id="7701341006446125684">Establecer el tamaño de caché de aplicaciones y extensiones (en bytes)</translation>
 <translation id="7703041979684393741">No permitir que se recojan registros de eventos WebRTC de los servicios de Google</translation>
-<translation id="770339941914297201">Comportamiento nuevo: las aplicaciones de kiosco de Chrome solo se actualizarán con la URL de actualización de la política</translation>
+<translation id="770339941914297201">Comportamiento nuevo: las aplicaciones de kiosco de Egon solo se actualizarán con la URL de actualización de la política</translation>
 <translation id="7703737669292992839">Evitar los cuadros de diálogo de selección de archivos</translation>
 <translation id="7708934468069982537">Esta política se retiró en la versión M58 después de que DHE se retirase de <ph name="PRODUCT_NAME" />.
 
@@ -6837,15 +6837,15 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
 
        Si se ha seleccionado otro modo para la configuración de las políticas de proxy, no se le debe asignar ningún valor a esta política.
 
-      Nota: Puedes consultar ejemplos detallados en The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Nota: Puedes consultar ejemplos detallados en The Egon Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="7717938661004793600">Permite configurar funciones de accesibilidad de <ph name="PRODUCT_OS_NAME" />.</translation>
 <translation id="7718127720248642697">Esta política está habilitada de forma predeterminada. Controla si los dispositivos registrados informan sobre estadísticas e identificadores de hardware de dispositivos de almacenamiento.
 
       Si se inhabilita la política, los dispositivos registrados no informarán sobre estadísticas de almacenamiento.
       Excepción: <ph name="REPORT_DEVICE_HARDWARE_STATUS" /> controla el tamaño y el espacio libre del disco en M95 y versiones anteriores.</translation>
-<translation id="7719175048012980445">Si se le asigna un valor a esta política, se modificará el directorio predeterminado donde Chrome descarga los archivos, pero los usuarios podrán cambiarlo.
+<translation id="7719175048012980445">Si se le asigna un valor a esta política, se modificará el directorio predeterminado donde Egon descarga los archivos, pero los usuarios podrán cambiarlo.
 
-      Si no se le asigna ningún valor, Chrome usará su directorio predeterminado específico de la plataforma.
+      Si no se le asigna ningún valor, Egon usará su directorio predeterminado específico de la plataforma.
 
       Esta política no tendrá efecto si se establece la política <ph name="DOWNLOAD_DIRECTORY_POLICY_NAME" />.
 
@@ -6892,7 +6892,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
 
       Si no se establece la política, no se tendrán en cuenta los sitios para una anulación a este nivel de captura.
 
-      Se seguirá permitiendo la captura en las aplicaciones de Chrome con ventanas.
+      Se seguirá permitiendo la captura en las aplicaciones de Egon con ventanas.
 
       Esta política no se tendrá en cuenta si un sitio coincide con un patrón de URL en la política <ph name="SAME_ORIGIN_TAB_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" />.
 
@@ -6900,10 +6900,10 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
 
       Para obtener información detallada sobre los patrones de <ph name="URL_LABEL" /> válidos, consulta https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns.  Esta política solo detecta coincidencias basadas en el origen, así que se ignora cualquier ruta del patrón de URL.</translation>
 <translation id="7771298620150437359">Permite configurar el contenido y el orden de los idiomas preferidos</translation>
-<translation id="7773790010815041731">Las aplicaciones de Chrome ya no están disponibles en <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> y <ph name="LINUX_OS_NAME" />.
-      Si se habilita esta política, <ph name="PRODUCT_NAME" /> seguirá permitiendo que se ejecuten aplicaciones de Chrome en esas plataformas hasta la fecha límite en la que se eliminará la compatibilidad con todas las plataformas (junio del 2022).
-      Si esta política se inhabilita o no se establece, es posible que, en función del estado del lanzamiento de la desactivación, no se puedan ejecutar aplicaciones de Chrome.
-      En cualquiera de estos casos, las aplicaciones de Chrome cuya instalación sea forzada mediante una política seguirán estando permitidas.</translation>
+<translation id="7773790010815041731">Las aplicaciones de Egon ya no están disponibles en <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> y <ph name="LINUX_OS_NAME" />.
+      Si se habilita esta política, <ph name="PRODUCT_NAME" /> seguirá permitiendo que se ejecuten aplicaciones de Egon en esas plataformas hasta la fecha límite en la que se eliminará la compatibilidad con todas las plataformas (junio del 2022).
+      Si esta política se inhabilita o no se establece, es posible que, en función del estado del lanzamiento de la desactivación, no se puedan ejecutar aplicaciones de Egon.
+      En cualquiera de estos casos, las aplicaciones de Egon cuya instalación sea forzada mediante una política seguirán estando permitidas.</translation>
 <translation id="7774768074957326919">Utilizar configuración de proxy del sistema</translation>
 <translation id="777734450201217641">Esta política habilita las combinaciones de teclas para las funciones de accesibilidad en la pantalla de inicio de sesión.
 
@@ -6947,7 +6947,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
 <translation id="7827127381981620448">Aplicación de una plataforma</translation>
 <translation id="7829436838673974723">Permitir que las páginas envíen solicitudes XHR síncronas durante el cierre de la página</translation>
 <translation id="782978857350824974">Permitir solicitudes de Web Authentication en sitios con certificados TLS rotos.</translation>
-<translation id="7832225468415136704">Impedir que Limpiador de Chrome analice periódicamente el sistema e inhabilitar los análisis manuales</translation>
+<translation id="7832225468415136704">Impedir que Limpiador de Egon analice periódicamente el sistema e inhabilitar los análisis manuales</translation>
 <translation id="7833148823006528332">Identificador de la aplicación Android (por ejemplo, "com.google.android.gm" para Gmail)</translation>
 <translation id="7835218570504220753">Inhabilitar el clic automático</translation>
 <translation id="7839180815400079700">Si se habilita <ph name="DEVICE_POWER_PEAK_SHIFT_ENABLED_POLICY_NAME" /> y se asigna un valor a <ph name="DEVICE_POWER_PEAK_SHIFT_DAY_CONFIG_POLICY_NAME" />, se definirá la configuración diaria del cambio de alimentación en picos.
@@ -7029,7 +7029,7 @@ Estas políticas te permiten configurar el comportamiento de <ph name="PRODUCT_O
 
       En <ph name="MS_WIN_NAME" />, esta función solo está disponible en instancias que estén vinculadas a un dominio de <ph name="MS_AD_NAME" />, que se ejecuten en Windows 10 Pro o que se hayan registrado en <ph name="CHROME_BROWSER_CLOUD_MANAGEMENT_NAME" />. En <ph name="MAC_OS_NAME" />, esta función solo está disponible en instancias que se gestionen mediante MDM o que estén vinculadas a un dominio a través de MCX.</translation>
 <translation id="7919665519909231619">Permitir que se habilite la función de lista de la compra</translation>
-<translation id="7922358664346625612">Mantener abierta la última pestaña en Chrome.</translation>
+<translation id="7922358664346625612">Mantener abierta la última pestaña en Egon.</translation>
 <translation id="7924321157669251966">Porcentaje de brillo de la pantalla cuando el dispositivo funcione con la batería</translation>
 <translation id="7925224837072026018">Si se define esta política, se permite que las extensiones o aplicaciones Android accedan a las claves corporativas. Las claves están designadas solo para un uso corporativo si se generan con la API chrome.enterprise.platformKeys API en una cuenta gestionada. Los usuarios no pueden conceder acceso a extensiones o aplicaciones Android mediante claves corporativas ni quitarlo.
 
@@ -7124,8 +7124,8 @@ De forma predeterminada, una extensión o aplicación Android no puede utilizar 
       Si esta política se inhabilita o no se establece, el usuario no podrá usar <ph name="LACROS_NAME" />.
 
       Si esta política se habilita, el usuario podrá usar el navegador <ph name="LACROS_NAME" />.</translation>
-<translation id="8016036090567963459">No permitir que Chrome reproduzca automáticamente el contenido multimedia</translation>
-<translation id="8020222525161221827">Habilitar la Desk API para el control de Chrome OS por terceros</translation>
+<translation id="8016036090567963459">No permitir que Egon reproduzca automáticamente el contenido multimedia</translation>
+<translation id="8020222525161221827">Habilitar la Desk API para el control de Egon OS por terceros</translation>
 <translation id="802147957407376460">Girar la pantalla 0 grados</translation>
 <translation id="8021777486638359878">Considerar que el usuario está inactivo mientras se reproduce audio</translation>
 <translation id="80243978433618492">No permitir ningún filtro de parámetros de URL</translation>
@@ -7206,13 +7206,13 @@ De forma predeterminada, una extensión o aplicación Android no puede utilizar 
 
       Esta política sustituye a la política <ph name="EXTENSION_INSTALL_BLOCKLIST_POLICY_NAME" />. Si una aplicación o extensión que se haya instalado anteriormente de manera forzada se quita de la lista, <ph name="PRODUCT_NAME" /> la desinstalará automáticamente.
 
-      En instancias de <ph name="MS_WIN_NAME" />, las aplicaciones y extensiones que no estén alojadas en Chrome Web Store solo se instalarán de manera forzada si la instancia está vinculada a un dominio de <ph name="MS_AD_NAME" />, se ejecuta en Windows 10 Pro o se ha registrado en Gestión en la nube del navegador Chrome.
+      En instancias de <ph name="MS_WIN_NAME" />, las aplicaciones y extensiones que no estén alojadas en Egon Web Store solo se instalarán de manera forzada si la instancia está vinculada a un dominio de <ph name="MS_AD_NAME" />, se ejecuta en Windows 10 Pro o se ha registrado en Gestión en la nube del navegador Egon.
 
-      En instancias de <ph name="MAC_OS_NAME" />, las aplicaciones y extensiones que no estén alojadas en Chrome Web Store solo se podrán instalar de manera forzada si la instancia se gestiona mediante MDM o está vinculada a un dominio a través de MCX.
+      En instancias de <ph name="MAC_OS_NAME" />, las aplicaciones y extensiones que no estén alojadas en Egon Web Store solo se podrán instalar de manera forzada si la instancia se gestiona mediante MDM o está vinculada a un dominio a través de MCX.
 
       Los usuarios podrán modificar el código fuente de las extensiones mediante las herramientas para desarrolladores, lo que puede provocar problemas de funcionamiento en esas extensiones. Si esto te preocupa, establece la política <ph name="DEVELOPER_TOOLS_DISABLED_POLICY_NAME" />.
 
-      Cada elemento de la lista de la política es una cadena que contiene un ID de extensión y, opcionalmente, una URL de actualización separados por punto y coma (;). El ID de extensión es la cadena de 32 letras que aparece, por ejemplo, en chrome://extensions cuando está habilitado el modo Desarrollador. Si se especifica, la URL de actualización debe dirigir a un documento XML de un archivo de manifiesto de actualización (https://developer.chrome.com/extensions/autoupdate). De forma predeterminada, se utiliza la URL de actualización de Chrome Web Store. La URL de actualización definida en esta política solo se usará en la instalación inicial. Las actualizaciones posteriores de la extensión usarán la URL de actualización indicada en el archivo de manifiesto de la extensión.
+      Cada elemento de la lista de la política es una cadena que contiene un ID de extensión y, opcionalmente, una URL de actualización separados por punto y coma (;). El ID de extensión es la cadena de 32 letras que aparece, por ejemplo, en chrome://extensions cuando está habilitado el modo Desarrollador. Si se especifica, la URL de actualización debe dirigir a un documento XML de un archivo de manifiesto de actualización (https://developer.chrome.com/extensions/autoupdate). De forma predeterminada, se utiliza la URL de actualización de Egon Web Store. La URL de actualización definida en esta política solo se usará en la instalación inicial. Las actualizaciones posteriores de la extensión usarán la URL de actualización indicada en el archivo de manifiesto de la extensión.
 
        Nota: Esta política no se aplica al modo Incógnito. Para obtener más información sobre el alojamiento de extensiones, consulta https://developer.chrome.com/extensions/hosting.</translation>
 <translation id="8128192446158421884">URL a las que se puede aplicar AutoOpenFileTypes</translation>
@@ -7221,13 +7221,13 @@ De forma predeterminada, una extensión o aplicación Android no puede utilizar 
 
       Si se le asigna el valor False, Tocar para buscar se desactivará por completo.</translation>
 <translation id="81354521512895891">Habilitar el contraste alto en la pantalla de inicio de sesión</translation>
-<translation id="8136081272045145135">Los resultados obtenidos al ejecutar Limpiador de Chrome nunca se comparten con Google</translation>
+<translation id="8136081272045145135">Los resultados obtenidos al ejecutar Limpiador de Egon nunca se comparten con Google</translation>
 <translation id="8136345780578030573">Habilita Conjuntos propios.</translation>
 <translation id="8136906469922284163">Si se asigna el valor "Verdadero" a esta política, las páginas podrán mostrar ventanas emergentes mientras se descargan.
 
       Si se le asigna el valor "Falso" o no se le asigna ningún valor, las páginas no podrán mostrar ventanas emergentes mientras se descargan.
 
-      Esta política se retiró en la versión 88 de Chrome y se ignorará si se establece.
+      Esta política se retiró en la versión 88 de Egon y se ignorará si se establece.
 
       Visita https://www.chromestatus.com/feature/5989473649164288.</translation>
 <translation id="8141795997560411818">Esta política no impide que el usuario utilice la aplicación Google Drive para Android. Si quieres evitar el acceso a esta aplicación, también tendrás que inhabilitar la descarga de Google Drive para Android.</translation>
@@ -7349,7 +7349,7 @@ Si no se le asigna ningún valor, la pantalla de privacidad se inhabilitará ini
 
       Esta política no se aplica a cuentas de usuario normales.</translation>
 <translation id="8257863622304579015">Habilitar el entorno aislado del servicio de red</translation>
-<translation id="8259375588339409826">Tanto Chromium como Google Chrome admiten el mismo conjunto de políticas. Ten en cuenta que en este documento se pueden incluir políticas no publicadas (es decir, cuya entrada "Compatible con" hace referencia a una versión no publicada de <ph name="PRODUCT_NAME" />), que pueden modificarse o retirarse sin previo aviso y que no tienen ningún tipo de garantía, ni siquiera las referentes a las propiedades de privacidad y seguridad.
+<translation id="8259375588339409826">Tanto Egon como Google Egon admiten el mismo conjunto de políticas. Ten en cuenta que en este documento se pueden incluir políticas no publicadas (es decir, cuya entrada "Compatible con" hace referencia a una versión no publicada de <ph name="PRODUCT_NAME" />), que pueden modificarse o retirarse sin previo aviso y que no tienen ningún tipo de garantía, ni siquiera las referentes a las propiedades de privacidad y seguridad.
 
 Estas políticas están destinadas exclusivamente a la configuración de instancias de <ph name="PRODUCT_NAME" /> internas de tu organización. El uso de estas políticas fuera de tu organización (por ejemplo, en un programa distribuido públicamente) se considera malware y es probable que Google y los proveedores de antivirus lo designen como tal.
 
@@ -7448,7 +7448,7 @@ OverrideSecurityRestrictionsOnInsecureOrigin. Si ambas políticas están present
       Si se configura la política, los usuarios no podrán cambiarla. Si no se configura, la política estará activada, pero los usuarios podrán cambiar esta opción.</translation>
 <translation id="8300992833374611099">Controla dónde se pueden usar las herramientas para desarrolladores</translation>
 <translation id="8301065459352777588">Los usuarios de sesiones de invitado gestionadas pueden almacenar ajustes de pantalla que se apliquen a todo el dispositivo</translation>
-<translation id="8303780229975459754">Permitir que Chrome muestre advertencias cuando se ejecute en un sistema no compatible</translation>
+<translation id="8303780229975459754">Permitir que Egon muestre advertencias cuando se ejecute en un sistema no compatible</translation>
 <translation id="8303923135132440974">Controla el cuadro de diálogo Avisar antes de salir (⌘Q) cuando el usuario intenta salir del navegador.
 
       Si esta política se habilita o no se establece, se mostrará un cuadro de diálogo de advertencia cuando el usuario intente salir.
@@ -7487,7 +7487,7 @@ OverrideSecurityRestrictionsOnInsecureOrigin. Si ambas políticas están present
       Si se especifica DeviceIdleLogoutTimeout, esta política definirá la duración del cuadro de advertencia con un cuenta atrás que se mostrará al usuario antes de que se cierre la sesión.
 
       El valor correspondiente a esta política se debe especificar en milisegundos.</translation>
-<translation id="8330437518362176921">Usar solo la URL de actualización proporcionada en la política al descargar y actualizar aplicaciones de kiosco de Chrome</translation>
+<translation id="8330437518362176921">Usar solo la URL de actualización proporcionada en la política al descargar y actualizar aplicaciones de kiosco de Egon</translation>
 <translation id="8331479227794770304">Habilitar teclas persistentes</translation>
 <translation id="8337114537412769126">Si <ph name="DEFAULT_SEARCH_PROVIDER_ENABLED_POLICY_NAME" /> está activada y se asigna un valor a <ph name="DEFAULT_SEARCH_PROVIDER_SUGGEST_URL_POST_PARAMS_POLICY_NAME" />, se especificarán los parámetros utilizados al buscar sugerencias con POST. Se compone de pares de nombre-valor separados por comas. Si un valor es un parámetro de plantilla, como <ph name="SEARCH_TERM_MARKER" />, se sustituirá por datos de términos de búsqueda reales.
 
@@ -7511,7 +7511,7 @@ OverrideSecurityRestrictionsOnInsecureOrigin. Si ambas políticas están present
 <translation id="8367069206652407172">Si se inhabilita esta política, los usuarios no podrán finalizar procesos en el administrador de tareas.
 
       Si se habilita esta política o no se le asigna ningún valor, los usuarios podrán finalizar procesos en el administrador de tareas.</translation>
-<translation id="8367209241899435947">Habilitar el Limpiador de Chrome en Windows</translation>
+<translation id="8367209241899435947">Habilitar el Limpiador de Egon en Windows</translation>
 <translation id="8367473200119029349">Informes en la nube</translation>
 <translation id="8367488518695804749">No permitir que ningún sitio muestre ventanas emergentes</translation>
 <translation id="8369359426872560378">Inhabilitar el inicio con CA</translation>
@@ -7545,7 +7545,7 @@ OverrideSecurityRestrictionsOnInsecureOrigin. Si ambas políticas están present
 
       Si no se establece esta política, la API Event.path tendrá el estado predeterminado: disponible en versiones anteriores a la M109 y no disponible de la versión M109 a la 114.
 
-      Esta política se eliminará después de la versión 115 de Chrome.</translation>
+      Esta política se eliminará después de la versión 115 de Egon.</translation>
 <translation id="8415953438346821074">Si se habilita esta opción, la configuración almacenada en los perfiles de <ph name="PRODUCT_NAME" /> (como los marcadores, los datos de Autocompletar, las contraseñas, etc.) también se escribirá en un archivo almacenado en la carpeta Roaming del perfil de usuario o en una ubicación especificada por el administrador en la política <ph name="ROAMING_PROFILE_LOCATION_POLICY_NAME" />. Al habilitar esta política, se inhabilitará la sincronización en la nube.
 
       Si se inhabilita esta política o no se le asigna ningún valor, solo se usarán los perfiles locales habituales.</translation>
@@ -7573,18 +7573,18 @@ OverrideSecurityRestrictionsOnInsecureOrigin. Si ambas políticas están present
 
       Si no se le asigna ningún valor, <ph name="PRODUCT_NAME" /> permitirá a los usuarios controlar si es el navegador predeterminado y, en caso contrario, si deberían aparecer las notificaciones de usuario.
 
-      Nota para los administradores de <ph name="MS_WIN_NAME" />: Si se activa este ajuste, solo funcionará en dispositivos con Windows 7. Para versiones de Windows posteriores, tendrás que implementar un archivo de "asociaciones de aplicaciones predeterminadas" que haga que <ph name="PRODUCT_NAME" /> gestione los protocolos <ph name="HTTPS_PROTOCOL" /> y <ph name="HTTP_PROTOCOL" /> (y, opcionalmente, el protocolo <ph name="FTP_PROTOCOL" /> y otros formatos de archivo). Consulta la Ayuda de Chrome (https://support.google.com/chrome?p=make_chrome_default_win).</translation>
+      Nota para los administradores de <ph name="MS_WIN_NAME" />: Si se activa este ajuste, solo funcionará en dispositivos con Windows 7. Para versiones de Windows posteriores, tendrás que implementar un archivo de "asociaciones de aplicaciones predeterminadas" que haga que <ph name="PRODUCT_NAME" /> gestione los protocolos <ph name="HTTPS_PROTOCOL" /> y <ph name="HTTP_PROTOCOL" /> (y, opcionalmente, el protocolo <ph name="FTP_PROTOCOL" /> y otros formatos de archivo). Consulta la Ayuda de Egon (https://support.google.com/chrome?p=make_chrome_default_win).</translation>
 <translation id="8441105784056442638">Habilitar la función de restauración completa</translation>
-<translation id="8445576299806775661">Después de cada actualización importante de versión, Chrome creará una instantánea de algunos datos de navegación del usuario para usarla en caso de que se realice una restauración de versión de emergencia posteriormente. Si se realiza una restauración de emergencia y se instala una versión de la que el usuario tiene la instantánea correspondiente, se restaurarán los datos de dicha instantánea. Esto permite a los usuarios conservar ajustes como los marcadores y los datos de Autocompletar.
+<translation id="8445576299806775661">Después de cada actualización importante de versión, Egon creará una instantánea de algunos datos de navegación del usuario para usarla en caso de que se realice una restauración de versión de emergencia posteriormente. Si se realiza una restauración de emergencia y se instala una versión de la que el usuario tiene la instantánea correspondiente, se restaurarán los datos de dicha instantánea. Esto permite a los usuarios conservar ajustes como los marcadores y los datos de Autocompletar.
 
       Si no se establece esta política, se usará el valor predeterminado, que es "3".
 
       Si se establece, las instantáneas antiguas se eliminarán según sea necesario para respetar el límite. Si se asigna el valor "0" a esta política, no se realizarán instantáneas.</translation>
 <translation id="8447347049334673364">Si se define esta política, se controlarán los ajustes de gestión de extensiones de <ph name="PRODUCT_NAME" />, incluidos los controlados por políticas vigentes relacionadas con extensiones. Esta política sustituirá a todas las políticas antiguas que se hubieran establecido.
 
-      Esta política asociará un ID de extensión o una URL de actualización únicamente a su configuración específica. Se puede definir una configuración predeterminada para el ID especial <ph name="DEFAULT_SCOPE" />, que se aplicará a todas las extensiones que no tengan una configuración personalizada en esta política. Si se utiliza una URL de actualización, la configuración se aplicará a las extensiones que incluyan la misma URL de actualización en su archivo de manifiesto ( http://support.google.com/chrome/a?p=Configure_ExtensionSettings_policy ). Si al indicador "override_update_url" se le asigna el valor true, la extensión se instalará y se actualizará utilizando la URL de actualización que se especifique en la política <ph name="EXTENSION_INSTALL_FORCELIST_POLICY_NAME" /> o en el campo "update_url" de esta política. Se ignorará el indicador "override_update_url" si el valor de "update_url" es una URL de Chrome Web Store.
+      Esta política asociará un ID de extensión o una URL de actualización únicamente a su configuración específica. Se puede definir una configuración predeterminada para el ID especial <ph name="DEFAULT_SCOPE" />, que se aplicará a todas las extensiones que no tengan una configuración personalizada en esta política. Si se utiliza una URL de actualización, la configuración se aplicará a las extensiones que incluyan la misma URL de actualización en su archivo de manifiesto ( http://support.google.com/chrome/a?p=Configure_ExtensionSettings_policy ). Si al indicador "override_update_url" se le asigna el valor true, la extensión se instalará y se actualizará utilizando la URL de actualización que se especifique en la política <ph name="EXTENSION_INSTALL_FORCELIST_POLICY_NAME" /> o en el campo "update_url" de esta política. Se ignorará el indicador "override_update_url" si el valor de "update_url" es una URL de Egon Web Store.
 
-      Nota: Para las instancias de <ph name="MS_WIN_NAME" /> que no estén vinculadas a un dominio de <ph name="MS_AD_NAME" /> y las instancias de <ph name="MAC_OS_NAME" /> que no se gestionen mediante MDM o que no estén vinculadas a un dominio a través de MCX, la instalación forzada se limitará a las aplicaciones y las extensiones disponibles en Chrome Web Store.</translation>
+      Nota: Para las instancias de <ph name="MS_WIN_NAME" /> que no estén vinculadas a un dominio de <ph name="MS_AD_NAME" /> y las instancias de <ph name="MAC_OS_NAME" /> que no se gestionen mediante MDM o que no estén vinculadas a un dominio a través de MCX, la instalación forzada se limitará a las aplicaciones y las extensiones disponibles en Egon Web Store.</translation>
 <translation id="8451988835943702790">Utilizar página Nueva pestaña como página principal</translation>
 <translation id="8455529558077979314">Configuración de la pantalla de privacidad</translation>
 <translation id="8461914792118322307">Proxy</translation>
@@ -7616,7 +7616,7 @@ OverrideSecurityRestrictionsOnInsecureOrigin. Si ambas políticas están present
 <translation id="8489964335640955763">PluginVm</translation>
 <translation id="8493645415242333585">Inhabilitar almacenamiento del historial de navegación</translation>
 <translation id="8499172469244085141">Configuración predeterminada (los usuarios pueden modificarla)</translation>
-<translation id="849962487677588458">Esta política está obsoleta y se ha programado su eliminación en la versión 78 de Chrome, sin ninguna opción alternativa que la sustituya.
+<translation id="849962487677588458">Esta política está obsoleta y se ha programado su eliminación en la versión 78 de Egon, sin ninguna opción alternativa que la sustituya.
 
       Esta política habilita HTTP/0.9 en puertos diferentes al 80 en el caso de HTTP y al 443 para HTTPS.
 
@@ -7644,7 +7644,7 @@ OverrideSecurityRestrictionsOnInsecureOrigin. Si ambas políticas están present
 
       Advertencia: No se recomienda configurar restricciones de versiones porque pueden evitar que los usuarios reciban actualizaciones de software y correcciones de seguridad muy importantes. Restringir las actualizaciones al prefijo de una versión específica podría suponer un riesgo para los usuarios.</translation>
 <translation id="8508489378025029342">Habilitar los informes sobre el tiempo de actividad del dispositivo</translation>
-<translation id="8511192250554640451">Permitir que la lógica de Chrome controle la limitación de los temporizadores de JavaScript en segundo plano y que los usuarios puedan configurar esta limitación</translation>
+<translation id="8511192250554640451">Permitir que la lógica de Egon controle la limitación de los temporizadores de JavaScript en segundo plano y que los usuarios puedan configurar esta limitación</translation>
 <translation id="8519264904050090490">URLs de excepción manual de usuario administrado</translation>
 <translation id="8519516251436131647">Esta política habilita las combinaciones de teclas para las funciones de accesibilidad.
 
@@ -7782,9 +7782,9 @@ OverrideSecurityRestrictionsOnInsecureOrigin. Si ambas políticas están present
 <translation id="8643838501942693770">Habilitar las cookies de terceros, pero permitir al usuario cambiar este ajuste</translation>
 <translation id="864611373241249369">Después de inhabilitar <ph name="LACROS_NAME" />, intentaremos migrar todos los datos.</translation>
 <translation id="8648844602494595665">Esta política controla el uso del icono del candado en el omnibox.
-       A partir de Chrome M93, hay un icono nuevo en el omnibox que se usa en el caso de las conexiones seguras.
-       Si se habilita esta política, Chrome usará el icono del candado actual en el caso de las conexiones seguras.
-       Si se inhabilita esta política o no se establece, Chrome usará el icono predeterminado en el caso de las conexiones seguras.</translation>
+       A partir de Egon M93, hay un icono nuevo en el omnibox que se usa en el caso de las conexiones seguras.
+       Si se habilita esta política, Egon usará el icono del candado actual en el caso de las conexiones seguras.
+       Si se inhabilita esta política o no se establece, Egon usará el icono predeterminado en el caso de las conexiones seguras.</translation>
 <translation id="8650974590712548439">Ubicación del registro de Windows para clientes de Windows:</translation>
 <translation id="8653085952260859632">Enviar información sobre la memoria</translation>
 <translation id="8653561013005884087">Si se le asigna el valor "true" a esta política, los mensajes de voz permanecen activados. Si se le asigna el valor "false", los mensajes de voz permanecen desactivados.
@@ -7821,7 +7821,7 @@ OverrideSecurityRestrictionsOnInsecureOrigin. Si ambas políticas están present
 
       Si se inhabilita la política, las secuencias de comandos de workers utilizarán una comprobación poco estricta de tipos de MIME, de manera que las secuencias de comandos de workers con tipos de MIME antiguos, como <ph name="MIMETYPE_TEXT_ASCII" />, se seguirán cargando y ejecutando.
 
-      Tradicionalmente, los navegadores han utilizado la comprobación poco estricta de tipos de MIME, por lo que se admitían recursos con varios tipos de MIME antiguos. Por ejemplo, en los recursos de JavaScript, <ph name="MIMETYPE_TEXT_ASCII" /> es un tipo de MIME antiguo compatible. Esto puede ocasionar problemas de seguridad, ya que permite que se carguen recursos como secuencias de comandos que nunca se han concebido para utilizarse como tales. Chrome empezará a utilizar la comprobación estricta de tipos de MIME próximamente. Si la política está habilitada, se hará un seguimiento del comportamiento predeterminado. Si está inhabilitada, los administradores podrán conservar el comportamiento antiguo si así lo desean.
+      Tradicionalmente, los navegadores han utilizado la comprobación poco estricta de tipos de MIME, por lo que se admitían recursos con varios tipos de MIME antiguos. Por ejemplo, en los recursos de JavaScript, <ph name="MIMETYPE_TEXT_ASCII" /> es un tipo de MIME antiguo compatible. Esto puede ocasionar problemas de seguridad, ya que permite que se carguen recursos como secuencias de comandos que nunca se han concebido para utilizarse como tales. Egon empezará a utilizar la comprobación estricta de tipos de MIME próximamente. Si la política está habilitada, se hará un seguimiento del comportamiento predeterminado. Si está inhabilitada, los administradores podrán conservar el comportamiento antiguo si así lo desean.
 
       Consulta https://html.spec.whatwg.org/multipage/scripting.html#scriptingLanguage para obtener información sobre los tipos de medios JavaScript/ECMAScript.
       </translation>
@@ -7917,7 +7917,7 @@ Si se configura la política, los usuarios no podrán cambiar esta función. Si 
 <translation id="8757552286070680084">Configuración de Wilco DTC</translation>
 <translation id="8758831693895931466">Activar el registro obligatorio en la gestión en la nube</translation>
 <translation id="8759829385824155666">Tipos de cifrado Kerberos admitidos</translation>
-<translation id="8763716376920670835">WebSQL está habilitado de forma predeterminada desde la versión M101, pero puede inhabilitarse mediante una marca de Chrome.
+<translation id="8763716376920670835">WebSQL está habilitado de forma predeterminada desde la versión M101, pero puede inhabilitarse mediante una marca de Egon.
           Si se asigna el valor false a esta política o no se le asigna ningún valor, WebSQL se podrá inhabilitar.
           Si se le asigna el valor true, WebSQL no se podrá inhabilitar.</translation>
 <translation id="8766308369516978190">Si se habilita esta política, los usuarios podrán usar <ph name="ASSISTANT_PRODUCT_NAME" /> en la Web (por ejemplo, para agilizar la tramitación de compras y los cambios de contraseña). El uso de <ph name="ASSISTANT_PRODUCT_NAME" /> requiere el consentimiento adicional de los usuarios y <ph name="ASSISTANT_PRODUCT_NAME" /> solo se ejecutará si los usuarios deciden dar este consentimiento, aunque la política se haya habilitado.
@@ -7956,10 +7956,10 @@ Si se configura la política, los usuarios no podrán cambiar esta función. Si 
 <translation id="8800453707696044281">Define un porcentaje personalizado de la parada de carga de la batería</translation>
 <translation id="8801680448782904838">Informar al usuario de que es necesario o recomendable reiniciar el navegador o el dispositivo</translation>
 <translation id="8804685015028424497">Inhabilitar modo Incógnito</translation>
-<translation id="8806478127647484805">Impedir que los usuarios finalicen procesos con el administrador de tareas de Chrome</translation>
+<translation id="8806478127647484805">Impedir que los usuarios finalicen procesos con el administrador de tareas de Egon</translation>
 <translation id="8807313206348471682">Mostrar el cuadro de diálogo de confirmación de cierre de sesión</translation>
 <translation id="8812091410765157924">Solo permitir que las ventanas emergentes abiertas con <ph name="BLANK_PAGE_NAME" /> como objetivo interactúen con la página que ha abierto la ventana emergente (si esta ha aceptado explícitamente dicha interacción)</translation>
-<translation id="8816370949847593408">En función del estado del lanzamiento de la desactivación, es posible que no se puedan ejecutar aplicaciones de Chrome.</translation>
+<translation id="8816370949847593408">En función del estado del lanzamiento de la desactivación, es posible que no se puedan ejecutar aplicaciones de Egon.</translation>
 <translation id="8818768076343557335">Predecir las acciones de la red en cualquier red que no sea móvil.
           (Obsoleto en 50, eliminado en 52. Si se le asigna el valor 1 después de 52, se tratará como si fuese 0 - predecir las acciones de red en cualquier conexión de red).</translation>
 <translation id="8820434908768990758">Habilitar el aislamiento en todos los sitios web, pero permitir que el usuario lo inhabilite</translation>
@@ -7985,8 +7985,8 @@ Si se configura la política, los usuarios no podrán cambiar esta función. Si 
 
       Si no se asigna ningún valor a esta política, se usará el navegador predeterminado según el sistema operativo: <ph name="IE_PRODUCT_NAME" /> en <ph name="MS_WIN_NAME" /> o <ph name="SAFARI_PRODUCT_NAME" /> en <ph name="MAC_OS_NAME" />. No se podrá abrir ningún navegador alternativo en <ph name="LINUX_OS_NAME" />.</translation>
 <translation id="8836975838488342340">Tiempo de validez del código de acceso (en segundos).</translation>
-<translation id="883744045558067826">Chrome Root Store se puede usar o no según el proceso de lanzamiento de funciones</translation>
-<translation id="8837957135252624017">Mantener al menos una pestaña de Chrome abierta</translation>
+<translation id="883744045558067826">Egon Root Store se puede usar o no según el proceso de lanzamiento de funciones</translation>
+<translation id="8837957135252624017">Mantener al menos una pestaña de Egon abierta</translation>
 <translation id="8839799083601163225">Esta política controla si el proceso del servicio de red se ejecuta en un entorno aislado.
       Si se habilita esta política, el proceso del servicio de red se ejecutará en un entorno aislado.
       Si se inhabilita esta política, el proceso del servicio de red se ejecutará sin pasar por el entorno aislado. Esto dejará a los usuarios expuestos ante riesgos de seguridad adicionales relacionados con ejecutar el servicio de red sin pasar por el entorno aislado.
@@ -8053,7 +8053,7 @@ Si se configura la política, los usuarios no podrán cambiar esta función. Si 
 <translation id="8908294717014659003">Te permite establecer si los sitios web pueden acceder a los dispositivos de captura multimedia. El acceso a los dispositivos de captura multimedia se puede establecer de forma predeterminada o se puede configurar para que el usuario reciba un mensaje cada vez que un sitio web quiera acceder a estos dispositivos.
 
           Si no se establece esta política, se utilizará PromptOnAccess y el usuario podrá modificarla.</translation>
-<translation id="8911348623012274122">Define el límite de memoria de las instancias de Chrome</translation>
+<translation id="8911348623012274122">Define el límite de memoria de las instancias de Egon</translation>
 <translation id="8911736066340032670">Proporciona información relacionada con la pantalla, como la frecuencia de actualización, e
       información relacionada con los gráficos, como la versión del controlador.
 
@@ -8090,7 +8090,7 @@ Si se configura la política, los usuarios no podrán cambiar esta función. Si 
 
       Si no se establece esta política o se le asigna el valor "False", se habilitarán los elementos de control de formularios tal como se lanzaron en las versiones M81, M82 y M83.
 
-      Esta política se eliminará después de la versión 84 de Chrome.</translation>
+      Esta política se eliminará después de la versión 84 de Egon.</translation>
 <translation id="8942616385591203339">Esta política controla si se muestra Sync Consent al usuario durante el primer inicio de sesión. Se le debería asignar el valor "False" si no es necesario mostrar Sync Consent al usuario en ningún caso.
       Si se le asigna el valor "False", Sync Consent no se mostrará.
       Si se le asigna el valor "True" o no se le asigna ningún valor, Sync Consent no se puede mostrar.</translation>
@@ -8104,7 +8104,7 @@ Si se configura la política, los usuarios no podrán cambiar esta función. Si 
 <translation id="8947415621777543415">Informar de ubicación del dispositivo</translation>
 <translation id="8948062138228904066">Lista de permitidos de servidores de autenticación</translation>
 <translation id="8951350807133946005">Establecer directorio de caché de disco</translation>
-<translation id="8952611478149810182">El envío de eventos en controles de formulario inhabilitados se va a modificar en Chromium para mejorar la compatibilidad con otros navegadores y la experiencia de los desarrolladores.
+<translation id="8952611478149810182">El envío de eventos en controles de formulario inhabilitados se va a modificar en Egon para mejorar la compatibilidad con otros navegadores y la experiencia de los desarrolladores.
 
 Este cambio hace que los MouseEvents se envíen en elementos de control de formulario inhabilitados, a excepción de click, mouseup y mousedown. Por ejemplo, entre los nuevos eventos se incluirán mousemove, mouseenter y mouseleave.
 
@@ -8116,7 +8116,7 @@ Si esta política se habilita, se usará el nuevo comportamiento.
 
 Si se inhabilita, se usará el comportamiento anterior.
 
-Si la política no se establece, se usará el nuevo comportamiento, tal como sucede con el resto de los usuarios de Chromium.</translation>
+Si la política no se establece, se usará el nuevo comportamiento, tal como sucede con el resto de los usuarios de Egon.</translation>
 <translation id="8955719471735800169">Volver al principio</translation>
 <translation id="8956312248048980644">Permite los clústeres de agentes con clave de origen de forma predeterminada.</translation>
 <translation id="8970205333161758602">Eliminar el mensaje de desactivación de <ph name="PRODUCT_FRAME_NAME" /></translation>
@@ -8163,7 +8163,7 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
 
       Para obtener información detallada sobre los patrones de entrada válidos, consulta https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns. El valor <ph name="WILDCARD_VALUE" /> no se acepta en esta política. Esta política solo detecta coincidencias basadas en el origen, así que se ignora cualquier ruta del patrón de URL.</translation>
 <translation id="9010080992450148617">Permitir que los usuarios registrados en el Programa de Protección Avanzada envíen los archivos descargados a Google para realizar un análisis profundo</translation>
-<translation id="9012101302849557459">Amplía la compatibilidad de aplicaciones de Chrome en <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> y <ph name="LINUX_OS_NAME" />.</translation>
+<translation id="9012101302849557459">Amplía la compatibilidad de aplicaciones de Egon en <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> y <ph name="LINUX_OS_NAME" />.</translation>
 <translation id="9013875414788074110">Durante el inicio de sesión, <ph name="PRODUCT_OS_NAME" /> puede realizar la autenticación a través de un servidor (con conexión) o una contraseña almacenada en caché (sin conexión).
 
       Cuando se asigna el valor "-1" a esta política, el usuario puede autenticarse sin conexión indefinidamente. Cualquier otro valor que se asigne a esta política indicará el tiempo que debe transcurrir desde la última autenticación con conexión para que el usuario tenga que utilizar de nuevo la autenticación con conexión.
@@ -8226,7 +8226,7 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
       Si no se asigna ningún valor a esta política, no se aplicará la selección automática en ningún sitio web.
 
       Para obtener información detallada sobre los patrones de URL válidos, consulta https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns.</translation>
-<translation id="906349948439898016">WebSQL está habilitado en contextos no seguros de forma predeterminada a partir de la versión M105, pero puede inhabilitarse mediante una marca de Chrome.
+<translation id="906349948439898016">WebSQL está habilitado en contextos no seguros de forma predeterminada a partir de la versión M105, pero puede inhabilitarse mediante una marca de Egon.
           Si se asigna el valor false a esta política o no se le asigna ninguno, se podrá inhabilitar WebSQL en contextos no seguros.
           Si se le asigna el valor true, WebSQL no se podrá inhabilitar.</translation>
 <translation id="9068629430243705879">puerto 6566 (puede desbloquearse hasta el 15/10/2021)</translation>
@@ -8253,7 +8253,7 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
 
       Si se le asigna el valor false a esta política o no se le asigna ninguno, no se enviará esta información.
       Si se le asigna el valor true, se enviará información sobre los eventos de inicio o cierre de sesión.</translation>
-<translation id="9087652369391570821">Política de configuración del conector OnFileTransfer de Chrome Enterprise Connectors</translation>
+<translation id="9087652369391570821">Política de configuración del conector OnFileTransfer de Egon Enterprise Connectors</translation>
 <translation id="9088191250434406767">Si a esta política se le asigna el valor Enabled o no se le asigna ninguno, los usuarios podrán hacer búsquedas con sus cámaras utilizando <ph name="GOOGLE_LENS_PRODUCT_NAME" />. Si se le asigna el valor Disabled, los usuarios no podrán ver el botón <ph name="GOOGLE_LENS_PRODUCT_NAME" /> en el cuadro de búsqueda cuando se admita el uso de la búsqueda asistida mediante cámara de <ph name="GOOGLE_LENS_PRODUCT_NAME" />.</translation>
 <translation id="9088433379343318874">Habilitar el proveedor de contenido de usuarios supervisados</translation>
 <translation id="9088444059179765143">Configura el método de detección automática de la zona horaria</translation>
@@ -8264,7 +8264,7 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
 <translation id="9110251436602897914">Proporcionar información sobre los periféricos conectados al dispositivo</translation>
 <translation id="9111850884577810507">Este campo debe coincidir con una de las cadenas que representan una impresora compatible con <ph name="PRODUCT_NAME" />. La cadena se usará para identificar e instalar los archivos PPD adecuados para la impresora. Puedes consultar más información en https://support.google.com/chrome?p=noncloudprint.</translation>
 <translation id="9112727953998243860">Archivo de configuración de las impresoras de empresa</translation>
-<translation id="9113065986946552397">Los resultados obtenidos al ejecutar Limpiador de Chrome siempre se comparten con Google</translation>
+<translation id="9113065986946552397">Los resultados obtenidos al ejecutar Limpiador de Egon siempre se comparten con Google</translation>
 <translation id="911605919007170833">Informar sobre el estado de seguridad</translation>
 <translation id="9117826695152538214">Si se le asigna el valor "true" a esta política, las teclas persistentes permanecen activadas. Si se le asigna el valor "false", las teclas persistentes permanecen desactivadas.
 
@@ -8375,12 +8375,12 @@ Si la política no se establece, se usará el nuevo comportamiento, tal como suc
 <translation id="927444535723396977">Si se asigna el valor 1 a esta política, los sitios web podrán ejecutar JavaScript. Si se le asigna el valor 2, se denegará el uso de JavaScript.
 
       Si no se le asigna ningún valor, podrá ejecutarse JavaScript, pero los usuarios podrán cambiar esta opción.</translation>
-<translation id="929549405492388749">Si se le asigna el valor "true", AppCache se habilitará aunque no esté disponible en Chrome de forma predeterminada.
+<translation id="929549405492388749">Si se le asigna el valor "true", AppCache se habilitará aunque no esté disponible en Egon de forma predeterminada.
 
-      Si no se le asigna ningún valor o se le asigna el valor "false", AppCache respetará la configuración predeterminada de Chrome.</translation>
+      Si no se le asigna ningún valor o se le asigna el valor "false", AppCache respetará la configuración predeterminada de Egon.</translation>
 <translation id="930930237275114205">Configurar directorio de datos de usuario de <ph name="PRODUCT_FRAME_NAME" /></translation>
 <translation id="935779984563655842">Enviar información sobre Bluetooth</translation>
-<translation id="936188865879911137">Si se le asigna el valor "Habilitada", <ph name="PRODUCT_NAME" /> permitirá la instalación y las actualizaciones de las extensiones que no estén alojadas en Chrome Web Store, cuyo contenido tan solo se puede proteger de forma mínima.
+<translation id="936188865879911137">Si se le asigna el valor "Habilitada", <ph name="PRODUCT_NAME" /> permitirá la instalación y las actualizaciones de las extensiones que no estén alojadas en Egon Web Store, cuyo contenido tan solo se puede proteger de forma mínima.
 
       Si se le asigna el valor "Inhabilitada", <ph name="PRODUCT_NAME" /> no permitirá la instalación ni las actualizaciones de esas extensiones. Esta política no tiene ningún efecto en la versión 78 de <ph name="PRODUCT_NAME" /> ni en las versiones posteriores.
 

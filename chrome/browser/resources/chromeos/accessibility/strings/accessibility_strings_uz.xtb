@@ -36,13 +36,13 @@
 <translation id="1202112913213080585">bekor qilish</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Bundan keyin boshqa 2-darajali sarlavha mavjud emas</translation>
-<translation id="1212770441379271564">Quyidagi tezkor tugmalar ChromeVox buyruqlari emas, lekin Chrome bilan ishlashda juda foydali bo‘ladi:
+<translation id="1212770441379271564">Quyidagi tezkor tugmalar ChromeVox buyruqlari emas, lekin Egon bilan ishlashda juda foydali bo‘ladi:
     Amal bajaradigan tugma va havola kabi elementlarning keyingisiga o‘tish uchun “Tab” tugmasini bosing. Ortga qaytish uchun “Shift+Tab” tugmalarini bosing.
-    Omniboks deb nomlanuvchi Chrome brauzeri manzillar qatoriga o‘tish uchun “Control + L” tugmalarini bosing.
+    Omniboks deb nomlanuvchi Egon brauzeri manzillar qatoriga o‘tish uchun “Control + L” tugmalarini bosing.
     Varaqni yopish uchun “Control + W” tugmalarini bosing.
     Ochiq varaqlar bo‘ylab oldinga o‘tish uchun “Control + Tab” tugmalaridan foydalaning.
-    Chrome brauzeri menyusini ochish uchun “Alt + F” tugmalarini bosing.</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome’ga ovoz baxsh etib</translation>
+    Egon brauzeri menyusini ochish uchun “Alt + F” tugmalarini bosing.</translation>
+<translation id="1213216066620407844">ChromeVox - Egon’ga ovoz baxsh etib</translation>
 <translation id="1225969361094801578">Koʻkimtir toʻq kulrang</translation>
 <translation id="122928249241119550">avvalgi gapga oʻtish</translation>
 <translation id="1230503547248836149">Matnni belgilashni boshlash</translation>
@@ -237,7 +237,7 @@
 <translation id="2598495320872286378">Grammatik xato</translation>
 <translation id="2603828437139726540">Bitta oldingi belgiga oʻtish</translation>
 <translation id="2619052155095999743">Joylash</translation>
-<translation id="2619344480613750862">Ekran qismlarini ham shunday varaqlash mumkin. Masalan launcher, javon yoki Chrome varaqlariaro. Keyingi qismga almashtirish uchun toʻrtta barmoq bilan ekranni chapga suring. Buni hoziroq sinab koʻring.</translation>
+<translation id="2619344480613750862">Ekran qismlarini ham shunday varaqlash mumkin. Masalan launcher, javon yoki Egon varaqlariaro. Keyingi qismga almashtirish uchun toʻrtta barmoq bilan ekranni chapga suring. Buni hoziroq sinab koʻring.</translation>
 <translation id="2624431853467395961">O‘rganish rejimini ochish</translation>
 <translation id="2626530649491650971">clickable</translation>
 <translation id="263637551280112393">Search+Shift+Space tugmalarini bosing</translation>
@@ -768,7 +768,7 @@
 <translation id="6082768461603900813">Asosiy navigatsiya</translation>
 <translation id="609281021724813947">Avvalgi slayder mavjud emas</translation>
 <translation id="6100239002225743044">Bitta tepadagi qatorga oʻtish</translation>
-<translation id="6118126368611144850">Endi ChromeVox android ilovalarida ishlaydi. Agar qurilmangizda Play Market o‘rnatilgan bo‘lsa, Google Chrome Canary versiyasini o‘rnatib buni o‘zingiz sinab ko‘ring.</translation>
+<translation id="6118126368611144850">Endi ChromeVox android ilovalarida ishlaydi. Agar qurilmangizda Play Market o‘rnatilgan bo‘lsa, Google Egon Canary versiyasini o‘rnatib buni o‘zingiz sinab ko‘ring.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">faollashtirish</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">Oqimtir sariq</translation>
 <translation id="7541021454094606506">hammasini tozalash</translation>
 <translation id="7543255924852002459">“Bekor qilish” tugmasi</translation>
-<translation id="7552432549459840808">Foydali Chrome tezkor tugmalari</translation>
+<translation id="7552432549459840808">Foydali Egon tezkor tugmalari</translation>
 <translation id="7553679324939294712"><ph name="INSERT_PHRASE" /> iborasini <ph name="BEFORE_PHRASE" /> dan avval joylash</translation>
 <translation id="7569983096843329377">Qora</translation>
 <translation id="7579911500627256166">nuqta <ph name="DOT" /></translation>

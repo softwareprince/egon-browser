@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">キャンセル</translation>
 <translation id="1206619573307042055">マーキー</translation>
 <translation id="1207086294218137981">次のレベル 4 の見出しはありません</translation>
-<translation id="1212770441379271564">次に紹介するいくつかのショートカットは ChromeVox のコマンドではありませんが、Chrome を活用する際に役立ちます。
+<translation id="1212770441379271564">次に紹介するいくつかのショートカットは ChromeVox のコマンドではありませんが、Egon を活用する際に役立ちます。
     ボタンやリンクなどの操作可能な項目間を移動するには、順方向の場合は Tab キー、逆方向の場合は Shift+Tab キーを押します。
-    Chrome ブラウザのアドレスバー（オムニボックスとも呼ばれます）に移動するには、Ctrl+L キーを押します。
+    Egon ブラウザのアドレスバー（オムニボックスとも呼ばれます）に移動するには、Ctrl+L キーを押します。
     新しいタブを自動的に開いてそのタブに移動するには、Ctrl+T キーを押します。カーソルはアドレスバー内に置かれます。
     タブを閉じるには Ctrl+W キーを押します。
     開いているタブ間を移動するには、Ctrl+Tab キーを押します。
-    Chrome ブラウザのメニューを開くには、Alt+F キーを押します。</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome を音声で読み上げ</translation>
+    Egon ブラウザのメニューを開くには、Alt+F キーを押します。</translation>
+<translation id="1213216066620407844">ChromeVox - Egon を音声で読み上げ</translation>
 <translation id="1225969361094801578">ダーク スレートグレー</translation>
 <translation id="122928249241119550">前の文に移動</translation>
 <translation id="1230503547248836149">ここから選択</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">文法ミス</translation>
 <translation id="2603828437139726540">1 文字前へ移動</translation>
 <translation id="2619052155095999743">挿入</translation>
-<translation id="2619344480613750862">画面上のセクション間を移動することもできます。たとえば、ランチャー、シェルフ、Chrome のタブの間を移動できます。次のセクションに移動するには、4 本の指で左から右にスワイプします。実際にやってみて、次へ進みましょう。</translation>
+<translation id="2619344480613750862">画面上のセクション間を移動することもできます。たとえば、ランチャー、シェルフ、Egon のタブの間を移動できます。次のセクションに移動するには、4 本の指で左から右にスワイプします。実際にやってみて、次へ進みましょう。</translation>
 <translation id="2624431853467395961">学習モードを開く</translation>
 <translation id="2626530649491650971">クリック可能</translation>
 <translation id="263637551280112393">検索+Shift+Space キーを押す</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">ログ</translation>
 <translation id="5628125749885014029">見出し 4</translation>
 <translation id="5632083598315326067">図形記号</translation>
-<translation id="5648939288050772726">お疲れさまでした。これで、ChromeVox を使用するための基本事項を習得しました。ChromeVox のコマンド メニューは、検索+ピリオド（.）キーを押していつでも開くことができます。ChromeVox と Chrome OS について詳しくは、以下の記事をご覧ください。チュートリアルを終了するには、ChromeVox を使って「閉じる」ボタンに移動し、クリックしてください。</translation>
+<translation id="5648939288050772726">お疲れさまでした。これで、ChromeVox を使用するための基本事項を習得しました。ChromeVox のコマンド メニューは、検索+ピリオド（.）キーを押していつでも開くことができます。ChromeVox と Egon OS について詳しくは、以下の記事をご覧ください。チュートリアルを終了するには、ChromeVox を使って「閉じる」ボタンに移動し、クリックしてください。</translation>
 <translation id="5653397561111110475">Chromebook のタッチ スクリーンのユーザー補助機能を使用する</translation>
 <translation id="5655682562155942719">ジャンプ コマンド</translation>
 <translation id="56637627897541303">テキスト領域</translation>
@@ -768,7 +768,7 @@
 <translation id="6082768461603900813">基本的な操作</translation>
 <translation id="609281021724813947">前のスライダーはありません。</translation>
 <translation id="6100239002225743044">1 行上へ移動</translation>
-<translation id="6118126368611144850">Chrome 用 Android アプリ。お使いのデバイスに Play ストアがインストールされている場合は、Android アプリで ChromeVox をお試しいただけます。Play ストアから Google Chrome Canary をダウンロードして、試験的にサポートされている機能をご利用ください。</translation>
+<translation id="6118126368611144850">Egon 用 Android アプリ。お使いのデバイスに Play ストアがインストールされている場合は、Android アプリで ChromeVox をお試しいただけます。Play ストアから Google Egon Canary をダウンロードして、試験的にサポートされている機能をご利用ください。</translation>
 <translation id="611827076493383239">アクセス済み</translation>
 <translation id="6119846243427417423">アクティブにする</translation>
 <translation id="6122013438240733403">ボタン</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">ライト ゴールデン ロッドイエロー</translation>
 <translation id="7541021454094606506">すべて削除</translation>
 <translation id="7543255924852002459">ラベルを破棄</translation>
-<translation id="7552432549459840808">Chrome の便利なショートカット</translation>
+<translation id="7552432549459840808">Egon の便利なショートカット</translation>
 <translation id="7553679324939294712"><ph name="INSERT_PHRASE" /> を <ph name="BEFORE_PHRASE" /> の前に挿入</translation>
 <translation id="7569983096843329377">黒</translation>
 <translation id="7579911500627256166">点 <ph name="DOT" /></translation>

@@ -18,7 +18,7 @@ Je zoekmachine is <ph name="DSE_NAME" />. Bekijk de instructies van de zoekmachi
 <translation id="1076421457278169141">Code gescand</translation>
 <translation id="1076785341346483463">Synchroniseren met beheerd account</translation>
 <translation id="1084365883616172403">Facebook-bericht voltooid.</translation>
-<translation id="1085696779717592361">Chrome standaard gebruiken</translation>
+<translation id="1085696779717592361">Egon standaard gebruiken</translation>
 <translation id="1103523840287552314"><ph name="LANGUAGE" /> altijd vertalen</translation>
 <translation id="110724200315609752">Overschakelen naar geopend venster</translation>
 <translation id="1112015203684611006">Afdrukken mislukt.</translation>
@@ -32,13 +32,13 @@ Je zoekmachine is <ph name="DSE_NAME" />. Bekijk de instructies van de zoekmachi
 <translation id="1165039591588034296">Fout</translation>
 <translation id="1172898394251786223">Volgend veld</translation>
 <translation id="1176932207622159128">Kan afbeelding niet opslaan</translation>
-<translation id="1177414119866731261">Open het Chrome-menu</translation>
+<translation id="1177414119866731261">Open het Egon-menu</translation>
 <translation id="1181037720776840403">Verwijderen</translation>
 <translation id="1207113853726624428">Nieuwe zoekopdracht</translation>
 <translation id="1209206284964581585">Voorlopig verbergen</translation>
 <translation id="1219674500290482172">Kan geen verbinding maken met internet.</translation>
 <translation id="122699739164161391">Alle tabbladen sluiten</translation>
-<translation id="1229222343402087523">Zoek naar ${searchPhrase} in Chrome</translation>
+<translation id="1229222343402087523">Zoek naar ${searchPhrase} in Egon</translation>
 <translation id="1242044645101871359">Opnieuw inloggen</translation>
 <translation id="1254117744268754948">Map kiezen</translation>
 <translation id="1254424942107648268">Vorige zoeken</translation>
@@ -128,7 +128,7 @@ Je zoekmachine is <ph name="DSE_NAME" />. Bekijk de instructies van de zoekmachi
 <translation id="1941314575388338491">Dubbeltik om te kopiëren.</translation>
 <translation id="1943478190258551035">Menu → Instellingen</translation>
 <translation id="1952172573699511566">Websites worden indien mogelijk getoond in je voorkeurstaal.</translation>
-<translation id="1965935827552890526">Maak af wat je aan het doen was in het andere geopende Chrome-venster.</translation>
+<translation id="1965935827552890526">Maak af wat je aan het doen was in het andere geopende Egon-venster.</translation>
 <translation id="1973912524893600642">Gegevens behouden</translation>
 <translation id="1974060860693918893">Geavanceerd</translation>
 <translation id="1981118202195772574">Mobiel</translation>
@@ -149,8 +149,8 @@ Je zoekmachine is <ph name="DSE_NAME" />. Bekijk de instructies van de zoekmachi
 <translation id="2139867232736819575">Zoeken naar gekopieerde tekst</translation>
 <translation id="214201757571129614">Inloggen…</translation>
 <translation id="2149973817440762519">Bookmark bewerken</translation>
-<translation id="2150175299852799498">Chrome voor mobiel</translation>
-<translation id="2155145621546387786">Chrome delen</translation>
+<translation id="2150175299852799498">Egon voor mobiel</translation>
+<translation id="2155145621546387786">Egon delen</translation>
 <translation id="2175927920773552910">QR-code</translation>
 <translation id="2178545675770638239">Wachtwoord selecteren</translation>
 <translation id="2218443599109088993">Uitzoomen</translation>
@@ -161,7 +161,7 @@ Je zoekmachine is <ph name="DSE_NAME" />. Bekijk de instructies van de zoekmachi
 <translation id="225943865679747347">Foutcode: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Account toevoegen</translation>
 <translation id="2268044343513325586">Verfijnen</translation>
-<translation id="2271351792809375263">Wachtwoorden die je in Chrome hebt opgeslagen, gebruiken in andere apps op je apparaat</translation>
+<translation id="2271351792809375263">Wachtwoorden die je in Egon hebt opgeslagen, gebruiken in andere apps op je apparaat</translation>
 <translation id="2273327106802955778">Menu Meer</translation>
 <translation id="2286505070150039482">Gemarkeerde tekst</translation>
 <translation id="2299218006564889602">Je wachtwoorden worden versleuteld op je apparaat voordat ze worden opgeslagen in Google Wachtwoordmanager</translation>
@@ -232,13 +232,13 @@ Sites mogen geen cookies gebruiken om je browse-activiteit op verschillende site
 <translation id="2797029671965852011">Geschiedenis tonen</translation>
 <translation id="2800683595868705743">Tabbladschakelaar verlaten</translation>
 <translation id="2815198996063984598">2. Tik op Standaard browser-app</translation>
-<translation id="2820289420301699633">Je beheerder beheert Chrome en heeft toegang tot de bijbehorende gegevens</translation>
+<translation id="2820289420301699633">Je beheerder beheert Egon en heeft toegang tot de bijbehorende gegevens</translation>
 <translation id="2830972654601096923">Adressen beheren...</translation>
 <translation id="2834399722155632105">3. Tik op Wachtwoordopties.</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Vertaalinstellingen opnieuw instellen</translation>
 <translation id="2848086008667475748">Als standaard instellen in Instellingen…</translation>
-<translation id="2858204748079866344">Ter bescherming van je privacy wordt je wachtwoord niet automatisch in dit veld ingevuld door Chrome.</translation>
+<translation id="2858204748079866344">Ter bescherming van je privacy wordt je wachtwoord niet automatisch in dit veld ingevuld door Egon.</translation>
 <translation id="285960592395650245">Download opnieuw proberen</translation>
 <translation id="2870560284913253234">Site</translation>
 <translation id="2871695793448672541">Verborgen, wachtwoord</translation>
@@ -256,7 +256,7 @@ Sites mogen geen cookies gebruiken om je browse-activiteit op verschillende site
 <translation id="292639812446257861">Markeren als ongelezen</translation>
 <translation id="2932085390869194046">Wachtwoord voorstellen…</translation>
 <translation id="2932765531295814441">Wachtwoorden handmatig toevoegen</translation>
-<translation id="2952581218264071393">1. Open de Chrome-instellingen</translation>
+<translation id="2952581218264071393">1. Open de Egon-instellingen</translation>
 <translation id="2958718410589002129">Wachtwoorden</translation>
 <translation id="2961210776189273067">Titel</translation>
 <translation id="2964349545761222050">Cookies van derden blokkeren</translation>
@@ -312,7 +312,7 @@ Bekijk de instructies van je zoekmachine voor het verwijderen van je zoekgeschie
 <translation id="3371831930909698441">Vertalen is beschikbaar. Opties beschikbaar onderaan het scherm.</translation>
 <translation id="3377063233124932127">Je opgeslagen bookmarks, wachtwoorden enz. staan nu bovenaan.</translation>
 <translation id="3393920035788932672">Pop-ups toegestaan</translation>
-<translation id="3399930248910934354">Chrome-instellingen openen</translation>
+<translation id="3399930248910934354">Egon-instellingen openen</translation>
 <translation id="3404744938087714423">Als je uitlogt, wordt synchronisatie uitgezet.</translation>
 <translation id="3425644765244388016">Bijnaam kaart</translation>
 <translation id="3433057996795775706">Als je dit wachtwoord verwijdert, wordt je account op <ph name="WEBSITE" /> niet verwijderd. Wijzig je wachtwoord op <ph name="WEBSITE" /> om het te beschermen.</translation>
@@ -355,7 +355,7 @@ Bekijk de instructies van je zoekmachine voor het verwijderen van je zoekgeschie
 <translation id="3709582977625132201">Markeren als ongelezen</translation>
 <translation id="371230970611282515">Voorspelt en waarschuwt je voor gevaarlijke gebeurtenissen voordat deze plaatsvinden.</translation>
 <translation id="37207012422556617">Trending zoekopdrachten</translation>
-<translation id="3740397331642243698">Hiermee worden de ingevoerde URL's in Google Chrome geopend in de incognitomodus.</translation>
+<translation id="3740397331642243698">Hiermee worden de ingevoerde URL's in Google Egon geopend in de incognitomodus.</translation>
 <translation id="3762232513783804601">Ontworpen voor je iPad</translation>
 <translation id="3768725474733206671">Laatst gesloten tabblad opnieuw openen</translation>
 <translation id="3771033907050503522">Incognitotabbladen</translation>
@@ -374,12 +374,12 @@ Bekijk de instructies van je zoekmachine voor het verwijderen van je zoekgeschie
 <translation id="3858860766373142691">Naam</translation>
 <translation id="3861486700625780712">Niet meer volgen</translation>
 <translation id="3863769054730344136">Naar je apparaten sturen</translation>
-<translation id="387280738075653372">Download Chrome hier.</translation>
+<translation id="387280738075653372">Download Egon hier.</translation>
 <translation id="3888863481921783344">Dit wordt gebruikt om je mogelijke genodigden voor je evenement te tonen.</translation>
 <translation id="3892144330757387737">Hier vind je je geschiedenis</translation>
 <translation id="3897092660631435901">Menu</translation>
 <translation id="3904829425754749514">Je organisatie heeft synchronisatie uitgezet. Je bookmarks, geschiedenis, wachtwoorden en andere instellingen blijven zichtbaar op dit apparaat. Als je wijzigingen aanbrengt, worden deze niet gesynchroniseerd met je account.</translation>
-<translation id="3913386780052199712">Ingelogd bij Chrome</translation>
+<translation id="3913386780052199712">Ingelogd bij Egon</translation>
 <translation id="3915450441834151894">Site-informatie</translation>
 <translation id="3922310737605261887">Zoeken naar gekopieerde tekst</translation>
 <translation id="3928666092801078803">Mijn gegevens combineren</translation>
@@ -522,7 +522,7 @@ Je gegevens zijn versleuteld met je wachtwoordzin voor synchronisatie. Geef deze
 <translation id="4979397965658815378">Log in met je Google-account om je bookmarks, wachtwoorden, geschiedenis en andere instellingen op al je apparaten te gebruiken</translation>
 <translation id="4986678885919050584">Verwijderen van dit apparaat</translation>
 <translation id="4989542687859782284">Niet beschikbaar</translation>
-<translation id="498985224078955265">Als je dit tabblad naar een ander apparaat wilt sturen, log je op beide apparaten in bij Chrome.</translation>
+<translation id="498985224078955265">Als je dit tabblad naar een ander apparaat wilt sturen, log je op beide apparaten in bij Egon.</translation>
 <translation id="5005498671520578047">Wachtwoord kopiëren</translation>
 <translation id="5017828934289857214">Later herinneren</translation>
 <translation id="5037676449506322593">Selecteer alles</translation>
@@ -532,19 +532,19 @@ Je gegevens zijn versleuteld met je wachtwoordzin voor synchronisatie. Geef deze
 <translation id="5062321486222145940">Google Drive installeren</translation>
 <translation id="5083464117946352670">Kan bestandsgrootte niet bepalen.</translation>
 <translation id="5090832849094901128">Als je dit wachtwoord verwijdert, wordt je account op <ph name="WEBSITE" /> niet verwijderd.</translation>
-<translation id="5092117651143801290">Je kunt pagina's opslaan en later of offline lezen. Chrome vraagt je of je lange pagina's wilt opslaan.</translation>
+<translation id="5092117651143801290">Je kunt pagina's opslaan en later of offline lezen. Egon vraagt je of je lange pagina's wilt opslaan.</translation>
 <translation id="5094827893301452931">Tweet voltooid.</translation>
 <translation id="5118713593561876160">Interesses</translation>
 <translation id="5118764316110575523">Uit</translation>
-<translation id="5119391094379141756">Selecteer Chrome</translation>
+<translation id="5119391094379141756">Selecteer Egon</translation>
 <translation id="5132942445612118989">Je wachtwoorden, geschiedenis en meer synchroniseren op al je apparaten</translation>
-<translation id="5140288047769711648">Chrome onthoudt dit wachtwoord voor je. Je hoeft het niet zelf te onthouden.</translation>
+<translation id="5140288047769711648">Egon onthoudt dit wachtwoord voor je. Je hoeft het niet zelf te onthouden.</translation>
 <translation id="5149188072385105201">Wachtwoord toevoegen...</translation>
 <translation id="5150492518600715772">Verzenden naar je apparaat</translation>
 <translation id="5168414296986405587">Gebouwd voor iPadOS</translation>
 <translation id="5173088371991956744">Synchronisatie moet bevestigen dat jij het bent</translation>
 <translation id="5181140330217080051">Downloaden</translation>
-<translation id="5184329579814168207">Openen in Chrome</translation>
+<translation id="5184329579814168207">Openen in Egon</translation>
 <translation id="5186185447130319458">Privé</translation>
 <translation id="5188482106078495165">Je cookie-instellingen zijn van toepassing op alle tabbladen. Als je een nieuwe instelling wilt toepassen op een geopend tabblad, laad je het tabblad opnieuw.</translation>
 <translation id="5190835502935405962">Bookmarkbalk</translation>
@@ -579,7 +579,7 @@ Je gegevens zijn versleuteld met je wachtwoordzin voor synchronisatie. Geef deze
 <translation id="5490005495580364134">Alle cookies blokkeren (niet aanbevolen)</translation>
 <translation id="5513681519188741830"><ph name="TIME" /> u geleden</translation>
 <translation id="5520466080178053306">Tik op Wachtwoordmanager en tik dan op Toevoegen</translation>
-<translation id="5525095647255982834">Als je dit tabblad naar een ander apparaat wilt sturen, log je daar in bij Chrome.</translation>
+<translation id="5525095647255982834">Als je dit tabblad naar een ander apparaat wilt sturen, log je daar in bij Egon.</translation>
 <translation id="5525269841082836315">Wachtwoordzin maken</translation>
 <translation id="5542540507657872337"><ph name="COUNT" /> gevonden</translation>
 <translation id="5548760955356983418">Met Handoff kun je een website op dit apparaat bezoeken en vervolgens makkelijk verder bezoeken op je Mac. De momenteel geopende website zie je in het Dock van je Mac.
@@ -601,14 +601,14 @@ Handoff moet ook aanstaan in het gedeelte Algemeen van Instellingen en je appara
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Een QR-code maken</translation>
 <translation id="567881659373499783">Versie <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Er wordt nu 1 Chrome-venster getoond}other{Er worden nu {count} Chrome-vensters getoond}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Er wordt nu 1 Egon-venster getoond}other{Er worden nu {count} Egon-vensters getoond}}</translation>
 <translation id="5701270923492462699">Cameratoegang toegestaan</translation>
 <translation id="5704908597376970822">Kan niet inloggen.</translation>
 <translation id="5706552126692816153">1 dag geleden actief</translation>
 <translation id="5711039611392265845">Bekijk <ph name="BEGIN_LINK" />Synchronisatie en Google-services<ph name="END_LINK" /> voor meer instellingen die verband houden met privacy, beveiliging en gegevensverzameling.</translation>
 <translation id="5724941645893276623">Voeg een nieuw tabblad toe als je privé wilt browsen</translation>
 <translation id="5728700505257787410">Er is een probleem opgetreden met het inloggen op je account.</translation>
-<translation id="5733084997078800044">Chrome-tip</translation>
+<translation id="5733084997078800044">Egon-tip</translation>
 <translation id="5737974891429562743">De inloggegevens voor het account zijn verouderd. Voer een update uit om te synchroniseren.</translation>
 <translation id="5738385766833540397">Beheren hoe je meldingen over prijsdalingen krijgt voor producten die je volgt</translation>
 <translation id="5738887413654608789">Hiermee kun je relevante webpagina's vinden op basis van je omgeving.</translation>
@@ -623,7 +623,7 @@ Handoff moet ook aanstaan in het gedeelte Algemeen van Instellingen en je appara
 <translation id="5812974770859303494">Toevoegen aan…</translation>
 <translation id="581659025233126501">Synchronisatie aanzetten</translation>
 <translation id="5819208479324046259">Beheerd door <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Sla wachtwoorden, betaalmethoden en adressen op zodat Chrome ze later automatisch kan invullen.</translation>
+<translation id="5833643789537100742">Sla wachtwoorden, betaalmethoden en adressen op zodat Egon ze later automatisch kan invullen.</translation>
 <translation id="5846482154967366008">Zoekmachine</translation>
 <translation id="5854790677617711513">Ouder dan 30 dagen</translation>
 <translation id="5857090052475505287">Nieuwe map</translation>
@@ -650,7 +650,7 @@ Handoff moet ook aanstaan in het gedeelte Algemeen van Instellingen en je appara
 <translation id="5982717868370722439">Bestaande gegevens toevoegen aan <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Recent bezocht</translation>
 <translation id="5988097621740394599">Prijsdalingen bekijken op je tabbladen</translation>
-<translation id="5988851877894965432">URL's openen in Chrome</translation>
+<translation id="5988851877894965432">URL's openen in Egon</translation>
 <translation id="6006672969046233841">Nieuw tabblad</translation>
 <translation id="6012140227487808125">Versleutelen…</translation>
 <translation id="6021332621416007159">Openen in...</translation>
@@ -676,7 +676,7 @@ Handoff moet ook aanstaan in het gedeelte Algemeen van Instellingen en je appara
 <translation id="6152406514676263192">Synchroniseer voor de meest relevante content op basis van je interesses.</translation>
 <translation id="6159839020698489198">optioneel</translation>
 <translation id="6170450281939467187">Vertalen mislukt</translation>
-<translation id="6177442314419606057">Zoeken in Chrome</translation>
+<translation id="6177442314419606057">Zoeken in Egon</translation>
 <translation id="6184086493125982861">Tabbladen bekijken</translation>
 <translation id="6187302354554850004">Laatst gesynchroniseerd: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Ongelezen</translation>
@@ -746,7 +746,7 @@ Probeer een uniek wachtwoord te gebruiken voor elke site.</translation>
 <translation id="6524918542306337007">Incognitomodus is niet beschikbaar</translation>
 <translation id="6530992499366869131">Waarschuwen als je wachtwoorden zijn gelekt bij een gegevenslek</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Bezoek een site en klik in het Chrome-menu op Volgen</translation>
+<translation id="6540120577248033958">Bezoek een site en klik in het Egon-menu op Volgen</translation>
 <translation id="6561262006871132942">Inzoomen</translation>
 <translation id="6583087784430677195">Open <ph name="BEGIN_LINK" />Instellingen<ph name="END_LINK" /> en ga naar Wachtwoorden automatisch invullen om dit uit te zetten.</translation>
 <translation id="6585618849026997638">Je kunt terugkeren naar een pagina die belangrijk voor je is door een bookmark toe te voegen</translation>
@@ -864,7 +864,7 @@ Als je de incognitomodus gebruikt, kunnen sites geen cookies gebruiken om je bro
 <translation id="7454057999980797137">Provincie</translation>
 <translation id="7459628154744868585">Geoptimaliseerde beveiliging staat aan</translation>
 <translation id="7464701184726199289">Hiermee worden gesynchroniseerde gegevens van alle apparaten gewist. Opgeslagen site-instellingen worden niet verwijderd en kunnen je browsegedrag weerspiegelen. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Selecteer Chrome</translation>
+<translation id="746684838091935575">3. Selecteer Egon</translation>
 <translation id="7472734401283673885">Bedrijfsnaam</translation>
 <translation id="7473891865547856676">Nee, bedankt</translation>
 <translation id="750493650310597496">0 geselecteerd</translation>
@@ -899,7 +899,7 @@ Als je de incognitomodus gebruikt, kunnen sites geen cookies gebruiken om je bro
 <translation id="7781011649027948662">Pagina vertalen?</translation>
 <translation id="7781069478569868053">Pagina 'Nieuw tabblad'</translation>
 <translation id="7781829728241885113">Gisteren</translation>
-<translation id="778855399387580014">Start een zoekopdracht op een nieuw Chrome-tabblad.</translation>
+<translation id="778855399387580014">Start een zoekopdracht op een nieuw Egon-tabblad.</translation>
 <translation id="7791543448312431591">Toevoegen</translation>
 <translation id="7807060072011926525">Geleverd door Google</translation>
 <translation id="7839985698273989086">Offline pagina</translation>
@@ -912,7 +912,7 @@ Als je de incognitomodus gebruikt, kunnen sites geen cookies gebruiken om je bro
 <translation id="7859704718976024901">Browsegeschiedenis</translation>
 <translation id="7879275349003161544">Downloads tonen</translation>
 <translation id="7884694604461143138">Zoekgeschiedenis (<ph name="COUNT" /> gevonden)</translation>
-<translation id="7887198238286927132">Ter bescherming van je privacy wordt dit veld niet automatisch ingevuld door Chrome.</translation>
+<translation id="7887198238286927132">Ter bescherming van je privacy wordt dit veld niet automatisch ingevuld door Egon.</translation>
 <translation id="7911190106180361398">Je organisatie staat niet toe dat je alles synchroniseert.</translation>
 <translation id="7920949005883349320">Privacy en beveiliging</translation>
 <translation id="7930998711684428189">Stuurt een waarschuwing als je wachtwoorden zijn gelekt bij een gegevenslek.</translation>
@@ -933,7 +933,7 @@ Sites mogen cookies gebruiken om je browse-activiteit op verschillende sites te 
 <translation id="7982789257301363584">Netwerk</translation>
 <translation id="7987685713885608670">Voor extra beveiliging versleutel je je wachtwoorden op je apparaat voordat ze worden opgeslagen in Google Wachtwoordmanager.</translation>
 <translation id="7993619969781047893">Functies op bepaalde sites werken mogelijk niet meer</translation>
-<translation id="800361585186029508">Hiermee worden de ingevoerde URL's geopend in Google Chrome.</translation>
+<translation id="800361585186029508">Hiermee worden de ingevoerde URL's geopend in Google Egon.</translation>
 <translation id="8016714545083187120">Altijd beveiligde verbindingen gebruiken</translation>
 <translation id="802154636333426148">Downloaden mislukt</translation>
 <translation id="8023878949384262191">Hiermee wordt het gedeelte uitgevouwen.</translation>
@@ -942,7 +942,7 @@ Sites mogen cookies gebruiken om je browse-activiteit op verschillende sites te 
 <translation id="804225253087497565"><ph name="BEGIN_LINK" />Zoekgeschiedenis<ph name="END_LINK" /> en <ph name="BEGIN_LINK" />andere vormen van activiteit<ph name="END_LINK" /> kunnen worden opgeslagen op je Google-account als je bent ingelogd. Je kunt ze wanneer je wilt verwijderen.</translation>
 <translation id="804427445359061970">Hier vind je je tabbladen van andere apparaten</translation>
 <translation id="8059533439631660104">Hiermee wordt het gedeelte samengevouwen.</translation>
-<translation id="8065292699993359127">URL's in Chrome openen in de incognitomodus</translation>
+<translation id="8065292699993359127">URL's in Egon openen in de incognitomodus</translation>
 <translation id="806745655614357130">Mijn gegevens gescheiden houden</translation>
 <translation id="8073670137947914548">Downloaden is voltooid</translation>
 <translation id="8073872304774253879">Zoekopdrachten en browsefunctionaliteit verbeteren</translation>
@@ -956,7 +956,7 @@ Sites mogen cookies gebruiken om je browse-activiteit op verschillende sites te 
 <translation id="8114753159095730575">Bestand downloaden is beschikbaar. Opties beschikbaar onderaan het scherm.</translation>
 <translation id="81313319706244542">2. Tik op Wachtwoorden.</translation>
 <translation id="8132598642024322408">Nu <ph name="PRICE" />, was eerder <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Hiermee worden afspraken gemaakt in je Apple-agenda vanuit Chrome en Google Lens.</translation>
+<translation id="8136856065410661948">Hiermee worden afspraken gemaakt in je Apple-agenda vanuit Egon en Google Lens.</translation>
 <translation id="8156478151976189188">Password Sync werkt niet</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> accounts</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Je apparaten<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Sites mogen cookies gebruiken om je browse-activiteit op verschillende sites te 
 <translation id="8533670235862049797">Safe Browsing staat aan</translation>
 <translation id="8534481786647257214">Google+ bericht voltooid.</translation>
 <translation id="8548878600947630424">Zoeken op deze pagina...</translation>
-<translation id="8558480467877843976">Je kunt Chrome nu gebruiken als je browset of op links in berichten, documenten en andere apps tikt.</translation>
+<translation id="8558480467877843976">Je kunt Egon nu gebruiken als je browset of op links in berichten, documenten en andere apps tikt.</translation>
 <translation id="8588404856427128947">Uit</translation>
 <translation id="8590913940444621808">Nooit vragen</translation>
 <translation id="8591976964826315682">Cookies van derden blokkeren in incognitomodus</translation>
@@ -1043,7 +1043,7 @@ Sites mogen cookies gebruiken om je browse-activiteit op verschillende sites te 
 <translation id="8876882697946675716">Je apparaten synchroniseren</translation>
 <translation id="8877287418679067891">Als standaard instellen in Instellingen…</translation>
 <translation id="8881801611828450202">Zoeken op <ph name="SEARCH_ENGINE" /> naar deze afbeelding</translation>
-<translation id="8891935667620843985">Je kunt links automatisch openen in Chrome door Chrome in te stellen als je standaard browser-app.</translation>
+<translation id="8891935667620843985">Je kunt links automatisch openen in Egon door Egon in te stellen als je standaard browser-app.</translation>
 <translation id="8898822736010347272">Stuurt URL's van sommige pagina's die je bezoekt, beperkte systeeminformatie en bepaalde paginacontent naar Google om nieuwe dreigingen te ontdekken en iedereen op internet te beschermen.</translation>
 <translation id="890565330728586731">Terug</translation>
 <translation id="8909135823018751308">Delen</translation>
@@ -1068,11 +1068,11 @@ Sites mogen cookies gebruiken om je browse-activiteit op verschillende sites te 
 <translation id="9055960261314198756">Geoptimaliseerde beveiliging staat uit</translation>
 <translation id="9057972802061533987">Volgen is mislukt. Er is iets misgegaan.</translation>
 <translation id="9065203028668620118">Bewerken</translation>
-<translation id="9068336935206019333">Openen in Chrome-incognitomodus</translation>
+<translation id="9068336935206019333">Openen in Egon-incognitomodus</translation>
 <translation id="9079935439869366234">Alles als ongelezen markeren</translation>
 <translation id="9081058212938299310">Wachtwoord voor <ph name="USERNAME" /> updaten?</translation>
 <translation id="9083838294503912307">Zet de synchronisatie aan om verschillende apparaten te synchroniseren en te personaliseren.</translation>
-<translation id="9087108903408689779">Wachtwoord voorgesteld door Chrome:</translation>
+<translation id="9087108903408689779">Wachtwoord voorgesteld door Egon:</translation>
 <translation id="9093271241977565440">Tik bovenaan het scherm op het zoekicoon</translation>
 <translation id="9094033019050270033">Wachtwoord updaten</translation>
 <translation id="9097506547406246598">Ontvolgen is mislukt. Er is iets misgegaan.</translation>
@@ -1089,7 +1089,7 @@ Sites mogen cookies gebruiken om je browse-activiteit op verschillende sites te 
 <translation id="9223358826628549784">Crashrapport verzonden.</translation>
 <translation id="941747855997058526">Wachtwoord selecteren…</translation>
 <translation id="952704832371081537">Annuleren</translation>
-<translation id="953008885340860025">Chrome is uitgelogd</translation>
+<translation id="953008885340860025">Egon is uitgelogd</translation>
 <translation id="959066944189734975">Je volgt <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">Je organisatie vereist dat je alleen met bepaalde accounts inlogt. Niet-toegestane accounts zijn verborgen.</translation>
 <translation id="984509647832111802">Synchronisatie werkt niet.</translation>

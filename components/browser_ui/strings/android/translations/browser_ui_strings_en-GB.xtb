@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Drag the slider until you can read this comfortably. Text should look at least this big after double-tapping on a paragraph.</translation>
 <translation id="2329473609445770916">This site defines interests that other sites can use to show you ads</translation>
 <translation id="2359808026110333948">Continue</translation>
-<translation id="2379925928934107488">Apply Dark theme to sites when Chrome uses Dark theme, when possible</translation>
+<translation id="2379925928934107488">Apply Dark theme to sites when Egon uses Dark theme, when possible</translation>
 <translation id="2387895666653383613">Text scaling</translation>
 <translation id="2390272837142897736">Increase zoom</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">From the web</translation>
 <translation id="321187648315454507">To let <ph name="APP_NAME" /> send you notifications, also turn on notifications in <ph name="BEGIN_LINK" />Android settings<ph name="END_LINK" />.</translation>
 <translation id="3227137524299004712">Microphone</translation>
-<translation id="3248611290851046188">This site defines interests that other sites can use to show you ads. This site also gets your interests from Chrome to show you more relevant ads.</translation>
+<translation id="3248611290851046188">This site defines interests that other sites can use to show you ads. This site also gets your interests from Egon to show you more relevant ads.</translation>
 <translation id="3277252321222022663">Allow sites to access sensors (recommended)</translation>
 <translation id="3285500645985761267">Allow related sites to see your activity in the group</translation>
 <translation id="3295019059349372795">Chapter 11: The Wonderful Emerald City of Oz</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">This will clear <ph name="DATASIZE" /> of data and cookies stored by sites.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(+ 1 more)}other{(+ # more)}}</translation>
 <translation id="5403592356182871684">Names</translation>
-<translation id="5412236728747081950">This site gets your interests from Chrome to show you more relevant ads</translation>
+<translation id="5412236728747081950">This site gets your interests from Egon to show you more relevant ads</translation>
 <translation id="5438097262470833822">This choice will reset permissions for <ph name="WEBSITE" /></translation>
 <translation id="5489227211564503167">Elapsed time <ph name="ELAPSED_TIME" /> of <ph name="TOTAL_TIME" />.</translation>
 <translation id="5494752089476963479">Block ads on sites that show intrusive or misleading ads</translation>

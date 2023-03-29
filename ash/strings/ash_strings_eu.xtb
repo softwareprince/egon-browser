@@ -430,7 +430,7 @@ Hona hemen hasteko egin ditzakezun gauza batzuk.</translation>
 <translation id="3378438761594387761">Azken deskargak eta pantaila-kapturak aurkituko dituzu hemen</translation>
 <translation id="3378442621503952303">Profilera konektatzen. Itxaron minutu batzuk.</translation>
 <translation id="3386978599540877378">pantaila osoko lupa</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Ezarpen gehigarriak</translation>
 <translation id="3405101454990027959">Aktibatu mikrofonoa erabiltzeko baimena</translation>
 <translation id="3410336247007142655">Erakutsi gai ilunaren ezarpenak</translation>
@@ -916,7 +916,7 @@ Jarraitu ahal izateko, erabiltzaile guztiek saioa amaitu behar dute.</translatio
 <translation id="6043994281159824495">Amaitu saioa</translation>
 <translation id="6047696787498798094">Pantaila-partekatzea gelditu egingo da beste erabiltzaile batera aldatzen zarenean. Jarraitu nahi duzu?</translation>
 <translation id="6054305421211936131">Hasi saioa txartel adimendunarekin</translation>
-<translation id="6059276912018042191">Azkenaldian erabilitako Chrome-ko fitxak</translation>
+<translation id="6059276912018042191">Azkenaldian erabilitako Egon-ko fitxak</translation>
 <translation id="6062360702481658777">Saioa automatikoki amaituko da <ph name="LOGOUT_TIME_LEFT" /> igarotakoan.</translation>
 <translation id="6064463340679478396">Fitxategia erabiltzen amaitu dut</translation>
 <translation id="6073451960410192870">Utzi grabatzeari</translation>
@@ -1021,7 +1021,7 @@ Berriki instalatu da</translation>
 <translation id="6650933572246256093">Bluetooth bidezko "<ph name="DEVICE_NAME" />" gailuak parekatzeko baimena nahi du. Idatzi pasakode hau gailu horretan: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Pasahitza</translation>
 <translation id="6665545700722362599">Eman webgune, aplikazio eta luzapenei kokapen-zerbitzuak edota gailuaren mikrofonoa, kamera edo beste eginbide batzuk erabiltzeko baimena</translation>
-<translation id="6667908387435388584">Konektatu telefonoaren wifi-gunera, desaktibatu gailuaren audioa, aurkitu gailua eta ikusi bertan Chrome-n ireki dituzu azken fitxak</translation>
+<translation id="6667908387435388584">Konektatu telefonoaren wifi-gunera, desaktibatu gailuaren audioa, aurkitu gailua eta ikusi bertan Egon-n ireki dituzu azken fitxak</translation>
 <translation id="6670153871843998651">3. lan-eremua</translation>
 <translation id="6671495933530132209">Kopiatu irudia</translation>
 <translation id="6671661918848783005">Ezin da desblokeatu Chromebook-a</translation>

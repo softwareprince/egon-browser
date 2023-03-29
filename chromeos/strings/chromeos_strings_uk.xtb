@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Додаток Діагностика</translation>
 <translation id="175763766237925754">Добрий сигнал (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Тип автентифікації</translation>
 <translation id="1782199038061388045">переклад</translation>
 <translation id="1792647875738159689">Сканування скасовується</translation>
@@ -103,7 +103,7 @@
 <translation id="1807246157184219062">Світла</translation>
 <translation id="1827738518074806965">Мистецька галерея</translation>
 <translation id="1851218745569890714">Відеоконференції</translation>
-<translation id="1852934301711881861">Установити ОС Chrome Flex</translation>
+<translation id="1852934301711881861">Установити ОС Egon Flex</translation>
 <translation id="1856388568474281774">Стрілка вниз</translation>
 <translation id="1858620243986915808">Долучити знімок екрана</translation>
 <translation id="1871569928317311284">Вимкнути темну тему</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">визначення</translation>
 <translation id="3488065109653206955">Частково активовано</translation>
 <translation id="3510890413042482857">Надсилати <ph name="BEGIN_LINK1" />дані відстеження ефективності<ph name="END_LINK1" /></translation>
-<translation id="3517001332549868749">Оновлення ОС Chrome</translation>
+<translation id="3517001332549868749">Оновлення ОС Egon</translation>
 <translation id="3527036260304016759">Не надруковано – невідома помилка</translation>
 <translation id="3532980081107202182">Залишилося приблизно <ph name="MIN_REMAINING" /> хв</translation>
 <translation id="3557205324756024651">Локальна ідентифікація (необов’язково)</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">Невідомий тип пристрою.</translation>
 <translation id="3966286471246132217">Щоб отримати точніші результати, закрийте всі додатки, доки перевірка не завершиться.</translation>
 <translation id="3967822245660637423">Завантажено</translation>
-<translation id="3969602104473960991">Пароль ОС Chrome оновлено</translation>
+<translation id="3969602104473960991">Пароль ОС Egon оновлено</translation>
 <translation id="397105322502079400">Обчислення...</translation>
 <translation id="39823212440917567">Завдання друку, старіші за <ph name="NUMBER_OF_DAYS" /> дн., буде вилучено</translation>
 <translation id="3993704782688964914"><ph name="DEVICE_NAME" />: пристрій оновлено</translation>
@@ -530,7 +530,7 @@
 <translation id="6113701710518389813">Стрілка вгору</translation>
 <translation id="6117895505466548728"><ph name="TITLE" /> та інші альбоми (ще <ph name="NUMBER" />)</translation>
 <translation id="6122191549521593678">Онлайн</translation>
-<translation id="6122277663991249694">Сервіс методів введення в ОС Chrome</translation>
+<translation id="6122277663991249694">Сервіс методів введення в ОС Egon</translation>
 <translation id="6137767437444130246">Сертифікат користувача</translation>
 <translation id="6146993107019042706">Щоб завершити, введіть новий пароль</translation>
 <translation id="6147514244879357420">PNG</translation>
@@ -757,7 +757,7 @@
 <translation id="8420955526972171689">Проводьте тести й вирішуйте проблеми з апаратним забезпеченням</translation>
 <translation id="8422748173858722634">IMEI</translation>
 <translation id="8428073762635678092">Вбудована клавіатура</translation>
-<translation id="8431300646573772016">Нові функції ОС Chrome</translation>
+<translation id="8431300646573772016">Нові функції ОС Egon</translation>
 <translation id="843568408673868420">Інтернет-з’єднання</translation>
 <translation id="844521431886043384">DNS не налаштовано</translation>
 <translation id="8456761643544401578">Автоматичний темний режим</translation>

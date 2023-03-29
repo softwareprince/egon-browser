@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">‏جارٍ فتح ملفات نظام التشغيل Linux...</translation>
 <translation id="1547964879613821194">الإنجليزية الكندية</translation>
 <translation id="1556189134700913550">تطبيق على الكل</translation>
-<translation id="1561842594491319104">‏أجهزة Chrome</translation>
+<translation id="1561842594491319104">‏أجهزة Egon</translation>
 <translation id="1572585716423026576">تحديد كخلفية</translation>
 <translation id="1576937952766665062">تحويل صوتي إلى اللغة البنغالية</translation>
 <translation id="1577977504532381335">مراجعة سياسة المشرف</translation>
@@ -70,7 +70,7 @@
 <translation id="1629521517399325891">شهادة المستخدم غير متاحة لعملية مصادقة الشبكة.</translation>
 <translation id="1641780993263690097">‏الصينية باستخدام لوحة مفاتيح Pinyin</translation>
 <translation id="1646019627374511909">جارٍ إتاحة <ph name="NUMBER_OF_ITEMS" /> ملف بلا إنترنت</translation>
-<translation id="164969095109328410">‏جهاز Chrome</translation>
+<translation id="164969095109328410">‏جهاز Egon</translation>
 <translation id="1661867754829461514">رقم التعريف الشخصي غير موجود</translation>
 <translation id="166439687370499867">لا يُسمح بتغيير عمليات ضبط الشبكة المشتركة.</translation>
 <translation id="1665611772925418501">تعذر تعديل على الملف.</translation>
@@ -87,7 +87,7 @@
 <translation id="1742316578210444689">تحويل صوتي إلى اللغة العبرية</translation>
 <translation id="1747761757048858544">الهولندية (هولندا)</translation>
 <translation id="174937106936716857">إجمالي عدد الملفات</translation>
-<translation id="1755345808328621801">‏هذا الملف غير متوافق مع جهازك الذي يعمل بنظام التشغيل Chrome لأنّه مُصمّم لأجهزة الكمبيوتر التي تستخدم نظام التشغيل Windows. يُرجى البحث في سوق Chrome الإلكتروني للحصول على تطبيق بديل مناسب.</translation>
+<translation id="1755345808328621801">‏هذا الملف غير متوافق مع جهازك الذي يعمل بنظام التشغيل Egon لأنّه مُصمّم لأجهزة الكمبيوتر التي تستخدم نظام التشغيل Windows. يُرجى البحث في سوق Egon الإلكتروني للحصول على تطبيق بديل مناسب.</translation>
 <translation id="1757915090001272240">اللاتينية الواسعة</translation>
 <translation id="1773212559869067373">تمّ رفض شهادة المصادقة محليًا</translation>
 <translation id="1775381402323441512">معلومات الفيديو</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">كوكب</translation>
 <translation id="2305020378527873881">تم إخراج <ph name="VOLUME_NAME" />.</translation>
 <translation id="2307462900900812319">إعداد الشبكة</translation>
-<translation id="2325650632570794183">‏نوع الملف هذا غير متوافق. يُرجى الانتقال إلى سوق Chrome الإلكتروني للعثور على تطبيق يمكنه فتح هذا النوع من الملفات.</translation>
+<translation id="2325650632570794183">‏نوع الملف هذا غير متوافق. يُرجى الانتقال إلى سوق Egon الإلكتروني للعثور على تطبيق يمكنه فتح هذا النوع من الملفات.</translation>
 <translation id="2326539130272988168">البلغارية</translation>
 <translation id="23721837607121582">‏تنزيل الملف الشخصي لشريحة eSIM على الجهاز الجوّال، الشبكة رقم <ph name="NETWORK_INDEX" /> من أصل <ph name="NETWORK_COUNT" />، <ph name="NETWORK_NAME" /></translation>
 <translation id="2377319039870049694">تبديل إلى عرض القائمة</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687">جارٍ ضبط <ph name="DRIVE_NAME" />...</translation>
 <translation id="2951236788251446349">قنديل البحر</translation>
 <translation id="2958458230122209142">مساحة التخزين منخفضة. يتبقى %<ph name="REMAINING_PERCENTAGE" /> من إجمالي مساحة التخزين الشخصية التي تبلغ <ph name="TOTAL_SPACE" />.</translation>
-<translation id="2977940621473452797">‏هذا الملف غير متوافق مع جهازك الذي يعمل بنظام التشغيل Chrome لأنّه مُصمّم لأجهزة الكمبيوتر التي تستخدم نظام التشغيل Macintosh. يُرجى البحث في سوق Chrome الإلكتروني للحصول على تطبيق بديل مناسب.</translation>
+<translation id="2977940621473452797">‏هذا الملف غير متوافق مع جهازك الذي يعمل بنظام التشغيل Egon لأنّه مُصمّم لأجهزة الكمبيوتر التي تستخدم نظام التشغيل Macintosh. يُرجى البحث في سوق Egon الإلكتروني للحصول على تطبيق بديل مناسب.</translation>
 <translation id="2984337792991268709">اليوم <ph name="TODAY_DAYTIME" /></translation>
 <translation id="299638574917407533">الفرنسية (كندا)</translation>
 <translation id="3003189754374775221">الشبكة <ph name="NETWORK_INDEX" /> من <ph name="NETWORK_COUNT" />، <ph name="NETWORK_NAME" />، <ph name="NETWORK_PROVIDER_NAME" />، قوة الإشارة <ph name="SIGNAL_STRENGTH" />%، الاتصال</translation>
@@ -421,7 +421,7 @@
 <translation id="4694604912444486114">قرد</translation>
 <translation id="469612310041132144">‏الصينية باستخدام لوحة مفاتيح Quick</translation>
 <translation id="4697043402264950621">تم ترتيب قائمة الملف تصاعديًا حسب <ph name="COLUMN_NAME" />.</translation>
-<translation id="469897186246626197">‏هذا الملف غير متوافق مع جهازك الذي يعمل بنظام التشغيل Chrome لأنّه مُصمّم لأجهزة الكمبيوتر التي تستخدم نظام التشغيل Windows. <ph name="BEGIN_LINK_HELP" />مزيد من المعلومات<ph name="END_LINK_HELP" /> حول فتح الملفات على نظام التشغيل Chrome</translation>
+<translation id="469897186246626197">‏هذا الملف غير متوافق مع جهازك الذي يعمل بنظام التشغيل Egon لأنّه مُصمّم لأجهزة الكمبيوتر التي تستخدم نظام التشغيل Windows. <ph name="BEGIN_LINK_HELP" />مزيد من المعلومات<ph name="END_LINK_HELP" /> حول فتح الملفات على نظام التشغيل Egon</translation>
 <translation id="4706042980341760088">التاميلية باستخدام لوحة مفاتيح الآلة الكاتبة</translation>
 <translation id="4711094779914110278">التركية</translation>
 <translation id="4712283082407695269">جارٍ فتح "<ph name="PATH" />"</translation>
@@ -551,7 +551,7 @@
 <translation id="5583664733673201137">عرض علامات الترقيم هو عرض بالكامل</translation>
 <translation id="5602622065581044566">البلغارية باستخدام لوحة المفاتيح الصوتية</translation>
 <translation id="5605830556594064952">‏الأمريكية Dvorak</translation>
-<translation id="5618330573454123917">‏هذا الملف غير متوافق مع جهازك الذي يعمل بنظام التشغيل Chrome لأنّه مُصمّم لأجهزة الكمبيوتر التي تستخدم نظام التشغيل Macintosh. <ph name="BEGIN_LINK_HELP" />مزيد من المعلومات<ph name="END_LINK_HELP" /> حول فتح الملفات على نظام التشغيل Chrome</translation>
+<translation id="5618330573454123917">‏هذا الملف غير متوافق مع جهازك الذي يعمل بنظام التشغيل Egon لأنّه مُصمّم لأجهزة الكمبيوتر التي تستخدم نظام التشغيل Macintosh. <ph name="BEGIN_LINK_HELP" />مزيد من المعلومات<ph name="END_LINK_HELP" /> حول فتح الملفات على نظام التشغيل Egon</translation>
 <translation id="5625294776298156701">‏التاميلية باستخدام لوحة مفاتيح Tamil99</translation>
 <translation id="5633226425545095130">يؤدي نقل هذا الملف إلى مشاركته مع جميع المستخدمين الذين يمكنهم الاطّلاع على المجلد المشترك "<ph name="DESTINATION_NAME" />".</translation>
 <translation id="5649768706273821470">استماع</translation>
@@ -753,7 +753,7 @@
 <translation id="7309413087278791451">الألمانية (بلجيكا)</translation>
 <translation id="7339898014177206373">نافذة جديدة</translation>
 <translation id="7343393116438664539">‏الفيتنامية باستخدام لوحة مفاتيح Telex</translation>
-<translation id="7357762654218998920">‏هذا النوع من الملفات غير متوافق. <ph name="BEGIN_LINK_HELP" />مزيد من المعلومات<ph name="END_LINK_HELP" /> حول فتح الملفات على نظام التشغيل Chrome</translation>
+<translation id="7357762654218998920">‏هذا النوع من الملفات غير متوافق. <ph name="BEGIN_LINK_HELP" />مزيد من المعلومات<ph name="END_LINK_HELP" /> حول فتح الملفات على نظام التشغيل Egon</translation>
 <translation id="7359359531237882347">جارٍ نسخ <ph name="NUMBER_OF_ITEMS" /> من العناصر...</translation>
 <translation id="7375951387215729722">تم ترتيب قائمة الملف تنازليًا حسب <ph name="COLUMN_NAME" />.</translation>
 <translation id="7377161162143020057">تحظر سياسة المشرف إمكانية نسخ هذا الملف.</translation>
@@ -962,7 +962,7 @@
 <translation id="908378762078012445">‏الروسية باستخدام لوحة مفاتيح AATSEEL الصوتية</translation>
 <translation id="9099674669267916096">عدد الصفحات</translation>
 <translation id="9100610230175265781">عبارة المرور مطلوبة</translation>
-<translation id="9110990317705400362">‏نحن نبحث باستمرار عن طرق من شأنها زيادة أمان تجربة تصفحك. في السابق، كان من الممكن لأي موقع إلكتروني أن يطالبك بتثبيت إضافة في متصفحك. أما في أحدث إصدارات Google Chrome، فيجب أن تبلغ Chrome صراحة أنك تريد تثبيت هذه الإضافات عن طريق إضافتها عبر صفحة الإضافات. <ph name="BEGIN_LINK" />مزيد من المعلومات<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">‏نحن نبحث باستمرار عن طرق من شأنها زيادة أمان تجربة تصفحك. في السابق، كان من الممكن لأي موقع إلكتروني أن يطالبك بتثبيت إضافة في متصفحك. أما في أحدث إصدارات Google Egon، فيجب أن تبلغ Egon صراحة أنك تريد تثبيت هذه الإضافات عن طريق إضافتها عبر صفحة الإضافات. <ph name="BEGIN_LINK" />مزيد من المعلومات<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">فتح القفل</translation>
 <translation id="9116909380156770361">نقْل الملف إلى <ph name="RESTRICTED_COMPONENTS" /></translation>
 <translation id="912419004897138677">برنامج ترميز</translation>

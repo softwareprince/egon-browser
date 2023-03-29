@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> yamathebhu akho awakasetshenziswa kamuva nje. Wavale?</translation>
 <translation id="1181037720776840403">Susa</translation>
 <translation id="125153950246128346">Thepha ukuze ubone enye ithebhu</translation>
-<translation id="1403228085774130835">Ungathola amathebhu akho avaliwe kumathebhu Akamuva ngaphansi kwemenyu eyinhloko ye-Chrome</translation>
+<translation id="1403228085774130835">Ungathola amathebhu akho avaliwe kumathebhu Akamuva ngaphansi kwemenyu eyinhloko ye-Egon</translation>
 <translation id="1455506303394048917">Umsebenzi wakho kulamathebhu we-Incognito uzosulwa kusuka kule divayisi</translation>
 <translation id="1499635324672558517">Vala wonke amathebhu we-incognito?</translation>
 <translation id="1657719826150349398">Yisa ithebhu phansi</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Buka ulwazi lwesitoreji, inketho itholakala eduze naphezulu kwesikrini</translation>
 <translation id="5558362125926932819">Vala iqembu lethebhu ngamathebhu angu-<ph name="NUMBER_OF_TABS" /></translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> amathebhu aqoqiwe</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Ilinki engu-<ph name="TABS_COUNT_ONE" /> esuka ku-Chrome}one{Amalinki angu-<ph name="TABS_COUNT_MANY" /> asuka ku-Chrome}other{Amalinki angu-<ph name="TABS_COUNT_MANY" /> asuka ku-Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Ilinki engu-<ph name="TABS_COUNT_ONE" /> esuka ku-Egon}one{Amalinki angu-<ph name="TABS_COUNT_MANY" /> asuka ku-Egon}other{Amalinki angu-<ph name="TABS_COUNT_MANY" /> asuka ku-Egon}}</translation>
 <translation id="575494663145460764">Thola izexwayiso zokwehla kwentengo?</translation>
 <translation id="58326064309361797">Hudula amathebhu ukuze uwafake eqenjini</translation>
 <translation id="5846292395804797011">Vala iqembu elingu-<ph name="TITLE_OF_GROUP" /> lamathebhu angu-<ph name="NUMBER_OF_TABS" /></translation>

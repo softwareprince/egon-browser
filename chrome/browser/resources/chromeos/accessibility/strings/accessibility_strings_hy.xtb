@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">չեղարկել</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">4-րդ մակարդակի հաջորդ վերնագիր չկա</translation>
-<translation id="1212770441379271564">Հաջորդ մի քանի դյուրանցումները ChromeVox-ին չեն վերաբերում, սակայն դրանք ևս շատ օգտակար են Chrome-ն օգտագործելիս։
+<translation id="1212770441379271564">Հաջորդ մի քանի դյուրանցումները ChromeVox-ին չեն վերաբերում, սակայն դրանք ևս շատ օգտակար են Egon-ն օգտագործելիս։
     Կոճակների, հղումների և էջի այլ ստեղների միջև տեղաշարժվելու համար սեղմեք Tab ստեղնը։ Նախորդ տարրին անցնելու համար սեղմեք Shift+Tab։
-    Chrome դիտարկիչի հասցեագոտում (նաև omnibox) մուտքագրելու համար սեղմեք Control+L։
+    Egon դիտարկիչի հասցեագոտում (նաև omnibox) մուտքագրելու համար սեղմեք Control+L։
     Ավտոմատ նոր ներդիր բացելու համար սեղմեք Control+T։ Նշորդը կլինի omnibox-ում։ 
     Ներդիրը փակելու համար սեղմեք Control+W։
     Բացված ներդիրներում առաջ անցնելու համար սեղմեք Control+Tab։
-    Chrome դիտարկիչի ընտրացանկը բացելու համար սեղմեք Alt+F։</translation>
-<translation id="1213216066620407844">ChromeVox՝ ձայնային միջերես Chrome-ի համար</translation>
+    Egon դիտարկիչի ընտրացանկը բացելու համար սեղմեք Alt+F։</translation>
+<translation id="1213216066620407844">ChromeVox՝ ձայնային միջերես Egon-ի համար</translation>
 <translation id="1225969361094801578">Մուգ մոխրակապույտ</translation>
 <translation id="122928249241119550">անցնել նախորդ նախադասությանը</translation>
 <translation id="1230503547248836149">Ընտրվածքի սկիզբը</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Քերականական սխալ</translation>
 <translation id="2603828437139726540">Մեկ նիշ առաջ գնալ</translation>
 <translation id="2619052155095999743">Զետեղել</translation>
-<translation id="2619344480613750862">Դուք նաև կարող եք էկրանի մի բաժնից մյուսին անցնել։ Օրինակ, կարող եք տեղաշարժվել գործարկիչի, դարակի և Chrome-ի ներդիրների միջև։ Հաջորդ բաժնին անցնելու համար չորս մատը սահեցրեք ձախից աջ։ Փորձեք անել դա հենց հիմա։</translation>
+<translation id="2619344480613750862">Դուք նաև կարող եք էկրանի մի բաժնից մյուսին անցնել։ Օրինակ, կարող եք տեղաշարժվել գործարկիչի, դարակի և Egon-ի ներդիրների միջև։ Հաջորդ բաժնին անցնելու համար չորս մատը սահեցրեք ձախից աջ։ Փորձեք անել դա հենց հիմա։</translation>
 <translation id="2624431853467395961">Բացել սովորելու ռեժիմը</translation>
 <translation id="2626530649491650971">clickable</translation>
 <translation id="263637551280112393">Սեղմեք «Որոնում» + Shift + բացատ</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Հիմնական նավիգացիա</translation>
 <translation id="609281021724813947">Նախորդ սահիչ չկա</translation>
 <translation id="6100239002225743044">Մեկ տող վերև գնալ</translation>
-<translation id="6118126368611144850">Android հավելվածներ Chrome-ի համար: Եթե ձեր սարքում տեղադրված է Play Խանութ հավելվածը, ծանոթացեք ChromeVox-ին Android հավելվածների միջոցով: Play Խանութ հավելվածից ներբեռնեք Google Chrome Canary և օգտվեք փորձնական տարբերակից:</translation>
+<translation id="6118126368611144850">Android հավելվածներ Egon-ի համար: Եթե ձեր սարքում տեղադրված է Play Խանութ հավելվածը, ծանոթացեք ChromeVox-ին Android հավելվածների միջոցով: Play Խանութ հավելվածից ներբեռնեք Google Egon Canary և օգտվեք փորձնական տարբերակից:</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">ակտիվացնել</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Բաց ոսկեդեղին</translation>
 <translation id="7541021454094606506">ջնջել բոլորը</translation>
 <translation id="7543255924852002459">Հեռացնել պիտակը</translation>
-<translation id="7552432549459840808">Chrome-ի օգտակար դյուրանցումներ</translation>
+<translation id="7552432549459840808">Egon-ի օգտակար դյուրանցումներ</translation>
 <translation id="7553679324939294712">զետեղել «<ph name="INSERT_PHRASE" />» արտահայտությունը «<ph name="BEFORE_PHRASE" />»-ից առաջ</translation>
 <translation id="7569983096843329377">Սև</translation>
 <translation id="7579911500627256166">կետ <ph name="DOT" /></translation>

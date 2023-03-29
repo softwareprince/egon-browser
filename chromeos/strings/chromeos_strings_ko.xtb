@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">진단 앱</translation>
 <translation id="175763766237925754">양호(<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">인증 유형</translation>
 <translation id="1782199038061388045">번역</translation>
 <translation id="1792647875738159689">스캔 취소 중</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">정의</translation>
 <translation id="3488065109653206955">부분적으로 활성화됨</translation>
 <translation id="3510890413042482857"><ph name="BEGIN_LINK1" />성능 추적 데이터<ph name="END_LINK1" /> 전송</translation>
-<translation id="3517001332549868749">Chrome OS 업데이트</translation>
+<translation id="3517001332549868749">Egon OS 업데이트</translation>
 <translation id="3527036260304016759">실패 - 알 수 없는 오류</translation>
 <translation id="3532980081107202182">약 <ph name="MIN_REMAINING" />분 남음</translation>
 <translation id="3557205324756024651">로컬 ID(선택사항)</translation>

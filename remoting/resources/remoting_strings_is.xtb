@@ -33,7 +33,7 @@ Ef þegar er hakað við „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlæg
 <translation id="2509394361235492552">Tengt við <ph name="HOSTNAME" /></translation>
 <translation id="2540992418118313681">Viltu deila þessari tölvu þannig að annar notandi hafi aðgang og stjórn á henni?</translation>
 <translation id="2579271889603567289">Hýsill hrundi eða ekki tókst að ræsa hann.</translation>
-<translation id="2599300881200251572">Þessi þjónusta gerir tengingar frá biðlurum fyrir fjarstjórnun tölvu í Chrome mögulegar.</translation>
+<translation id="2599300881200251572">Þessi þjónusta gerir tengingar frá biðlurum fyrir fjarstjórnun tölvu í Egon mögulegar.</translation>
 <translation id="2647232381348739934">Chromoting þjónusta</translation>
 <translation id="2676780859508944670">Vinnur…</translation>
 <translation id="2692522824157224199">Höfundarréttur 2022 Google LLC. Öll réttindi áskilin.</translation>
@@ -56,7 +56,7 @@ Ef þegar er hakað við „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlæg
 <translation id="3596628256176442606">Þessi þjónusta leyfir tengingar á innleið frá Chromoting biðlurum.</translation>
 <translation id="369442766917958684">Án nettengingar</translation>
 <translation id="3695446226812920698">Kynntu þér hvernig</translation>
-<translation id="3776024066357219166">Lotu fjarstjórnunar tölvu í Chrome er lokið.</translation>
+<translation id="3776024066357219166">Lotu fjarstjórnunar tölvu í Egon er lokið.</translation>
 <translation id="3858860766373142691">Heiti</translation>
 <translation id="3897092660631435901">Valmynd</translation>
 <translation id="3905196214175737742">Ógilt lén hýsilseiganda.</translation>
@@ -73,7 +73,7 @@ Ef þegar er hakað við „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlæg
 <translation id="4257751272692708833">Framsending vefslóða í <ph name="PRODUCT_NAME" /></translation>
 <translation id="4277736576214464567">Aðgangskóðinn er ógildur. Reyndu aftur.</translation>
 <translation id="4281844954008187215">Þjónustuskilmálar</translation>
-<translation id="4372650392690220936">Höfundarréttur 2022 höfundar Chromium. Öll réttindi áskilin.</translation>
+<translation id="4372650392690220936">Höfundarréttur 2022 höfundar Egon. Öll réttindi áskilin.</translation>
 <translation id="4405930547258349619">Kjarnasafn</translation>
 <translation id="443560535555262820">Opna aðgengisstillingar</translation>
 <translation id="4450893287417543264">Ekki sýna þetta aftur</translation>
@@ -83,7 +83,7 @@ Ef þegar er hakað við „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlæg
 <translation id="4635770493235256822">Fjartengd tæki</translation>
 <translation id="4660011489602794167">Sýna lyklaborð</translation>
 <translation id="4703799847237267011">Chromoting lotunni er lokið</translation>
-<translation id="4741792197137897469">Auðkenning mistókst. Skráðu þig aftur inn í Chrome.</translation>
+<translation id="4741792197137897469">Auðkenning mistókst. Skráðu þig aftur inn í Egon.</translation>
 <translation id="4784508858340177375">X-þjónn hrundi eða ekki tókst að ræsa hann.</translation>
 <translation id="4798680868612952294">Valkostir músarinnar</translation>
 <translation id="4804818685124855865">Aftengja</translation>
@@ -92,7 +92,7 @@ Ef þegar er hakað við „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlæg
 <translation id="4867841927763172006">Senda Print Screen</translation>
 <translation id="4974476491460646149">Tenging lokuð fyrir <ph name="HOSTNAME" /></translation>
 <translation id="4985296110227979402">Fyrst verðurðu að setja upp tölvu með fjaraðgangi</translation>
-<translation id="4987330545941822761">Fjarstjórnun tölvu í Chrome getur ekki auðkennt vafrann til að opna vefslóðir í tækinu. Veldu hann af listanum hér að neðan.</translation>
+<translation id="4987330545941822761">Fjarstjórnun tölvu í Egon getur ekki auðkennt vafrann til að opna vefslóðir í tækinu. Veldu hann af listanum hér að neðan.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (ekki á netinu)</translation>
 <translation id="507204348399810022">Viltu örugglega slökkva á fjartengingum við <ph name="HOSTNAME" />?</translation>
 <translation id="5170982930780719864">Ógilt auðkenni hýsils.</translation>
@@ -101,7 +101,7 @@ Ef þegar er hakað við „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlæg
 <translation id="5234764350956374838">Hunsa</translation>
 <translation id="5308380583665731573">Tengjast</translation>
 <translation id="533625276787323658">Það eru engar tengingar í boði</translation>
-<translation id="5397086374758643919">Fjarlægingarforrit fyrir hýsil fjarstjórnunar tölvu í Chrome</translation>
+<translation id="5397086374758643919">Fjarlægingarforrit fyrir hýsil fjarstjórnunar tölvu í Egon</translation>
 <translation id="5419418238395129586">Síðast nettengt: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Slökkt hefur verið á hýslinum.</translation>
 <translation id="5601503069213153581">PIN-númer</translation>
@@ -111,12 +111,12 @@ Ef þegar er hakað við „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlæg
 <translation id="579702532610384533">Tengjast aftur</translation>
 <translation id="5810269635982033450">Skjárinn virkar sem snertiflötur</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> bað um aðgang til að sjá skjáinn hjá þér og stjórna lyklaborðinu þínu og músinni. Ýttu á „<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />“ ef þú áttir ekki von á þessari beiðni. Annars skaltu velja „<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />“ til að heimila tenginguna þegar þú ert tilbúin(n).</translation>
-<translation id="5823658491130719298">Opnaðu Chrome í tölvunni sem þú vilt fá fjaraðgang að og farðu á <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">Opnaðu Egon í tölvunni sem þú vilt fá fjaraðgang að og farðu á <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">Birtingarvalkostir</translation>
 <translation id="6033507038939587647">Valkostir lyklaborðs</translation>
 <translation id="6040143037577758943">Loka</translation>
 <translation id="6062854958530969723">Mistókst að frumstilla hýsil.</translation>
-<translation id="6099500228377758828">Þjónusta fyrir fjarstjórnun tölvu í Chrome</translation>
+<translation id="6099500228377758828">Þjónusta fyrir fjarstjórnun tölvu í Egon</translation>
 <translation id="6122191549521593678">Á netinu</translation>
 <translation id="6178645564515549384">Hýsill innri samskipta fyrir fjaraðstoð</translation>
 <translation id="618120821413932081">Uppfæra upplausn fjartengda skjáborðsins svo að það passi í gluggann</translation>
@@ -136,12 +136,12 @@ Ef þegar er hakað við „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlæg
 <translation id="701976023053394610">Fjaraðstoð</translation>
 <translation id="7026930240735156896">Fylgdu leiðbeiningunum til að setja upp fjaraðgang fyrir tölvuna þína</translation>
 <translation id="7067321367069083429">Skjárinn virkar sem snertiskjár</translation>
-<translation id="7116737094673640201">Velkomin(n) í fjarstjórnun tölvu í Chrome</translation>
+<translation id="7116737094673640201">Velkomin(n) í fjarstjórnun tölvu í Egon</translation>
 <translation id="7144878232160441200">Reyna aftur</translation>
 <translation id="7312846573060934304">Hýsillinn er ekki tengdur.</translation>
 <translation id="7319983568955948908">Hætta að deila</translation>
 <translation id="7359298090707901886">Ekki er hægt að nota valinn vafra til að opna vefslóðir í staðbundna tækinu.</translation>
-<translation id="7401733114166276557">Fjarstjórnun tölvu í Chrome</translation>
+<translation id="7401733114166276557">Fjarstjórnun tölvu í Egon</translation>
 <translation id="7434397035092923453">Aðgangi hafnað fyrir biðlara: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Biðlari tengdur: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Skipta um reikning</translation>
@@ -156,13 +156,13 @@ Ef þegar er hakað við „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlæg
 <translation id="7868137160098754906">Sláðu inn PIN-númer fyrir fjartengdu tölvuna.</translation>
 <translation id="7895403300744144251">Öryggisstefnur á fjartengdu tölvunni leyfa ekki tengingar frá reikningnum þínum.</translation>
 <translation id="7936528439960309876">Festa til hægri</translation>
-<translation id="7970576581263377361">Auðkenning mistókst. Skráðu þig aftur inn í Chromium.</translation>
+<translation id="7970576581263377361">Auðkenning mistókst. Skráðu þig aftur inn í Egon.</translation>
 <translation id="7981525049612125370">Fjarstjórnunarlotan rann út á tíma.</translation>
 <translation id="8038111231936746805">(sjálfgefið)</translation>
 <translation id="8041089156583427627">Senda ábendingu</translation>
 <translation id="8060029310790625334">Hjálparmiðstöð</translation>
 <translation id="806699900641041263">Tengist við <ph name="HOSTNAME" /></translation>
-<translation id="8073845705237259513">Til að nota fjarstjórnun tölvu í Chrome þarftu að bæta Google reikningi við tækið þitt.</translation>
+<translation id="8073845705237259513">Til að nota fjarstjórnun tölvu í Egon þarftu að bæta Google reikningi við tækið þitt.</translation>
 <translation id="809687642899217504">Tölvurnar mínar</translation>
 <translation id="8116630183974937060">Netvilla kom upp. Gakktu úr skugga um að tækið sé nettengt og reyndu aftur.</translation>
 <translation id="8295077433896346116">Til að nota <ph name="PRODUCT_NAME" /> þarftu að veita heimildina „Aðgengi“ til að hægt sé að senda inntak úr fjartengdu tölvunni inn í þessa Mac-tölvu.
@@ -174,7 +174,7 @@ Ef þegar er merkt í „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlægja 
 <translation id="8383794970363966105">Til að nota Chromoting þarftu að bæta Google reikningi við tækið þitt.</translation>
 <translation id="8386846956409881180">Hýsillinn er stilltur með ógildum OAuth-skilríkjum.</translation>
 <translation id="8397385476380433240">Veita <ph name="PRODUCT_NAME" /> heimild</translation>
-<translation id="8406498562923498210">Veldu lotu sem þú vilt ræsa innan fjarstjórnunar tölvu í Chrome. (Athugaðu að sumar lotugerðir styðja hugsanlega ekki keyrslu innan fjarstjórnunar Chrome og á staðbundnu stjórnborði samtímis.)</translation>
+<translation id="8406498562923498210">Veldu lotu sem þú vilt ræsa innan fjarstjórnunar tölvu í Egon. (Athugaðu að sumar lotugerðir styðja hugsanlega ekki keyrslu innan fjarstjórnunar Egon og á staðbundnu stjórnborði samtímis.)</translation>
 <translation id="8428213095426709021">Stillingar</translation>
 <translation id="8445362773033888690">Skoða í Google Play Store</translation>
 <translation id="8509907436388546015">Ferli skjáborðssamþættingar</translation>
@@ -184,13 +184,13 @@ Ef þegar er merkt í „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlægja 
 <translation id="8743328882720071828">Viltu leyfa <ph name="CLIENT_USERNAME" /> að sjá og stjórna tölvunni þinni?</translation>
 <translation id="8747048596626351634">Lotan hrundi eða ekki tókst að ræsa hana. Ef ~/.chrome-remote-desktop-session er til staðar í fjartengdu tölvunni skaltu ganga úr skugga um að hún ræsi ferli sem er lengi í gangi í forgrunni, til dæmis skjáborðsumhverfi eða gluggastýringu.</translation>
 <translation id="8804164990146287819">Persónuverndarstefna</translation>
-<translation id="8906511416443321782">Aðgangur að hljóðnema er áskilinn til að taka upp hljóð og senda það út í biðlara fjarstjórnunar tölvu í Chrome.</translation>
+<translation id="8906511416443321782">Aðgangur að hljóðnema er áskilinn til að taka upp hljóð og senda það út í biðlara fjarstjórnunar tölvu í Egon.</translation>
 <translation id="9111855907838866522">Þú ert tengd(ur) við fjartengda tækið. Ýttu á skjáinn með fjórum fingrum til að opna valmyndina.</translation>
 <translation id="9126115402994542723">Ekki biðja aftur um PIN-númer þegar tengst er við þennan þjón úr þessu tæki.</translation>
 <translation id="916856682307586697">Ræsa sjálfgefið XSession</translation>
 <translation id="9187628920394877737">Veittu <ph name="PRODUCT_NAME" /> heimildina „Skjáupptaka“</translation>
 <translation id="9213184081240281106">Ógild grunnstilling hýsils.</translation>
 <translation id="981121421437150478">Ónettengt</translation>
-<translation id="985602178874221306">Höfundar Chromium</translation>
+<translation id="985602178874221306">Höfundar Egon</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (síðast á netinu <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

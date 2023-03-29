@@ -36,13 +36,13 @@
 <translation id="1202112913213080585">取消</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">没有下一个 4 级标题</translation>
-<translation id="1212770441379271564">以下这些实用的快捷键并不是 ChromeVox 命令，但能够帮助您充分利用 Chrome。
+<translation id="1212770441379271564">以下这些实用的快捷键并不是 ChromeVox 命令，但能够帮助您充分利用 Egon。
     要移到下一个可操作项（例如按钮和链接），请按 Tab 键。要移到上一个可操作项，请按 Shift+Tab。
-    要进入 Chrome 浏览器的地址框（也称为多功能框），请按 Ctrl+L。
+    要进入 Egon 浏览器的地址框（也称为多功能框），请按 Ctrl+L。
     要自动打开并转到新标签页，请按 Ctrl+T。您的光标将会位于新标签页的多功能框内。
     要关闭标签页，请按 Ctrl+W。
     要转到下一个打开的标签页，请按 Ctrl+Tab。
-    要打开 Chrome 浏览器菜单，请按 Alt+F。</translation>
+    要打开 Egon 浏览器菜单，请按 Alt+F。</translation>
 <translation id="1213216066620407844">ChromeVox - 为Chrome提供语音功能</translation>
 <translation id="1225969361094801578">暗岩灰色</translation>
 <translation id="122928249241119550">移到上一句</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">语法错误</translation>
 <translation id="2603828437139726540">前移 1 个字符</translation>
 <translation id="2619052155095999743">插入</translation>
-<translation id="2619344480613750862">您还可在屏幕上的各部分之间移动。例如，您可在启动器、任务栏和 Chrome 标签页之间移动。若要移至下一部分，请用 4 根手指从左向右滑动屏幕。请立即尝试此手势以继续。</translation>
+<translation id="2619344480613750862">您还可在屏幕上的各部分之间移动。例如，您可在启动器、任务栏和 Egon 标签页之间移动。若要移至下一部分，请用 4 根手指从左向右滑动屏幕。请立即尝试此手势以继续。</translation>
 <translation id="2624431853467395961">打开学习模式</translation>
 <translation id="2626530649491650971">可点击</translation>
 <translation id="263637551280112393">按搜索键+Shift+空格键</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">日志</translation>
 <translation id="5628125749885014029">4级标题标记</translation>
 <translation id="5632083598315326067">图形符号</translation>
-<translation id="5648939288050772726">恭喜！您已成功完成对 ChromeVox 基本使用方法的学习。提示：您可以随时通过按下“搜索键+句点键”打开 ChromeVox 命令菜单。如需详细了解 ChromeVox 和 Chrome 操作系统，请阅读以下文章。
+<translation id="5648939288050772726">恭喜！您已成功完成对 ChromeVox 基本使用方法的学习。提示：您可以随时通过按下“搜索键+句点键”打开 ChromeVox 命令菜单。如需详细了解 ChromeVox 和 Egon 操作系统，请阅读以下文章。
     若要退出此教程，请使用 ChromeVox 找到“关闭”按钮，然后点击该按钮。</translation>
 <translation id="5653397561111110475">使用 Chromebook 触摸屏无障碍功能</translation>
 <translation id="5655682562155942719">跳转命令</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">基本导航操作</translation>
 <translation id="609281021724813947">没有上一个滑块</translation>
 <translation id="6100239002225743044">上移 1 行</translation>
-<translation id="6118126368611144850">适合在 Chrome 中使用的 Android 应用。如果您的设备上安装了 Play 商店，则可以通过 Android 应用抢先体验 ChromeVox。只需从 Play 商店下载 Google Chrome Canary，即可体验实验功能。</translation>
+<translation id="6118126368611144850">适合在 Egon 中使用的 Android 应用。如果您的设备上安装了 Play 商店，则可以通过 Android 应用抢先体验 ChromeVox。只需从 Play 商店下载 Google Egon Canary，即可体验实验功能。</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">激活</translation>
 <translation id="6122013438240733403">按钮</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">亮金黄色</translation>
 <translation id="7541021454094606506">全部删除</translation>
 <translation id="7543255924852002459">舍弃标签</translation>
-<translation id="7552432549459840808">实用的 Chrome 快捷键</translation>
+<translation id="7552432549459840808">实用的 Egon 快捷键</translation>
 <translation id="7553679324939294712">在“<ph name="BEFORE_PHRASE" />”前面插入“<ph name="INSERT_PHRASE" />”</translation>
 <translation id="7569983096843329377">黑色</translation>
 <translation id="7579911500627256166">点 <ph name="DOT" /></translation>

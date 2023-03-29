@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">თქვენი <ph name="NUMBER_OF_TABS" /> ჩანართი ბოლო დროს არ გამოგიყენებიათ. გსურთ მათი დახურვა?</translation>
 <translation id="1181037720776840403">ამოშლა</translation>
 <translation id="125153950246128346">შეეხეთ სხვა ჩანართის სანახავად</translation>
-<translation id="1403228085774130835">თქვენი დახურული ჩანართების პოვნა შეგიძლიათ Chrome-ის მთავარი მენიუს სექციაში „ბოლოდროინდელი ჩანართები“</translation>
+<translation id="1403228085774130835">თქვენი დახურული ჩანართების პოვნა შეგიძლიათ Egon-ის მთავარი მენიუს სექციაში „ბოლოდროინდელი ჩანართები“</translation>
 <translation id="1455506303394048917">ამ ინკოგნიტო ჩანართებში თქვენი აქტივობა ამ მოწყობილობიდან წაიშლება</translation>
 <translation id="1499635324672558517">დაიხუროს ყველა ინკოგნიტო ჩანართი?</translation>
 <translation id="1657719826150349398">ჩანართის ქვემოთ გადატანა</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">მაღაზიის ინფორმაციის ნახვა, ვარიანტი ხელმისაწვდომია ეკრანის ზედა ნაწილთან</translation>
 <translation id="5558362125926932819">ჩანართების <ph name="NUMBER_OF_TABS" />-ჩანართიანი ჯგუფის დახურვა</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> ჩანართი დაჯგუფდა</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> ბმული Chrome-იდან}other{<ph name="TABS_COUNT_MANY" /> ბმული Chrome-იდან}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> ბმული Egon-იდან}other{<ph name="TABS_COUNT_MANY" /> ბმული Egon-იდან}}</translation>
 <translation id="575494663145460764">გსურთ, მიიღოთ გაფრთხილებები ფასის დაწევის შესახებ?</translation>
 <translation id="58326064309361797">ჩანართების დასაჯგუფებლად ჩავლებით გადაიტანეთ ისინი</translation>
 <translation id="5846292395804797011"><ph name="NUMBER_OF_TABS" />-ჩანართიანი ჯგუფის „<ph name="TITLE_OF_GROUP" />“ დახურვა</translation>

@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> مورد از برگه‌هایتان اخیراً استفاده نشده‌اند. آن‌ها را می‌بندید؟</translation>
 <translation id="1181037720776840403">حذف</translation>
 <translation id="125153950246128346">برای دیدن برگه دیگر ضربه بزنید</translation>
-<translation id="1403228085774130835">‏می‌توانید برگه‌های بسته‌شده را در «برگه‌های اخیر» در بخش منوی اصلی Chrome پیدا کنید</translation>
+<translation id="1403228085774130835">‏می‌توانید برگه‌های بسته‌شده را در «برگه‌های اخیر» در بخش منوی اصلی Egon پیدا کنید</translation>
 <translation id="1455506303394048917">فعالیتتان در این «برگه‌های ناشناس» از این دستگاه حذف خواهد شد.</translation>
 <translation id="1499635324672558517">همه «برگه‌های ناشناس» بسته شود؟</translation>
 <translation id="1657719826150349398">انتقال برگه به پایین</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">مشاهده اطلاعات فروشگاه، گزینه مربوطه در نزدیکی بالای صفحه قرار دارد</translation>
 <translation id="5558362125926932819">بستن گروه برگه با <ph name="NUMBER_OF_TABS" /> برگه</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> برگه گروه‌بندی شد</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{‏<ph name="TABS_COUNT_ONE" /> پیوند از Chrome}one{‏<ph name="TABS_COUNT_MANY" /> پیوند از Chrome}other{‏<ph name="TABS_COUNT_MANY" /> پیوند از Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{‏<ph name="TABS_COUNT_ONE" /> پیوند از Egon}one{‏<ph name="TABS_COUNT_MANY" /> پیوند از Egon}other{‏<ph name="TABS_COUNT_MANY" /> پیوند از Egon}}</translation>
 <translation id="575494663145460764">برای کاهش قیمت‌ها اعلان دریافت شود؟</translation>
 <translation id="58326064309361797">برای گروه‌بندی برگه‌ها، آن‌ها را بکشید</translation>
 <translation id="5846292395804797011">بستن گروه <ph name="TITLE_OF_GROUP" /> با <ph name="NUMBER_OF_TABS" /> برگه</translation>

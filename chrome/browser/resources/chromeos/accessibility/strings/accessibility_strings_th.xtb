@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">ยกเลิก</translation>
 <translation id="1206619573307042055">ตัวอักษรวิ่ง</translation>
 <translation id="1207086294218137981">ไม่มีส่วนหัวระดับ 4 ถัดไป</translation>
-<translation id="1212770441379271564">แป้นพิมพ์ลัดต่อไปนี้ไม่ใช่คำสั่ง ChromeVox แต่มีประโยชน์มากเพื่อให้ได้รับประโยชน์สูงสุดจาก Chrome
+<translation id="1212770441379271564">แป้นพิมพ์ลัดต่อไปนี้ไม่ใช่คำสั่ง ChromeVox แต่มีประโยชน์มากเพื่อให้ได้รับประโยชน์สูงสุดจาก Egon
 หากต้องการนำทางไปข้างหน้าผ่านรายการที่ดำเนินการได้ เช่น ปุ่มและลิงก์ ให้กดแป้น Tab หากต้องการนำทางย้อนกลับ ให้กด Shift+Tab
-หากต้องการป้อนข้อมูลในช่องที่อยู่ของเบราว์เซอร์ Chrome หรือที่เรียกอีกอย่างว่าแถบอเนกประสงค์ ให้กด Control+L
+หากต้องการป้อนข้อมูลในช่องที่อยู่ของเบราว์เซอร์ Egon หรือที่เรียกอีกอย่างว่าแถบอเนกประสงค์ ให้กด Control+L
 หากต้องการเปิดและไปที่แท็บใหม่โดยอัตโนมัติ ให้กด Control+T เคอร์เซอร์จะอยู่ในแถบอเนกประสงค์
 หากต้องการปิดแท็บ ให้กด Control+W
 หากต้องการเลื่อนไปข้างหน้าระหว่างแท็บที่เปิดอยู่ ให้ใช้ Control+Tab
-หากต้องการเปิดเมนูเบราว์เซอร์ Chrome ให้กด Alt+F</translation>
-<translation id="1213216066620407844">ChromeVox - ทำให้ Chrome สามารถพูดได้</translation>
+หากต้องการเปิดเมนูเบราว์เซอร์ Egon ให้กด Alt+F</translation>
+<translation id="1213216066620407844">ChromeVox - ทำให้ Egon สามารถพูดได้</translation>
 <translation id="1225969361094801578">สีเทาอมฟ้าเข้ม</translation>
 <translation id="122928249241119550">ย้ายไปที่ประโยคก่อนหน้า</translation>
 <translation id="1230503547248836149">เริ่มส่วนที่เลือก</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">ข้อผิดพลาดด้านไวยากรณ์</translation>
 <translation id="2603828437139726540">เลื่อนไปข้างหน้า 1 อักขระ</translation>
 <translation id="2619052155095999743">แทรก</translation>
-<translation id="2619344480613750862">คุณไปยังส่วนต่างๆ ของหน้าได้ด้วย ตัวอย่างเช่น คุณอาจเลื่อนไปมาระหว่าง Launcher, แถบ และแท็บใน Chrome หากต้องการไปยังส่วนถัดไป ให้ใช้ 4 นิ้วปัดจากซ้ายไปขวา ลองทำเลยเพื่อไปต่อ</translation>
+<translation id="2619344480613750862">คุณไปยังส่วนต่างๆ ของหน้าได้ด้วย ตัวอย่างเช่น คุณอาจเลื่อนไปมาระหว่าง Launcher, แถบ และแท็บใน Egon หากต้องการไปยังส่วนถัดไป ให้ใช้ 4 นิ้วปัดจากซ้ายไปขวา ลองทำเลยเพื่อไปต่อ</translation>
 <translation id="2624431853467395961">เปิดโหมดการเรียนรู้</translation>
 <translation id="2626530649491650971">คลิกได้</translation>
 <translation id="263637551280112393">กดค้นหา + Shift + เว้นวรรค</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">บันทึก</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">สัญลักษณ์กราฟิก</translation>
-<translation id="5648939288050772726">ยินดีด้วย คุณได้เรียนรู้ข้อมูลสำคัญเกี่ยวกับการใช้งาน ChromeVox เรียบร้อยแล้ว โปรดทราบว่าคุณเปิดเมนูคำสั่ง ChromeVox ได้ทุกเมื่อด้วยการกดแป้นค้นหา + เครื่องหมายจุด ดูข้อมูลเพิ่มเติมเกี่ยวกับ ChromeVox และ Chrome OS ได้จากบทความต่อไปนี้
+<translation id="5648939288050772726">ยินดีด้วย คุณได้เรียนรู้ข้อมูลสำคัญเกี่ยวกับการใช้งาน ChromeVox เรียบร้อยแล้ว โปรดทราบว่าคุณเปิดเมนูคำสั่ง ChromeVox ได้ทุกเมื่อด้วยการกดแป้นค้นหา + เครื่องหมายจุด ดูข้อมูลเพิ่มเติมเกี่ยวกับ ChromeVox และ Egon OS ได้จากบทความต่อไปนี้
     หากศึกษาบทแนะนำเรียบร้อยแล้ว ให้ใช้ ChromeVox เพื่อนำทางไปยังปุ่ม "ปิด" แล้วคลิกปุ่มดังกล่าว</translation>
 <translation id="5653397561111110475">ใช้ฟีเจอร์การเข้าถึงบนหน้าจอสัมผัสของ Chromebook</translation>
 <translation id="5655682562155942719">คำสั่งข้าม</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">การนำทางเบื้องต้น</translation>
 <translation id="609281021724813947">ไม่มีแถบเลื่อนก่อนหน้า</translation>
 <translation id="6100239002225743044">เลื่อนขึ้น 1 บรรทัด</translation>
-<translation id="6118126368611144850">แอป Android สำหรับ Chrome ถ้าคุณมี Play Store ในอุปกรณ์ ลองใช้ ChromeVox กับแอป Android และลองใช้การสนับสนุนเชิงทดสอบด้วยการดาวน์โหลด Google Chrome Canary จาก Play Store</translation>
+<translation id="6118126368611144850">แอป Android สำหรับ Egon ถ้าคุณมี Play Store ในอุปกรณ์ ลองใช้ ChromeVox กับแอป Android และลองใช้การสนับสนุนเชิงทดสอบด้วยการดาวน์โหลด Google Egon Canary จาก Play Store</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">เปิดใช้งาน</translation>
 <translation id="6122013438240733403">ปุ่ม</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">สีเหลืองโกลเด้นร็อดอ่อน</translation>
 <translation id="7541021454094606506">ลบทั้งหมด</translation>
 <translation id="7543255924852002459">ทิ้งป้ายกำกับ</translation>
-<translation id="7552432549459840808">แป้นพิมพ์ลัดของ Chrome ที่มีประโยชน์</translation>
+<translation id="7552432549459840808">แป้นพิมพ์ลัดของ Egon ที่มีประโยชน์</translation>
 <translation id="7553679324939294712">แทรก <ph name="INSERT_PHRASE" /> ก่อน <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">สีดำ</translation>
 <translation id="7579911500627256166">จุด <ph name="DOT" /></translation>

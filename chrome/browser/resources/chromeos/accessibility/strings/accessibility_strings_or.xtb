@@ -38,12 +38,12 @@
 <translation id="1207086294218137981">କୌଣସି ପରବର୍ତ୍ତୀ ସ୍ତର 4 ହେଡିଂ ନାହିଁ</translation>
 <translation id="1212770441379271564">ପରବର୍ତ୍ତୀ କିଛି ସର୍ଟକଟ୍ ChromeVox କମାଣ୍ଡ ନୁହେଁ, କିନ୍ତୁ ଏବେ ବି Chromeରୁ ଅନେକ କିଛି ପାଇବା ପାଇଁ ସେଗୁଡ଼ିକ ବହୁତ ଉପଯୋଗୀ ଅଟେ।
     ବଟନ୍ ଓ ଲିଙ୍କ୍ ଭଳି କାର୍ଯ୍ୟାନୁଷ୍ଠାନ ନେବା ଆଇଟମଗୁଡ଼ିକ ମାଧ୍ୟମରେ ଆଗକୁ ନାଭିଗେଟ୍ କରିବା ପାଇଁ, ଟାବ୍ କୀ ଦବାନ୍ତୁ। ପଛକୁ ନାଭିଗେଟ୍ କରିବା ପାଇଁ Shift+Tab ଦବାନ୍ତୁ।
-    Chrome ବ୍ରାଉଜର୍ ଠିକଣା ବାକ୍ସ ଯାହାକୁ omnibox ମଧ୍ୟ କୁହାଯାଏ, ଲେଖିବା ପାଇଁ, Control + L ଦବାନ୍ତୁ।
+    Egon ବ୍ରାଉଜର୍ ଠିକଣା ବାକ୍ସ ଯାହାକୁ omnibox ମଧ୍ୟ କୁହାଯାଏ, ଲେଖିବା ପାଇଁ, Control + L ଦବାନ୍ତୁ।
     ସ୍ୱଚାଳିତ ଭାବେ ଗୋଟିଏ ନୂଆ ଟାବ୍ ଖୋଲି ସେଠାକୁ ଯିବାପାଇଁ, Control+T ଦବାନ୍ତୁ। ଆପଣଙ୍କର କର୍ସର୍ omniboxରେ ରହିବ।
     ଗୋଟିଏ ଟାବ୍ ବନ୍ଦ କରିବା ପାଇଁ, Control+W ଦବାନ୍ତୁ।
     ଖୋଲାଥିବା ଟାବଗୁଡ଼ିକ ମଧ୍ୟରେ ଆଗକୁ ବଢ଼ିବା ପାଇଁ, Control+Tab ବ୍ୟବହାର କରନ୍ତୁ।
-    Chrome ବ୍ରାଉଜର୍ ମେନୁ ଖୋଲିବା ପାଇଁ, Alt+F ଦବାନ୍ତୁ।</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome ପାଇଁ ଭଏସ୍ ଦିଅନ୍ତୁ</translation>
+    Egon ବ୍ରାଉଜର୍ ମେନୁ ଖୋଲିବା ପାଇଁ, Alt+F ଦବାନ୍ତୁ।</translation>
+<translation id="1213216066620407844">ChromeVox - Egon ପାଇଁ ଭଏସ୍ ଦିଅନ୍ତୁ</translation>
 <translation id="1225969361094801578">ଗାଢ଼ ସ୍ଲେଟ୍ ଧୂସର</translation>
 <translation id="122928249241119550">ପୂର୍ବବର୍ତ୍ତୀ ବାକ୍ୟକୁ ମୁଭ କରନ୍ତୁ</translation>
 <translation id="1230503547248836149">ଚୟନର ଆରମ୍ଭ</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">ବ୍ୟାକରଣ ତ୍ରୁଟି</translation>
 <translation id="2603828437139726540">ଗୋଟିଏ ଅକ୍ଷର ଆଗକୁ ନିଅନ୍ତୁ</translation>
 <translation id="2619052155095999743">ଇନସାର୍ଟ କରନ୍ତୁ</translation>
-<translation id="2619344480613750862">ଆପଣ ସ୍କ୍ରିନର ବିଭାଗଗୁଡ଼ିକ ମଧ୍ୟରେ ମୁଭ୍ ମଧ୍ୟ କରିପାରିବେ। ଉଦାହରଣ ସ୍ୱରୂପ, ଆପଣ ଲଞ୍ଚର୍, ସେଲ୍ଫ ଏବଂ ଆପଣଙ୍କ Chrome ଟାବଗୁଡ଼ିକ ମଧ୍ୟରେ ମୁଭ୍ କରିପାରିବେ। ପରବର୍ତ୍ତୀ ବିଭାଗକୁ ମୁଭ୍ କରିବା ପାଇଁ ଚାରି ଆଙ୍ଗୁଠିରେ ବାମରୁ ଡାହାଣକୁ ସ୍ୱାଇପ୍ କରନ୍ତୁ। ଜାରି ରଖିବା ପାଇଁ ବର୍ତ୍ତମାନ ଏହାକୁ ବ୍ୟବହାର କରି ଦେଖନ୍ତୁ।</translation>
+<translation id="2619344480613750862">ଆପଣ ସ୍କ୍ରିନର ବିଭାଗଗୁଡ଼ିକ ମଧ୍ୟରେ ମୁଭ୍ ମଧ୍ୟ କରିପାରିବେ। ଉଦାହରଣ ସ୍ୱରୂପ, ଆପଣ ଲଞ୍ଚର୍, ସେଲ୍ଫ ଏବଂ ଆପଣଙ୍କ Egon ଟାବଗୁଡ଼ିକ ମଧ୍ୟରେ ମୁଭ୍ କରିପାରିବେ। ପରବର୍ତ୍ତୀ ବିଭାଗକୁ ମୁଭ୍ କରିବା ପାଇଁ ଚାରି ଆଙ୍ଗୁଠିରେ ବାମରୁ ଡାହାଣକୁ ସ୍ୱାଇପ୍ କରନ୍ତୁ। ଜାରି ରଖିବା ପାଇଁ ବର୍ତ୍ତମାନ ଏହାକୁ ବ୍ୟବହାର କରି ଦେଖନ୍ତୁ।</translation>
 <translation id="2624431853467395961">ଜାଣିବା ମୋଡ୍‌ ଖୋଲନ୍ତୁ</translation>
 <translation id="2626530649491650971">କ୍ଲିକ୍ ଯୋଗ୍ୟ</translation>
 <translation id="263637551280112393">Search+Shift+Space ଦବାନ୍ତୁ</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">ମୌଳିକ ନାଭିଗେସନ୍</translation>
 <translation id="609281021724813947">କୌଣସି ପୂର୍ବବର୍ତ୍ତୀ ସ୍ଲାଇଡର୍ ନାହିଁ</translation>
 <translation id="6100239002225743044">ଗୋଟିଏ ଲାଇନ୍ ଉପରକୁ ନିଅନ୍ତୁ</translation>
-<translation id="6118126368611144850">Chrome ପାଇଁ Android ଆପ୍ସ। ଯଦି ଆପଣଙ୍କର ଡିଭାଇସ୍‌ରେ ଆପଣଙ୍କର Play Store ଅଛି, ତେବେ Android ଆପ୍ସ ମାଧ୍ୟମରେ ChromeVoxରେ ଏକ ନଜର ପକାନ୍ତୁ। Play Storeରୁ Google Chrome Canary ଡାଉନ୍‌ଲୋଡ୍‌ କରି ପରୀକ୍ଷଣ ଭାବରେ ଦିଆଯାଇଥିବା ସୁବିଧା ବ୍ୟବହାର କରି ଦେଖନ୍ତୁ।</translation>
+<translation id="6118126368611144850">Egon ପାଇଁ Android ଆପ୍ସ। ଯଦି ଆପଣଙ୍କର ଡିଭାଇସ୍‌ରେ ଆପଣଙ୍କର Play Store ଅଛି, ତେବେ Android ଆପ୍ସ ମାଧ୍ୟମରେ ChromeVoxରେ ଏକ ନଜର ପକାନ୍ତୁ। Play Storeରୁ Google Egon Canary ଡାଉନ୍‌ଲୋଡ୍‌ କରି ପରୀକ୍ଷଣ ଭାବରେ ଦିଆଯାଇଥିବା ସୁବିଧା ବ୍ୟବହାର କରି ଦେଖନ୍ତୁ।</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">କ୍ରିୟାଶୀଳ କରନ୍ତୁ</translation>
 <translation id="6122013438240733403">ବଟନ୍</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">ଗୋଲ୍ଡେନ୍ ରଡ୍ ପରି ହାଲୁକା ହଳଦିଆ</translation>
 <translation id="7541021454094606506">ସବୁ ଡିଲିଟ କରନ୍ତୁ</translation>
 <translation id="7543255924852002459">ଲେବଲ୍ ଖାରଜ କରନ୍ତୁ</translation>
-<translation id="7552432549459840808">ଉପଯୋଗୀ Chrome ସର୍ଟକଟ୍‍ଗୁଡ଼ିକ</translation>
+<translation id="7552432549459840808">ଉପଯୋଗୀ Egon ସର୍ଟକଟ୍‍ଗୁଡ଼ିକ</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" /> ପୂର୍ବରୁ <ph name="INSERT_PHRASE" /> ଇନସାର୍ଟ କରନ୍ତୁ</translation>
 <translation id="7569983096843329377">କଳା</translation>
 <translation id="7579911500627256166">ଡଟ୍ <ph name="DOT" /></translation>

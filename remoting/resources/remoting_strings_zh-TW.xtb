@@ -33,7 +33,7 @@
 <translation id="2509394361235492552">已連線至「<ph name="HOSTNAME" />」</translation>
 <translation id="2540992418118313681">您要與其他使用者分享這台電腦的瀏覽及控制權限嗎？</translation>
 <translation id="2579271889603567289">主機當機或無法啟動。</translation>
-<translation id="2599300881200251572">這項服務允許來自 Chrome 遠端桌面用戶端的連線。</translation>
+<translation id="2599300881200251572">這項服務允許來自 Egon 遠端桌面用戶端的連線。</translation>
 <translation id="2647232381348739934">Chromoting 服務</translation>
 <translation id="2676780859508944670">運作中…</translation>
 <translation id="2692522824157224199">版權所有 2022 Google LLC。保留所有權利。</translation>
@@ -56,7 +56,7 @@
 <translation id="3596628256176442606">這項服務允許來自 Chromoting 用戶端的連線。</translation>
 <translation id="369442766917958684">離線。</translation>
 <translation id="3695446226812920698">操作說明</translation>
-<translation id="3776024066357219166">你的 Chrome 遠端桌面工作階段已結束。</translation>
+<translation id="3776024066357219166">你的 Egon 遠端桌面工作階段已結束。</translation>
 <translation id="3858860766373142691">名稱</translation>
 <translation id="3897092660631435901">選單</translation>
 <translation id="3905196214175737742">主機擁有者網域無效。</translation>
@@ -73,7 +73,7 @@
 <translation id="4257751272692708833"><ph name="PRODUCT_NAME" /> URL 轉發工具</translation>
 <translation id="4277736576214464567">存取碼無效，請再試一次。</translation>
 <translation id="4281844954008187215">服務條款</translation>
-<translation id="4372650392690220936">版權所有 2022 The Chromium Authors。保留所有權利。</translation>
+<translation id="4372650392690220936">版權所有 2022 The Egon Authors。保留所有權利。</translation>
 <translation id="4405930547258349619">核心資料庫</translation>
 <translation id="443560535555262820">開啟無障礙功能偏好設定</translation>
 <translation id="4450893287417543264">不要再顯示</translation>
@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">遠端裝置</translation>
 <translation id="4660011489602794167">顯示鍵盤</translation>
 <translation id="4703799847237267011">你的 Chromoting 工作階段已結束。</translation>
-<translation id="4741792197137897469">驗證失敗，請重新登入 Chrome。</translation>
+<translation id="4741792197137897469">驗證失敗，請重新登入 Egon。</translation>
 <translation id="4784508858340177375">X 伺服器當機或無法啟動。</translation>
 <translation id="4798680868612952294">滑鼠選項</translation>
 <translation id="4804818685124855865">中斷連線</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">傳送 PrtScn</translation>
 <translation id="4974476491460646149">「<ph name="HOSTNAME" />」連線已中斷</translation>
 <translation id="4985296110227979402">您必須先設定電腦，才能執行遠端存取作業。</translation>
-<translation id="4987330545941822761">Chrome 遠端桌面無法決定要用哪個瀏覽器在本機上開啟網址。請從下方清單中選擇瀏覽器。</translation>
+<translation id="4987330545941822761">Egon 遠端桌面無法決定要用哪個瀏覽器在本機上開啟網址。請從下方清單中選擇瀏覽器。</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (離線)</translation>
 <translation id="507204348399810022">您確定要停用與「<ph name="HOSTNAME" />」之間的遠端連線嗎？</translation>
 <translation id="5170982930780719864">主機 ID 無效。</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">關閉</translation>
 <translation id="5308380583665731573">連線</translation>
 <translation id="533625276787323658">沒有可供連線的電腦</translation>
-<translation id="5397086374758643919">Chrome 遠端桌面主機端解除安裝程式</translation>
+<translation id="5397086374758643919">Egon 遠端桌面主機端解除安裝程式</translation>
 <translation id="5419418238395129586">上次上線日期：<ph name="DATE" /></translation>
 <translation id="544077782045763683">主機已關閉。</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">重新連線</translation>
 <translation id="5810269635982033450">把螢幕當作觸控板使用</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> 要求你授予螢幕的檢視權限和鍵盤與滑鼠的控制權限。如果這不是預期收到的要求，請按下 [<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />]；否則，請在準備就緒時選取 [<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />] 允許連線。</translation>
-<translation id="5823658491130719298">在你要從遠端存取的電腦上，開啟 Chrome 並造訪 <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">在你要從遠端存取的電腦上，開啟 Egon 並造訪 <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">顯示選項</translation>
 <translation id="6033507038939587647">鍵盤選項</translation>
 <translation id="6040143037577758943">關閉</translation>
 <translation id="6062854958530969723">主機初始化失敗。</translation>
-<translation id="6099500228377758828">Chrome 遠端桌面服務</translation>
+<translation id="6099500228377758828">Egon 遠端桌面服務</translation>
 <translation id="6122191549521593678">線上</translation>
 <translation id="6178645564515549384">用於遠端協助的內建訊息傳遞主機</translation>
 <translation id="618120821413932081">更新遠端桌面解析度以符合視窗大小</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">遠端協助</translation>
 <translation id="7026930240735156896">請按照操作說明設定電腦，以便執行遠端存取作業</translation>
 <translation id="7067321367069083429">把螢幕當作觸控螢幕使用</translation>
-<translation id="7116737094673640201">歡迎使用 Chrome 遠端桌面</translation>
+<translation id="7116737094673640201">歡迎使用 Egon 遠端桌面</translation>
 <translation id="7144878232160441200">重試</translation>
 <translation id="7312846573060934304">主機已離線。</translation>
 <translation id="7319983568955948908">停止共用</translation>
 <translation id="7359298090707901886">所選瀏覽器無法在本機電腦上開啟網址。</translation>
-<translation id="7401733114166276557">Chrome 遠端桌面</translation>
+<translation id="7401733114166276557">Egon 遠端桌面</translation>
 <translation id="7434397035092923453">用戶端遭拒絕存取：<ph name="CLIENT_USERNAME" />。</translation>
 <translation id="7444276978508498879">已連線至用戶端：<ph name="CLIENT_USERNAME" />。</translation>
 <translation id="7526139040829362392">變更帳戶</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">請為遠端電腦輸入你的 PIN。</translation>
 <translation id="7895403300744144251">遠端電腦的安全性政策禁止從您的帳戶連線。</translation>
 <translation id="7936528439960309876">靠右固定</translation>
-<translation id="7970576581263377361">驗證失敗，請重新登入 Chromium。</translation>
+<translation id="7970576581263377361">驗證失敗，請重新登入 Egon。</translation>
 <translation id="7981525049612125370">遠端工作階段已逾時。</translation>
 <translation id="8038111231936746805">(預設)</translation>
 <translation id="8041089156583427627">提供意見</translation>
 <translation id="8060029310790625334">說明中心</translation>
 <translation id="806699900641041263">正在連線至「<ph name="HOSTNAME" />」</translation>
-<translation id="8073845705237259513">你必須在裝置上新增 Google 帳戶，才能使用 Chrome 遠端桌面。</translation>
+<translation id="8073845705237259513">你必須在裝置上新增 Google 帳戶，才能使用 Egon 遠端桌面。</translation>
 <translation id="809687642899217504">我的電腦</translation>
 <translation id="8116630183974937060">發生網路錯誤。請確認你的裝置已連線至網路，然後再試一次。</translation>
 <translation id="8295077433896346116">如要使用 <ph name="PRODUCT_NAME" />，你必須授予「無障礙功能」權限，才能將遠端電腦上的輸入內容插入這部 Mac。
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">你必須在裝置上新增 Google 帳戶，才能使用 Chromoting。</translation>
 <translation id="8386846956409881180">用於設定主機的 OAuth 憑證無效。</translation>
 <translation id="8397385476380433240">授予權限給 <ph name="PRODUCT_NAME" /></translation>
-<translation id="8406498562923498210">選取要在 Chrome 遠端桌面環境中啟動的工作階段。請注意，部分工作階段類型無法同時在 Chrome 遠端桌面及本地主機中執行。</translation>
+<translation id="8406498562923498210">選取要在 Egon 遠端桌面環境中啟動的工作階段。請注意，部分工作階段類型無法同時在 Egon 遠端桌面及本地主機中執行。</translation>
 <translation id="8428213095426709021">設定</translation>
 <translation id="8445362773033888690">前往 Google Play 商店查看</translation>
 <translation id="8509907436388546015">桌面整合處理序</translation>
@@ -184,13 +184,13 @@
 <translation id="8743328882720071828">你要將電腦的瀏覽及控制權限授予 <ph name="CLIENT_USERNAME" /> 嗎？</translation>
 <translation id="8747048596626351634">工作階段當機或無法啟動。如果遠端電腦有 ~/.chrome-remote-desktop-session，請確認該檔案開始執行長期運作的前景程序，例如桌面環境或視窗管理員。</translation>
 <translation id="8804164990146287819">隱私權政策</translation>
-<translation id="8906511416443321782">該主機需要麥克風存取權才能擷取音訊，並將音訊投放到 Chrome 遠端桌面用戶端。</translation>
+<translation id="8906511416443321782">該主機需要麥克風存取權才能擷取音訊，並將音訊投放到 Egon 遠端桌面用戶端。</translation>
 <translation id="9111855907838866522">你已連上遠端裝置，使用四指輕觸螢幕即可開啟選單。</translation>
 <translation id="9126115402994542723">此裝置連線至這個主機時，不必再次詢問 PIN。</translation>
 <translation id="916856682307586697">啟動預設的 XSession</translation>
 <translation id="9187628920394877737">將「螢幕畫面錄製」權限授予 <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">主機設定無效。</translation>
 <translation id="981121421437150478">離線</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Egon Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (上次上線時間：<ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

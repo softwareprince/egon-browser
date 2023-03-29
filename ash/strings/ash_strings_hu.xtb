@@ -916,7 +916,7 @@ Az összes felhasználónak ki kell jelentkeznie a folytatáshoz.</translation>
 <translation id="6043994281159824495">Kijelentkezés most</translation>
 <translation id="6047696787498798094">A képernyőmegosztás leáll, amikor másik felhasználóra vált. Folytatja?</translation>
 <translation id="6054305421211936131">Bejelentkezés intelligens kártyával</translation>
-<translation id="6059276912018042191">Nemrég megnyitott Chrome-lapok</translation>
+<translation id="6059276912018042191">Nemrég megnyitott Egon-lapok</translation>
 <translation id="6062360702481658777">A rendszer automatikusan kijelentkezteti Önt <ph name="LOGOUT_TIME_LEFT" /> idő múlva.</translation>
 <translation id="6064463340679478396">Már nem használom a fájlt</translation>
 <translation id="6073451960410192870">Felvétel leállítása</translation>
@@ -1021,7 +1021,7 @@ Frissen telepítve</translation>
 <translation id="6650933572246256093">A(z) „<ph name="DEVICE_NAME" />” Bluetooth-eszköz engedélyt kér a párosításra. Kérjük, adja meg ezt a biztonsági kódot azon az eszközön: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Jelszó</translation>
 <translation id="6665545700722362599">Engedélyadás webhelyek, alkalmazások és bővítmények számára a helyszolgáltatásoknak, illetve az eszköz mikrofonjának, kamerájának vagy más funkcióinak használatára</translation>
-<translation id="6667908387435388584">Csatlakozhat telefonja hotspotjára, lenémíthatja eszközét, illetve meghatározhatja a helyzetét, valamint megtekintheti a telefonján nemrég megnyitott Chrome-lapokat</translation>
+<translation id="6667908387435388584">Csatlakozhat telefonja hotspotjára, lenémíthatja eszközét, illetve meghatározhatja a helyzetét, valamint megtekintheti a telefonján nemrég megnyitott Egon-lapokat</translation>
 <translation id="6670153871843998651">3. asztal</translation>
 <translation id="6671495933530132209">Kép másolása</translation>
 <translation id="6671661918848783005">Nem sikerült feloldani a Chromebookot.</translation>

@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">বাতিল করুন</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">কোনও পরবর্তী লেভেল ৪ শিরোনাম নেই</translation>
-<translation id="1212770441379271564">পরবর্তী কয়েকটি শর্টকাট ChromeVox-এর কোনও কমান্ড নয়, কিন্তু তবুও, Chrome থেকে সর্বাধিক সুবিধা পাওয়ার জন্য এগুলি খুবই কার্যকরী ভূমিকা নেয়।
+<translation id="1212770441379271564">পরবর্তী কয়েকটি শর্টকাট ChromeVox-এর কোনও কমান্ড নয়, কিন্তু তবুও, Egon থেকে সর্বাধিক সুবিধা পাওয়ার জন্য এগুলি খুবই কার্যকরী ভূমিকা নেয়।
       বোতাম এবং লিঙ্কগুলির মতো অ্যাকশনযোগ্য আইটেমগুলির মাধ্যমে, আগে নেভিগেট করার জন্য 'Tab' কী প্রেস করুন। পিছনের দিকে নেভিগেট করতে, 'Shift' কীয়ের সাথে 'Tab' কী প্রেস করুন।
-      Chrome-এর ব্রাউজারের অ্যাড্রেস বক্সে কিছু লিখতে, যেটি omnibox নামেও পরিচিত, 'Control' কীয়ের সাথে 'L' কী প্রেস করুন।
+      Egon-এর ব্রাউজারের অ্যাড্রেস বক্সে কিছু লিখতে, যেটি omnibox নামেও পরিচিত, 'Control' কীয়ের সাথে 'L' কী প্রেস করুন।
       অটোমেটিকভাবে একটি নতুন ট্যাব খুলে সেটিতে যাওয়ার জন্য, 'Control' কীয়ের সাথে 'T' কী প্রেস করুন। আপনার কার্সারটি omnibox-এই থাকবে।
       একটি ট্যাব বন্ধ করতে, 'Control' কীয়ের সাথে 'W' কী প্রেস করুন।
       খোলা থাকা একটি ট্যাব থেকে অপর একটি ট্যাবে যাওয়ার জন্য, 'Control' কীয়ের সাথে 'Tab' কী প্রেস করুন।
-      Chrome ব্রাউজারের মেনু খুলতে, 'Alt' কীয়ের সাথে 'F' কী প্রেস করুন।</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome কে ভয়েস প্রদান</translation>
+      Egon ব্রাউজারের মেনু খুলতে, 'Alt' কীয়ের সাথে 'F' কী প্রেস করুন।</translation>
+<translation id="1213216066620407844">ChromeVox - Egon কে ভয়েস প্রদান</translation>
 <translation id="1225969361094801578">গাঢ় স্লেট ধূসর</translation>
 <translation id="122928249241119550">আগের বাক্যে যান</translation>
 <translation id="1230503547248836149">বেছে নেওয়া শুরু করার জায়গা</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">ব্যাকরণগত ভুল</translation>
 <translation id="2603828437139726540">টেক্সটের কার্সর একটি অক্ষর আগে নিয়ে যান</translation>
 <translation id="2619052155095999743">ঢোকান</translation>
-<translation id="2619344480613750862">আপনি স্ক্রিনের নানা বিভাগে নেভিগেট করতে পারেন। যেমন, আপনি লঞ্চার, শেল্ফ ও আপনার Chrome ট্যাবের মধ্যে নেভিগেট করতে পারেন। পরের বিভাগে নেভিগেট করতে চার আঙুল দিয়ে বাঁদিক থেকে ডানদিকে সোয়াইপ করুন। চালিয়ে যেতে এখনই করে দেখুন।</translation>
+<translation id="2619344480613750862">আপনি স্ক্রিনের নানা বিভাগে নেভিগেট করতে পারেন। যেমন, আপনি লঞ্চার, শেল্ফ ও আপনার Egon ট্যাবের মধ্যে নেভিগেট করতে পারেন। পরের বিভাগে নেভিগেট করতে চার আঙুল দিয়ে বাঁদিক থেকে ডানদিকে সোয়াইপ করুন। চালিয়ে যেতে এখনই করে দেখুন।</translation>
 <translation id="2624431853467395961">শিখন মোড খুলুন</translation>
 <translation id="2626530649491650971">ক্লিক যোগ্য</translation>
 <translation id="263637551280112393">Search+Shift+Space প্রেস করুন</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">প্রাথমিক নেভিগেশান</translation>
 <translation id="609281021724813947">কোনও পূর্ববর্তী স্লাইডার নেই</translation>
 <translation id="6100239002225743044">টেক্সটের কার্সার এক লাইন উপরে নিয়ে যান</translation>
-<translation id="6118126368611144850">Chrome এর জন্য Android অ্যাপ। আপনার ডিভাইসে যদি Play Store থাকে তাহলে Android অ্যাপের সাথে ChromeVox ব্যবহার করে দেখুন। Play Store থেকে Google Chrome Canary ডাউনলোড করার মাধ্যমে পরীক্ষামূলক সহায়তা পান।</translation>
+<translation id="6118126368611144850">Egon এর জন্য Android অ্যাপ। আপনার ডিভাইসে যদি Play Store থাকে তাহলে Android অ্যাপের সাথে ChromeVox ব্যবহার করে দেখুন। Play Store থেকে Google Egon Canary ডাউনলোড করার মাধ্যমে পরীক্ষামূলক সহায়তা পান।</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">সক্রিয় করুন</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">হালকা সোনালী রড হলুদ</translation>
 <translation id="7541021454094606506">সব মুছুন</translation>
 <translation id="7543255924852002459">লেবেল বাতিল করুন</translation>
-<translation id="7552432549459840808">সহায়ক Chrome শর্টকাটগুলি</translation>
+<translation id="7552432549459840808">সহায়ক Egon শর্টকাটগুলি</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" />-এর আগে <ph name="INSERT_PHRASE" /> যোগ করুন</translation>
 <translation id="7569983096843329377">কালো</translation>
 <translation id="7579911500627256166">ডট <ph name="DOT" /></translation>

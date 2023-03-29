@@ -18,7 +18,7 @@ Vaša je tražilica <ph name="DSE_NAME" />. Potražite njezine upute da biste sa
 <translation id="1076421457278169141">Kod skeniran</translation>
 <translation id="1076785341346483463">Sinkronizacija s upravljanim računom</translation>
 <translation id="1084365883616172403">Dovršen je post za Facebook.</translation>
-<translation id="1085696779717592361">Koristite Chrome prema zadanim postavkama</translation>
+<translation id="1085696779717592361">Koristite Egon prema zadanim postavkama</translation>
 <translation id="1103523840287552314">Uvijek prevedi <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">Prijeđite na otvoreni prozor</translation>
 <translation id="1112015203684611006">Ispis nije uspio.</translation>
@@ -32,7 +32,7 @@ Vaša je tražilica <ph name="DSE_NAME" />. Potražite njezine upute da biste sa
 <translation id="1165039591588034296">Pogreška</translation>
 <translation id="1172898394251786223">Sljedeće polje</translation>
 <translation id="1176932207622159128">Nije moguće spremiti sliku</translation>
-<translation id="1177414119866731261">Otvorite izbornik preglednika Chrome</translation>
+<translation id="1177414119866731261">Otvorite izbornik preglednika Egon</translation>
 <translation id="1181037720776840403">Ukloni</translation>
 <translation id="1207113853726624428">Novo pretraživanje</translation>
 <translation id="1209206284964581585">Zasad sakrij</translation>
@@ -149,8 +149,8 @@ Vaša je tražilica <ph name="DSE_NAME" />. Potražite njezine upute da biste sa
 <translation id="2139867232736819575">Pretraživanje teksta koji ste kopirali</translation>
 <translation id="214201757571129614">Prijavite se…</translation>
 <translation id="2149973817440762519">Uredi oznaku</translation>
-<translation id="2150175299852799498">Chrome za mobilne uređaje</translation>
-<translation id="2155145621546387786">Dijeli Chrome</translation>
+<translation id="2150175299852799498">Egon za mobilne uređaje</translation>
+<translation id="2155145621546387786">Dijeli Egon</translation>
 <translation id="2175927920773552910">QR kôd</translation>
 <translation id="2178545675770638239">Odabir zaporke</translation>
 <translation id="2218443599109088993">Smanji</translation>
@@ -161,7 +161,7 @@ Vaša je tražilica <ph name="DSE_NAME" />. Potražite njezine upute da biste sa
 <translation id="225943865679747347">Kôd pogreške: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Dodaj račun</translation>
 <translation id="2268044343513325586">Pročišćavanje</translation>
-<translation id="2271351792809375263">Zaporke koje ste spremili u Chrome možete koristiti u drugim aplikacijama na uređaju</translation>
+<translation id="2271351792809375263">Zaporke koje ste spremili u Egon možete koristiti u drugim aplikacijama na uređaju</translation>
 <translation id="2273327106802955778">Izbornik Više</translation>
 <translation id="2286505070150039482">Istaknuti tekst</translation>
 <translation id="2299218006564889602">Vaše se zaporke šifriraju na uređaju prije spremanja na Google upravitelj zaporki.</translation>
@@ -238,7 +238,7 @@ Web-lokacije ne mogu upotrebljavati kolačiće za uvid u vašu aktivnost pregled
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Vrati Prevoditelj na zadano</translation>
 <translation id="2848086008667475748">Postavi kao zadano u Postavkama…</translation>
-<translation id="2858204748079866344">Da bi zaštitio vašu privatnost, Chrome neće automatski popuniti zaporku u ovom polju.</translation>
+<translation id="2858204748079866344">Da bi zaštitio vašu privatnost, Egon neće automatski popuniti zaporku u ovom polju.</translation>
 <translation id="285960592395650245">Pokušaj preuzeti ponovo</translation>
 <translation id="2870560284913253234">Web lokacija</translation>
 <translation id="2871695793448672541">Sakriveno, zaporka</translation>
@@ -374,12 +374,12 @@ Potražite upute za svoju tražilicu da biste saznali kako izbrisati svoju povij
 <translation id="3858860766373142691">Naziv</translation>
 <translation id="3861486700625780712">Prestani pratiti</translation>
 <translation id="3863769054730344136">Pošaljite na svoje uređaje</translation>
-<translation id="387280738075653372">Ovdje preuzmite Chrome.</translation>
+<translation id="387280738075653372">Ovdje preuzmite Egon.</translation>
 <translation id="3888863481921783344">To će se upotrebljavati da bi vam se prikazale osobe koje se mogu pozvati na vaš događaj.</translation>
 <translation id="3892144330757387737">Ovdje ćete pronaći svoju povijest</translation>
 <translation id="3897092660631435901">Izbornik</translation>
 <translation id="3904829425754749514">Vaša je organizacija isključila sinkronizaciju. Vaše oznake, povijest, zaporke i druge postavke i dalje su vam vidljive na ovom uređaju. Ako nešto promijenite, te se promjene neće sinkronizirati s vašim računom.</translation>
-<translation id="3913386780052199712">Prijavljeni u Chrome</translation>
+<translation id="3913386780052199712">Prijavljeni u Egon</translation>
 <translation id="3915450441834151894">Informacije o web-lokaciji</translation>
 <translation id="3922310737605261887">Pretraživanje teksta koji ste kopirali</translation>
 <translation id="3928666092801078803">Kombiniranje podataka</translation>
@@ -522,7 +522,7 @@ Da biste promijenili tu postavku, <ph name="BEGIN_LINK" />poništite sinkronizac
 <translation id="4979397965658815378">Prijavite se Google računom da biste imali pristup svojim oznakama, zaporkama, povijesti i ostalim postavkama na svim svojim uređajima</translation>
 <translation id="4986678885919050584">Ukloni s ovog uređaja</translation>
 <translation id="4989542687859782284">Nije dostupno</translation>
-<translation id="498985224078955265">Da biste poslali ovu karticu na drugi uređaj, prijavite se na Chrome na oba uređaja.</translation>
+<translation id="498985224078955265">Da biste poslali ovu karticu na drugi uređaj, prijavite se na Egon na oba uređaja.</translation>
 <translation id="5005498671520578047">Kopiranje zaporke</translation>
 <translation id="5017828934289857214">Podsjeti me kasnije</translation>
 <translation id="5037676449506322593">Odaberi sve</translation>
@@ -532,13 +532,13 @@ Da biste promijenili tu postavku, <ph name="BEGIN_LINK" />poništite sinkronizac
 <translation id="5062321486222145940">Instaliraj Google disk</translation>
 <translation id="5083464117946352670">Veličina datoteke nije utvrđena.</translation>
 <translation id="5090832849094901128">Brisanjem zaporke neće se izbrisati vaš račun na <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">Stranice možete spremati da biste ih čitali kasnije ili izvanmrežno. Chrome će vas pitati želite li spremiti dugačke stranice.</translation>
+<translation id="5092117651143801290">Stranice možete spremati da biste ih čitali kasnije ili izvanmrežno. Egon će vas pitati želite li spremiti dugačke stranice.</translation>
 <translation id="5094827893301452931">Tweet je dovršen.</translation>
 <translation id="5118713593561876160">Interesi</translation>
 <translation id="5118764316110575523">Isključeno</translation>
-<translation id="5119391094379141756">Odaberite Chrome</translation>
+<translation id="5119391094379141756">Odaberite Egon</translation>
 <translation id="5132942445612118989">Sinkronizirajte svoje zaporke, povijest i drugo na svim uređajima</translation>
-<translation id="5140288047769711648">Chrome će zapamtiti ovu zaporku umjesto vas. Ne morate je pamtiti.</translation>
+<translation id="5140288047769711648">Egon će zapamtiti ovu zaporku umjesto vas. Ne morate je pamtiti.</translation>
 <translation id="5149188072385105201">Dodaj zaporku...</translation>
 <translation id="5150492518600715772">Pošalji na svoj uređaj</translation>
 <translation id="5168414296986405587">Razvijeno za iPadOS</translation>
@@ -579,7 +579,7 @@ Da biste promijenili tu postavku, <ph name="BEGIN_LINK" />poništite sinkronizac
 <translation id="5490005495580364134">Blokiranje svih kolačića (ne preporučuje se)</translation>
 <translation id="5513681519188741830">Prije <ph name="TIME" /> h</translation>
 <translation id="5520466080178053306">Dodirnite stavku Upravitelj zaporki, a zatim dodirnite Dodaj</translation>
-<translation id="5525095647255982834">Da biste poslali ovu karticu na drugi uređaj, prijavite se na Chrome na tom uređaju.</translation>
+<translation id="5525095647255982834">Da biste poslali ovu karticu na drugi uređaj, prijavite se na Egon na tom uređaju.</translation>
 <translation id="5525269841082836315">Stvaranje zaporke</translation>
 <translation id="5542540507657872337">Pronađeno: <ph name="COUNT" /></translation>
 <translation id="5548760955356983418">Handoff vam omogućuje da počnete pregledavati web-lokaciju na ovom uređaju i nastavite na Macu. Trenutačno otvorena web-lokacija pojavit će se u Docku na vašem Macu.
@@ -608,7 +608,7 @@ Handoff mora biti omogućen i u odjeljku Općenito u Postavkama, a vaši uređaj
 <translation id="5711039611392265845">Više postavki koje se odnose na privatnost, sigurnost i prikupljanje podataka dostupno je u odjeljku <ph name="BEGIN_LINK" />Sinkronizacija i Googleove usluge<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">Da biste privatno pregledavali web, dodajte novu karticu</translation>
 <translation id="5728700505257787410">Došlo je do problema prilikom prijave na vaš račun.</translation>
-<translation id="5733084997078800044">Savjet za Chrome</translation>
+<translation id="5733084997078800044">Savjet za Egon</translation>
 <translation id="5737974891429562743">Pojedinosti prijave na račun su zastarjele. Ažurirajte ih da biste pokrenuli sinkronizaciju.</translation>
 <translation id="5738385766833540397">Upravljajte načinom na koji primate upozorenja o sniženju cijena za proizvode koje pratite</translation>
 <translation id="5738887413654608789">To vam omogućuje da otkrijete relevantne web-stranice na temelju svojeg okruženja.</translation>
@@ -623,7 +623,7 @@ Handoff mora biti omogućen i u odjeljku Općenito u Postavkama, a vaši uređaj
 <translation id="5812974770859303494">Dodaj na...</translation>
 <translation id="581659025233126501">Uključi sinkronizaciju</translation>
 <translation id="5819208479324046259">Uređajem upravlja <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Saznajte više<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Spremajte zaporke, načine plaćanja i adrese kako bi ih Chrome automatski unio kasnije.</translation>
+<translation id="5833643789537100742">Spremajte zaporke, načine plaćanja i adrese kako bi ih Egon automatski unio kasnije.</translation>
 <translation id="5846482154967366008">Tražilica</translation>
 <translation id="5854790677617711513">Starije od 30 dana</translation>
 <translation id="5857090052475505287">Nova mapa</translation>
@@ -746,7 +746,7 @@ Pokušajte koristiti jedinstvenu zaporku za svaku web-lokaciju.</translation>
 <translation id="6524918542306337007">Anonimni način nije dostupan</translation>
 <translation id="6530992499366869131">Upozori ako su zaporke ugrožene zbog povrede podataka</translation>
 <translation id="6537746030088321027">primjeri.hr</translation>
-<translation id="6540120577248033958">Posjetite web-lokaciju i kliknite Prati u izborniku preglednika Chrome</translation>
+<translation id="6540120577248033958">Posjetite web-lokaciju i kliknite Prati u izborniku preglednika Egon</translation>
 <translation id="6561262006871132942">Povećaj</translation>
 <translation id="6583087784430677195">Da biste isključili značajku, otvorite <ph name="BEGIN_LINK" />Postavke<ph name="END_LINK" />, a zatim Automatsko popunjavanje zaporki.</translation>
 <translation id="6585618849026997638">Dodavanjem oznake možete se vratiti na stranicu koja vam je važna</translation>
@@ -864,7 +864,7 @@ Dok ste u anonimnom načinu, web-lokacije ne mogu upotrebljavati kolačiće za u
 <translation id="7454057999980797137">Županija</translation>
 <translation id="7459628154744868585">Uključena je Poboljšana zaštita</translation>
 <translation id="7464701184726199289">Sinkronizirani podaci izbrisat će se sa svih uređaja. Spremljene postavke web-lokacije neće se izbrisati i mogu odražavati vaše navike prilikom pregledavanja. <ph name="BEGIN_LINK" />Saznajte više<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Odaberite Chrome</translation>
+<translation id="746684838091935575">3. Odaberite Egon</translation>
 <translation id="7472734401283673885">Naziv tvrtke</translation>
 <translation id="7473891865547856676">Ne, hvala</translation>
 <translation id="750493650310597496">Nije odabrana nijedna oznaka</translation>
@@ -912,7 +912,7 @@ Dok ste u anonimnom načinu, web-lokacije ne mogu upotrebljavati kolačiće za u
 <translation id="7859704718976024901">Povijest pregledavanja</translation>
 <translation id="7879275349003161544">Prikaži preuzimanja</translation>
 <translation id="7884694604461143138">Povijest pretraživanja (pronađeno: <ph name="COUNT" />)</translation>
-<translation id="7887198238286927132">Da bi zaštitio vašu privatnost, Chrome neće automatski popuniti ovo polje.</translation>
+<translation id="7887198238286927132">Da bi zaštitio vašu privatnost, Egon neće automatski popuniti ovo polje.</translation>
 <translation id="7911190106180361398">Vaša organizacija ne dopušta da sinkronizirate sve.</translation>
 <translation id="7920949005883349320">Privatnost i sigurnost</translation>
 <translation id="7930998711684428189">Upozorava ako su zaporke ugrožene zbog povrede podataka.</translation>
@@ -933,7 +933,7 @@ Web-lokacije mogu upotrebljavati kolačiće za uvid u vašu aktivnost pregledava
 <translation id="7982789257301363584">Mreža</translation>
 <translation id="7987685713885608670">Radi dodatne sigurnosti šifrirajte zaporke na uređaju prije spremanja na Google upravitelj zaporki.</translation>
 <translation id="7993619969781047893">Značajke na nekim web-lokacijama mogu prestati funkcionirati</translation>
-<translation id="800361585186029508">Otvara URL-ove unesene u Google Chrome.</translation>
+<translation id="800361585186029508">Otvara URL-ove unesene u Google Egon.</translation>
 <translation id="8016714545083187120">Uvijek upotrebljavaj sigurne veze</translation>
 <translation id="802154636333426148">Preuzimanje nije uspjelo</translation>
 <translation id="8023878949384262191">Proširuje odjeljak.</translation>
@@ -1003,7 +1003,7 @@ Web-lokacije mogu upotrebljavati kolačiće za uvid u vašu aktivnost pregledava
 <translation id="8533670235862049797">Uključeno je Sigurno pregledavanje</translation>
 <translation id="8534481786647257214">Dovršen je post za Google+.</translation>
 <translation id="8548878600947630424">Traženje na stranici...</translation>
-<translation id="8558480467877843976">Sad možete koristiti Chrome svaki put kad pregledavate ili dodirnete veze u porukama, dokumentima i drugim aplikacijama.</translation>
+<translation id="8558480467877843976">Sad možete koristiti Egon svaki put kad pregledavate ili dodirnete veze u porukama, dokumentima i drugim aplikacijama.</translation>
 <translation id="8588404856427128947">Isključeno</translation>
 <translation id="8590913940444621808">Nikad ne pitaj</translation>
 <translation id="8591976964826315682">Blokiranje kolačića trećih strana u anonimnom načinu</translation>
@@ -1072,7 +1072,7 @@ Web-lokacije mogu upotrebljavati kolačiće za uvid u vašu aktivnost pregledava
 <translation id="9079935439869366234">Označi sve kao nepročitano</translation>
 <translation id="9081058212938299310">Želite li ažurirati zaporku za <ph name="USERNAME" />?</translation>
 <translation id="9083838294503912307">Da biste sinkronizirali i prilagodili više uređaja, uključite sinkronizaciju.</translation>
-<translation id="9087108903408689779">Zaporka koju predlaže Chrome:</translation>
+<translation id="9087108903408689779">Zaporka koju predlaže Egon:</translation>
 <translation id="9093271241977565440">Pri vrhu zaslona dodirnite ikonu pretraživanja</translation>
 <translation id="9094033019050270033">Ažuriraj zaporku</translation>
 <translation id="9097506547406246598">Prestanak praćenja nije uspio. Nešto nije u redu.</translation>
@@ -1089,7 +1089,7 @@ Web-lokacije mogu upotrebljavati kolačiće za uvid u vašu aktivnost pregledava
 <translation id="9223358826628549784">Izvješće o rušenju programa poslano je.</translation>
 <translation id="941747855997058526">Odaberite zaporku...</translation>
 <translation id="952704832371081537">Odustani</translation>
-<translation id="953008885340860025">Chrome je odjavljen</translation>
+<translation id="953008885340860025">Egon je odjavljen</translation>
 <translation id="959066944189734975">Pratite kanal <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">Vaša organizacija dopušta da se prijavite samo putem određenih računa. Nedopušteni su računi skriveni.</translation>
 <translation id="984509647832111802">Sinkronizacija ne funkcionira.</translation>

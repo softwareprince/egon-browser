@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Træk i skyderen, indtil du kan nemt læse dette. Teksten som minimum have denne størrelse, når du har trykket to gange på et afsnit.</translation>
 <translation id="2329473609445770916">Dette website definerer interesser, som andre websites kan bruge til at vise dig annoncer</translation>
 <translation id="2359808026110333948">Fortsæt</translation>
-<translation id="2379925928934107488">Anvend Mørkt tema på websites, når Chrome anvender Mørkt tema (når det er muligt)</translation>
+<translation id="2379925928934107488">Anvend Mørkt tema på websites, når Egon anvender Mørkt tema (når det er muligt)</translation>
 <translation id="2387895666653383613">Tekststørrelse</translation>
 <translation id="2390272837142897736">Zoom in</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">Fra nettet</translation>
 <translation id="321187648315454507">Aktivér også notifikationer i <ph name="BEGIN_LINK" />Android-indstillingerne<ph name="END_LINK" /> for at give <ph name="APP_NAME" /> tilladelse til at sende dig notifikationer.</translation>
 <translation id="3227137524299004712">Mikrofon</translation>
-<translation id="3248611290851046188">Dette website definerer interesser, som andre websites kan bruge til at vise dig annoncer. Dette website henter også dine interesser fra Chrome og bruger dem til at vise dig mere relevante annoncer.</translation>
+<translation id="3248611290851046188">Dette website definerer interesser, som andre websites kan bruge til at vise dig annoncer. Dette website henter også dine interesser fra Egon og bruger dem til at vise dig mere relevante annoncer.</translation>
 <translation id="3277252321222022663">Tillad, at websites kan få adgang til sensorer (anbefales)</translation>
 <translation id="3285500645985761267">Giv relaterede websites tilladelse til at se din aktivitet i gruppen</translation>
 <translation id="3295019059349372795">Kapitel 11: Den vidunderlige smaragdby i Oz</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">Dette rydder <ph name="DATASIZE" /> data og cookies, som er gemt af websites.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(+ 1 anden)}one{(+ # anden)}other{(+ # andre)}}</translation>
 <translation id="5403592356182871684">Navne</translation>
-<translation id="5412236728747081950">Dette website henter dine interesser fra Chrome og bruger dem til at vise dig mere relevante annoncer</translation>
+<translation id="5412236728747081950">Dette website henter dine interesser fra Egon og bruger dem til at vise dig mere relevante annoncer</translation>
 <translation id="5438097262470833822">Denne handling nulstiller tilladelserne for <ph name="WEBSITE" /></translation>
 <translation id="5489227211564503167">Forløbet tid: <ph name="ELAPSED_TIME" /> af <ph name="TOTAL_TIME" />.</translation>
 <translation id="5494752089476963479">Bloker annoncer på websites, der viser påtrængende eller vildledende annoncer</translation>

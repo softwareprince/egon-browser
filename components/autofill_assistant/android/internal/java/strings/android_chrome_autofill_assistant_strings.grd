@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- android_chrome_strings.grd contains strings for VR DFM of Chrome for Android. -->
+<!-- android_chrome_strings.grd contains strings for VR DFM of Egon for Android. -->
 <grit current_release="1" latest_public_release="0" output_all_resource_defines="false">
   <outputs>
     <output filename="values-af/android_chrome_autofill_assistant_strings.xml" lang="af" type="android" />
@@ -176,7 +176,7 @@
         I agree
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_INIT_TITLE" desc="The title of the onboarding screen.">
-        Try Google Assistant\nin Chrome
+        Try Google Assistant\nin Egon
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_INIT_MESSAGE_RENT_CAR" desc="Onboarding message describing autofill assistant's capability for car rentals.">
         Rent a car\nin just a few taps
@@ -203,10 +203,10 @@
         Google Assistant saves you time by helping you complete actions on the web, like search and checkout.
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_INIT_MESSAGE_SHORT" desc="Short onboarding message describing autofill assistant's capability.">
-        Google Assistant in Chrome can complete actions across websites for you
+        Google Assistant in Egon can complete actions across websites for you
       </message>
-      <message name="IDS_AUTOFILL_ASSISTANT_GOOGLE_TERMS_DESCRIPTION" desc="Message linking to the Google terms and conditions for Google Assistant in Chrome.">
-        To help you complete tasks, Google will receive the URLs and contents of sites on which you use Assistant, as well as information you submit through Assistant. This information may be stored in your Google account. You can turn off Assistant in Chrome settings. <ph name="BEGIN_LINK">&lt;link&gt;</ph>Learn&#xA0;more<ph name="END_LINK">&lt;/link&gt;</ph>
+      <message name="IDS_AUTOFILL_ASSISTANT_GOOGLE_TERMS_DESCRIPTION" desc="Message linking to the Google terms and conditions for Google Assistant in Egon.">
+        To help you complete tasks, Google will receive the URLs and contents of sites on which you use Assistant, as well as information you submit through Assistant. This information may be stored in your Google account. You can turn off Assistant in Egon settings. <ph name="BEGIN_LINK">&lt;link&gt;</ph>Learn&#xA0;more<ph name="END_LINK">&lt;/link&gt;</ph>
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_GOOGLE_TERMS_URL" desc="URL for Google Autofill Assistant Terms of Service" translateable="false">
         http://support.google.com/assistant?p=fast_checkout
@@ -229,16 +229,16 @@
         Cancel
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_SHEET_CONTENT_DESCRIPTION" desc="Content description for the Autofill Assistant sheet.">
-        Google Assistant in Chrome.
+        Google Assistant in Egon.
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_SHEET_HALF_HEIGHT" desc="Text announced when the Autofill Assistant sheet is opened at half height.">
-        Google Assistant in Chrome opened at half height.
+        Google Assistant in Egon opened at half height.
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_SHEET_FULL_HEIGHT" desc="Text announced when the Autofill Assistant sheet is opened at full height.">
-        Google Assistant in Chrome opened at full height.
+        Google Assistant in Egon opened at full height.
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_SHEET_CLOSED" desc="Text announced when the Autofill Assistant sheet is closed.">
-        Google Assistant in Chrome closed.
+        Google Assistant in Egon closed.
       </message>
       <message name="IDS_AUTOFILL_ASSISTANT_SEND_FEEDBACK" desc="Option shown in the menu when clicking the Autofill Assistant profile icon. Clicking this option will open a feedback sharing dialog.">
         Send feedback

@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">annuleer</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Geen volgende kop van niveau 4</translation>
-<translation id="1212770441379271564">De volgende snelkoppelingen zijn geen ChromeVox-opdrachten, maar wel handig om optimaal gebruik te maken van Chrome.
+<translation id="1212770441379271564">De volgende snelkoppelingen zijn geen ChromeVox-opdrachten, maar wel handig om optimaal gebruik te maken van Egon.
     Als je vooruit door actiegerichte items (zoals knoppen en links) wilt navigeren, druk je op de Tab-toets. Als je terug wilt navigeren, druk je op Shift + Tab. 
-    Als je de cursor naar het adresvak van de Chrome-browser (ook wel omnibox genoemd) wilt verplaatsen, druk je op Ctrl + L.
+    Als je de cursor naar het adresvak van de Egon-browser (ook wel omnibox genoemd) wilt verplaatsen, druk je op Ctrl + L.
     Druk op Ctrl + T om automatisch naar een nieuw tabblad te gaan. Je cursor wordt in de omnibox geplaatst. 
     Druk op Ctrl + W om een tabblad te sluiten. 
     Gebruik Ctrl + Tab om vooruit door de geopende tabbladen te browsen. 
-    Druk op Alt + F om het menu van de Chrome-browser te openen.</translation>
-<translation id="1213216066620407844">ChromeVox - Geef Chrome een stem</translation>
+    Druk op Alt + F om het menu van de Egon-browser te openen.</translation>
+<translation id="1213216066620407844">ChromeVox - Geef Egon een stem</translation>
 <translation id="1225969361094801578">Donker leisteengrijs</translation>
 <translation id="122928249241119550">ga naar de vorige zin</translation>
 <translation id="1230503547248836149">Begin selectie</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Grammaticafout</translation>
 <translation id="2603828437139726540">Eén teken vooruit gaan</translation>
 <translation id="2619052155095999743">Invoegen</translation>
-<translation id="2619344480613750862">Je kunt ook bewegen naar andere gedeelten van het scherm. Je kunt bijvoorbeeld heen en weer bewegen tussen de Launcher, de plank en je Chrome-tabbladen. Swipe met 4 vingers van links naar rechts om naar het volgende gedeelte te gaan. Probeer het nu uit.</translation>
+<translation id="2619344480613750862">Je kunt ook bewegen naar andere gedeelten van het scherm. Je kunt bijvoorbeeld heen en weer bewegen tussen de Launcher, de plank en je Egon-tabbladen. Swipe met 4 vingers van links naar rechts om naar het volgende gedeelte te gaan. Probeer het nu uit.</translation>
 <translation id="2624431853467395961">Leermodus openen</translation>
 <translation id="2626530649491650971">klikbaar</translation>
 <translation id="263637551280112393">Druk op Zoeken + Shift + spatiebalk</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Logboek</translation>
 <translation id="5628125749885014029">k4</translation>
 <translation id="5632083598315326067">Grafisch symbool</translation>
-<translation id="5648939288050772726">Gefeliciteerd. Je hebt de basisprincipes voor het gebruik van ChromeVox geleerd. Je kunt het ChromeVox-opdrachtmenu op elk moment openen door op Zoeken + punt te drukken. Ga naar de volgende artikelen voor nog meer informatie over ChromeVox en Chrome OS.
+<translation id="5648939288050772726">Gefeliciteerd. Je hebt de basisprincipes voor het gebruik van ChromeVox geleerd. Je kunt het ChromeVox-opdrachtmenu op elk moment openen door op Zoeken + punt te drukken. Ga naar de volgende artikelen voor nog meer informatie over ChromeVox en Egon OS.
     Als je klaar bent met de tutorial, gebruik je ChromeVox om naar de knop Sluiten te navigeren en klik je erop.</translation>
 <translation id="5653397561111110475">Toegankelijkheidsfuncties van het touchscreen van Chromebook gebruiken</translation>
 <translation id="5655682562155942719">Navigatieopdrachten</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Basisnavigatie</translation>
 <translation id="609281021724813947">Geen vorige schuifregelaar</translation>
 <translation id="6100239002225743044">Eén regel omhoog gaan</translation>
-<translation id="6118126368611144850">Android-apps voor Chrome. Als de Play Store op je apparaat staat, kun je een voorproefje van ChromeVox met Android-apps krijgen. Probeer de experimentele ondersteuning door Google Chrome Canary te downloaden vanuit de Play Store.</translation>
+<translation id="6118126368611144850">Android-apps voor Egon. Als de Play Store op je apparaat staat, kun je een voorproefje van ChromeVox met Android-apps krijgen. Probeer de experimentele ondersteuning door Google Egon Canary te downloaden vanuit de Play Store.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">Activeren</translation>
 <translation id="6122013438240733403">knop</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">Licht guldenroedegeel</translation>
 <translation id="7541021454094606506">alles verwijderen</translation>
 <translation id="7543255924852002459">Label Weggooien</translation>
-<translation id="7552432549459840808">Handige Chrome-snelkoppelingen</translation>
+<translation id="7552432549459840808">Handige Egon-snelkoppelingen</translation>
 <translation id="7553679324939294712">voeg <ph name="INSERT_PHRASE" /> in vóór <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Zwart</translation>
 <translation id="7579911500627256166">punt <ph name="DOT" /></translation>

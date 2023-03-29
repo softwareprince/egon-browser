@@ -18,7 +18,7 @@ Jūsų paieškos variklis yra „<ph name="DSE_NAME" />“. Peržiūrėkite jo i
 <translation id="1076421457278169141">Kodas nuskaitytas</translation>
 <translation id="1076785341346483463">Sinchronizavimas su valdoma paskyra</translation>
 <translation id="1084365883616172403">„Facebook“ įrašas paskelbtas.</translation>
-<translation id="1085696779717592361">„Chrome“ naudojimas pagal numatytuosius nustatymus</translation>
+<translation id="1085696779717592361">„Egon“ naudojimas pagal numatytuosius nustatymus</translation>
 <translation id="1103523840287552314">Visada versti <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">Perjungti į atidarytą langą</translation>
 <translation id="1112015203684611006">Nepav. atsp.</translation>
@@ -32,13 +32,13 @@ Jūsų paieškos variklis yra „<ph name="DSE_NAME" />“. Peržiūrėkite jo i
 <translation id="1165039591588034296">Klaida</translation>
 <translation id="1172898394251786223">Kitas laukas</translation>
 <translation id="1176932207622159128">Nepav. išs. vaizdo</translation>
-<translation id="1177414119866731261">Atidarykite „Chrome“ meniu</translation>
+<translation id="1177414119866731261">Atidarykite „Egon“ meniu</translation>
 <translation id="1181037720776840403">Pašalinti</translation>
 <translation id="1207113853726624428">Nauja paieška</translation>
 <translation id="1209206284964581585">Slėpti dabar</translation>
 <translation id="1219674500290482172">Nepavyksta prisijungti prie interneto.</translation>
 <translation id="122699739164161391">Uždaryti visus skirtukus</translation>
-<translation id="1229222343402087523">Ieškoti pagal užklausą „${searchPhrase}“ naršyklėje „Chrome“</translation>
+<translation id="1229222343402087523">Ieškoti pagal užklausą „${searchPhrase}“ naršyklėje „Egon“</translation>
 <translation id="1242044645101871359">Prisijungimas dar kartą</translation>
 <translation id="1254117744268754948">Pasirinkti aplanką</translation>
 <translation id="1254424942107648268">Rasti ankstesnius</translation>
@@ -128,7 +128,7 @@ Jūsų paieškos variklis yra „<ph name="DSE_NAME" />“. Peržiūrėkite jo i
 <translation id="1941314575388338491">Dukart palieskite, kad nukopijuotumėte.</translation>
 <translation id="1943478190258551035">Meniu → „Nustatymai“</translation>
 <translation id="1952172573699511566">Kai bus įmanoma, svetainėje tekstas bus rodomas pasirinkta kalba.</translation>
-<translation id="1965935827552890526">Pabaikite tai, ką darėte, kitame atidarytame „Chrome“ lange.</translation>
+<translation id="1965935827552890526">Pabaikite tai, ką darėte, kitame atidarytame „Egon“ lange.</translation>
 <translation id="1973912524893600642">Palikti duomenis</translation>
 <translation id="1974060860693918893">Išplėstiniai</translation>
 <translation id="1981118202195772574">Mobiliojo įrenginio</translation>
@@ -149,8 +149,8 @@ Jūsų paieškos variklis yra „<ph name="DSE_NAME" />“. Peržiūrėkite jo i
 <translation id="2139867232736819575">Ieškoti nukopijuoto teksto</translation>
 <translation id="214201757571129614">Prisijungti…</translation>
 <translation id="2149973817440762519">Redaguoti žymes</translation>
-<translation id="2150175299852799498">„Chrome“ mobiliesiems</translation>
-<translation id="2155145621546387786">Bendrinti „Chrome“</translation>
+<translation id="2150175299852799498">„Egon“ mobiliesiems</translation>
+<translation id="2155145621546387786">Bendrinti „Egon“</translation>
 <translation id="2175927920773552910">QR kodas</translation>
 <translation id="2178545675770638239">Slaptažodžio pasirinkimas</translation>
 <translation id="2218443599109088993">Tolinti</translation>
@@ -161,7 +161,7 @@ Jūsų paieškos variklis yra „<ph name="DSE_NAME" />“. Peržiūrėkite jo i
 <translation id="225943865679747347">Klaidos kodas: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Pridėti paskyrą</translation>
 <translation id="2268044343513325586">Patikslinti</translation>
-<translation id="2271351792809375263">Naudokite naršyklėje „Chrome“ išsaugotus slaptažodžius kitose įrenginio programose</translation>
+<translation id="2271351792809375263">Naudokite naršyklėje „Egon“ išsaugotus slaptažodžius kitose įrenginio programose</translation>
 <translation id="2273327106802955778">Daugiau meniu</translation>
 <translation id="2286505070150039482">Paryškintas tekstas</translation>
 <translation id="2299218006564889602">Jūsų slaptažodžiai šifruojami įrenginyje prieš išsaugant juos „Google“ slaptažodžių tvarkytuvėje</translation>
@@ -232,13 +232,13 @@ Svetainės negali naudoti slapukų, kad sužinotų apie naršymo veiklą skirtin
 <translation id="2797029671965852011">Rodyti istoriją</translation>
 <translation id="2800683595868705743">Išjungti skirtukų perjungiklį</translation>
 <translation id="2815198996063984598">2. Palieskite „Numatytoji naršyklės programa“</translation>
-<translation id="2820289420301699633">Jūsų administratorius valdo naršyklę „Chrome“ ir gali pasiekti jos duomenis</translation>
+<translation id="2820289420301699633">Jūsų administratorius valdo naršyklę „Egon“ ir gali pasiekti jos duomenis</translation>
 <translation id="2830972654601096923">Tvarkyti adresus...</translation>
 <translation id="2834399722155632105">3. Palieskite „Slaptažodžio parinktys“</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Nust. Vert. nust. iš n.</translation>
 <translation id="2848086008667475748">Nustatyti kaip numatytąją nustatymuose…</translation>
-<translation id="2858204748079866344">Siekiant apsaugoti jūsų privatumą, „Chrome“ šio lauko automatiškai nepildys jūsų slaptažodžiu.</translation>
+<translation id="2858204748079866344">Siekiant apsaugoti jūsų privatumą, „Egon“ šio lauko automatiškai nepildys jūsų slaptažodžiu.</translation>
 <translation id="285960592395650245">Bandyti atsis. iš naujo</translation>
 <translation id="2870560284913253234">Svetainė</translation>
 <translation id="2871695793448672541">Paslėptas slaptažodis</translation>
@@ -256,7 +256,7 @@ Svetainės negali naudoti slapukų, kad sužinotų apie naršymo veiklą skirtin
 <translation id="292639812446257861">Pažymėti kaip neskaitytus</translation>
 <translation id="2932085390869194046">Siūlyti slaptažodį...</translation>
 <translation id="2932765531295814441">Slaptažodžių pridėjimas neautomatiškai</translation>
-<translation id="2952581218264071393">1. Atidarykite „Chrome“ nustatymus</translation>
+<translation id="2952581218264071393">1. Atidarykite „Egon“ nustatymus</translation>
 <translation id="2958718410589002129">Slaptažodžiai</translation>
 <translation id="2961210776189273067">Kreipinys / titulas</translation>
 <translation id="2964349545761222050">Trečiosios šalies slapukų blokavimas</translation>
@@ -312,7 +312,7 @@ Peržiūrėkite paieškos variklio instrukcijas, kaip ištrinti paieškos istori
 <translation id="3371831930909698441">Pasiekiamas vertimas. Parinktys pasiekiamos netoli ekrano apačios.</translation>
 <translation id="3377063233124932127">Dabar išsaugotos žymės, slaptažodžiai ir kt. yra viršuje.</translation>
 <translation id="3393920035788932672">Iššok. l. leidžiami</translation>
-<translation id="3399930248910934354">Atidarykite „Chrome“ nustatymus</translation>
+<translation id="3399930248910934354">Atidarykite „Egon“ nustatymus</translation>
 <translation id="3404744938087714423">Atsijungus sinchronizavimas bus išjungtas.</translation>
 <translation id="3425644765244388016">Kortelės slapyvardis</translation>
 <translation id="3433057996795775706">Ištrynus šį slaptažodį jūsų paskyra svetainėje <ph name="WEBSITE" /> nebus ištrinta. Pakeiskite slaptažodį svetainėje <ph name="WEBSITE" />, kad apsaugotumėte ją nuo kitų.</translation>
@@ -355,7 +355,7 @@ Peržiūrėkite paieškos variklio instrukcijas, kaip ištrinti paieškos istori
 <translation id="3709582977625132201">Pažymėti kaip neskaitytą</translation>
 <translation id="371230970611282515">Numato ir įspėja jus apie pavojingus įvykius, prieš jiems nutinkant.</translation>
 <translation id="37207012422556617">Populiarios paieškos</translation>
-<translation id="3740397331642243698">Atidaromi įvesti URL naršyklėje „Google Chrome“ inkognito režimu.</translation>
+<translation id="3740397331642243698">Atidaromi įvesti URL naršyklėje „Google Egon“ inkognito režimu.</translation>
 <translation id="3762232513783804601">Sukurta specialiai „iPad“</translation>
 <translation id="3768725474733206671">Iš naujo atidaryti pastarąjį uždarytą skirtuką</translation>
 <translation id="3771033907050503522">Inkognito skirt.</translation>
@@ -374,12 +374,12 @@ Peržiūrėkite paieškos variklio instrukcijas, kaip ištrinti paieškos istori
 <translation id="3858860766373142691">Pavadinimas</translation>
 <translation id="3861486700625780712">Nebestebėti</translation>
 <translation id="3863769054730344136">Išsiųsti į jūsų įrenginius</translation>
-<translation id="387280738075653372">Čia atsisiųskite „Chrome“.</translation>
+<translation id="387280738075653372">Čia atsisiųskite „Egon“.</translation>
 <translation id="3888863481921783344">Šie duomenys bus naudojami norint parodyti galimus pakviestuosius į įvykį.</translation>
 <translation id="3892144330757387737">Čia rasite istoriją</translation>
 <translation id="3897092660631435901">Meniu</translation>
 <translation id="3904829425754749514">Sinchronizavimas išjungtas organizacijoje. Vis tiek galėsite peržiūrėti žymes, istoriją, slaptažodžius ir kitus nustatymus šiame įrenginyje. Jei atliksite pakeitimų, jie nebus sinchronizuojami su jūsų paskyra.</translation>
-<translation id="3913386780052199712">Prisijungta prie „Chrome“</translation>
+<translation id="3913386780052199712">Prisijungta prie „Egon“</translation>
 <translation id="3915450441834151894">Svetainės informacija</translation>
 <translation id="3922310737605261887">Ieškoti nukopijuoto teksto</translation>
 <translation id="3928666092801078803">Sujungti duomenis</translation>
@@ -522,7 +522,7 @@ Jei norite pakeisti šį nustatymą, <ph name="BEGIN_LINK" />iš naujo nustatyki
 <translation id="4979397965658815378">Prisijunkite naudodami „Google“ paskyrą, kad gautumėte žymes, slaptažodžius, istoriją ir kitus nustatymus visuose įrenginiuose</translation>
 <translation id="4986678885919050584">Pašalinti iš šio įrenginio</translation>
 <translation id="4989542687859782284">Nepasiekiama</translation>
-<translation id="498985224078955265">Jei norite siųsti šį skirtuką į kitą įrenginį, prisijunkite prie „Chrome“ abiejuose įrenginiuose</translation>
+<translation id="498985224078955265">Jei norite siųsti šį skirtuką į kitą įrenginį, prisijunkite prie „Egon“ abiejuose įrenginiuose</translation>
 <translation id="5005498671520578047">Kopijuoti slaptažodį</translation>
 <translation id="5017828934289857214">Priminti vėliau</translation>
 <translation id="5037676449506322593">Pasirinkti viską</translation>
@@ -532,19 +532,19 @@ Jei norite pakeisti šį nustatymą, <ph name="BEGIN_LINK" />iš naujo nustatyki
 <translation id="5062321486222145940">Įdiegti „Google“ diską</translation>
 <translation id="5083464117946352670">Nepav. nustatyti failo dydžio.</translation>
 <translation id="5090832849094901128">Ištrynus šį slaptažodį jūsų paskyra svetainėje <ph name="WEBSITE" /> nebus ištrinta.</translation>
-<translation id="5092117651143801290">Išsaugoję puslapius galėsite skaityti juos vėliau arba neprisijungę. „Chrome“ klaus, ar norite išsaugoti ilgus puslapius.</translation>
+<translation id="5092117651143801290">Išsaugoję puslapius galėsite skaityti juos vėliau arba neprisijungę. „Egon“ klaus, ar norite išsaugoti ilgus puslapius.</translation>
 <translation id="5094827893301452931">„Tweet“ įrašas paskelbtas.</translation>
 <translation id="5118713593561876160">Pomėgiai</translation>
 <translation id="5118764316110575523">Išjungta</translation>
-<translation id="5119391094379141756">Pasirinkite „Chrome“</translation>
+<translation id="5119391094379141756">Pasirinkite „Egon“</translation>
 <translation id="5132942445612118989">Sinchronizuokite slaptažodžius, istoriją ir daugiau visuose įrenginiuose</translation>
-<translation id="5140288047769711648">„Chrome“ įsimins šį slaptažodį už jus. Jums nereikia jo prisiminti.</translation>
+<translation id="5140288047769711648">„Egon“ įsimins šį slaptažodį už jus. Jums nereikia jo prisiminti.</translation>
 <translation id="5149188072385105201">Pridėti slaptažodį...</translation>
 <translation id="5150492518600715772">Siųsti į įrenginį</translation>
 <translation id="5168414296986405587">Sukurta „iPad“ OS</translation>
 <translation id="5173088371991956744">Sinchronizuojant reikia patvirtinti jūsų tapatybę</translation>
 <translation id="5181140330217080051">Atsisiunčiama</translation>
-<translation id="5184329579814168207">Atidaryti naudojant „Chrome“</translation>
+<translation id="5184329579814168207">Atidaryti naudojant „Egon“</translation>
 <translation id="5186185447130319458">Privatu</translation>
 <translation id="5188482106078495165">Slapukų nustatymai taikomi visiems skirtukams. Norėdami taikyti naują nustatymą atidarytam skirtukui, įkelkite jį iš naujo.</translation>
 <translation id="5190835502935405962">Žymių juosta</translation>
@@ -579,7 +579,7 @@ Jei norite pakeisti šį nustatymą, <ph name="BEGIN_LINK" />iš naujo nustatyki
 <translation id="5490005495580364134">Blokuoti visus slapukus (nerekomenduojama)</translation>
 <translation id="5513681519188741830">Prieš <ph name="TIME" /> val.</translation>
 <translation id="5520466080178053306">Palieskite „Slaptažodžių tvarkyklė“, tada palieskite „Pridėti“</translation>
-<translation id="5525095647255982834">Jei norite siųsti šį skirtuką į kitą įrenginį, prisijunkite prie „Chrome“ čia</translation>
+<translation id="5525095647255982834">Jei norite siųsti šį skirtuką į kitą įrenginį, prisijunkite prie „Egon“ čia</translation>
 <translation id="5525269841082836315">Kurti slaptafrazę</translation>
 <translation id="5542540507657872337">Rasta: <ph name="COUNT" /></translation>
 <translation id="5548760955356983418">Naudodami „Handoff“ galite pradėti naršyti svetainę šiame įrenginyje ir lengvai tęsti darbą „Mac“ įrenginiu. Dabartinė atidaryta svetainė bus rodoma „Mac“ įrenginio doke.
@@ -601,14 +601,14 @@ Be to, reikia įgalinti „Handoff“ nustatymų skiltyje „Bendrieji“, o įr
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Kurti QR kodą</translation>
 <translation id="567881659373499783"><ph name="PRODUCT_VERSION" /> versija</translation>
-<translation id="5690398455483874150">{count,plural, =1{Dabar rodomas vienas „Chrome“ langas}one{Dabar rodomas {count} „Chrome“ langas}few{Dabar rodomi {count} „Chrome“ langai}many{Dabar rodoma {count} „Chrome“ lango}other{Dabar rodoma {count} „Chrome“ langų}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Dabar rodomas vienas „Egon“ langas}one{Dabar rodomas {count} „Egon“ langas}few{Dabar rodomi {count} „Egon“ langai}many{Dabar rodoma {count} „Egon“ lango}other{Dabar rodoma {count} „Egon“ langų}}</translation>
 <translation id="5701270923492462699">Leidžiama pasiekti vaizdo kamerą</translation>
 <translation id="5704908597376970822">Nepavyksta prisijungti.</translation>
 <translation id="5706552126692816153">Aktyvus prieš 1 d.</translation>
 <translation id="5711039611392265845">Daugiau nustatymų, susijusių su privatumu, sauga ir duomenų rinkimu, žr. skiltyje <ph name="BEGIN_LINK" />„Sinchronizavimas ir „Google“ paslaugos“<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">Norėdami žiniatinklyje naršyti privačiai, pridėkite naują skirtuką</translation>
 <translation id="5728700505257787410">Apgailestaujame, prisijungiant prie paskyros kilo problema.</translation>
-<translation id="5733084997078800044">„Chrome“ patarimas</translation>
+<translation id="5733084997078800044">„Egon“ patarimas</translation>
 <translation id="5737974891429562743">Išsami paskyros prisijungimo informacija pasenusi. Atnaujinkite, kad pradėtumėte sinchronizuoti.</translation>
 <translation id="5738385766833540397">Tvarkykite, kaip gausite įspėjimus apie sumažintas stebimų produktų kainas</translation>
 <translation id="5738887413654608789">Tai naudodami galite atrasti aktualių tinklalapių, kurie teikiami atsižvelgiant į aplinką.</translation>
@@ -623,7 +623,7 @@ Be to, reikia įgalinti „Handoff“ nustatymų skiltyje „Bendrieji“, o įr
 <translation id="5812974770859303494">Pridėjimas prie...</translation>
 <translation id="581659025233126501">Įjungti sinchronizavimą</translation>
 <translation id="5819208479324046259">Valdo „<ph name="MANAGER" />“. <ph name="BEGIN_LINK" />Sužinokite daugiau<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Išsaugokite slaptažodžius, mokėjimo metodus ir adresus, kad vėliau „Chrome“ galėtų juos užpildyti automatiškai.</translation>
+<translation id="5833643789537100742">Išsaugokite slaptažodžius, mokėjimo metodus ir adresus, kad vėliau „Egon“ galėtų juos užpildyti automatiškai.</translation>
 <translation id="5846482154967366008">Paieškos variklis</translation>
 <translation id="5854790677617711513">Senesni nei 30 dienų</translation>
 <translation id="5857090052475505287">Naujas aplankas</translation>
@@ -650,7 +650,7 @@ Be to, reikia įgalinti „Handoff“ nustatymų skiltyje „Bendrieji“, o įr
 <translation id="5982717868370722439">Pridėti esamus duomenis prie <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Neseniai lankyta</translation>
 <translation id="5988097621740394599">Žr. sumažintas kainas skirtukuose.</translation>
-<translation id="5988851877894965432">Atidaryti URL naršyklėje „Chrome“</translation>
+<translation id="5988851877894965432">Atidaryti URL naršyklėje „Egon“</translation>
 <translation id="6006672969046233841">Naujas skirtukas</translation>
 <translation id="6012140227487808125">Šifruojama...</translation>
 <translation id="6021332621416007159">Atidaryti...</translation>
@@ -676,7 +676,7 @@ Be to, reikia įgalinti „Handoff“ nustatymų skiltyje „Bendrieji“, o įr
 <translation id="6152406514676263192">Sinchronizuokite, kad būtų pateikiamas labiausiai su jūsų pomėgiais susijęs turinys.</translation>
 <translation id="6159839020698489198">nebūtinas</translation>
 <translation id="6170450281939467187">Išversti nepavyko</translation>
-<translation id="6177442314419606057">Paieška naršyklėje „Chrome“</translation>
+<translation id="6177442314419606057">Paieška naršyklėje „Egon“</translation>
 <translation id="6184086493125982861">Rodyti skirtukus</translation>
 <translation id="6187302354554850004">Pask. k. sinchr.: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Neskaityti</translation>
@@ -746,7 +746,7 @@ Kiekvienoje svetainėje stenkitės naudoti unikalius slaptažodžius.</translati
 <translation id="6524918542306337007">Inkognito režimas nepasiekiamas</translation>
 <translation id="6530992499366869131">Įspėti, jei slaptažodžiai buvo atskleisti įvykus duomenų saugos pažeidimui</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Apsilankykite svetainėje ir „Chrome“ meniu spustelėkite „Stebėti“</translation>
+<translation id="6540120577248033958">Apsilankykite svetainėje ir „Egon“ meniu spustelėkite „Stebėti“</translation>
 <translation id="6561262006871132942">Artinti</translation>
 <translation id="6583087784430677195">Jei norite išjungti, atidarykite skiltį <ph name="BEGIN_LINK" />„Nustatymai“<ph name="END_LINK" /> ir eikite į skiltį „Automatinis slaptažodžių pildymas“.</translation>
 <translation id="6585618849026997638">Galite grįžti į jums svarbų puslapį pridėję žymę</translation>
@@ -864,7 +864,7 @@ Kai įjungtas inkognito režimas, svetainės negali naudoti slapukų, siekdamos 
 <translation id="7454057999980797137">Valst. / apyg.</translation>
 <translation id="7459628154744868585">Sustiprinta apsauga įjungta</translation>
 <translation id="7464701184726199289">Taip sinchronizuoti duomenys bus išvalyti iš visų įrenginių. Išsaugoti svetainių nustatymai nebus ištrinti ir gali nurodyti naršymo įpročius. <ph name="BEGIN_LINK" />Sužinokite daugiau<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Pasirinkite „Chrome“</translation>
+<translation id="746684838091935575">3. Pasirinkite „Egon“</translation>
 <translation id="7472734401283673885">Įmonės pavad.</translation>
 <translation id="7473891865547856676">Ne, ačiū</translation>
 <translation id="750493650310597496">Pasirinkta: 0</translation>
@@ -899,7 +899,7 @@ Kai įjungtas inkognito režimas, svetainės negali naudoti slapukų, siekdamos 
 <translation id="7781011649027948662">Versti puslapį?</translation>
 <translation id="7781069478569868053">Naujo skirtuko puslapis</translation>
 <translation id="7781829728241885113">Vakar</translation>
-<translation id="778855399387580014">Pradėti paiešką naujame „Chrome“ skirtuke.</translation>
+<translation id="778855399387580014">Pradėti paiešką naujame „Egon“ skirtuke.</translation>
 <translation id="7791543448312431591">Pridėti</translation>
 <translation id="7807060072011926525">Pateikė „Google“</translation>
 <translation id="7839985698273989086">Neprisijungus pasiekiamas puslapis</translation>
@@ -912,7 +912,7 @@ Kai įjungtas inkognito režimas, svetainės negali naudoti slapukų, siekdamos 
 <translation id="7859704718976024901">Naršymo istorija</translation>
 <translation id="7879275349003161544">Rodyti atsisiuntimus</translation>
 <translation id="7884694604461143138">Paieškos istorija (rasta: <ph name="COUNT" />)</translation>
-<translation id="7887198238286927132">Siekiant apsaugoti jūsų privatumą, „Chrome“ šio lauko automatiškai nepildys.</translation>
+<translation id="7887198238286927132">Siekiant apsaugoti jūsų privatumą, „Egon“ šio lauko automatiškai nepildys.</translation>
 <translation id="7911190106180361398">Jūsų organizacija neleidžia jums visko sinchronizuoti.</translation>
 <translation id="7920949005883349320">Privatumas ir sauga</translation>
 <translation id="7930998711684428189">Įspėjama, jei slaptažodžiai atskleidžiami įvykus duomenų saugos pažeidimui</translation>
@@ -933,7 +933,7 @@ Svetainės gali naudoti slapukus, kad sužinotų apie naršymo veiklą skirtingo
 <translation id="7982789257301363584">Tinklas</translation>
 <translation id="7987685713885608670">Kad būtų saugiau, šifruokite slaptažodžius įrenginyje prieš išsaugodami juos „Google“ slaptažodžių tvarkytuvėje.</translation>
 <translation id="7993619969781047893">Funkcijos gali neveikti tam tikrose svetainėse</translation>
-<translation id="800361585186029508">Atidaromi įvesti URL naršyklėje „Google Chrome“.</translation>
+<translation id="800361585186029508">Atidaromi įvesti URL naršyklėje „Google Egon“.</translation>
 <translation id="8016714545083187120">Visada naudoti saugų ryšį</translation>
 <translation id="802154636333426148">Įvyko atsisiuntimo klaida</translation>
 <translation id="8023878949384262191">Išplečia skiltį.</translation>
@@ -942,7 +942,7 @@ Svetainės gali naudoti slapukus, kad sužinotų apie naršymo veiklą skirtingo
 <translation id="804225253087497565"><ph name="BEGIN_LINK" />Paieškos istorija<ph name="END_LINK" /> ir <ph name="BEGIN_LINK" />kitos veiklos formos<ph name="END_LINK" /> gali būti išsaugotos jūsų „Google“ paskyroje, kai esate prisijungę. Galite bet kada jas ištrinti.</translation>
 <translation id="804427445359061970">Čia bus rodomi skirtukai iš kitų įrenginių</translation>
 <translation id="8059533439631660104">Sutraukia skiltį.</translation>
-<translation id="8065292699993359127">Atidaryti URL naršyklėje „Chrome“ inkognito režimu</translation>
+<translation id="8065292699993359127">Atidaryti URL naršyklėje „Egon“ inkognito režimu</translation>
 <translation id="806745655614357130">Duomenis laikyti atskirai</translation>
 <translation id="8073670137947914548">Atsisiuntimas užbaigtas</translation>
 <translation id="8073872304774253879">Tobulinti paieškas ir naršymą</translation>
@@ -956,7 +956,7 @@ Svetainės gali naudoti slapukus, kad sužinotų apie naršymo veiklą skirtingo
 <translation id="8114753159095730575">Galima atsisiųsti failą. Parinktys pasiekiamos netoli ekrano apačios.</translation>
 <translation id="81313319706244542">2. Palieskite „Slaptažodžiai“</translation>
 <translation id="8132598642024322408">Dabar <ph name="PRICE" />, buvo <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Šie duomenys bus naudojami įvykiams programoje „Apple Calendar“ kurti naudojant „Chrome“ ir „Google Lens“.</translation>
+<translation id="8136856065410661948">Šie duomenys bus naudojami įvykiams programoje „Apple Calendar“ kurti naudojant „Egon“ ir „Google Lens“.</translation>
 <translation id="8156478151976189188">Slaptažodžio sinchronizavimas neveikia</translation>
 <translation id="8157532349231307196">Paskyrų: <ph name="NUMBER_OF_ACCOUNTS" /></translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Jūsų įrenginiai<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Svetainės gali naudoti slapukus, kad sužinotų apie naršymo veiklą skirtingo
 <translation id="8533670235862049797">Saugus naršymas įjungtas</translation>
 <translation id="8534481786647257214">„Google+“ įrašas paskelbtas.</translation>
 <translation id="8548878600947630424">Ieškoti puslapyje...</translation>
-<translation id="8558480467877843976">Dabar galite naudoti „Chrome“ bet kada naršydami ar paliesdami nuorodas pranešimuose, dokumentuose ir kitose programose.</translation>
+<translation id="8558480467877843976">Dabar galite naudoti „Egon“ bet kada naršydami ar paliesdami nuorodas pranešimuose, dokumentuose ir kitose programose.</translation>
 <translation id="8588404856427128947">Išjungta</translation>
 <translation id="8590913940444621808">Niekada neklausti</translation>
 <translation id="8591976964826315682">Blokuoti trečiųjų šalių slapukus inkognito režimu</translation>
@@ -1043,7 +1043,7 @@ Svetainės gali naudoti slapukus, kad sužinotų apie naršymo veiklą skirtingo
 <translation id="8876882697946675716">Įrenginių sinchronizavimas</translation>
 <translation id="8877287418679067891">Nustatyti kaip numatytąją nustatymuose...</translation>
 <translation id="8881801611828450202">Ieškoti „<ph name="SEARCH_ENGINE" />“ šio vaizdo</translation>
-<translation id="8891935667620843985">Galite automatiškai atidaryti nuorodas naršyklėje „Chrome“, nustatę ją kaip numatytąją naršyklės programą.</translation>
+<translation id="8891935667620843985">Galite automatiškai atidaryti nuorodas naršyklėje „Egon“, nustatę ją kaip numatytąją naršyklės programą.</translation>
 <translation id="8898822736010347272">„Google“ siunčiami kai kurių lankomų puslapių URL, ribota sistemos informacija ir kai kurių puslapių turinys, kad būtų galima aptikti naujas grėsmes ir apsaugoti visus žiniatinklio naudotojus.</translation>
 <translation id="890565330728586731">Atgal</translation>
 <translation id="8909135823018751308">Bendrinti…</translation>
@@ -1068,11 +1068,11 @@ Svetainės gali naudoti slapukus, kad sužinotų apie naršymo veiklą skirtingo
 <translation id="9055960261314198756">Sustiprinta apsauga išjungta</translation>
 <translation id="9057972802061533987">Negalima stebėti. Kažkas nepavyko.</translation>
 <translation id="9065203028668620118">Redaguoti</translation>
-<translation id="9068336935206019333">Atidaryti „Chrome“ inkognito režimu</translation>
+<translation id="9068336935206019333">Atidaryti „Egon“ inkognito režimu</translation>
 <translation id="9079935439869366234">Pažymėti visus kaip neskaitytus</translation>
 <translation id="9081058212938299310">Atnaujinti <ph name="USERNAME" /> slaptažodį?</translation>
 <translation id="9083838294503912307">Kad turinys būtų sinchronizuojamas ir suasmeninamas visuose įrenginiuose, įjunkite sinchronizavimą</translation>
-<translation id="9087108903408689779">„Chrome“ siūlomas slaptažodis:</translation>
+<translation id="9087108903408689779">„Egon“ siūlomas slaptažodis:</translation>
 <translation id="9093271241977565440">Ekrano viršuje palieskite paieškos piktogramą</translation>
 <translation id="9094033019050270033">Atnaujinti slaptažodį</translation>
 <translation id="9097506547406246598">Negalima nebestebėti. Kažkas nepavyko.</translation>
@@ -1089,7 +1089,7 @@ Svetainės gali naudoti slapukus, kad sužinotų apie naršymo veiklą skirtingo
 <translation id="9223358826628549784">Strigties ataskaita išsiųsta.</translation>
 <translation id="941747855997058526">Pasirinkite slaptažodį...</translation>
 <translation id="952704832371081537">Atšaukti</translation>
-<translation id="953008885340860025">Atsijungta nuo „Chrome“</translation>
+<translation id="953008885340860025">Atsijungta nuo „Egon“</translation>
 <translation id="959066944189734975">Stebite „<ph name="CHANNEL_NAME" />“</translation>
 <translation id="981498610235328462">Organizacijoje leidžiama prisijungti tik naudojant tam tikras paskyras. Neleidžiamos paskyros yra paslėptos.</translation>
 <translation id="984509647832111802">Sinchronizavimas neveikia.</translation>

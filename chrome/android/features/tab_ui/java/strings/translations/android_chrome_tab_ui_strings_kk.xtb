@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> қойынды біраздан бері пайдаланылмады. Олар жабылсын ба?</translation>
 <translation id="1181037720776840403">Өшіру</translation>
 <translation id="125153950246128346">Басқа қойынды көру үшін түртіңіз.</translation>
-<translation id="1403228085774130835">Жабылған қойындыларды Chrome бас мәзіріндегі "Соңғы қойындылар" бөлімінен таба аласыз.</translation>
+<translation id="1403228085774130835">Жабылған қойындыларды Egon бас мәзіріндегі "Соңғы қойындылар" бөлімінен таба аласыз.</translation>
 <translation id="1455506303394048917">Инкогнито қойындыларындағы әрекеттеріңіз бұл құрылғыдан жойылады.</translation>
 <translation id="1499635324672558517">Барлық инкогнито қойындысы жабылсын ба?</translation>
 <translation id="1657719826150349398">Қойындыны төмен жылжыту</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Дүкен туралы ақпаратты көру (опция экранның жоғарғы жағында орналасқан)</translation>
 <translation id="5558362125926932819"><ph name="NUMBER_OF_TABS" /> қойындысы бар қойындылар тобын жабу</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> қойынды топтастырылды.</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Chrome-нан <ph name="TABS_COUNT_ONE" /> сілтеме}other{Chrome-нан <ph name="TABS_COUNT_MANY" /> сілтеме}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Egon-нан <ph name="TABS_COUNT_ONE" /> сілтеме}other{Egon-нан <ph name="TABS_COUNT_MANY" /> сілтеме}}</translation>
 <translation id="575494663145460764">Бағаның төмендеуі туралы хабарландыру келсін бе?</translation>
 <translation id="58326064309361797">Қойындыларды топтастыру үшін оларды сүйреңіз.</translation>
 <translation id="5846292395804797011"><ph name="NUMBER_OF_TABS" /> қойындысы бар <ph name="TITLE_OF_GROUP" /> тобын жабу</translation>

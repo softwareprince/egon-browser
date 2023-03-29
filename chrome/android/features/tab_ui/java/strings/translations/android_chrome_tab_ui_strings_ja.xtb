@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">しばらく使用していないタブが <ph name="NUMBER_OF_TABS" /> 個あります。これらのタブを閉じますか？</translation>
 <translation id="1181037720776840403">削除</translation>
 <translation id="125153950246128346">タップすると他のタブが表示されます</translation>
-<translation id="1403228085774130835">閉じたタブは Chrome メインメニューの [最近使ったタブ] で確認できます</translation>
+<translation id="1403228085774130835">閉じたタブは Egon メインメニューの [最近使ったタブ] で確認できます</translation>
 <translation id="1455506303394048917">これらのシークレット タブでのアクティビティはこのデバイスから削除されます</translation>
 <translation id="1499635324672558517">すべてのシークレット タブを閉じますか？</translation>
 <translation id="1657719826150349398">タブを下に移動</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">ストア情報を表示、画面上部付近に表示されるオプション</translation>
 <translation id="5558362125926932819">タブグループの <ph name="NUMBER_OF_TABS" /> 個のタブを閉じます</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> 個のタブがグループ化されました</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Chrome からの <ph name="TABS_COUNT_ONE" /> 件のリンク}other{Chrome からの <ph name="TABS_COUNT_MANY" /> 件のリンク}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Egon からの <ph name="TABS_COUNT_ONE" /> 件のリンク}other{Egon からの <ph name="TABS_COUNT_MANY" /> 件のリンク}}</translation>
 <translation id="575494663145460764">値下げアラートを受け取りますか？</translation>
 <translation id="58326064309361797">タブをグループ化するにはドラッグします</translation>
 <translation id="5846292395804797011"><ph name="TITLE_OF_GROUP" /> グループの <ph name="NUMBER_OF_TABS" /> 個のタブを閉じます</translation>

@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">Vairākas cilnes pēdējā laikā nav izmantotas (kopā <ph name="NUMBER_OF_TABS" />). Vai vēlaties tās aizvērt?</translation>
 <translation id="1181037720776840403">Noņemt</translation>
 <translation id="125153950246128346">Pieskarieties, lai skatītu citu cilni</translation>
-<translation id="1403228085774130835">Aizvērtās cilnes varat atrast Chrome galvenās izvēlnes sadaļā Nesen atvērtas cilnes</translation>
+<translation id="1403228085774130835">Aizvērtās cilnes varat atrast Egon galvenās izvēlnes sadaļā Nesen atvērtas cilnes</translation>
 <translation id="1455506303394048917">Jūsu darbības šajās inkognito cilnēs tiks notīrītas no šīs ierīces.</translation>
 <translation id="1499635324672558517">Vai aizvērt visas inkognito cilnes?</translation>
 <translation id="1657719826150349398">Pārvietot cilni uz leju</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Skatiet veikala informāciju; opcija ir pieejama ekrāna augšdaļā</translation>
 <translation id="5558362125926932819">Aizvērt ciļņu grupu. Ciļņu skaits šajā grupā ir <ph name="NUMBER_OF_TABS" />.</translation>
 <translation id="5580090775658607195">Grupētas <ph name="TAB_COUNT" /> cilnes</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> saite no pārlūka Chrome}zero{<ph name="TABS_COUNT_MANY" /> saišu no pārlūka Chrome}one{<ph name="TABS_COUNT_MANY" /> saite no pārlūka Chrome}other{<ph name="TABS_COUNT_MANY" /> saites no pārlūka Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> saite no pārlūka Egon}zero{<ph name="TABS_COUNT_MANY" /> saišu no pārlūka Egon}one{<ph name="TABS_COUNT_MANY" /> saite no pārlūka Egon}other{<ph name="TABS_COUNT_MANY" /> saites no pārlūka Egon}}</translation>
 <translation id="575494663145460764">Vai saņemt brīdinājumus par cenu kritumu?</translation>
 <translation id="58326064309361797">Velciet cilnes, lai tās sagrupētu</translation>
 <translation id="5846292395804797011">Aizvērt ciļņu grupu “<ph name="TITLE_OF_GROUP" />”. Ciļņu skaits šajā grupā ir <ph name="NUMBER_OF_TABS" />.</translation>

@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">Imate više kartica (<ph name="NUMBER_OF_TABS" />) koje niste koristili u skorije vreme. Želite li da ih zatvorite?</translation>
 <translation id="1181037720776840403">Ukloni</translation>
 <translation id="125153950246128346">Dodirnite da biste videli neku drugu karticu</translation>
-<translation id="1403228085774130835">Zatvorene kartice možete da pronađete u odeljku Nedavne kartice u glavnom meniju Chrome-a</translation>
+<translation id="1403228085774130835">Zatvorene kartice možete da pronađete u odeljku Nedavne kartice u glavnom meniju Egon-a</translation>
 <translation id="1455506303394048917">Vaše aktivnosti na ovim karticama bez arhiviranja će biti obrisane sa ovog uređaja</translation>
 <translation id="1499635324672558517">Želite da zatvorite sve kartice bez arhiviranja?</translation>
 <translation id="1657719826150349398">Premestite karticu nadole</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Pregledajte informacije o prodavnici, opciju koja je dostupna u vrhu ekrana</translation>
 <translation id="5558362125926932819">Zatvorite grupu od kartica: <ph name="NUMBER_OF_TABS" /></translation>
 <translation id="5580090775658607195">Kartice su grupisane (<ph name="TAB_COUNT" />)</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link iz Chrome-a}one{<ph name="TABS_COUNT_MANY" /> link iz Chrome-a}few{<ph name="TABS_COUNT_MANY" /> linka iz Chrome-a}other{<ph name="TABS_COUNT_MANY" /> linkova iz Chrome-a}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link iz Egon-a}one{<ph name="TABS_COUNT_MANY" /> link iz Egon-a}few{<ph name="TABS_COUNT_MANY" /> linka iz Egon-a}other{<ph name="TABS_COUNT_MANY" /> linkova iz Egon-a}}</translation>
 <translation id="575494663145460764">Želite da dobijate obaveštenja za sniženja?</translation>
 <translation id="58326064309361797">Prevucite kartice da biste ih grupisali</translation>
 <translation id="5846292395804797011">Zatvorite grupu <ph name="TITLE_OF_GROUP" /> sa kartica: <ph name="NUMBER_OF_TABS" /></translation>

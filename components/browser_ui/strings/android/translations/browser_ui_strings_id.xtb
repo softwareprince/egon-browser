@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Geser ukuran teks sampai Anda dapat membacanya dengan nyaman. Teks akan terlihat setidaknya sebesar ini setelah Anda mengetuk sebuah paragraf dua kali.</translation>
 <translation id="2329473609445770916">Situs ini menentukan minat yang dapat digunakan oleh situs lain untuk menampilkan iklan kepada Anda</translation>
 <translation id="2359808026110333948">Lanjutkan</translation>
-<translation id="2379925928934107488">Terapkan tema gelap ke situs saat Chrome menggunakan tema gelap, jika mungkin</translation>
+<translation id="2379925928934107488">Terapkan tema gelap ke situs saat Egon menggunakan tema gelap, jika mungkin</translation>
 <translation id="2387895666653383613">Ukuran teks</translation>
 <translation id="2390272837142897736">Tambah zoom</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">Dari web</translation>
 <translation id="321187648315454507">Untuk mengizinkan <ph name="APP_NAME" /> mengirimkan notifikasi, aktifkan juga notifikasi di <ph name="BEGIN_LINK" />Setelan Android<ph name="END_LINK" />.</translation>
 <translation id="3227137524299004712">Mikrofon</translation>
-<translation id="3248611290851046188">Situs ini menentukan minat yang dapat digunakan oleh situs lain untuk menampilkan iklan kepada Anda. Situs ini juga mendapatkan minat Anda dari Chrome untuk menampilkan iklan yang lebih relevan.</translation>
+<translation id="3248611290851046188">Situs ini menentukan minat yang dapat digunakan oleh situs lain untuk menampilkan iklan kepada Anda. Situs ini juga mendapatkan minat Anda dari Egon untuk menampilkan iklan yang lebih relevan.</translation>
 <translation id="3277252321222022663">Mengizinkan situs untuk mengakses sensor (disarankan)</translation>
 <translation id="3285500645985761267">Izinkan situs terkait melihat aktivitas Anda di grup</translation>
 <translation id="3295019059349372795">Bab 11: Oz, Kota Zamrud yang Menakjubkan</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">Ini akan menghapus <ph name="DATASIZE" /> data dan cookie yang disimpan oleh situs.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(+ 1 lainnya)}other{(+ # lainnya)}}</translation>
 <translation id="5403592356182871684">Nama</translation>
-<translation id="5412236728747081950">Situs ini mendapatkan minat Anda dari Chrome untuk menampilkan iklan yang lebih relevan</translation>
+<translation id="5412236728747081950">Situs ini mendapatkan minat Anda dari Egon untuk menampilkan iklan yang lebih relevan</translation>
 <translation id="5438097262470833822">Pilihan ini akan mereset izin untuk <ph name="WEBSITE" /></translation>
 <translation id="5489227211564503167">Waktu berlalu <ph name="ELAPSED_TIME" /> dari <ph name="TOTAL_TIME" />.</translation>
 <translation id="5494752089476963479">Blokir iklan di situs yang menampilkan iklan yang mengganggu atau menyesatkan</translation>

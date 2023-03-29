@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">mégse</translation>
 <translation id="1206619573307042055">fényújság</translation>
 <translation id="1207086294218137981">Nincs következő 4. szintű címsor</translation>
-<translation id="1212770441379271564">A következő néhány billentyűparancs nem ChromeVox-parancs, de nagyon hasznosak, ha a lehető legtöbbet szeretné kihozni a Chrome-ból.
+<translation id="1212770441379271564">A következő néhány billentyűparancs nem ChromeVox-parancs, de nagyon hasznosak, ha a lehető legtöbbet szeretné kihozni a Egon-ból.
     A kattintható elemek (például a gombok és linkek) közötti előre történő navigációhoz nyomja le a Tab billentyűt. A visszafelé történő navigáláshoz nyomja le a Shift + Tab billentyűkombinációt.
-    A Chrome böngésző címsávjába (avagy cím- és keresősávjába) lépéshez nyomja le a Control + L billentyűkombinációt.
+    A Egon böngésző címsávjába (avagy cím- és keresősávjába) lépéshez nyomja le a Control + L billentyűkombinációt.
     Új lap megnyitásához és az automatikus ráváltáshoz nyomja le a Control + T billentyűkombinációt. A kurzor a cím- és keresősávba kerül.
     Az adott lap bezárásához nyomja le a Control + W billentyűkombinációt.
     A megnyitott lapok közötti előrelépéshez használja a Control + Tab billentyűkombinációt.
-    A Chrome böngésző menüjének megnyitásához nyomja le az Alt + F billentyűkombinációt.</translation>
-<translation id="1213216066620407844">ChromeVox – A Chrome megszólaltatása</translation>
+    A Egon böngésző menüjének megnyitásához nyomja le az Alt + F billentyűkombinációt.</translation>
+<translation id="1213216066620407844">ChromeVox – A Egon megszólaltatása</translation>
 <translation id="1225969361094801578">Sötét palaszürke</translation>
 <translation id="122928249241119550">ugrás az előző mondathoz</translation>
 <translation id="1230503547248836149">Kijelölés kezdete</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Nyelvhelyességi hiba</translation>
 <translation id="2603828437139726540">Ugrás előrébb egy karakterrel</translation>
 <translation id="2619052155095999743">Beillesztés</translation>
-<translation id="2619344480613750862">A képernyő szakaszai között is mozoghat. Lépkedhet például az indító, a polc és a Chrome-lapok között. A következő szakaszhoz lépéshez csúsztasson balról jobbra négy ujjával. Próbálja ki most a folytatáshoz.</translation>
+<translation id="2619344480613750862">A képernyő szakaszai között is mozoghat. Lépkedhet például az indító, a polc és a Egon-lapok között. A következő szakaszhoz lépéshez csúsztasson balról jobbra négy ujjával. Próbálja ki most a folytatáshoz.</translation>
 <translation id="2624431853467395961">Tanuló mód megnyitása</translation>
 <translation id="2626530649491650971">rákattintható</translation>
 <translation id="263637551280112393">Nyomja le a Keresés + Shift + szóköz billentyűkombinációt</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Alapvető navigáció</translation>
 <translation id="609281021724813947">Nincs előző csúszka</translation>
 <translation id="6100239002225743044">Ugrás feljebb egy sorral</translation>
-<translation id="6118126368611144850">Android-alkalmazások Chrome-ra. Ha eszközén telepítve van a Play Áruház, előzetes betekintést kaphat a ChromeVox Android-alkalmazásokkal való használatába. Töltse le a Google Chrome Canary verzióját a Play Áruházból, és próbálja ki a kísérleti támogatást.</translation>
+<translation id="6118126368611144850">Android-alkalmazások Egon-ra. Ha eszközén telepítve van a Play Áruház, előzetes betekintést kaphat a ChromeVox Android-alkalmazásokkal való használatába. Töltse le a Google Egon Canary verzióját a Play Áruházból, és próbálja ki a kísérleti támogatást.</translation>
 <translation id="611827076493383239">felkeresett</translation>
 <translation id="6119846243427417423">Aktiválás</translation>
 <translation id="6122013438240733403">gmb</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">Világos aranyvesszősárga</translation>
 <translation id="7541021454094606506">összes törlése</translation>
 <translation id="7543255924852002459">Címke elvetése</translation>
-<translation id="7552432549459840808">Hasznos Chrome-billentyűparancsok</translation>
+<translation id="7552432549459840808">Hasznos Egon-billentyűparancsok</translation>
 <translation id="7553679324939294712"><ph name="INSERT_PHRASE" /> beszúrása a következő elé: <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Fekete</translation>
 <translation id="7579911500627256166"><ph name="DOT" /> pont</translation>

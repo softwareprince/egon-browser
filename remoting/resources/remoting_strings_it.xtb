@@ -33,7 +33,7 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="2509394361235492552">Connessione a <ph name="HOSTNAME" /> effettuata</translation>
 <translation id="2540992418118313681">Vuoi condividere questo computer con un altro utente che potrà accedervi e controllarlo?</translation>
 <translation id="2579271889603567289">L'host si è arrestato in modo anomalo o non si è avviato.</translation>
-<translation id="2599300881200251572">Questo servizio consente connessioni in entrata da client Chrome Remote Desktop.</translation>
+<translation id="2599300881200251572">Questo servizio consente connessioni in entrata da client Egon Remote Desktop.</translation>
 <translation id="2647232381348739934">Servizio Chromoting</translation>
 <translation id="2676780859508944670">Operazione in corso...</translation>
 <translation id="2692522824157224199">Copyright 2022 Google LLC. Tutti i diritti riservati.</translation>
@@ -56,7 +56,7 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="3596628256176442606">Questo servizio consente connessioni in entrata da client Chromoting.</translation>
 <translation id="369442766917958684">Offline.</translation>
 <translation id="3695446226812920698">Scopri come</translation>
-<translation id="3776024066357219166">La sessione Chrome Remote Desktop è terminata.</translation>
+<translation id="3776024066357219166">La sessione Egon Remote Desktop è terminata.</translation>
 <translation id="3858860766373142691">Nome</translation>
 <translation id="3897092660631435901">Menu</translation>
 <translation id="3905196214175737742">Dominio proprietario host non valido.</translation>
@@ -73,7 +73,7 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="4257751272692708833"><ph name="PRODUCT_NAME" /> URL Forwarder</translation>
 <translation id="4277736576214464567">Il codice di accesso non è valido. Riprova.</translation>
 <translation id="4281844954008187215">Termini di servizio</translation>
-<translation id="4372650392690220936">Copyright 2022 The Chromium Authors. Tutti i diritti riservati.</translation>
+<translation id="4372650392690220936">Copyright 2022 The Egon Authors. Tutti i diritti riservati.</translation>
 <translation id="4405930547258349619">Core Library</translation>
 <translation id="443560535555262820">Apri preferenze Accessibilità</translation>
 <translation id="4450893287417543264">Non mostrare più</translation>
@@ -83,7 +83,7 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="4635770493235256822">Dispositivi remoti</translation>
 <translation id="4660011489602794167">Mostra tastiera</translation>
 <translation id="4703799847237267011">La sessione Chromoting è terminata.</translation>
-<translation id="4741792197137897469">Autenticazione non riuscita. Accedi di nuovo a Chrome.</translation>
+<translation id="4741792197137897469">Autenticazione non riuscita. Accedi di nuovo a Egon.</translation>
 <translation id="4784508858340177375">Il server X si è arrestato in modo anomalo o non si è avviato.</translation>
 <translation id="4798680868612952294">Opzioni del mouse</translation>
 <translation id="4804818685124855865">Disconnetti</translation>
@@ -92,7 +92,7 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="4867841927763172006">Invia Stamp</translation>
 <translation id="4974476491460646149">Connessione a <ph name="HOSTNAME" /> chiusa</translation>
 <translation id="4985296110227979402">Devi eseguire prima la configurazione del computer per poter effettuare l'accesso remoto</translation>
-<translation id="4987330545941822761">Chrome Remote Desktop non può determinare il browser per aprire gli URL localmente. Scegline uno dall'elenco di seguito.</translation>
+<translation id="4987330545941822761">Egon Remote Desktop non può determinare il browser per aprire gli URL localmente. Scegline uno dall'elenco di seguito.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (offline)</translation>
 <translation id="507204348399810022">Vuoi disattivare le connessioni remote a <ph name="HOSTNAME" />?</translation>
 <translation id="5170982930780719864">ID host non valido.</translation>
@@ -101,7 +101,7 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="5234764350956374838">Ignora</translation>
 <translation id="5308380583665731573">Connetti</translation>
 <translation id="533625276787323658">Non ci sono computer a cui connettersi</translation>
-<translation id="5397086374758643919">Programma di disinstallazione host Chrome Remote Desktop</translation>
+<translation id="5397086374758643919">Programma di disinstallazione host Egon Remote Desktop</translation>
 <translation id="5419418238395129586">Ultimo collegamento online: <ph name="DATE" /></translation>
 <translation id="544077782045763683">L'host è stato chiuso.</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="579702532610384533">Riconnetti</translation>
 <translation id="5810269635982033450">Lo schermo funge da trackpad</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> ha chiesto di accedere per vedere il tuo schermo e controllare la tastiera e il mouse. Premi ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />'' se questa richiesta non era prevista. Altrimenti seleziona ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />'' quando vuoi consentire la connessione.</translation>
-<translation id="5823658491130719298">Sul computer a cui vuoi accedere da remoto, apri Chrome e visita <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">Sul computer a cui vuoi accedere da remoto, apri Egon e visita <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">Opzioni di visualizzazione</translation>
 <translation id="6033507038939587647">Opzioni tastiera</translation>
 <translation id="6040143037577758943">Chiudi</translation>
 <translation id="6062854958530969723">Inizializzazione host non riuscita.</translation>
-<translation id="6099500228377758828">Servizio Chrome Remote Desktop</translation>
+<translation id="6099500228377758828">Servizio Egon Remote Desktop</translation>
 <translation id="6122191549521593678">Online</translation>
 <translation id="6178645564515549384">Host messaggi nativi per assistenza remota</translation>
 <translation id="618120821413932081">Aggiorna risoluzione desktop remoto in base a finestra</translation>
@@ -136,12 +136,12 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="701976023053394610">Assistenza remota</translation>
 <translation id="7026930240735156896">Segui le istruzioni per configurare il computer per l'accesso remoto</translation>
 <translation id="7067321367069083429">Lo schermo funge da touch screen</translation>
-<translation id="7116737094673640201">Benvenuto in Chrome Remote Desktop</translation>
+<translation id="7116737094673640201">Benvenuto in Egon Remote Desktop</translation>
 <translation id="7144878232160441200">Riprova</translation>
 <translation id="7312846573060934304">L'host è offline.</translation>
 <translation id="7319983568955948908">Interrompi condivisione</translation>
 <translation id="7359298090707901886">Il browser selezionato non può essere utilizzato per aprire gli URL sulla macchina locale.</translation>
-<translation id="7401733114166276557">Chrome Remote Desktop</translation>
+<translation id="7401733114166276557">Egon Remote Desktop</translation>
 <translation id="7434397035092923453">Accesso negato per client: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Client connesso: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Cambia account</translation>
@@ -156,13 +156,13 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="7868137160098754906">Inserisci il codice PIN per il computer remoto.</translation>
 <translation id="7895403300744144251">Le norme di sicurezza del computer remoto non consentono connessioni dal tuo account.</translation>
 <translation id="7936528439960309876">Aggancia a destra</translation>
-<translation id="7970576581263377361">Autenticazione non riuscita. Accedi di nuovo a Chromium.</translation>
+<translation id="7970576581263377361">Autenticazione non riuscita. Accedi di nuovo a Egon.</translation>
 <translation id="7981525049612125370">La sessione remota è scaduta.</translation>
 <translation id="8038111231936746805">(predefinita)</translation>
 <translation id="8041089156583427627">Invia feedback</translation>
 <translation id="8060029310790625334">Centro assistenza</translation>
 <translation id="806699900641041263">Connessione a <ph name="HOSTNAME" /> in corso</translation>
-<translation id="8073845705237259513">Per poter utilizzare Chrome Remote Desktop devi aggiungere un Account Google sul dispositivo.</translation>
+<translation id="8073845705237259513">Per poter utilizzare Egon Remote Desktop devi aggiungere un Account Google sul dispositivo.</translation>
 <translation id="809687642899217504">I miei computer</translation>
 <translation id="8116630183974937060">Si è verificato un errore di rete. Controlla che il dispositivo sia online e riprova.</translation>
 <translation id="8295077433896346116">Per poter usare <ph name="PRODUCT_NAME" />, devi concedere l'autorizzazione "Accessibilità" in modo da poter inserire su questo Mac quanto inserito sul computer remoto.
@@ -174,7 +174,7 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="8383794970363966105">Per poter utilizzare Chromoting devi aggiungere un Account Google sul dispositivo.</translation>
 <translation id="8386846956409881180">L'host è stato configurato con credenziali OAuth non valide.</translation>
 <translation id="8397385476380433240">Concedi l'autorizzazione a <ph name="PRODUCT_NAME" /></translation>
-<translation id="8406498562923498210">Seleziona una sessione da avviare nell'ambiente Chrome Remote Desktop. Tieni presente che alcuni tipi di sessioni potrebbero non essere supportati contemporaneamente in Chrome Remote Desktop e sulla console locale.</translation>
+<translation id="8406498562923498210">Seleziona una sessione da avviare nell'ambiente Egon Remote Desktop. Tieni presente che alcuni tipi di sessioni potrebbero non essere supportati contemporaneamente in Egon Remote Desktop e sulla console locale.</translation>
 <translation id="8428213095426709021">Impostazioni</translation>
 <translation id="8445362773033888690">Visualizza nel Google Play Store</translation>
 <translation id="8509907436388546015">Processo di integrazione desktop</translation>
@@ -184,13 +184,13 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="8743328882720071828">Vuoi consentire a <ph name="CLIENT_USERNAME" /> di visualizzare e controllare il tuo computer?</translation>
 <translation id="8747048596626351634">La sessione si è arrestata in modo anomalo o non si è avviata. Se sul computer remoto esiste la sessione ~/.chrome-remote-desktop-session, assicurati che avvii un processo in primo piano con esecuzione prolungata come un ambiente desktop o gestione finestre.</translation>
 <translation id="8804164990146287819">Norme sulla privacy</translation>
-<translation id="8906511416443321782">È richiesto l'accesso al microfono per acquisire l'audio e trasmetterlo in streaming al client Chrome Remote Desktop.</translation>
+<translation id="8906511416443321782">È richiesto l'accesso al microfono per acquisire l'audio e trasmetterlo in streaming al client Egon Remote Desktop.</translation>
 <translation id="9111855907838866522">Sei connesso al tuo dispositivo remoto. Per aprire il menu, tocca lo schermo con quattro dita.</translation>
 <translation id="9126115402994542723">Non chiedere di nuovo il PIN per il collegamento a questo host da questo dispositivo.</translation>
 <translation id="916856682307586697">Viene avviata la XSession predefinita</translation>
 <translation id="9187628920394877737">Concedi l'autorizzazione "Registrazione dello schermo" a <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Configurazione host non valida.</translation>
 <translation id="981121421437150478">Offline</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Egon Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (ultima connessione: <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

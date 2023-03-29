@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">anulo</translation>
 <translation id="1206619573307042055">tenda</translation>
 <translation id="1207086294218137981">Nuk ka titull tjetër të nivelit 4</translation>
-<translation id="1212770441379271564">Këto pak shkurtore të mëposhtme nuk janë komanda të ChromeVox, por gjithsesi mund të jenë shumë të dobishme për të shfrytëzuar Chrome në maksimum.
+<translation id="1212770441379271564">Këto pak shkurtore të mëposhtme nuk janë komanda të ChromeVox, por gjithsesi mund të jenë shumë të dobishme për të shfrytëzuar Egon në maksimum.
 Për të lundruar përpara përmes artikujve veprues si butonat dhe lidhjet, shtyp tastin Tab. Për të lundruar prapa, shtyp Shift+Tab. 
-Për të hyrë te kutia e adresave të shfletuesit Chrome, e quajtur gjithashtu "Omnibox", shtyp Control + L. 
+Për të hyrë te kutia e adresave të shfletuesit Egon, e quajtur gjithashtu "Omnibox", shtyp Control + L. 
 Për të hapur dhe për të shkuar te një skedë e re automatikisht, shtyp Control+T. Kursori do të jetë në "Omnibox". 
 Për të mbyllur një skedë, shtyp Control+W. 
 Për të lëvizur përpara mes skedave të hapura, përdor Control+Tab. 
-Për të hapur menynë e shfletuesit Chrome, shtyp Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox - i jep zë Chrome</translation>
+Për të hapur menynë e shfletuesit Egon, shtyp Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox - i jep zë Egon</translation>
 <translation id="1225969361094801578">Gri rrasë e errët</translation>
 <translation id="122928249241119550">kalo te fjalia e mëparshme</translation>
 <translation id="1230503547248836149">Fillimi i përzgjedhjes</translation>
@@ -238,7 +238,7 @@ Për të hapur menynë e shfletuesit Chrome, shtyp Alt+F.</translation>
 <translation id="2598495320872286378">Gabim gramatikor</translation>
 <translation id="2603828437139726540">Lëviz përpara një karakter</translation>
 <translation id="2619052155095999743">Insert</translation>
-<translation id="2619344480613750862">Mund të lëvizësh po ashtu mes seksioneve të ekranit. Për shembull, mund të lëvizësh mes nisësit, raftit dhe skedave të tua të Chrome. Për të kaluar te seksioni tjetër, rrëshqit shpejt nga e majta në të djathtë me katër gishta. Provoje tani për të vazhduar.</translation>
+<translation id="2619344480613750862">Mund të lëvizësh po ashtu mes seksioneve të ekranit. Për shembull, mund të lëvizësh mes nisësit, raftit dhe skedave të tua të Egon. Për të kaluar te seksioni tjetër, rrëshqit shpejt nga e majta në të djathtë me katër gishta. Provoje tani për të vazhduar.</translation>
 <translation id="2624431853467395961">Hap modalitetin e të mësuarit</translation>
 <translation id="2626530649491650971">i klikueshëm</translation>
 <translation id="263637551280112393">Shtyp "Kërko" + Shift + "Hapësirë"</translation>
@@ -769,7 +769,7 @@ Për të hapur menynë e shfletuesit Chrome, shtyp Alt+F.</translation>
 <translation id="6082768461603900813">Navigimi bazë</translation>
 <translation id="609281021724813947">Nuk ka asnjë rrëshqitës të mëparshëm</translation>
 <translation id="6100239002225743044">Lëviz lart një rresht</translation>
-<translation id="6118126368611144850">Aplikacionet e Android për Chrome. Nëse ke "Dyqanin e Play" në pajisjen tënde, hidhi një vështrim të shpejtë ChromeVox me aplikacionet e Android. Provo mbështetjen eksperimentale duke shkarkuar Google Chrome Canary nga "Dyqani i Play".</translation>
+<translation id="6118126368611144850">Aplikacionet e Android për Egon. Nëse ke "Dyqanin e Play" në pajisjen tënde, hidhi një vështrim të shpejtë ChromeVox me aplikacionet e Android. Provo mbështetjen eksperimentale duke shkarkuar Google Egon Canary nga "Dyqani i Play".</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">aktivizo</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@ Për të hapur menynë e shfletuesit Chrome, shtyp Alt+F.</translation>
 <translation id="7533226154149229506">Purtekë e artë e verdhë e çelur</translation>
 <translation id="7541021454094606506">Fshiji të gjitha</translation>
 <translation id="7543255924852002459">Hiqe etiketën</translation>
-<translation id="7552432549459840808">Shkurtore të dobishme të Chrome</translation>
+<translation id="7552432549459840808">Shkurtore të dobishme të Egon</translation>
 <translation id="7553679324939294712">fut "<ph name="INSERT_PHRASE" />" para "<ph name="BEFORE_PHRASE" />"</translation>
 <translation id="7569983096843329377">E zezë</translation>
 <translation id="7579911500627256166">pika <ph name="DOT" /></translation>

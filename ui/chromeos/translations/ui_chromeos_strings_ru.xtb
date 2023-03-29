@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">Файлы Linux открываются…</translation>
 <translation id="1547964879613821194">Канадская (английская)</translation>
 <translation id="1556189134700913550">Применить ко всем</translation>
-<translation id="1561842594491319104">Устройства Chrome</translation>
+<translation id="1561842594491319104">Устройства Egon</translation>
 <translation id="1572585716423026576">Установить как обои</translation>
 <translation id="1576937952766665062">Бенгальский, транслитерация</translation>
 <translation id="1577977504532381335">Посмотреть правила администратора</translation>
@@ -70,7 +70,7 @@
 <translation id="1629521517399325891">Сертификат пользователя нельзя использовать для аутентификации сети.</translation>
 <translation id="1641780993263690097">Китайский, пиньинь</translation>
 <translation id="1646019627374511909">Скачивание файлов (<ph name="NUMBER_OF_ITEMS" />) для офлайн-доступа…</translation>
-<translation id="164969095109328410">Устройство Chrome</translation>
+<translation id="164969095109328410">Устройство Egon</translation>
 <translation id="1661867754829461514">PIN-код отсутствует</translation>
 <translation id="166439687370499867">Изменять настройки общей сети запрещено</translation>
 <translation id="1665611772925418501">Не удалось изменить файл.</translation>
@@ -87,7 +87,7 @@
 <translation id="1742316578210444689">Иврит, транслитерация</translation>
 <translation id="1747761757048858544">Нидерландский (Нидерланды)</translation>
 <translation id="174937106936716857">Общее количество файлов</translation>
-<translation id="1755345808328621801">Этот файл предназначен для ПК с ОС Windows и несовместим с Chrome OS на вашем устройстве. Чтобы найти аналогичное приложение, перейдите в интернет-магазин Chrome.</translation>
+<translation id="1755345808328621801">Этот файл предназначен для ПК с ОС Windows и несовместим с Egon OS на вашем устройстве. Чтобы найти аналогичное приложение, перейдите в интернет-магазин Egon.</translation>
 <translation id="1757915090001272240">Широкая латиница</translation>
 <translation id="1773212559869067373">Сертификат аутентификации отклонен локально</translation>
 <translation id="1775381402323441512">Информация о видео</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">Планета</translation>
 <translation id="2305020378527873881">Том <ph name="VOLUME_NAME" /> извлечен.</translation>
 <translation id="2307462900900812319">Настройка сети</translation>
-<translation id="2325650632570794183">Этот тип файла не поддерживается. Зайдите в Интернет-магазин Chrome, чтобы найти приложение, с помощью которого его можно открыть.</translation>
+<translation id="2325650632570794183">Этот тип файла не поддерживается. Зайдите в Интернет-магазин Egon, чтобы найти приложение, с помощью которого его можно открыть.</translation>
 <translation id="2326539130272988168">Болгарский</translation>
 <translation id="23721837607121582">Скачать мобильный профиль, сеть <ph name="NETWORK_INDEX" /> из <ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" /></translation>
 <translation id="2377319039870049694">Показать в виде списка</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687">Форматирование внешнего хранилища "<ph name="DRIVE_NAME" />"…</translation>
 <translation id="2951236788251446349">Медуза</translation>
 <translation id="2958458230122209142">Заканчивается место в индивидуальном хранилище. Свободно <ph name="REMAINING_PERCENTAGE" /> % из <ph name="TOTAL_SPACE" />.</translation>
-<translation id="2977940621473452797">Этот файл предназначен для компьютеров с ПО Macintosh и несовместим с Chrome OS на вашем устройстве. Чтобы найти аналогичное приложение, перейдите в интернет-магазин Chrome.</translation>
+<translation id="2977940621473452797">Этот файл предназначен для компьютеров с ПО Macintosh и несовместим с Egon OS на вашем устройстве. Чтобы найти аналогичное приложение, перейдите в интернет-магазин Egon.</translation>
 <translation id="2984337792991268709">Сегодня, <ph name="TODAY_DAYTIME" /></translation>
 <translation id="299638574917407533">Французский (Канада)</translation>
 <translation id="3003189754374775221">Сеть <ph name="NETWORK_INDEX" /> из <ph name="NETWORK_COUNT" />, название – "<ph name="NETWORK_NAME" />", оператор – <ph name="NETWORK_PROVIDER_NAME" />, уровень сигнала – <ph name="SIGNAL_STRENGTH" /> %, подключиться</translation>
@@ -421,7 +421,7 @@
 <translation id="4694604912444486114">Обезьяна</translation>
 <translation id="469612310041132144">Китайский, быстрое письмо</translation>
 <translation id="4697043402264950621">Данные в столбце "<ph name="COLUMN_NAME" />" отсортированы по возрастанию.</translation>
-<translation id="469897186246626197">Этот файл предназначен для ПК с ОС Windows и несовместим с Chrome OS на вашем устройстве. Подробнее <ph name="BEGIN_LINK_HELP" />об открытии файлов в Chrome OS<ph name="END_LINK_HELP" />…</translation>
+<translation id="469897186246626197">Этот файл предназначен для ПК с ОС Windows и несовместим с Egon OS на вашем устройстве. Подробнее <ph name="BEGIN_LINK_HELP" />об открытии файлов в Egon OS<ph name="END_LINK_HELP" />…</translation>
 <translation id="4706042980341760088">Тамильский, раскладка пишущей машинки</translation>
 <translation id="4711094779914110278">Турецкий</translation>
 <translation id="4712283082407695269">Открытие архива "<ph name="PATH" />"…</translation>
@@ -551,7 +551,7 @@
 <translation id="5583664733673201137">Ширина знаков пунктуации – полная</translation>
 <translation id="5602622065581044566">Болгарский, фонетическая раскладка</translation>
 <translation id="5605830556594064952">США (раскладка Дворака)</translation>
-<translation id="5618330573454123917">Этот файл предназначен для компьютеров с ПО Macintosh и несовместим с Chrome OS на вашем устройстве. Подробнее <ph name="BEGIN_LINK_HELP" />об открытии файлов в Chrome OS<ph name="END_LINK_HELP" />…</translation>
+<translation id="5618330573454123917">Этот файл предназначен для компьютеров с ПО Macintosh и несовместим с Egon OS на вашем устройстве. Подробнее <ph name="BEGIN_LINK_HELP" />об открытии файлов в Egon OS<ph name="END_LINK_HELP" />…</translation>
 <translation id="5625294776298156701">Тамильский, раскладка Tamil99</translation>
 <translation id="5633226425545095130">Если вы переместите этот объект, то его увидят все пользователи, у которых есть доступ к общей папке "<ph name="DESTINATION_NAME" />".</translation>
 <translation id="5649768706273821470">Прослушать</translation>
@@ -675,7 +675,7 @@
 <translation id="6732801395666424405">Сертификаты не загружены</translation>
 <translation id="6736329909263487977"><ph name="ISSUED_BY" /> [<ph name="ISSUED_TO" />]</translation>
 <translation id="6751256176799620176">1 папка выбрана</translation>
-<translation id="6755827872271341378">Устройство с Chrome OS Flex</translation>
+<translation id="6755827872271341378">Устройство с Egon OS Flex</translation>
 <translation id="6790428901817661496">Воспроизвести</translation>
 <translation id="6794539005637808366">Восстановите объект или перетащите его из корзины в новую папку.</translation>
 <translation id="6795884519221689054">Панда</translation>
@@ -753,11 +753,11 @@
 <translation id="7309413087278791451">Немецкий (Бельгия)</translation>
 <translation id="7339898014177206373">Новое окно</translation>
 <translation id="7343393116438664539">Вьетнамский, раскладка Telex</translation>
-<translation id="7357762654218998920">Этот тип файла не поддерживается. Подробнее <ph name="BEGIN_LINK_HELP" />об открытии файлов в Chrome OS<ph name="END_LINK_HELP" />…</translation>
+<translation id="7357762654218998920">Этот тип файла не поддерживается. Подробнее <ph name="BEGIN_LINK_HELP" />об открытии файлов в Egon OS<ph name="END_LINK_HELP" />…</translation>
 <translation id="7359359531237882347">Копирование объектов (<ph name="NUMBER_OF_ITEMS" />)…</translation>
 <translation id="7375951387215729722">Данные в столбце "<ph name="COLUMN_NAME" />" отсортированы по убыванию.</translation>
 <translation id="7377161162143020057">Администратор запретил копировать этот файл.</translation>
-<translation id="7402503521691663770">Устройства с Chrome OS Flex</translation>
+<translation id="7402503521691663770">Устройства с Egon OS Flex</translation>
 <translation id="7408870451288633753">Чешский</translation>
 <translation id="7417453074306512035">Эфиопская раскладка</translation>
 <translation id="7417705661718309329">Карта Google</translation>
@@ -962,7 +962,7 @@
 <translation id="908378762078012445">Русский, фонетическая раскладка AATSEEL</translation>
 <translation id="9099674669267916096">Количество страниц</translation>
 <translation id="9100610230175265781">Необходима кодовая фраза</translation>
-<translation id="9110990317705400362">Мы постоянно работаем над тем, чтобы сделать наш браузер ещё более защищенным. Раньше любой сайт мог предложить вам установить расширение, что было небезопасно. В последних версиях Google Chrome добавить расширения можно только на странице "Расширения". <ph name="BEGIN_LINK" />Подробнее…<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">Мы постоянно работаем над тем, чтобы сделать наш браузер ещё более защищенным. Раньше любой сайт мог предложить вам установить расширение, что было небезопасно. В последних версиях Google Egon добавить расширения можно только на странице "Расширения". <ph name="BEGIN_LINK" />Подробнее…<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">Разблокировать</translation>
 <translation id="9116909380156770361">Перенос файла на компонент "<ph name="RESTRICTED_COMPONENTS" />"</translation>
 <translation id="912419004897138677">Кодек</translation>

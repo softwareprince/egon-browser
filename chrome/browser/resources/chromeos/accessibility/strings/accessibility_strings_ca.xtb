@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">cancel·la</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">No hi ha cap encapçalament més de nivell 4</translation>
-<translation id="1212770441379271564">Les dreceres següents no són ordres de ChromeVox, però són molt útils per treure tot el partit de Chrome.
+<translation id="1212770441379271564">Les dreceres següents no són ordres de ChromeVox, però són molt útils per treure tot el partit de Egon.
     Per navegar cap endavant per diversos elements clicables, com ara botons i enllaços, prem la tecla Tab. Per navegar cap enrere, prem Maj+Tab.
-    Per entrar al quadre d'adreces del navegador Chrome, que també s'anomena omnibox, prem Control+L.
+    Per entrar al quadre d'adreces del navegador Egon, que també s'anomena omnibox, prem Control+L.
     Per obrir una pestanya nova i anar-hi automàticament, prem Control+T. El cursor se situarà a l'omnibox.
     Per tancar una pestanya, prem Control+W.
     Per avançar per diverses pestanyes obertes, prem Control+Tab.
-    Per obrir el menú del navegador Chrome, prem Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox: dona veu a Chrome</translation>
+    Per obrir el menú del navegador Egon, prem Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox: dona veu a Egon</translation>
 <translation id="1225969361094801578">Gris pissarra fosc</translation>
 <translation id="122928249241119550">mou a la frase anterior</translation>
 <translation id="1230503547248836149">Inici de la selecció</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Error gramatical</translation>
 <translation id="2603828437139726540">Avança un caràcter</translation>
 <translation id="2619052155095999743">Insereix</translation>
-<translation id="2619344480613750862">També pots moure't per les seccions de la pantalla. Per exemple, et pots moure entre el menú d'aplicacions, el prestatge i les pestanyes de Chrome. Per passar a la secció següent, fes lliscar quatre dits d'esquerra a dreta. Prova-ho ara per continuar.</translation>
+<translation id="2619344480613750862">També pots moure't per les seccions de la pantalla. Per exemple, et pots moure entre el menú d'aplicacions, el prestatge i les pestanyes de Egon. Per passar a la secció següent, fes lliscar quatre dits d'esquerra a dreta. Prova-ho ara per continuar.</translation>
 <translation id="2624431853467395961">Obre el mode d'aprenentatge</translation>
 <translation id="2626530649491650971">s'hi pot fer clic</translation>
 <translation id="263637551280112393">Prem Cerca+Maj+Espai</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Registre</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Símbol gràfic</translation>
-<translation id="5648939288050772726">Enhorabona! Has après els aspectes bàsics per fer servir ChromeVox correctament. Recorda que pots obrir el menú d'ordres de ChromeVox en qualsevol moment prement Cerca+punt. Per obtenir encara més informació sobre ChromeVox i Chrome OS, consulta els articles següents.
+<translation id="5648939288050772726">Enhorabona! Has après els aspectes bàsics per fer servir ChromeVox correctament. Recorda que pots obrir el menú d'ordres de ChromeVox en qualsevol moment prement Cerca+punt. Per obtenir encara més informació sobre ChromeVox i Egon OS, consulta els articles següents.
     Si has acabat el tutorial, utilitza ChromeVox per navegar fins al botó Tanca i fes-hi clic.</translation>
 <translation id="5653397561111110475">Utilitzar les funcions d'accessibilitat de la pantalla tàctil de Chromebook</translation>
 <translation id="5655682562155942719">Ordres de salt</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Navegació bàsica</translation>
 <translation id="609281021724813947">No hi ha cap control lliscant anterior</translation>
 <translation id="6100239002225743044">Puja una línia</translation>
-<translation id="6118126368611144850">Aplicacions d'Android per a Chrome. Si tens Play Store al dispositiu, dona un cop d'ull a ChromeVox amb les aplicacions d'Android. Baixa Google Chrome Canary de Play Store per provar aquesta compatibilitat experimental.</translation>
+<translation id="6118126368611144850">Aplicacions d'Android per a Egon. Si tens Play Store al dispositiu, dona un cop d'ull a ChromeVox amb les aplicacions d'Android. Baixa Google Egon Canary de Play Store per provar aquesta compatibilitat experimental.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">activa</translation>
 <translation id="6122013438240733403">botó</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Groc daurat clar</translation>
 <translation id="7541021454094606506">suprimeix-ho tot</translation>
 <translation id="7543255924852002459">Etiqueta Descarta</translation>
-<translation id="7552432549459840808">Dreceres útils de Chrome</translation>
+<translation id="7552432549459840808">Dreceres útils de Egon</translation>
 <translation id="7553679324939294712">insereix <ph name="INSERT_PHRASE" /> abans de <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Negre</translation>
 <translation id="7579911500627256166">punt <ph name="DOT" /></translation>

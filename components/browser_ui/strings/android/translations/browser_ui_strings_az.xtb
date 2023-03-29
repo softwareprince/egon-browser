@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Rahat oxuya biləcəyinizə qədər slayderi dartın. Abzasa iki dəfə tıklayandan sonra mətn bu böyüklükdə olmalıdır.</translation>
 <translation id="2329473609445770916">Bu sayt digər saytların sizə reklam göstərmək üçün istifadə edə biləcəyi maraqları müəyyən edir</translation>
 <translation id="2359808026110333948">Davam edin</translation>
-<translation id="2379925928934107488">Mümkün olduqda, Chrome tünd temadan istifadə edərkən saytlara tünd tema tətbiq edin</translation>
+<translation id="2379925928934107488">Mümkün olduqda, Egon tünd temadan istifadə edərkən saytlara tünd tema tətbiq edin</translation>
 <translation id="2387895666653383613">Mətn miqyası</translation>
 <translation id="2390272837142897736">Zoom'u artırın</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">Vebdən</translation>
 <translation id="321187648315454507"><ph name="APP_NAME" /> tətbiqinə sizə bildiriş göndərmək icazəsi vermək üçün <ph name="BEGIN_LINK" />Android Ayarlarında<ph name="END_LINK" /> bildirişləri də aktiv edin.</translation>
 <translation id="3227137524299004712">Mikrofon</translation>
-<translation id="3248611290851046188">Bu sayt digər saytların sizə reklam göstərmək üçün istifadə edə biləcəyi maraqları müəyyən edir. Bu sayt sizə daha uyğun reklamlar göstərmək üçün Chrome'dan maraqlarınızı da əldə edir.</translation>
+<translation id="3248611290851046188">Bu sayt digər saytların sizə reklam göstərmək üçün istifadə edə biləcəyi maraqları müəyyən edir. Bu sayt sizə daha uyğun reklamlar göstərmək üçün Egon'dan maraqlarınızı da əldə edir.</translation>
 <translation id="3277252321222022663">Saytların sensorlara daxil olmasına icazə verin (tövsiyə edilir)</translation>
 <translation id="3285500645985761267">Əlaqədar saytlara qrupdakı fəaliyyətinizi görməyə icazə verin</translation>
 <translation id="3295019059349372795">Fəsil 11: Məftunedici Zümrüd Şəhəri Oz</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">Bununla saytlar tərəfindən saxlanılan <ph name="DATASIZE" /> data və kuki silinəcək.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(+1)}other{(+ #)}}</translation>
 <translation id="5403592356182871684">Adlar</translation>
-<translation id="5412236728747081950">Bu sayt sizə daha uyğun reklamlar göstərmək üçün Chrome'dan maraqlarınızı əldə edir</translation>
+<translation id="5412236728747081950">Bu sayt sizə daha uyğun reklamlar göstərmək üçün Egon'dan maraqlarınızı əldə edir</translation>
 <translation id="5438097262470833822">Bu seçim <ph name="WEBSITE" /> üçün icazələri sıfırlayacaq</translation>
 <translation id="5489227211564503167">Keçən vaxt: <ph name="ELAPSED_TIME" /> / <ph name="TOTAL_TIME" />.</translation>
 <translation id="5494752089476963479">İntruziv və aldadıcı reklamlar göstərən saytlardakı reklamları bloklayın</translation>

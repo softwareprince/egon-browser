@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">batal</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Tidak ada judul level 4 berikutnya</translation>
-<translation id="1212770441379271564">Beberapa pintasan berikutnya bukanlah perintah ChromeVox, tetapi pintasan tersebut tetap berguna untuk mengoptimalkan Chrome.
+<translation id="1212770441379271564">Beberapa pintasan berikutnya bukanlah perintah ChromeVox, tetapi pintasan tersebut tetap berguna untuk mengoptimalkan Egon.
     Untuk memilih navigasi maju melalui item tindakan seperti tombol dan link, tekan tombol Tab. Untuk memilih navigasi mundur, tekan Shift+Tab.
-    Untuk memasukkan kotak alamat browser Chrome, yang juga disebut omnibox, tekan Control + L.
+    Untuk memasukkan kotak alamat browser Egon, yang juga disebut omnibox, tekan Control + L.
     Untuk membuka tab baru secara otomatis, tekan Control+T. Kursor akan berada dalam omnibox.
     Untuk menutup tab, tekan Control+W.
     Untuk berpindah antara tab yang terbuka, gunakan Control+Tab.
-    Untuk membuka menu browser Chrome, tekan Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox - Memberikan Suara untuk Chrome</translation>
+    Untuk membuka menu browser Egon, tekan Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox - Memberikan Suara untuk Egon</translation>
 <translation id="1225969361094801578">Dark Slate Grey</translation>
 <translation id="122928249241119550">pindah ke kalimat sebelumnya</translation>
 <translation id="1230503547248836149">Awal pemilihan</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Kesalahan tata bahasa</translation>
 <translation id="2603828437139726540">Maju satu karakter</translation>
 <translation id="2619052155095999743">Insert</translation>
-<translation id="2619344480613750862">Anda juga dapat berpindah-pindah bagian pada layar. Misalnya, Anda dapat berpindah di antara peluncur, rak, dan tab Chrome. Untuk berpindah ke bagian berikutnya, geser dari kiri ke kanan dengan empat jari. Coba sekarang untuk melanjutkan.</translation>
+<translation id="2619344480613750862">Anda juga dapat berpindah-pindah bagian pada layar. Misalnya, Anda dapat berpindah di antara peluncur, rak, dan tab Egon. Untuk berpindah ke bagian berikutnya, geser dari kiri ke kanan dengan empat jari. Coba sekarang untuk melanjutkan.</translation>
 <translation id="2624431853467395961">Buka mode pembelajaran</translation>
 <translation id="2626530649491650971">dapat diklik</translation>
 <translation id="263637551280112393">Tekan tombol Penelusuran+Shift+Spasi</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Navigasi Dasar</translation>
 <translation id="609281021724813947">Tidak ada penggeser sebelumnya</translation>
 <translation id="6100239002225743044">Naikkan satu baris</translation>
-<translation id="6118126368611144850">Aplikasi Android untuk Chrome. Jika memiliki Play Store di perangkat, Anda dapat mengetahui lebih awal tentang ChromeVox dengan aplikasi Android. Coba dukungan eksperimental dengan mendownload Google Chrome Canary dari Play Store.</translation>
+<translation id="6118126368611144850">Aplikasi Android untuk Egon. Jika memiliki Play Store di perangkat, Anda dapat mengetahui lebih awal tentang ChromeVox dengan aplikasi Android. Coba dukungan eksperimental dengan mendownload Google Egon Canary dari Play Store.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">aktifkan</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">Light Golden Rod Yellow</translation>
 <translation id="7541021454094606506">hapus semua</translation>
 <translation id="7543255924852002459">Hapus label</translation>
-<translation id="7552432549459840808">Pintasan Chrome Yang Berguna</translation>
+<translation id="7552432549459840808">Pintasan Egon Yang Berguna</translation>
 <translation id="7553679324939294712">sisipkan <ph name="INSERT_PHRASE" /> sebelum <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Hitam</translation>
 <translation id="7579911500627256166">titik <ph name="DOT" /></translation>

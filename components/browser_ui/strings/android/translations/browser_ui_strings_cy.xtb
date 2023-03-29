@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Llusgwch y llithrydd nes eich bod yn gallu darllen hwn yn gyffyrddus. Dylai'r testun fod o leiaf y maint hwn ar ôl tapio dwywaith ar baragraff.</translation>
 <translation id="2329473609445770916">Mae'r wefan hon yn diffinio diddordebau y gall gwefannau eraill eu defnyddio i ddangos hysbysebion i chi</translation>
 <translation id="2359808026110333948">Parhau</translation>
-<translation id="2379925928934107488">Os yw'n bosib, defnyddio'r thema dywyll ar wefannau pan fydd Chrome yn defnyddio'r thema dywyll</translation>
+<translation id="2379925928934107488">Os yw'n bosib, defnyddio'r thema dywyll ar wefannau pan fydd Egon yn defnyddio'r thema dywyll</translation>
 <translation id="2387895666653383613">Newid maint testun yn gymesur</translation>
 <translation id="2390272837142897736">Chwyddo</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">O'r we</translation>
 <translation id="321187648315454507">I ganiatáu i <ph name="APP_NAME" /> anfon hysbysiadau atoch, trowch hysbysiadau ymlaen yn <ph name="BEGIN_LINK" />Gosodiadau Android<ph name="END_LINK" /> hefyd.</translation>
 <translation id="3227137524299004712">Meicroffon</translation>
-<translation id="3248611290851046188">Mae'r wefan hon yn diffinio diddordebau y gall gwefannau eraill eu defnyddio i ddangos hysbysebion i chi. Mae'r wefan hon hefyd yn cael eich diddordebau o Chrome i ddangos hysbysebion mwy defnyddiol i chi.</translation>
+<translation id="3248611290851046188">Mae'r wefan hon yn diffinio diddordebau y gall gwefannau eraill eu defnyddio i ddangos hysbysebion i chi. Mae'r wefan hon hefyd yn cael eich diddordebau o Egon i ddangos hysbysebion mwy defnyddiol i chi.</translation>
 <translation id="3277252321222022663">Caniatáu i wefannau gael mynediad at synwyryddion (argymhellir)</translation>
 <translation id="3285500645985761267">Caniatáu i wefannau cysylltiedig weld eich gweithgarwch yn y grŵp</translation>
 <translation id="3295019059349372795">Pennod 11: Dinas Emrallt Rhyfeddol Oz</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">Bydd hyn yn clirio <ph name="DATASIZE" /> o ddata a chwcis sy'n cael eu storio gan wefannau.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(+ 1 arall)}zero{(+ # arall)}two{(+ # arall)}few{(+ # arall)}many{(+ # arall)}other{(+ # arall)}}</translation>
 <translation id="5403592356182871684">Enwau</translation>
-<translation id="5412236728747081950">Mae'r wefan hon yn cael eich diddordebau o Chrome i ddangos rhagor o hysbysebion defnyddiol i chi</translation>
+<translation id="5412236728747081950">Mae'r wefan hon yn cael eich diddordebau o Egon i ddangos rhagor o hysbysebion defnyddiol i chi</translation>
 <translation id="5438097262470833822">Bydd y dewis hwn yn ailosod caniatadau ar gyfer <ph name="WEBSITE" /></translation>
 <translation id="5489227211564503167">Mae <ph name="ELAPSED_TIME" /> o <ph name="TOTAL_TIME" /> wedi mynd heibio.</translation>
 <translation id="5494752089476963479">Rhwystro hysbysebion ar wefannau sy'n dangos hysbysebion ymwthiol neu gamarweiniol</translation>

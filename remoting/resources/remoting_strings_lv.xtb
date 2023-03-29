@@ -33,11 +33,11 @@ Ja kastīte “<ph name="SERVICE_SCRIPT_NAME" />” jau ir atzīmēta, noņemiet
 <translation id="2509394361235492552">Izveidots savienojums ar “<ph name="HOSTNAME" />”</translation>
 <translation id="2540992418118313681">Vai vēlaties koplietot šo datoru ar citu lietotāju, lai viņš varētu skatīt un pārvaldīt tajā esošo saturu?</translation>
 <translation id="2579271889603567289">Saimniekdators avarēja, vai neizdevās to palaist.</translation>
-<translation id="2599300881200251572">Izmantojot šo pakalpojumu, tiek iespējota ienākošo savienojumu izveide no Chrome attālās darbvirsmas klientiem.</translation>
-<translation id="2647232381348739934">Chrome saites pakalpojums</translation>
+<translation id="2599300881200251572">Izmantojot šo pakalpojumu, tiek iespējota ienākošo savienojumu izveide no Egon attālās darbvirsmas klientiem.</translation>
+<translation id="2647232381348739934">Egon saites pakalpojums</translation>
 <translation id="2676780859508944670">Notiek apstrāde...</translation>
 <translation id="2692522824157224199">Autortiesības: Google LLC (2022). Visas tiesības paturētas.</translation>
-<translation id="2699970397166997657">Chrome saite</translation>
+<translation id="2699970397166997657">Egon saite</translation>
 <translation id="2758123043070977469">Autentificēšanas laikā radās problēma. Lūdzu, piesakieties vēlreiz.</translation>
 <translation id="2803375539583399270">Ievadiet PIN</translation>
 <translation id="2919669478609886916">Šobrīd jūs koplietojat šo ierīci ar citu lietotāju. Vai vēlaties turpināt koplietošanu?</translation>
@@ -53,10 +53,10 @@ Ja kastīte “<ph name="SERVICE_SCRIPT_NAME" />” jau ir atzīmēta, noņemiet
 <translation id="3385242214819933234">Saimniekdatora īpašnieka vārds nav derīgs.</translation>
 <translation id="3423542133075182604">Drošības atslēgas tālvadības process</translation>
 <translation id="3581045510967524389">Nevarēja izveidot savienojumu ar tīklu. Lūdzu, pārbaudiet, vai ierīce darbojas tiešsaistes režīmā.</translation>
-<translation id="3596628256176442606">Izmantojot šo pakalpojumu, tiek iespējoti ienākošie savienojumi no Chrome saites klientiem.</translation>
+<translation id="3596628256176442606">Izmantojot šo pakalpojumu, tiek iespējoti ienākošie savienojumi no Egon saites klientiem.</translation>
 <translation id="369442766917958684">Bezsaistē.</translation>
 <translation id="3695446226812920698">Uzzināt vairāk</translation>
-<translation id="3776024066357219166">Jūsu Chrome attālās darbvirsmas sesija ir pārtraukta.</translation>
+<translation id="3776024066357219166">Jūsu Egon attālās darbvirsmas sesija ir pārtraukta.</translation>
 <translation id="3858860766373142691">Nosaukums</translation>
 <translation id="3897092660631435901">Izvēlne</translation>
 <translation id="3905196214175737742">Saimniekdatora īpašnieka domēns nav derīgs.</translation>
@@ -69,11 +69,11 @@ Ja kastīte “<ph name="SERVICE_SCRIPT_NAME" />” jau ir atzīmēta, noņemiet
 <translation id="4155497795971509630">Trūkst dažu nepieciešamo komponentu. Pārbaudiet, vai ir instalēta programmatūras jaunākā versija, un mēģiniet vēlreiz.</translation>
 <translation id="4176825807642096119">Piekļuves kods</translation>
 <translation id="4227991223508142681">Resursdatora nodrošināšanas utilīta</translation>
-<translation id="4240294130679914010">Chrome saites saimniekdatora atinstalēšanas programma</translation>
+<translation id="4240294130679914010">Egon saites saimniekdatora atinstalēšanas programma</translation>
 <translation id="4257751272692708833">Produkta “<ph name="PRODUCT_NAME" />” URL pāradresēšanas rīks</translation>
 <translation id="4277736576214464567">Piekļuves kods nav derīgs. Lūdzu, mēģiniet vēlreiz.</translation>
 <translation id="4281844954008187215">Google pakalpojumu noteikumi</translation>
-<translation id="4372650392690220936">Autortiesības: Chromium autori (2022). Visas tiesības paturētas.</translation>
+<translation id="4372650392690220936">Autortiesības: Egon autori (2022). Visas tiesības paturētas.</translation>
 <translation id="4405930547258349619">Galvenā bibliotēka</translation>
 <translation id="443560535555262820">Atvērt pieejamības preferences</translation>
 <translation id="4450893287417543264">Vairs nerādīt</translation>
@@ -82,8 +82,8 @@ Ja kastīte “<ph name="SERVICE_SCRIPT_NAME" />” jau ir atzīmēta, noņemiet
 <translation id="4618411825115957973"><ph name="URL_FORWARDER_NAME" /> nav konfigurēts pareizi. Lūdzu, izvēlieties citu noklusējuma pārlūku un pēc tam atkal iespējojiet URL pāradresāciju.</translation>
 <translation id="4635770493235256822">Attālās ierīces</translation>
 <translation id="4660011489602794167">Rādīt tastatūru</translation>
-<translation id="4703799847237267011">Jūsu Chrome saites sesija ir pārtraukta.</translation>
-<translation id="4741792197137897469">Autentificēšana neizdevās. Lūdzu, vēlreiz pierakstieties pārlūkā Chrome.</translation>
+<translation id="4703799847237267011">Jūsu Egon saites sesija ir pārtraukta.</translation>
+<translation id="4741792197137897469">Autentificēšana neizdevās. Lūdzu, vēlreiz pierakstieties pārlūkā Egon.</translation>
 <translation id="4784508858340177375">Serveris X avarēja, vai neizdevās to palaist.</translation>
 <translation id="4798680868612952294">Peles opcijas</translation>
 <translation id="4804818685124855865">Atvienot</translation>
@@ -92,7 +92,7 @@ Ja kastīte “<ph name="SERVICE_SCRIPT_NAME" />” jau ir atzīmēta, noņemiet
 <translation id="4867841927763172006">Sūtīt PrtScn</translation>
 <translation id="4974476491460646149">Savienojums ar “<ph name="HOSTNAME" />” ir pārtraukts</translation>
 <translation id="4985296110227979402">Vispirms datorā ir jāiestata attālā piekļuve.</translation>
-<translation id="4987330545941822761">Chrome attālā darbvirsma nevarēja noteikt pārlūkprogrammas veidu lokālai URL atvēršanai. Izvēlieties pārlūkprogrammu no tālāk norādītā saraksta.</translation>
+<translation id="4987330545941822761">Egon attālā darbvirsma nevarēja noteikt pārlūkprogrammas veidu lokālai URL atvēršanai. Izvēlieties pārlūkprogrammu no tālāk norādītā saraksta.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (bezsaistē)</translation>
 <translation id="507204348399810022">Vai tiešām vēlaties atspējot attālos savienojumus ar saimniekdatoru <ph name="HOSTNAME" />?</translation>
 <translation id="5170982930780719864">Saimniekdatora ID nav derīgs.</translation>
@@ -101,7 +101,7 @@ Ja kastīte “<ph name="SERVICE_SCRIPT_NAME" />” jau ir atzīmēta, noņemiet
 <translation id="5234764350956374838">Nerādīt</translation>
 <translation id="5308380583665731573">Pievienošana</translation>
 <translation id="533625276787323658">Nav neviena datora, ar kuru izveidot savienojumu.</translation>
-<translation id="5397086374758643919">Chrome attālās darbvirsmas saimniekdatora atinstalēšanas programma</translation>
+<translation id="5397086374758643919">Egon attālās darbvirsmas saimniekdatora atinstalēšanas programma</translation>
 <translation id="5419418238395129586">Pēdējoreiz tiešsaistē: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Saimniekdators tika izslēgts.</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@ Ja kastīte “<ph name="SERVICE_SCRIPT_NAME" />” jau ir atzīmēta, noņemiet
 <translation id="579702532610384533">Atkārtoti savienot</translation>
 <translation id="5810269635982033450">Ekrāns darbojas kā skārienpaliktnis</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> pieprasīja piekļuvi skatīt jūsu ekrānu un kontrolēt jūsu tastatūru un peli. Ja negaidījāt šādu pieprasījumu, nospiediet <ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />. Pretējā gadījumā, kad esat gatavs, nospiediet <ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />, lai atļautu savienojumu.</translation>
-<translation id="5823658491130719298">Datorā, kuram vēlaties piekļūt attāli, atveriet pārlūku Chrome un apmeklējiet vietni <ph name="INSTALLATION_LINK" />.</translation>
+<translation id="5823658491130719298">Datorā, kuram vēlaties piekļūt attāli, atveriet pārlūku Egon un apmeklējiet vietni <ph name="INSTALLATION_LINK" />.</translation>
 <translation id="5841343754884244200">Attēlojuma opcijas</translation>
 <translation id="6033507038939587647">Tastatūras opcijas</translation>
 <translation id="6040143037577758943">Aizvērt</translation>
 <translation id="6062854958530969723">Neizdevās inicializēt saimniekdatoru.</translation>
-<translation id="6099500228377758828">Chrome attālās darbvirsmas pakalpojums</translation>
+<translation id="6099500228377758828">Egon attālās darbvirsmas pakalpojums</translation>
 <translation id="6122191549521593678">Tiešsaistē</translation>
 <translation id="6178645564515549384">Vietējais ziņojumapmaiņas saimniekdators attālai palīdzībai</translation>
 <translation id="618120821413932081">Mainīt attālās darbvirsmas izšķirtspēju, lai tā atbilstu logam</translation>
@@ -136,12 +136,12 @@ Ja kastīte “<ph name="SERVICE_SCRIPT_NAME" />” jau ir atzīmēta, noņemiet
 <translation id="701976023053394610">Attālā palīdzība</translation>
 <translation id="7026930240735156896">Sekojiet norādījumiem, lai iestatītu datoru attālai piekļuvei</translation>
 <translation id="7067321367069083429">Ekrāns darbojas kā skārienekrāns</translation>
-<translation id="7116737094673640201">Laipni lūdzam Chrome attālajā darbvirsmā!</translation>
+<translation id="7116737094673640201">Laipni lūdzam Egon attālajā darbvirsmā!</translation>
 <translation id="7144878232160441200">Mēģināt vēlreiz</translation>
 <translation id="7312846573060934304">Saimniekdators darbojas bezsaistes režīmā.</translation>
 <translation id="7319983568955948908">Pārtraukt koplietošanu</translation>
 <translation id="7359298090707901886">Izvēlēto pārlūkprogrammu nevar izmantot URL atvēršanai lokālajā ierīcē.</translation>
-<translation id="7401733114166276557">Chrome attālā darbvirsma</translation>
+<translation id="7401733114166276557">Egon attālā darbvirsma</translation>
 <translation id="7434397035092923453">Piekļuve liegta šim klientam: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Klients, kas izveidojis savienojumu: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Mainīt kontu</translation>
@@ -156,13 +156,13 @@ Ja kastīte “<ph name="SERVICE_SCRIPT_NAME" />” jau ir atzīmēta, noņemiet
 <translation id="7868137160098754906">Lūdzu, ievadiet attālā datora PIN.</translation>
 <translation id="7895403300744144251">Drošības politiku dēļ attālajā datorā nav atļauti savienojumi no jūsu konta.</translation>
 <translation id="7936528439960309876">Dokot labajā pusē</translation>
-<translation id="7970576581263377361">Autentificēšana neizdevās. Lūdzu, vēlreiz pierakstieties pārlūkā Chromium.</translation>
+<translation id="7970576581263377361">Autentificēšana neizdevās. Lūdzu, vēlreiz pierakstieties pārlūkā Egon.</translation>
 <translation id="7981525049612125370">Attālās sesijas termiņš ir beidzies.</translation>
 <translation id="8038111231936746805">(noklusējums)</translation>
 <translation id="8041089156583427627">Sūtīt atsauksmes</translation>
 <translation id="8060029310790625334">Palīdzības centrs</translation>
 <translation id="806699900641041263">Notiek savienojuma izveide ar “<ph name="HOSTNAME" />”</translation>
-<translation id="8073845705237259513">Lai izmantotu Chrome attālo darbvirsmu, jums ir jāpievieno savā ierīcē Google konts.</translation>
+<translation id="8073845705237259513">Lai izmantotu Egon attālo darbvirsmu, jums ir jāpievieno savā ierīcē Google konts.</translation>
 <translation id="809687642899217504">Mani datori</translation>
 <translation id="8116630183974937060">Radās tīkla kļūda. Lūdzu, pārbaudiet, vai ierīcē ir izveidots savienojumus, un mēģiniet vēlreiz.</translation>
 <translation id="8295077433896346116">Ja vēlaties izmantot <ph name="PRODUCT_NAME" />, jums ir jāpiešķir pieejamības atļauja, lai šajā Mac datorā varētu izmantot ievadi no attālā datora.
@@ -171,10 +171,10 @@ Lai piešķirtu šo atļauju, tālāk noklikšķiniet uz pogas <ph name="BUTTON_
 
 Ja izvēles rūtiņa “<ph name="SERVICE_SCRIPT_NAME" />” jau ir atzīmēta, noņemiet atzīmi un atzīmējiet to vēlreiz.</translation>
 <translation id="8305209735512572429">Tīmekļa autentifikācijas tālvadības process</translation>
-<translation id="8383794970363966105">Lai izmantotu Chrome saiti, jums ir jāpievieno savā ierīcē Google konts.</translation>
+<translation id="8383794970363966105">Lai izmantotu Egon saiti, jums ir jāpievieno savā ierīcē Google konts.</translation>
 <translation id="8386846956409881180">Saimniekdators ir konfigurēts ar nederīgiem OAuth akreditācijas datiem.</translation>
 <translation id="8397385476380433240">Atļaujas piešķiršana pakalpojumam <ph name="PRODUCT_NAME" /></translation>
-<translation id="8406498562923498210">Atlasiet sesiju, ko uzsākt Chrome attālās darbvirsmas vidē. (Ņemiet vērā, ko noteiktu veidu sesijas, iespējams, nedarbosies Chrome attālajā darbvirsmā un vietējā konsolē vienlaicīgi.)</translation>
+<translation id="8406498562923498210">Atlasiet sesiju, ko uzsākt Egon attālās darbvirsmas vidē. (Ņemiet vērā, ko noteiktu veidu sesijas, iespējams, nedarbosies Egon attālajā darbvirsmā un vietējā konsolē vienlaicīgi.)</translation>
 <translation id="8428213095426709021">Iestatījumi</translation>
 <translation id="8445362773033888690">Skatīt Google Play veikalā</translation>
 <translation id="8509907436388546015">Darbvirsmas integrācijas process</translation>
@@ -184,13 +184,13 @@ Ja izvēles rūtiņa “<ph name="SERVICE_SCRIPT_NAME" />” jau ir atzīmēta, 
 <translation id="8743328882720071828">Vai atļausiet lietotājam <ph name="CLIENT_USERNAME" /> skatīt un pārvaldīt jūsu datoru?</translation>
 <translation id="8747048596626351634">Sesija avarēja, vai neizdevās to sākt. Ja attālajā datorā pastāv sesija ~/.chrome-remote-desktop-session, tai ir jāsāk ilgstošs priekšplāna process, piemēram, darbvirsmas vide vai logu pārvaldnieks.</translation>
 <translation id="8804164990146287819">Konfidencialitātes politika</translation>
-<translation id="8906511416443321782">Lai varētu tvert audio un straumēt to Chrome attālās darbvirsmas klientā, nepieciešama piekļuve mikrofonam.</translation>
+<translation id="8906511416443321782">Lai varētu tvert audio un straumēt to Egon attālās darbvirsmas klientā, nepieciešama piekļuve mikrofonam.</translation>
 <translation id="9111855907838866522">Ir izveidots savienojums ar jūsu attālo ierīci. Lai atvērtu izvēlni, pieskarieties pie ekrāna ar četriem pirkstiem.</translation>
 <translation id="9126115402994542723">Nepieprasīt PIN kodu vēlreiz, kad no šīs ierīces izveidoju savienojumu ar šo saimniekdatoru.</translation>
 <translation id="916856682307586697">Uzsākt noklusējuma XSession</translation>
 <translation id="9187628920394877737">Izsniegt “Ekrāna ierakstīšanas” atļauju pakalpojumam <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Saimniekdatora konfigurācija nav derīga.</translation>
 <translation id="981121421437150478">Bezsaistē</translation>
-<translation id="985602178874221306">Chromium autori</translation>
+<translation id="985602178874221306">Egon autori</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (pēdējoreiz tiešsaistē: <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

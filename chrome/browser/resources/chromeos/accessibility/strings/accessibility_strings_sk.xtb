@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">zruš</translation>
 <translation id="1206619573307042055">pohyblivý prvok</translation>
 <translation id="1207086294218137981">Žiadny ďalší nadpis štvrtej úrovne</translation>
-<translation id="1212770441379271564">Nasledujúce skratky nie sú príkazy čítačky ChromeVox, ale sú stále veľmi užitočné a pomôžu vám naplno využívať Chrome.
+<translation id="1212770441379271564">Nasledujúce skratky nie sú príkazy čítačky ChromeVox, ale sú stále veľmi užitočné a pomôžu vám naplno využívať Egon.
     Ak chcete prechádzať dopredu medzi klikateľnými položkami, ako sú tlačidlá a odkazy, stláčajte kláves Tab. Ak chcete prechádzať dozadu, stláčajte klávesy Shift + Tab.
-    Ak chcete aktivovať panel s adresou prehliadača Chrome (nazývaný tiež všeobecné pole), stlačte klávesy Control + L.
+    Ak chcete aktivovať panel s adresou prehliadača Egon (nazývaný tiež všeobecné pole), stlačte klávesy Control + L.
     Ak chcete otvoriť novú kartu a automaticky na ňu prejsť, stlačte klávesy Ctrl + T. Kurzor sa presunie do omniboxu.
     Ak chcete zavrieť kartu, stlačte kombináciu klávesov Ctrl + W.
     Ak chcete prechádzať dopredu medzi otvorenými kartami, stlačte kombináciu klávesov Ctrl + Tab.
-    Ak chcete otvoriť ponuku prehliadača Chrome, stlačte kombináciu klávesov Alt + F.</translation>
-<translation id="1213216066620407844">ChromeVox – hlas prehliadača Chrome</translation>
+    Ak chcete otvoriť ponuku prehliadača Egon, stlačte kombináciu klávesov Alt + F.</translation>
+<translation id="1213216066620407844">ChromeVox – hlas prehliadača Egon</translation>
 <translation id="1225969361094801578">Tmavobridlicovosivá</translation>
 <translation id="122928249241119550">prejdi na predchádzajúcu vetu</translation>
 <translation id="1230503547248836149">Začiatok výberu</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Denník</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Grafický symbol</translation>
-<translation id="5648939288050772726">Blahoželáme! Úspešne ste sa naučili základy používania čítačky ChromeVox. Ponuku s príkazmi čítačky ChromeVox môžete kedykoľvek otvoriť stlačením kombinácie klávesov Hľadať + Bodka. Ak sa chcete o čítačke ChromeVox a systéme Chrome OS dozvedieť viac, pozrite si nasledujúce články.
+<translation id="5648939288050772726">Blahoželáme! Úspešne ste sa naučili základy používania čítačky ChromeVox. Ponuku s príkazmi čítačky ChromeVox môžete kedykoľvek otvoriť stlačením kombinácie klávesov Hľadať + Bodka. Ak sa chcete o čítačke ChromeVox a systéme Egon OS dozvedieť viac, pozrite si nasledujúce články.
     Ak ste už s návodom skončili, prejdite pomocou čítačky ChromeVox na tlačidlo Zavrieť a kliknite naň.</translation>
 <translation id="5653397561111110475">Použitie funkcií dostupnosti dotykovej obrazovky Chromebooku</translation>
 <translation id="5655682562155942719">Príkazy na preskočenie</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Základná navigácia</translation>
 <translation id="609281021724813947">Žiadny predchádzajúci posúvač</translation>
 <translation id="6100239002225743044">Posunúť o riadok nahor</translation>
-<translation id="6118126368611144850">Aplikácie Android pre Chrome. Ak máte v zariadení Obchod Play, vyskúšajte ChromeVox s aplikáciami pre Android. Vyskúšajte experimentálnu podporu stiahnutím prehliadača Google Chrome Canary z Obchodu Play.</translation>
+<translation id="6118126368611144850">Aplikácie Android pre Egon. Ak máte v zariadení Obchod Play, vyskúšajte ChromeVox s aplikáciami pre Android. Vyskúšajte experimentálnu podporu stiahnutím prehliadača Google Egon Canary z Obchodu Play.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">aktivovať</translation>
 <translation id="6122013438240733403">tlačidlo</translation>

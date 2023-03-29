@@ -300,7 +300,7 @@
 <translation id="2620436844016719705">النظام</translation>
 <translation id="2621713457727696555">مؤمّنة</translation>
 <translation id="263399434338050016">"اختيار الكل"</translation>
-<translation id="2645435784669275700">‏نظام التشغيل Chrome</translation>
+<translation id="2645435784669275700">‏نظام التشغيل Egon</translation>
 <translation id="2653019840645008922">لقطة نافذة</translation>
 <translation id="2653659639078652383">إرسال</translation>
 <translation id="2658778018866295321">انقر واسحب</translation>
@@ -431,7 +431,7 @@
 <translation id="3378438761594387761">ستظهر هنا أحدث عمليات التنزيل ولقطات الشاشة.</translation>
 <translation id="3378442621503952303">جارٍ الربط بالملف التعريفي. يُرجى الانتظار بضع دقائق.</translation>
 <translation id="3386978599540877378">المكبِّر بملء الشاشة</translation>
-<translation id="3387527074123400161">‏نظام التشغيل Chromium</translation>
+<translation id="3387527074123400161">‏نظام التشغيل Egon</translation>
 <translation id="3400357268283240774">إعدادات إضافية</translation>
 <translation id="3405101454990027959">السماح بالوصول إلى الميكروفون</translation>
 <translation id="3410336247007142655">عرض إعدادات المظهر الداكن</translation>
@@ -917,7 +917,7 @@
 <translation id="6043994281159824495">الخروج الآن</translation>
 <translation id="6047696787498798094">سيتم إيقاف مشاركة الشاشة عند التبديل إلى مستخدم آخر. هل تريد المتابعة؟</translation>
 <translation id="6054305421211936131">تسجيل الدخول باستخدام البطاقة الذكية</translation>
-<translation id="6059276912018042191">‏علامات تبويب Chrome الأخيرة</translation>
+<translation id="6059276912018042191">‏علامات تبويب Egon الأخيرة</translation>
 <translation id="6062360702481658777">سيتم تسجيل خروجك تلقائيًا في غضون <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">انتهيت من استخدام الملف.</translation>
 <translation id="6073451960410192870">إيقاف التسجيل</translation>
@@ -1022,7 +1022,7 @@
 <translation id="6650933572246256093">يريد جهاز بلوتوث "<ph name="DEVICE_NAME" />" الحصول على إذن للإقران. يُرجى إدخال مفتاح المرور هذا في هذا الجهاز: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">كلمة المرور</translation>
 <translation id="6665545700722362599">منح المواقع الإلكترونية والتطبيقات والإضافات الإذن لاستخدام خدمات الموقع الجغرافي أو كاميرا وميكروفون الجهاز أو الميزات الأخرى</translation>
-<translation id="6667908387435388584">‏يمكنك الاتصال بنقطة الاتصال المفعّلة على الهاتف وكتم صوته وتحديد موقعه والاطّلاع على علامات تبويب Chrome المفتوحة مؤخرًا عليه.</translation>
+<translation id="6667908387435388584">‏يمكنك الاتصال بنقطة الاتصال المفعّلة على الهاتف وكتم صوته وتحديد موقعه والاطّلاع على علامات تبويب Egon المفتوحة مؤخرًا عليه.</translation>
 <translation id="6670153871843998651">مكتب 3</translation>
 <translation id="6671495933530132209">نسخ الصورة</translation>
 <translation id="6671661918848783005">‏يتعذَّر فتح قفل جهاز Chromebook.</translation>

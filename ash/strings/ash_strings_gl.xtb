@@ -299,7 +299,7 @@ Para comezar, podes probar o seguinte.</translation>
 <translation id="2620436844016719705">Sistema</translation>
 <translation id="2621713457727696555">Protexida</translation>
 <translation id="263399434338050016">"Selecciona todo"</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">Captura de ventá</translation>
 <translation id="2653659639078652383">Enviar</translation>
 <translation id="2658778018866295321">Facer clic e arrastrar</translation>
@@ -430,7 +430,7 @@ Para comezar, podes probar o seguinte.</translation>
 <translation id="3378438761594387761">Aquí atoparás as descargas e capturas de pantalla recentes</translation>
 <translation id="3378442621503952303">Conectando co perfil. Agarda uns minutos.</translation>
 <translation id="3386978599540877378">a lupa de pantalla completa</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Configuración adicional</translation>
 <translation id="3405101454990027959">Activar acceso ao micrófono</translation>
 <translation id="3410336247007142655">Mostrar configuración do tema escuro</translation>
@@ -916,7 +916,7 @@ Todos os usuarios deben pechar sesión para poder continuar.</translation>
 <translation id="6043994281159824495">Pechar sesión agora</translation>
 <translation id="6047696787498798094">O uso compartido da pantalla deterase cando cambies a outro usuario. Queres continuar?</translation>
 <translation id="6054305421211936131">Inicia sesión coa tarxeta intelixente</translation>
-<translation id="6059276912018042191">Pestanas recentes de Chrome</translation>
+<translation id="6059276912018042191">Pestanas recentes de Egon</translation>
 <translation id="6062360702481658777">A túa sesión pecharase automaticamente en <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Xa rematei de utilizar o ficheiro</translation>
 <translation id="6073451960410192870">Deter gravación</translation>
@@ -1021,7 +1021,7 @@ Nova instalación</translation>
 <translation id="6650933572246256093">O dispositivo Bluetooth "<ph name="DEVICE_NAME" />" solicita permiso para sincronizarse. Introduce esta clave de acceso nese dispositivo: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Contrasinal</translation>
 <translation id="6665545700722362599">Conceder permiso aos sitios web, as aplicacións e as extensións para utilizar funcións como os servizos de localización, o micrófono do dispositivo ou a cámara.</translation>
-<translation id="6667908387435388584">Conéctate á zona wifi do teléfono, silencia e localiza o teu dispositivo, e accede ás pestanas de Chrome que se abriron recentemente no teu teléfono</translation>
+<translation id="6667908387435388584">Conéctate á zona wifi do teléfono, silencia e localiza o teu dispositivo, e accede ás pestanas de Egon que se abriron recentemente no teu teléfono</translation>
 <translation id="6670153871843998651">Escritorio 3</translation>
 <translation id="6671495933530132209">Copiar imaxe</translation>
 <translation id="6671661918848783005">Non se puido desbloquear o Chromebook</translation>

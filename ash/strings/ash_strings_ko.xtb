@@ -915,7 +915,7 @@
 <translation id="6043994281159824495">지금 로그아웃</translation>
 <translation id="6047696787498798094">다른 사용자로 전환하면 화면 공유가 중단됩니다. 계속하시겠습니까?</translation>
 <translation id="6054305421211936131">스마트 카드로 로그인</translation>
-<translation id="6059276912018042191">최근 Chrome 탭</translation>
+<translation id="6059276912018042191">최근 Egon 탭</translation>
 <translation id="6062360702481658777"><ph name="LOGOUT_TIME_LEFT" /> 후 자동으로 로그아웃됩니다.</translation>
 <translation id="6064463340679478396">파일 사용 완료</translation>
 <translation id="6073451960410192870">녹화 중지</translation>
@@ -1020,7 +1020,7 @@
 <translation id="6650933572246256093">블루투스 기기 '<ph name="DEVICE_NAME" />'에서 페어링 허가를 요청합니다. 해당 기기에서 다음 패스키를 입력하세요. <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">비밀번호</translation>
 <translation id="6665545700722362599">웹사이트, 앱, 확장 프로그램에 위치 서비스, 기기의 마이크, 카메라 또는 기타 기능을 사용할 권한 부여</translation>
-<translation id="6667908387435388584">휴대전화 핫스팟에 연결하고, 기기를 음소거하고, 기기를 찾고, 휴대전화에서 최근 열었던 Chrome 탭을 확인하세요.</translation>
+<translation id="6667908387435388584">휴대전화 핫스팟에 연결하고, 기기를 음소거하고, 기기를 찾고, 휴대전화에서 최근 열었던 Egon 탭을 확인하세요.</translation>
 <translation id="6670153871843998651">데스크 3</translation>
 <translation id="6671495933530132209">이미지 복사</translation>
 <translation id="6671661918848783005">Chromebook을 잠금 해제할 수 없음</translation>

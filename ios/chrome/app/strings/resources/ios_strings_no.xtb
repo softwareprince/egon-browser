@@ -18,7 +18,7 @@ Søkemotoren din er <ph name="DSE_NAME" />. Se eventuelt instruksjonene deres om
 <translation id="1076421457278169141">Koden er skannet</translation>
 <translation id="1076785341346483463">Synkroniser med administrert konto</translation>
 <translation id="1084365883616172403">Facebook-innlegget er fullført.</translation>
-<translation id="1085696779717592361">Bruk Chrome som standard</translation>
+<translation id="1085696779717592361">Bruk Egon som standard</translation>
 <translation id="1103523840287552314">Oversett alltid <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">Bytt til åpent vindu</translation>
 <translation id="1112015203684611006">Utskriften mislyktes.</translation>
@@ -32,13 +32,13 @@ Søkemotoren din er <ph name="DSE_NAME" />. Se eventuelt instruksjonene deres om
 <translation id="1165039591588034296">Feil</translation>
 <translation id="1172898394251786223">Neste felt</translation>
 <translation id="1176932207622159128">Kan ikke lagre bildet</translation>
-<translation id="1177414119866731261">Åpne Chrome-menyen</translation>
+<translation id="1177414119866731261">Åpne Egon-menyen</translation>
 <translation id="1181037720776840403">Fjern</translation>
 <translation id="1207113853726624428">Nytt søk</translation>
 <translation id="1209206284964581585">Skjul for øyeblikket</translation>
 <translation id="1219674500290482172">Kan ikke koble til Internett.</translation>
 <translation id="122699739164161391">Lukk alle faner</translation>
-<translation id="1229222343402087523">Søk etter ${searchPhrase} i Chrome</translation>
+<translation id="1229222343402087523">Søk etter ${searchPhrase} i Egon</translation>
 <translation id="1242044645101871359">Logg på igjen</translation>
 <translation id="1254117744268754948">Valg av mappe</translation>
 <translation id="1254424942107648268">Finn forrige</translation>
@@ -128,7 +128,7 @@ Søkemotoren din er <ph name="DSE_NAME" />. Se eventuelt instruksjonene deres om
 <translation id="1941314575388338491">Dobbelttrykk for å kopiere.</translation>
 <translation id="1943478190258551035">Meny → Innstillinger</translation>
 <translation id="1952172573699511566">Nettsteder viser tekst på språket du foretrekker, der dette er mulig.</translation>
-<translation id="1965935827552890526">Gjør deg ferdig med det du holdt på med i det andre åpne Chrome-vinduet.</translation>
+<translation id="1965935827552890526">Gjør deg ferdig med det du holdt på med i det andre åpne Egon-vinduet.</translation>
 <translation id="1973912524893600642">Behold dataene</translation>
 <translation id="1974060860693918893">Avanserte</translation>
 <translation id="1981118202195772574">Mobil</translation>
@@ -149,8 +149,8 @@ Søkemotoren din er <ph name="DSE_NAME" />. Se eventuelt instruksjonene deres om
 <translation id="2139867232736819575">Søk etter teksten du kopierte</translation>
 <translation id="214201757571129614">Logg på…</translation>
 <translation id="2149973817440762519">Rediger bokmerke</translation>
-<translation id="2150175299852799498">Chrome for mobil</translation>
-<translation id="2155145621546387786">Del Chrome</translation>
+<translation id="2150175299852799498">Egon for mobil</translation>
+<translation id="2155145621546387786">Del Egon</translation>
 <translation id="2175927920773552910">QR-kode</translation>
 <translation id="2178545675770638239">Velg passord</translation>
 <translation id="2218443599109088993">Zoom ut</translation>
@@ -161,7 +161,7 @@ Søkemotoren din er <ph name="DSE_NAME" />. Se eventuelt instruksjonene deres om
 <translation id="225943865679747347">Feilkode: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Legg til konto</translation>
 <translation id="2268044343513325586">Finstem</translation>
-<translation id="2271351792809375263">Bruk passordene du har lagret i Chrome, i andre apper på enheten</translation>
+<translation id="2271351792809375263">Bruk passordene du har lagret i Egon, i andre apper på enheten</translation>
 <translation id="2273327106802955778">Mer-menyen</translation>
 <translation id="2286505070150039482">Markert tekst</translation>
 <translation id="2299218006564889602">Passordene dine krypteres på enheten før de lagres i Google Passordlagring.</translation>
@@ -232,13 +232,13 @@ Nettsteder kan ikke bruke informasjonskapsler til å se nettleseraktiviteten din
 <translation id="2797029671965852011">Vis loggen</translation>
 <translation id="2800683595868705743">Avslutt fanevelgeren</translation>
 <translation id="2815198996063984598">2. Trykk på Standard nettleserapp.</translation>
-<translation id="2820289420301699633">Administratoren din har kontroll over Chrome og tilgang til de tilhørende dataene</translation>
+<translation id="2820289420301699633">Administratoren din har kontroll over Egon og tilgang til de tilhørende dataene</translation>
 <translation id="2830972654601096923">Administrer adresser</translation>
 <translation id="2834399722155632105">3. Trykk på Passordvalg</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Tilbakestill innstillingene for Oversetter</translation>
 <translation id="2848086008667475748">Angi som standard i innstillingene …</translation>
-<translation id="2858204748079866344">For å beskytte personvernet ditt legger ikke Chrome passordet ditt automatisk inn i dette feltet.</translation>
+<translation id="2858204748079866344">For å beskytte personvernet ditt legger ikke Egon passordet ditt automatisk inn i dette feltet.</translation>
 <translation id="285960592395650245">Prøv å laste ned på nytt</translation>
 <translation id="2870560284913253234">Nettsted</translation>
 <translation id="2871695793448672541">Skjult passord</translation>
@@ -256,7 +256,7 @@ Nettsteder kan ikke bruke informasjonskapsler til å se nettleseraktiviteten din
 <translation id="292639812446257861">Merk som ulest</translation>
 <translation id="2932085390869194046">Foreslå passord</translation>
 <translation id="2932765531295814441">Legg til passord manuelt</translation>
-<translation id="2952581218264071393">1. Åpne Chrome-innstillingene.</translation>
+<translation id="2952581218264071393">1. Åpne Egon-innstillingene.</translation>
 <translation id="2958718410589002129">Passord</translation>
 <translation id="2961210776189273067">Tittel</translation>
 <translation id="2964349545761222050">Blokkér informasjonskapsler fra tredjeparter</translation>
@@ -312,7 +312,7 @@ Se eventuelt instruksjonene fra den aktuelle søkemotoren om hvordan du sletter 
 <translation id="3371831930909698441">Oversetter er tilgjengelig. Du finner alternativer på nedre del av skjermen.</translation>
 <translation id="3377063233124932127">Nå finner du blant annet de lagrede bokmerkene og passordene dine øverst.</translation>
 <translation id="3393920035788932672">Tillat forgrunnsvinduer</translation>
-<translation id="3399930248910934354">Åpne Chrome-innstillingene</translation>
+<translation id="3399930248910934354">Åpne Egon-innstillingene</translation>
 <translation id="3404744938087714423">Hvis du logger av, blir synkronisering slått av.</translation>
 <translation id="3425644765244388016">Kallenavn på kortet</translation>
 <translation id="3433057996795775706">Sletting av dette passordet sletter ikke kontoen din på <ph name="WEBSITE" />. Endre passordet på <ph name="WEBSITE" /> for å beskytte den mot andre.</translation>
@@ -355,7 +355,7 @@ Se eventuelt instruksjonene fra den aktuelle søkemotoren om hvordan du sletter 
 <translation id="3709582977625132201">Merk som ulest</translation>
 <translation id="371230970611282515">Forutser og advarer deg om farlige hendelser før de inntreffer.</translation>
 <translation id="37207012422556617">Søk på vei opp</translation>
-<translation id="3740397331642243698">Åpner de oppgitte nettadressene i Google Chrome i inkognitomodus.</translation>
+<translation id="3740397331642243698">Åpner de oppgitte nettadressene i Google Egon i inkognitomodus.</translation>
 <translation id="3762232513783804601">Laget for iPaden din</translation>
 <translation id="3768725474733206671">Åpne sist lukkede fane på nytt</translation>
 <translation id="3771033907050503522">Inkognitofaner</translation>
@@ -374,12 +374,12 @@ Se eventuelt instruksjonene fra den aktuelle søkemotoren om hvordan du sletter 
 <translation id="3858860766373142691">Navn</translation>
 <translation id="3861486700625780712">Slutt å følge</translation>
 <translation id="3863769054730344136">Send til enhetene dine</translation>
-<translation id="387280738075653372">Last ned Chrome her.</translation>
+<translation id="387280738075653372">Last ned Egon her.</translation>
 <translation id="3888863481921783344">Dette brukes til å vise deg mulige personer du kan invitere til aktiviteten din.</translation>
 <translation id="3892144330757387737">Her finner du loggen din</translation>
 <translation id="3897092660631435901">Meny</translation>
 <translation id="3904829425754749514">Organisasjonen din har slått av synkronisering. Du kan fremdeles se bokmerkene dine, loggen din, passordene dine og andre innstillinger på denne enheten. Hvis du gjør endringer, blir de ikke synkronisert med kontoen din.</translation>
-<translation id="3913386780052199712">Pålogget Chrome</translation>
+<translation id="3913386780052199712">Pålogget Egon</translation>
 <translation id="3915450441834151894">Opplysninger om nettstedet</translation>
 <translation id="3922310737605261887">Søk etter teksten du kopierte</translation>
 <translation id="3928666092801078803">Kombiner dataene mine</translation>
@@ -522,7 +522,7 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK" />tilbakestill synkronis
 <translation id="4979397965658815378">Logg på med Google-kontoen din for å få bokmerkene, passordene, loggoppføringene og de andre innstillingene dine på alle enhetene du bruker</translation>
 <translation id="4986678885919050584">Fjern fra denne enheten</translation>
 <translation id="4989542687859782284">Utilgjengelig</translation>
-<translation id="498985224078955265">For å sende denne fanen til en annen enhet, logg på Chrome på begge enhetene.</translation>
+<translation id="498985224078955265">For å sende denne fanen til en annen enhet, logg på Egon på begge enhetene.</translation>
 <translation id="5005498671520578047">Kopiér passordet</translation>
 <translation id="5017828934289857214">Påminn meg senere</translation>
 <translation id="5037676449506322593">Velg alle</translation>
@@ -532,19 +532,19 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK" />tilbakestill synkronis
 <translation id="5062321486222145940">Installer Google Disk</translation>
 <translation id="5083464117946352670">Kan ikke fastslå filstørrelsen.</translation>
 <translation id="5090832849094901128">Sletting av dette passordet sletter ikke kontoen din på <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">Du kan lagre sider for å lese dem senere eller uten nett. Chrome kommer til å spørre om du vil lagre lange sider.</translation>
+<translation id="5092117651143801290">Du kan lagre sider for å lese dem senere eller uten nett. Egon kommer til å spørre om du vil lagre lange sider.</translation>
 <translation id="5094827893301452931">Twitter-meldingen er fullført.</translation>
 <translation id="5118713593561876160">Interesser</translation>
 <translation id="5118764316110575523">Av</translation>
-<translation id="5119391094379141756">Velg Chrome</translation>
+<translation id="5119391094379141756">Velg Egon</translation>
 <translation id="5132942445612118989">Synkroniser passordene dine, loggen din med mer på alle enheter</translation>
-<translation id="5140288047769711648">Chrome husker dette passordet for deg. Du trenger ikke å huske det selv.</translation>
+<translation id="5140288047769711648">Egon husker dette passordet for deg. Du trenger ikke å huske det selv.</translation>
 <translation id="5149188072385105201">Legg til et passord…</translation>
 <translation id="5150492518600715772">Send til enheten din</translation>
 <translation id="5168414296986405587">Laget for iPadOS</translation>
 <translation id="5173088371991956744">Synkronisering må bekrefte at det er deg</translation>
 <translation id="5181140330217080051">Laster ned</translation>
-<translation id="5184329579814168207">Åpne i Chrome</translation>
+<translation id="5184329579814168207">Åpne i Egon</translation>
 <translation id="5186185447130319458">Privat</translation>
 <translation id="5188482106078495165">Innstillingen for informasjonskapsler gjelder for alle faner. For å ta i bruk en ny innstilling på en åpen fane, last inn fanen på nytt.</translation>
 <translation id="5190835502935405962">Bokmerkerad</translation>
@@ -579,7 +579,7 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK" />tilbakestill synkronis
 <translation id="5490005495580364134">Blokkér alle informasjonskapsler (anbefales ikke)</translation>
 <translation id="5513681519188741830">For <ph name="TIME" /> t siden</translation>
 <translation id="5520466080178053306">Trykk på Passordlagring, og trykk på Legg til</translation>
-<translation id="5525095647255982834">For å sende denne fanen til en annen enhet, logg på Chrome der.</translation>
+<translation id="5525095647255982834">For å sende denne fanen til en annen enhet, logg på Egon der.</translation>
 <translation id="5525269841082836315">Opprett en passordfrase</translation>
 <translation id="5542540507657872337"><ph name="COUNT" /> er funnet</translation>
 <translation id="5548760955356983418">Med Handoff kan du begynne å se gjennom en nettside på denne enheten og deretter fortsette på Mac-en din uten problemer. Den åpne nettsiden vises i dokken til Mac-en din.
@@ -601,14 +601,14 @@ Handoff må også være aktivert i Generelt-delen av Innstillinger, og enhetene 
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Lag en QR-kode</translation>
 <translation id="567881659373499783">Versjon <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Viser nå 1 Chrome-vindu}other{Viser nå {count} Chrome-vinduer}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Viser nå 1 Egon-vindu}other{Viser nå {count} Egon-vinduer}}</translation>
 <translation id="5701270923492462699">Kameratilgang er tillatt</translation>
 <translation id="5704908597376970822">Kan ikke logge på.</translation>
 <translation id="5706552126692816153">Aktiv for én dag siden</translation>
 <translation id="5711039611392265845">Se <ph name="BEGIN_LINK" />Synkronisering og Google-tjenester<ph name="END_LINK" /> for flere innstillinger knyttet til personvern, sikkerhet og datainnsamling.</translation>
 <translation id="5724941645893276623">For å surfe privat på nettet, legg til en ny fane</translation>
 <translation id="5728700505257787410">Det oppsto et problem ved pålogging til kontoen din.</translation>
-<translation id="5733084997078800044">Chrome-tips</translation>
+<translation id="5733084997078800044">Egon-tips</translation>
 <translation id="5737974891429562743">Påloggingsdetaljene for kontoen er utdatert. Oppdater for å starte synkroniseringen.</translation>
 <translation id="5738385766833540397">Administrer hvordan du mottar varsler om avslag for produkter du sporer</translation>
 <translation id="5738887413654608789">Med denne kan du oppdage relevante nettsider basert på omgivelsene dine.</translation>
@@ -623,7 +623,7 @@ Handoff må også være aktivert i Generelt-delen av Innstillinger, og enhetene 
 <translation id="5812974770859303494">Legg til i …</translation>
 <translation id="581659025233126501">Slå på synkronisering</translation>
 <translation id="5819208479324046259">Administreres av <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Lagre passord, betalingsmåter og adresser slik at Chrome kan autofylle dem senere.</translation>
+<translation id="5833643789537100742">Lagre passord, betalingsmåter og adresser slik at Egon kan autofylle dem senere.</translation>
 <translation id="5846482154967366008">Søkemotor</translation>
 <translation id="5854790677617711513">Eldre enn 30 dager</translation>
 <translation id="5857090052475505287">Ny mappe</translation>
@@ -650,7 +650,7 @@ Handoff må også være aktivert i Generelt-delen av Innstillinger, og enhetene 
 <translation id="5982717868370722439">Legg til eksisterende data i <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Nylig besøkte</translation>
 <translation id="5988097621740394599">Se avslag på fanene dine.</translation>
-<translation id="5988851877894965432">Åpne nettadresser i Chrome</translation>
+<translation id="5988851877894965432">Åpne nettadresser i Egon</translation>
 <translation id="6006672969046233841">Ny fane</translation>
 <translation id="6012140227487808125">Krypterer …</translation>
 <translation id="6021332621416007159">Åpne i…</translation>
@@ -676,7 +676,7 @@ Handoff må også være aktivert i Generelt-delen av Innstillinger, og enhetene 
 <translation id="6152406514676263192">Synkroniser for å få det mest relevante innholdet basert på interessene dine.</translation>
 <translation id="6159839020698489198">valgfritt</translation>
 <translation id="6170450281939467187">Kunne ikke oversette</translation>
-<translation id="6177442314419606057">Søk i Chrome</translation>
+<translation id="6177442314419606057">Søk i Egon</translation>
 <translation id="6184086493125982861">Vis faner</translation>
 <translation id="6187302354554850004">Sist synkronisert: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Ulest</translation>
@@ -746,7 +746,7 @@ Prøv å bruke unike passord for hvert nettsted.</translation>
 <translation id="6524918542306337007">Inkognitomodus er ikke tilgjengelig</translation>
 <translation id="6530992499366869131">Få en advarsel hvis passord blir avdekket i databrudd</translation>
 <translation id="6537746030088321027">eteksempel.no</translation>
-<translation id="6540120577248033958">Besøk et nettsted, og klikk på Følg på Chrome-menyen</translation>
+<translation id="6540120577248033958">Besøk et nettsted, og klikk på Følg på Egon-menyen</translation>
 <translation id="6561262006871132942">Zoom inn</translation>
 <translation id="6583087784430677195">For å slå av funksjonen, åpne <ph name="BEGIN_LINK" />Innstillinger<ph name="END_LINK" /> og gå til Autoutfylling av passord.</translation>
 <translation id="6585618849026997638">Du kan komme tilbake til sider som er viktige for deg, ved å legge til bokmerker</translation>
@@ -864,7 +864,7 @@ Når du er i Inkognito, kan ikke nettsteder bruke informasjonskapsler til å se 
 <translation id="7454057999980797137">Fylke/kommune</translation>
 <translation id="7459628154744868585">Økt beskyttelse er på</translation>
 <translation id="7464701184726199289">Dette sletter synkroniserte data fra alle enheter. Lagrede nettstedsinnstillinger slettes ikke og kan gjenspeile nettleserbruken din. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Velg Chrome.</translation>
+<translation id="746684838091935575">3. Velg Egon.</translation>
 <translation id="7472734401283673885">Bedriftsnavn</translation>
 <translation id="7473891865547856676">Nei takk</translation>
 <translation id="750493650310597496">0 er valgt</translation>
@@ -899,7 +899,7 @@ Når du er i Inkognito, kan ikke nettsteder bruke informasjonskapsler til å se 
 <translation id="7781011649027948662">Vil du oversette siden?</translation>
 <translation id="7781069478569868053">Ny fane-siden</translation>
 <translation id="7781829728241885113">I går</translation>
-<translation id="778855399387580014">Start et søk i en ny Chrome-fane.</translation>
+<translation id="778855399387580014">Start et søk i en ny Egon-fane.</translation>
 <translation id="7791543448312431591">Legg til</translation>
 <translation id="7807060072011926525">Levert av Google</translation>
 <translation id="7839985698273989086">Side utenfor internett</translation>
@@ -912,7 +912,7 @@ Når du er i Inkognito, kan ikke nettsteder bruke informasjonskapsler til å se 
 <translation id="7859704718976024901">Nettleserlogg</translation>
 <translation id="7879275349003161544">Vis Nedlastinger</translation>
 <translation id="7884694604461143138">Søkelogg (fant <ph name="COUNT" />)</translation>
-<translation id="7887198238286927132">For å beskytte personvernet ditt fyller ikke Chrome automatisk ut dette feltet.</translation>
+<translation id="7887198238286927132">For å beskytte personvernet ditt fyller ikke Egon automatisk ut dette feltet.</translation>
 <translation id="7911190106180361398">Organisasjonen din lar deg ikke synkronisere alt.</translation>
 <translation id="7920949005883349320">Personvern og sikkerhet</translation>
 <translation id="7930998711684428189">Advarer deg hvis passord blir avdekket i databrudd.</translation>
@@ -933,7 +933,7 @@ Nettsteder kan bruke informasjonskapsler til å se nettleseraktiviteten din på 
 <translation id="7982789257301363584">Nettverk</translation>
 <translation id="7987685713885608670">For ekstra trygghet kan du kryptere passord på enheten før de lagres i Google Passordlagring.</translation>
 <translation id="7993619969781047893">Det kan hende at funksjoner på enkelte nettsteder slutter å fungere</translation>
-<translation id="800361585186029508">Åpner de oppgitte nettadressene i Google Chrome.</translation>
+<translation id="800361585186029508">Åpner de oppgitte nettadressene i Google Egon.</translation>
 <translation id="8016714545083187120">Bruk alltid sikre tilkoblinger</translation>
 <translation id="802154636333426148">Nedlastingen mislyktes</translation>
 <translation id="8023878949384262191">Utvider delen.</translation>
@@ -942,7 +942,7 @@ Nettsteder kan bruke informasjonskapsler til å se nettleseraktiviteten din på 
 <translation id="804225253087497565"><ph name="BEGIN_LINK" />Søkeloggen<ph name="END_LINK" /> og <ph name="BEGIN_LINK" />andre typer aktivitet<ph name="END_LINK" /> kan bli lagret i Google-kontoen din når du er pålogget. Du kan slette dem når som helst.</translation>
 <translation id="804427445359061970">Her finner du fanene dine fra andre enheter</translation>
 <translation id="8059533439631660104">Skjuler delen.</translation>
-<translation id="8065292699993359127">Åpne nettadresser i Chrome i inkognitomodus</translation>
+<translation id="8065292699993359127">Åpne nettadresser i Egon i inkognitomodus</translation>
 <translation id="806745655614357130">Hold dataene mine adskilt</translation>
 <translation id="8073670137947914548">Nedlastingen er fullført</translation>
 <translation id="8073872304774253879">Gjør søking og surfing bedre</translation>
@@ -956,7 +956,7 @@ Nettsteder kan bruke informasjonskapsler til å se nettleseraktiviteten din på 
 <translation id="8114753159095730575">Filnedlasting er tilgjengelig. Du finner alternativer på nedre del av skjermen.</translation>
 <translation id="81313319706244542">2. Trykk på Passord</translation>
 <translation id="8132598642024322408">Nå <ph name="PRICE" /> – før <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Dette brukes til å opprette aktiviteter i Apple-kalenderen din fra Chrome og Google Lens.</translation>
+<translation id="8136856065410661948">Dette brukes til å opprette aktiviteter i Apple-kalenderen din fra Egon og Google Lens.</translation>
 <translation id="8156478151976189188">Passordsynkronisering fungerer ikke</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> kontoer</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Enhetene dine<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Nettsteder kan bruke informasjonskapsler til å se nettleseraktiviteten din på 
 <translation id="8533670235862049797">Safe Browsing er på</translation>
 <translation id="8534481786647257214">Google+-innlegget er fullført.</translation>
 <translation id="8548878600947630424">Finn på siden</translation>
-<translation id="8558480467877843976">Nå kan du bruke Chrome når du blar gjennom eller trykker på linker i meldinger, dokumenter og andre apper.</translation>
+<translation id="8558480467877843976">Nå kan du bruke Egon når du blar gjennom eller trykker på linker i meldinger, dokumenter og andre apper.</translation>
 <translation id="8588404856427128947">Av</translation>
 <translation id="8590913940444621808">Spør aldri</translation>
 <translation id="8591976964826315682">Blokkér informasjonskapsler fra tredjepart i inkognitomodus</translation>
@@ -1043,7 +1043,7 @@ Nettsteder kan bruke informasjonskapsler til å se nettleseraktiviteten din på 
 <translation id="8876882697946675716">Hold enhetene dine synkronisert</translation>
 <translation id="8877287418679067891">Angi som standard i innstillingene…</translation>
 <translation id="8881801611828450202">Søk etter dette bildet i <ph name="SEARCH_ENGINE" /></translation>
-<translation id="8891935667620843985">Du kan åpne linker i Chrome automatisk ved å angi Chrome som standard nettleserapp.</translation>
+<translation id="8891935667620843985">Du kan åpne linker i Egon automatisk ved å angi Egon som standard nettleserapp.</translation>
 <translation id="8898822736010347272">Sender nettadresser for noen av sidene du besøker, begrenset systeminformasjon og noe sideinnhold til Google for å bidra til å oppdage nye trusler og beskytte alle på nettet.</translation>
 <translation id="890565330728586731">Tilbake</translation>
 <translation id="8909135823018751308">Del</translation>
@@ -1068,11 +1068,11 @@ Nettsteder kan bruke informasjonskapsler til å se nettleseraktiviteten din på 
 <translation id="9055960261314198756">Økt beskyttelse er av</translation>
 <translation id="9057972802061533987">Kan ikke følge. Noe gikk galt.</translation>
 <translation id="9065203028668620118">Endre</translation>
-<translation id="9068336935206019333">Åpne i Chrome Inkognito</translation>
+<translation id="9068336935206019333">Åpne i Egon Inkognito</translation>
 <translation id="9079935439869366234">Merk alle som ulest</translation>
 <translation id="9081058212938299310">Vil du oppdatere passordet for <ph name="USERNAME" />?</translation>
 <translation id="9083838294503912307">For å synkronisere og gi et personlig preg på alle enhetene, slå på synkronisering.</translation>
-<translation id="9087108903408689779">Passordforslag fra Chrome:</translation>
+<translation id="9087108903408689779">Passordforslag fra Egon:</translation>
 <translation id="9093271241977565440">Trykk på søkeikonet øverst på skjermen</translation>
 <translation id="9094033019050270033">Oppdater passordet</translation>
 <translation id="9097506547406246598">Kan ikke slutte å følge. Noe gikk galt.</translation>
@@ -1089,7 +1089,7 @@ Nettsteder kan bruke informasjonskapsler til å se nettleseraktiviteten din på 
 <translation id="9223358826628549784">Programstopprapporten er sendt.</translation>
 <translation id="941747855997058526">Velg passord…</translation>
 <translation id="952704832371081537">Avbryt</translation>
-<translation id="953008885340860025">Chrome er logget av</translation>
+<translation id="953008885340860025">Egon er logget av</translation>
 <translation id="959066944189734975">Du følger <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">Organisasjonen din lar deg kun logge på med visse kontoer. Kontoer som ikke tillates, er skjult.</translation>
 <translation id="984509647832111802">Synkroniseringen fungerer ikke.</translation>

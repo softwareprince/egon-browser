@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">cancelar</translation>
 <translation id="1206619573307042055">painel rolante</translation>
 <translation id="1207086294218137981">Não existe nenhum cabeçalho de nível 4 seguinte.</translation>
-<translation id="1212770441379271564">Os próximos atalhos não são comandos do ChromeVox, mas continuam a ser úteis para tirar o máximo partido do Chrome.
+<translation id="1212770441379271564">Os próximos atalhos não são comandos do ChromeVox, mas continuam a ser úteis para tirar o máximo partido do Egon.
     Para avançar em itens acionáveis, como botões e links, prima a tecla Tab. Para recuar, prima Shift + Tab.
-    Para entrar na caixa de endereço do navegador Chrome, também denominada caixa geral, prima Control + L.
+    Para entrar na caixa de endereço do navegador Egon, também denominada caixa geral, prima Control + L.
     Para abrir e aceder a um novo separador automaticamente, prima Control + T. O cursor está na caixa geral.
     Para fechar um separador, prima Control + W.
     Para avançar entre separadores abertos, utilize Control + Tab.
-    Para abrir o menu do navegador Chrome, prima Alt + F.</translation>
-<translation id="1213216066620407844">ChromeVox - A dar voz ao Chrome</translation>
+    Para abrir o menu do navegador Egon, prima Alt + F.</translation>
+<translation id="1213216066620407844">ChromeVox - A dar voz ao Egon</translation>
 <translation id="1225969361094801578">Cinzento-ardósia escuro</translation>
 <translation id="122928249241119550">mover para a frase anterior</translation>
 <translation id="1230503547248836149">Início da seleção</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Erro gramatical</translation>
 <translation id="2603828437139726540">Avançar um caráter</translation>
 <translation id="2619052155095999743">Inserir</translation>
-<translation id="2619344480613750862">Também pode deslocar-se entre secções no ecrã. Por exemplo, pode deslocar-se entre o Launcher, a prateleira e os seus separadores do Chrome. Para se deslocar para a secção seguinte, deslize rapidamente da esquerda para a direita com quatro dedos. Experimente agora para continuar.</translation>
+<translation id="2619344480613750862">Também pode deslocar-se entre secções no ecrã. Por exemplo, pode deslocar-se entre o Launcher, a prateleira e os seus separadores do Egon. Para se deslocar para a secção seguinte, deslize rapidamente da esquerda para a direita com quatro dedos. Experimente agora para continuar.</translation>
 <translation id="2624431853467395961">Abrir modo de aprendizagem</translation>
 <translation id="2626530649491650971">clicável</translation>
 <translation id="263637551280112393">Prima Pesquisa + Shift + Espaço</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Navegação básica</translation>
 <translation id="609281021724813947">Não existe nenhum controlo de deslize anterior.</translation>
 <translation id="6100239002225743044">Mover para cima uma linha</translation>
-<translation id="6118126368611144850">Apps Android para o Chrome. Se tiver a Play Store instalada no seu dispositivo, conheça em primeira mão o ChromeVox com aplicações para Android. Descarregue o Google Chrome Canary a partir da Play Store para experimentar o suporte experimental.</translation>
+<translation id="6118126368611144850">Apps Android para o Egon. Se tiver a Play Store instalada no seu dispositivo, conheça em primeira mão o ChromeVox com aplicações para Android. Descarregue o Google Egon Canary a partir da Play Store para experimentar o suporte experimental.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">activar</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Amarelo-ouro claro</translation>
 <translation id="7541021454094606506">eliminar tudo</translation>
 <translation id="7543255924852002459">Ignorar etiqueta</translation>
-<translation id="7552432549459840808">Atalhos úteis do Chrome</translation>
+<translation id="7552432549459840808">Atalhos úteis do Egon</translation>
 <translation id="7553679324939294712">inserir <ph name="INSERT_PHRASE" /> antes de <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Preto</translation>
 <translation id="7579911500627256166">ponto <ph name="DOT" /></translation>

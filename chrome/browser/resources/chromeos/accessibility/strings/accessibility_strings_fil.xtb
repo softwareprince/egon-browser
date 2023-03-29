@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">kanselahin</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Walang susunod na heading sa antas 4</translation>
-<translation id="1212770441379271564">Ang susunod na ilang shortcut ay hindi mga command sa ChromeVox, pero napakakapaki-pakinabang pa rin ng mga ito para masulit ang paggamit sa Chrome.
+<translation id="1212770441379271564">Ang susunod na ilang shortcut ay hindi mga command sa ChromeVox, pero napakakapaki-pakinabang pa rin ng mga ito para masulit ang paggamit sa Egon.
     Para mag-navigate papunta sa mga item ng pagkilos gaya ng mga button at link, pindutin ang key na Tab. Para mag-navigate pabalik, pindutin ang Shift+Tab.
-    Para mapunta sa box para sa address ng Chrome browser, na tinatawag ding omnibox, pindutin ang Control + L.
+    Para mapunta sa box para sa address ng Egon browser, na tinatawag ding omnibox, pindutin ang Control + L.
     Para awtomatikong magbukas ng bagong tab at pumunta rito, pindutin ang Control+T. Mapupunta ang iyong cursor sa omnibox.
     Para magsara ng tab, pindutin ang Control+W.
     Para magpalipat-lipat sa mga bukas na tab, gamitin ang Control+Tab.
-    Para buksan ang menu ng Chrome browser, pindutin ang Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox - Nagbibigay ng Boses sa Chrome</translation>
+    Para buksan ang menu ng Egon browser, pindutin ang Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox - Nagbibigay ng Boses sa Egon</translation>
 <translation id="1225969361094801578">Dark Slate Grey</translation>
 <translation id="122928249241119550">pumunta sa nakaraang pangungusap</translation>
 <translation id="1230503547248836149">Simula ng pagpipilian</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Error sa grammar</translation>
 <translation id="2603828437139726540">Lumipat sa unahan ng isang char</translation>
 <translation id="2619052155095999743">Ipasok</translation>
-<translation id="2619344480613750862">Puwede ka ring magpalipat-lipat sa mga seksyon ng screen. Halimbawa, puwede kang lumipat sa pagitan ng launcher, shelf, at iyong mga tab ng Chrome. Para lumipat sa susunod na seksyon, mag-swipe pakanan gamit ang apat na daliri. Subukan ito ngayon para magpatuloy.</translation>
+<translation id="2619344480613750862">Puwede ka ring magpalipat-lipat sa mga seksyon ng screen. Halimbawa, puwede kang lumipat sa pagitan ng launcher, shelf, at iyong mga tab ng Egon. Para lumipat sa susunod na seksyon, mag-swipe pakanan gamit ang apat na daliri. Subukan ito ngayon para magpatuloy.</translation>
 <translation id="2624431853467395961">Buksan ang learn mode</translation>
 <translation id="2626530649491650971">naki-click</translation>
 <translation id="263637551280112393">Pindutin ang Search+Shift+Space</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Basic na Pag-navigate</translation>
 <translation id="609281021724813947">Walang nakaraang slider</translation>
 <translation id="6100239002225743044">Umakyat nang isang linya</translation>
-<translation id="6118126368611144850">Mga android app para sa Chrome. Kung may Play Store ka sa iyong device, maunang makita ang ChromeVox sa pamamagitan ng mga Android app. Subukan ang pinag-eeksperimentuhang suporta sa pamamagitan ng pag-download ng Google Chrome Canary mula sa Play Store.</translation>
+<translation id="6118126368611144850">Mga android app para sa Egon. Kung may Play Store ka sa iyong device, maunang makita ang ChromeVox sa pamamagitan ng mga Android app. Subukan ang pinag-eeksperimentuhang suporta sa pamamagitan ng pag-download ng Google Egon Canary mula sa Play Store.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">isaaktibo</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Light Golden Rod Yellow</translation>
 <translation id="7541021454094606506">i-delete lahat</translation>
 <translation id="7543255924852002459">I-discard ang label</translation>
-<translation id="7552432549459840808">Mga Kapaki-pakinabang na Shortcut sa Chrome</translation>
+<translation id="7552432549459840808">Mga Kapaki-pakinabang na Shortcut sa Egon</translation>
 <translation id="7553679324939294712">ilagay ang <ph name="INSERT_PHRASE" /> bago ang <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Itim</translation>
 <translation id="7579911500627256166">dot <ph name="DOT" /></translation>

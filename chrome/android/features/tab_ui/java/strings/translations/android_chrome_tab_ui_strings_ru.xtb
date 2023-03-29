@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">Вы давно не использовали некоторые вкладки (всего: <ph name="NUMBER_OF_TABS" />). Закрыть их?</translation>
 <translation id="1181037720776840403">Удалить</translation>
 <translation id="125153950246128346">Нажмите, чтобы перейти на другую вкладку</translation>
-<translation id="1403228085774130835">Закрытые вкладки можно найти в главном меню Chrome в разделе "Недавние вкладки".</translation>
+<translation id="1403228085774130835">Закрытые вкладки можно найти в главном меню Egon в разделе "Недавние вкладки".</translation>
 <translation id="1455506303394048917">Связанная с ними информация будет удалена с этого устройства.</translation>
 <translation id="1499635324672558517">Закрыть все вкладки инкогнито?</translation>
 <translation id="1657719826150349398">Переместить вкладку вниз</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Просмотр сведений о магазине, параметр вверху экрана</translation>
 <translation id="5558362125926932819">Закрыть группу вкладок. Количество вкладок в ней – <ph name="NUMBER_OF_TABS" />.</translation>
 <translation id="5580090775658607195">Вкладки (<ph name="TAB_COUNT" />) сгруппированы.</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> ссылка из Chrome}one{<ph name="TABS_COUNT_MANY" /> ссылка из Chrome}few{<ph name="TABS_COUNT_MANY" /> ссылки из Chrome}many{<ph name="TABS_COUNT_MANY" /> ссылок из Chrome}other{<ph name="TABS_COUNT_MANY" /> ссылки из Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> ссылка из Egon}one{<ph name="TABS_COUNT_MANY" /> ссылка из Egon}few{<ph name="TABS_COUNT_MANY" /> ссылки из Egon}many{<ph name="TABS_COUNT_MANY" /> ссылок из Egon}other{<ph name="TABS_COUNT_MANY" /> ссылки из Egon}}</translation>
 <translation id="575494663145460764">Получать оповещения о скидках?</translation>
 <translation id="58326064309361797">Перетаскивайте вкладки, чтобы группировать их</translation>
 <translation id="5846292395804797011">Закрыть группу вкладок "<ph name="TITLE_OF_GROUP" />". Количество вкладок в ней – <ph name="NUMBER_OF_TABS" />.</translation>

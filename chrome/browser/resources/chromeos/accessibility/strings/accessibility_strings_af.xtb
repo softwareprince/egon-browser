@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">kanselleer</translation>
 <translation id="1206619573307042055">markies</translation>
 <translation id="1207086294218137981">Geen volgende vlak 4-opskrif nie</translation>
-<translation id="1212770441379271564">Die volgende paar kortpaaie is nie ChromeVox-bevele nie, maar hulle is steeds baie nuttig om die meeste voordeel uit Chrome te kry.
+<translation id="1212770441379271564">Die volgende paar kortpaaie is nie ChromeVox-bevele nie, maar hulle is steeds baie nuttig om die meeste voordeel uit Egon te kry.
     Druk die Tab-sleutel om vorentoe deur optree-items, soos knoppies en skakels, te navigeer. Druk Shift+Tab om agtertoe te navigeer.
-    Druk Control+L om na die Chrome-blaaieradreskassie, ook die omniboks genoem, te gaan.
+    Druk Control+L om na die Egon-blaaieradreskassie, ook die omniboks genoem, te gaan.
     Druk Control+T om 'n nuwe oortjie oop te maak en outomaties daarheen te gaan. Jou merker sal in die omniboks wees.
     Druk Control+W om 'n oortjie toe te maak. 
     Gebruik Control+Tab om vorentoe tussen oortjies te beweeg.
-    Druk Alt+F om die Chrome-blaaierkieslys oop te maak.</translation>
-<translation id="1213216066620407844">ChromeVox – Gee Chrome 'n stem</translation>
+    Druk Alt+F om die Egon-blaaierkieslys oop te maak.</translation>
+<translation id="1213216066620407844">ChromeVox – Gee Egon 'n stem</translation>
 <translation id="1225969361094801578">Donker leigrys</translation>
 <translation id="122928249241119550">gaan na vorige sin</translation>
 <translation id="1230503547248836149">Begin van seleksie</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Grammatikafout</translation>
 <translation id="2603828437139726540">Beweeg een karakter vorentoe</translation>
 <translation id="2619052155095999743">Invoeg</translation>
-<translation id="2619344480613750862">Jy kan ook tussen die afdelings van die skerm beweeg. Jy kan byvoorbeeld tussen die lanseerder, die rak en jou Chrome-oortjies beweeg. Swiep van links na regs met vier vingers om na die volgende afdeling te beweeg. Probeer dit nou om voort te gaan.</translation>
+<translation id="2619344480613750862">Jy kan ook tussen die afdelings van die skerm beweeg. Jy kan byvoorbeeld tussen die lanseerder, die rak en jou Egon-oortjies beweeg. Swiep van links na regs met vier vingers om na die volgende afdeling te beweeg. Probeer dit nou om voort te gaan.</translation>
 <translation id="2624431853467395961">Maak leermodus oop</translation>
 <translation id="2626530649491650971">klikbare</translation>
 <translation id="263637551280112393">Druk Search+Shift+spasie</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Loglêer</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Grafiese simbool</translation>
-<translation id="5648939288050772726">Geluk! Jy het die noodsaaklike dinge geleer om ChromeVox suksesvol te gebruik. Onthou dat jy enige tyd Search+punt kan druk om die ChromeVox-opdragkieslys oop te maak. Lees die volgende artikels om selfs meer oor ChromeVox en Chrome-bedryfstelsel te wete te kom.
+<translation id="5648939288050772726">Geluk! Jy het die noodsaaklike dinge geleer om ChromeVox suksesvol te gebruik. Onthou dat jy enige tyd Search+punt kan druk om die ChromeVox-opdragkieslys oop te maak. Lees die volgende artikels om selfs meer oor ChromeVox en Egon-bedryfstelsel te wete te kom.
     Gebruik ChromeVox om na die Maak Toe-knoppie toe te gaan en klik dit as jy klaar is met die tutoriaal.</translation>
 <translation id="5653397561111110475">Gebruik Chromebook-raakskerm se toeganklikheidkenmerke</translation>
 <translation id="5655682562155942719">Springbevele</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Basiese navigasie</translation>
 <translation id="609281021724813947">Geen vorige glyer nie</translation>
 <translation id="6100239002225743044">Skuif een reël op</translation>
-<translation id="6118126368611144850">Android-programme vir Chrome. Kry 'n steelkykie na ChromeVox met Android-programme as jy Play Winkel op jou toestel het. Probeer eksperimentele steun deur Google Chrome Canary van die Play Winkel af te laai.</translation>
+<translation id="6118126368611144850">Android-programme vir Egon. Kry 'n steelkykie na ChromeVox met Android-programme as jy Play Winkel op jou toestel het. Probeer eksperimentele steun deur Google Egon Canary van die Play Winkel af te laai.</translation>
 <translation id="611827076493383239">besoek</translation>
 <translation id="6119846243427417423">aktiveer</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Ligte ougoud</translation>
 <translation id="7541021454094606506">vee alles uit</translation>
 <translation id="7543255924852002459">Gooi etiket weg</translation>
-<translation id="7552432549459840808">Nuttige Chrome-kortpaaie</translation>
+<translation id="7552432549459840808">Nuttige Egon-kortpaaie</translation>
 <translation id="7553679324939294712">voeg <ph name="INSERT_PHRASE" /> voor <ph name="BEFORE_PHRASE" /> in</translation>
 <translation id="7569983096843329377">Swart</translation>
 <translation id="7579911500627256166">kolletjie <ph name="DOT" /></translation>

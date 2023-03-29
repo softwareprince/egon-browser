@@ -33,7 +33,7 @@
 <translation id="2509394361235492552"><ph name="HOSTNAME" /> સાથે કનેક્ટ કર્યું</translation>
 <translation id="2540992418118313681">શું તમે આ કમ્પ્યુટર બીજા વપરાશકર્તા માટે જોવા અને નિયંત્રિત કરવા માટે શેર કરવા માંગો છો?</translation>
 <translation id="2579271889603567289">હોસ્ટ ક્રૅશ થયું અથવા શરૂ કરવામાં નિષ્ફળ થયું.</translation>
-<translation id="2599300881200251572">આ સેવા Chrome રીમોટ ડેસ્કટૉપ ક્લાઇન્ટ્સ પાસેથી આવતા કનેક્શન્સ સક્ષમ કરે છે.</translation>
+<translation id="2599300881200251572">આ સેવા Egon રીમોટ ડેસ્કટૉપ ક્લાઇન્ટ્સ પાસેથી આવતા કનેક્શન્સ સક્ષમ કરે છે.</translation>
 <translation id="2647232381348739934">Chromoting સેવા</translation>
 <translation id="2676780859508944670">કાર્ય કરી રહ્યું છે...</translation>
 <translation id="2692522824157224199">કૉપિરાઇટ 2022 Google LLC. સર્વાધિકાર સુરક્ષિત.</translation>
@@ -56,7 +56,7 @@
 <translation id="3596628256176442606">આ સેવા Chromoting ક્લાઇન્ટ્સ પાસેથી આવતા કનેક્શન્સ સક્ષમ કરે છે.</translation>
 <translation id="369442766917958684">ઑફલાઇન.</translation>
 <translation id="3695446226812920698">જાણો કેવી રીતે</translation>
-<translation id="3776024066357219166">તમારું Chrome રીમોટ ડેસ્કટૉપ સત્ર સમાપ્ત થયું.</translation>
+<translation id="3776024066357219166">તમારું Egon રીમોટ ડેસ્કટૉપ સત્ર સમાપ્ત થયું.</translation>
 <translation id="3858860766373142691">નામ</translation>
 <translation id="3897092660631435901">મેનૂ</translation>
 <translation id="3905196214175737742">અમાન્ય હોસ્ટ માલિક ડોમેન.</translation>
@@ -73,7 +73,7 @@
 <translation id="4257751272692708833"><ph name="PRODUCT_NAME" /> URLને ફૉરવર્ડ કરતી ઍપ્લિકેશન</translation>
 <translation id="4277736576214464567">ઍક્સેસ કોડ અમાન્ય છે. કૃપા કરીને ફરીથી પ્રયાસ કરો.</translation>
 <translation id="4281844954008187215">સેવાની શરતો</translation>
-<translation id="4372650392690220936">કૉપિરાઇટ 2022 The Chromium Authors. સર્વાધિકાર સુરક્ષિત.</translation>
+<translation id="4372650392690220936">કૉપિરાઇટ 2022 The Egon Authors. સર્વાધિકાર સુરક્ષિત.</translation>
 <translation id="4405930547258349619">મુખ્ય લાઇબ્રેરી</translation>
 <translation id="443560535555262820">ઍક્સેસિબિલિટીની પસંદગીઓ ખોલો</translation>
 <translation id="4450893287417543264">ફરી બતાવશો નહીં</translation>
@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">રિમોટ ઉપકરણો</translation>
 <translation id="4660011489602794167">કીબોર્ડ બતાવો</translation>
 <translation id="4703799847237267011">તમારું Chromoting સત્ર સમાપ્ત થઇ ગયું છે.</translation>
-<translation id="4741792197137897469">પ્રમાણીકરણ નિષ્ફળ થયું. કૃપા કરીને Chrome પર ફરીથી સાઇન ઇન કરો.</translation>
+<translation id="4741792197137897469">પ્રમાણીકરણ નિષ્ફળ થયું. કૃપા કરીને Egon પર ફરીથી સાઇન ઇન કરો.</translation>
 <translation id="4784508858340177375">X સર્વર ક્રૅશ થયું અથવા શરૂ કરવામાં નિષ્ફળ થયું.</translation>
 <translation id="4798680868612952294">માઉસનાં વિકલ્પો</translation>
 <translation id="4804818685124855865">ડિસ્કનેક્ટ કરો</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">PrtScn મોકલો</translation>
 <translation id="4974476491460646149"><ph name="HOSTNAME" /> માટે કનેક્શન બંધ થયું</translation>
 <translation id="4985296110227979402">તમારે પહેલા તમારા કમ્પ્યુટરને રીમોટ ઍક્સેસ માટે સેટ કરવાની જરૂર છે</translation>
-<translation id="4987330545941822761">Chrome રીમોટ ડેસ્કટૉપ, કમ્પ્યુટર પર URLsને ખોલવા માટે બ્રાઉઝરને નિર્ધારિત કરી શકતું નથી. કૃપા કરીને નીચે આપેલી સૂચિમાંથી તેને પસંદ કરો.</translation>
+<translation id="4987330545941822761">Egon રીમોટ ડેસ્કટૉપ, કમ્પ્યુટર પર URLsને ખોલવા માટે બ્રાઉઝરને નિર્ધારિત કરી શકતું નથી. કૃપા કરીને નીચે આપેલી સૂચિમાંથી તેને પસંદ કરો.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (ઑફલાઇન)</translation>
 <translation id="507204348399810022">શું તમે ખરેખર <ph name="HOSTNAME" /> માટેના રિમોટ કનેક્શન્સને બંધ કરવા માગો છો?</translation>
 <translation id="5170982930780719864">અમાન્ય હોસ્ટ id.</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">કાઢી નાખો</translation>
 <translation id="5308380583665731573">કનેક્ટ કરો</translation>
 <translation id="533625276787323658">કનેક્ટ કરવા માટે કંઈ નથી</translation>
-<translation id="5397086374758643919">Chrome રીમોટ ડેસ્કટૉપ હોસ્ટ અનઇન્સ્ટોલર</translation>
+<translation id="5397086374758643919">Egon રીમોટ ડેસ્કટૉપ હોસ્ટ અનઇન્સ્ટોલર</translation>
 <translation id="5419418238395129586">છેલ્લે ઑનલાઇન: <ph name="DATE" /></translation>
 <translation id="544077782045763683">હોસ્ટ શટ ડાઉન થયું છે.</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">ફરીથી કનેક્ટ કરો</translation>
 <translation id="5810269635982033450">સ્ક્રીન એ ટ્રૅકપૅડના જેવું કાર્ય કરે છે</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> દ્વારા તમારી સ્ક્રીન જોવા અને તમારા કીબોર્ડ અને માઉસના નિયંત્રણના ઍક્સેસ માટે વિનંતી કરવામાં આવી છે. જો તમે આ વિનંતીની અપેક્ષા કરી રહ્યાં ન હો, તો ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />'' દબાવો. અન્યથા જ્યારે તૈયાર હોય, ત્યારે કનેક્શનની મંજૂરી આપવા માટે ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />'' પસંદ કરો.</translation>
-<translation id="5823658491130719298">તમે જે કમ્પ્યુટર રિમોટલી ઍક્સેસ કરવા માગતા હો, તેના પર Chrome ખોલો અને <ph name="INSTALLATION_LINK" />ની મુલાકાત લો</translation>
+<translation id="5823658491130719298">તમે જે કમ્પ્યુટર રિમોટલી ઍક્સેસ કરવા માગતા હો, તેના પર Egon ખોલો અને <ph name="INSTALLATION_LINK" />ની મુલાકાત લો</translation>
 <translation id="5841343754884244200">ડિસ્પ્લેનાં વિકલ્પો</translation>
 <translation id="6033507038939587647">કીબોર્ડનાં વિકલ્પો</translation>
 <translation id="6040143037577758943">બંધ કરો</translation>
 <translation id="6062854958530969723">હોસ્ટ આરંભ નિષ્ફળ રહ્યું.</translation>
-<translation id="6099500228377758828">Chrome રીમોટ ડેસ્કટૉપ સેવા</translation>
+<translation id="6099500228377758828">Egon રીમોટ ડેસ્કટૉપ સેવા</translation>
 <translation id="6122191549521593678">ઓનલાઇન</translation>
 <translation id="6178645564515549384">રિમોટ સહાયતા માટે મૂળ મેસેજિંગ હોસ્ટ</translation>
 <translation id="618120821413932081">વિંડો સાથે મેળ કરવા માટે રિમોટ રિઝોલ્યુશન અપડેટ કરો</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">રીમોટ સહાય</translation>
 <translation id="7026930240735156896">રિમોટ ઍક્સેસ માટે તમારા કમ્પ્યુટરને સેટઅપ કરવા માટે સૂચનાઓને અનુસરો</translation>
 <translation id="7067321367069083429">સ્ક્રીન એ ટચ સ્ક્રીનના જેવું કાર્ય કરે છે</translation>
-<translation id="7116737094673640201">Chrome રિમોટ ડેસ્કટૉપમાં સ્વાગત છે</translation>
+<translation id="7116737094673640201">Egon રિમોટ ડેસ્કટૉપમાં સ્વાગત છે</translation>
 <translation id="7144878232160441200">ફરી પ્રયત્ન કરો</translation>
 <translation id="7312846573060934304">હોસ્ટ ઑફલાઇન છે.</translation>
 <translation id="7319983568955948908">શેર કરવાનું રોકો</translation>
 <translation id="7359298090707901886">સ્થાનિક મશીન પર URLs ખોલવા માટે, પસંદ કરેલા બ્રાઉઝરનો ઉપયોગ કરી શકાતો નથી.</translation>
-<translation id="7401733114166276557">Chrome રીમોટ ડેસ્કટૉપ</translation>
+<translation id="7401733114166276557">Egon રીમોટ ડેસ્કટૉપ</translation>
 <translation id="7434397035092923453">ક્લાઇન્ટ માટે ઍક્સેસ નકારી: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">ક્લાઇન્ટ કનેક્ટ થયાં: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">એકાઉન્ટ બદલો</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">રિમોટ કમ્પ્યુટર માટે કૃપા કરીને તમારો PIN દાખલ કરો.</translation>
 <translation id="7895403300744144251">રિમોટ કમ્પ્યુટર પરની સુરક્ષા પૉલિસીઓ તમારા એકાઉન્ટથી કનેક્શનની પરવાનગી આપતી નથી.</translation>
 <translation id="7936528439960309876">જમણે ડૉક કરો</translation>
-<translation id="7970576581263377361">પ્રમાણીકરણ નિષ્ફળ થયું. કૃપા કરીને Chromium પર ફરીથી સાઇન ઇન કરો.</translation>
+<translation id="7970576581263377361">પ્રમાણીકરણ નિષ્ફળ થયું. કૃપા કરીને Egon પર ફરીથી સાઇન ઇન કરો.</translation>
 <translation id="7981525049612125370">રિમોટ સત્ર સમાપ્ત થયું.</translation>
 <translation id="8038111231936746805">(ડિફૉલ્ટ)</translation>
 <translation id="8041089156583427627">પ્રતિસાદ મોકલો</translation>
 <translation id="8060029310790625334">સહાયતા કેન્દ્ર</translation>
 <translation id="806699900641041263"><ph name="HOSTNAME" /> સાથે કનેક્ટ કરી રહ્યાં છીએ</translation>
-<translation id="8073845705237259513">Chrome રીમોટ ડેસ્કટૉપનો ઉપયોગ કરવા માટે, તમારે તમારા ડિવાઇસ પર એક Google એકાઉન્ટ ઉમેરવાની જરૂર છે.</translation>
+<translation id="8073845705237259513">Egon રીમોટ ડેસ્કટૉપનો ઉપયોગ કરવા માટે, તમારે તમારા ડિવાઇસ પર એક Google એકાઉન્ટ ઉમેરવાની જરૂર છે.</translation>
 <translation id="809687642899217504">મારા કમ્પ્યુટર્સ</translation>
 <translation id="8116630183974937060">નેટવર્ક ભૂલ આવી. કૃપા કરીને તપાસો કે તમારું ડિવાઇસ ઓન-લાઇન છે અને ફરી પ્રયાસ કરો.</translation>
 <translation id="8295077433896346116"><ph name="PRODUCT_NAME" />નો ઉપયોગ કરવા માટે, તમારે 'ઍક્સેસિબિલિટી'ની પરવાનગી આપવી જરૂરી છે, જેથી કરીને આ Mac પર રિમોટ મશીનનું ઇનપુટ દાખલ કરી શકાય. 
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">Chromoting નો ઉપયોગ કરવા માટે, તમારે તમારા ડિવાઇસ પર એક Google એકાઉન્ટ ઉમેરવાની જરૂર છે.</translation>
 <translation id="8386846956409881180">હોસ્ટ અમાન્ય OAuth ઓળખપત્રો સાથે ગોઠવાયું છે.</translation>
 <translation id="8397385476380433240"><ph name="PRODUCT_NAME" />ને પરવાનગી આપો</translation>
-<translation id="8406498562923498210">તમારા Chrome રીમોટ ડેસ્કટૉપ એન્વાયરમેન્ટ અંતર્ગત લૉન્ચ કરવા માટેનું સત્ર પસંદ કરો. (નોંધ કરો કે અમુક સત્રના પ્રકાર Chrome રીમોટ ડેસ્કટૉપ અંતર્ગત અને સ્થાનિક કન્સોલ પર કદાચ એકસાથે ન ચાલે.)</translation>
+<translation id="8406498562923498210">તમારા Egon રીમોટ ડેસ્કટૉપ એન્વાયરમેન્ટ અંતર્ગત લૉન્ચ કરવા માટેનું સત્ર પસંદ કરો. (નોંધ કરો કે અમુક સત્રના પ્રકાર Egon રીમોટ ડેસ્કટૉપ અંતર્ગત અને સ્થાનિક કન્સોલ પર કદાચ એકસાથે ન ચાલે.)</translation>
 <translation id="8428213095426709021">સેટિંગ</translation>
 <translation id="8445362773033888690">Google Play સ્ટોરમાં જુઓ</translation>
 <translation id="8509907436388546015">ડેસ્કટોપ ઇન્ટીગ્રેશન પ્રક્રિયા</translation>
@@ -182,15 +182,15 @@
 <translation id="8525306231823319788">પૂર્ણ સ્ક્રીન</translation>
 <translation id="858006550102277544">કોમેન્ટ</translation>
 <translation id="8743328882720071828">શું તમે <ph name="CLIENT_USERNAME" />ને તમારા કમ્પ્યુટરને જોવા અને નિયંત્રિત કરવાની મંજૂરી આપવા માગો છો?</translation>
-<translation id="8747048596626351634">સત્ર ક્રૅશ થયું અથવા પ્રારંભ કરવામાં નિષ્ફળ થયું. જો રિમોટ કમ્પ્યુટરમાં ~/.Chrome રિમોટ ડેસ્કટૉપ-સત્ર હોય, તો તે ડેસ્કટૉપ એન્વાયર્મેન્ટ અથવા વિંડો મેનેજર જેવી લાંબો સમય ચાલતી ફોરગ્રાઉન્ડ પ્રક્રિયાનો પ્રારંભ કરે છે તેની ખાતરી કરો.</translation>
+<translation id="8747048596626351634">સત્ર ક્રૅશ થયું અથવા પ્રારંભ કરવામાં નિષ્ફળ થયું. જો રિમોટ કમ્પ્યુટરમાં ~/.Egon રિમોટ ડેસ્કટૉપ-સત્ર હોય, તો તે ડેસ્કટૉપ એન્વાયર્મેન્ટ અથવા વિંડો મેનેજર જેવી લાંબો સમય ચાલતી ફોરગ્રાઉન્ડ પ્રક્રિયાનો પ્રારંભ કરે છે તેની ખાતરી કરો.</translation>
 <translation id="8804164990146287819">પ્રાઇવસી પૉલિસી</translation>
-<translation id="8906511416443321782">ઑડિયો કૅપ્ચર કરવા અને તેને Chrome રીમોટ ડેસ્કટૉપ ક્લાયન્ટ પર સ્ટ્રીમ કરવા માટે, માઇક્રોફોનનો ઍક્સેસ જરૂરી છે.</translation>
+<translation id="8906511416443321782">ઑડિયો કૅપ્ચર કરવા અને તેને Egon રીમોટ ડેસ્કટૉપ ક્લાયન્ટ પર સ્ટ્રીમ કરવા માટે, માઇક્રોફોનનો ઍક્સેસ જરૂરી છે.</translation>
 <translation id="9111855907838866522">તમે તમારા રિમોટ ઉપકરણ સાથે કનેક્ટ થયેલા છો. મેનૂ ખોલવા માટે, કૃપા કરીને ચાર આંગળીઓ વડે સ્ક્રીન પર ટૅપ કરો.</translation>
 <translation id="9126115402994542723">આ ઉપકરણથી આ હોસ્ટ સાથે કનેક્ટ કરતી વખતે ફરીથી PIN માટે પૂછશો નહીં.</translation>
 <translation id="916856682307586697">ડિફૉલ્ટ XSessionને લૉન્ચ કરો</translation>
 <translation id="9187628920394877737"><ph name="PRODUCT_NAME" />ને 'સ્ક્રીન રેકોર્ડિંગ'ની પરવાનગી આપો</translation>
 <translation id="9213184081240281106">અમાન્ય હોસ્ટ ગોઠવણી.</translation>
 <translation id="981121421437150478">ઑફલાઇન</translation>
-<translation id="985602178874221306">Chromium લેખકો</translation>
+<translation id="985602178874221306">Egon લેખકો</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (છેલ્લે ઓનલાઇન <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

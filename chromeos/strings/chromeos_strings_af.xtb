@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Diagnostiekprogram</translation>
 <translation id="175763766237925754">Goed (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Stawingstipe</translation>
 <translation id="1782199038061388045">vertaling</translation>
 <translation id="1792647875738159689">Kanselleer skandering</translation>
@@ -103,7 +103,7 @@
 <translation id="1807246157184219062">Lig</translation>
 <translation id="1827738518074806965">Kunsgalery</translation>
 <translation id="1851218745569890714">Videokonferensies</translation>
-<translation id="1852934301711881861">Installeer Chrome OS Flex</translation>
+<translation id="1852934301711881861">Installeer Egon OS Flex</translation>
 <translation id="1856388568474281774">Afpyl</translation>
 <translation id="1858620243986915808">Heg skermskoot aan</translation>
 <translation id="1871569928317311284">Skakel donkertema af</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">definisie</translation>
 <translation id="3488065109653206955">Deels geaktiveer</translation>
 <translation id="3510890413042482857">Stuur <ph name="BEGIN_LINK1" />werkverrigtingnasporingdata<ph name="END_LINK1" /></translation>
-<translation id="3517001332549868749">Chrome OS-opdatering</translation>
+<translation id="3517001332549868749">Egon OS-opdatering</translation>
 <translation id="3527036260304016759">Misluk – Onbekende fout</translation>
 <translation id="3532980081107202182">Ongeveer <ph name="MIN_REMAINING" /> minute oor</translation>
 <translation id="3557205324756024651">Plaaslike identiteit (opsioneel)</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">Toesteltipe is onbekend.</translation>
 <translation id="3966286471246132217">Vir meer akkurate resultate moet jy alle programme toemaak totdat die toets voltooi is.</translation>
 <translation id="3967822245660637423">Aflaai is voltooi</translation>
-<translation id="3969602104473960991">Chrome-bedryfstelselwagwoord is opgedateer</translation>
+<translation id="3969602104473960991">Egon-bedryfstelselwagwoord is opgedateer</translation>
 <translation id="397105322502079400">Bereken tans …</translation>
 <translation id="39823212440917567">Druktake ouer as <ph name="NUMBER_OF_DAYS" /> dae sal verwyder word</translation>
 <translation id="3993704782688964914">Jou <ph name="DEVICE_NAME" /> is nou bygewerk</translation>
@@ -530,7 +530,7 @@ Probeer die mikrofoon tik om my enigiets te vra.</translation>
 <translation id="6113701710518389813">Oppyl</translation>
 <translation id="6117895505466548728"><ph name="TITLE" />, + nog <ph name="NUMBER" /> albums</translation>
 <translation id="6122191549521593678">Aanlyn</translation>
-<translation id="6122277663991249694">Chrome-bedryfstelsel se invoermetodediens</translation>
+<translation id="6122277663991249694">Egon-bedryfstelsel se invoermetodediens</translation>
 <translation id="6137767437444130246">Gebruikersertifikaat</translation>
 <translation id="6146993107019042706">Voer jou nuwe wagwoord in om dit te voltooi</translation>
 <translation id="6147514244879357420">PNG</translation>

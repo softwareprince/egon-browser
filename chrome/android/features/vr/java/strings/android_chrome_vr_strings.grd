@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- android_chrome_strings.grd contains strings for VR DFM of Chrome for Android. -->
+<!-- android_chrome_strings.grd contains strings for VR DFM of Egon for Android. -->
 <grit current_release="1" latest_public_release="0" output_all_resource_defines="false">
   <outputs>
     <output filename="values-af/android_chrome_vr_strings.xml" lang="af" type="android" />
@@ -172,9 +172,9 @@
   </translations>
   <release seq="1">
     <messages fallback_to_english="true">
-        <!-- Chrome VR feedback infobar -->
+        <!-- Egon VR feedback infobar -->
         <message name="IDS_VR_SHELL_FEEDBACK_INFOBAR_DESCRIPTION" desc="Description for infobar prompting the user for feedback on their VR browsing experience.">
-          Help improve the VR experience in Chrome
+          Help improve the VR experience in Egon
         </message>
         <message name="IDS_VR_SHELL_FEEDBACK_INFOBAR_FEEDBACK_BUTTON" desc="Brief button text asking the user to provide feedback in the VR feedback infobar.">
           Provide feedback

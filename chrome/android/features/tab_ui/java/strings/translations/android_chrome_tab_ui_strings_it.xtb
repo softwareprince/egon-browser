@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> delle tue schede non sono state usate ultimamente. Vuoi chiuderle?</translation>
 <translation id="1181037720776840403">Rimuovi</translation>
 <translation id="125153950246128346">Tocca per visualizzare un'altra scheda</translation>
-<translation id="1403228085774130835">Puoi trovare le tue schede chiuse in Schede recenti sotto al menu principale di Chrome</translation>
+<translation id="1403228085774130835">Puoi trovare le tue schede chiuse in Schede recenti sotto al menu principale di Egon</translation>
 <translation id="1455506303394048917">La tua attività in queste schede di navigazione in incognito verrà cancellata da questo dispositivo</translation>
 <translation id="1499635324672558517">Chiudere tutte le schede di navigazione in incognito?</translation>
 <translation id="1657719826150349398">Sposta scheda in basso</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Visualizza informazioni sul negozio, opzione disponibile nella parte superiore dello schermo</translation>
 <translation id="5558362125926932819">Chiudi il gruppo di schede con <ph name="NUMBER_OF_TABS" /> schede</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> schede raggruppate</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link da Chrome}other{<ph name="TABS_COUNT_MANY" /> link da Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link da Egon}other{<ph name="TABS_COUNT_MANY" /> link da Egon}}</translation>
 <translation id="575494663145460764">Vuoi ricevere avvisi sui cali di prezzo?</translation>
 <translation id="58326064309361797">Trascina le schede per raggrupparle</translation>
 <translation id="5846292395804797011">Chiudi il gruppo <ph name="TITLE_OF_GROUP" /> con <ph name="NUMBER_OF_TABS" /> schede</translation>

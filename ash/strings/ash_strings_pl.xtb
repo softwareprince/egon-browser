@@ -299,7 +299,7 @@ Oto kilka rzeczy, które możesz wypróbować na początek.</translation>
 <translation id="2620436844016719705">System</translation>
 <translation id="2621713457727696555">Zabezpieczona</translation>
 <translation id="263399434338050016">„Wybierz wszystko”</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">Przechwytywanie okna</translation>
 <translation id="2653659639078652383">Prześlij</translation>
 <translation id="2658778018866295321">Kliknij i przeciągnij</translation>
@@ -430,7 +430,7 @@ Oto kilka rzeczy, które możesz wypróbować na początek.</translation>
 <translation id="3378438761594387761">Tutaj znajdziesz ostatnio pobrane pliki i zrzuty ekranu</translation>
 <translation id="3378442621503952303">Łączę z profilem. Odczekaj kilka minut.</translation>
 <translation id="3386978599540877378">Lupa pełnoekranowa</translation>
-<translation id="3387527074123400161">System operacyjny Chromium</translation>
+<translation id="3387527074123400161">System operacyjny Egon</translation>
 <translation id="3400357268283240774">Ustawienia dodatkowe</translation>
 <translation id="3405101454990027959">Włącz dostęp do mikrofonu</translation>
 <translation id="3410336247007142655">Pokaż ustawienia ciemnego motywu</translation>
@@ -915,7 +915,7 @@ Podłącz urządzenie do zasilania.</translation>
 <translation id="6043994281159824495">Wyloguj się teraz</translation>
 <translation id="6047696787498798094">Gdy zmienisz użytkownika, udostępnianie ekranu zostanie zakończone. Chcesz kontynuować?</translation>
 <translation id="6054305421211936131">Zaloguj się, używając karty elektronicznej</translation>
-<translation id="6059276912018042191">Ostatnio przeglądane karty Chrome</translation>
+<translation id="6059276912018042191">Ostatnio przeglądane karty Egon</translation>
 <translation id="6062360702481658777">Zostaniesz automatycznie wylogowany za <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Nie używam już tego pliku</translation>
 <translation id="6073451960410192870">Zatrzymaj nagrywanie</translation>
@@ -1019,7 +1019,7 @@ Podłącz urządzenie do zasilania.</translation>
 <translation id="6650933572246256093">Urządzenie Bluetooth „<ph name="DEVICE_NAME" />” chce się sparować. Wpisz na nim ten klucz: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Hasło</translation>
 <translation id="6665545700722362599">przyznawać stronom internetowym, aplikacjom i rozszerzeniom dostęp do usług lokalizacyjnych, mikrofonu bądź aparatu na urządzeniu lub do innych funkcji;</translation>
-<translation id="6667908387435388584">Możesz połączyć się z punktem dostępu na telefonie, wyciszyć i znaleźć telefon oraz wyświetlić ostatnie karty Chrome otwarte na telefonie</translation>
+<translation id="6667908387435388584">Możesz połączyć się z punktem dostępu na telefonie, wyciszyć i znaleźć telefon oraz wyświetlić ostatnie karty Egon otwarte na telefonie</translation>
 <translation id="6670153871843998651">Biurko 3</translation>
 <translation id="6671495933530132209">Kopiuj grafikę</translation>
 <translation id="6671661918848783005">Nie udało się odblokować Chromebooka</translation>

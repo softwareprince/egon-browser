@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">batal</translation>
 <translation id="1206619573307042055">marki</translation>
 <translation id="1207086294218137981">Tiada tajuk tahap 4 seterusnya</translation>
-<translation id="1212770441379271564">Beberapa pintasan yang berikut ini bukan perintah ChromeVox, tetapi pintasan ini sangat berguna untuk memanfaatkan sepenuhnya Chrome.
+<translation id="1212770441379271564">Beberapa pintasan yang berikut ini bukan perintah ChromeVox, tetapi pintasan ini sangat berguna untuk memanfaatkan sepenuhnya Egon.
     Untuk menavigasi ke hadapan daripada satu item yang boleh diambil tindakan kepada satu item yang lain seperti butang dan pautan, tekan kekunci Tab. Untuk menavigasi ke belakang, tekan Shift+Tab. 
-    Untuk memasuki petak alamat penyemak imbas Chrome, yang juga dikenali sebagai kotak omni, tekan Control+L. 
+    Untuk memasuki petak alamat penyemak imbas Egon, yang juga dikenali sebagai kotak omni, tekan Control+L. 
     Untuk membuka dan mencapai tab baharu secara automatik, tekan Control+T. Kursor anda akan berada dalam kotak omni. 
     Untuk menutup tab, tekan Control+W. 
     Untuk bergerak ke hadapan daripada satu tab terbuka kepada satu tab terbuka yang lain, gunakan Control+Tab. 
-    Untuk membuka menu penyemak imbas Chrome, tekan Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox - Memberikan Suara kepada Chrome</translation>
+    Untuk membuka menu penyemak imbas Egon, tekan Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox - Memberikan Suara kepada Egon</translation>
 <translation id="1225969361094801578">Kelabu Loh Gelap</translation>
 <translation id="122928249241119550">beralih kepada ayat sebelumnya</translation>
 <translation id="1230503547248836149">Permulaan pilihan</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Kesilapan tatabahasa</translation>
 <translation id="2603828437139726540">Beralih satu aksara ke depan</translation>
 <translation id="2619052155095999743">Masukkan</translation>
-<translation id="2619344480613750862">Anda juga boleh beralih antara bahagian skrin. Sebagai contoh, anda boleh beralih antara pelancar, rak dan tab Chrome anda. Untuk beralih ke bahagian seterusnya, leret dari kiri ke kanan dengan empat jari. Cuba sekarang untuk meneruskan.</translation>
+<translation id="2619344480613750862">Anda juga boleh beralih antara bahagian skrin. Sebagai contoh, anda boleh beralih antara pelancar, rak dan tab Egon anda. Untuk beralih ke bahagian seterusnya, leret dari kiri ke kanan dengan empat jari. Cuba sekarang untuk meneruskan.</translation>
 <translation id="2624431853467395961">Buka mod belajar</translation>
 <translation id="2626530649491650971">boleh klik</translation>
 <translation id="263637551280112393">Tekan Search+Shift+Space</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Log</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Simbol grafik</translation>
-<translation id="5648939288050772726">Tahniah! Anda telah berjaya mempelajari langkah asas untuk menggunakan ChromeVox. Ingat bahawa anda boleh membuka menu perintah ChromeVox pada bila-bila masa dengan menekan Search+Noktah. Untuk mengetahui lebih lanjut tentang ChromeVox dan Chrome OS, lawati artikel berikut.
+<translation id="5648939288050772726">Tahniah! Anda telah berjaya mempelajari langkah asas untuk menggunakan ChromeVox. Ingat bahawa anda boleh membuka menu perintah ChromeVox pada bila-bila masa dengan menekan Search+Noktah. Untuk mengetahui lebih lanjut tentang ChromeVox dan Egon OS, lawati artikel berikut.
     Jika anda sudah selesai menggunakan tutorial, gunakan ChromeVox untuk mendapatkan butang Tutup dan klik butang itu.</translation>
 <translation id="5653397561111110475">Gunakan ciri kebolehaksesan skrin sentuh Chromebook</translation>
 <translation id="5655682562155942719">Perintah Melangkau</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Navigasi Asas</translation>
 <translation id="609281021724813947">Tiada peluncur sebelumnya</translation>
 <translation id="6100239002225743044">Beralih satu baris ke atas</translation>
-<translation id="6118126368611144850">Apl Android untuk Chrome. Jika Gedung Play dipasang pada peranti anda, tinjau ChromeVox dengan apl Android. Cuba sokongan percubaan dengan memuat turun Google Chrome Canary daripada Gedung Play.</translation>
+<translation id="6118126368611144850">Apl Android untuk Egon. Jika Gedung Play dipasang pada peranti anda, tinjau ChromeVox dengan apl Android. Cuba sokongan percubaan dengan memuat turun Google Egon Canary daripada Gedung Play.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">aktifkan</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Kuning Batang Emas Cerah</translation>
 <translation id="7541021454094606506">padamkan semua</translation>
 <translation id="7543255924852002459">Buang label</translation>
-<translation id="7552432549459840808">Pintasan Berguna Chrome</translation>
+<translation id="7552432549459840808">Pintasan Berguna Egon</translation>
 <translation id="7553679324939294712">sisipkan <ph name="INSERT_PHRASE" /> sebelum <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Hitam</translation>
 <translation id="7579911500627256166">titik <ph name="DOT" /></translation>

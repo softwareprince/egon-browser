@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Diagnostics app</translation>
 <translation id="175763766237925754">Mabilis (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Uri ng pag-authenticate</translation>
 <translation id="1782199038061388045">pagsasalin</translation>
 <translation id="1792647875738159689">Kinakansela ang pag-scan</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">kahulugan</translation>
 <translation id="3488065109653206955">Bahagyang na-activate</translation>
 <translation id="3510890413042482857">Ipadala ang <ph name="BEGIN_LINK1" />data ng pagte-trace sa performance<ph name="END_LINK1" /></translation>
-<translation id="3517001332549868749">Update sa Chrome OS</translation>
+<translation id="3517001332549868749">Update sa Egon OS</translation>
 <translation id="3527036260304016759">Hindi na-print - Hindi kilalang error</translation>
 <translation id="3532980081107202182">Humigit-kumulang <ph name="MIN_REMAINING" /> (na) minuto ang natitira</translation>
 <translation id="3557205324756024651">Lokal na pagkakakilanlan (opsyonal)</translation>

@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> από τις καρτέλες σας δεν έχουν χρησιμοποιηθεί πρόσφατα. Κλείσιμο αυτών των καρτελών;</translation>
 <translation id="1181037720776840403">Κατάργηση</translation>
 <translation id="125153950246128346">Πατήστε για να δείτε μια άλλη καρτέλα</translation>
-<translation id="1403228085774130835">Μπορείτε να βρείτε τις κλειστές καρτέλες σας στις Πρόσφατες καρτέλες στο κύριο μενού του Chrome</translation>
+<translation id="1403228085774130835">Μπορείτε να βρείτε τις κλειστές καρτέλες σας στις Πρόσφατες καρτέλες στο κύριο μενού του Egon</translation>
 <translation id="1455506303394048917">Η δραστηριότητά σας σε αυτές τις καρτέλες ανώνυμης περιήγησης θα διαγραφεί από αυτήν τη συσκευή</translation>
 <translation id="1499635324672558517">Θέλετε να κλείσετε όλες τις καρτέλες ανώνυμης περιήγησης;</translation>
 <translation id="1657719826150349398">Μετακίνηση καρτέλας κάτω</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Δείτε πληροφορίες καταστήματος, η επιλογή είναι διαθέσιμη στο επάνω μέρος της οθόνης</translation>
 <translation id="5558362125926932819">Κλείσιμο της ομάδας καρτελών με τις <ph name="NUMBER_OF_TABS" /> καρτέλες</translation>
 <translation id="5580090775658607195">Ομαδοποιήθηκαν <ph name="TAB_COUNT" /> καρτέλες</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> σύνδεσμος από το Chrome}other{<ph name="TABS_COUNT_MANY" /> σύνδεσμοι από το Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> σύνδεσμος από το Egon}other{<ph name="TABS_COUNT_MANY" /> σύνδεσμοι από το Egon}}</translation>
 <translation id="575494663145460764">Θέλετε να λαμβάνετε ειδοποιήσεις για πτώσεις τιμών;</translation>
 <translation id="58326064309361797">Σύρετε καρτέλες για να τις ομαδοποιήσετε.</translation>
 <translation id="5846292395804797011">Κλείσιμο της ομάδας <ph name="TITLE_OF_GROUP" /> με τις <ph name="NUMBER_OF_TABS" /> καρτέλες</translation>

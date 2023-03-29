@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> lapot nem használt mostanában. Szeretné bezárni őket?</translation>
 <translation id="1181037720776840403">Eltávolítás</translation>
 <translation id="125153950246128346">Koppintson másik lap megtekintéséhez</translation>
-<translation id="1403228085774130835">A bezárt lapokat a Chrome főmenüjének Nemrég megnyitott lapok szakaszában találja</translation>
+<translation id="1403228085774130835">A bezárt lapokat a Egon főmenüjének Nemrég megnyitott lapok szakaszában találja</translation>
 <translation id="1455506303394048917">Az ezeken az inkognitó lapokon végzett tevékenységei törlődnek erről az eszközről</translation>
 <translation id="1499635324672558517">Bezárja az összes inkognitó lapot?</translation>
 <translation id="1657719826150349398">Lap mozgatása lefelé</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Az üzlet adatainak megtekintése; a lehetőség a képernyő tetején található</translation>
 <translation id="5558362125926932819"><ph name="NUMBER_OF_TABS" /> lapot tartalmazó lapcsoport bezárása</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> lap csoportosítva</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link a Chrome-ból}other{<ph name="TABS_COUNT_MANY" /> link a Chrome-ból}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link a Egon-ból}other{<ph name="TABS_COUNT_MANY" /> link a Egon-ból}}</translation>
 <translation id="575494663145460764">Szeretne értesítéseket kapni az árcsökkenésekről?</translation>
 <translation id="58326064309361797">A lapokat húzással csoportosíthatja</translation>
 <translation id="5846292395804797011">A következő, <ph name="NUMBER_OF_TABS" /> lapot tartalmazó csoport bezárása: <ph name="TITLE_OF_GROUP" /></translation>

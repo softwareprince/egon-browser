@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">Karty, które ostatnio nie były używane: <ph name="NUMBER_OF_TABS" />. Zamknąć je?</translation>
 <translation id="1181037720776840403">Usuń</translation>
 <translation id="125153950246128346">Kliknij, by zobaczyć inną kartę</translation>
-<translation id="1403228085774130835">Zamknięte karty znajdziesz w sekcji Ostatnie karty w menu głównym Chrome</translation>
+<translation id="1403228085774130835">Zamknięte karty znajdziesz w sekcji Ostatnie karty w menu głównym Egon</translation>
 <translation id="1455506303394048917">Twoja aktywność na tych kartach incognito zostanie usunięta z tego urządzenia</translation>
 <translation id="1499635324672558517">Zamknąć wszystkie karty incognito?</translation>
 <translation id="1657719826150349398">Przesuń kartę w dół</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Wyświetl informacje o sklepie, opcja dostępna u góry ekranu</translation>
 <translation id="5558362125926932819">Zamknij grupę kart z <ph name="NUMBER_OF_TABS" /> kartami</translation>
 <translation id="5580090775658607195">Pogrupowane karty: <ph name="TAB_COUNT" /></translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link z Chrome}few{<ph name="TABS_COUNT_MANY" /> linki z Chrome}many{<ph name="TABS_COUNT_MANY" /> linków z Chrome}other{<ph name="TABS_COUNT_MANY" /> linku z Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link z Egon}few{<ph name="TABS_COUNT_MANY" /> linki z Egon}many{<ph name="TABS_COUNT_MANY" /> linków z Egon}other{<ph name="TABS_COUNT_MANY" /> linku z Egon}}</translation>
 <translation id="575494663145460764">Chcesz otrzymywać alerty o obniżkach cen?</translation>
 <translation id="58326064309361797">Przeciągaj karty, by je grupować</translation>
 <translation id="5846292395804797011">Zamknij grupę <ph name="TITLE_OF_GROUP" /> z <ph name="NUMBER_OF_TABS" /> kartami</translation>

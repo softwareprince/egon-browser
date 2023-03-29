@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">avbryt</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Det finnes ingen flere overskrifter på nivå 4</translation>
-<translation id="1212770441379271564">De neste hurtigtastene er ikke ChromeVox-spesifikke kommandoer, men er likevel nyttige for å få mest mulig ut av Chrome.
+<translation id="1212770441379271564">De neste hurtigtastene er ikke ChromeVox-spesifikke kommandoer, men er likevel nyttige for å få mest mulig ut av Egon.
 For å navigere fremover gjennom elementer som knapper og linker, trykk på Tab-tasten. For å navigere bakover, trykk på Shift+Tab.
-For å skrive i adressefeltet i Chrome-nettleseren (også kalt multifunksjonsfeltet), trykk på Control+L.
+For å skrive i adressefeltet i Egon-nettleseren (også kalt multifunksjonsfeltet), trykk på Control+L.
 For å åpne og automatisk gå til nye faner, trykk på Control+T. Markøren er da i multifunksjonsfeltet.
 For å lukke en fane, trykk på Control+W.
 For å navigere mellom åpne faner, trykk på Control+Tab.
-For å åpne Chrome-menyen, trykk på Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox – gir Chrome en stemme</translation>
+For å åpne Egon-menyen, trykk på Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox – gir Egon en stemme</translation>
 <translation id="1225969361094801578">Mørk skifergrå</translation>
 <translation id="122928249241119550">gå til forrige setning</translation>
 <translation id="1230503547248836149">Starten av utvalget</translation>
@@ -238,7 +238,7 @@ For å åpne Chrome-menyen, trykk på Alt+F.</translation>
 <translation id="2598495320872286378">Grammatikkfeil</translation>
 <translation id="2603828437139726540">Flytt fremover ett tegn</translation>
 <translation id="2619052155095999743">Sett inn</translation>
-<translation id="2619344480613750862">Du kan også bevege deg mellom deler av skjermen. Du kan for eksempel bevege deg mellom appoversikten, hyllen og Chrome-fanene dine. For å gå til neste del, sveip fra venstre til høyre med fire fingre. Prøv det nå for å fortsette.</translation>
+<translation id="2619344480613750862">Du kan også bevege deg mellom deler av skjermen. Du kan for eksempel bevege deg mellom appoversikten, hyllen og Egon-fanene dine. For å gå til neste del, sveip fra venstre til høyre med fire fingre. Prøv det nå for å fortsette.</translation>
 <translation id="2624431853467395961">Åpne læremodus</translation>
 <translation id="2626530649491650971">klikkbart</translation>
 <translation id="263637551280112393">Trykk på Søk + Shift + mellomrom</translation>
@@ -769,7 +769,7 @@ For å åpne Chrome-menyen, trykk på Alt+F.</translation>
 <translation id="6082768461603900813">Grunnleggende navigering</translation>
 <translation id="609281021724813947">Det finnes ingen tidligere glidebrytere</translation>
 <translation id="6100239002225743044">Flytt opp én linje</translation>
-<translation id="6118126368611144850">Android-apper for Chrome. Hvis du har Play Butikk på enheten din, kan du ta en sniktitt på ChromeVox med Android-apper. Prøv den eksperimentelle støtten ved å laste ned Google Chrome Canary fra Play-butikken.</translation>
+<translation id="6118126368611144850">Android-apper for Egon. Hvis du har Play Butikk på enheten din, kan du ta en sniktitt på ChromeVox med Android-apper. Prøv den eksperimentelle støtten ved å laste ned Google Egon Canary fra Play-butikken.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">aktiver</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@ For å åpne Chrome-menyen, trykk på Alt+F.</translation>
 <translation id="7533226154149229506">Lys gullris</translation>
 <translation id="7541021454094606506">slett alle</translation>
 <translation id="7543255924852002459">Forkast-etiketten</translation>
-<translation id="7552432549459840808">Nyttige hurtigtaster i Chrome</translation>
+<translation id="7552432549459840808">Nyttige hurtigtaster i Egon</translation>
 <translation id="7553679324939294712">sett inn <ph name="INSERT_PHRASE" /> før <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Svart</translation>
 <translation id="7579911500627256166">punkt <ph name="DOT" /></translation>

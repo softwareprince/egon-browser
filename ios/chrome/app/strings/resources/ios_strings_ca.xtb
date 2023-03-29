@@ -18,7 +18,7 @@ El teu motor de cerca és <ph name="DSE_NAME" />. Consulta'n les instruccions pe
 <translation id="1076421457278169141">S'ha escanejat el codi</translation>
 <translation id="1076785341346483463">Sincronitza amb el compte gestionat</translation>
 <translation id="1084365883616172403">S'ha completat la publicació a Facebook.</translation>
-<translation id="1085696779717592361">Utilitza Chrome de manera predeterminada</translation>
+<translation id="1085696779717592361">Utilitza Egon de manera predeterminada</translation>
 <translation id="1103523840287552314">Tradueix sempre el text en <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">Canvia a la finestra oberta</translation>
 <translation id="1112015203684611006">Error en imprimir</translation>
@@ -32,13 +32,13 @@ El teu motor de cerca és <ph name="DSE_NAME" />. Consulta'n les instruccions pe
 <translation id="1165039591588034296">Error</translation>
 <translation id="1172898394251786223">Camp següent</translation>
 <translation id="1176932207622159128">No es pot desar.</translation>
-<translation id="1177414119866731261">Obre el menú de Chrome</translation>
+<translation id="1177414119866731261">Obre el menú de Egon</translation>
 <translation id="1181037720776840403">Suprimeix</translation>
 <translation id="1207113853726624428">Cerca nova</translation>
 <translation id="1209206284964581585">Amaga per ara</translation>
 <translation id="1219674500290482172">No es pot connectar a Internet.</translation>
 <translation id="122699739164161391">Tanca totes les pestanyes</translation>
-<translation id="1229222343402087523">Cerca ${searchPhrase} a Chrome</translation>
+<translation id="1229222343402087523">Cerca ${searchPhrase} a Egon</translation>
 <translation id="1242044645101871359">Torna a iniciar la sessió</translation>
 <translation id="1254117744268754948">Tria la carpeta</translation>
 <translation id="1254424942107648268">Cerca l'anterior</translation>
@@ -128,7 +128,7 @@ El teu motor de cerca és <ph name="DSE_NAME" />. Consulta'n les instruccions pe
 <translation id="1941314575388338491">Feu doble toc per copiar-ho.</translation>
 <translation id="1943478190258551035">Menú → Configuració</translation>
 <translation id="1952172573699511566">Quan sigui possible, els llocs web mostraran el text en el teu idioma preferit.</translation>
-<translation id="1965935827552890526">Acaba el que estaves fent a l'altra finestra de Chrome oberta.</translation>
+<translation id="1965935827552890526">Acaba el que estaves fent a l'altra finestra de Egon oberta.</translation>
 <translation id="1973912524893600642">Conserva les dades</translation>
 <translation id="1974060860693918893">Configuració avançada</translation>
 <translation id="1981118202195772574">Mòbil</translation>
@@ -149,8 +149,8 @@ El teu motor de cerca és <ph name="DSE_NAME" />. Consulta'n les instruccions pe
 <translation id="2139867232736819575">Cerca el text que has copiat</translation>
 <translation id="214201757571129614">Inicia la sessió…</translation>
 <translation id="2149973817440762519">Edita l'adreça d'interès</translation>
-<translation id="2150175299852799498">Chrome per a mòbils</translation>
-<translation id="2155145621546387786">Comparteix Chrome</translation>
+<translation id="2150175299852799498">Egon per a mòbils</translation>
+<translation id="2155145621546387786">Comparteix Egon</translation>
 <translation id="2175927920773552910">Codi QR</translation>
 <translation id="2178545675770638239">Selecciona una contrasenya</translation>
 <translation id="2218443599109088993">Redueix</translation>
@@ -161,7 +161,7 @@ El teu motor de cerca és <ph name="DSE_NAME" />. Consulta'n les instruccions pe
 <translation id="225943865679747347">Codi d'error: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Afegeix un compte</translation>
 <translation id="2268044343513325586">Restringeix</translation>
-<translation id="2271351792809375263">Utilitza les contrasenyes que tens desades a Chrome en altres aplicacions del teu dispositiu</translation>
+<translation id="2271351792809375263">Utilitza les contrasenyes que tens desades a Egon en altres aplicacions del teu dispositiu</translation>
 <translation id="2273327106802955778">Més opcions del menú</translation>
 <translation id="2286505070150039482">Text marcat</translation>
 <translation id="2299218006564889602">Les contrasenyes s'encripten al dispositiu abans de desar-les al gestor de contrasenyes de Google.</translation>
@@ -232,13 +232,13 @@ Els llocs web no poden fer servir galetes per veure la teva activitat de navegac
 <translation id="2797029671965852011">Mostra l'historial</translation>
 <translation id="2800683595868705743">Surt del selector de pestanyes</translation>
 <translation id="2815198996063984598">2. Toca Aplicació de navegador predeterminada.</translation>
-<translation id="2820289420301699633">El teu administrador té control sobre Chrome i pot accedir a les dades associades</translation>
+<translation id="2820289420301699633">El teu administrador té control sobre Egon i pot accedir a les dades associades</translation>
 <translation id="2830972654601096923">Gestiona les adreces...</translation>
 <translation id="2834399722155632105">3. Toca Opcions de contrasenya</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Restableix config. Traductor</translation>
 <translation id="2848086008667475748">Estableix com a predeterminat a Configuració…</translation>
-<translation id="2858204748079866344">Amb la finalitat de protegir la teva privadesa, Chrome no emplenarà automàticament la contrasenya en aquest camp.</translation>
+<translation id="2858204748079866344">Amb la finalitat de protegir la teva privadesa, Egon no emplenarà automàticament la contrasenya en aquest camp.</translation>
 <translation id="285960592395650245">Torna a provar la baixada</translation>
 <translation id="2870560284913253234">Lloc web</translation>
 <translation id="2871695793448672541">Contrasenya amagada</translation>
@@ -256,7 +256,7 @@ Els llocs web no poden fer servir galetes per veure la teva activitat de navegac
 <translation id="292639812446257861">Marca com a no llegit</translation>
 <translation id="2932085390869194046">Suggereix una contrasenya...</translation>
 <translation id="2932765531295814441">Afegeix contrasenyes manualment</translation>
-<translation id="2952581218264071393">1. Obre la configuració de Chrome.</translation>
+<translation id="2952581218264071393">1. Obre la configuració de Egon.</translation>
 <translation id="2958718410589002129">Contrasenyes</translation>
 <translation id="2961210776189273067">Títol</translation>
 <translation id="2964349545761222050">Bloqueja les galetes de tercers</translation>
@@ -312,7 +312,7 @@ Consulta les instruccions del teu motor de cerca per suprimir l'historial de cer
 <translation id="3371831930909698441">El Traductor està disponible. Tens opcions a la part inferior de la pantalla</translation>
 <translation id="3377063233124932127">Ara, les adreces d'interès, les contrasenyes i altres dades desades es troben a la part superior.</translation>
 <translation id="3393920035788932672">Finestres emergents permeses</translation>
-<translation id="3399930248910934354">Obre la configuració de Chrome</translation>
+<translation id="3399930248910934354">Obre la configuració de Egon</translation>
 <translation id="3404744938087714423">Tancar la sessió desactiva la sincronització.</translation>
 <translation id="3425644765244388016">Àlies de la targeta</translation>
 <translation id="3433057996795775706">Encara que suprimeixis aquesta contrasenya, no se suprimirà el teu compte a <ph name="WEBSITE" />. Canvia la contrasenya o suprimeix el teu compte a <ph name="WEBSITE" /> per protegir-lo dels altres.</translation>
@@ -355,7 +355,7 @@ Consulta les instruccions del teu motor de cerca per suprimir l'historial de cer
 <translation id="3709582977625132201">Marca com a no llegit</translation>
 <translation id="371230970611282515">Prediu esdeveniments perillosos abans que es produeixin i t'hi avisa.</translation>
 <translation id="37207012422556617">Tendències</translation>
-<translation id="3740397331642243698">Obre els URL introduïts en mode d'incògnit a Google Chrome.</translation>
+<translation id="3740397331642243698">Obre els URL introduïts en mode d'incògnit a Google Egon.</translation>
 <translation id="3762232513783804601">Creat per a l'iPad</translation>
 <translation id="3768725474733206671">Torna a obrir l'última pestanya que es va tancar</translation>
 <translation id="3771033907050503522">Pestanyes d'incògnit</translation>
@@ -374,12 +374,12 @@ Consulta les instruccions del teu motor de cerca per suprimir l'historial de cer
 <translation id="3858860766373142691">Nom</translation>
 <translation id="3861486700625780712">Deixa de seguir</translation>
 <translation id="3863769054730344136">Envia als teus dispositius</translation>
-<translation id="387280738075653372">Baixa Chrome aquí.</translation>
+<translation id="387280738075653372">Baixa Egon aquí.</translation>
 <translation id="3888863481921783344">S'utilitzarà per mostrar-te els possibles convidats al teu esdeveniment.</translation>
 <translation id="3892144330757387737">Trobaràs l'historial aquí</translation>
 <translation id="3897092660631435901">Menú</translation>
 <translation id="3904829425754749514">La teva organització ha desactivat la sincronització. Encara pots veure les adreces d'interès, l'historial, les contrasenyes i altres opcions de configuració en aquest dispositiu. Si fas canvis, no se sincronitzaran amb el teu compte.</translation>
-<translation id="3913386780052199712">Sessió iniciada a Chrome</translation>
+<translation id="3913386780052199712">Sessió iniciada a Egon</translation>
 <translation id="3915450441834151894">Informació del lloc web</translation>
 <translation id="3922310737605261887">Cerca el text copiat</translation>
 <translation id="3928666092801078803">Combina les meves dades</translation>
@@ -522,7 +522,7 @@ Per canviar aquesta opció, <ph name="BEGIN_LINK" />restableix la sincronitzaci�
 <translation id="4979397965658815378">Inicia la sessió amb el compte de Google per tenir les adreces d'interès, l'historial, les contrasenyes i altres opcions de configuració en tots els dispositius.</translation>
 <translation id="4986678885919050584">Suprimeix d'aquest dispositiu</translation>
 <translation id="4989542687859782284">No disponibles</translation>
-<translation id="498985224078955265">Per enviar aquesta pestanya a un altre dispositiu, inicia la sessió a Chrome en els dos dispositius.</translation>
+<translation id="498985224078955265">Per enviar aquesta pestanya a un altre dispositiu, inicia la sessió a Egon en els dos dispositius.</translation>
 <translation id="5005498671520578047">Copia la contrasenya</translation>
 <translation id="5017828934289857214">Recorda-m'ho més tard</translation>
 <translation id="5037676449506322593">Selecciona-ho tot</translation>
@@ -532,19 +532,19 @@ Per canviar aquesta opció, <ph name="BEGIN_LINK" />restableix la sincronitzaci�
 <translation id="5062321486222145940">Instal. de Google Drive</translation>
 <translation id="5083464117946352670">No es determina mida fitxer.</translation>
 <translation id="5090832849094901128">Encara que suprimeixis aquesta contrasenya, no se suprimirà el teu compte a <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">Pots desar pàgines per llegir-les més endavant o sense connexió. Chrome et demanarà si vols desar les pàgines llargues.</translation>
+<translation id="5092117651143801290">Pots desar pàgines per llegir-les més endavant o sense connexió. Egon et demanarà si vols desar les pàgines llargues.</translation>
 <translation id="5094827893301452931">S'ha completat el tuit.</translation>
 <translation id="5118713593561876160">Interessos</translation>
 <translation id="5118764316110575523">Desactivat</translation>
-<translation id="5119391094379141756">Selecciona Chrome.</translation>
+<translation id="5119391094379141756">Selecciona Egon.</translation>
 <translation id="5132942445612118989">Sincronitza les contrasenyes, l'historial i altres elements en tots els dispositius</translation>
-<translation id="5140288047769711648">Chrome recordarà aquesta contrasenya. No cal que la memoritzis.</translation>
+<translation id="5140288047769711648">Egon recordarà aquesta contrasenya. No cal que la memoritzis.</translation>
 <translation id="5149188072385105201">Afegeix una contrasenya...</translation>
 <translation id="5150492518600715772">Envia al teu dispositiu</translation>
 <translation id="5168414296986405587">Creat per a iPadOS</translation>
 <translation id="5173088371991956744">La sincronització ha de verificar la teva identitat</translation>
 <translation id="5181140330217080051">S'està baixant</translation>
-<translation id="5184329579814168207">Obre a Chrome</translation>
+<translation id="5184329579814168207">Obre a Egon</translation>
 <translation id="5186185447130319458">Privat</translation>
 <translation id="5188482106078495165">La configuració de les galetes s'aplica a totes les pestanyes. Per aplicar una configuració nova a una pestanya oberta, torna a carregar-la.</translation>
 <translation id="5190835502935405962">Barra d'adreces d'interès</translation>
@@ -579,7 +579,7 @@ Per canviar aquesta opció, <ph name="BEGIN_LINK" />restableix la sincronitzaci�
 <translation id="5490005495580364134">Bloqueja totes les galetes (opció no recomanada)</translation>
 <translation id="5513681519188741830">Fa <ph name="TIME" /> h</translation>
 <translation id="5520466080178053306">Toca Gestor de contrasenyes i, a continuació, toca Afegeix</translation>
-<translation id="5525095647255982834">Per enviar aquesta pestanya a un altre dispositiu, inicia la sessió a Chrome en el dispositiu en qüestió.</translation>
+<translation id="5525095647255982834">Per enviar aquesta pestanya a un altre dispositiu, inicia la sessió a Egon en el dispositiu en qüestió.</translation>
 <translation id="5525269841082836315">Crea una frase de contrasenya</translation>
 <translation id="5542540507657872337">Se n'han trobat <ph name="COUNT" /></translation>
 <translation id="5548760955356983418">Handoff us permet començar a navegar per un lloc web en aquest dispositiu i després continuar fàcilment al dispositiu Mac. El lloc web obert actualment apareixerà al Dock de Mac.
@@ -601,14 +601,14 @@ Handoff també ha d'estar activat a la secció General de Configuració, i els v
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Crea un codi QR</translation>
 <translation id="567881659373499783">Versió <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Es mostra 1 finestra de Chrome}other{Es mostren {count} finestres de Chrome}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Es mostra 1 finestra de Egon}other{Es mostren {count} finestres de Egon}}</translation>
 <translation id="5701270923492462699">S'ha permès l'accés a la càmera</translation>
 <translation id="5704908597376970822">No es pot iniciar la sessió.</translation>
 <translation id="5706552126692816153">Actiu fa 1 dia</translation>
 <translation id="5711039611392265845">Per trobar més opcions de configuració relacionades amb la privadesa, la seguretat i la recollida de dades, consulta <ph name="BEGIN_LINK" />Sincronització i serveis de Google<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">Per navegar pel web de manera privada, obre una pestanya nova</translation>
 <translation id="5728700505257787410">S'ha produït un problema en iniciar la sessió al vostre compte.</translation>
-<translation id="5733084997078800044">Consell de Chrome</translation>
+<translation id="5733084997078800044">Consell de Egon</translation>
 <translation id="5737974891429562743">Actualitza les dades d'inici de sessió del compte per iniciar la sincronització.</translation>
 <translation id="5738385766833540397">Gestiona com reps les alertes de baixada de preu dels productes que segueixes</translation>
 <translation id="5738887413654608789">Això et permet detectar pàgines web rellevants del teu entorn.</translation>
@@ -623,7 +623,7 @@ Handoff també ha d'estar activat a la secció General de Configuració, i els v
 <translation id="5812974770859303494">Afegeix a...</translation>
 <translation id="581659025233126501">Activa la sincronització</translation>
 <translation id="5819208479324046259">Gestionat per <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Desa les contrasenyes, les formes de pagament i les adreces perquè Chrome les empleni automàticament més endavant.</translation>
+<translation id="5833643789537100742">Desa les contrasenyes, les formes de pagament i les adreces perquè Egon les empleni automàticament més endavant.</translation>
 <translation id="5846482154967366008">Motor de cerca</translation>
 <translation id="5854790677617711513">Anterior a 30 dies</translation>
 <translation id="5857090052475505287">Carpeta nova</translation>
@@ -650,7 +650,7 @@ Handoff també ha d'estar activat a la secció General de Configuració, i els v
 <translation id="5982717868370722439">Afegeix les dades existents a <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Visitats recentment</translation>
 <translation id="5988097621740394599">Consulta les baixades de preu a les pestanyes.</translation>
-<translation id="5988851877894965432">Obre els URL a Chrome</translation>
+<translation id="5988851877894965432">Obre els URL a Egon</translation>
 <translation id="6006672969046233841">Pestanya nova</translation>
 <translation id="6012140227487808125">S'està encriptant…</translation>
 <translation id="6021332621416007159">Obre a...</translation>
@@ -676,7 +676,7 @@ Handoff també ha d'estar activat a la secció General de Configuració, i els v
 <translation id="6152406514676263192">Sincronitza per obtenir el contingut més rellevant en funció dels teus interessos.</translation>
 <translation id="6159839020698489198">opcional</translation>
 <translation id="6170450281939467187">S'ha produït un error en traduir el contingut</translation>
-<translation id="6177442314419606057">Fes cerques a Chrome</translation>
+<translation id="6177442314419606057">Fes cerques a Egon</translation>
 <translation id="6184086493125982861">Mostra les pestanyes</translation>
 <translation id="6187302354554850004">Última sincronització: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">No llegits</translation>
@@ -746,7 +746,7 @@ Prova d'utilitzar una contrasenya única per a cada lloc web.</translation>
 <translation id="6524918542306337007">El mode d'incògnit no està disponible</translation>
 <translation id="6530992499366869131">Rep un advertiment si les contrasenyes queden exposades en l'àmbit d'una violació de les dades</translation>
 <translation id="6537746030088321027">exemple.cat</translation>
-<translation id="6540120577248033958">Visita un lloc web i fes clic a Segueix al menú de Chrome</translation>
+<translation id="6540120577248033958">Visita un lloc web i fes clic a Segueix al menú de Egon</translation>
 <translation id="6561262006871132942">Amplia</translation>
 <translation id="6583087784430677195">Per desactivar aquesta funció, obre <ph name="BEGIN_LINK" />Configuració<ph name="END_LINK" /> i ves a Emplenament automàtic de contrasenyes.</translation>
 <translation id="6585618849026997638">Afegeix adreces d'interès per tornar a pàgines que consideris importants</translation>
@@ -864,7 +864,7 @@ En mode d'incògnit, els llocs web no poden fer servir galetes per veure la teva
 <translation id="7454057999980797137">Província</translation>
 <translation id="7459628154744868585">La funció Protecció millorada està activada</translation>
 <translation id="7464701184726199289">S'esborraran les dades sincronitzades de tots els dispositius. La configuració desada del lloc no se suprimirà i és possible que reflecteixi els vostres hàbits de navegació. <ph name="BEGIN_LINK" />Més informació<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Selecciona Chrome.</translation>
+<translation id="746684838091935575">3. Selecciona Egon.</translation>
 <translation id="7472734401283673885">Nom de l'empresa</translation>
 <translation id="7473891865547856676">No, gràcies</translation>
 <translation id="750493650310597496">No se n'ha seleccionat cap</translation>
@@ -899,7 +899,7 @@ En mode d'incògnit, els llocs web no poden fer servir galetes per veure la teva
 <translation id="7781011649027948662">Vols traduir la pàgina?</translation>
 <translation id="7781069478569868053">Pàgina Pestanya nova</translation>
 <translation id="7781829728241885113">Ahir</translation>
-<translation id="778855399387580014">Inicia una cerca en una pestanya nova de Chrome.</translation>
+<translation id="778855399387580014">Inicia una cerca en una pestanya nova de Egon.</translation>
 <translation id="7791543448312431591">Afegeix</translation>
 <translation id="7807060072011926525">Proporcionat per Google</translation>
 <translation id="7839985698273989086">Pàgina sense connexió</translation>
@@ -912,7 +912,7 @@ En mode d'incògnit, els llocs web no poden fer servir galetes per veure la teva
 <translation id="7859704718976024901">Historial de navegació</translation>
 <translation id="7879275349003161544">Mostra les baixades</translation>
 <translation id="7884694604461143138">Historial de cerques (n'hem trobat <ph name="COUNT" />)</translation>
-<translation id="7887198238286927132">Amb la finalitat de protegir la teva privadesa, Chrome no emplenarà aquest camp automàticament.</translation>
+<translation id="7887198238286927132">Amb la finalitat de protegir la teva privadesa, Egon no emplenarà aquest camp automàticament.</translation>
 <translation id="7911190106180361398">La teva organització no et permet sincronitzar-ho tot.</translation>
 <translation id="7920949005883349320">Privadesa i seguretat</translation>
 <translation id="7930998711684428189">T'avisa si les contrasenyes queden exposades a causa d'una violació de les dades.</translation>
@@ -933,7 +933,7 @@ Els llocs web poden fer servir galetes per veure la teva activitat de navegació
 <translation id="7982789257301363584">Xarxa</translation>
 <translation id="7987685713885608670">Per a una seguretat addicional, encripta les contrasenyes al dispositiu abans de desar-les al gestor de contrasenyes de Google.</translation>
 <translation id="7993619969781047893">Pot ser que les funcions d'alguns llocs web no funcionin</translation>
-<translation id="800361585186029508">Obre els URL introduïts a Google Chrome.</translation>
+<translation id="800361585186029508">Obre els URL introduïts a Google Egon.</translation>
 <translation id="8016714545083187120">Utilitza sempre connexions segures</translation>
 <translation id="802154636333426148">Error de baixada</translation>
 <translation id="8023878949384262191">Desplega la secció.</translation>
@@ -942,7 +942,7 @@ Els llocs web poden fer servir galetes per veure la teva activitat de navegació
 <translation id="804225253087497565">És possible que l'<ph name="BEGIN_LINK" />historial de cerques<ph name="END_LINK" /> i <ph name="BEGIN_LINK" />altres tipus d'activitats<ph name="END_LINK" /> es desin al teu Compte de Google quan tinguis la sessió iniciada. Les pots suprimir en qualsevol moment.</translation>
 <translation id="804427445359061970">Trobaràs les teves pestanyes d'altres dispositius aquí</translation>
 <translation id="8059533439631660104">Replega la secció.</translation>
-<translation id="8065292699993359127">Obre els URL en mode d'incògnit a Chrome</translation>
+<translation id="8065292699993359127">Obre els URL en mode d'incògnit a Egon</translation>
 <translation id="806745655614357130">Mantén les meves dades separades</translation>
 <translation id="8073670137947914548">La baixada ha finalitzat</translation>
 <translation id="8073872304774253879">Millora les cerques i la navegació</translation>
@@ -956,7 +956,7 @@ Els llocs web poden fer servir galetes per veure la teva activitat de navegació
 <translation id="8114753159095730575">La baixada de fitxers està disponible. Opcions disponibles a la part inferior de la pantalla.</translation>
 <translation id="81313319706244542">2. Toca Contrasenyes</translation>
 <translation id="8132598642024322408">Ara val <ph name="PRICE" />, abans valia <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">S'utilitzarà per crear esdeveniments al teu Calendari d'Apple des de Chrome i Google Lens.</translation>
+<translation id="8136856065410661948">S'utilitzarà per crear esdeveniments al teu Calendari d'Apple des de Egon i Google Lens.</translation>
 <translation id="8156478151976189188">La sincronització de contrasenyes no funciona</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> comptes</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Els teus dispositius<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Els llocs web poden fer servir galetes per veure la teva activitat de navegació
 <translation id="8533670235862049797">La funció Navegació segura està activada</translation>
 <translation id="8534481786647257214">S'ha completat la publicació a Google+.</translation>
 <translation id="8548878600947630424">Cerca a la pàgina...</translation>
-<translation id="8558480467877843976">Ara pots utilitzar Chrome cada vegada que naveguis o toquis enllaços en missatges, documents i altres aplicacions.</translation>
+<translation id="8558480467877843976">Ara pots utilitzar Egon cada vegada que naveguis o toquis enllaços en missatges, documents i altres aplicacions.</translation>
 <translation id="8588404856427128947">Desactivada</translation>
 <translation id="8590913940444621808">No ho demanis mai</translation>
 <translation id="8591976964826315682">Bloqueja les galetes de tercers en mode d'incògnit</translation>
@@ -1043,7 +1043,7 @@ Els llocs web poden fer servir galetes per veure la teva activitat de navegació
 <translation id="8876882697946675716">Mantén els dispositius sincronitzats</translation>
 <translation id="8877287418679067891">Estableix com a predeterminat a Configuració...</translation>
 <translation id="8881801611828450202">Cerca aquesta imatge a <ph name="SEARCH_ENGINE" /></translation>
-<translation id="8891935667620843985">Pots obrir enllaços automàticament a l'aplicació Chrome convertint-la en la predeterminada com a navegador.</translation>
+<translation id="8891935667620843985">Pots obrir enllaços automàticament a l'aplicació Egon convertint-la en la predeterminada com a navegador.</translation>
 <translation id="8898822736010347272">Envia a Google els URL d'algunes pàgines que visites, informació limitada del sistema i part del contingut de les pàgines per ajudar a detectar amenaces noves i protegir tothom al web.</translation>
 <translation id="890565330728586731">Enrere</translation>
 <translation id="8909135823018751308">Comparteix...</translation>
@@ -1068,11 +1068,11 @@ Els llocs web poden fer servir galetes per veure la teva activitat de navegació
 <translation id="9055960261314198756">La funció Protecció millorada està desactivada</translation>
 <translation id="9057972802061533987">No es pot seguir. S'ha produït un error.</translation>
 <translation id="9065203028668620118">Edita</translation>
-<translation id="9068336935206019333">Obre en mode d'incògnit a Chrome</translation>
+<translation id="9068336935206019333">Obre en mode d'incògnit a Egon</translation>
 <translation id="9079935439869366234">Marca-ho tot com a no llegit</translation>
 <translation id="9081058212938299310">Vols actualitzar la contrasenya per a <ph name="USERNAME" />?</translation>
 <translation id="9083838294503912307">Per sincronitzar i personalitzar el contingut en tots els dispositius, activa la sincronització.</translation>
-<translation id="9087108903408689779">Contrasenya suggerida per Chrome:</translation>
+<translation id="9087108903408689779">Contrasenya suggerida per Egon:</translation>
 <translation id="9093271241977565440">A la part superior de la pantalla, toca la icona de cerca</translation>
 <translation id="9094033019050270033">Actualitza la contrasenya</translation>
 <translation id="9097506547406246598">No es pot deixar de seguir. S'ha produït un error.</translation>
@@ -1089,7 +1089,7 @@ Els llocs web poden fer servir galetes per veure la teva activitat de navegació
 <translation id="9223358826628549784">L'informe d'error s'ha enviat.</translation>
 <translation id="941747855997058526">Selecciona una contrasenya...</translation>
 <translation id="952704832371081537">Cancel·la</translation>
-<translation id="953008885340860025">S'ha tancat la sessió de Chrome</translation>
+<translation id="953008885340860025">S'ha tancat la sessió de Egon</translation>
 <translation id="959066944189734975">Segueixes <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">La teva organització només et permet iniciar la sessió amb determinats comptes. Els comptes no admesos s'amaguen.</translation>
 <translation id="984509647832111802">La sincronització no funciona.</translation>

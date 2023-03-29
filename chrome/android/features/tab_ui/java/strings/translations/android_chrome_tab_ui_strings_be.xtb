@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">Некалькі (<ph name="NUMBER_OF_TABS" />) укладак пэўны час не выкарыстоўваліся. Закрыць іх?</translation>
 <translation id="1181037720776840403">Выдаліць</translation>
 <translation id="125153950246128346">Націсніце, каб паглядзець іншую ўкладку</translation>
-<translation id="1403228085774130835">Закрытыя ўкладкі можна знайсці ў раздзеле "Нядаўнія ўкладкі" ў галоўным меню браўзера Chrome</translation>
+<translation id="1403228085774130835">Закрытыя ўкладкі можна знайсці ў раздзеле "Нядаўнія ўкладкі" ў галоўным меню браўзера Egon</translation>
 <translation id="1455506303394048917">Звесткі пра вашы дзеянні на гэтых укладках у рэжыме інкогніта будуць выдалены з прылады</translation>
 <translation id="1499635324672558517">Закрыць усе ўкладкі ў рэжыме інкогніта?</translation>
 <translation id="1657719826150349398">Перамясціць укладку ніжэй</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Прагледзець звесткі пра краму; гэты варыянт выбару даступны ўверсе экрана</translation>
 <translation id="5558362125926932819">Закрыць групу з наступнай колькасцю ўкладак: <ph name="NUMBER_OF_TABS" /></translation>
 <translation id="5580090775658607195">Укладак згрупавана: <ph name="TAB_COUNT" /></translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> спасылка з Chrome}one{<ph name="TABS_COUNT_MANY" /> спасылка з Chrome}few{<ph name="TABS_COUNT_MANY" /> спасылкі з Chrome}many{<ph name="TABS_COUNT_MANY" /> спасылак з Chrome}other{<ph name="TABS_COUNT_MANY" /> спасылкі з Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> спасылка з Egon}one{<ph name="TABS_COUNT_MANY" /> спасылка з Egon}few{<ph name="TABS_COUNT_MANY" /> спасылкі з Egon}many{<ph name="TABS_COUNT_MANY" /> спасылак з Egon}other{<ph name="TABS_COUNT_MANY" /> спасылкі з Egon}}</translation>
 <translation id="575494663145460764">Атрымліваць абвесткі пра зніжэнні цэн?</translation>
 <translation id="58326064309361797">Каб згрупаваць укладкі, перацягвайце іх</translation>
 <translation id="5846292395804797011">Закрыць групу "<ph name="TITLE_OF_GROUP" />" з наступнай колькасцю ўкладак: <ph name="NUMBER_OF_TABS" />.</translation>

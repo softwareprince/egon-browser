@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">ຍົກເລີກ</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">ບໍ່ມີຫົວຂໍ້ລະດັບ 4 ຖັດໄປ</translation>
-<translation id="1212770441379271564">ທາງລັດສອງສາມອັນຕໍ່ໄປບໍ່ແມ່ນຄຳສັ່ງ ChromeVox, ແຕ່ພວກມັນກໍເປັນປະໂຫຍດຫຼາຍເຊັ່ນກັນສຳລັບການໃຊ້ປະໂຫຍດສູງສຸດຈາກ Chrome.
+<translation id="1212770441379271564">ທາງລັດສອງສາມອັນຕໍ່ໄປບໍ່ແມ່ນຄຳສັ່ງ ChromeVox, ແຕ່ພວກມັນກໍເປັນປະໂຫຍດຫຼາຍເຊັ່ນກັນສຳລັບການໃຊ້ປະໂຫຍດສູງສຸດຈາກ Egon.
 ເພື່ອເລື່ອນໄປໜ້າຜ່ານລາຍການຕ່າງໆທີ່ດຳເນີນໄດ້ ເຊັ່ນວ່າ ປຸ່ມ ແລະ ລິ້ງຕ່າງໆ, ກະລຸນາກົດປຸ່ມ Tab. ເພື່ອເລື່ອນກັບຫຼັງ, ກະລຸນາກົດ Shift+Tab. 
-ເພື່ອເຂົ້າຫາກ່ອງທີ່ຢູ່ໂປຣແກຣມທ່ອງເວັບ Chrome, ເຊິ່ງຍັງເອີ້ນວ່າ omnibox, ກະລຸນາກົດ Control + L. 
+ເພື່ອເຂົ້າຫາກ່ອງທີ່ຢູ່ໂປຣແກຣມທ່ອງເວັບ Egon, ເຊິ່ງຍັງເອີ້ນວ່າ omnibox, ກະລຸນາກົດ Control + L. 
 ເພື່ອເປີດ ແລະ ໄປຫາແຖບໃໝ່ໂດຍອັດຕະໂນມັດ, ກະລຸນາກົດ Control+T. ເຄີເຊີຂອງທ່ານຈະຢູ່ໃນກ່ອງ omnibox. 
 ເພື່ອປິດແຖບໃດໜຶ່ງ, ກະລຸນາກົດ Control+W. 
 ເພື່ອຍ້າຍໄປໜ້າລະຫວ່າງແຖບທີ່ເປີດຢູ່, ກະລຸນາໃຊ້ Control+Tab. 
-ເພື່ອເປີດເມນູໂປຣແກຣມທ່ອງເວັບ Chrome, ກະລຸນາກົດ Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox - ໃຫ້​ສຽງ​ກັບ Chrome</translation>
+ເພື່ອເປີດເມນູໂປຣແກຣມທ່ອງເວັບ Egon, ກະລຸນາກົດ Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox - ໃຫ້​ສຽງ​ກັບ Egon</translation>
 <translation id="1225969361094801578">ສີເທົາອົມຟ້າເຂັ້ມ</translation>
 <translation id="122928249241119550">ຍ້າຍໄປຫາປະໂຫຍກກ່ອນໜ້າ</translation>
 <translation id="1230503547248836149">ຈຸດເລີ່ມຕົ້ນສ່ວນທີ່ເລືອກ</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">ໄວຍະກອນຜິດພາດ</translation>
 <translation id="2603828437139726540">ຍ້າຍໄປໜ້າໜຶ່ງຕົວອັກສອນ</translation>
 <translation id="2619052155095999743">ສອດໃສ່</translation>
-<translation id="2619344480613750862">ທ່ານສາມາດເລື່ອນໄປມາລະຫວ່າງພາກສ່ວນຂອງໜ້າຈໍໄດ້. ຕົວຢ່າງ: ທ່ານສາມາດເລື່ອນໄປມາລະຫວ່າງຕົວເປີດໃຊ້, ຖ້ານ ແລະ ແຖບ Chrome ຂອງທ່ານໄດ້. ເພື່ອເລື່ອນໄປພາກສ່ວນຕໍ່ໄປ, ໃຫ້ປັດຈາກຊ້າຍໄປຂວາດ້ວຍສີ່ນິ້ວ. ລອງເຮັດຕອນນີ້ເພື່ອສືບຕໍ່.</translation>
+<translation id="2619344480613750862">ທ່ານສາມາດເລື່ອນໄປມາລະຫວ່າງພາກສ່ວນຂອງໜ້າຈໍໄດ້. ຕົວຢ່າງ: ທ່ານສາມາດເລື່ອນໄປມາລະຫວ່າງຕົວເປີດໃຊ້, ຖ້ານ ແລະ ແຖບ Egon ຂອງທ່ານໄດ້. ເພື່ອເລື່ອນໄປພາກສ່ວນຕໍ່ໄປ, ໃຫ້ປັດຈາກຊ້າຍໄປຂວາດ້ວຍສີ່ນິ້ວ. ລອງເຮັດຕອນນີ້ເພື່ອສືບຕໍ່.</translation>
 <translation id="2624431853467395961">ເປີດໂໝດການຮຽນຮູ້</translation>
 <translation id="2626530649491650971">ສາມາດຄລິກໄດ້</translation>
 <translation id="263637551280112393">ກົດ ຊອກຫາ+Shift+ຍະຫວ່າງ</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">ການນຳທາງພື້ນຖານ</translation>
 <translation id="609281021724813947">ບໍ່ມີຕົວເລື່ອນຜ່ານມາ</translation>
 <translation id="6100239002225743044">ຍ້າຍຂຶ້ນໜຶ່ງແຖວ</translation>
-<translation id="6118126368611144850">ແອັບ Android ສຳລັບ Chrome. ຖ້າທ່ານມີ Play Store ໃນອຸປະກອນຂອງທ່ານ, ເຊີນລອງໃຊ້ ChromeVox ດ້ວຍແອັບ Android. ລອງໃຊ້ການຮອງຮັບແບບທົດລອງໂດຍການດາວໂຫຼດ Google Chrome Canary ຈາກ Play Store.</translation>
+<translation id="6118126368611144850">ແອັບ Android ສຳລັບ Egon. ຖ້າທ່ານມີ Play Store ໃນອຸປະກອນຂອງທ່ານ, ເຊີນລອງໃຊ້ ChromeVox ດ້ວຍແອັບ Android. ລອງໃຊ້ການຮອງຮັບແບບທົດລອງໂດຍການດາວໂຫຼດ Google Egon Canary ຈາກ Play Store.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">ເປີດໃຊ້ງານ</translation>
 <translation id="6122013438240733403">ປຸ່ມ</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">ສີເຫຼືອງໂກນເດິນຣອດອ່ອນ</translation>
 <translation id="7541021454094606506">ລຶບທັງໝົດ</translation>
 <translation id="7543255924852002459">ຍົກເລີກປ້າຍກຳກັບ</translation>
-<translation id="7552432549459840808">ທາງລັດທີ່ເປັນປະໂຫຍດຂອງ Chrome</translation>
+<translation id="7552432549459840808">ທາງລັດທີ່ເປັນປະໂຫຍດຂອງ Egon</translation>
 <translation id="7553679324939294712">ແຊກ <ph name="INSERT_PHRASE" /> ກ່ອນ <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">ສີ​ດໍາ</translation>
 <translation id="7579911500627256166">ຈໍ້າ <ph name="DOT" /></translation>

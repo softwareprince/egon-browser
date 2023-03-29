@@ -916,7 +916,7 @@ Todos los usuarios deben cerrar sesión para continuar.</translation>
 <translation id="6043994281159824495">Salir ahora</translation>
 <translation id="6047696787498798094">Cuando cambies de usuario, la pantalla dejará de compartirse. ¿Quieres continuar?</translation>
 <translation id="6054305421211936131">Iniciar sesión con tarjeta inteligente</translation>
-<translation id="6059276912018042191">Pestañas de Chrome recientes</translation>
+<translation id="6059276912018042191">Pestañas de Egon recientes</translation>
 <translation id="6062360702481658777">Tu sesión se cerrará automáticamente en <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">He terminado de usar el archivo</translation>
 <translation id="6073451960410192870">Detener grabación</translation>
@@ -1021,7 +1021,7 @@ Nueva instalación</translation>
 <translation id="6650933572246256093">El dispositivo Bluetooth "<ph name="DEVICE_NAME" />" solicita permiso para emparejarse. Introduce la llave de acceso <ph name="PASSKEY" /> en el dispositivo</translation>
 <translation id="6657585470893396449">Contraseña</translation>
 <translation id="6665545700722362599">Dar permiso a los sitios web, las aplicaciones y las extensiones para usar los servicios de ubicación, el micrófono del dispositivo, la cámara y otras funciones.</translation>
-<translation id="6667908387435388584">Conéctate al punto de acceso de tu teléfono, silencia y localiza tu dispositivo, y visualiza las pestañas de Chrome recientes abiertas en tu teléfono</translation>
+<translation id="6667908387435388584">Conéctate al punto de acceso de tu teléfono, silencia y localiza tu dispositivo, y visualiza las pestañas de Egon recientes abiertas en tu teléfono</translation>
 <translation id="6670153871843998651">Escritorio 3</translation>
 <translation id="6671495933530132209">Copiar imagen</translation>
 <translation id="6671661918848783005">No se puede desbloquear tu Chromebook</translation>

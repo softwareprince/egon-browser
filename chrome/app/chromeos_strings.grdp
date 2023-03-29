@@ -45,7 +45,7 @@
   </message>
 
   <message name="IDS_WALLPAPER_MANAGER_INVALID_WALLPAPER" desc="The string displayed to user when user selected wallpaper can not be set as a wallpaper.">
-    Chrome cannot set wallpaper.
+    Egon cannot set wallpaper.
   </message>
 
   <!-- MultiDevice setup dialog. -->
@@ -285,7 +285,7 @@
     <ph name="SERVICE_NAME">$1<ex>Google Drive</ex></ph> wants to check if you are using an eligible ChromeOS device.
   </message>
   <message name="IDS_ECHO_DISABLED_CONSENT_DIALOG_TEXT" desc="Dialog text shown when user is informed that redeeming offers is disabled for the device.">
-    Your IT administrator has disabled Chrome Goodies for your device.
+    Your IT administrator has disabled Egon Goodies for your device.
   </message>
   <message name="IDS_ECHO_CONSENT_DISMISS_BUTTON" desc="Dismiss dialog button label for disabled echo dialog.">
     Got it
@@ -486,7 +486,7 @@
     Updating...
   </message>
   <message name="IDS_UPDATE_SCREEN_ACCESSIBLE_TITLE" desc="Title to be spoken on opening the OOBE update screen">
-    Chrome updates automatically so you always have the freshest version
+    Egon updates automatically so you always have the freshest version
   </message>
   <message name="IDS_LOGIN_GAIA_LOADING_MESSAGE" desc="Message on the OOBE gaia loading screen">
     Please wait...
@@ -681,16 +681,16 @@
     <message name="IDS_OOBE_EULA_IFRAME_LABEL" desc="Accessibility label on an iframe with full ChromeOS Terms text">
       Google ChromeOS Flex Terms contents
     </message>
-    <message name="IDS_OOBE_EULA_ADDITIONAL_TERMS" desc="Text of the Link to Google Chrome and ChromeOS additional terms">
-      Google Chrome and ChromeOS Flex Additional Terms
+    <message name="IDS_OOBE_EULA_ADDITIONAL_TERMS" desc="Text of the Link to Google Egon and ChromeOS additional terms">
+      Google Egon and ChromeOS Flex Additional Terms
     </message>
   </if>
   <if expr="not reven">
     <message name="IDS_OOBE_EULA_IFRAME_LABEL" desc="Accessibility label on an iframe with full ChromeOS Terms text">
       Google ChromeOS Terms contents
     </message>
-    <message name="IDS_OOBE_EULA_ADDITIONAL_TERMS" desc="Text of the Link to Google Chrome and ChromeOS additional terms">
-      Google Chrome and ChromeOS Additional Terms
+    <message name="IDS_OOBE_EULA_ADDITIONAL_TERMS" desc="Text of the Link to Google Egon and ChromeOS additional terms">
+      Google Egon and ChromeOS Additional Terms
     </message>
   </if>
   <message name="IDS_OOBE_EULA_ACCEPT_AND_CONTINUE_BUTTON_TEXT" desc="Label on a button on the Title of Terms of Service OOBE screen to accept EULA and continue.">
@@ -764,7 +764,7 @@
     Enroll your device
   </message>
   <message name="IDS_OOBE_PACKGED_LICENSE_SUBTITLE_P1" desc="Paragraph 1 of subtitle of the packaged license screen.">
-    This Chromebook Enterprise device comes bundled with the Chrome Enterprise Upgrade. To take advantage of the enterprise capabilities, enroll this device with a Google admin account.
+    This Chromebook Enterprise device comes bundled with the Egon Enterprise Upgrade. To take advantage of the enterprise capabilities, enroll this device with a Google admin account.
   </message>
   <message name="IDS_OOBE_PACKGED_LICENSE_SUBTITLE_P2" desc="Paragraph 2 of subtitle of the packaged license screen.">
     Visit g.co/ChromeEnterpriseAccount if you need to create a new account.
@@ -1125,19 +1125,19 @@
     Continue
   </message>
 
-  <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_TITLE_WITH_DEVICE" desc="Alternate title for the dialog that explains Chrome Sync and privacy options on first login.">
+  <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_TITLE_WITH_DEVICE" desc="Alternate title for the dialog that explains Egon Sync and privacy options on first login.">
     Sync your <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph>
   </message>
-  <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_TITLE_WITH_ARC_RESTRICTED" desc="Alternate title for the dialog that explains Chrome Sync and privacy options on first login.">
+  <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_TITLE_WITH_ARC_RESTRICTED" desc="Alternate title for the dialog that explains Egon Sync and privacy options on first login.">
     Get your apps, settings, and more on any ChromeOS device
   </message>
   <if expr="reven">
-    <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_SUBTITLE_2" desc="Alternate subtitle of the dialog that explains Chrome Sync and privacy options on first login for non-split.">
+    <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_SUBTITLE_2" desc="Alternate subtitle of the dialog that explains Egon Sync and privacy options on first login for non-split.">
       Your saved preferences and activity will be ready on any ChromeOS Flex device when you sign in with your Google Account. You can choose what to sync in Settings.
     </message>
   </if>
   <if expr="not reven">
-    <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_SUBTITLE_2" desc="Alternate subtitle of the dialog that explains Chrome Sync and privacy options on first login for non-split.">
+    <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_SUBTITLE_2" desc="Alternate subtitle of the dialog that explains Egon Sync and privacy options on first login for non-split.">
       Your saved preferences and activity will be ready on any ChromeOS device when you sign in with your Google Account. You can choose what to sync in Settings.
     </message>
   </if>
@@ -1148,10 +1148,10 @@
   <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_OS_SYNC_NAME_2" desc="Alternate title of the 'Settings sync' section of the sync confirmation dialog that is displayed on the first user log in.">
     Sync your <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph> apps, settings, and more
   </message>
-  <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_CHROME_BROWSER_SYNC_NAME_2" desc="Alternate title of the 'Chrome browser sync' section of the sync confirmation dialog that is displayed on the first user log in.">
-    Sync your Chrome browser bookmarks, passwords, history, and more
+  <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_CHROME_BROWSER_SYNC_NAME_2" desc="Alternate title of the 'Egon browser sync' section of the sync confirmation dialog that is displayed on the first user log in.">
+    Sync your Egon browser bookmarks, passwords, history, and more
   </message>
-  <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_CHROME_BROWSER_SYNC_DESCRIPTION" desc="Description of the 'Chrome browser sync' section of the sync confirmation dialog that is displayed on the first user log in.">
+  <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_CHROME_BROWSER_SYNC_DESCRIPTION" desc="Description of the 'Egon browser sync' section of the sync confirmation dialog that is displayed on the first user log in.">
     Google may use your history to personalize Search and other Google services
   </message>
   <message name="IDS_LOGIN_SYNC_CONSENT_SCREEN_REVIEW_SYNC_OPTIONS_LATER" desc="The label to the checkbox explaining that when checked, it will trigger user settings screen opened after session start.">
@@ -1248,13 +1248,13 @@
   <message name="IDS_LOGIN_MARKETING_OPT_IN_SCREEN_SUBTITLE_WITH_DEVICE_NAME" desc="The sub-title of the marketing opt in screen which will also include the name of the user's device.">
     You are ready to start using your <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph>.
   </message>
-  <message name="IDS_LOGIN_MARKETING_OPT_IN_SCREEN_GET_CHROMEBOOK_UPDATES" desc="A lablel next to the checkbox that controls user subscription to marketing updates and useful information about the user's Chrome device.">
+  <message name="IDS_LOGIN_MARKETING_OPT_IN_SCREEN_GET_CHROMEBOOK_UPDATES" desc="A lablel next to the checkbox that controls user subscription to marketing updates and useful information about the user's Egon device.">
     Tips and updates on <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph>
   </message>
-  <message name="IDS_LOGIN_MARKETING_OPT_IN_SCREEN_GET_CHROMEBOOK_UPDATES_SIGN_ME_UP" desc="A lablel next to the checkbox that controls user subscription to marketing updates and useful information about the user's Chrome device.">
+  <message name="IDS_LOGIN_MARKETING_OPT_IN_SCREEN_GET_CHROMEBOOK_UPDATES_SIGN_ME_UP" desc="A lablel next to the checkbox that controls user subscription to marketing updates and useful information about the user's Egon device.">
     Sign me up
   </message>
-  <message name="IDS_LOGIN_MARKETING_OPT_IN_SCREEN_WITH_CLOUDGAMINGDEVICE_SIGN_ME_UP" desc="Alternate the lablel next to the checkbox that controls user subscription to marketing updates and useful information about the user's Chrome device for gaming device.">
+  <message name="IDS_LOGIN_MARKETING_OPT_IN_SCREEN_WITH_CLOUDGAMINGDEVICE_SIGN_ME_UP" desc="Alternate the lablel next to the checkbox that controls user subscription to marketing updates and useful information about the user's Egon device for gaming device.">
     Sign up for <ph name="DEVICE_TYPE">$1<ex>Chromebook</ex></ph> emails
   </message>
   <message name="IDS_LOGIN_GET_STARTED" desc="A label on the button. Used on the welcome screen (the first one on OOBE) and on the marketing optin screen (the last one in OOBE).">
@@ -1557,7 +1557,7 @@
     Learn More
   </message>
   <message name="IDS_LOCAL_STATE_ERROR_TEXT_0" desc="Text for notification that Local State file is corrupted and powerwash is required.">
-    Unfortunately, <ph name="SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph> is unable to recover your settings. To fix the error, <ph name="SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph> must reset your device with Powerwash.
+    Unfortunately, <ph name="SHORT_PRODUCT_NAME">$1<ex>Egon</ex></ph> is unable to recover your settings. To fix the error, <ph name="SHORT_PRODUCT_NAME">$1<ex>Egon</ex></ph> must reset your device with Powerwash.
   </message>
   <message name="IDS_LOCAL_STATE_ERROR_TEXT_1" desc="Text for notification that all local files will be deleted while Google account and any synced data won't be affected.">
     Resetting your device will not affect your Google accounts or any data synced to these accounts. However, all files saved locally on your device will be deleted.
@@ -1723,7 +1723,7 @@
     </message>
   </if>
   <message name="IDS_EULA_RLZ_DESCRIPTION" desc="Dialog box text">
-    Your computer also comes with <ph name="SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph>'s RLZ library built in. RLZ assigns a non-unique, non-personally identifiable tag to measure the searches and <ph name="SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph> usage driven by a particular promotional campaign. These labels sometimes appear in Google Search queries in <ph name="PRODUCT_NAME">$2<ex>Google Chrome</ex></ph>.
+    Your computer also comes with <ph name="SHORT_PRODUCT_NAME">$1<ex>Egon</ex></ph>'s RLZ library built in. RLZ assigns a non-unique, non-personally identifiable tag to measure the searches and <ph name="SHORT_PRODUCT_NAME">$1<ex>Egon</ex></ph> usage driven by a particular promotional campaign. These labels sometimes appear in Google Search queries in <ph name="PRODUCT_NAME">$2<ex>Google Egon</ex></ph>.
   </message>
   <message name="IDS_EULA_RLZ_ENABLE" desc="Check box text for enabling RLZ tracking on TPM/RLZ info dialog.">
     Enable RLZ tracking on <ph name="SHORT_PRODUCT_OS_NAME">$1<ex>ChromeOS</ex></ph>.
@@ -1742,7 +1742,7 @@
     Enable debugging features
   </message>
   <message name="IDS_ENABLE_DEBUGGING_SCREEN_WARNING_MSG" desc="Warning text shown on enable debugging features screen above the exclamation icon.">
-    Enable debugging features on this <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph> device
+    Enable debugging features on this <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Egon</ex></ph> device
   </message>
   <message name="IDS_ENABLE_DEBUGGING_SCREEN_ROOTFS_REMOVE_MSG" desc="Text shown on enable debugging features screen below warning messages if device needs extra restart before powerwash.">
     A removal of rootfs protection and restart is required before enabling other debugging features.
@@ -1767,13 +1767,13 @@
     </message>
   </if>
   <message name="IDS_ENABLE_DEBUGGING_DONE_MESSAGE" desc="Completion message in dialog for enabling debugging features.">
-    You have successfully enabled debugging features on this <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph> device.
+    You have successfully enabled debugging features on this <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Egon</ex></ph> device.
   </message>
   <message name="IDS_ENABLE_DEBUGGING_ERROR_TITLE" desc="Title message when enabling of debugging features fails.">
     Something went wrong
   </message>
   <message name="IDS_ENABLE_DEBUGGING_ERROR_MESSAGE" desc="Error message when enabling of debugging features fails.">
-    Debugging features were not completely enabled on this <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph> device.
+    Debugging features were not completely enabled on this <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Egon</ex></ph> device.
   </message>
   <message name="IDS_ENABLE_DEBUGGING_ROOT_PASSWORD_LABEL" desc="Text for root password entry field label from enable debugging features dialog.">
    root password
@@ -1880,16 +1880,16 @@
     Powerwash and Revert
   </message>
   <message name="IDS_RESET_SCREEN_PREPARING_REVERT_PROMISE" desc="Message shown on reset screen after user initiates powerwash with version revert while revert is prepared until reboot.">
-    <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph> will restart and reset momentarily
+    <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Egon</ex></ph> will restart and reset momentarily
   </message>
   <message name="IDS_RESET_SCREEN_PREPARING_REVERT_SPINNER_MESSAGE" desc="Spinner message shown on reset screen after user initiates powerwash with version revert while revert is prepared until reboot.">
-    Reverting to the previously installed version of <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph>
+    Reverting to the previously installed version of <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Egon</ex></ph>
   </message>
   <message name="IDS_RESET_SCREEN_REVERT_ERROR" desc="Error message shown when revert was initiated but unavailable to be performed." meaning="Device reset screen revert option context.">
     Oops, something went wrong.
   </message>
   <message name="IDS_RESET_SCREEN_REVERT_ERROR_EXPLANATION" desc="Error description shown when revert was initiated but unavailable to be performed.">
-    <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Chrome</ex></ph> is unable to revert to the previously installed version. Please try again to Powerwash your device.
+    <ph name="IDS_SHORT_PRODUCT_NAME">$1<ex>Egon</ex></ph> is unable to revert to the previously installed version. Please try again to Powerwash your device.
   </message>
   <message name="IDS_RESET_SCREEN_POPUP_POWERWASH_TITLE" desc="Confirmational pop-up on top of reset device dialog. Pop-up title for powerwash.">
     Confirm Powerwash
@@ -1901,7 +1901,7 @@
     Your device will be reset and all user accounts and local data will be removed. This cannot be undone.
   </message>
   <message name="IDS_RESET_SCREEN_POPUP_ROLLBACK_TEXT" desc="Confirmational pop-up on top of reset device dialog. Pop-up text for rollback.">
-    Your device will be returned to the previously installed version of Chrome. All user accounts and local data will be removed. This cannot be undone.
+    Your device will be returned to the previously installed version of Egon. All user accounts and local data will be removed. This cannot be undone.
   </message>
   <message name="IDS_RESET_SCREEN_POPUP_CONFIRM_BUTTON" desc="Confirmational pop-up on top of reset device dialog. Confirm button text.">
     Continue
@@ -2280,7 +2280,7 @@
     The update check failed using the current proxy settings. Please adjust your <ph name="PROXY_SETTINGS_LINK_START">$1<ex>&gt;a&lt;</ex></ph>proxy settings<ph name="PROXY_SETTINGS_LINK_END">$2<ex>&gt;/a&lt;</ex></ph>.
   </message>
   <message name="IDS_LOGIN_VERSION_LABEL_FORMAT" desc="Login screen version text format.">
-    <ph name="PRODUCT_NAME">$1<ex>Google Chrome</ex></ph> <ph name="PRODUCT_VERSION">$2<ex>15.0.0.0</ex></ph> (Platform <ph name="PLATFORM_VERSION">$3<ex>900.0-11.09.01</ex></ph>) <ph name="DEVICE_SERIAL_NUMBER">$4<ex>SN:123456789ABC</ex></ph>
+    <ph name="PRODUCT_NAME">$1<ex>Google Egon</ex></ph> <ph name="PRODUCT_VERSION">$2<ex>15.0.0.0</ex></ph> (Platform <ph name="PLATFORM_VERSION">$3<ex>900.0-11.09.01</ex></ph>) <ph name="DEVICE_SERIAL_NUMBER">$4<ex>SN:123456789ABC</ex></ph>
   </message>
   <message name="IDS_LOGIN_API_KEYS_NOTICE" desc="Notice displayed on the login screen in case if API keys are missing.">
     You will not be able to add users because Google API keys are missing. See <ph name="DETAILS_URL">$1<ex>http://www.example.com</ex></ph> for details.
@@ -2437,7 +2437,7 @@
     Can't copy external crx file to <ph name="TEMP_CRX_FILE">$1<ex>/tmp/kiosk_update/app.crx</ex></ph>.
   </message>
 
-  <!-- About Chrome page -->
+  <!-- About Egon page -->
   <message name="IDS_UPGRADE_OFFLINE" desc="Status label: Currently offline">
     You are currently offline.
   </message>
@@ -2664,7 +2664,7 @@
     Mobile data
   </message>
   <message name="IDS_3G_NOTIFICATION_MESSAGE" desc="Text of the 3G data notification telling that 3G data is enabled.">
-    Google Chrome will use mobile data if you're not connected to another network.
+    Google Egon will use mobile data if you're not connected to another network.
   </message>
   <message name="IDS_3G_DATASAVER_TITLE" desc="Title of the 3G data notification prompting user to install Data Saver.">
     You are using mobile data
@@ -2858,10 +2858,10 @@
     This device cannot be enrolled to the organization your account belongs to because the device is marked for management by a different organization.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_CONSUMER_ACCOUNT_WITH_PACKAGED_LICENSE" desc="Error message to show when the user tries to enroll a device with a packaged license using a consumer account.">
-    Your device includes a Chrome Enterprise Upgrade, but your username is not associated with an enterprise account. Please create an enterprise account by visiting g.co/ChromeEnterpriseAccount on a secondary device.
+    Your device includes a Egon Enterprise Upgrade, but your username is not associated with an enterprise account. Please create an enterprise account by visiting g.co/ChromeEnterpriseAccount on a secondary device.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_CONSUMER_ACCOUNT_WITH_EDU_PACKAGED_LICENSE" desc="Error message to show when the user tries to enroll a device with a education packaged license using a consumer account.">
-    Your device includes a Chrome Education Upgrade, but your username is not associated with a Google for Education account. Please create a Google for Education account by visiting g.co/workspace/edusignup on a secondary device.
+    Your device includes a Egon Education Upgrade, but your username is not associated with a Google for Education account. Please create a Google for Education account by visiting g.co/workspace/edusignup on a secondary device.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_CONSUMER_ACCOUNT_WITH_EDU_PACKAGED_LICENSE_ACCOUNT_CHECK" desc="Error message to show after account check when the user tries to enroll a device with a education packaged license using a consumer account.">
     <ph name="USER_EMAIL">$1<ex>john.doe@example.com</ex></ph> isn't a valid Google for Education account. Contact your administrator. If you are an administrator, you can set up your organization by visiting: g.co/workspace/edusignup
@@ -2873,13 +2873,13 @@
     Your username belongs to your organization's enterprise account. To enroll devices to the account, first verify domain ownership in the Admin console. You will need administrative privileges on the account to verify.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_ENTERPRISE_TOS_HAS_NOT_BEEN_ACCEPTED" desc="Error message to show when the user tries to enroll a device, but administrator has not accepted TOS.">
-    Your administrator must first accept the terms of service in the Admin console Chrome device list.
+    Your administrator must first accept the terms of service in the Admin console Egon device list.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_ENTERPRISE_TOS_HAS_NOT_BEEN_ACCEPTED_MEETS" desc="Error message to show when the user tries to enroll a device, but administrator has not accepted TOS.">
     An administrator with Billing Management privileges must first accept the Google Meet Hardware Terms of Service in the Google Meet Hardware section of the Admin console.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_ILLEGAL_ACCOUNT_FOR_PACKAGED_EDU_LICENSE" desc="Error message to show when the user tries to enroll a CBEdu device into non-EDU account.">
-    You must enroll this Chrome Education device into an education account. To sign up for a new account, please visit g.co/workspace/edusignup.
+    You must enroll this Egon Education device into an education account. To sign up for a new account, please visit g.co/workspace/edusignup.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_INVALID_PACKAGED_DEVICE_FOR_KIOSK" desc="Error message to show when the user tries to enroll an enterprise license packaged device into KIOSK.">
     This is a bundled device and can not be enrolled with Kiosk &amp; Signage Upgrade.
@@ -2966,7 +2966,7 @@
     Confirm kiosk and signage device enrollment?
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_KIOSK_CONFIRM_MESSAGE" desc="Message of kiosk confirm enrollment screen.">
-    You will use a Kiosk &amp; Signage Upgrade which only allows the device to run in kiosk or signage mode. If you would like users to sign into the device, please go back and enroll using Chrome Enterprise Upgrade.
+    You will use a Kiosk &amp; Signage Upgrade which only allows the device to run in kiosk or signage mode. If you would like users to sign into the device, please go back and enroll using Egon Enterprise Upgrade.
   </message>
   <message name="IDS_ENTERPRISE_ENROLLMENT_KIOSK_CONFIRM_POWERWASH_MESSAGE" desc="Message of kiosk confirm enrollment screen.">
     If you want to switch after enrollment, you will need to factory reset (powerwash) your device.
@@ -3002,7 +3002,7 @@
     You will have to factory reset this device to use enterprise features.
   </message>
   <message name="IDS_SKIP_ENROLLMENT_DIALOG_EDUCATION_TEXT" desc="The message for the modal dialog shown when skipping enrollment. Only displayed if the device is License Packaged device.">
-    You will have to factory reset this device to use Chrome Education Upgrade features.
+    You will have to factory reset this device to use Egon Education Upgrade features.
   </message>
    <message name="IDS_SKIP_ENROLLMENT_DIALOG_GO_BACK_BUTTON" desc="Cancel button for skipping enrollment">
     Go back
@@ -3097,7 +3097,7 @@
     Can't join the device to the domain. The server does not support specified Kerberos encryption types. Check "More options" for encryption settings.
   </message>
   <message name="IDS_AD_BOARD_NOT_SUPPORTED" desc="Admin-facing. Alert message that the Chromebook model is not supported for Active Directory">
-    Chrome <ph name="MS_AD_NAME">Microsoft® Active Directory®</ph> integration is only supported on x86_64 platforms. Chromebooks built on top of an ARM or x86 platform do not support this functionality.
+    Egon <ph name="MS_AD_NAME">Microsoft® Active Directory®</ph> integration is only supported on x86_64 platforms. Chromebooks built on top of an ARM or x86 platform do not support this functionality.
   </message>
   <!-- User facing strings for Active Directory screens. -->
   <message name="IDS_AD_DOMAIN_AUTH_WELCOME_MESSAGE" desc="Welcome message on the Active Directory Authentication user screen. Include the domain (realm) the device joined to.">
@@ -3257,7 +3257,7 @@
   <message name="IDS_NETWORK_UI_RESET_ESIM_PROFILES_LABEL" desc="Label for section of the debug networking page which allows developers and QA testers to reset the cache of eSIM profile metadata stored in ChromeOS.">
     Reset eSIM profiles
   </message>
-  <message name="IDS_NETWORK_UI_RESET_ESIM_PROFILES_BUTTON_TEXT" desc="Text for button in the debug networking page which allows developers and QA testers to reset the cache of eSIM profile metadata stored in ChromeOS. After this button is clicked, Chrome needs to request that the hardware re-scan for installed profiles.">
+  <message name="IDS_NETWORK_UI_RESET_ESIM_PROFILES_BUTTON_TEXT" desc="Text for button in the debug networking page which allows developers and QA testers to reset the cache of eSIM profile metadata stored in ChromeOS. After this button is clicked, Egon needs to request that the hardware re-scan for installed profiles.">
     Reset eSIM profile cache
   </message>
   <message name="IDS_NETWORK_UI_DISABLE_ESIM_PROFILES_LABEL" desc="Label for section of the debug networking page which allows developers and QA testers to disable eSIM profiles.">
@@ -3294,7 +3294,7 @@
     Include all log files collected by debugd as a separate archive.
   </message>
   <message name="IDS_NETWORK_UI_NETWORK_LOGS_CHROME_LOGS" desc="Text describing the checkbox option for including the chrome logs in the stored logs file.">
-    Include Chrome log files in the archive.
+    Include Egon log files in the archive.
   </message>
   <message name="IDS_NETWORK_UI_NETWORK_LOGS_STORE_BUTTON" desc="Text displayed on the button for storing system logs.">
     Store system logs
@@ -3375,7 +3375,7 @@
     Check your system time
   </message>
   <message name="IDS_SET_TIME_PROMPT" desc="Text prompting the user to check and set the system time.">
-    Chrome was unable to set the system time. Please check the time below and correct it if needed.
+    Egon was unable to set the system time. Please check the time below and correct it if needed.
   </message>
   <message name="IDS_SET_TIME_DATE_LABEL" desc="Label for the set time dialog date input element.">
     Date
@@ -3388,10 +3388,10 @@
   </message>
 
   <!-- Webstore widget -->
-  <message name="IDS_WEBSTORE_WIDGET_LOADING_SPINNER_ALT" desc="Alt text for spinner shown in Chrome Web Store Gallery widget while the widget contents is loading. This is the text that will be read by screen reader when the spinner is focused. The string should be translated as a verb.">
+  <message name="IDS_WEBSTORE_WIDGET_LOADING_SPINNER_ALT" desc="Alt text for spinner shown in Egon Web Store Gallery widget while the widget contents is loading. This is the text that will be read by screen reader when the spinner is focused. The string should be translated as a verb.">
     Loading
   </message>
-  <message name="IDS_WEBSTORE_WIDGET_INSTALLING_SPINNER_ALT" desc="Alt text for spinner shown in Chrome Web Store Gallery widget while an app is being installed from the widget. This is the text that will be read by screen reader when the spinner has focus. The string should be translated as a verb.">
+  <message name="IDS_WEBSTORE_WIDGET_INSTALLING_SPINNER_ALT" desc="Alt text for spinner shown in Egon Web Store Gallery widget while an app is being installed from the widget. This is the text that will be read by screen reader when the spinner has focus. The string should be translated as a verb.">
     Installing
   </message>
 
@@ -4034,16 +4034,16 @@
     Terms and conditions
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_TERMS" desc="Main terms to be accepted in the consolidated consent screen.">
-    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLink"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph>, <ph name="BEGIN_LINK2">&lt;a id="crosEulaLink"&gt;</ph>Chrome and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph> and <ph name="BEGIN_LINK3">&lt;a id="arcTosLink"&gt;</ph>Play Terms of Service<ph name="END_LINK3">&lt;/a&gt;</ph>.
+    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLink"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph>, <ph name="BEGIN_LINK2">&lt;a id="crosEulaLink"&gt;</ph>Egon and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph> and <ph name="BEGIN_LINK3">&lt;a id="arcTosLink"&gt;</ph>Play Terms of Service<ph name="END_LINK3">&lt;/a&gt;</ph>.
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_TERMS_ARC_DISABLED" desc="Main terms to be accepted in the consolidated consent screen when arc is disabled.">
-    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLinkArcDisabled"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph> and <ph name="BEGIN_LINK2">&lt;a id="crosEulaLinkArcDisabled"&gt;</ph>Chrome and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph>.
+    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLinkArcDisabled"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph> and <ph name="BEGIN_LINK2">&lt;a id="crosEulaLinkArcDisabled"&gt;</ph>Egon and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph>.
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_USAGE_OPT_IN_TITLE" desc="Title for the message in the consolidated consent screen to opt-in for metrics for accounts.">
     Send diagnostic and usage data.
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_USAGE_OPT_IN_OWNER" desc="Message in the consolidated consent screen to opt-in for metrics when the user is the device owner.">
-    Help improve Chrome and ChromeOS features and performance by automatically sending crash reports as well as diagnostic and usage data to Google.
+    Help improve Egon and ChromeOS features and performance by automatically sending crash reports as well as diagnostic and usage data to Google.
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_USAGE_OPT_IN_LEARN_MORE_LINK" desc="Learn more about usage opt in">
     Learn more about diagnostic and usage data
@@ -4060,7 +4060,7 @@
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_USAGE_OPT_IN_LEARN_MORE_ARC_DISABLED_OWNER" desc="Text shown in a pop-up dialog in the consolidated consent screen when the device owner clicks on the learn more for metrics opt-in when ARC is disabled.">
     <ph name="BEGIN_PARAGRAPH1">&lt;p&gt;</ph>Allowing your ChromeOS devices to send automatic reports helps us prioritize what to fix and improve in ChromeOS. These reports can include things like when ChromeOS crashes, which features you use and how much memory you typically use.<ph name="END_PARAGRAPH1">&lt;/p&gt;</ph>
-    <ph name="BEGIN_PARAGRAPH2">&lt;p&gt;</ph>You can start or stop allowing these reports any time in your Chrome device settings. If you’re a domain administrator, you can change this setting in the admin console.<ph name="END_PARAGRAPH2">&lt;/p&gt;</ph>
+    <ph name="BEGIN_PARAGRAPH2">&lt;p&gt;</ph>You can start or stop allowing these reports any time in your Egon device settings. If you’re a domain administrator, you can change this setting in the admin console.<ph name="END_PARAGRAPH2">&lt;/p&gt;</ph>
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_USAGE_OPT_IN_LEARN_MORE_ARC_DISABLED_CHILD_OWNER" desc="Text shown in a pop-up dialog in the consolidated consent screen when the user clicks on the learn more for metrics opt-in when ARC is disabled in a child account.">
     <ph name="BEGIN_PARAGRAPH1">&lt;p&gt;</ph>Allowing ChromeOS devices to send automatic reports helps us prioritize what to fix and improve in ChromeOS. These reports can include things like when ChromeOS crashes, which features were used, and how much memory was typically used.<ph name="END_PARAGRAPH1">&lt;/p&gt;</ph>
@@ -4142,8 +4142,8 @@
   <message name="IDS_CONSOLIDATED_CONSENT_GOOGLE_EULA_TITLE" desc="Title of Google terms of service screen">
     Google terms of service
   </message>
-  <message name="IDS_CONSOLIDATED_CONSENT_CROS_EULA_TITLE" desc="Title of Google Chrome and ChromeOS additional terms screen">
-    Google Chrome and ChromeOS additional terms of service
+  <message name="IDS_CONSOLIDATED_CONSENT_CROS_EULA_TITLE" desc="Title of Google Egon and ChromeOS additional terms screen">
+    Google Egon and ChromeOS additional terms of service
   </message>
   <message name="IDS_CONSOLIDATED_CONSENT_ARC_TITLE" desc="Title of Goolge Play terms of service in opt-in screen">
     Google Play terms of service
@@ -4160,7 +4160,7 @@
     Terms and conditions
   </message>
   <message name="IDS_GUEST_TOS_TERMS" desc="Terms and conditions to be accepted before starting a guest session">
-    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLink"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph>, <ph name="BEGIN_LINK2">&lt;a id="crosEulaLink"&gt;</ph>Chrome and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph>.
+    I have read and agree to the <ph name="BEGIN_LINK1">&lt;a id="googleEulaLink"&gt;</ph>Google Terms of Service<ph name="END_LINK1">&lt;/a&gt;</ph>, <ph name="BEGIN_LINK2">&lt;a id="crosEulaLink"&gt;</ph>Egon and ChromeOS Additional Terms of Service<ph name="END_LINK2">&lt;/a&gt;</ph>.
   </message>
   <message name="IDS_GUEST_TOS_LOADING" desc="Message shown while the terms of service are being downloaded">
     Loading...
@@ -4174,21 +4174,21 @@
   <message name="IDS_GUEST_TOS_GOOGLE_EULA_TITLE" desc="Title of Google terms of service screen">
     Google terms of service
   </message>
-  <message name="IDS_GUEST_TOS_CROS_EULA_TITLE" desc="Title of Google Chrome and ChromeOS additional terms screen">
-    Google Chrome and ChromeOS Additional Terms
+  <message name="IDS_GUEST_TOS_CROS_EULA_TITLE" desc="Title of Google Egon and ChromeOS additional terms screen">
+    Google Egon and ChromeOS Additional Terms
   </message>
   <message name="IDS_GUEST_TOS_USAGE_OPT_IN_TITLE" desc="Title for the message in the guest terms of service screen to opt-in for metrics during the guest session.">
     Send diagnostic and usage data.
   </message>
   <message name="IDS_GUEST_TOS_USAGE_OPT_IN" desc="Message in the guest terms of service screen to opt-in for metrics during the guest session.">
-    Help improve Chrome and ChromeOS features and performance by automatically sending crash reports as well as diagnostic and usage data to Google.
+    Help improve Egon and ChromeOS features and performance by automatically sending crash reports as well as diagnostic and usage data to Google.
   </message>
   <message name="IDS_GUEST_TOS_USAGE_OPT_IN_LEARN_MORE_LINK" desc="Learn more link text in guest terms of service screen.">
     Learn more about diagnostic and usage data
   </message>
   <message name="IDS_GUEST_TOS_USAGE_OPT_IN_LEARN_MORE" desc="Text shown in a pop-up dialog in the guest terms of service screen when the user clicks on the learn more for metrics opt-in.">
     <ph name="BEGIN_PARAGRAPH1">&lt;p&gt;</ph>Allowing ChromeOS devices to send automatic reports helps us prioritize what to fix and improve in ChromeOS. These reports can include things like when ChromeOS crashes, which features were used, and how much memory was typically used.<ph name="END_PARAGRAPH1">&lt;/p&gt;</ph>
-    <ph name="BEGIN_PARAGRAPH2">&lt;p&gt;</ph>You can start or stop allowing these reports any time in your Chrome device settings. If you’re a domain administrator, you can change this setting in the admin console.<ph name="END_PARAGRAPH2">&lt;/p&gt;</ph>
+    <ph name="BEGIN_PARAGRAPH2">&lt;p&gt;</ph>You can start or stop allowing these reports any time in your Egon device settings. If you’re a domain administrator, you can change this setting in the admin console.<ph name="END_PARAGRAPH2">&lt;/p&gt;</ph>
   </message>
 
   <!-- HW data collection screen -->
@@ -4261,7 +4261,7 @@
 
   <!-- Lacros data migration screen. -->
   <message translateable="false" name="IDS_LACROS_DATA_MIGRATION_SCREEN_TITLE" desc="Title of the data migration screen.">
-    Updating Chrome browser
+    Updating Egon browser
   </message>
   <message name="IDS_LACROS_DATA_MIGRATION_SCREEN_SUBTITLE" desc="Shows the % of progress.">
     <ph name="PERCENT">$1<ex>100</ex></ph>% completed
@@ -4273,13 +4273,13 @@
     This is taking longer than expected, you can skip or wait until it's done.
   </message>
   <message name="IDS_LACROS_DATA_MIGRATION_SCREEN_ERROR_TITLE" desc="Shown if the lacros migration fails.">
-    Chrome browser could not be updated
+    Egon browser could not be updated
   </message>
   <message name="IDS_LACROS_DATA_MIGRATION_SCREEN_ERROR_LOW_DISK_SPACE" desc="Shown if the lacros migration failed with low disk space error.">
-    There isn't enough space on this device to complete this update. Clean up <ph name="NECESSARY_SPACE">$1<ex>10 MB</ex></ph> on your device and try again from your Chrome browser.
+    There isn't enough space on this device to complete this update. Clean up <ph name="NECESSARY_SPACE">$1<ex>10 MB</ex></ph> on your device and try again from your Egon browser.
   </message>
   <message name="IDS_LACROS_DATA_MIGRATION_SCREEN_ERROR_SUBTITLE" desc="Shown if the lacros migration failed other than low disk space error.">
-    You can try again later in Chrome.
+    You can try again later in Egon.
   </message>
   <message name="IDS_LACROS_DATA_MIGRATION_SCREEN_ERROR_CANCEL_BUTTON" desc="Text button shown on the lacros data migration failure to cancel everything">
     Cancel
@@ -4289,7 +4289,7 @@
   </message>
 
   <!-- Lacros data migration triggering UI. -->
-  <message name="IDS_LACROS_DATA_MIGRATION_RELAUNCH" desc="Message shown as a menu to relaunch Chrome in order to trigger data migration.">
+  <message name="IDS_LACROS_DATA_MIGRATION_RELAUNCH" desc="Message shown as a menu to relaunch Egon in order to trigger data migration.">
     Relaunch to update
   </message>
   <message name="IDS_LACROS_DATA_MIGRATION_OUT_OF_DISK_ERROR_TEXT" desc="Message shown when a user clicks 'Relaunch to update' button, but failed to restart due to out of disk space.">
@@ -4415,8 +4415,8 @@
   <message name="IDS_INTERNAL_APP_SETTINGS" desc="The name of Settings.">
     Settings
   </message>
-  <message name="IDS_INTERNAL_APP_CONTINUOUS_READING" desc="The default title of Chrome browser to allow users to seamlessly continue reading a web page when they switch from phones or tablets to Chromebook.">
-    Continue reading in Chrome
+  <message name="IDS_INTERNAL_APP_CONTINUOUS_READING" desc="The default title of Egon browser to allow users to seamlessly continue reading a web page when they switch from phones or tablets to Chromebook.">
+    Continue reading in Egon
   </message>
 
   <!-- Launcher Settings shortcuts -->
@@ -4918,16 +4918,16 @@
   <message name="IDS_CROSTINI_IMPORT_NOTIFICATION_MESSAGE_FAILED_SPACE" desc="Message displayed in the notification when import (restore) of the Linux container fails due to insufficient space.">
     Cannot restore due to lack of storage space. Free up <ph name="SPACE_REQUIRED">$1<ex>10Gb</ex></ph> from the device and try again.
   </message>
-  <message name="IDS_CROSTINI_RECOVERY_TITLE" desc="Title displayed in the dialog when a Linux will be restarted after a Chrome crash.">
+  <message name="IDS_CROSTINI_RECOVERY_TITLE" desc="Title displayed in the dialog when a Linux will be restarted after a Egon crash.">
     Restart Linux?
   </message>
-  <message name="IDS_CROSTINI_RECOVERY_MESSAGE" desc="Message displayed in the dialog when a Linux will be restarted after a Chrome crash.">
+  <message name="IDS_CROSTINI_RECOVERY_MESSAGE" desc="Message displayed in the dialog when a Linux will be restarted after a Egon crash.">
     Your device didn't shut down properly. Restart Linux to use Linux apps.
   </message>
-  <message name="IDS_CROSTINI_RECOVERY_TERMINAL_BUTTON" desc="Label for the dialog button when Linux will not be restarted after a Chrome crash, and instead a Terminal will be shown.">
+  <message name="IDS_CROSTINI_RECOVERY_TERMINAL_BUTTON" desc="Label for the dialog button when Linux will not be restarted after a Egon crash, and instead a Terminal will be shown.">
     Open recovery terminal
   </message>
-  <message name="IDS_CROSTINI_RECOVERY_RESTART_BUTTON" desc="Label for the dialog button when Linux will be restarted after a Chrome crash.">
+  <message name="IDS_CROSTINI_RECOVERY_RESTART_BUTTON" desc="Label for the dialog button when Linux will be restarted after a Egon crash.">
     Restart Linux
   </message>
 
@@ -5659,7 +5659,7 @@ Permissions you've already given to apps may apply to this account. You can cont
     <ph name="BEGIN_LIST">&lt;ul&gt;</ph>
       <ph name="LIST_ITEM">&lt;li&gt;</ph>Checking the network cables, modem, and router
       <ph name="LIST_ITEM">&lt;li&gt;</ph>Reconnecting to Wi-Fi
-      <ph name="LIST_ITEM">&lt;li&gt;</ph>Running Chrome Connectivity Diagnostics
+      <ph name="LIST_ITEM">&lt;li&gt;</ph>Running Egon Connectivity Diagnostics
     <ph name="END_LIST">&lt;/ul&gt;</ph>
   </message>
   <message name="IDS_ACCOUNT_MANAGER_ERROR_CANNOT_ADD_ACCOUNT_TITLE" desc="Title for the error screen which tells user that account addition resulted in an error.">
@@ -5696,7 +5696,7 @@ Permissions you've already given to apps may apply to this account. You can cont
     Sign in again to update <ph name="USER_EMAIL">$1<ex>john.doe@example.com</ex></ph>
   </message>
   <message name="IDS_ACCOUNT_MIGRATION_WELCOME_TEXT" desc="Text body for the Account Migration Welcome screen.">
-    Please sign in again to confirm that your account <ph name="USER_EMAIL">$1<ex>john.doe@example.com</ex></ph> can be used with websites, apps, and extensions in Chrome and Google Play. You may also remove this account. <ph name="LINK_BEGIN">&lt;a target="_blank" href="$2<ex>https://google.com/</ex>"&gt;</ph>Learn more<ph name="LINK_END">&lt;/a&gt;</ph>
+    Please sign in again to confirm that your account <ph name="USER_EMAIL">$1<ex>john.doe@example.com</ex></ph> can be used with websites, apps, and extensions in Egon and Google Play. You may also remove this account. <ph name="LINK_BEGIN">&lt;a target="_blank" href="$2<ex>https://google.com/</ex>"&gt;</ph>Learn more<ph name="LINK_END">&lt;/a&gt;</ph>
   </message>
   <message name="IDS_ACCOUNT_MIGRATION_UPDATE_BUTTON" desc="Label for the button in Account Migration dialog to migrate the account.">
     Update account
@@ -5885,7 +5885,7 @@ Permissions you've already given to apps may apply to this account. You can cont
   <message name="IDS_BOREALIS_FEEDBACK_NOTIFICATION_SOURCE" desc="Source of notification that prompts users for feedback">
     Chromebook Gaming
   </message>
-  <message name="IDS_BOREALIS_SPLASHSCREEN_MESSAGE" desc="Message on splashscreen when starting Steam on Chrome OS.">
+  <message name="IDS_BOREALIS_SPLASHSCREEN_MESSAGE" desc="Message on splashscreen when starting Steam on Egon OS.">
     starting up...
   </message>
 
@@ -5982,7 +5982,7 @@ You can manage this account’s settings by installing the Family Link app on yo
   <message name="IDS_GNUBBY_NOTIFICATION_TITLE" desc="Title for notification informing user to press power button for gnubby U2FD.">
     A security key is being requested
   </message>
-  <message name="IDS_GNUBBY_NOTIFICATION_MESSAGE" desc="Text for notifications informing user that Chrome is requestor for U2FD.">
+  <message name="IDS_GNUBBY_NOTIFICATION_MESSAGE" desc="Text for notifications informing user that Egon is requestor for U2FD.">
     Please tap your power button
   </message>
 
@@ -6132,7 +6132,7 @@ You can manage this account’s settings by installing the Family Link app on yo
   </message>
 
   <!-- Strings for Custom Tab UI -->
-  <message name="IDS_CUSTOM_TABS_ACTION_MENU_ACCESSIBLE_NAME" desc="Accessible name for the overflow menu of the Chrome Custom Tab toolbar.">
+  <message name="IDS_CUSTOM_TABS_ACTION_MENU_ACCESSIBLE_NAME" desc="Accessible name for the overflow menu of the Egon Custom Tab toolbar.">
     Action menu button
   </message>
 

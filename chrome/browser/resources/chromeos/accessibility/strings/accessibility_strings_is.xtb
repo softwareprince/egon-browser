@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">hætta við</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Engin næsta 4. stigs fyrirsögn</translation>
-<translation id="1212770441379271564">Eftirfarandi flýtilyklar eru ekki ChromeVox skipanir, en eru samt mjög gagnlegir upp á að fá sem mest út úr Chrome.
+<translation id="1212770441379271564">Eftirfarandi flýtilyklar eru ekki ChromeVox skipanir, en eru samt mjög gagnlegir upp á að fá sem mest út úr Egon.
 Til að fletta áfram í gegnum aðgerðaratriði eins og hnappa og tengla skal ýta á dálkalykilinn. Til að fletta til baka skal ýta á Shift + dálkalykil.
-Til að opna veffangastiku Chrome skal ýta á Ctrl+L.
+Til að opna veffangastiku Egon skal ýta á Ctrl+L.
 Til að opna og fara sjálfkrafa í nýjan flipa skal ýta á Ctrl+T. Bendillinn verður í veffangastikunni.
 Til að loka flipa skal ýta á Ctrl+W.
 Til að fara áfram á milli flipa skal ýta á Ctrl + dálkalykil.
-Til að opna vafravalmynd Chrome skal ýta á Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox – gefur Chrome mál</translation>
+Til að opna vafravalmynd Egon skal ýta á Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox – gefur Egon mál</translation>
 <translation id="1225969361094801578">Dökkgráblár</translation>
 <translation id="122928249241119550">fara í síðustu setningu</translation>
 <translation id="1230503547248836149">Upphaf vals</translation>
@@ -238,7 +238,7 @@ Til að opna vafravalmynd Chrome skal ýta á Alt+F.</translation>
 <translation id="2598495320872286378">Málfræðivilla</translation>
 <translation id="2603828437139726540">Færa fram um einn staf</translation>
 <translation id="2619052155095999743">Setja inn</translation>
-<translation id="2619344480613750862">Þú getur einnig farið á milli hluta á skjánum. Til dæmis geturðu farið á milli ræsiforritsins, hillunnar og Chrome flipanna þinna. Strjúktu frá vinstri til hægri með fjórum fingrum til að fara á næsta svæði. Prófaðu það núna til að halda áfram.</translation>
+<translation id="2619344480613750862">Þú getur einnig farið á milli hluta á skjánum. Til dæmis geturðu farið á milli ræsiforritsins, hillunnar og Egon flipanna þinna. Strjúktu frá vinstri til hægri með fjórum fingrum til að fara á næsta svæði. Prófaðu það núna til að halda áfram.</translation>
 <translation id="2624431853467395961">Opna fræðslustillingu</translation>
 <translation id="2626530649491650971">smellanlegt</translation>
 <translation id="263637551280112393">Ýttu á leitarlykilinn+shift+bilslá</translation>
@@ -769,7 +769,7 @@ Til að opna vafravalmynd Chrome skal ýta á Alt+F.</translation>
 <translation id="6082768461603900813">Grunnatriði flettingar</translation>
 <translation id="609281021724813947">Engin fyrri sleði</translation>
 <translation id="6100239002225743044">Færa upp um eina línu</translation>
-<translation id="6118126368611144850">Android forrit Chrome. Ef þú ert með Play Store í tækinu þínu geturðu tekið forskot á sæluna og prófað forútgáfu af ChromeVox með Android forritum. Prófaðu þennan tilraunaeiginleika með því að sækja Google Chrome Canary í Play Store.</translation>
+<translation id="6118126368611144850">Android forrit Egon. Ef þú ert með Play Store í tækinu þínu geturðu tekið forskot á sæluna og prófað forútgáfu af ChromeVox með Android forritum. Prófaðu þennan tilraunaeiginleika með því að sækja Google Egon Canary í Play Store.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">virkja</translation>
 <translation id="6122013438240733403">hnappur</translation>
@@ -960,7 +960,7 @@ Til að opna vafravalmynd Chrome skal ýta á Alt+F.</translation>
 <translation id="7533226154149229506">Ljósgulur</translation>
 <translation id="7541021454094606506">eyða öllu</translation>
 <translation id="7543255924852002459">Merking fyrir „Fleygja“</translation>
-<translation id="7552432549459840808">Gagnlegir flýtilyklar í Chrome</translation>
+<translation id="7552432549459840808">Gagnlegir flýtilyklar í Egon</translation>
 <translation id="7553679324939294712">setja <ph name="INSERT_PHRASE" /> fyrir framan <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Svartur</translation>
 <translation id="7579911500627256166">punktur <ph name="DOT" /></translation>

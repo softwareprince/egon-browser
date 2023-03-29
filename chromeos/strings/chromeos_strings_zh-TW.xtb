@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">執行診斷的應用程式</translation>
 <translation id="175763766237925754">良好 (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">驗證類型</translation>
 <translation id="1782199038061388045">翻譯</translation>
 <translation id="1792647875738159689">正在取消掃描</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">定義</translation>
 <translation id="3488065109653206955">部分已啟用</translation>
 <translation id="3510890413042482857">傳送<ph name="BEGIN_LINK1" />效能追蹤資料<ph name="END_LINK1" /></translation>
-<translation id="3517001332549868749">Chrome OS 更新</translation>
+<translation id="3517001332549868749">Egon OS 更新</translation>
 <translation id="3527036260304016759">失敗 - 不明的錯誤</translation>
 <translation id="3532980081107202182">大約還剩 <ph name="MIN_REMAINING" /> 分鐘</translation>
 <translation id="3557205324756024651">本機識別 (選用)</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">裝置類型不明。</translation>
 <translation id="3966286471246132217">如要獲得更準確的結果，請關閉所有應用程式，直到測試完成為止。</translation>
 <translation id="3967822245660637423">下載完成</translation>
-<translation id="3969602104473960991">已更新 Chrome OS 密碼</translation>
+<translation id="3969602104473960991">已更新 Egon OS 密碼</translation>
 <translation id="397105322502079400">計算中…</translation>
 <translation id="39823212440917567">系統會移除 <ph name="NUMBER_OF_DAYS" /> 天前的列印工作</translation>
 <translation id="3993704782688964914">你的「<ph name="DEVICE_NAME" />」目前是最新版本</translation>
@@ -530,7 +530,7 @@
 <translation id="6113701710518389813">向上鍵</translation>
 <translation id="6117895505466548728">「<ph name="TITLE" />」和另外 <ph name="NUMBER" /> 本相簿</translation>
 <translation id="6122191549521593678">線上</translation>
-<translation id="6122277663991249694">Chrome OS 輸入法服務</translation>
+<translation id="6122277663991249694">Egon OS 輸入法服務</translation>
 <translation id="6137767437444130246">使用者憑證</translation>
 <translation id="6146993107019042706">如要完成變更，請輸入你的新密碼</translation>
 <translation id="6147514244879357420">PNG</translation>
@@ -757,7 +757,7 @@
 <translation id="8420955526972171689">針對硬體問題進行測試及疑難排解</translation>
 <translation id="8422748173858722634">IMEI</translation>
 <translation id="8428073762635678092">內部鍵盤</translation>
-<translation id="8431300646573772016">Chrome OS 新功能</translation>
+<translation id="8431300646573772016">Egon OS 新功能</translation>
 <translation id="843568408673868420">網際網路連線</translation>
 <translation id="844521431886043384">未設定 DNS</translation>
 <translation id="8456761643544401578">自動深色模式</translation>

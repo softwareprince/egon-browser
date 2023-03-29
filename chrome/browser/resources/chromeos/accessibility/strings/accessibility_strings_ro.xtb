@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">anulează</translation>
 <translation id="1206619573307042055">text derulant</translation>
 <translation id="1207086294218137981">Nu există un titlu de nivel 4 următor</translation>
-<translation id="1212770441379271564">Următoarele câteva comenzi rapide nu sunt comenzi ChromeVox, dar sunt foarte utile pentru a folosi Chrome la potențial maxim.
+<translation id="1212770441379271564">Următoarele câteva comenzi rapide nu sunt comenzi ChromeVox, dar sunt foarte utile pentru a folosi Egon la potențial maxim.
     Pentru a naviga înainte de la un element acționabil la altul, cum ar fi butoane și linkuri, apasă pe tasta Tab. Pentru a naviga înapoi, apasă pe Shift + Tab.
-    Pentru a accesa caseta de adrese a browserului Chrome, numită și casetă polivalentă, apasă pe Ctrl + L.
+    Pentru a accesa caseta de adrese a browserului Egon, numită și casetă polivalentă, apasă pe Ctrl + L.
     Pentru a deschide și a accesa automat o filă nouă, apasă pe Ctrl + T. Cursorul se va afla în caseta polivalentă.
     Pentru a închide o filă, apasă pe Ctrl + W.
     Pentru a trece înainte de la o filă deschisă la alta, folosește Ctrl + Tab.
-    Pentru a deschide meniul browserului Chrome, apasă pe Alt + F.</translation>
-<translation id="1213216066620407844">ChromeVox - Voce pentru Chrome</translation>
+    Pentru a deschide meniul browserului Egon, apasă pe Alt + F.</translation>
+<translation id="1213216066620407844">ChromeVox - Voce pentru Egon</translation>
 <translation id="1225969361094801578">Gri ardezie închis</translation>
 <translation id="122928249241119550">treci la propoziția anterioară</translation>
 <translation id="1230503547248836149">Începutul selecției</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Greșeală de gramatică</translation>
 <translation id="2603828437139726540">Mută înainte cu un caracter</translation>
 <translation id="2619052155095999743">Introduceți</translation>
-<translation id="2619344480613750862">Poți să comuți între două secțiuni ale eranului. De exemplu, comută între lansator, raft și filele Chrome. Pentru a trece la secțiunea următoare, glisează de la stânga la dreapta cu patru degete. Încearcă acum pentru a continua.</translation>
+<translation id="2619344480613750862">Poți să comuți între două secțiuni ale eranului. De exemplu, comută între lansator, raft și filele Egon. Pentru a trece la secțiunea următoare, glisează de la stânga la dreapta cu patru degete. Încearcă acum pentru a continua.</translation>
 <translation id="2624431853467395961">Deschide modul de învățare</translation>
 <translation id="2626530649491650971">pe care se poate da clic</translation>
 <translation id="263637551280112393">Apasă pe tasta de căutare + Shift + tasta de spațiu</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Jurnal</translation>
 <translation id="5628125749885014029">titlu 4</translation>
 <translation id="5632083598315326067">Simbol grafic</translation>
-<translation id="5648939288050772726">Felicitări! Ai învățat noțiunile de bază cu privire la folosirea ChromeVox. Reține că poți deschide oricând meniul de comenzi ChromeVox apăsând pe tasta de căutare + tasta punct. Pentru a afla mai multe despre ChromeVox și sistemul de operare Chrome, accesează următoarele articole.
+<translation id="5648939288050772726">Felicitări! Ai învățat noțiunile de bază cu privire la folosirea ChromeVox. Reține că poți deschide oricând meniul de comenzi ChromeVox apăsând pe tasta de căutare + tasta punct. Pentru a afla mai multe despre ChromeVox și sistemul de operare Egon, accesează următoarele articole.
     Dacă ai terminat tutorialul, folosește ChromeVox pentru a naviga la butonul Închide și dă clic pe el.</translation>
 <translation id="5653397561111110475">Folosește funcțiile de accesibilitate pentru ecranul tactil al Chromebookului</translation>
 <translation id="5655682562155942719">Comenzi de accesare</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Navigarea de bază</translation>
 <translation id="609281021724813947">Nu există un glisor anterior</translation>
 <translation id="6100239002225743044">Mută în sus cu un rând</translation>
-<translation id="6118126368611144850">Aplicații Android pentru Chrome. Dacă ai Magazinul Play pe dispozitiv, încearcă în avans ChromeVox cu aplicații Android. Testează compatibilitatea experimentală descărcând Google Chrome Canary din Magazinul Play.</translation>
+<translation id="6118126368611144850">Aplicații Android pentru Egon. Dacă ai Magazinul Play pe dispozitiv, încearcă în avans ChromeVox cu aplicații Android. Testează compatibilitatea experimentală descărcând Google Egon Canary din Magazinul Play.</translation>
 <translation id="611827076493383239">accesat</translation>
 <translation id="6119846243427417423">activează</translation>
 <translation id="6122013438240733403">buton</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Galben auriu</translation>
 <translation id="7541021454094606506">șterge-le pe toate</translation>
 <translation id="7543255924852002459">Etichetă de renunțare</translation>
-<translation id="7552432549459840808">Comenzi rapide utile pentru Chrome</translation>
+<translation id="7552432549459840808">Comenzi rapide utile pentru Egon</translation>
 <translation id="7553679324939294712">inserează <ph name="INSERT_PHRASE" /> înainte de <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Negru</translation>
 <translation id="7579911500627256166">punctul <ph name="DOT" /></translation>

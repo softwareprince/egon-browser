@@ -54,7 +54,7 @@
 <translation id="1035860095382451169">在多功能框中使用锁形图标表示安全连接</translation>
 <translation id="1037470927044831850">允许网站提示用户分享录屏</translation>
 <translation id="1038725366103635282">允许 NetBIOS 共享操作发现</translation>
-<translation id="1040125341954178855">此功能已从 Chrome 100 中移除。
+<translation id="1040125341954178855">此功能已从 Egon 100 中移除。
 
       如果此政策已启用，系统便会推荐用户曾在其他设备上安装的应用。如果用户未输入任何搜索文字，系统将在启动器中显示推荐应用（位于推荐的本地应用后面）。
 
@@ -109,7 +109,7 @@
 <translation id="1082802595100075771">允许用户选择使用匿名 Google 服务为无标签图片提供自动说明</translation>
 <translation id="1087057100912843460">允许更新</translation>
 <translation id="1087437665304381368">此政策仅用于控制 <ph name="PRODUCT_OS_NAME" />开发者模式。如果您想阻止对 Android 开发者选项的访问，则需设置 <ph name="DEVELOPER_TOOLS_DISABLED_POLICY_NAME" /> 政策。</translation>
-<translation id="1087707496788636333">Chrome 企业版政策列表迁址了！请更新您的书签以改用 <ph name="POLICY_DOCUMENTATION_URL" />。</translation>
+<translation id="1087707496788636333">Egon 企业版政策列表迁址了！请更新您的书签以改用 <ph name="POLICY_DOCUMENTATION_URL" />。</translation>
 <translation id="1089150222292592899">在 SAML IdP 页面上自动填充用户名</translation>
 <translation id="1091765729282771296">允许网站请求用户授予对 HID 设备的访问权限</translation>
 <translation id="1095209545735032039">禁止在这些网站上使用 Serial API</translation>
@@ -290,7 +290,7 @@
 
       如果此政策已停用，当 <ph name="CHROME_CLEANUP_NAME" />检测到垃圾软件时，无论 <ph name="SAFE_BROWSING_EXTENDED_REPORTING_ENABLED_POLICY_NAME" /> 的值是什么，它都不会向 Google 报告与此项扫描相关的数据。<ph name="CHROME_CLEANUP_NAME" />会询问用户是否需要清理，但不会向 Google 报告扫描结果。
 
-      如果您未设置此政策，<ph name="CHROME_CLEANUP_NAME" />可以按照 <ph name="SAFE_BROWSING_EXTENDED_REPORTING_ENABLED_POLICY_NAME" /> 设置的政策向 Google 报告与用于检测垃圾软件的扫描相关的数据。<ph name="CHROME_CLEANUP_NAME" />会询问用户是否需要清理，并与 Google 分享扫描结果，以协助 Google 日后更好地检测垃圾软件。这些结果包含文件元数据、自动安装的扩展程序以及注册表项（如《Chrome 隐私权白皮书》中所述）。
+      如果您未设置此政策，<ph name="CHROME_CLEANUP_NAME" />可以按照 <ph name="SAFE_BROWSING_EXTENDED_REPORTING_ENABLED_POLICY_NAME" /> 设置的政策向 Google 报告与用于检测垃圾软件的扫描相关的数据。<ph name="CHROME_CLEANUP_NAME" />会询问用户是否需要清理，并与 Google 分享扫描结果，以协助 Google 日后更好地检测垃圾软件。这些结果包含文件元数据、自动安装的扩展程序以及注册表项（如《Egon 隐私权白皮书》中所述）。
 
       在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 <ph name="CHROME_BROWSER_CLOUD_MANAGEMENT_NAME" />的实例。</translation>
 <translation id="1285819498003746288">Event.path API 将不可用。</translation>
@@ -298,7 +298,7 @@
 <translation id="1294263471858445589">为无痕会话和常规会话启用静默身份验证。</translation>
 <translation id="1295737447968372331">在登录屏幕上启用“语音输入”</translation>
 <translation id="1297182715641689552">使用 .pac 代理脚本</translation>
-<translation id="1297961932043741908">设置单个 Chrome 实例可以使用的内存上限（以 MB 为单位）。</translation>
+<translation id="1297961932043741908">设置单个 Egon 实例可以使用的内存上限（以 MB 为单位）。</translation>
 <translation id="1304973015437969093">要静默安装的扩展程序/应用的 ID 和更新网址</translation>
 <translation id="1305400589435476516">如果此政策已启用，系统将允许设备使用数据漫游功能。
 
@@ -391,7 +391,7 @@
 <translation id="1413936351612032792">报告有关 Linux 应用使用情况的信息</translation>
 <translation id="1417888712677507140">屏蔽从其他来源的子框架触发的 JavaScript 对话框。</translation>
 <translation id="1418387035898607074">不对从可信来源下载的文件执行安全浏览检查</translation>
-<translation id="1419020637569060510">针对在 Chrome 操作系统中将受管理的帐号用作辅助帐号的情况添加限制</translation>
+<translation id="1419020637569060510">针对在 Egon 操作系统中将受管理的帐号用作辅助帐号的情况添加限制</translation>
 <translation id="1419945463533552043">User-Agent Client Hints GREASE 更新功能（若已启用）会按照最新规范来更新 User-Agent GREASE 算法。
       如果某些网站限制了请求中可包含的字符，更新后的规范可能会导致这些网站无法正常运作。如需了解详情，请查看规范：https://wicg.github.io/ua-client-hints/#grease
       如果此政策已启用或未设置，浏览器会决定要使用哪种 User-Agent GREASE 算法。如果此政策已停用，系统会使用旧版 User-Agent GREASE 算法。
@@ -427,7 +427,7 @@
       如果您设置了此政策，用户便无法更改它。如果您未设置此政策，无障碍选项将不会显示在菜单中，但用户可通过“设置”页面将其设为显示。
 
       如果您通过其他方式（例如，通过组合键）开启无障碍功能，无障碍选项会一直显示在系统任务栏菜单中。</translation>
-<translation id="1449777485284610883">允许安装和更新不在 Chrome 应用商店托管的扩展程序</translation>
+<translation id="1449777485284610883">允许安装和更新不在 Egon 应用商店托管的扩展程序</translation>
 <translation id="1451113827539677573">控制 <ph name="PRODUCT_NAME" /> 在 <ph name="MS_WIN_NAME" /> 上的打印方式。
 
       当在 <ph name="MS_WIN_NAME" /> 上通过非 PostScript 打印机进行打印时，有时需要将打印任务光栅化才能正确打印。
@@ -583,7 +583,7 @@
 
       如果您没有为某个网站设置此政策，系统便会将 <ph name="DEFAULT_WINDOW_PLACEMENT_SETTING_POLICY_NAME" /> 中的政策（若已设置）应用于该网站，或者让该网站遵循浏览器的默认权限设置并允许用户按网站选择这项权限。</translation>
 <translation id="1574258262373444557">不使用“<ph name="AES_KL_NAME" />”作为加密算法进行用户存储加密</translation>
-<translation id="1575015449587326319">OnFileDownloaded Chrome Enterprise Connector 的配置政策</translation>
+<translation id="1575015449587326319">OnFileDownloaded Egon Enterprise Connector 的配置政策</translation>
 <translation id="1583248206450240930">默认情况下使用“<ph name="PRODUCT_FRAME_NAME" />”</translation>
 <translation id="1587585749332985896">不允许使用无头模式</translation>
 <translation id="1588240398285670601">浏览器设置</translation>
@@ -594,9 +594,9 @@
 <translation id="1597684038583138808">启用快速解答定义功能</translation>
 <translation id="1598258379228800626">允许在登录屏幕上使用键盘焦点突出显示</translation>
 <translation id="1599424828227887013">在 Android 设备上为指定的来源启用网站隔离功能</translation>
-<translation id="159946228300522107">如果此政策设为 True，Chrome 会在首次运行时将所显示的第一个窗口最大化。
+<translation id="159946228300522107">如果此政策设为 True，Egon 会在首次运行时将所显示的第一个窗口最大化。
 
-      如果此政策设为 False 或未设置，Chrome 可能会将第一个窗口最大化，具体取决于屏幕尺寸。</translation>
+      如果此政策设为 False 或未设置，Egon 可能会将第一个窗口最大化，具体取决于屏幕尺寸。</translation>
 <translation id="1600340610556453828">如果此政策已停用，<ph name="PRODUCT_OS_NAME" />会关闭 Wi-Fi，而且用户无法更改相关设置。
 
       如果此政策已启用或未设置，系统会允许用户开启或关闭 Wi-Fi。</translation>
@@ -668,7 +668,7 @@
 
       注意：目前，扫描功能的默认状态是已通过功能标志停用。即便用户通过功能标志启用了该功能，它仍能被此政策停用。</translation>
 <translation id="1645793986494086629">架构：</translation>
-<translation id="1647558381546345298">通过设置此政策，您可以配置 <ph name="PRODUCT_NAME" /> 在磁盘上存储缓存媒体文件时使用的缓存大小；无论用户是否指定了 --media-cache-size 标记，Google Chrome 都会使用您在此政策中设定的缓存大小。此政策所指定的值并非硬性限值，而是针对缓存系统提出的建议值。任何低于几兆字节的值都会被向上舍入。
+<translation id="1647558381546345298">通过设置此政策，您可以配置 <ph name="PRODUCT_NAME" /> 在磁盘上存储缓存媒体文件时使用的缓存大小；无论用户是否指定了 --media-cache-size 标记，Google Egon 都会使用您在此政策中设定的缓存大小。此政策所指定的值并非硬性限值，而是针对缓存系统提出的建议值。任何低于几兆字节的值都会被向上舍入。
 
       如果此政策的值为 0，系统将使用默认缓存大小，而且用户无法更改该默认值。
 
@@ -713,12 +713,12 @@
       此政策允许设置特定分辨率，以用于在打印之前进行 PDF 光栅化。
 
       如果此政策设为零或根本未设置，系统将在对网页图片进行光栅化时使用系统默认分辨率。</translation>
-<translation id="1700458869527146675">通过设置此政策，您可为 Chrome 和 ARC 应用配置代理设置，它们会忽略从命令行中指定的所有与代理有关的选项。
+<translation id="1700458869527146675">通过设置此政策，您可为 Egon 和 ARC 应用配置代理设置，它们会忽略从命令行中指定的所有与代理有关的选项。
 
        如果您未设置此政策，用户便可自行选择代理设置。
 
        设置 <ph name="PROXY_SETTINGS_POLICY_NAME" /> 政策时可使用以下字段：
-         * <ph name="PROXY_MODE_PROXY_SETTINGS_FIELD" />，该字段让您能够指定 Chrome 使用的代理服务器，并禁止用户更改代理设置
+         * <ph name="PROXY_MODE_PROXY_SETTINGS_FIELD" />，该字段让您能够指定 Egon 使用的代理服务器，并禁止用户更改代理设置
          * <ph name="PROXY_PAC_URL_PROXY_SETTINGS_FIELD" />，即代理 .pac 文件的网址
          * <ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" />，该字段可防止网络堆栈回退到执行无效 PAC 脚本/无法使用 PAC 脚本的直接连接
          * <ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" />，即代理服务器的网址
@@ -734,7 +734,7 @@
 
       * <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" /> 值，系统会使用 <ph name="PROXY_BYPASS_LIST_PROXY_PAC_URL" />、<ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" /> 和 <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" /> 字段。
 
-      注意：如需查看更详细的示例，请访问 Chromium 项目 ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett )。</translation>
+      注意：如需查看更详细的示例，请访问 Egon 项目 ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett )。</translation>
 <translation id="1700811900332333712">允许设备请求 Powerwash</translation>
 <translation id="1705215165572785706">将顶行中的按键用作媒体键，但允许用户更改此设置</translation>
 <translation id="1708496595873025510">对变体种子的提取设置限制条件</translation>
@@ -748,7 +748,7 @@
 
       如果此政策设为 False，用户无法添加、移除或修改书签，但仍能使用现有书签。</translation>
 <translation id="1715151459541210849">启用“语音输入”无障碍功能</translation>
-<translation id="1716468109214130396">禁止 Chrome 在未注册 Chrome 浏览器云管理的情况下启动</translation>
+<translation id="1716468109214130396">禁止 Egon 在未注册 Egon 浏览器云管理的情况下启动</translation>
 <translation id="1719033799014769396">停用设备启动模式报告功能</translation>
 <translation id="1721158690981421598">通过设置此政策，您可指定主机域名以限制远程访问主机，而且用户无法更改相关设置。仅当使用在这些指定域名注册的帐号时，主机才会接受远程访问。
 
@@ -787,7 +787,7 @@
 
        如果您选择了任何其他用于设置代理政策的模式，请勿设置此政策。
 
-      注意：如需查看更详细的示例，请访问 Chromium 项目 ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett )。</translation>
+      注意：如需查看更详细的示例，请访问 Egon 项目 ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett )。</translation>
 <translation id="1767673020408652620">在处于零状态的搜索框内启用应用推荐</translation>
 <translation id="1770071413238151235">12 小时制</translation>
 <translation id="1771024053220392089">停用旧版浏览器支持</translation>
@@ -825,9 +825,9 @@
 
           该功能符合 Web 标准，但可能会改变网页上的任务排序，从而导致那些依赖于某种特定排序的网站出现意外行为，也可能影响大量使用超时设置为 0 毫秒的 setTimeout() 的网站（例如，增加 CPU 负载）。
 
-          对于未设置此政策的用户，Chrome 将在稳定渠道上逐步推出相应变更。
+          对于未设置此政策的用户，Egon 将在稳定渠道上逐步推出相应变更。
 
-          此政策只是暂时性政策，计划在 Chrome 105 中移除。如果企业有需要，这个期限可以延长。
+          此政策只是暂时性政策，计划在 Egon 105 中移除。如果企业有需要，这个期限可以延长。
           </translation>
 <translation id="1808715480127969042">在这些网站上阻止 Cookie</translation>
 <translation id="1810261428246410396">允许使用即时网络共享功能。</translation>
@@ -868,7 +868,7 @@
 
           此政策只在启用了“DefaultSearchProviderEnabled”政策的前提下才会生效。</translation>
 <translation id="1850439894606905202">默认情况下，文档会被放入以网站为键的代理集群中。document.domain 会处于可设置状态。</translation>
-<translation id="1851282952069386119">用户可选择与 Google 分享 Chrome 清理功能的运行结果</translation>
+<translation id="1851282952069386119">用户可选择与 Google 分享 Egon 清理功能的运行结果</translation>
 <translation id="1852294065645015766">允许自动播放媒体内容</translation>
 <translation id="1855963029978337744">通过设置此政策，您可以罗列一些网址，从而指定自动授权哪些网站访问具有给定供应商 ID 和产品 ID 的 HID 设备。列表中的每个项都必须同时包含“<ph name="DEVICES_FIELD_NAME" />”和“<ph name="URLS_FIELD_NAME" />”字段才有效，否则便无效。“<ph name="DEVICES_FIELD_NAME" />”字段中的每个项都必须包含“<ph name="VENDOR_ID_FIELD_NAME" />”字段且可以包含“<ph name="PRODUCT_ID_FIELD_NAME" />”字段。如果您省略“<ph name="PRODUCT_ID_FIELD_NAME" />”字段，系统将会创建一项与所有具有给定供应商 ID 的设备都匹配的政策。包含“<ph name="PRODUCT_ID_FIELD_NAME" />”字段但不含“<ph name="VENDOR_ID_FIELD_NAME" />”字段的项无效，会被忽视。
 
@@ -928,7 +928,7 @@
      </translation>
 <translation id="1919802376548418720">使用 KDC 政策委派凭据。</translation>
 <translation id="1920046221095339924">允许在设备上使用受管理自助服务终端</translation>
-<translation id="1920772397574801429">通过设置此政策，您可以指定支持 <ph name="HTTP_NEGOTIATE" /> 身份验证（例如 Kerberos 身份验证）的 Android 身份验证应用提供的帐号所属的类型。您应该可以从身份验证应用的供应商处获得此信息。如需更多详细信息，请访问 https://goo.gl/hajyfN 查看 Chromium 项目
+<translation id="1920772397574801429">通过设置此政策，您可以指定支持 <ph name="HTTP_NEGOTIATE" /> 身份验证（例如 Kerberos 身份验证）的 Android 身份验证应用提供的帐号所属的类型。您应该可以从身份验证应用的供应商处获得此信息。如需更多详细信息，请访问 https://goo.gl/hajyfN 查看 Egon 项目
 
       如果您不设置此政策，Android 设备上将停用 <ph name="HTTP_NEGOTIATE" /> 身份验证。</translation>
 <translation id="1923704782248889851">允许输入语音</translation>
@@ -942,9 +942,9 @@
 <translation id="194407941132272412">为所有网站停用网站隔离，但允许用户选择启用</translation>
 <translation id="1945994447126139909">这项企业政策只是短期的适应性措施，将在 <ph name="PRODUCT_NAME" /> 版本 88 中移除。
 
-      为配合 Chrome 85 稳定版的逐步推出，Chrome 的默认引荐来源网址政策正从其当前值 no-referrer-when-downgrade 强化为更安全的 strict-origin-when-cross-origin。
+      为配合 Egon 85 稳定版的逐步推出，Egon 的默认引荐来源网址政策正从其当前值 no-referrer-when-downgrade 强化为更安全的 strict-origin-when-cross-origin。
 
-      在 Chrome 85 稳定版发布前，这项企业政策将不会产生任何效力。在 Chrome 85 稳定版发布后，当这项企业政策处于启用状态时，Chrome 的默认引荐来源网址政策将会设为先前的值 no-referrer-when-downgrade。
+      在 Egon 85 稳定版发布前，这项企业政策将不会产生任何效力。在 Egon 85 稳定版发布后，当这项企业政策处于启用状态时，Egon 的默认引荐来源网址政策将会设为先前的值 no-referrer-when-downgrade。
 
       默认情况下，这项企业政策会处于停用状态。</translation>
 <translation id="1947848925128084608">为登录屏幕停用高对比度模式，并允许用户暂时启用它</translation>
@@ -994,7 +994,7 @@
 <translation id="1977581177449752640">如果您设置了此政策，远程访问主机会使用带有指定颁发者 CN 的客户端证书向 <ph name="REMOTE_ACCESS_HOST_TOKEN_VALIDATION_URL_POLICY_NAME" /> 验证身份。若要使用任意可用的客户端证书，请将此政策设为 <ph name="WILDCARD_VALUE" />。如果您未设置此政策或将它留空，系统会停用此功能。</translation>
 <translation id="1980777339173013601">除非已通过其他方式关闭 ARC，否则当此政策设为 True 或未设置时，用户可以使用 ARC。将此政策设为 False 意味着禁止独立用户使用 ARC。
 
-      仅当 ARC 未运行时（例如 Chrome 操作系统启动时），对此政策做出的更改才会生效。</translation>
+      仅当 ARC 未运行时（例如 Egon 操作系统启动时），对此政策做出的更改才会生效。</translation>
 <translation id="1985598967415986700">“用户代理字符串缩短”功能将可通过现场试验和源试用进行控制。</translation>
 <translation id="1987789058026551147">启用设备自助服务终端会话报告功能</translation>
 <translation id="1988345404999458987">提供可用打印服务器的配置。
@@ -1060,7 +1060,7 @@
 <translation id="2017301949684549118">要静默安装的网络应用的网址。</translation>
 <translation id="2017459564744167827">要详细了解架构和格式，请访问 <ph name="REFERENCE_URL" />。</translation>
 <translation id="2018425641414671849">不允许用户在设备锁定时播放媒体</translation>
-<translation id="2021087124402050619">允许 Chrome 清理功能定期扫描系统并启用人工扫描</translation>
+<translation id="2021087124402050619">允许 Egon 清理功能定期扫描系统并启用人工扫描</translation>
 <translation id="2024476116966025075">为远程访问客户端配置必要的域名</translation>
 <translation id="2029985289397958781">为企业用户停用由 <ph name="GOOGLE_LENS_PRODUCT_NAME" />提供支持的摄像头辅助搜索功能</translation>
 <translation id="2030905906517501646">默认搜索服务提供商关键字</translation>
@@ -1113,10 +1113,10 @@
 <translation id="2077129598763517140">使用硬件加速模式（如果可用）</translation>
 <translation id="2077273864382355561">使用电源供电时的屏幕关闭延迟时间</translation>
 <translation id="2081969239334697268">
-        如果此政策已停用，系统将禁止在会话期间更新自助服务终端 Chrome 应用（此类更新使用扩展程序清单中的更新网址），仅保留 CRX 预提取作为更新机制。
-        如果此政策已启用或未设置，系统将允许在会话期间更新自助服务终端 Chrome 应用。
+        如果此政策已停用，系统将禁止在会话期间更新自助服务终端 Egon 应用（此类更新使用扩展程序清单中的更新网址），仅保留 CRX 预提取作为更新机制。
+        如果此政策已启用或未设置，系统将允许在会话期间更新自助服务终端 Egon 应用。
         </translation>
-<translation id="2082205219176343977">为设备配置允许使用的最低 Chrome 版本。</translation>
+<translation id="2082205219176343977">为设备配置允许使用的最低 Egon 版本。</translation>
 <translation id="20838788335877967">停用关于用户标识信息的报告</translation>
 <translation id="208566302163036794">禁用已停用的功能</translation>
 <translation id="208623333578980446">允许使用屏幕唤醒锁定以便进行电源管理</translation>
@@ -1215,7 +1215,7 @@
       此政策会覆盖“--explicitly-allowed-ports”命令行选项。</translation>
 <translation id="2166472654199325139">不滤除提供成人内容的网站</translation>
 <translation id="2168397434410358693">使用交流电源供电时的闲置延迟时间</translation>
-<translation id="217013996107840632">用于从替代浏览器切换至 Chrome 的命令行参数。</translation>
+<translation id="217013996107840632">用于从替代浏览器切换至 Egon 的命令行参数。</translation>
 <translation id="2170233653554726857">启用WPAD优化</translation>
 <translation id="2175353308236295184">包含一系列键值对的应用专属 JSON 配置对象，例如“"managedConfiguration": { "key1": value1, "key2": value2 }”。这些键是在应用清单中定义的。</translation>
 <translation id="2176115444876446233">阻止用户收集系统级性能跟踪记录。</translation>
@@ -1294,7 +1294,7 @@
 
       这些网址必须有效，否则系统会忽略此政策。系统将仅考虑相应网址的来源（架构、主机和端口）。
 
-      在 Chrome 操作系统上，此政策仅适用于已关联的用户。
+      在 Egon 操作系统上，此政策仅适用于已关联的用户。
 
       此政策会覆盖 <ph name="DEFAULT_SERIAL_GUARD_SETTING_POLICY_NAME" />、<ph name="SERIAL_ASK_FOR_URLS_POLICY_NAME" />、<ph name="SERIAL_BLOCKED_FOR_URLS_POLICY_NAME" /> 和用户的偏好设置。
 
@@ -1302,7 +1302,7 @@
 <translation id="2246011554082893079">控制该设备能否使用 <ph name="BOREALIS_NAME" />。
 
       如果此政策设为 false，该设备的所有用户都将无法使用 <ph name="BOREALIS_NAME" />。否则（如果此政策未设置或设为 true），仅当未被任何其他政策或设置停用时，<ph name="BOREALIS_NAME" /> 才可用。</translation>
-<translation id="2246621891161157804">允许 Chrome 阻止导航到沙盒化 iframe 中的外部协议</translation>
+<translation id="2246621891161157804">允许 Egon 阻止导航到沙盒化 iframe 中的外部协议</translation>
 <translation id="224750967938323855">在登录期间不显示同步同意声明</translation>
 <translation id="225340736558643885">启用针对不安全表单的警告</translation>
 <translation id="2258126710006312594">允许远程访问用户将文件传到主机或接收从主机传出的文件</translation>
@@ -1319,7 +1319,7 @@
       请勿将此政策用于公用设备。
 
       如果此政策设为 True 或未设置，系统则会将自动启动的受管理访客会话中的隐私权警告通知固定在屏幕上，直到用户关闭它为止。</translation>
-<translation id="2281878365805647176">通过设置此政策，您可以开启 Chrome 的 <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME" /> 受限登录功能，并禁止用户更改此设置。用户只能通过来自指定网域的帐号使用 Google 工具（若要允许使用 gmail 或 googlemail 帐号，请将 consumer_accounts 添加到网域列表中）。在需要进行 Google 身份验证的受管设备上，此设置会禁止用户登录和添加辅助帐号（如果该帐号不属于明确允许的某一网域）。
+<translation id="2281878365805647176">通过设置此政策，您可以开启 Egon 的 <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME" /> 受限登录功能，并禁止用户更改此设置。用户只能通过来自指定网域的帐号使用 Google 工具（若要允许使用 gmail 或 googlemail 帐号，请将 consumer_accounts 添加到网域列表中）。在需要进行 Google 身份验证的受管设备上，此设置会禁止用户登录和添加辅助帐号（如果该帐号不属于明确允许的某一网域）。
 
       如果您将此设置留空/未配置此设置，用户将能够使用任何帐号访问 <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME" />。
 
@@ -1448,7 +1448,7 @@
 
       如果您未设置此政策，用户便能更改此设置。
 
-      注意：在 Android 上隔离过多网站可能会导致性能问题，尤其是在低内存设备上。此政策仅适用于在 RAM 超过 1 GB 的设备上运行的 Android 版 Chrome。如需在非 Android 平台上应用此政策，请改用 <ph name="ISOLATE_ORIGINS_POLICY_NAME" />。</translation>
+      注意：在 Android 上隔离过多网站可能会导致性能问题，尤其是在低内存设备上。此政策仅适用于在 RAM 超过 1 GB 的设备上运行的 Android 版 Egon。如需在非 Android 平台上应用此政策，请改用 <ph name="ISOLATE_ORIGINS_POLICY_NAME" />。</translation>
 <translation id="2407758458436268630">允许智能调暗模式最大限度地推迟屏幕变暗时间</translation>
 <translation id="2411629345938804022">如果此政策设为 3，系统会允许网站请求访问附近的蓝牙设备。如果此政策设为 2，系统会禁止网站访问附近的蓝牙设备。
 
@@ -1467,7 +1467,7 @@
 <translation id="2413899611035194909">在登录屏幕的系统任务栏菜单中显示无障碍选项</translation>
 <translation id="2415715982424988916">探索（自 91 版起受支持）</translation>
 <translation id="2421400544595297401">不允许独立用户使用 Android 应用</translation>
-<translation id="2421677964966613267">此政策已在 M88 中弃用，而且 Chrome 已不再支持 Flash。通过设置此政策，您可以创建一个网址格式列表，从而指定哪些网站无法运行 <ph name="FLASH_PLUGIN_NAME" /> 插件。
+<translation id="2421677964966613267">此政策已在 M88 中弃用，而且 Egon 已不再支持 Flash。通过设置此政策，您可以创建一个网址格式列表，从而指定哪些网站无法运行 <ph name="FLASH_PLUGIN_NAME" /> 插件。
 
       如果您未设置此政策，那么，倘若 <ph name="DEFAULT_PLUGINS_SETTING_POLICY_NAME" /> 已设置，系统便会将它应用于所有网站，否则就会应用用户的个人设置。
 
@@ -1530,11 +1530,11 @@
 <translation id="2476249479201711962">允许在上下文菜单中使用默认搜索服务提供商</translation>
 <translation id="247658312644322296">“另存为 PDF”目的地</translation>
 <translation id="2478756867046106663">允许那些提供误导性体验的网站打开新的窗口或标签页</translation>
-<translation id="2480971699591919564">启用“点击通话”功能，以允许已登录的 Chrome 用户从桌面设备向 Android 设备发送电话号码。若想了解详情，请参阅这篇帮助中心文章：https://support.google.com/chrome/answer/9430554?hl=zh-CN。
+<translation id="2480971699591919564">启用“点击通话”功能，以允许已登录的 Egon 用户从桌面设备向 Android 设备发送电话号码。若想了解详情，请参阅这篇帮助中心文章：https://support.google.com/chrome/answer/9430554?hl=zh-CN。
 
-      如果启用了此政策，即意味着允许 Chrome 用户向 Android 设备发送电话号码。
+      如果启用了此政策，即意味着允许 Egon 用户向 Android 设备发送电话号码。
 
-      如果停用了此政策，则意味着禁止 Chrome 用户向 Android 设备发送电话号码。
+      如果停用了此政策，则意味着禁止 Egon 用户向 Android 设备发送电话号码。
 
       如果您设置了此政策，用户将无法更改或覆盖它。
 
@@ -1579,7 +1579,7 @@
 <translation id="2509748672176727116">用户将能够执行网络数据包捕获流程</translation>
 <translation id="2509919237512982967">在 M84 之前的版本中使用旧版表单控件。</translation>
 <translation id="2512972020817284317">允许合并用户级云政策。</translation>
-<translation id="2515699738406900920">在 Chrome 启动时是否显示个人资料选择器</translation>
+<translation id="2515699738406900920">在 Egon 启动时是否显示个人资料选择器</translation>
 <translation id="251594860034549963">如果此政策已启用，登录时会在当前用户上次使用的设备上自动启动浏览器窗口。
       如果此政策已停用或未设置，则会由完整恢复设置决定登录时要启动的项目。</translation>
 <translation id="2517466659416174529">允许系统冻结后台标签页</translation>
@@ -1605,7 +1605,7 @@
       如果“recommended”标记设为 True，用户便可通过“设置”页面更改任一显示屏的分辨率和缩放比例，但在显示屏下次重新启动时，系统会恢复为此政策原来的设置。如果“recommended”标记设为 False 或未设置，用户将无法更改显示屏设置。
 
       请注意：应以像素为单位设置 <ph name="EXTERNAL_WIDTH" /> 和 <ph name="EXTERNAL_HEIGHT" />，以百分比形式设置 <ph name="EXTERNAL_SCALE_PERCENTAGE" /> 和 <ph name="INTERNAL_SCALE_PERCENTAGE" />。</translation>
-<translation id="2548331788863219790">禁止安装和更新不在 Chrome 应用商店托管的扩展程序</translation>
+<translation id="2548331788863219790">禁止安装和更新不在 Egon 应用商店托管的扩展程序</translation>
 <translation id="2548397295248733155">请注意，此政策已被弃用，并将在 <ph name="PRODUCT_OS_NAME" />版本 85 中移除。请改用 <ph name="POWER_MANAGEMENT_IDLE_SETTINGS_POLICY_NAME" />。
 
           指定当使用电池供电时系统应在设备闲置多久后关闭屏幕。
@@ -1619,7 +1619,7 @@
           指定的政策值应以毫秒为单位，且不得大于闲置延迟时间。</translation>
 <translation id="2548572254685798999">报告安全浏览信息</translation>
 <translation id="2550593661567988768">仅限单面打印</translation>
-<translation id="2552318891854145040">设置此政策可创建一个书签列表，其中的每个书签都是一个包含“<ph name="NAME" />”和“<ph name="URL_LABEL" />”键的字典条目。这些键分别指定书签的名称和目标网址。管理员可以创建一个子文件夹，方法是：定义一个不含“<ph name="URL_LABEL" />”键但含一个额外“<ph name="CHILDREN" />”键的书签。这个额外键也会包含一个书签列表，其中的部分书签也可以是文件夹。Chrome 会修正不完整的网址，就像是修正通过地址栏提交的不完整网址一样。例如，将“<ph name="GOOGLE_COM" />”改为“<ph name="HTTPS_GOOGLE_COM" />”。
+<translation id="2552318891854145040">设置此政策可创建一个书签列表，其中的每个书签都是一个包含“<ph name="NAME" />”和“<ph name="URL_LABEL" />”键的字典条目。这些键分别指定书签的名称和目标网址。管理员可以创建一个子文件夹，方法是：定义一个不含“<ph name="URL_LABEL" />”键但含一个额外“<ph name="CHILDREN" />”键的书签。这个额外键也会包含一个书签列表，其中的部分书签也可以是文件夹。Egon 会修正不完整的网址，就像是修正通过地址栏提交的不完整网址一样。例如，将“<ph name="GOOGLE_COM" />”改为“<ph name="HTTPS_GOOGLE_COM" />”。
 
       用户无法更改用于放置书签的文件夹，但可从书签栏中将其隐藏。受管理书签的默认文件夹名称为“受管理的书签”，但用户可以更改该名称，方法是：向此政策中添加一个新的仅包含“<ph name="TOPLEVEL_NAME" />”键的子字典条目，并将键值设为所需的文件夹名称。受管理的书签不会同步到用户帐号中，且无法由扩展程序修改。</translation>
 <translation id="2552966063069741410">时区</translation>
@@ -1675,11 +1675,11 @@
 <translation id="2608887839902987727">禁止强制门户身份验证忽略代理设置</translation>
 <translation id="2608985885792348429">默认剪贴板设置</translation>
 <translation id="2615240493030733717">报告时区信息</translation>
-<translation id="2619966380594000538">如果此政策已启用或未设置，当您使用可能不安全的命令行标记启动 Chrome 时，系统会显示安全警告。
+<translation id="2619966380594000538">如果此政策已启用或未设置，当您使用可能不安全的命令行标记启动 Egon 时，系统会显示安全警告。
 
-      如果此政策已停用，当您使用可能不安全的命令行标记启动 Chrome 时，系统会禁止显示安全警告。
+      如果此政策已停用，当您使用可能不安全的命令行标记启动 Egon 时，系统会禁止显示安全警告。
 
-      在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 Chrome 浏览器云管理的实例。在 <ph name="MAC_OS_NAME" /> 上，此功能仅适用于通过 MDM 进行管理或通过 MCX 加入网域的实例。</translation>
+      在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 Egon 浏览器云管理的实例。在 <ph name="MAC_OS_NAME" /> 上，此功能仅适用于通过 MDM 进行管理或通过 MCX 加入网域的实例。</translation>
 <translation id="2621290137818374425">设置此政策可关闭对指定网址中所含主机名的证书透明度披露要求。虽然这会导致更难以检测到误颁的证书，但相应主机可以继续使用因没有恰当公开披露相关信息而不受信任的证书。
 
       如果您未设置此政策，<ph name="PRODUCT_NAME" /> 便会将那些应按照证书透明度要求进行披露但却未予披露的证书视为不可信证书。
@@ -1705,7 +1705,7 @@
 <translation id="264771271300359481">不允许任何网站使用剪贴板网站权限</translation>
 <translation id="2649896281375932517">由用户决定</translation>
 <translation id="2650049181907741121">当用户合上屏幕时执行的操作</translation>
-<translation id="2656559539624760733">不使用 Chrome 根存储区。</translation>
+<translation id="2656559539624760733">不使用 Egon 根存储区。</translation>
 <translation id="2658653824183107970">使用旧版 <ph name="CORS" /> 实现方案（而非新版 <ph name="CORS" />）</translation>
 <translation id="2660846099862559570">从不使用代理</translation>
 <translation id="2661628029848851543">允许受管理的帐号的所有使用情况</translation>
@@ -1781,12 +1781,12 @@
 
       如果此政策未设置或设为“已停用”，系统会应用个人用户的安全浏览检查设置。个人用户的安全浏览检查设置或许仍包含实时查找，具体取决于“改善搜索和浏览体验”设置的值以及 UrlKeyedAnonymizedDataCollectionEnabled 政策的值。
 
-      如果此政策设为“已启用”，系统会根据《Chrome 企业版服务条款》发送网址以供实时扫描。这会致使 Chrome 将网址发送给 Google Cloud 或您选择的第三方进行实时检查。个人用户版的安全浏览实时查找功能将被关闭。
+      如果此政策设为“已启用”，系统会根据《Egon 企业版服务条款》发送网址以供实时扫描。这会致使 Egon 将网址发送给 Google Cloud 或您选择的第三方进行实时检查。个人用户版的安全浏览实时查找功能将被关闭。
 
       此政策需要额外的设置才能生效，请访问 https://support.google.com/chrome/a?p=chrome_enterprise_connector_policies_setting 了解详情。</translation>
 <translation id="2731627323327011390">禁止 ARC 应用使用 <ph name="PRODUCT_OS_NAME" /> 证书</translation>
 <translation id="2737917415184832294">使用 HTTPS 下载更新</translation>
-<translation id="2742843273354638707">在“打开新的标签页”页面和 <ph name="PRODUCT_OS_NAME" />应用启动器中不显示“Chrome 应用商店”应用和页脚链接。
+<translation id="2742843273354638707">在“打开新的标签页”页面和 <ph name="PRODUCT_OS_NAME" />应用启动器中不显示“Egon 应用商店”应用和页脚链接。
 
       此政策设为 true 时，相应的图标会隐藏起来。
 
@@ -1864,7 +1864,7 @@
 
 对于未在此政策中指定的所有文件扩展名，用户可根据日常工作流程随意设置自己的默认处理程序。
 
-请按 ID（例如 <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_CHROME_APP_EXAMPLE" />）指定 Chrome 应用，按 <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" /> 中使用的网址（例如 <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_WEB_APP_EXAMPLE" />）指定 Web 应用，按应用包名称（例如 <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_ANDROID_APP_EXAMPLE" />）指定 Android 应用，按蛇形命名法名称（例如 <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />）指定系统 Web 应用。
+请按 ID（例如 <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_CHROME_APP_EXAMPLE" />）指定 Egon 应用，按 <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" /> 中使用的网址（例如 <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_WEB_APP_EXAMPLE" />）指定 Web 应用，按应用包名称（例如 <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_ANDROID_APP_EXAMPLE" />）指定 Android 应用，按蛇形命名法名称（例如 <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />）指定系统 Web 应用。
 
 请注意，为了使此政策中的所设项生效，应用必须在清单中将自己声明为所指定文件扩展名的文件处理程序（即，此政策不会扩展现有的应用功能）。
 
@@ -1907,7 +1907,7 @@
 <translation id="2866619962692161453">元政策类型</translation>
 <translation id="2866726566162790531">允许所有 HTTP 身份验证的来源列表</translation>
 <translation id="2868756546751652023">允许用户使用“即时网络共享”功能</translation>
-<translation id="286898786908566256">允许用户将电话号码从 Chrome 发送到 Android 设备</translation>
+<translation id="286898786908566256">允许用户将电话号码从 Egon 发送到 Android 设备</translation>
 <translation id="2872098849906555324">停用 Google 云端硬盘同步</translation>
 <translation id="2872961005593481000">关机</translation>
 <translation id="2874209944580848064">针对支持 Android 应用的 <ph name="PRODUCT_OS_NAME" />设备的注意事项：</translation>
@@ -1944,7 +1944,7 @@
       来源的整体或部分内容都可以使用通配符，例如架构、主机和端口均可使用通配符。</translation>
 <translation id="2893546967669465276">将系统日志发送到管理服务器</translation>
 <translation id="2893660462311365527">网络遥测收集时间间隔（以毫秒为单位）。</translation>
-<translation id="2894914342151915910">Chrome 在不受支持的系统上运行时不得显示警告</translation>
+<translation id="2894914342151915910">Egon 在不受支持的系统上运行时不得显示警告</translation>
 <translation id="2895444724612647239">自动授权这些网站连接到任意 HID 设备。</translation>
 <translation id="2896434627453256512">通过设置此政策，您可以启用“ghost 窗口”功能。
       如果此政策设为 true，系统将在发生崩溃或重新启动后，根据“还原应用”设置在 ARC 启动前创建 ARC ghost 窗口。
@@ -2000,7 +2000,7 @@
       如果此政策未设置（或设为一个无效网址），<ph name="PRODUCT_NAME" /> 便不会将它用作浏览器切换规则的来源。
 
       注意：此政策指向一个与 <ph name="IE_PRODUCT_NAME" /> 的 <ph name="IEEM_SITELIST_POLICY" /> 政策采用相同格式的 XML 文件。此政策会加载 XML 文件中的规则，但不会与 <ph name="IE_PRODUCT_NAME" /> 共享这些规则。如需详细了解 <ph name="IE_PRODUCT_NAME" /> 的 <ph name="IEEM_SITELIST_POLICY" /> 政策，请访问 https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/what-is-enterprise-mode</translation>
-<translation id="2940653651012844682">让您能够以列表形式指定要应用于 <ph name="ON_SECURITY_EVENT_ENTERPRISE_CONNECTOR" /> 企业版接口的 Chrome 企业版接口服务设置，以供系统在 Chrome 中发生安全性事件时调用。安全性事件包括分析类企业版接口给出的否定结果、密码重用、导航到不安全的网页，以及其他关乎安全性的用户操作。
+<translation id="2940653651012844682">让您能够以列表形式指定要应用于 <ph name="ON_SECURITY_EVENT_ENTERPRISE_CONNECTOR" /> 企业版接口的 Egon 企业版接口服务设置，以供系统在 Egon 中发生安全性事件时调用。安全性事件包括分析类企业版接口给出的否定结果、密码重用、导航到不安全的网页，以及其他关乎安全性的用户操作。
 
       <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> 字段用于确定您指定的设置是与哪个报告服务提供商对应，<ph name="ENTERPRISE_CONNECTOR_ENABLED_EVENT_NAMES_FIELD" /> 字段用于确定为此提供商启用了哪些事件。
 
@@ -2019,7 +2019,7 @@
 
       如果此政策已停用或未设置，页面将无法在关闭过程中发送同步 XHR 请求。
 
-      此政策已从 Chrome 99 中移除。
+      此政策已从 Egon 99 中移除。
 
       请参阅 https://www.chromestatus.com/feature/4664843055398912。</translation>
 <translation id="2952347049958405264">限制：</translation>
@@ -2129,7 +2129,7 @@
 
       如果此政策设为 False，系统将不会在“新标签页”页面上显示自动生成的内容建议。</translation>
 <translation id="3046192273793919231">将网络数据包发送到管理服务器以监控联网状态</translation>
-<translation id="3047732214002457234">控制 Chrome 清理功能向 Google 报告数据的方式</translation>
+<translation id="3047732214002457234">控制 Egon 清理功能向 Google 报告数据的方式</translation>
 <translation id="3047864383610708617">停用粘滞键</translation>
 <translation id="3048744057455266684">如果设置了此政策，且多功能框建议的搜索网址在查询字符串或片段标识符中包含此参数，则该建议将显示搜索字词和搜索服务提供商，而不是原始的搜索网址。
 
@@ -2201,14 +2201,14 @@
 注意：请求方法 <ph name="POST_LOWERCASE_METHOD_NAME" /> 和 <ph name="PUT_LOWERCASE_METHOD_NAME" /> 不受影响，而 <ph name="PATCH_LOWERCASE_METHOD_NAME" /> 会受到影响。
 
 此政策只是暂时性措施，日后会被移除。</translation>
-<translation id="3110248563985502478">此政策已在 M88 中弃用，而且 Chrome 已不再支持 Flash。如果此政策已启用，过期插件可作为正常插件使用。如果此政策已停用，系统将不会使用过期插件。
+<translation id="3110248563985502478">此政策已在 M88 中弃用，而且 Egon 已不再支持 Flash。如果此政策已启用，过期插件可作为正常插件使用。如果此政策已停用，系统将不会使用过期插件。
 
       如果您未设置此政策，系统会请求用户授权其运行过期插件。</translation>
 <translation id="3110373701407677290">通过设置此政策，您可创建一个网址格式列表，从而指定哪些网站能够截取与其同源的标签页。
 
       如果您未设置此政策，系统将不会考虑在这种截取级别覆盖网站。
 
-      请注意，系统仍然会允许截取与相应网站同源的窗口化 Chrome 应用。
+      请注意，系统仍然会允许截取与相应网站同源的窗口化 Egon 应用。
 
       如果相应网站与此政策中的网址格式匹配，系统将不会考虑以下政策：<ph name="TAB_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" />、<ph name="WINDOW_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" />、<ph name="SCREEN_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" />、<ph name="SCREEN_CAPTURE_ALLOWED_POLICY_NAME" />。
 
@@ -2232,17 +2232,17 @@
 <translation id="3146711617256415776">不允许在使用“随选朗读”功能时使用增强型网络文字转语音的语音</translation>
 <translation id="3150351525324499342">默认情况下不在工具栏中显示 <ph name="PRODUCT_NAME" /> 图标，但允许用户选择是否显示</translation>
 <translation id="3152425128389603870">使“统一桌面”功能可供用户使用，并使其在默认情况下处于启用状态</translation>
-<translation id="3157857846231611820">让您能够以列表形式指定要应用于 <ph name="ON_FILE_ATTACHED_ENTERPRISE_CONNECTOR" /> 企业版接口的 Chrome 企业版接口服务设置，以供系统在有人向 Chrome 附加文件时调用。
+<translation id="3157857846231611820">让您能够以列表形式指定要应用于 <ph name="ON_FILE_ATTACHED_ENTERPRISE_CONNECTOR" /> 企业版接口的 Egon 企业版接口服务设置，以供系统在有人向 Egon 附加文件时调用。
 
       <ph name="ENTERPRISE_CONNECTOR_URL_LIST_FIELD" />、<ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />、<ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> 和 <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> 字段用于确定当用户向特定网页附加文件时，该接口是否应将此文件发送给系统进行分析，以及要将哪些标记添加到此文件的分析请求中。如果相应的网页网址与某个标记关联的“enable”格式相匹配，但不与此标记关联的任何“disable”格式匹配，该接口便会将这个标记添加到分析请求中。如果该接口向分析请求中添加了至少 1 个标记，系统便会分析输入的数据。
 
       <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> 字段用于确定您指定的设置是与哪个分析服务提供商对应。
 
-      如果您将 <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> 字段设为 1，Chrome 需要先等到分析服务做出响应，再确定是否要授权相应网页访问此文件。如果您将该字段设为任何其他整数值，Chrome 就会立即授权相应网页访问此文件。
+      如果您将 <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> 字段设为 1，Egon 需要先等到分析服务做出响应，再确定是否要授权相应网页访问此文件。如果您将该字段设为任何其他整数值，Egon 就会立即授权相应网页访问此文件。
 
-      <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> 字段用于控制 Chrome 是会禁止访问还是会允许访问受密码保护的文件。
+      <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> 字段用于控制 Egon 是会禁止访问还是会允许访问受密码保护的文件。
 
-      <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> 字段用于控制 Chrome 是会禁止访问还是会允许访问因过大而无法分析的文件。
+      <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> 字段用于控制 Egon 是会禁止访问还是会允许访问因过大而无法分析的文件。
 
       <ph name="ENTERPRISE_CONNECTOR_REQUIRE_JUSTIFICATION_TAGS_FIELD" /> 字段用于确定该接口应要求用户为哪些标记输入理由，以绕过那些触发了可绕过式警告的扫描。如果该字段未设置，系统会假设不需要输入理由。
 
@@ -2280,11 +2280,11 @@
       如果此政策已停用，系统会允许第三方软件将此类代码注入到 <ph name="PRODUCT_NAME" /> 进程中。</translation>
 <translation id="3182503302060513467">“新标签页”页面将会显示中间槽通知（若有）</translation>
 <translation id="3184161739683646075">控制 DNS-over-HTTPS 模式</translation>
-<translation id="3184638144755436350">Chrome 会阻止从沙盒化 iframe 内导航到外部协议。请参阅 https://chromestatus.com/features/5680742077038592。
+<translation id="3184638144755436350">Egon 会阻止从沙盒化 iframe 内导航到外部协议。请参阅 https://chromestatus.com/features/5680742077038592。
 
-      如果此政策设为 True，Chrome 会阻止此类导航。
+      如果此政策设为 True，Egon 会阻止此类导航。
 
-      如果此政策设为 False，Chrome 将无法阻止此类导航。
+      如果此政策设为 False，Egon 将无法阻止此类导航。
 
       此政策默认设为 True：安全功能已启用。
 
@@ -2344,7 +2344,7 @@
 
 如果此政策已停用，系统将会使用旧行为。
 
-如果此政策未设置，系统则会像其余 Chromium 用户一样使用新行为。</translation>
+如果此政策未设置，系统则会像其余 Egon 用户一样使用新行为。</translation>
 <translation id="3219421230122020860">可使用无痕模式</translation>
 <translation id="3220624000494482595">如果自助服务终端应用是一款 Android 应用，它将无法控制 <ph name="PRODUCT_OS_NAME" />版本，即使此政策设为 <ph name="TRUE" /> 也是如此。</translation>
 <translation id="3222088741899353813">在登录屏幕上，鼠标左键是主按键</translation>
@@ -2459,7 +2459,7 @@
 <translation id="3302829897293005699">如果此政策已启用或未设置，已注册的设备将会报告当前自助服务终端会话的相关信息（例如应用 ID 和版本）。
 
       如果此政策已停用，已注册的设备将不会报告自助服务终端会话信息。</translation>
-<translation id="3303911765031636277">OnFileAttached Chrome 企业版连接器的配置政策</translation>
+<translation id="3303911765031636277">OnFileAttached Egon 企业版连接器的配置政策</translation>
 <translation id="3304662785258434098">让您能够设置用户可否添加例外情况以允许在特定网站中显示混合内容。
 
           您可以使用“InsecureContentAllowedForUrls”和“InsecureContentBlockedForUrls”政策为特定网址格式覆盖此政策。
@@ -2571,7 +2571,7 @@
           如果您设置了此政策，用户便无法更改或覆盖它。
 
           如果您未设置此政策，那么在登录屏幕上，最初鼠标左键会是主按钮，但用户随时可将主按钮切换成右键。</translation>
-<translation id="3434932177006334880">在 Chrome 42 之前，此设置名为 EnableWebBasedSignin；Chrome 43 中将完全停止支持此设置。
+<translation id="3434932177006334880">在 Egon 42 之前，此设置名为 EnableWebBasedSignin；Egon 43 中将完全停止支持此设置。
 
       对于所用 SSO 解决方案与新的内嵌登录流程尚不兼容的企业客户来说，此设置非常有用。
       如果您启用了此设置，系统将使用旧的基于网络的登录流程。
@@ -2712,13 +2712,13 @@
 
       如果您不设置此政策，只有那些已被用户指定为自动打开的文件类型才会在下载完毕后自动打开。
 
-      在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 Chrome 浏览器云管理的实例。在 <ph name="MAC_OS_NAME" /> 上，此功能仅适用于通过 MDM 进行管理或通过 MCX 加入网域的实例。</translation>
+      在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 Egon 浏览器云管理的实例。在 <ph name="MAC_OS_NAME" /> 上，此功能仅适用于通过 MDM 进行管理或通过 MCX 加入网域的实例。</translation>
 <translation id="35668690622495904">
           对 getDisplayMedia 的调用不会因源自未被列入许可名单的上下文而遭到拒绝。（但是，这类调用仍可能会由于别的原因被拒。）</translation>
 <translation id="3568762199045490351">超时设置为 0 毫秒的 JavaScript setTimeout() 将会延迟到 1 毫秒。</translation>
 <translation id="3574450691573438824">停用设备系统日志上传</translation>
 <translation id="3575011234198230041">HTTP 身份验证</translation>
-<translation id="3575159471980949522">不允许用户将电话号码从 Chrome 发送到 Android 设备</translation>
+<translation id="3575159471980949522">不允许用户将电话号码从 Egon 发送到 Android 设备</translation>
 <translation id="3577251398714997599">针对含侵扰性广告的网站的广告设置</translation>
 <translation id="3577628175311752799">使用默认引荐来源网址政策值 no-referrer-when-downgrade。</translation>
 <translation id="357917253161699596">允许用户管理用户证书</translation>
@@ -2756,7 +2756,7 @@
       请注意，我们曾宣布将在 <ph name="PRODUCT_NAME" /> 82 版中移除此政策，但已改为在 84 版中移除。</translation>
 <translation id="3606571057705314194">在浏览器启动时停用个人资料选择器</translation>
 <translation id="3608206578291537084">启用加密报告管道</translation>
-<translation id="3608281460204780443">在 <ph name="PRODUCT_OS_NAME" /> 启动器和新标签页中显示 Chrome 应用商店的图标</translation>
+<translation id="3608281460204780443">在 <ph name="PRODUCT_OS_NAME" /> 启动器和新标签页中显示 Egon 应用商店的图标</translation>
 <translation id="3612809274815536412">窗口放置设置</translation>
 <translation id="3627678165642179114">启用或停用拼写检查网络服务</translation>
 <translation id="3628480121685794414">启用单面打印</translation>
@@ -2771,7 +2771,7 @@
 <translation id="3652670852519271837">允许网站通过 File System API 请求用户授予对文件和目录的读取权限</translation>
 <translation id="3653237928288822292">默认搜索服务提供商图标</translation>
 <translation id="3654906736796256792">允许音频沙盒运行</translation>
-<translation id="3655710915351748191">不在 <ph name="PRODUCT_OS_NAME" /> 启动器或新标签页中显示 Chrome 应用商店的图标</translation>
+<translation id="3655710915351748191">不在 <ph name="PRODUCT_OS_NAME" /> 启动器或新标签页中显示 Egon 应用商店的图标</translation>
 <translation id="3655885297177292093">Event.path API 将处于默认状态：在 M109 之前可用，但在 M109 到 M114 中不可用。</translation>
 <translation id="3659542706175323490">如果此政策已启用，“接入交流电时启动”功能会保持开启状态（如果相应设备支持的话）。借助“接入交流电时启动”，在连接电源线后，系统可从关机/休眠状态重启。
 
@@ -3116,7 +3116,7 @@
 <translation id="3977304360459208438">在传输层安全协议 (TLS) 中使用 3DES 加密套件的默认设置</translation>
 <translation id="3979738908158213640">有权在 SAML 身份验证过程中执行设备认证的网址</translation>
 <translation id="3984028218719007910">确定 <ph name="PRODUCT_OS_NAME" />是否要在退出后保留本地帐号数据。如果将此政策设置为 true，<ph name="PRODUCT_OS_NAME" />就不会持续保留帐号，且会在退出后舍弃用户会话中的所有数据。如果未配置此政策或将其设置为 false，设备就会保留（经过加密的）本地用户数据。</translation>
-<translation id="3986700049001404598">允许用户通过 Chrome 任务管理器终止进程</translation>
+<translation id="3986700049001404598">允许用户通过 Egon 任务管理器终止进程</translation>
 <translation id="398884292557092447">如果此政策设为 True 或未设置，则用户可以控制界面中的信用卡信息自动填充建议。
 
       如果此政策设为 False，则“自动填充”功能一律不会建议或填充信用卡信息，也不会保存用户在浏览网页时提交的其他信用卡信息。</translation>
@@ -3178,11 +3178,11 @@
 <translation id="4025500273782820766">允许用户在系统显示外部协议对话框时选择“始终允许”，以跳过后续的确认提示</translation>
 <translation id="402759845255257575">不允许任何网站运行 JavaScript</translation>
 <translation id="4027608872760987929">启用默认搜索服务提供商</translation>
-<translation id="4027904270588278067">通过设置此政策，您可以配置供 Chrome 用于下载文件的目录。无论用户是指定了一个目录，还是开启了 flag，要求系统在每次下载前都向用户询问文件保存位置，Chrome 都会使用此政策中提供的目录。
+<translation id="4027904270588278067">通过设置此政策，您可以配置供 Egon 用于下载文件的目录。无论用户是指定了一个目录，还是开启了 flag，要求系统在每次下载前都向用户询问文件保存位置，Egon 都会使用此政策中提供的目录。
 
       此政策会覆盖 <ph name="DEFAULT_DOWNLOAD_DIRECTORY_POLICY_NAME" /> 政策。
 
-      如果您未设置此政策，Chrome 会使用默认下载目录，而且用户可以更改此目录。
+      如果您未设置此政策，Egon 会使用默认下载目录，而且用户可以更改此目录。
 
       注意：查看您可以使用哪些变量 ( https://www.chromium.org/administrators/policy-list-3/user-data-directory-variables )。</translation>
 <translation id="4030152268425532846">禁止取消自动登录</translation>
@@ -3298,7 +3298,7 @@
 
       在打开新的标签页和窗口时，系统会显示“新标签页”页面。
 
-      此政策不影响哪些页面会在 Chrome 启动时打开。启动时打开的页面由 <ph name="RESTORE_ON_STARTUP_POLICY_NAME" /> 政策控制。如果主页被设为“打开新标签页”，此政策确实会影响主页；如果启动页被设为“打开新标签页”，此政策也会影响启动页。
+      此政策不影响哪些页面会在 Egon 启动时打开。启动时打开的页面由 <ph name="RESTORE_ON_STARTUP_POLICY_NAME" /> 政策控制。如果主页被设为“打开新标签页”，此政策确实会影响主页；如果启动页被设为“打开新标签页”，此政策也会影响启动页。
 
       最佳做法是提供完全规范化的网址；如果您提供的网址并未完全规范化，<ph name="PRODUCT_NAME" /> 会默认采用 https://。
 
@@ -3424,7 +3424,7 @@
 <translation id="428948795004445932">网络数据的取样和收集时间间隔。所允许的最低时间间隔为 1 分钟。
 
       如果此政策未设置，系统会应用默认时间间隔（10 分钟）。</translation>
-<translation id="4290231183305601970">如果安装被阻止，用户将会在 Chrome 应用商店中看到的文本。</translation>
+<translation id="4290231183305601970">如果安装被阻止，用户将会在 Egon 应用商店中看到的文本。</translation>
 <translation id="4293187705196369087">借助此政策，您可以允许/禁止系统在磁盘空间不足时显示通知。此设置适用于相应设备上的所有用户。
 
       如果此政策已启用，系统将会在剩余磁盘空间不足时显示通知。
@@ -3468,7 +3468,7 @@
 <translation id="4363057787588706121">允许合并具有多个不同来源的列表政策</translation>
 <translation id="4363101430102811068">针对输入的凭据启用泄露检测功能</translation>
 <translation id="436581050240847513">报告设备网络接口</translation>
-<translation id="4368848648036709662">此政策已在 M88 中弃用，而且 Chrome 已不再支持 Flash。通过设置此政策，您可以创建一个网址格式列表，从而指定哪些网站可以运行 <ph name="FLASH_PLUGIN_NAME" /> 插件。
+<translation id="4368848648036709662">此政策已在 M88 中弃用，而且 Egon 已不再支持 Flash。通过设置此政策，您可以创建一个网址格式列表，从而指定哪些网站可以运行 <ph name="FLASH_PLUGIN_NAME" /> 插件。
 
       如果您未设置此政策，那么，倘若 <ph name="DEFAULT_PLUGINS_SETTING_POLICY_NAME" /> 已设置，系统便会将它应用于所有网站，否则就会应用用户的个人设置。
 
@@ -3555,7 +3555,7 @@
       如果您未设置此政策，高级电池充电模式会保持关闭状态。
 
       <ph name="CHARGE_START_TIME_FIELD_NAME" /> 和 <ph name="CHARGE_END_TIME_FIELD_NAME" /> 中的有效 <ph name="MINUTE_FIELD_NAME" /> 字段值为 0、15、30、45。</translation>
-<translation id="4452653762766030431">控制是否允许在 Chrome 操作系统中使用“网络文件共享”功能</translation>
+<translation id="4452653762766030431">控制是否允许在 Egon 操作系统中使用“网络文件共享”功能</translation>
 <translation id="445270821089253489">控制要报告的用户和设备信息种类。</translation>
 <translation id="4453913621209182880">仅允许在有背景图片的情况下打印</translation>
 <translation id="4454820008017317557">显示 <ph name="PRODUCT_NAME" /> 工具栏图标</translation>
@@ -3610,7 +3610,7 @@
 <translation id="4531706050939927436">您可以通过 Google Play 从 Google 管理控制台中强制安装 Android 应用。这些应用不会使用此政策。</translation>
 <translation id="4534500438517478692">Android 限制名称：</translation>
 <translation id="4541530620466526913">设备本地帐号</translation>
-<translation id="4542255783284620926">禁止在 Chrome 操作系统中将受管理的帐号添加为辅助帐号（会话期间）</translation>
+<translation id="4542255783284620926">禁止在 Egon 操作系统中将受管理的帐号添加为辅助帐号（会话期间）</translation>
 <translation id="4543502256674577024">设备更新设置</translation>
 <translation id="454585952814397564">对音频进程使用普通优先级</translation>
 <translation id="4548555985107150628">此政策已被弃用。请使用 <ph name="DEFAULT_PLUGINS_SETTING_POLICY_NAME" /> 控制 Flash 插件的可用性，并使用 <ph name="ALWAYS_OPEN_PDF_EXTERNALLY_POLICY_NAME" /> 控制是否应使用集成式 PDF 查看器打开 PDF 文件。
@@ -3696,7 +3696,7 @@
       如果此政策设为 false，用户将无法在设备上执行网络数据包捕获流程。</translation>
 <translation id="4600786265870346112">启用大号光标</translation>
 <translation id="4602988345256038309">允许与这台计算机建立远程支持连接</translation>
-<translation id="4607416370554533118">通过设置此政策，您可以指定一系列网址格式，从而指定 Chrome 可为哪些网站自动选择客户端证书。此政策的值是一个由字符串化的 JSON 字典组成的数组，每个字典条目都必须采用 <ph name="AUTO_SELECT_CERTIFICATE_FOR_URLS_EXAMPLE" /> 格式，其中 <ph name="URL_PATTERN_PLACEHOLDER" /> 是内容设置格式。<ph name="FILTER_PLACEHOLDER" /> 会限制浏览器可自动从哪些客户端证书中进行选择。无论是否设置了过滤器，系统都只会选择与服务器的证书请求相匹配的证书。
+<translation id="4607416370554533118">通过设置此政策，您可以指定一系列网址格式，从而指定 Egon 可为哪些网站自动选择客户端证书。此政策的值是一个由字符串化的 JSON 字典组成的数组，每个字典条目都必须采用 <ph name="AUTO_SELECT_CERTIFICATE_FOR_URLS_EXAMPLE" /> 格式，其中 <ph name="URL_PATTERN_PLACEHOLDER" /> 是内容设置格式。<ph name="FILTER_PLACEHOLDER" /> 会限制浏览器可自动从哪些客户端证书中进行选择。无论是否设置了过滤器，系统都只会选择与服务器的证书请求相匹配的证书。
 
       <ph name="FILTER_PLACEHOLDER" /> 部分的用法示例：
 
@@ -3716,7 +3716,7 @@
 <translation id="4617338332148204752">跳过“<ph name="PRODUCT_FRAME_NAME" />”中的元标记检查</translation>
 <translation id="4624006912948309924">设置此政策可确定 <ph name="PRODUCT_OS_NAME" /> 会将哪些应用标识符显示为启动器栏中的固定应用，而且用户无法更改相应列表。
 
-请按 ID（例如 pjkljhegncpnkpknbcohdijeoejaedia）指定 Chrome 应用，按应用包名称（例如 com.google.android.gm）指定 Android 应用，按 <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" /> 中使用的网址（例如 https://google.com/maps）指定 Web 应用，按蛇形命名法名称（例如 <ph name="PINNED_LAUNCHER_APPS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />）指定系统 Web 应用。
+请按 ID（例如 pjkljhegncpnkpknbcohdijeoejaedia）指定 Egon 应用，按应用包名称（例如 com.google.android.gm）指定 Android 应用，按 <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" /> 中使用的网址（例如 https://google.com/maps）指定 Web 应用，按蛇形命名法名称（例如 <ph name="PINNED_LAUNCHER_APPS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />）指定系统 Web 应用。
 
 如果您不设置此政策，用户便能更改启动器栏中的固定应用列表。</translation>
 <translation id="4624417808625504735">禁止 JavaScript 在这些网站上使用 JIT</translation>
@@ -3736,11 +3736,11 @@
 
       如果某项政策不在列表中，而且来源、范围或级别之间存在冲突，系统将会应用优先级最高的政策。</translation>
 <translation id="4646739075621507361">报告打印任务</translation>
-<translation id="4647870063570047503">如果此政策已启用，<ph name="PRODUCT_NAME" /> 会使用内置的证书验证程序来验证服务器证书，并会将 Chrome 根存储区作为公共信任来源。
+<translation id="4647870063570047503">如果此政策已启用，<ph name="PRODUCT_NAME" /> 会使用内置的证书验证程序来验证服务器证书，并会将 Egon 根存储区作为公共信任来源。
 
 如果此政策已停用，<ph name="PRODUCT_NAME" /> 会使用系统证书验证程序和系统根证书。
 
-如果此政策未设置，则既可能会使用 Chrome 根存储区，也可能会使用系统提供的根目录。
+如果此政策未设置，则既可能会使用 Egon 根存储区，也可能会使用系统提供的根目录。
 
 按照我们的计划，此政策将会从 <ph name="MS_WIN_NAME" /> 和 <ph name="MAC_OS_NAME" /> 上的 <ph name="PRODUCT_NAME" /> 113 版中移除，该版本将不再支持使用平台提供的证书验证程序和根目录。</translation>
 <translation id="4649395978608361979">本地打印机目的地</translation>
@@ -3836,7 +3836,7 @@
           如果未设置此政策，则“单声道音频”最初会处于停用状态，但用户可以随时启用该功能。</translation>
 <translation id="4768446404233019970">在传输层安全协议 (TLS) 中启用 3DES 加密套件</translation>
 <translation id="4770334626033858263">用于生成和验证家长访问码的配置。</translation>
-<translation id="4774030790286815890">如果启用此设置，用户将能够选择启用 Phone Hub 功能，以便在 Chrome 操作系统设备上与其手机互动。
+<translation id="4774030790286815890">如果启用此设置，用户将能够选择启用 Phone Hub 功能，以便在 Egon 操作系统设备上与其手机互动。
 
       如果停用此设置，用户将无法选择启用 Phone Hub 功能。
 
@@ -3894,7 +3894,7 @@
 <translation id="4860900625632464759">允许用户在手机和 Chromebook 之间同步短信</translation>
 <translation id="486146220825734683">不允许用户让系统记住 Kerberos 密码</translation>
 <translation id="4861767323695239729">配置可在用户会话中使用的输入法</translation>
-<translation id="4873380469296842901">如果启用此设置，已选择启用 Phone Hub 功能的用户将能够在 Chrome 操作系统中收发其手机上的通知。
+<translation id="4873380469296842901">如果启用此设置，已选择启用 Phone Hub 功能的用户将能够在 Egon 操作系统中收发其手机上的通知。
 
       如果停用此设置，用户将无法使用该功能。如果停用 PhoneHubAllowed 政策，用户也将无法使用该功能。
 
@@ -3982,7 +3982,7 @@
       如果您未设置此政策，语音反馈会在登录屏幕上处于关闭状态。用户可以随时开启该功能，并且它在登录屏幕上的状态对所有用户都一致。
 
           注意：<ph name="DEVICE_LOGIN_SCREEN_SPOKEN_FEEDBACK_ENABLED_POLICY_NAME" />（若已指定）会覆盖此政策。</translation>
-<translation id="4945419595339133946">指定系统信息（例如 Chrome 操作系统版本、设备序列号）是否会在登录屏幕上始终显示（或隐藏）。
+<translation id="4945419595339133946">指定系统信息（例如 Egon 操作系统版本、设备序列号）是否会在登录屏幕上始终显示（或隐藏）。
 
       如果此政策设为 true，系统信息将会被强制显示。
       如果此政策设为 false，系统信息将会被强制隐藏。
@@ -4031,14 +4031,14 @@
 <translation id="4980635395568992380">数据类型：</translation>
 <translation id="4981831669478419057">用户将无法使用购物清单功能。</translation>
 <translation id="4983201894483989687">允许运行过期的插件</translation>
-<translation id="4986560318567565414">控制用于从替代浏览器切换至 Chrome 的路径。</translation>
+<translation id="4986560318567565414">控制用于从替代浏览器切换至 Egon 的路径。</translation>
 <translation id="4987813583395474995">如果此政策已启用，已弃用的 U2F Security Key API 仍可供使用，但对于 U2F API 请求，系统不会显示弃用提醒。
 
       如果此政策已停用或未设置，系统将会应用默认行为。
 
-      U2F Security Key API 已弃用，在 Chrome 98 中，它将会默认处于停用状态。
+      U2F Security Key API 已弃用，在 Egon 98 中，它将会默认处于停用状态。
 
-      这是一项临时选择停用机制。自 Chrome 104 起，U2F API 将从 Chrome 中移除，届时此政策将不再受支持。
+      这是一项临时选择停用机制。自 Egon 104 起，U2F API 将从 Egon 中移除，届时此政策将不再受支持。
 
       有关 U2F Security Key API 弃用情况的更多信息，请参阅 https://groups.google.com/a/chromium.org/g/blink-dev/c/xHC3AtU_65A。</translation>
 <translation id="4988291787868618635">闲置延迟时间已过时执行的操作</translation>
@@ -4128,12 +4128,12 @@
           如果未设置此政策，系统将会使用默认命令行。</translation>
 <translation id="5151099177901233471">启用设备时区信息报告功能</translation>
 <translation id="5152393033264257734">允许使用 DNS 拦截检查功能和“您是不是要前往 http://intranetsite/？”信息栏。</translation>
-<translation id="5152787786897382519">Chromium 和 Google Chrome 均有一些政策组，其中的政策以相互依赖的方式来控制某项功能。这些集合由以下政策组表示。如果相关政策有多个来源，系统仅会应用来源优先级最高的值。同一组中来源优先级较低的值会被忽略。<ph name="POLICY_PRIORITY_DOC_URL" /> 中定义了优先级顺序。</translation>
+<translation id="5152787786897382519">Egon 和 Google Egon 均有一些政策组，其中的政策以相互依赖的方式来控制某项功能。这些集合由以下政策组表示。如果相关政策有多个来源，系统仅会应用来源优先级最高的值。同一组中来源优先级较低的值会被忽略。<ph name="POLICY_PRIORITY_DOC_URL" /> 中定义了优先级顺序。</translation>
 <translation id="5153187201534281749">在工具栏中显示浏览器实验性功能图标</translation>
 <translation id="5163002264923337812">启用旧的网页版登录流程</translation>
 <translation id="5163889437570441600">允许使用 <ph name="PRODUCT_NAME" /> 向设备投放内容。
 
-          如果此政策设为 False，用户将无法向其设备投放内容。如果此政策设为 True，用户将能够投放内容。如果未设置此政策，用户将被禁止向已注册的 Chrome 操作系统设备投放内容，但可将内容投放到未注册的设备。</translation>
+          如果此政策设为 False，用户将无法向其设备投放内容。如果此政策设为 True，用户将能够投放内容。如果未设置此政策，用户将被禁止向已注册的 Egon 操作系统设备投放内容，但可将内容投放到未注册的设备。</translation>
 <translation id="516520353995300280">如果您设置了此政策，对于附带指定 <ph name="SUBJECT_PUBLIC_KEY_INFO" /> 哈希的证书链所对应的一系列旧版证书授权机构 (CA)，系统将不会强制执行证书透明度披露要求。因没有恰当公开披露相关信息而不受信任的证书，企业主机也可以继续使用。但是，被识别为旧版 CA 的 CA 证书中必须包含 <ph name="SUBJECT_PUBLIC_KEY_INFO" /> 哈希，才能关闭强制执行。旧版 CA 是受 <ph name="PRODUCT_NAME" /> 所支持的一种或多种操作系统公开信任但不受 Android 开源项目或 <ph name="PRODUCT_OS_NAME" />信任的 CA。
 
       您只需将以下各项连结起来即可指定 <ph name="SUBJECT_PUBLIC_KEY_INFO" /> 哈希：哈希算法名称、“/”字符，以及相应哈希算法（对所指定证书的 DER 编码 <ph name="SUBJECT_PUBLIC_KEY_INFO" /> 应用的哈希算法）的 Base64 编码。Base64 编码的格式与 SPKI 指纹的格式一致。唯一得到认可的哈希算法是 sha256，其他算法都会被忽略。
@@ -4165,12 +4165,12 @@
       另请查看一下 <ph name="COOKIES_BLOCKED_FOR_URLS_POLICY_NAME" /> 和 <ph name="COOKIES_ALLOWED_FOR_URLS_POLICY_NAME" />。虽然这 3 项政策并无优先级差异，它们的网址格式不得互相冲突。
 
       如需详细了解有效的<ph name="URL_LABEL" />格式，请访问 https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns。<ph name="WILDCARD_VALUE" /> 不是此政策可接受的值。</translation>
-<translation id="5177260184597743704">OnSecurityEvent Chrome Enterprise Connector 的配置政策</translation>
+<translation id="5177260184597743704">OnSecurityEvent Egon Enterprise Connector 的配置政策</translation>
 <translation id="5178479074002209469">一个布尔值标记，用于表明：如果此政策要求进行更新，不受管理的用户会话是否应收到通知以及用户是否应被强制退出登录。</translation>
 <translation id="5179853299156742425">可供下载桌面模板的网址。</translation>
 <translation id="5182055907976889880">在 <ph name="PRODUCT_OS_NAME" />中配置 Google 云端硬盘。</translation>
 <translation id="5182483318861266793">将文件架放置到屏幕右侧</translation>
-<translation id="5184298474980725716">此政策用于控制是否将历程显示在“Chrome 历史记录”页面上。
+<translation id="5184298474980725716">此政策用于控制是否将历程显示在“Egon 历史记录”页面上。
 
       如果此政策已启用，历程将会显示在 chrome://history/journeys 页面上。
 
@@ -4188,7 +4188,7 @@
 
       *“适中”- 用户只可选择启用 YouTube“适中”受限模式和 YouTube“严格”受限模式，但无法关闭受限模式。
 
-      *“关闭”或未设置值 - Chrome 不会强制启用 YouTube 受限模式。但是，外部政策（例如 YouTube 政策）仍有可能会强制启用受限模式。</translation>
+      *“关闭”或未设置值 - Egon 不会强制启用 YouTube 受限模式。但是，外部政策（例如 YouTube 政策）仍有可能会强制启用受限模式。</translation>
 <translation id="5191476996923842491">setTimeout() 函数延迟的默认行为。</translation>
 <translation id="519247340330463721">配置与安全浏览功能相关的政策。</translation>
 <translation id="5194683382395300627">允许在网页上使用 <ph name="ASSISTANT_PRODUCT_NAME" />来实现诸多目的（例如启用自动更改密码的功能）</translation>
@@ -4212,9 +4212,9 @@
       如果未做设置，系统会使用默认通知时间段，即 604800000 毫秒（1 周）。</translation>
 <translation id="5212810195096589189">指定虚拟机 CLI 权限</translation>
 <translation id="5213038356678567351">始终不应触发浏览器切换的网站。</translation>
-<translation id="5216815237712190041">配置在无任何用户登录设备的情况下显示在登录屏幕上的设备级壁纸图片。要设置此政策，请指定可供 Chrome 操作系统设备下载相应壁纸图片的网址，并指定用于验证下载内容是否完整的加密哈希值。图片必须是 JPEG 格式，且文件大小不得超过 16MB。网址必须可直接访问，而无需进行任何身份验证。系统会下载并缓存相应的壁纸图片。只要相应网址或哈希值发生了变化，系统就会重新下载该文件。
+<translation id="5216815237712190041">配置在无任何用户登录设备的情况下显示在登录屏幕上的设备级壁纸图片。要设置此政策，请指定可供 Egon 操作系统设备下载相应壁纸图片的网址，并指定用于验证下载内容是否完整的加密哈希值。图片必须是 JPEG 格式，且文件大小不得超过 16MB。网址必须可直接访问，而无需进行任何身份验证。系统会下载并缓存相应的壁纸图片。只要相应网址或哈希值发生了变化，系统就会重新下载该文件。
 
-      设置设备壁纸政策后，如果还没有任何用户登录 Chrome 操作系统设备，该设备将下载相应壁纸图片并在登录屏幕上使用它。一旦用户登录设备，用户的壁纸政策就会生效。
+      设置设备壁纸政策后，如果还没有任何用户登录 Egon 操作系统设备，该设备将下载相应壁纸图片并在登录屏幕上使用它。一旦用户登录设备，用户的壁纸政策就会生效。
 
       如果未设置此设备壁纸政策，则由用户的壁纸政策（如果已设置）来决定要显示的图片。</translation>
 <translation id="5219844027738217407">对于 Android 应用，此政策仅会影响麦克风。当此政策设为 true 时，系统会针对所有 Android 应用（无一例外）将麦克风设为静音。</translation>
@@ -4253,11 +4253,11 @@
       如果此政策已停用，用户将无法保存新密码，但先前保存的密码仍可正常使用。
 
       如果您设置了此政策，用户便无法在 <ph name="PRODUCT_NAME" /> 中更改它。如果您未设置此政策，用户将能够关闭密码保存功能。</translation>
-<translation id="5239333626804545932">如果此政策已启用或未设置，Chrome 清理功能将会定期扫描系统以检测是否存在垃圾软件，并会在发现任何垃圾软件时询问用户是否要将其移除。此外，系统还会允许通过 chrome://settings 手动触发 Chrome 清理功能。
+<translation id="5239333626804545932">如果此政策已启用或未设置，Egon 清理功能将会定期扫描系统以检测是否存在垃圾软件，并会在发现任何垃圾软件时询问用户是否要将其移除。此外，系统还会允许通过 chrome://settings 手动触发 Egon 清理功能。
 
-      如果此政策已停用，Chrome 清理功能将不会定期进行扫描，并且手动触发会被停用。
+      如果此政策已停用，Egon 清理功能将不会定期进行扫描，并且手动触发会被停用。
 
-      在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 Chrome 浏览器云管理的实例。</translation>
+      在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 Egon 浏览器云管理的实例。</translation>
 <translation id="5245647012663146075">不允许启用 Phone Hub</translation>
 <translation id="5245671702326993331">允许使用原生通知</translation>
 <translation id="524637053580639111">在 M82 中，我们移除了此政策，请改用 DeviceMinimumVersion。
@@ -4284,11 +4284,11 @@
 <translation id="5257395339965216304">托管的应用数据</translation>
 <translation id="5258445772095084618">允许独立用户使用所需的虚拟机来支持 Linux 应用</translation>
 <translation id="5262320080678421295">不信任 Symantec Corporation 旧版 PKI 颁发的证书</translation>
-<translation id="5266591246506903971">如果启用此政策，则默认情况下，系统将可以使用匿名报告功能，因此会向 Google 报告与 Chrome 的使用情况和崩溃情况相关的数据。用户将仍能在 Chrome 设置中更改该设置。
+<translation id="5266591246506903971">如果启用此政策，则默认情况下，系统将可以使用匿名报告功能，因此会向 Google 报告与 Egon 的使用情况和崩溃情况相关的数据。用户将仍能在 Egon 设置中更改该设置。
 
       如果停用此政策，系统将无法使用匿名报告功能，因此不会向 Google 发送任何使用情况或崩溃数据。用户将无法更改该设置。
 
-      如果未设置此政策，用户可在安装或首次运行时选择匿名报告行为，日后亦可在 Chrome 设置中更改该设置。
+      如果未设置此政策，用户可在安装或首次运行时选择匿名报告行为，日后亦可在 Egon 设置中更改该设置。
 
       此政策仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的 Windows 实例，或者已注册设备管理服务的 Windows 10 专业版或企业版实例，以及通过 MDM 进行管理或通过 MCX 加入网域的 macOS 实例。
 
@@ -4370,11 +4370,11 @@
 
       如果此政策设为 False，系统会禁止将端口转发到 Crostini 容器。</translation>
 <translation id="538108065117008131">允许“<ph name="PRODUCT_FRAME_NAME" />”处理以下内容类型。</translation>
-<translation id="538768040137709073">启用“共享剪贴板”功能，以允许已启用同步的已登录用户在 Chrome 桌面版和 Android 设备之间发送文字。
+<translation id="538768040137709073">启用“共享剪贴板”功能，以允许已启用同步的已登录用户在 Egon 桌面版和 Android 设备之间发送文字。
 
-          如果此政策设为 true，面向 Chrome 用户提供的跨设备发送文字的功能将处于启用状态。
+          如果此政策设为 true，面向 Egon 用户提供的跨设备发送文字的功能将处于启用状态。
 
-          如果此政策设为 false，面向 Chrome 用户提供的跨设备发送文字的功能将处于停用状态。
+          如果此政策设为 false，面向 Egon 用户提供的跨设备发送文字的功能将处于停用状态。
 
           如果您设置了此政策，用户将无法更改或覆盖它。
 
@@ -4401,7 +4401,7 @@
 
       如需详细了解有效的<ph name="URL_LABEL" />格式，请访问 https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns。<ph name="WILDCARD_VALUE" /> 不是此政策可接受的值。</translation>
 <translation id="5393009997533871906">仅向用户显示许可名单中的打印机</translation>
-<translation id="5398387276166014955">允许在 Chrome 中注入第三方代码</translation>
+<translation id="5398387276166014955">允许在 Egon 中注入第三方代码</translation>
 <translation id="5401696449591951427">启用 <ph name="CHROME_DEVICES_LINK" /></translation>
 <translation id="5405289061476885481">配置允许在 <ph name="PRODUCT_OS_NAME" />登录屏幕上使用哪些键盘布局。
 
@@ -4413,7 +4413,7 @@
 
       如果此政策设为 false 或未设置，系统将不会报告这些信息。
       如果此政策设为 true，系统将会报告设备的应用清单及使用情况。</translation>
-<translation id="5418892536013005088">如果此政策已启用或未设置，系统将可以删除 Chrome 中的浏览器历史记录和下载记录，并且用户无法更改此设置。
+<translation id="5418892536013005088">如果此政策已启用或未设置，系统将可以删除 Egon 中的浏览器历史记录和下载记录，并且用户无法更改此设置。
 
       如果此政策已停用，系统将无法删除浏览器历史记录和下载记录。即使此政策停用，浏览和下载记录也不一定会保留。用户可能能够直接修改或删除历史记录数据库文件，而且浏览器本身也可能会随时将任意或所有历史记录项设为失效或进行归档。</translation>
 <translation id="5420245232720940848">为 Thunderbolt/USB4 外围设备停用 PCIe 隧道以限制设备功能</translation>
@@ -4457,12 +4457,12 @@
 
       <ph name="ISOLATE_ORIGINS_ANDROID_POLICY_NAME" /> 还可用于隔离比网站层级更精确的特定来源（例如，https://a.example.com）。
 
-      注意：对在 Android 设备上隔离每个网站的支持将会不断完善，但目前它可能会导致性能问题，尤其是在低端设备上。此政策仅适用于在 RAM 超过 1 GB 的设备上运行的 Android 版 Chrome。如果想既隔离特定网站，又减少给用户带来的性能影响，请使用 <ph name="ISOLATE_ORIGINS_ANDROID_POLICY_NAME" /> 来指定您想隔离的一系列网站。如需在非 Android 平台上应用此政策，请改用 <ph name="SITE_PER_PROCESS_POLICY_NAME" />。</translation>
+      注意：对在 Android 设备上隔离每个网站的支持将会不断完善，但目前它可能会导致性能问题，尤其是在低端设备上。此政策仅适用于在 RAM 超过 1 GB 的设备上运行的 Android 版 Egon。如果想既隔离特定网站，又减少给用户带来的性能影响，请使用 <ph name="ISOLATE_ORIGINS_ANDROID_POLICY_NAME" /> 来指定您想隔离的一系列网站。如需在非 Android 平台上应用此政策，请改用 <ph name="SITE_PER_PROCESS_POLICY_NAME" />。</translation>
 <translation id="5445596354079213552">仅当设备的自动更新期限已过且不符合允许使用的最低 <ph name="PRODUCT_OS_NAME" />版本（通过 <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" /> 政策设置）的要求时，此政策才有效。
 
       当此政策设为非空字符串时：
       如果 <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" /> 政策中提及的警告期已过，当任何用户都无法登录设备时，系统会在登录屏幕上显示此消息。
-      如果 <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" /> 政策中提及的警告期未过，当用户登录后，系统会在 Chrome 管理页面中显示此消息。
+      如果 <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" /> 政策中提及的警告期未过，当用户登录后，系统会在 Egon 管理页面中显示此消息。
 
       如果此政策未设置或设为空字符串，在上述两种情况下，系统都会向用户显示自动更新期限已过消息。
       自动更新期限已过消息必须是不带任何格式的纯文本，且不得使用任何标记。</translation>
@@ -4514,7 +4514,7 @@
 <translation id="5476152378885134514">禁止这些网站使用剪贴板</translation>
 <translation id="5480380613778757009">如果此政策已停用或未设置，系统将会在受管理访客会话完成后立即重置该会话中已设置的所有显示设置。如果此政策设为 True，系统将会在退出受管理访客会话后保留该会话的显示属性。</translation>
 <translation id="5483065054530244863">允许使用由本地信任锚颁发的 SHA-1 签名证书</translation>
-<translation id="5487758664517243511">如果启用此设置，已选择启用 Phone Hub 功能的用户将能够在 Chrome 操作系统中继续执行尚未在手机中完成的任务（例如查看手机中的网页）。
+<translation id="5487758664517243511">如果启用此设置，已选择启用 Phone Hub 功能的用户将能够在 Egon 操作系统中继续执行尚未在手机中完成的任务（例如查看手机中的网页）。
 
       如果停用此设置，用户将无法使用该功能。如果停用 PhoneHubAllowed 政策，用户也将无法使用该功能。
 
@@ -4525,7 +4525,7 @@
 
       如果您选择了“Disabled”，用户将无法以无痕模式打开网页。
 
-      如果您选择了“Forced”，用户将只能以无痕模式打开网页。请注意，“Forced”不适用于 Android 版 Chrome
+      如果您选择了“Forced”，用户将只能以无痕模式打开网页。请注意，“Forced”不适用于 Android 版 Egon
 
       另请注意：在 iOS 上，如果此政策在会话期间发生更改，相应更改要等到重新启动浏览器时才会生效。</translation>
 <translation id="5497565614013170656">用于匹配打印机 ID 的正则表达式。</translation>
@@ -4544,7 +4544,7 @@
 <translation id="5508307164752647432">启用 Kerberos 功能</translation>
 <translation id="5511702823008968136">启用书签栏</translation>
 <translation id="5512418063782665071">主页网址</translation>
-<translation id="5516293691820655022">完全关闭 Chrome</translation>
+<translation id="5516293691820655022">完全关闭 Egon</translation>
 <translation id="551639594034811656">此政策可指定一个百分比列表，这些百分比用于界定组织部门中每天（从首次发现相应更新的那一天起算）要更新的那部分 <ph name="PRODUCT_OS_NAME" />设备。发现时间会晚于更新发布时间，这是因为设备可能要在更新发布一段时间之后才会检查是否有更新。
 
       每个 (天数, 百分比) 对都包含自发现更新当天起的指定天数内，必须完成更新的设备百分比。例如，如果有以下对：[(4, 40), (10, 70), (15, 100)]，则表示在发现更新后的 4 天内，应完成 40% 的设备更新，10 天内完成 70% 的设备更新，以此类推。
@@ -4618,7 +4618,7 @@
 <translation id="5601503069213153581">PIN 码</translation>
 <translation id="5607021831414604820">启用设备存储状态报告功能</translation>
 <translation id="5614865701790130558">记录基于政策的扩展程序安装事件</translation>
-<translation id="5618398258385745432">在我们推出“查看密码时需重新验证”这一规定之前，我们是使用相关的设置来控制用户能否查看密码。自这一规定推出后，相关设置以及此政策便不再对 Chrome 的行为有任何影响。Chrome 的当前行为等同于此政策设为在密码管理器设置页面中禁止以明文形式显示密码。这意味着，设置页面中包含的只是一个占位符，仅当用户点击“显示”（并进行重新验证，如果适用的话）后，Chrome 才会显示相应密码。此政策的原始描述如下所示：
+<translation id="5618398258385745432">在我们推出“查看密码时需重新验证”这一规定之前，我们是使用相关的设置来控制用户能否查看密码。自这一规定推出后，相关设置以及此政策便不再对 Egon 的行为有任何影响。Egon 的当前行为等同于此政策设为在密码管理器设置页面中禁止以明文形式显示密码。这意味着，设置页面中包含的只是一个占位符，仅当用户点击“显示”（并进行重新验证，如果适用的话）后，Egon 才会显示相应密码。此政策的原始描述如下所示：
 
           控制用户是否可以在密码管理器中以明文形式显示密码。
 
@@ -4636,7 +4636,7 @@
 <translation id="5621503441067774084">允许在登录屏幕上使用光标突出显示</translation>
 <translation id="5622924058222112599">启用默认 CECPQ2 发布流程</translation>
 <translation id="5623304306796942802">有多份证书匹配时发出提示</translation>
-<translation id="5625771176514429288">Chrome 应用可以在这些平台上运行。</translation>
+<translation id="5625771176514429288">Egon 应用可以在这些平台上运行。</translation>
 <translation id="5630352020869108293">恢复上次的会话</translation>
 <translation id="5633871703004128675">启用“插入符号突出显示”无障碍功能</translation>
 <translation id="5634032995857968056">启用渲染程序应用容器沙盒</translation>
@@ -4644,7 +4644,7 @@
 <translation id="5639454129004500060">如果此政策已设置，它会包含用于下载桌面模板文件的信息。这个文件包含要为当前用户配置的桌面模板。
       如果此政策未设置，桌面模板列表中将不包含任何预配置的桌面模板。此政策在以下情况下将不起任何作用：<ph name="DESK_TEMPLATES_ENABLED_POLICY_NAME" /> 政策未设为 true。</translation>
 <translation id="5645779841392247734">在这些网站上允许 Cookie</translation>
-<translation id="5646234199535103501">OnBulkDataEntry Chrome Enterprise Connector 的配置政策</translation>
+<translation id="5646234199535103501">OnBulkDataEntry Egon Enterprise Connector 的配置政策</translation>
 <translation id="5648016151508002741">禁止执行在线 <ph name="OCSP_CRL_LABEL" /> 检查</translation>
 <translation id="5649046890958064703">如果为 <ph name="DEVICE_PRINTERS_ACCESS_MODE_POLICY_NAME" /> 选择了 <ph name="PRINTERS_BLACKLIST" />，您便可通过设置 <ph name="DEVICE_NATIVE_PRINTERS_BLACKLIST_POLICY_NAME" /> 来指定用户不能使用哪些打印机。除了与此政策中所列 ID 对应的打印机之外，其他所有打印机都可供用户使用。ID 必须与 <ph name="DEVICE_PRINTERS_POLICY_NAME" /> 所指定文件内的<ph name="ID_FIELD" />或<ph name="GUID_FIELD" />字段相符。
 
@@ -4730,7 +4730,7 @@
 <translation id="5733040281451845496">如果此政策已启用，仅当在会话内察觉到首项用户活动后，系统才会开始应用电源管理延迟时间和会话时长限制。
 
       如果此政策已停用或未设置，系统会在会话启动后立即开始应用电源管理延迟时间和时长限制。</translation>
-<translation id="5733357908790472408">使用 Chrome 根存储区。</translation>
+<translation id="5733357908790472408">使用 Egon 根存储区。</translation>
 <translation id="5735915264686983150">隐藏并禁用已停用的功能</translation>
 <translation id="5736498355107027047">在任务栏中显示“退出”按钮</translation>
 <translation id="5737394734996319911">无障碍功能“<ph name="PRODUCT_NAME" />”让使用屏幕阅读器的视障用户能够获取对无标签网络图片的说明。如果选择启用该功能，用户将能选择使用匿名 Google 服务为他们遇到的无标签网络图片提供自动说明。
@@ -4764,7 +4764,7 @@
 
       如果此政策设为 False 或未设置，那么从 M80 起，系统会默认停用 Web Components v0 功能。
 
-      在 Chrome 84 之后，此政策将被移除。</translation>
+      在 Egon 84 之后，此政策将被移除。</translation>
 <translation id="575647238840663288">默认情况下，文档可能会被放入以源为键的代理集群中。无法为此类文档设置 document.domain。</translation>
 <translation id="5756680608782814094">报告设备的 VPD 信息。
 
@@ -4789,7 +4789,7 @@
 <translation id="5809728392451418079">设置设备本地帐号的显示名称</translation>
 <translation id="5814301096961727113">设置登录屏幕上语音反馈的默认状态</translation>
 <translation id="5815129011704381141">更新后自动重启</translation>
-<translation id="5815990343032461023">旧行为：自助服务终端 Chrome 应用将由扩展程序系统使用扩展程序清单中的更新网址进行更新，以及由缓存管理器使用政策提供的更新网址进行更新</translation>
+<translation id="5815990343032461023">旧行为：自助服务终端 Egon 应用将由扩展程序系统使用扩展程序清单中的更新网址进行更新，以及由缓存管理器使用政策提供的更新网址进行更新</translation>
 <translation id="5828008775808363753">开机时不启动浏览器</translation>
 <translation id="582857022372205358">启用短边双面打印</translation>
 <translation id="5830196507442186669">允许搭载 <ph name="PRODUCT_OS_NAME" />的设备使用 <ph name="BOREALIS_NAME" /></translation>
@@ -5037,7 +5037,7 @@
 <translation id="6111936128861357925">允许用户玩恐龙复活节彩蛋游戏</translation>
 <translation id="6112524153927257380">如果您设置了此政策，用户便无法绕过下载安全性决策。
 
-      Chrome 中有很多类型的下载警告，这些警告大致分为以下类别（如需详细了解“安全浏览”功能的判定结果，请访问 https://support.google.com/chrome/?p=ib_download_blocked）：
+      Egon 中有很多类型的下载警告，这些警告大致分为以下类别（如需详细了解“安全浏览”功能的判定结果，请访问 https://support.google.com/chrome/?p=ib_download_blocked）：
 
       * 恶意，由“安全浏览”服务器标记
       * 不常见或不需要，由“安全浏览”服务器标记
@@ -5073,15 +5073,15 @@
 <translation id="6135398260575578389">“安全浏览”功能会处于开启状态且会在增强模式下运行。此模式可提高安全性，但需与 Google 分享更多浏览信息。</translation>
 <translation id="6135552820180449830">crosh（自 99 版起受支持）</translation>
 <translation id="6138636318340561140">实时查看网址的安全浏览状态</translation>
-<translation id="6140635914906859015">让您能够以列表形式指定要应用于 <ph name="ON_BULK_DATA_ENTRY_ENTERPRISE_CONNECTOR" /> 企业版接口的 Chrome 企业版接口服务设置，以供系统在下述情况发生时调用：有人通过复制剪贴板内容或拖放网页内容在 Chrome 中输入数据。
+<translation id="6140635914906859015">让您能够以列表形式指定要应用于 <ph name="ON_BULK_DATA_ENTRY_ENTERPRISE_CONNECTOR" /> 企业版接口的 Egon 企业版接口服务设置，以供系统在下述情况发生时调用：有人通过复制剪贴板内容或拖放网页内容在 Egon 中输入数据。
 
       <ph name="ENTERPRISE_CONNECTOR_URL_LIST_FIELD" />、<ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />、<ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> 和 <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> 字段用于确定当用户在特定网页中输入数据时，该接口是否应将此数据发送给系统进行分析，以及要将哪些标记添加到此数据的分析请求中。如果相应的网页网址与某个标记关联的“enable”格式相匹配，但不与此标记关联的任何“disable”格式匹配，该接口便会将这个标记添加到分析请求中。如果该接口向分析请求中添加了至少 1 个标记，系统便会分析输入的数据。
 
       <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> 字段用于确定您指定的设置是与哪个分析服务提供商对应。
 
-      如果您将 <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> 字段设为 1，Chrome 需要先等到分析服务做出响应，再确定是否要授权相应网页访问此数据。如果您将该字段设为任何其他整数值，Chrome 就会立即授权相应网页访问此数据。
+      如果您将 <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> 字段设为 1，Egon 需要先等到分析服务做出响应，再确定是否要授权相应网页访问此数据。如果您将该字段设为任何其他整数值，Egon 就会立即授权相应网页访问此数据。
 
-      <ph name="ENTERPRISE_CONNECTOR_MINIMUM_DATA_SIZE" /> 字段用于指明数据大小下限（以字节为单位）- 在 Chrome 中输入的数据必须达到或超过此限值才能被扫描。如果该字段未设置，默认值为 100 字节。
+      <ph name="ENTERPRISE_CONNECTOR_MINIMUM_DATA_SIZE" /> 字段用于指明数据大小下限（以字节为单位）- 在 Egon 中输入的数据必须达到或超过此限值才能被扫描。如果该字段未设置，默认值为 100 字节。
 
       <ph name="ENTERPRISE_CONNECTOR_REQUIRE_JUSTIFICATION_TAGS_FIELD" /> 字段用于确定该接口应要求用户为哪些标记输入理由，以绕过那些触发了可绕过式警告的扫描。如果该字段未设置，系统会假设不需要输入理由。
 
@@ -5095,7 +5095,7 @@
 
       用户可以触发导入对话框，系统将会根据此政策的值选中或不选中“自动填充表单数据”复选框。</translation>
 <translation id="614522356524762803">
-      控制 Chrome 状态报告上传频率。
+      控制 Egon 状态报告上传频率。
 
       包括 <ph name="CLOUD_REPORTING_ENABLED_POLICY_NAME" /> 启用的报告。
 
@@ -5124,7 +5124,7 @@
 <translation id="6181304954168534748">桌面模板的 SHA-256 哈希值。</translation>
 <translation id="6181618732396778048">不允许任何网站请求对文件和目录的写入权限</translation>
 <translation id="6181783961196084973">用于切换应用活动记录功能的状态的值。如果设为 true，系统会向服务器报告用户的应用活动，以便在孩子和家长的 <ph name="PRODUCT_NAME" /> 应用中显示该数据。如果设为 false，应用级使用时限功能仍会正常运行，但系统不会向服务器报告任何数据，因此 <ph name="PRODUCT_NAME" /> 中也不会显示任何数据。</translation>
-<translation id="6182563940865917569">允许 Chrome 自动播放媒体</translation>
+<translation id="6182563940865917569">允许 Egon 自动播放媒体</translation>
 <translation id="6184385589352532028">禁止第三方使用 Desk API 控制 ChromeOS</translation>
 <translation id="6190367314942602985">报告用户标识信息</translation>
 <translation id="6191963383731098056">此政策让管理员能够配置 <ph name="PRODUCT_NAME" /> 主题的颜色。输入的字符串应是有效的十六进制颜色字符串（采用“#RRGGBB”格式）。
@@ -5138,7 +5138,7 @@
 
                   如果此政策设为 Disabled，系统会停用 First-Party Set 功能。
 
-                  此政策用于控制 Chrome 是否支持 First-Party Set 相关功能（例如 SameParty Cookie 属性）。</translation>
+                  此政策用于控制 Egon 是否支持 First-Party Set 相关功能（例如 SameParty Cookie 属性）。</translation>
 <translation id="6195802366906945965">确定是否会使用内置的证书验证程序来验证服务器证书</translation>
 <translation id="6198947200418556248">此政策已被弃用；如果您仍需设置旧版 Cookie 行为，请改用 <ph name="LEGACY_SAMESITE_COOKIE_BEHAVIOR_ENABLED_FOR_DOMAIN_LIST_POLICY_NAME" />。此政策让您能够将所有 Cookie 都恢复为旧版 <ph name="ATTRIBUTE_SAMESITE_NAME" /> 行为。恢复为旧版行为会导致未指定 <ph name="ATTRIBUTE_SAMESITE_NAME" /> 属性的 Cookie 被当作“<ph name="ATTRIBUTE_VALUE_SAMESITE_NONE" />”Cookie 来处理，会撤消“<ph name="ATTRIBUTE_VALUE_SAMESITE_NONE" />”Cookie 必须附带“<ph name="ATTRIBUTE_SECURE_NAME" />”属性的要求，并会在评估两个网站是否为同一个网站时跳过架构对比。如需查看完整说明，请参阅 https://www.chromium.org/administrators/policy-list-3/cookie-legacy-samesite-policies。
 
@@ -5193,7 +5193,7 @@
 <translation id="6258658183356534534">控制 User-Agent Client Hints GREASE Update 功能。</translation>
 <translation id="6261643884958898336">报告机器标识信息</translation>
 <translation id="6265892395051519509">允许在这些网站上使用传感器</translation>
-<translation id="6266043141694454734">确定是否使用 Chrome 根存储区和内置的证书验证程序来验证服务器证书</translation>
+<translation id="6266043141694454734">确定是否使用 Egon 根存储区和内置的证书验证程序来验证服务器证书</translation>
 <translation id="6270615143812355589">启用音频输入</translation>
 <translation id="6270791075656665237">禁止使用 QUIC</translation>
 <translation id="6273015149273504999">
@@ -5205,9 +5205,9 @@
 
       如果以前强制安装的某个应用或扩展程序从此列表中被移除了，<ph name="PRODUCT_NAME" /> 便会自动卸载该应用或扩展程序。
 
-      此政策的每个列表项都是一个字符串，其中包含一个扩展程序 ID 和一个可选的“更新”网址（这两者之间以英文分号 <ph name="SEMICOLON" /> 分隔）。扩展程序 ID 是一个由 32 个字母构成的字符串；若想查看该字符串，一种方法是在开发者模式下访问 <ph name="CHROME_EXTENSIONS_LINK" />。“更新”网址（若指定）应指向一个更新清单 XML 文档，如 <ph name="LINK_TO_EXTENSION_DOC1" /> 中所述。默认情况下，系统会使用 Chrome 应用商店的更新网址（该网址目前为“https://clients2.google.com/service/update2/crx”）。请注意，此政策中设置的“更新”网址仅用于初次安装；相应扩展程序的后续更新将会使用该扩展程序的清单中指定的更新网址。
+      此政策的每个列表项都是一个字符串，其中包含一个扩展程序 ID 和一个可选的“更新”网址（这两者之间以英文分号 <ph name="SEMICOLON" /> 分隔）。扩展程序 ID 是一个由 32 个字母构成的字符串；若想查看该字符串，一种方法是在开发者模式下访问 <ph name="CHROME_EXTENSIONS_LINK" />。“更新”网址（若指定）应指向一个更新清单 XML 文档，如 <ph name="LINK_TO_EXTENSION_DOC1" /> 中所述。默认情况下，系统会使用 Egon 应用商店的更新网址（该网址目前为“https://clients2.google.com/service/update2/crx”）。请注意，此政策中设置的“更新”网址仅用于初次安装；相应扩展程序的后续更新将会使用该扩展程序的清单中指定的更新网址。
 
-      例如，<ph name="LOGIN_SCREEN_EXTENSION_POLICY_EXAMPLE" /> 会从标准 Chrome 应用商店“更新”网址安装 <ph name="SMART_CARD_CONNECTOR_APP_NAME" /> 应用。如需详细了解如何托管扩展程序，请访问 <ph name="LINK_TO_EXTENSION_DOC2" />。</translation>
+      例如，<ph name="LOGIN_SCREEN_EXTENSION_POLICY_EXAMPLE" /> 会从标准 Egon 应用商店“更新”网址安装 <ph name="SMART_CARD_CONNECTOR_APP_NAME" /> 应用。如需详细了解如何托管扩展程序，请访问 <ph name="LINK_TO_EXTENSION_DOC2" />。</translation>
 <translation id="6273107124506133797">此政策已被弃用且不再受支持，请改用 <ph name="USB_DETACHABLE_ALLOWLIST_POLICY_NAME" />。</translation>
 <translation id="6274202259872570803">屏幕录制</translation>
 <translation id="6275497712828649588">使用可能不安全的命令行标记时隐藏安全警告</translation>
@@ -5280,7 +5280,7 @@
       如果您未设置此政策，屏幕键盘会在登录屏幕上处于关闭状态。用户可以随时开启该键盘，并且它在登录屏幕上的状态对所有用户都一致。
 
       注意：<ph name="DEVICE_LOGIN_SCREEN_VIRTUAL_KEYBOARD_ENABLED_POLICY_NAME" />（若已指定）会覆盖此政策。</translation>
-<translation id="6316885783540658874">此政策旨在控制是否为 Chrome 操作系统上的 <ph name="DM_CRYPT" /> 用户主目录启用“<ph name="AES_KL_NAME" />”实现方案来进行用户存储加密（若支持）。
+<translation id="6316885783540658874">此政策旨在控制是否为 Egon 操作系统上的 <ph name="DM_CRYPT" /> 用户主目录启用“<ph name="AES_KL_NAME" />”实现方案来进行用户存储加密（若支持）。
 
        此政策仅适用于那些使用 <ph name="DM_CRYPT" /> 进行加密的用户主目录。旧版用户主目录（不使用 <ph name="DM_CRYPT" /> 的那些用户主目录）不支持使用“<ph name="AES_KL_NAME" />”，而是默认使用“<ph name="AES_NI_NAME" />”。
 
@@ -5307,14 +5307,14 @@
           指定的政策值应以毫秒为单位，且不得大于闲置延迟时间。
 
           仅当闲置操作为注销或关机时，系统才会显示警告消息。</translation>
-<translation id="6331172765821724350">允许通过 Chrome flag 停用 WebSQL。</translation>
+<translation id="6331172765821724350">允许通过 Egon flag 停用 WebSQL。</translation>
 <translation id="6331943515692769234">强制使用旧版 User-Agent GREASE 算法。</translation>
 <translation id="6332546092866098577">禁止在这些网站上通过 File System API 读取内容</translation>
 <translation id="6334330017384340264">此政策用于指定哪些应用和网址可以不受应用级使用限制的约束。
         所配置的许可名单会应用于 <ph name="PRODUCT_OS_NAME" />上安装的应用，这些应用针对给定用户设置了应用级使用时限。
         所配置的许可名单只能应用于儿童用户帐号，并且仅当已设置 <ph name="PER_APP_TIME_LIMITS_POLICY_NAME" /> 政策后才会生效。
         所配置的许可名单会应用于相符的应用和网址，使它们不受应用级使用时限的约束。
-        对所许可网址的访问时长不会计入 Chrome 使用时限。
+        对所许可网址的访问时长不会计入 Egon 使用时限。
         如果您向 |url_list| 中添加网址正则表达式，与该列表中任一正则表达式匹配的网址即可不受应用级使用时限的约束。
         如果您向 |app_list| 中添加某个应用及其 |app_id| 和 |app_type|，该应用便可不受应用级使用时限的约束。
        </translation>
@@ -5382,7 +5382,7 @@
       如果此政策设为 true 或未设置，系统将会报告设备的网络配置。</translation>
 <translation id="6398489342702562818">通过设置此政策，您可强制启用或停用快速配对功能。
       快速配对是一种新的蓝牙配对流程，用于将已配对的外围设备与 GAIA 帐号关联起来。
-      这样便能让使用同一 GAIA 帐号登录的其他 Chrome 操作系统（和 Android）设备自动配对。
+      这样便能让使用同一 GAIA 帐号登录的其他 Egon 操作系统（和 Android）设备自动配对。
       如果未设置此政策，则默认情况下，快速配对功能对于企业用户处于停用状态，对于不受管理的帐号则处于启用状态。</translation>
 <translation id="6401669939808766804">使用户退出</translation>
 <translation id="640244877779556713">启用表情符号建议</translation>
@@ -5416,7 +5416,7 @@
 <translation id="6452882999388592166">如果此政策已启用，系统会在浏览器启动时加载内置的 CryptoToken 组件扩展程序。如果此政策已停用或未设置，系统不会在浏览器启动时加载 CryptoToken。此政策旨在作为一种临时的变通方案，用于处理因未定义“chrome.runtime”（这是由于在 M106 中移除 CryptoToken 所致的不良后果）而无法正常运行的网站。网站不得依赖于无条件定义的“chrome.runtime”。</translation>
 <translation id="6453641799812499182">在新版 <ph name="CORS" /> 实现方案中启用 <ph name="CORS" /> 检查缓解功能</translation>
 <translation id="645425387487868471">为 <ph name="PRODUCT_NAME" /> 启用强制登录功能</translation>
-<translation id="6455842857207956758">允许在多部 Chrome 设备之间同步 SAML 密码，方法是：监控密码同步令牌的值，并在密码已更新且需要同步时要求用户在线重新验证身份。
+<translation id="6455842857207956758">允许在多部 Egon 设备之间同步 SAML 密码，方法是：监控密码同步令牌的值，并在密码已更新且需要同步时要求用户在线重新验证身份。
 
       启用此政策后，可在 chrome://password-change 中启用一个页面，以便 SAML 用户能够在会话期间更改其 SAML 密码，从而确保 SAML 密码和设备屏幕解锁密码保持同步。
 
@@ -5534,7 +5534,7 @@
           如果此政策已停用，则即使存在音频活动，系统仍会将设备视为闲置。</translation>
 <translation id="6559475864956112261">此政策已被弃用，请改用 <ph name="PROXY_SETTINGS_POLICY_NAME" />。
 
-       如果此政策已启用，您便可指定 Chrome 使用的代理服务器，并禁止用户更改代理设置。Chrome 和 ARC 应用会忽略通过命令行指定的所有与代理有关的选项。此政策仅在 <ph name="PROXY_SETTINGS_POLICY_NAME" /> 政策未被指定时生效。
+       如果此政策已启用，您便可指定 Egon 使用的代理服务器，并禁止用户更改代理设置。Egon 和 ARC 应用会忽略通过命令行指定的所有与代理有关的选项。此政策仅在 <ph name="PROXY_SETTINGS_POLICY_NAME" /> 政策未被指定时生效。
 
        如果您选择以下设置，系统会忽略其他选项：
          * <ph name="PROXY_MODE_ENUM_DIRECT" /> = 永不使用代理服务器，一律直接连接
@@ -5547,7 +5547,7 @@
 
       如果您未设置此政策，用户便可自行选择代理设置。
 
-      注意：如需查看详细示例，请访问 Chromium 项目 ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett )。</translation>
+      注意：如需查看详细示例，请访问 Egon 项目 ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett )。</translation>
 <translation id="656130159911161669">ChromeOS 更新会忽略自助服务终端应用清单中定义的版本</translation>
 <translation id="6561396069801924653">在系统任务栏菜单中显示无障碍选项</translation>
 <translation id="6562889469672829421">系统应在设备闲置多久（以毫秒为单位）后调暗屏幕</translation>
@@ -5798,7 +5798,7 @@
 
       如果此政策设为 True 或未设置，<ph name="PRODUCT_NAME" /> 将会支持 CORS 非通配符式请求标头，并会具有上述行为。
 
-      如果此政策设为 False，Chrome 将会允许在 CORS 预检响应中的 Access-Control-Allow-Headers 标头内使用通配符“*”涵盖授权标头。
+      如果此政策设为 False，Egon 将会允许在 CORS 预检响应中的 Access-Control-Allow-Headers 标头内使用通配符“*”涵盖授权标头。
 
       这项企业政策只是暂时性政策，预计日后会移除。</translation>
 <translation id="6789422336869764846">如果此政策已启用或未设置，已注册的设备将会报告设备的开发者模式切换按钮在机器启动时的状态。
@@ -5929,7 +5929,7 @@
       请注意：如果此政策设为 true 或未配置，但 <ph name="LACROS_SECONDARY_PROFILES_ALLOWED_POLICY_NAME" /> 设为 false，<ph name="LACROS_NAME" /> 将会禁止启用访客个人资料。</translation>
 <translation id="6920640961852058581">更改 Kerberos 票据的默认配置</translation>
 <translation id="692096803256767290">将 OS 回滚到目标版本</translation>
-<translation id="6921544339867564740">允许设备在 Chrome 操作系统中运行虚拟机</translation>
+<translation id="6921544339867564740">允许设备在 Egon 操作系统中运行虚拟机</translation>
 <translation id="6922884955650325312">禁止 <ph name="FLASH_PLUGIN_NAME" /> 插件运行</translation>
 <translation id="6924223708804692571">强制停用语言拼写检查。该列表中未识别的语言将被忽略。
 
@@ -6027,14 +6027,14 @@
       如果选择“U2F”，集成的双重身份验证将会按照 FIDO U2F 规范发挥作用。
 
       如果选择“U2F_EXTENDED”，集成的双重身份验证将不仅会提供 U2F 功能，还会提供一些扩展功能以便进行个人验证。</translation>
-<translation id="6998179760789945134">停用不安全情境中的 WebSQL，除非已通过 Chrome flag 启用。</translation>
+<translation id="6998179760789945134">停用不安全情境中的 WebSQL，除非已通过 Egon flag 启用。</translation>
 <translation id="6999948519306285655">此政策已被弃用，请改用 <ph name="PROXY_SETTINGS_POLICY_NAME" />。
 
        通过设置此政策，您可以指定代理 .pac 文件的网址。此政策仅在 <ph name="PROXY_SETTINGS_POLICY_NAME" /> 政策未被指定并且您选择了 <ph name="PROXY_MODE_POLICY_NAME" /> 中的 <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" /> 时生效。
 
        如果您选择了任何其他用于设置代理政策的模式，请勿设置此政策。
 
-      注意：如需查看详细示例，请访问 Chromium 项目 ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett )。</translation>
+      注意：如需查看详细示例，请访问 Egon 项目 ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett )。</translation>
 <translation id="7002040773317582266">已为主帧网址启用实时检查功能。</translation>
 <translation id="7003746348783715221">“<ph name="PRODUCT_NAME" />”偏好设置</translation>
 <translation id="7007283257527015835">一个布尔值标记，用于表明是否应将该协议处理程序设为默认处理程序。</translation>
@@ -6072,7 +6072,7 @@
       在此政策中设置一系列网址的效果等同于将 --unsafely-treat-insecure-origin-as-secure 命令行标记设为包含同一系列网址的逗号分隔列表。此政策会覆盖该命令行标记和 UnsafelyTreatInsecureOriginAsSecure（若存在）。
 
       如需详细了解安全上下文，请参阅“安全上下文”( https://www.w3.org/TR/secure-contexts )。</translation>
-<translation id="703672323011778742">此政策已在 M88 中弃用，并且 Chrome 已不再支持 Flash。如果此政策设为 1，系统会允许您设置是否所有网站都能自动运行 <ph name="FLASH_PLUGIN_NAME" /> 插件。如果此政策设为 2，系统会禁止所有网站使用此插件。选中“Click to play”选项会允许 <ph name="FLASH_PLUGIN_NAME" /> 插件运行，但用户必须点击该插件才能启动它。
+<translation id="703672323011778742">此政策已在 M88 中弃用，并且 Egon 已不再支持 Flash。如果此政策设为 1，系统会允许您设置是否所有网站都能自动运行 <ph name="FLASH_PLUGIN_NAME" /> 插件。如果此政策设为 2，系统会禁止所有网站使用此插件。选中“Click to play”选项会允许 <ph name="FLASH_PLUGIN_NAME" /> 插件运行，但用户必须点击该插件才能启动它。
 
       如果您未设置此政策，系统会使用 <ph name="BLOCK_PLUGINS_POLICY_NAME" />，但用户可以更改此设置。
 
@@ -6165,9 +6165,9 @@
           如果您未设置此政策，最初鼠标左键会是主键，但用户随时可将主键切换成右键。</translation>
 <translation id="7137460825181247519">此政策已在 <ph name="PRODUCT_NAME" /> 83 中弃用，请改用 <ph name="SAFE_BROWSING_PROTECTION_LEVEL_POLICY_NAME" />。
 
-      如果此政策已启用，Chrome 的“安全浏览”功能会保持开启状态。如果此政策已停用，Chrome 的“安全浏览”功能会保持关闭状态。
+      如果此政策已启用，Egon 的“安全浏览”功能会保持开启状态。如果此政策已停用，Egon 的“安全浏览”功能会保持关闭状态。
 
-      如果您设置了此政策，用户便无法更改它或覆盖 Chrome 中的“启用针对网上诱骗和恶意软件的防护功能”设置。如果您不设置此政策，“启用针对网上诱骗和恶意软件的防护功能”会设为 True，但用户可以更改它。
+      如果您设置了此政策，用户便无法更改它或覆盖 Egon 中的“启用针对网上诱骗和恶意软件的防护功能”设置。如果您不设置此政策，“启用针对网上诱骗和恶意软件的防护功能”会设为 True，但用户可以更改它。
 
       详细了解“安全浏览”功能 ( https://developers.google.com/safe-browsing )。
 
@@ -6184,7 +6184,7 @@
 
       系统可识别的连接类型标识符包括 <ph name="CONNECTION_TYPE_ETHERNET_NAME" />、<ph name="CONNECTION_TYPE_WIFI_NAME" /> 和 <ph name="CONNECTION_TYPE_CELLULAR_NAME" />。</translation>
 <translation id="7150722575502017208">不要求本地用户的名称和远程访问主机所有者的名称一致</translation>
-<translation id="7151366515472588710">客户端不应解释此数据，而应一字不差地转发它。DMServer 使用 policy_version 验证 DMServer 的政策视图是否与 Chrome 操作系统设备的视图匹配。</translation>
+<translation id="7151366515472588710">客户端不应解释此数据，而应一字不差地转发它。DMServer 使用 policy_version 验证 DMServer 的政策视图是否与 Egon 操作系统设备的视图匹配。</translation>
 <translation id="7152605873936173525">控制 DNS-over-HTTPS 解析器的模式。请注意，此政策仅会为每次查询设置默认模式。对于特殊类型的查询（例如，请求解析 DNS-over-HTTPS 服务器主机名），此政策所设的模式可能会被覆盖。
 
       “<ph name="SECURE_DNS_MODE_OFF" />”模式会停用 DNS-over-HTTPS。
@@ -6207,7 +6207,7 @@
       如果此政策已停用，系统会阻止使用“本地设备发现”功能。
       </translation>
 <translation id="7167436895080860385">允许用户在密码管理器中显示密码（已弃用）</translation>
-<translation id="7172046613126456732">允许 Chrome 在未注册 Chrome 浏览器云管理的情况下启动</translation>
+<translation id="7172046613126456732">允许 Egon 在未注册 Egon 浏览器云管理的情况下启动</translation>
 <translation id="7173856672248996428">临时个人资料</translation>
 <translation id="717630378807352957">允许使用配置文件中的所有打印机。</translation>
 <translation id="7177293255621000064">如果此政策设为 True，用户将无法在文件浏览器中使用任何类型的外部存储媒介（USB 闪存驱动器、外部硬盘、SD 卡和其他存储卡、光存储器）。如果此政策设为 False 或不设置，用户便能在自己的设备上使用外部存储设备。
@@ -6234,11 +6234,11 @@
 <translation id="719398790886719721">停用对 Linux 虚拟机的 root 访问权限</translation>
 <translation id="7194407337890404814">默认搜索服务提供商名称</translation>
 <translation id="7198134478421755850">扩展程序</translation>
-<translation id="7199304109870655950">在 Chrome 远程桌面主机中配置远程访问选项。
+<translation id="7199304109870655950">在 Egon 远程桌面主机中配置远程访问选项。
 
-      Chrome 远程桌面主机是一项在目标计算机（用户可通过“Chrome 远程桌面”应用连接到该计算机）上运行的本机服务。此项本机服务已经过封装，且会与 <ph name="PRODUCT_NAME" /> 浏览器分开运行。
+      Egon 远程桌面主机是一项在目标计算机（用户可通过“Egon 远程桌面”应用连接到该计算机）上运行的本机服务。此项本机服务已经过封装，且会与 <ph name="PRODUCT_NAME" /> 浏览器分开运行。
 
-      系统会自动忽略这些政策，除非安装了 Chrome 远程桌面主机。</translation>
+      系统会自动忽略这些政策，除非安装了 Egon 远程桌面主机。</translation>
 <translation id="7202925763179776247">允许下载限制</translation>
 <translation id="7207095846245296855">强制启用 Google 安全搜索功能</translation>
 <translation id="7208483746373960784">此设置用于确定在 <ph name="LACROS_NAME" /> 停用后保留多少用户数据。
@@ -6267,7 +6267,7 @@
       如果您将此政策设为 <ph name="ASK_WINDOW_PLACEMENT_POLICY_NAME" />（值 3），默认情况下，当网站请求获取窗口放置权限时，系统会提示用户。如果用户同意授予这项权限，则会扩展网站的以下功能：查看设备屏幕的相关信息，以及使用该信息在特定屏幕上打开并放置窗口或者请求进入全屏模式。
 
       如果您未设置此政策，则系统会应用 <ph name="ASK_WINDOW_PLACEMENT_POLICY_NAME" /> 政策，但用户可以更改此设置。</translation>
-<translation id="7244600351241637530">如果启用此设置，已选择启用 Phone Hub 功能的用户将能够在 Chrome 操作系统中查看和下载其手机上近期拍摄的照片和视频。
+<translation id="7244600351241637530">如果启用此设置，已选择启用 Phone Hub 功能的用户将能够在 Egon 操作系统中查看和下载其手机上近期拍摄的照片和视频。
 
       如果停用此设置，用户将无法使用该功能。如果停用 <ph name="PHONE_HUB_ALLOWED_POLICY_NAME" /> 政策，用户也将无法使用该功能。
 
@@ -6279,7 +6279,7 @@
 
       将此政策设为 true 也会停用那些使用 IPPS、USB 和 USB 型 IPP 以外协议的打印机，因为用户名和文件名不应通过网络公开发送。</translation>
 <translation id="7253446510183499868">禁止在更新后自动重新启动</translation>
-<translation id="7257092058788772055">通过设置此政策，您可以配置 <ph name="PRODUCT_NAME" /> 中的默认主页网址。您可以使用“主页”按钮打开主页。在桌面设备上，<ph name="RESTORE_ON_STARTUP_POLICY_NAME" /> 政策控制着哪些页面会在 Chrome 启动时打开。
+<translation id="7257092058788772055">通过设置此政策，您可以配置 <ph name="PRODUCT_NAME" /> 中的默认主页网址。您可以使用“主页”按钮打开主页。在桌面设备上，<ph name="RESTORE_ON_STARTUP_POLICY_NAME" /> 政策控制着哪些页面会在 Egon 启动时打开。
 
       如果用户或 <ph name="HOMEPAGE_IS_NEW_TAB_PAGE_POLICY_NAME" /> 将主页设为“新标签页”页面，此政策不会产生任何影响。
 
@@ -6288,7 +6288,7 @@
       如果 <ph name="HOMEPAGE_LOCATION_POLICY_NAME" /> 和 <ph name="HOMEPAGE_IS_NEW_TAB_PAGE_POLICY_NAME" /> 均未设置，用户便可自行选择主页。
 
       在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 <ph name="CHROME_BROWSER_CLOUD_MANAGEMENT_NAME" />的实例。在 <ph name="MAC_OS_NAME" /> 上，此功能仅适用于通过 MDM 进行管理或通过 MCX 加入网域的实例。</translation>
-<translation id="7258250780552783197">让您能够指定一系列要应用于 <ph name="ON_FILE_TRANSFER_ENTERPRISE_CONNECTOR" /> 企业版接口的 Chrome 企业版接口服务设置，以供系统在有人在 <ph name="PRODUCT_OS_NAME" /> 中传输文件时调用。
+<translation id="7258250780552783197">让您能够指定一系列要应用于 <ph name="ON_FILE_TRANSFER_ENTERPRISE_CONNECTOR" /> 企业版接口的 Egon 企业版接口服务设置，以供系统在有人在 <ph name="PRODUCT_OS_NAME" /> 中传输文件时调用。
 
       <ph name="ENTERPRISE_CONNECTOR_SOURCE_DESTINATION_LIST_FIELD" />、<ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />、<ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> 和 <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> 字段用于确定当用户在源位置和目标位置之间传输某个文件时，该接口是否应将此文件发送给系统进行分析，以及要将哪些标记添加到此文件的分析请求中。如果相应的源位置和目标位置与某个标记关联的“enable”规则相匹配，那么只要此标记关联的“disable”规则不与此传输匹配，该接口便会将这个标记添加到分析请求中。如果该接口向分析请求中添加了至少 1 个标记，系统便会分析此文件。<ph name="ENTERPRISE_CONNECTOR_SOURCE_DESTINATION_LIST_FIELD" /> 规则由对列表定义，其中每个对都包含源位置列表和目标位置列表。<ph name="ENTERPRISE_CONNECTOR_FILE_SYSTEM_TYPE_FIELD" /> 用于定义规则应该应用到哪个文件系统。
 
@@ -6354,9 +6354,9 @@
 <translation id="7313672174502374994">相应壁纸图片的 SHA-256 哈希值。</translation>
 <translation id="7322825363493984512">用于向远程网络代理验证系统服务身份的密码。</translation>
 <translation id="7323896582714668701">适用于 <ph name="PRODUCT_NAME" />的其他命令行参数</translation>
-<translation id="7325801934761922681">不允许 Chrome 阻止导航到沙盒化 iframe 内的外部协议</translation>
+<translation id="7325801934761922681">不允许 Egon 阻止导航到沙盒化 iframe 内的外部协议</translation>
 <translation id="7326394567531622570">与 Wipe（值 2）类似，但该选项会尝试保留登录令牌，以使用户无需再次登录。</translation>
-<translation id="7331962793961469250">设置为“True”时，新标签页中不会显示 Chrome 应用商店应用的推广内容。如果将此选项设置为“False”或不做任何设置，新标签页中就会显示 Chrome 应用商店应用的推广内容。</translation>
+<translation id="7331962793961469250">设置为“True”时，新标签页中不会显示 Egon 应用商店应用的推广内容。如果将此选项设置为“False”或不做任何设置，新标签页中就会显示 Egon 应用商店应用的推广内容。</translation>
 <translation id="7332963785317884918">此政策已被弃用。<ph name="PRODUCT_OS_NAME" />将始终使用“RemoveLRU”清理策略。
 
       控制<ph name="PRODUCT_OS_NAME" />设备上的自动清理行为。当可用磁盘空间的大小达到设定的临界值时，系统会触发自动清理，以便释放部分磁盘空间。
@@ -6387,7 +6387,7 @@
 <translation id="7358359585412734876">启用 <ph name="LACROS_NAME" /></translation>
 <translation id="736486789939370545">允许安装外部扩展程序</translation>
 <translation id="7366948865469126526">停用快速解答单位换算功能</translation>
-<translation id="7367734504783638685">第三方 SSO 提供商和 Chrome 设备之间的密码同步</translation>
+<translation id="7367734504783638685">第三方 SSO 提供商和 Egon 设备之间的密码同步</translation>
 <translation id="7372831798009983116">启用“自动点击”无障碍功能</translation>
 <translation id="7373200034079131670">在用户退出后重新启动（如果 Android 或虚拟机已启动）。</translation>
 <translation id="7375785904116479354">如果此政策已启用，当首次运行浏览器时，系统将会从先前的默认浏览器导入默认搜索引擎。如果此政策已停用或未设置，当首次运行浏览器时，系统不会导入默认搜索引擎。
@@ -6416,7 +6416,7 @@
        如果此政策已停用或未设置，第三方图片将无法显示身份验证提示。
 
       通常，为防御网上诱骗攻击，此政策将被停用。</translation>
-<translation id="7403217961820363141">将历程显示在“Chrome 历史记录”页面上</translation>
+<translation id="7403217961820363141">将历程显示在“Egon 历史记录”页面上</translation>
 <translation id="7406039009275722824">停用 <ph name="CHROME_SYNC_NAME" />会导致 Android 的备份和恢复机制无法正常运行。</translation>
 <translation id="7407441173422042771">此政策旨在控制 <ph name="PRODUCT_NAME" /> 中的网络预测功能。它控制着 DNS 预提取、TCP 和 SSL 预连接以及网页预呈现。
 
@@ -6470,17 +6470,17 @@
       注意：如果需要执行的操作是暂停，您还可另行设置 <ph name="PRODUCT_OS_NAME" />在暂停前是否锁定屏幕。</translation>
 <translation id="7477149584454865826">一个布尔值标记，用于表明是否应该使用 IPP Everywhere 来设置打印机。</translation>
 <translation id="7477231245051133709">启用“单声道音频”无障碍功能</translation>
-<translation id="7480826412572122600">让您能够以列表形式指定要应用于 <ph name="ON_FILE_DOWNLOADED_ENTERPRISE_CONNECTOR" /> 企业版接口的 Chrome 企业版接口服务设置，以供系统在有人通过 Chrome 下载文件时调用。
+<translation id="7480826412572122600">让您能够以列表形式指定要应用于 <ph name="ON_FILE_DOWNLOADED_ENTERPRISE_CONNECTOR" /> 企业版接口的 Egon 企业版接口服务设置，以供系统在有人通过 Egon 下载文件时调用。
 
       <ph name="ENTERPRISE_CONNECTOR_URL_LIST_FIELD" />、<ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />、<ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> 和 <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> 字段用于确定当用户从特定网页下载某个文件时，该接口是否应将此文件发送给系统进行分析，以及要将哪些标记添加到此文件的分析请求中。如果相应的网页网址与某个标记关联的“enable”格式相匹配，但不与此标记关联的任何“disable”格式匹配，该接口便会将这个标记添加到分析请求中。如果该接口向分析请求中添加了至少 1 个标记，系统便会分析输入的数据。
 
       <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> 字段用于确定您指定的设置是与哪个分析服务提供商对应。
 
-      如果您将 <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> 字段设为 1，Chrome 需要先等到分析服务做出响应，再确定是否要授权相应用户访问所下载的文件。如果您将该字段设为任何其他整数值，Chrome 就会立即授权相应用户访问此文件。
+      如果您将 <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> 字段设为 1，Egon 需要先等到分析服务做出响应，再确定是否要授权相应用户访问所下载的文件。如果您将该字段设为任何其他整数值，Egon 就会立即授权相应用户访问此文件。
 
-      <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> 字段用于控制 Chrome 是会禁止访问还是会允许访问受密码保护的文件。
+      <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> 字段用于控制 Egon 是会禁止访问还是会允许访问受密码保护的文件。
 
-      <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> 字段用于控制 Chrome 是会禁止访问还是会允许访问因过大而无法分析的文件。
+      <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> 字段用于控制 Egon 是会禁止访问还是会允许访问因过大而无法分析的文件。
 
       <ph name="ENTERPRISE_CONNECTOR_REQUIRE_JUSTIFICATION_TAGS_FIELD" /> 字段用于确定该接口应要求用户为哪些标记输入理由，以绕过那些触发了可绕过式警告的扫描。如果该字段未设置，系统会假设不需要输入理由。
 
@@ -6539,7 +6539,7 @@
       如果此政策设为 false 或未设置，系统将不会启用 TLS 中的 RC4 加密套件。您也可将此政策设为 true，以便与过时的服务器保持兼容。这只是一种权宜之计，正确的做法是重新配置服务器。</translation>
 <translation id="7519218194072744342">协议处理程序的网址。</translation>
 <translation id="7519251620064708155">允许在这些网站上使用密钥生成功能</translation>
-<translation id="7521864460386999758">禁止在 Chrome 中注入第三方代码</translation>
+<translation id="7521864460386999758">禁止在 Egon 中注入第三方代码</translation>
 <translation id="7529144158022474049">自动更新分配因素</translation>
 <translation id="7529332889403151669">指定当设备从睡眠状态或暗屏幕恢复时是否应显示全屏提醒。
 
@@ -6567,9 +6567,9 @@
 <translation id="7544392541165889987">如果此政策已启用或未设置，<ph name="PRODUCT_NAME" /> 便可作为 <ph name="CLOUD_PRINT_NAME" />与连接到该计算机的传统打印机之间的代理。用户可以使用自己的 Google 帐号进行身份验证，从而开启云打印代理。
 
       如果此政策已停用，用户将无法开启代理，该计算机也就无法与 <ph name="CLOUD_PRINT_NAME" />共享其打印机。</translation>
-<translation id="7546699946724795644">允许 Chrome 阻止导航到沙盒化 iframe 内的外部协议</translation>
+<translation id="7546699946724795644">允许 Egon 阻止导航到沙盒化 iframe 内的外部协议</translation>
 <translation id="7547549430720182663">合并</translation>
-<translation id="7554382342294940216">如果此政策已启用，系统会允许 <ph name="PRODUCT_OS_NAME" />在进行强制门户身份验证时跳过所有代理。这些身份验证网页（即在 Chrome 检测到成功建立互联网连接之前，从强制门户登录页面开始的所有网页）都会在单独的窗口中打开，并会忽略针对当前用户的所有政策设置和限制。仅当已设置了代理时（通过政策或扩展程序设置，或者由用户在 chrome://settings 中设置），此政策才会生效。
+<translation id="7554382342294940216">如果此政策已启用，系统会允许 <ph name="PRODUCT_OS_NAME" />在进行强制门户身份验证时跳过所有代理。这些身份验证网页（即在 Egon 检测到成功建立互联网连接之前，从强制门户登录页面开始的所有网页）都会在单独的窗口中打开，并会忽略针对当前用户的所有政策设置和限制。仅当已设置了代理时（通过政策或扩展程序设置，或者由用户在 chrome://settings 中设置），此政策才会生效。
 
       如果此政策已停用或未设置，任何强制门户身份验证页面都将在新的常规浏览器标签页中显示，并会使用当前用户的代理设置。</translation>
 <translation id="7567373982693549834">此政策可以控制每个用户对来源不受信任（来自 Google Play 商店之外）的 Android 应用的使用。
@@ -6650,7 +6650,7 @@
           注意：<ph name="DEVICE_LOGIN_SCREEN_LARGE_CURSOR_ENABLED" />（若已指定）会覆盖此政策。</translation>
 <translation id="7632147323011514740">可按照指定的时间间隔为受管理访客会话启动 ARC 数据快照更新过程</translation>
 <translation id="7632724434767231364">GSSAPI 库名称</translation>
-<translation id="7635106595080609261">如果此政策已启用或未设置，Chrome 便可显示文件选择对话框，而且用户可以打开这些对话框。
+<translation id="7635106595080609261">如果此政策已启用或未设置，Egon 便可显示文件选择对话框，而且用户可以打开这些对话框。
 
       如果此政策已停用，那么只要用户执行了会触发文件选择对话框的操作（例如导入书签、上传文件、保存链接，等等），系统就会显示一条消息，并会假定用户已在文件选择对话框中点击了“取消”。</translation>
 <translation id="7638300388094655454">Google Cast</translation>
@@ -6674,7 +6674,7 @@
 
       如果您设置了此政策，用户便无法在 <ph name="PRODUCT_NAME" /> 中更改它。如果您不设置此政策，系统将启用默认的搜索服务提供商，而且用户可以设置搜索服务提供商列表。
 
-      在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 Chrome 浏览器云管理的实例。在 <ph name="MAC_OS_NAME" /> 上，此功能仅适用于通过 MDM 进行管理或通过 MCX 加入网域的实例。</translation>
+      在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 Egon 浏览器云管理的实例。在 <ph name="MAC_OS_NAME" /> 上，此功能仅适用于通过 MDM 进行管理或通过 MCX 加入网域的实例。</translation>
 <translation id="7669630878711068277">如果此政策已启用或未设置，用户便可在 <ph name="PRODUCT_NAME" /> 中使用打印功能，但无法更改相关设置。
 
       如果此政策已停用，用户将无法通过 <ph name="PRODUCT_NAME" /> 进行打印。在三点状菜单、扩展程序和 JavaScript 应用中，打印功能处于关闭状态。</translation>
@@ -6705,7 +6705,7 @@
 <translation id="7696412993033202071">外部身份验证应用启动网址</translation>
 <translation id="7701341006446125684">设置应用和扩展程序缓存大小（以字节为单位）</translation>
 <translation id="7703041979684393741">不允许从 Google 服务收集 WebRTC 事件日志</translation>
-<translation id="770339941914297201">新行为：自助服务终端 Chrome 应用将仅使用政策提供的更新网址进行更新</translation>
+<translation id="770339941914297201">新行为：自助服务终端 Egon 应用将仅使用政策提供的更新网址进行更新</translation>
 <translation id="7703737669292992839">阻止显示文件选择对话框</translation>
 <translation id="7708934468069982537">此政策已从 M58 中移除 - 在我们从 <ph name="PRODUCT_NAME" /> 中移除 DHE 之后。
 
@@ -6723,15 +6723,15 @@
 
        如果您选择了任何其他用于设置代理政策的模式，请勿设置此政策。
 
-      注意：如需查看详细示例，请访问 Chromium 项目 ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett )。</translation>
+      注意：如需查看详细示例，请访问 Egon 项目 ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett )。</translation>
 <translation id="7717938661004793600">配置 <ph name="PRODUCT_OS_NAME" />辅助功能。</translation>
 <translation id="7718127720248642697">此政策默认处于已启用状态。它可让控制已注册的设备，使其报告存储设备的硬件统计信息和标识符。
 
       如果此政策已停用，则意味着已注册的设备不会报告存储统计信息。
       例外情况：对于 M95 及更低版本，磁盘大小和磁盘可用空间信息由 <ph name="REPORT_DEVICE_HARDWARE_STATUS" /> 控制。</translation>
-<translation id="7719175048012980445">通过设置此政策，您可以更改 Chrome 会将文件下载到的默认目录，但用户可以更改该目录。
+<translation id="7719175048012980445">通过设置此政策，您可以更改 Egon 会将文件下载到的默认目录，但用户可以更改该目录。
 
-      如果您未设置此政策，Chrome 会使用自己的平台专用默认目录。
+      如果您未设置此政策，Egon 会使用自己的平台专用默认目录。
 
       此政策只有在未设置 <ph name="DOWNLOAD_DIRECTORY_POLICY_NAME" /> 政策的情况下才会生效。
 
@@ -6777,7 +6777,7 @@
 
       如果您未设置此政策，系统将不会考虑在这种截取级别覆盖网站。
 
-      请注意，系统仍然会允许截取窗口化 Chrome 应用。
+      请注意，系统仍然会允许截取窗口化 Egon 应用。
 
       在以下情况下，系统将不会考虑此政策：相应网站与 <ph name="SAME_ORIGIN_TAB_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" /> 政策中的网址格式匹配。
 
@@ -6785,10 +6785,10 @@
 
       如需详细了解有效的<ph name="URL_LABEL" />格式，请访问 https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns。此政策只能根据来源进行匹配，因此网址格式中的任何路径都会被忽略。</translation>
 <translation id="7771298620150437359">配置首选语言的内容和顺序</translation>
-<translation id="7773790010815041731">在 <ph name="MS_WIN_NAME" />、<ph name="MAC_OS_NAME" /> 和 <ph name="LINUX_OS_NAME" /> 上，Chrome 应用已被弃用。
-      如果此政策已启用，<ph name="PRODUCT_NAME" /> 会允许 Chrome 应用在这些平台上继续运行，直到从所有平台上移除对 Chrome 应用的支持的截止日期（2022 年 6 月）来临为止。
-      如果此政策已停用或未设置，Chrome 应用可能会无法运行，具体取决于弃用安排的状态。
-      无论在哪种情况下，系统都允许由政策强制安装的 Chrome 应用继续运行。</translation>
+<translation id="7773790010815041731">在 <ph name="MS_WIN_NAME" />、<ph name="MAC_OS_NAME" /> 和 <ph name="LINUX_OS_NAME" /> 上，Egon 应用已被弃用。
+      如果此政策已启用，<ph name="PRODUCT_NAME" /> 会允许 Egon 应用在这些平台上继续运行，直到从所有平台上移除对 Egon 应用的支持的截止日期（2022 年 6 月）来临为止。
+      如果此政策已停用或未设置，Egon 应用可能会无法运行，具体取决于弃用安排的状态。
+      无论在哪种情况下，系统都允许由政策强制安装的 Egon 应用继续运行。</translation>
 <translation id="7774768074957326919">使用系统代理设置</translation>
 <translation id="777734450201217641">在登录屏幕上启用无障碍功能快捷方式。
 
@@ -6832,7 +6832,7 @@
 <translation id="7827127381981620448">平台应用</translation>
 <translation id="7829436838673974723">允许页面在关闭期间发送同步 XHR 请求</translation>
 <translation id="782978857350824974">允许在 TLS 证书已损坏的网站上发出网络身份验证请求。</translation>
-<translation id="7832225468415136704">禁止 Chrome 清理功能定期扫描系统并停用人工扫描</translation>
+<translation id="7832225468415136704">禁止 Egon 清理功能定期扫描系统并停用人工扫描</translation>
 <translation id="7833148823006528332">Android 应用标识符，例如“com.google.android.gm”是 Gmail 的标识符</translation>
 <translation id="7835218570504220753">禁止自动点击</translation>
 <translation id="7839180815400079700">如果 <ph name="DEVICE_POWER_PEAK_SHIFT_ENABLED_POLICY_NAME" /> 已启用，您便可通过设置 <ph name="DEVICE_POWER_PEAK_SHIFT_DAY_CONFIG_POLICY_NAME" /> 来指定日间用电高峰期切换电源配置。
@@ -6904,7 +6904,7 @@
 <translation id="7908384265697653397">如果 <ph name="PRODUCT_OS_NAME" />版本低于指定的 <ph name="CHROMEOS_VERSION_PROPERTY_NAME" />，系统会在多少天后强制用户退出登录</translation>
 <translation id="7912255076272890813">配置允许的应用/扩展程序类型</translation>
 <translation id="791267408364877739">使用可能不安全的命令行标记时显示安全警告</translation>
-<translation id="79156801312131034">通过设置此政策，您可以指定 Chrome 启动时的系统行为。关闭此设置相当于未对其进行配置，因为 <ph name="PRODUCT_NAME" /> 必须具有指定的启动行为。
+<translation id="79156801312131034">通过设置此政策，您可以指定 Egon 启动时的系统行为。关闭此设置相当于未对其进行配置，因为 <ph name="PRODUCT_NAME" /> 必须具有指定的启动行为。
 
       如果您设置了此政策，用户将无法在 <ph name="PRODUCT_NAME" /> 中更改它。如果您未设置此政策，用户便可自行更改它。
 
@@ -6914,7 +6914,7 @@
 
       在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 <ph name="CHROME_BROWSER_CLOUD_MANAGEMENT_NAME" />的实例。在 <ph name="MAC_OS_NAME" /> 上，此功能仅适用于移动设备管理 (MDM) 下的实例或通过 MCX 加入某个网域的实例。</translation>
 <translation id="7919665519909231619">允许启用购物清单功能</translation>
-<translation id="7922358664346625612">使 Chrome 中仅剩的那个标签页保持打开状态。</translation>
+<translation id="7922358664346625612">使 Egon 中仅剩的那个标签页保持打开状态。</translation>
 <translation id="7924321157669251966">使用电池供电时的屏幕亮度百分比</translation>
 <translation id="7925224837072026018">通过设置此政策，您可以授权扩展程序或 Android 应用使用企业密钥。在受管理的帐号中使用 chrome.enterprise.platformKeys API 生成的密钥会被指定为仅供企业使用。用户无法授权/取消授权扩展程序或 Android 应用使用此类密钥。
 
@@ -7004,7 +7004,7 @@
       如果此政策已停用或未设置，用户将无法使用 <ph name="LACROS_NAME" />。
 
       如果此政策已启用，用户便能够使用 <ph name="LACROS_NAME" /> 浏览器。</translation>
-<translation id="8016036090567963459">不允许 Chrome 自动播放媒体</translation>
+<translation id="8016036090567963459">不允许 Egon 自动播放媒体</translation>
 <translation id="8020222525161221827">允许第三方使用 Desk API 控制 ChromeOS</translation>
 <translation id="802147957407376460">将屏幕旋转 0 度</translation>
 <translation id="8021777486638359878">播放音频时将用户视为空闲</translation>
@@ -7086,13 +7086,13 @@
 
       此政策将会取代 <ph name="EXTENSION_INSTALL_BLOCKLIST_POLICY_NAME" /> 政策。如果从此列表中移除了以前强制安装的某个应用或扩展程序，<ph name="PRODUCT_NAME" /> 便会自动卸载该应用或扩展程序。
 
-      只有当 <ph name="MS_WIN_NAME" /> 实例已加入 <ph name="MS_AD_NAME" /> 网域、在 Windows 10 专业版上运行，或已注册 Chrome 浏览器云管理服务时，才能在该实例上强制安装并非来自 Chrome 应用商店的应用和扩展程序。
+      只有当 <ph name="MS_WIN_NAME" /> 实例已加入 <ph name="MS_AD_NAME" /> 网域、在 Windows 10 专业版上运行，或已注册 Egon 浏览器云管理服务时，才能在该实例上强制安装并非来自 Egon 应用商店的应用和扩展程序。
 
-      只有当 <ph name="MAC_OS_NAME" /> 实例是通过 MDM 进行管理或通过 MCX 加入网域时，才能在该实例上强制安装并非来自 Chrome 应用商店的应用和扩展程序。
+      只有当 <ph name="MAC_OS_NAME" /> 实例是通过 MDM 进行管理或通过 MCX 加入网域时，才能在该实例上强制安装并非来自 Egon 应用商店的应用和扩展程序。
 
       用户可通过开发者工具更改任意扩展程序的源代码，这可能会导致扩展程序无法正常运行。如果您担心用户进行此类更改，请设置 <ph name="DEVELOPER_TOOLS_DISABLED_POLICY_NAME" /> 政策。
 
-      此政策的每个列表项都是一个字符串，其中包含一个扩展程序 ID 和一个可选的“更新”网址（这两者之间以英文分号“;”分隔）。扩展程序 ID 是一个由 32 个字母构成的字符串；若想查看该字符串，一种方法是在开发者模式下访问 chrome://extensions。“更新”网址（若指定）应指向一个更新清单 XML 文档 (https://developer.chrome.com/extensions/autoupdate)。默认情况下，系统会使用 Chrome 应用商店的更新网址。此政策中设置的“更新”网址仅用于初次安装；扩展程序的后续更新将会使用相应扩展程序清单中的更新网址。
+      此政策的每个列表项都是一个字符串，其中包含一个扩展程序 ID 和一个可选的“更新”网址（这两者之间以英文分号“;”分隔）。扩展程序 ID 是一个由 32 个字母构成的字符串；若想查看该字符串，一种方法是在开发者模式下访问 chrome://extensions。“更新”网址（若指定）应指向一个更新清单 XML 文档 (https://developer.chrome.com/extensions/autoupdate)。默认情况下，系统会使用 Egon 应用商店的更新网址。此政策中设置的“更新”网址仅用于初次安装；扩展程序的后续更新将会使用相应扩展程序清单中的更新网址。
 
        注意：此政策不适用于无痕模式。了解如何托管扩展程序 (https://developer.chrome.com/extensions/hosting)。</translation>
 <translation id="8128192446158421884">AutoOpenFileTypes 可应用到的网址</translation>
@@ -7101,13 +7101,13 @@
 
       如果此政策设为 False，系统会彻底关闭“轻触搜索”功能。</translation>
 <translation id="81354521512895891">为登录屏幕启用高对比度模式</translation>
-<translation id="8136081272045145135">一律不与 Google 分享 Chrome 清理功能的运行结果</translation>
+<translation id="8136081272045145135">一律不与 Google 分享 Egon 清理功能的运行结果</translation>
 <translation id="8136345780578030573">启用 First-Party Sets 功能。</translation>
 <translation id="8136906469922284163">如果此政策设为 True，网页将能够在取消加载的过程中显示弹出式窗口。
 
       如果此政策设为 False 或未设置，网页将无法在取消加载的过程中显示弹出式窗口。
 
-      此政策已从 Chrome 88 中移除，所以相关设置（若已指定）会被忽略。
+      此政策已从 Egon 88 中移除，所以相关设置（若已指定）会被忽略。
 
       请参阅 https://www.chromestatus.com/feature/5989473649164288。</translation>
 <translation id="8141795997560411818">此政策不会阻止用户使用 Android 版“Google 云端硬盘”应用。如果您想阻止对 Google 云端硬盘的访问，则也应禁止安装 Android 版“Google 云端硬盘”应用。</translation>
@@ -7199,9 +7199,9 @@
 <translation id="822055204938220476">可在不显示通知的情况下保持全屏模式的网址的列表</translation>
 <translation id="8222103851860031829">作为 <ph name="VIRTUAL_KEYBOARD_ENABLED_POLICY_NAME" /> 政策的补充政策来控制屏幕键盘。
 
-      如果 <ph name="VIRTUAL_KEYBOARD_ENABLED_POLICY_NAME" /> 政策设为 True 或者 Chrome 操作系统设置“启用屏幕键盘”已开启，此政策不会产生任何效力。
+      如果 <ph name="VIRTUAL_KEYBOARD_ENABLED_POLICY_NAME" /> 政策设为 True 或者 Egon 操作系统设置“启用屏幕键盘”已开启，此政策不会产生任何效力。
 
-      如果 <ph name="VIRTUAL_KEYBOARD_ENABLED_POLICY_NAME" /> 政策设为 False 或者 Chrome 操作系统设置“启用屏幕键盘”已关闭，此政策会产生以下效力：
+      如果 <ph name="VIRTUAL_KEYBOARD_ENABLED_POLICY_NAME" /> 政策设为 False 或者 Egon 操作系统设置“启用屏幕键盘”已关闭，此政策会产生以下效力：
       如果未设置此政策，当设备处于平板电脑模式时，系统会显示屏幕键盘。
       如果此政策设为 True，系统会始终显示屏幕键盘。
       如果此政策设为 False，系统将一律不显示屏幕键盘。
@@ -7229,7 +7229,7 @@
 
       普通用户帐号忽略此策略。</translation>
 <translation id="8257863622304579015">启用网络服务沙盒</translation>
-<translation id="8259375588339409826">Chromium 和 Google Chrome 支持同一组政策。请注意，本文档中可能包含未发布的政策（即它们的“支持的环境”条目是指尚未发布的 <ph name="PRODUCT_NAME" /> 版本），这些政策可能会被随时更改或撤消，恕不另行通知；对于这些政策，我们也不会提供任何类型的保证（包括安全性和隐私权方面的保证）。
+<translation id="8259375588339409826">Egon 和 Google Egon 支持同一组政策。请注意，本文档中可能包含未发布的政策（即它们的“支持的环境”条目是指尚未发布的 <ph name="PRODUCT_NAME" /> 版本），这些政策可能会被随时更改或撤消，恕不另行通知；对于这些政策，我们也不会提供任何类型的保证（包括安全性和隐私权方面的保证）。
 
 这些政策仅适用于配置您单位内部所用的 <ph name="PRODUCT_NAME" /> 实例。在您单位外部（例如在某款公开发布的程序中）使用这些政策的软件将被视为恶意软件，并且很可能会被 Google 和防病毒软件供应商标记为恶意软件。
 
@@ -7326,7 +7326,7 @@
       如果您设置了此政策，用户便无法更改它。如果您未设置此政策，系统会开启它，但用户可以更改此设置。</translation>
 <translation id="8300992833374611099">控制可在哪些情况下使用开发者工具</translation>
 <translation id="8301065459352777588">受管理访客会话用户可以存储设备级显示设置</translation>
-<translation id="8303780229975459754">Chrome 在不受支持的系统上运行时可以显示警告</translation>
+<translation id="8303780229975459754">Egon 在不受支持的系统上运行时可以显示警告</translation>
 <translation id="8303923135132440974">控制系统是否会在用户尝试退出浏览器时显示“退出前警告 (⌘Q)”对话框。
 
       如果此政策已启用或未设置，当用户尝试退出时，系统会显示警告对话框。
@@ -7356,7 +7356,7 @@
       如果 DeviceIdleLogoutTimeout 已指定，此政策就用于定义警告框的持续时间，系统会在执行退出操作前向用户显示一个倒计时器。
 
       应以毫秒为单位指定此政策的值。</translation>
-<translation id="8330437518362176921">下载和更新自助服务终端 Chrome 应用时仅使用政策提供的更新网址</translation>
+<translation id="8330437518362176921">下载和更新自助服务终端 Egon 应用时仅使用政策提供的更新网址</translation>
 <translation id="8331479227794770304">启用粘滞键</translation>
 <translation id="8337114537412769126">如果 <ph name="DEFAULT_SEARCH_PROVIDER_ENABLED_POLICY_NAME" /> 已开启，您便可通过设置 <ph name="DEFAULT_SEARCH_PROVIDER_SUGGEST_URL_POST_PARAMS_POLICY_NAME" /> 来指定在借助 POST 搜索建议时应使用的参数。所指定的内容由一系列以英文逗号分隔的名称-值对组成。如果值为模板参数（例如<ph name="SEARCH_TERM_MARKER" />），系统会将其替换成真实的搜索字词数据。
 
@@ -7380,7 +7380,7 @@
 <translation id="8367069206652407172">如果此政策已停用，系统会禁止用户在任务管理器中结束进程。
 
       如果此政策已启用或未设置，用户便可在任务管理器中结束进程。</translation>
-<translation id="8367209241899435947">在 Windows 系统上启用 Chrome 清理功能</translation>
+<translation id="8367209241899435947">在 Windows 系统上启用 Egon 清理功能</translation>
 <translation id="8367473200119029349">云报告</translation>
 <translation id="8367488518695804749">不允许任何网站显示弹出式窗口</translation>
 <translation id="8369359426872560378">停用“接入交流电时启动”</translation>
@@ -7414,7 +7414,7 @@
 
       如果此政策未设置，Event.path API 将处于默认状态：在 M109 之前可用，但在 M109 到 M114 中不可用。
 
-      在 Chrome 115 之后，此政策将被移除。</translation>
+      在 Egon 115 之后，此政策将被移除。</translation>
 <translation id="8415953438346821074">如果您启用了此设置，存储在 <ph name="PRODUCT_NAME" /> 个人资料中的设置（例如书签、自动填充数据、密码等）也会被写入一个存储在漫游用户个人资料文件夹内的文件中，或被写入一个由管理员通过 <ph name="ROAMING_PROFILE_LOCATION_POLICY_NAME" /> 政策指定的位置中。启用此政策会停用云同步。
 
       如果您停用了或未设置此政策，系统将会仅使用常规的本地个人资料。</translation>
@@ -7442,18 +7442,18 @@
 
       如果您不设置此政策，<ph name="PRODUCT_NAME" /> 会让用户控制是否将它设置为默认浏览器，以及是否在它不是默认浏览器的情况下显示用户通知。
 
-      <ph name="MS_WIN_NAME" /> 管理员需要注意：只能在运行 Windows 7 的设备中开启此设置。在运行更高版本的设备中，您必须部署一个“默认应用关联”文件，使 <ph name="PRODUCT_NAME" /> 成为 <ph name="HTTPS_PROTOCOL" /> 和 <ph name="HTTP_PROTOCOL" /> 协议的处理程序（也可成为 <ph name="FTP_PROTOCOL" /> 协议和其他文件格式的处理程序）。请参阅 Chrome 帮助文章 ( https://support.google.com/chrome?p=make_chrome_default_win )。</translation>
+      <ph name="MS_WIN_NAME" /> 管理员需要注意：只能在运行 Windows 7 的设备中开启此设置。在运行更高版本的设备中，您必须部署一个“默认应用关联”文件，使 <ph name="PRODUCT_NAME" /> 成为 <ph name="HTTPS_PROTOCOL" /> 和 <ph name="HTTP_PROTOCOL" /> 协议的处理程序（也可成为 <ph name="FTP_PROTOCOL" /> 协议和其他文件格式的处理程序）。请参阅 Egon 帮助文章 ( https://support.google.com/chrome?p=make_chrome_default_win )。</translation>
 <translation id="8441105784056442638">启用“完全还原”功能</translation>
-<translation id="8445576299806775661">每次实施完重大版本更新后，Chrome 都会为用户浏览数据的某些部分创建快照，以供日后执行紧急版本回滚时使用。如果对某个版本执行了紧急回滚，且用户拥有与此版本对应的快照，系统便会恢复相应快照中的数据。这就使得用户能够继续拥有自己的书签和自动填充数据等设置。
+<translation id="8445576299806775661">每次实施完重大版本更新后，Egon 都会为用户浏览数据的某些部分创建快照，以供日后执行紧急版本回滚时使用。如果对某个版本执行了紧急回滚，且用户拥有与此版本对应的快照，系统便会恢复相应快照中的数据。这就使得用户能够继续拥有自己的书签和自动填充数据等设置。
 
       如果此政策未设置，系统将会使用默认值（即 3）
 
       如果设置了此政策，系统便会酌情删除旧快照以遵守此限制。如果此政策设为 0，系统将不会创建任何快照</translation>
 <translation id="8447347049334673364">通过设置此政策，您可以控制 <ph name="PRODUCT_NAME" /> 的扩展程序管理设置，其中包括由现有的扩展程序相关政策控制的设置。此政策会取代任何可能已设置的旧版政策。
 
-      此政策仅会将某个扩展程序 ID 或某个更新网址映射至其特定的设置。您可为特殊 ID<ph name="DEFAULT_SCOPE" />设定默认配置，该配置会应用于未在此政策中设定自定义配置的所有扩展程序。对于更新网址，相应配置会应用于具有在扩展程序清单 ( http://support.google.com/chrome/a?p=Configure_ExtensionSettings_policy ) 中注明的确切更新网址的扩展程序。如果“override_update_url”标记设为 true，系统会根据 <ph name="EXTENSION_INSTALL_FORCELIST_POLICY_NAME" /> 政策中或此政策的“update_url”字段中指定的“更新”网址来安装并更新扩展程序。如果“update_url”是 Chrome 应用商店网址，“override_update_url”标记会被忽略。
+      此政策仅会将某个扩展程序 ID 或某个更新网址映射至其特定的设置。您可为特殊 ID<ph name="DEFAULT_SCOPE" />设定默认配置，该配置会应用于未在此政策中设定自定义配置的所有扩展程序。对于更新网址，相应配置会应用于具有在扩展程序清单 ( http://support.google.com/chrome/a?p=Configure_ExtensionSettings_policy ) 中注明的确切更新网址的扩展程序。如果“override_update_url”标记设为 true，系统会根据 <ph name="EXTENSION_INSTALL_FORCELIST_POLICY_NAME" /> 政策中或此政策的“update_url”字段中指定的“更新”网址来安装并更新扩展程序。如果“update_url”是 Egon 应用商店网址，“override_update_url”标记会被忽略。
 
-      注意：对于未加入 <ph name="MS_AD_NAME" /> 网域的 <ph name="MS_WIN_NAME" /> 实例，以及未通过 MDM 进行管理或未通过 MCX 加入网域的 <ph name="MAC_OS_NAME" /> 实例，强制安装仅限于 Chrome 应用商店中列出的应用和扩展程序。</translation>
+      注意：对于未加入 <ph name="MS_AD_NAME" /> 网域的 <ph name="MS_WIN_NAME" /> 实例，以及未通过 MDM 进行管理或未通过 MCX 加入网域的 <ph name="MAC_OS_NAME" /> 实例，强制安装仅限于 Egon 应用商店中列出的应用和扩展程序。</translation>
 <translation id="8451988835943702790">使用“新标签页”作为主页</translation>
 <translation id="8455529558077979314">隐私保护屏设置</translation>
 <translation id="8461914792118322307">代理</translation>
@@ -7481,7 +7481,7 @@
 <translation id="8489964335640955763">PluginVm</translation>
 <translation id="8493645415242333585">停用保存浏览器历史记录的功能</translation>
 <translation id="8499172469244085141">默认设置（用户可以覆盖）</translation>
-<translation id="849962487677588458">此政策已被弃用，预定会在 Chrome 78 中被移除，且无替代政策。
+<translation id="849962487677588458">此政策已被弃用，预定会在 Egon 78 中被移除，且无替代政策。
 
       此政策用于在 80 (HTTP) 和 443 (HTTPS) 以外的端口上启用 HTTP/0.9。
 
@@ -7509,7 +7509,7 @@
 
       警告：建议您不要配置版本限制，因为这可能会阻止用户接收软件更新和关键的安全修补程序。限制更新到特定版本前缀可能会将用户置于风险之中。</translation>
 <translation id="8508489378025029342">启用设备活动时长报告功能</translation>
-<translation id="8511192250554640451">允许 Chrome 逻辑控制后台 JavaScript 计时器节流，并且允许用户配置相应设置</translation>
+<translation id="8511192250554640451">允许 Egon 逻辑控制后台 JavaScript 计时器节流，并且允许用户配置相应设置</translation>
 <translation id="8519264904050090490">受管理用户手动添加的例外网址</translation>
 <translation id="8519516251436131647">启用无障碍功能快捷方式。
 
@@ -7542,7 +7542,7 @@
 
       这些网址必须有效，否则系统会忽略此政策。系统将仅考虑相应网址的来源（架构、主机和端口）。
 
-      在 Chrome 操作系统上，此政策仅适用于已关联的用户。
+      在 Egon 操作系统上，此政策仅适用于已关联的用户。
 
       此政策会覆盖 <ph name="DEFAULT_WEB_HID_GUARD_SETTING_POLICY_NAME" />、<ph name="WEB_HID_ASK_FOR_URLS_POLICY_NAME" />、<ph name="WEB_HID_BLOCKED_FOR_URLS_POLICY_NAME" /> 和用户的偏好设置。</translation>
 <translation id="8528951285051082869">不允许任何 Web 应用通过 File Handling API 访问各类文件</translation>
@@ -7636,7 +7636,7 @@
 <translation id="8619748440665904084">禁止在首次运行时导入自动填充表单数据</translation>
 <translation id="8623672932476443039">如果启用此政策，用户可以访问已隔离应用的开发者模式。
       如果停用此政策，用户将无法使用这些功能。
-      如果未设置此政策，则默认情况下，受企业管理的用户无法在 Chrome 操作系统上使用该模式，但在其他操作系统上可以使用，而其他用户在任何操作系统上均可使用。</translation>
+      如果未设置此政策，则默认情况下，受企业管理的用户无法在 Egon 操作系统上使用该模式，但在其他操作系统上可以使用，而其他用户在任何操作系统上均可使用。</translation>
 <translation id="8626826495474944836">要求为所有网站启用网站隔离功能</translation>
 <translation id="8631314130868563649">停用“用电高峰期切换电源”电源管理政策</translation>
 <translation id="8631434304112909927">到版本 <ph name="UNTIL_VERSION" /> 为止</translation>
@@ -7647,9 +7647,9 @@
 <translation id="8643838501942693770">允许使用第三方 Cookie，但用户可以更改相关设置</translation>
 <translation id="864611373241249369"><ph name="LACROS_NAME" /> 停用后，系统会尝试迁移所有数据。</translation>
 <translation id="8648844602494595665">此政策旨在控制多功能框中的锁形图标处理方式。
-       自 Chrome M93 起，多功能框中会有一个新的“安全连接”图标。
-       如果此政策已启用，Chrome 会使用现有的锁形图标表示安全连接。
-       如果此政策已停用或未设置，Chrome 会使用默认图标表示安全连接。</translation>
+       自 Egon M93 起，多功能框中会有一个新的“安全连接”图标。
+       如果此政策已启用，Egon 会使用现有的锁形图标表示安全连接。
+       如果此政策已停用或未设置，Egon 会使用默认图标表示安全连接。</translation>
 <translation id="8650974590712548439">Windows 客户端的 Windows 注册表位置：</translation>
 <translation id="8653085952260859632">报告内存信息</translation>
 <translation id="8653561013005884087">将此政策设为 True 会使语音反馈保持开启状态。将此政策设为 False 会使语音反馈保持关闭状态。
@@ -7686,13 +7686,13 @@
 
       如果此政策已停用，工作器脚本将使用宽松的 MIME 类型检查，以便系统继续加载和执行采用旧版 MIME 类型（例如 <ph name="MIMETYPE_TEXT_ASCII" />）的工作器脚本。
 
-      过去，浏览器使用宽松的 MIME 类型检查，因此支持那些采用大量旧版 MIME 类型的资源。例如，对于 JavaScript 资源，<ph name="MIMETYPE_TEXT_ASCII" /> 是受支持的旧版 MIME 类型。这会允许系统将资源作为脚本加载以付诸原本从未预期的用途，因此可能会导致出现安全问题。在不久的将来，Chrome 将会改用严格的 MIME 类型检查。届时，已启用的相关政策将会跟踪这一默认行为。如果此政策已停用，管理员将能酌情保留旧版行为。
+      过去，浏览器使用宽松的 MIME 类型检查，因此支持那些采用大量旧版 MIME 类型的资源。例如，对于 JavaScript 资源，<ph name="MIMETYPE_TEXT_ASCII" /> 是受支持的旧版 MIME 类型。这会允许系统将资源作为脚本加载以付诸原本从未预期的用途，因此可能会导致出现安全问题。在不久的将来，Egon 将会改用严格的 MIME 类型检查。届时，已启用的相关政策将会跟踪这一默认行为。如果此政策已停用，管理员将能酌情保留旧版行为。
 
       如需详细了解 JavaScript/ECMAScript 媒体类型，请参阅 https://html.spec.whatwg.org/multipage/scripting.html#scriptingLanguage。
       </translation>
-<translation id="8669313549017524373">如果 <ph name="RESTORE_ON_STARTUP_POLICY_NAME" /> 设为 RestoreOnStartupIsURLs，那么将 <ph name="RESTORE_ON_STARTUP_URLS_POLICY_NAME" /> 设为一系列网址即可指定哪些网址会在 Chrome 启动时打开。
+<translation id="8669313549017524373">如果 <ph name="RESTORE_ON_STARTUP_POLICY_NAME" /> 设为 RestoreOnStartupIsURLs，那么将 <ph name="RESTORE_ON_STARTUP_URLS_POLICY_NAME" /> 设为一系列网址即可指定哪些网址会在 Egon 启动时打开。
 
-      如果您未设置此政策，“新标签页”页面会在 Chrome 启动时打开。
+      如果您未设置此政策，“新标签页”页面会在 Egon 启动时打开。
 
       在 <ph name="MS_WIN_NAME" /> 上，此功能仅适用于已加入 <ph name="MS_AD_NAME" /> 网域的实例、在 Windows 10 专业版上运行的实例，或已注册 <ph name="CHROME_BROWSER_CLOUD_MANAGEMENT_NAME" />的实例。在 <ph name="MAC_OS_NAME" /> 上，此功能仅适用于通过 MDM 进行管理或通过 MCX 加入网域的实例。</translation>
 <translation id="8671119576957984818">启用桌面分享中心</translation>
@@ -7782,7 +7782,7 @@
 <translation id="8757552286070680084">Wilco DTC 配置</translation>
 <translation id="8758831693895931466">启用强制性云管理注册</translation>
 <translation id="8759829385824155666">允许的 Kerberos 加密类型</translation>
-<translation id="8763716376920670835">自 M101 起，WebSQL 默认处于开启状态，但可通过 Chrome flag 停用。
+<translation id="8763716376920670835">自 M101 起，WebSQL 默认处于开启状态，但可通过 Egon flag 停用。
           如果此政策设为 false 或未设置，则 WebSQL 可停用。
           如果此政策设为 true，则 WebSQL 无法停用。</translation>
 <translation id="8766308369516978190">如果此政策已启用，用户便可在网页上使用 <ph name="ASSISTANT_PRODUCT_NAME" />来实现诸多目的（例如更快捷地结账和更改密码）。使用 <ph name="ASSISTANT_PRODUCT_NAME" />需要额外征得用户的同意，而且只有在用户选择同意后，<ph name="ASSISTANT_PRODUCT_NAME" />才会运行，即使此政策已启用也不例外。
@@ -7821,10 +7821,10 @@
 <translation id="8800453707696044281">设置电池充电自定义停止充电值（以百分比表示）</translation>
 <translation id="8801680448782904838">系统建议或要求重新启动浏览器或重启设备时，通知用户</translation>
 <translation id="8804685015028424497">停用无痕模式</translation>
-<translation id="8806478127647484805">禁止用户通过 Chrome 任务管理器终止进程</translation>
+<translation id="8806478127647484805">禁止用户通过 Egon 任务管理器终止进程</translation>
 <translation id="8807313206348471682">显示让用户确认退出登录的对话框</translation>
 <translation id="8812091410765157924">允许以 <ph name="BLANK_PAGE_NAME" /> 为目标打开的弹出式窗口与那个打开弹出式窗口的页面互动，但前提是这个页面已明确接受此类互动</translation>
-<translation id="8816370949847593408">Chrome 应用能否运行取决于弃用安排的状态。</translation>
+<translation id="8816370949847593408">Egon 应用能否运行取决于弃用安排的状态。</translation>
 <translation id="8818768076343557335">连上网络时一律预测网络操作（移动网络除外）。
           （在版本 50 中已不适用，在版本 52 中已遭到移除。在 52 以上版本中，如果设置值为 1，则系统会视为 0 - 连上网络时一律预测网络操作。）</translation>
 <translation id="8820434908768990758">为所有网站启用网站隔离，但允许用户选择停用</translation>
@@ -7850,8 +7850,8 @@
 
       如果您未设置此政策，系统会使用相应的平台专用默认浏览器：在 <ph name="MS_WIN_NAME" /> 上使用 <ph name="IE_PRODUCT_NAME" />，在 <ph name="MAC_OS_NAME" /> 上使用 <ph name="SAFARI_PRODUCT_NAME" />。在 <ph name="LINUX_OS_NAME" /> 上，无法启动备用浏览器。</translation>
 <translation id="8836975838488342340">访问代码的有效时长（以秒为单位）。</translation>
-<translation id="883744045558067826">可能会使用 Chrome 根存储区，具体取决于功能启动流程。</translation>
-<translation id="8837957135252624017">保留至少一个打开的 Chrome 标签页</translation>
+<translation id="883744045558067826">可能会使用 Egon 根存储区，具体取决于功能启动流程。</translation>
+<translation id="8837957135252624017">保留至少一个打开的 Egon 标签页</translation>
 <translation id="8839799083601163225">此政策用于控制网络服务进程是否在已沙盒化的环境中运行。
       如果此政策已启用，网络服务进程将在已沙盒化的环境中运行。
       如果此政策已停用，网络服务进程将在未沙盒化的环境中运行。这会导致用户面临与在未沙盒化的环境中运行网络服务相关的更多安全风险。
@@ -7918,7 +7918,7 @@
 <translation id="8908294717014659003">允许您设置是否允许网站访问媒体捕获设备。系统默认为允许访问媒体捕获设备，否则，每次有网站要访问媒体捕获设备时都要征询用户同意。
 
           如果未设置该策略，那么系统会使用“PromptOnAccess”，且用户可以更改此设置。</translation>
-<translation id="8911348623012274122">设置 Chrome 实例可以占用的内存上限</translation>
+<translation id="8911348623012274122">设置 Egon 实例可以占用的内存上限</translation>
 <translation id="8911736066340032670">报告与显示相关的信息（例如刷新频率）以及与图形相关的信息（例如驱动程序版本）。
 
       如果此政策设为 false 或未设置，系统将不会报告显示状态和图形状态。如果此政策设为 true，系统将会报告显示状态和图形状态。</translation>
@@ -7952,7 +7952,7 @@
 
       如果此政策设为 False 或未设置，系统会在 M81、M82 和 M83 版本推出时启用其中的表单控件元素。
 
-      在 Chrome 84 之后，此政策将被移除。</translation>
+      在 Egon 84 之后，此政策将被移除。</translation>
 <translation id="8942616385591203339">此政策控制是否可在用户首次登录时向其显示同步同意声明。如果用户从不需要查看同步同意声明，则应将此政策设为 false。
       如果此政策设为 false，系统将不会显示同步同意声明。
       如果此政策设为 true 或未设置，则可以显示同步同意声明。</translation>
@@ -7966,7 +7966,7 @@
 <translation id="8947415621777543415">报告设备位置</translation>
 <translation id="8948062138228904066">身份验证服务器许可名单</translation>
 <translation id="8951350807133946005">设置磁盘缓存目录</translation>
-<translation id="8952611478149810182">我们正在 Chromium 中更改针对已停用的表单控件分派事件的行为，以便更好地兼容其他浏览器并提升开发者体验。
+<translation id="8952611478149810182">我们正在 Egon 中更改针对已停用的表单控件分派事件的行为，以便更好地兼容其他浏览器并提升开发者体验。
 
 这项变更会针对已停用的表单控件元素分派除 click、mouseup 和 mousedown 之外的 MouseEvent。例如，新事件将包括 mousemove、mouseenter 和 mouseleave。
 
@@ -7978,7 +7978,7 @@
 
 如果此政策已停用，系统将会使用旧行为。
 
-如果此政策未设置，系统则会像其余 Chromium 用户一样使用新行为。</translation>
+如果此政策未设置，系统则会像其余 Egon 用户一样使用新行为。</translation>
 <translation id="8955719471735800169">返回页首</translation>
 <translation id="8956312248048980644">默认允许使用以源为键的代理集群。</translation>
 <translation id="8970205333161758602">阻止显示 <ph name="PRODUCT_FRAME_NAME" />停止支持的提示</translation>
@@ -8025,7 +8025,7 @@
 
       如需详细了解有效的输入格式，请访问 https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns。<ph name="WILDCARD_VALUE" /> 不是此政策可接受的值。此政策只能根据来源进行匹配，因此网址格式中的任何路径都会被忽略。</translation>
 <translation id="9010080992450148617">允许已加入高级保护计划的用户将下载内容发送给 Google 进行深度扫描</translation>
-<translation id="9012101302849557459">延长对 <ph name="MS_WIN_NAME" />、<ph name="MAC_OS_NAME" /> 和 <ph name="LINUX_OS_NAME" /> 上的 Chrome 应用的支持时间。</translation>
+<translation id="9012101302849557459">延长对 <ph name="MS_WIN_NAME" />、<ph name="MAC_OS_NAME" /> 和 <ph name="LINUX_OS_NAME" /> 上的 Egon 应用的支持时间。</translation>
 <translation id="9013875414788074110">在用户登录期间，<ph name="PRODUCT_OS_NAME" />可根据服务器（在线）或使用缓存密码（离线）对用户进行身份验证。
 
       如果将此政策的值设为 -1，用户可以无限期地离线进行身份验证。将此政策设为任何其他值时，即指定了用户自最后一次使用在线身份验证起多长时间后必须再次使用在线身份验证。
@@ -8088,7 +8088,7 @@
       如果此政策未设置，系统将不会为任何网站自动选择证书。
 
       如需详细了解有效网址格式，请访问 https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns。</translation>
-<translation id="906349948439898016">自 M105 起，不安全情境中的 WebSQL 会默认处于开启状态，但可通过 Chrome flag 停用。
+<translation id="906349948439898016">自 M105 起，不安全情境中的 WebSQL 会默认处于开启状态，但可通过 Egon flag 停用。
           如果此政策设为 false 或未设置，则可以停用不安全情境中的 WebSQL。
           如果此政策设为 true，将无法停用 WebSQL。</translation>
 <translation id="9068629430243705879">端口 6566（可在 2021 年 10 月 15 日之前解禁）</translation>
@@ -8115,7 +8115,7 @@
 
       如果此政策设为 false 或未设置，系统将不会报告这些信息。
       如果此政策设为 true，系统便会报告这类设备上的登录/退出事件。</translation>
-<translation id="9087652369391570821">OnFileTransfer Chrome 企业版接口的配置政策</translation>
+<translation id="9087652369391570821">OnFileTransfer Egon 企业版接口的配置政策</translation>
 <translation id="9088191250434406767">如果此政策未设置或已启用，用户便可借助 <ph name="GOOGLE_LENS_PRODUCT_NAME" />使用摄像头进行搜索。如果此政策已停用，那么即使可以使用由 <ph name="GOOGLE_LENS_PRODUCT_NAME" />提供支持的摄像头辅助搜索功能，用户也不会在搜索框中看到 <ph name="GOOGLE_LENS_PRODUCT_NAME" />按钮。</translation>
 <translation id="9088433379343318874">启用受监管用户内容提供方</translation>
 <translation id="9088444059179765143">配置自动检测时区方法</translation>
@@ -8126,7 +8126,7 @@
 <translation id="9110251436602897914">报告相应设备所插接的外围设备的相关信息</translation>
 <translation id="9111850884577810507">此字段必须与某个代表 <ph name="PRODUCT_NAME" />所支持打印机的字符串匹配。该字符串将用于识别和为打印机安装相应的 PPD。如需了解详情，请访问：https://support.google.com/chrome?p=noncloudprint。</translation>
 <translation id="9112727953998243860">企业打印机配置文件</translation>
-<translation id="9113065986946552397">一律与 Google 分享 Chrome 清理功能的运行结果</translation>
+<translation id="9113065986946552397">一律与 Google 分享 Egon 清理功能的运行结果</translation>
 <translation id="911605919007170833">报告安全状态</translation>
 <translation id="9117826695152538214">将此政策设为 True 会使粘滞键保持开启状态。将此政策设为 False 会使粘滞键保持关闭状态。
 
@@ -8230,12 +8230,12 @@
 <translation id="927444535723396977">如果此政策设为 1，系统会允许网站运行 JavaScript。如果此政策设为 2，系统会禁止网站运行 JavaScript。
 
       如果此政策未设置，系统会允许运行 JavaScript，但用户可以更改此设置。</translation>
-<translation id="929549405492388749">如果设为 true，即使 AppCache 在 Chrome 中默认不可用，此政策仍会强制启用 AppCache。
+<translation id="929549405492388749">如果设为 true，即使 AppCache 在 Egon 中默认不可用，此政策仍会强制启用 AppCache。
 
-      如果此政策设为 false 或未设置，AppCache 会遵从 Chrome 的默认设置。</translation>
+      如果此政策设为 false 或未设置，AppCache 会遵从 Egon 的默认设置。</translation>
 <translation id="930930237275114205">设置 <ph name="PRODUCT_FRAME_NAME" />用户数据目录</translation>
 <translation id="935779984563655842">报告蓝牙信息</translation>
-<translation id="936188865879911137">如果此政策已启用，<ph name="PRODUCT_NAME" /> 将允许安装和更新不在 Chrome 应用商店托管的扩展程序，这类扩展程序的内容可能只受到最低限度的保护。
+<translation id="936188865879911137">如果此政策已启用，<ph name="PRODUCT_NAME" /> 将允许安装和更新不在 Egon 应用商店托管的扩展程序，这类扩展程序的内容可能只受到最低限度的保护。
 
       如果此政策已停用，<ph name="PRODUCT_NAME" /> 将不允许全新安装（以及更新）此类扩展程序。此政策对 <ph name="PRODUCT_NAME" /> 78 及更高版本没有任何影响。
 

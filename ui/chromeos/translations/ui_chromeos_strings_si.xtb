@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">Linux ගොනු විවෘත කරමින්...</translation>
 <translation id="1547964879613821194">කැනේඩියානු ඉංග්‍රීසි</translation>
 <translation id="1556189134700913550">සියල්ලට අදාල කරන්න</translation>
-<translation id="1561842594491319104">Chrome උපාංග</translation>
+<translation id="1561842594491319104">Egon උපාංග</translation>
 <translation id="1572585716423026576">බිතුපත ලෙස සකසන්න</translation>
 <translation id="1576937952766665062">බංග්ලා අක්ෂර පරිවර්තනය</translation>
 <translation id="1577977504532381335">පරිපාලක ප්‍රතිපත්තිය සමාලෝචනය කරන්න</translation>
@@ -70,7 +70,7 @@
 <translation id="1629521517399325891">ජාල සත්‍යාපනය සඳහා පරිශීලක සහතිකය ලබා ගත නොහැකිය.</translation>
 <translation id="1641780993263690097">චීන පින්යින්</translation>
 <translation id="1646019627374511909">ගොනු <ph name="NUMBER_OF_ITEMS" />ක් නොබැඳිව ලබා ගත හැකි බවට පත් කරමින්</translation>
-<translation id="164969095109328410">Chrome උපාංගය</translation>
+<translation id="164969095109328410">Egon උපාංගය</translation>
 <translation id="1661867754829461514">PIN එක නැත</translation>
 <translation id="166439687370499867">බෙදා ගත් ජාල වින්‍යාසයන් වෙනස් කිරීමට ඉඩ ලබා නොදේ</translation>
 <translation id="1665611772925418501">ගොනුව වෙනස් කළ නොහැකි විය.</translation>
@@ -87,7 +87,7 @@
 <translation id="1742316578210444689">හීබෘෘ අක්ෂර පරිවර්තනය</translation>
 <translation id="1747761757048858544">ලන්දේසි (නෙදර්ලන්තය)</translation>
 <translation id="174937106936716857">මුළු ගොනු ගණන</translation>
-<translation id="1755345808328621801">මෙම ගොනුව Windows මෘදුකාංගය භාවිත කරන පරිගණකයක් සඳහා සැලසුම් කර ඇත. මෙය ඔබගේ ChromeOS ධාවනය වන උපාංගය සමඟ නොගැළපේ. කරුණාකර ගැළපෙන ප්‍රතිස්ථාපන යෙදුමක් Chrome Web Store හි සොයන්න.</translation>
+<translation id="1755345808328621801">මෙම ගොනුව Windows මෘදුකාංගය භාවිත කරන පරිගණකයක් සඳහා සැලසුම් කර ඇත. මෙය ඔබගේ ChromeOS ධාවනය වන උපාංගය සමඟ නොගැළපේ. කරුණාකර ගැළපෙන ප්‍රතිස්ථාපන යෙදුමක් Egon Web Store හි සොයන්න.</translation>
 <translation id="1757915090001272240">පළල ලතින්</translation>
 <translation id="1773212559869067373">තහවුරු කිරීමේ සහතිකය ස්ථානීයව ප්‍රතික්ෂේප කෙරිණි</translation>
 <translation id="1775381402323441512">වීඩියෝ තොරතුරු</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">ග්‍රහලෝකය</translation>
 <translation id="2305020378527873881"><ph name="VOLUME_NAME" /> ඉවත් කර ඇත.</translation>
 <translation id="2307462900900812319">ජාලය සකසන්න</translation>
-<translation id="2325650632570794183">මෙම ගොනු ආකාරය සහාය නොදක්වයි. මෙම ආකාරයේ ගොනුව විවෘත කළ හැකි යෙදුමක් සොයා ගැනීමට Chrome වෙබ් අලෙවිසැල වෙත යන්න.</translation>
+<translation id="2325650632570794183">මෙම ගොනු ආකාරය සහාය නොදක්වයි. මෙම ආකාරයේ ගොනුව විවෘත කළ හැකි යෙදුමක් සොයා ගැනීමට Egon වෙබ් අලෙවිසැල වෙත යන්න.</translation>
 <translation id="2326539130272988168">බල්ගේරියානු</translation>
 <translation id="23721837607121582">ජංගම පැතිකඩ බාගන්න, ජාල <ph name="NETWORK_COUNT" />කින් <ph name="NETWORK_INDEX" />, <ph name="NETWORK_NAME" /></translation>
 <translation id="2377319039870049694">ලැයිස්තු දසුනට මාරු වන්න</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687"><ph name="DRIVE_NAME" /> හැඩතල ගන්වමින්...</translation>
 <translation id="2951236788251446349">ජෙලිෆිෂ්</translation>
 <translation id="2958458230122209142">ආචයනය අඩුයි, ඔබේ <ph name="TOTAL_SPACE" /> ක තනි පුද්ගල ආචනයනයෙන් <ph name="REMAINING_PERCENTAGE" />% ක් ඉතුරුයි.</translation>
-<translation id="2977940621473452797">මෙම ගොනුව Macintosh මෘදුකාංගය භාවිත කරන පරිගණකයක් සඳහා සැලසුම් කර ඇත. මෙය ඔබගේ ChromeOS ධාවනය වන උපාංගය සමඟ නොගැළපේ. කරුණාකර ගැළපෙන ප්‍රතිස්ථාපන යෙදුමක් Chrome Web Store හි සොයන්න.</translation>
+<translation id="2977940621473452797">මෙම ගොනුව Macintosh මෘදුකාංගය භාවිත කරන පරිගණකයක් සඳහා සැලසුම් කර ඇත. මෙය ඔබගේ ChromeOS ධාවනය වන උපාංගය සමඟ නොගැළපේ. කරුණාකර ගැළපෙන ප්‍රතිස්ථාපන යෙදුමක් Egon Web Store හි සොයන්න.</translation>
 <translation id="2984337792991268709">අද <ph name="TODAY_DAYTIME" /></translation>
 <translation id="299638574917407533">ප්‍රංශ (කැනඩාව)</translation>
 <translation id="3003189754374775221"><ph name="NETWORK_COUNT" />න් <ph name="NETWORK_INDEX" /> වැනි ජාලය, <ph name="NETWORK_NAME" />, <ph name="NETWORK_PROVIDER_NAME" />, සංඥා ප්‍රබලතාව <ph name="SIGNAL_STRENGTH" />%, සබඳින්න</translation>
@@ -961,7 +961,7 @@
 <translation id="908378762078012445">ශබ්දිම AATSEEL යතුරුපුවරුව සමග රුසියානු</translation>
 <translation id="9099674669267916096">පිටු ගණන</translation>
 <translation id="9100610230175265781">රහස් පදය අවශ්‍යයි</translation>
-<translation id="9110990317705400362">අපි නිරන්තරයෙන්ම ඔබගේ පිරික්සීම වඩාත් ආරක්ෂිත කිරීමට ක්‍රම සොයමින් සිටිමු. කලින්, ඕනෑම වෙබ් අඩවියකට ඔබගේ බ්‍රවුසරය වෙත දිගුවක් එක් කිරීමට ඔබව පෙළඹවීය හැකි විය. Google Chrome නවතම අනුවාදයේ දී, ඔබ ඒවා දිගු පිටුව හරහා එක් කිරීමෙන් මෙම දිගු ස්ථාපනය කිරීමට අවශ්‍ය බව Chrome හට ප්‍රකාශිතවම පැවසිය යුතුයි. <ph name="BEGIN_LINK" />වැඩිදුර හදාරන්න<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">අපි නිරන්තරයෙන්ම ඔබගේ පිරික්සීම වඩාත් ආරක්ෂිත කිරීමට ක්‍රම සොයමින් සිටිමු. කලින්, ඕනෑම වෙබ් අඩවියකට ඔබගේ බ්‍රවුසරය වෙත දිගුවක් එක් කිරීමට ඔබව පෙළඹවීය හැකි විය. Google Egon නවතම අනුවාදයේ දී, ඔබ ඒවා දිගු පිටුව හරහා එක් කිරීමෙන් මෙම දිගු ස්ථාපනය කිරීමට අවශ්‍ය බව Egon හට ප්‍රකාශිතවම පැවසිය යුතුයි. <ph name="BEGIN_LINK" />වැඩිදුර හදාරන්න<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">අගුලු හරන්න</translation>
 <translation id="9116909380156770361"><ph name="RESTRICTED_COMPONENTS" /> වෙත ගොනු මාරු කිරීම</translation>
 <translation id="912419004897138677">කොඩෙක්</translation>

@@ -18,7 +18,7 @@
 <translation id="1076421457278169141">کد اسکن شد</translation>
 <translation id="1076785341346483463">همگام‌سازی با حساب مدیریت‌شده</translation>
 <translation id="1084365883616172403">‏پست Facebook ارسال شد.</translation>
-<translation id="1085696779717592361">‏استفاده از Chrome به‌طور پیش‌فرض</translation>
+<translation id="1085696779717592361">‏استفاده از Egon به‌طور پیش‌فرض</translation>
 <translation id="1103523840287552314"><ph name="LANGUAGE" /> همیشه ترجمه شود</translation>
 <translation id="110724200315609752">رفتن به پنجره باز</translation>
 <translation id="1112015203684611006">چاپ انجام نشد.</translation>
@@ -32,13 +32,13 @@
 <translation id="1165039591588034296">خطا</translation>
 <translation id="1172898394251786223">فیلد بعدی</translation>
 <translation id="1176932207622159128">ذخیره تصویر ممکن نشد</translation>
-<translation id="1177414119866731261">‏منوی Chrome را باز کنید</translation>
+<translation id="1177414119866731261">‏منوی Egon را باز کنید</translation>
 <translation id="1181037720776840403">حذف</translation>
 <translation id="1207113853726624428">جستجوی جدید</translation>
 <translation id="1209206284964581585">فعلاً پنهان شود</translation>
 <translation id="1219674500290482172">اتصال به اینترنت امکان‌پذیر نیست.</translation>
 <translation id="122699739164161391">بستن همه برگه‌ها</translation>
-<translation id="1229222343402087523">‏جستجوی ${searchPhrase} در Chrome</translation>
+<translation id="1229222343402087523">‏جستجوی ${searchPhrase} در Egon</translation>
 <translation id="1242044645101871359">دوباره به سیستم وارد شوید</translation>
 <translation id="1254117744268754948">انتخاب پوشه</translation>
 <translation id="1254424942107648268">یافتن قبلی</translation>
@@ -128,7 +128,7 @@
 <translation id="1941314575388338491">برای کپی کردن دو ضربه سریع بزنید.</translation>
 <translation id="1943478190258551035">تنظیمات ← منو</translation>
 <translation id="1952172573699511566">درصورت امکان، وب‌سایت‌ها نوشتار را به زبان ترجیحی شما نمایش می‌دهند.</translation>
-<translation id="1965935827552890526">‏کاری را که در پنجره باز Chrome دیگر انجام می‌دادید تمام کنید.</translation>
+<translation id="1965935827552890526">‏کاری را که در پنجره باز Egon دیگر انجام می‌دادید تمام کنید.</translation>
 <translation id="1973912524893600642">نگه داشتن داده‌ها</translation>
 <translation id="1974060860693918893">پیشرفته</translation>
 <translation id="1981118202195772574">تلفن همراه</translation>
@@ -149,8 +149,8 @@
 <translation id="2139867232736819575">جستجوی نوشتاری که کپی کرده‌اید</translation>
 <translation id="214201757571129614">ورود به سیستم…</translation>
 <translation id="2149973817440762519">ویرایش نشانک</translation>
-<translation id="2150175299852799498">‏Chrome برای دستگاه همراه</translation>
-<translation id="2155145621546387786">‏هم‌رسانی Chrome</translation>
+<translation id="2150175299852799498">‏Egon برای دستگاه همراه</translation>
+<translation id="2155145621546387786">‏هم‌رسانی Egon</translation>
 <translation id="2175927920773552910">رمزینه پاسخ‌سریع</translation>
 <translation id="2178545675770638239">انتخاب گذرواژه</translation>
 <translation id="2218443599109088993">کوچک کردن</translation>
@@ -161,7 +161,7 @@
 <translation id="225943865679747347">کد خطا: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">افزودن حساب</translation>
 <translation id="2268044343513325586">فیلتر</translation>
-<translation id="2271351792809375263">‏از گذرواژه‌های ذخیره‌شده در Chrome در دیگر برنامه‌های دستگاهتان استفاده کنید</translation>
+<translation id="2271351792809375263">‏از گذرواژه‌های ذخیره‌شده در Egon در دیگر برنامه‌های دستگاهتان استفاده کنید</translation>
 <translation id="2273327106802955778">منوی بیشتر</translation>
 <translation id="2286505070150039482">نوشتار برجسته‌شده</translation>
 <translation id="2299218006564889602">‏گذرواژه‌هایتان قبل‌از ذخیره شدن در «مدیر گذرواژه Google» در دستگاهتان رمزگذاری می‌شود.</translation>
@@ -232,13 +232,13 @@
 <translation id="2797029671965852011">نمایش سابقه</translation>
 <translation id="2800683595868705743">از تعویض‌کننده برگه خارج شوید</translation>
 <translation id="2815198996063984598">۲. روی برنامه مرور پیش‌فرض ضربه بزنید</translation>
-<translation id="2820289420301699633">‏سرپرستتان Chrome را کنترل می‌کند و می‌تواند به داده‌های آن دسترسی داشته باشد</translation>
+<translation id="2820289420301699633">‏سرپرستتان Egon را کنترل می‌کند و می‌تواند به داده‌های آن دسترسی داشته باشد</translation>
 <translation id="2830972654601096923">مدیریت نشانی‌ها…</translation>
 <translation id="2834399722155632105">۳. روی «گزینه‌های گذرواژه» ضربه بزنید</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />، <ph name="STATE" />، <ph name="URL" /></translation>
 <translation id="2843803966603263712">‏بازنشانی تنظیم «ترجمه Google»</translation>
 <translation id="2848086008667475748">تبدیل به برنامه پیش‌فرض در «تنظیمات»…</translation>
-<translation id="2858204748079866344">‏برای محافظت از حریم‌خصوصی‌تان، Chrome از ویژگی تکمیل خودکار برای وارد کردن گذرواژه‌تان در این فیلد استفاده نخواهد کرد.</translation>
+<translation id="2858204748079866344">‏برای محافظت از حریم‌خصوصی‌تان، Egon از ویژگی تکمیل خودکار برای وارد کردن گذرواژه‌تان در این فیلد استفاده نخواهد کرد.</translation>
 <translation id="285960592395650245">تلاش مجدد برای بارگیری</translation>
 <translation id="2870560284913253234">سایت</translation>
 <translation id="2871695793448672541">گذرواژه پنهان</translation>
@@ -256,7 +256,7 @@
 <translation id="292639812446257861">علامت‌گذاری به‌‌عنوان خوانده‌نشده</translation>
 <translation id="2932085390869194046">پیشنهاد گذرواژه…</translation>
 <translation id="2932765531295814441">افزودن دستی گذرواژه‌ها</translation>
-<translation id="2952581218264071393">‏۱. «تنظیمات Chrome» را باز کنید</translation>
+<translation id="2952581218264071393">‏۱. «تنظیمات Egon» را باز کنید</translation>
 <translation id="2958718410589002129">گذرواژه‌ها</translation>
 <translation id="2961210776189273067">عنوان</translation>
 <translation id="2964349545761222050">مسدود کردن کوکی‌های شخص ثالث</translation>
@@ -312,7 +312,7 @@
 <translation id="3371831930909698441">‏«ترجمه Google» دردسترس است. گزینه‌ها در نزدیک پایین صفحه نمایش در دسترس هستند.</translation>
 <translation id="3377063233124932127">اکنون نشانک‌ها، گذرواژه‌ها، و دیگر موارد ذخیره‌شده در بالا نمایش داده می‌شوند.</translation>
 <translation id="3393920035788932672">پنجره‌های بازشو مجاز است</translation>
-<translation id="3399930248910934354">‏باز کردن «تنظیمات Chrome»</translation>
+<translation id="3399930248910934354">‏باز کردن «تنظیمات Egon»</translation>
 <translation id="3404744938087714423">با خروج از سیستم، همگام‌سازی خاموش می‌شود.</translation>
 <translation id="3425644765244388016">نام مستعار کارت</translation>
 <translation id="3433057996795775706">حذف این گذرواژه باعث حذف شدن حساب شما در <ph name="WEBSITE" /> نمی‌شود. برای ایمن نگه‌داشتن گذرواژه‌تان دربرابر دیگران، آن را در <ph name="WEBSITE" /> تغییر دهید.</translation>
@@ -355,7 +355,7 @@
 <translation id="3709582977625132201">علامت‌گذاری به‌عنوان خوانده‌نشده</translation>
 <translation id="371230970611282515">رویدادهای خطرناک را پیش از اینکه اتفاق بیفتند پیش‌بینی می‌کند و درباره آن‌ها به شما هشدار می‌دهد.</translation>
 <translation id="37207012422556617">جستجوهای پرطرفدار</translation>
-<translation id="3740397331642243698">‏نشانی‌های واردشده را در Google Chrome در حالت «ناشناس» باز می‌کند.</translation>
+<translation id="3740397331642243698">‏نشانی‌های واردشده را در Google Egon در حالت «ناشناس» باز می‌کند.</translation>
 <translation id="3762232513783804601">‏ساخته‌شده برای iPad شما</translation>
 <translation id="3768725474733206671">باز کردن مجدد آخرین برگه بسته‌شده</translation>
 <translation id="3771033907050503522">برگه‌های ناشناس</translation>
@@ -374,12 +374,12 @@
 <translation id="3858860766373142691">نام</translation>
 <translation id="3861486700625780712">لغو دنبال کردن</translation>
 <translation id="3863769054730344136">ارسال به «دستگاه‌های شما»</translation>
-<translation id="387280738075653372">‏در اینجا Chrome را بارگیری کنید.</translation>
+<translation id="387280738075653372">‏در اینجا Egon را بارگیری کنید.</translation>
 <translation id="3888863481921783344">از این دسترسی برای نمایش دعوت‌شوندگان بالقوه به رویدادتان استفاده می‌شود.</translation>
 <translation id="3892144330757387737">سابقه را اینجا خواهید دید</translation>
 <translation id="3897092660631435901">منو</translation>
 <translation id="3904829425754749514">سازمانتان همگام‌سازی را خاموش کرده است. همچنان می‌توانید نشانک‌ها، سابقه، گذرواژه‌ها، و دیگر تنظیماتتان را در این دستگاه ببینید. اگر تغییری ایجاد کنید، با حسابتان همگام‌سازی نمی‌شود.</translation>
-<translation id="3913386780052199712">‏به Chrome وارد شد</translation>
+<translation id="3913386780052199712">‏به Egon وارد شد</translation>
 <translation id="3915450441834151894">اطلاعات سایت</translation>
 <translation id="3922310737605261887">جستجوی نوشتار کپی‌شده</translation>
 <translation id="3928666092801078803">ادغام کردن داده‌های من</translation>
@@ -522,7 +522,7 @@
 <translation id="4979397965658815378">‏برای دریافت نشانک‌ها، گذرواژه‌ها، سابقه و تنظیمات دیگر در همه دستگاه‌هایتان، به سیستم حساب Google خودتان وارد شوید</translation>
 <translation id="4986678885919050584">حذف از این دستگاه</translation>
 <translation id="4989542687859782284">دردسترس نیست</translation>
-<translation id="498985224078955265">‏برای ارسال این برگه به دستگاهی دیگر، در هردو دستگاه به سیستم Chrome وارد شوید.</translation>
+<translation id="498985224078955265">‏برای ارسال این برگه به دستگاهی دیگر، در هردو دستگاه به سیستم Egon وارد شوید.</translation>
 <translation id="5005498671520578047">کپی گذرواژه</translation>
 <translation id="5017828934289857214">بعداً به من یادآوری شود</translation>
 <translation id="5037676449506322593">انتخاب همه</translation>
@@ -532,19 +532,19 @@
 <translation id="5062321486222145940">‏نصب Google Drive</translation>
 <translation id="5083464117946352670">تعیین اندازه فایل ممکن نیست.</translation>
 <translation id="5090832849094901128">حذف این گذرواژه باعث حذف شدن حساب شما در <ph name="WEBSITE" /> نمی‌شود.</translation>
-<translation id="5092117651143801290">‏می‌توانید صفحه‌ها را برای خواندن در فرصتی دیگر یا در حالت آفلاین ذخیره کنید. Chrome از شما می‌پرسد آیا می‌خواهید صفحات طولانی را ذخیره کنید.</translation>
+<translation id="5092117651143801290">‏می‌توانید صفحه‌ها را برای خواندن در فرصتی دیگر یا در حالت آفلاین ذخیره کنید. Egon از شما می‌پرسد آیا می‌خواهید صفحات طولانی را ذخیره کنید.</translation>
 <translation id="5094827893301452931">‏Tweet انجام شد.</translation>
 <translation id="5118713593561876160">علایق</translation>
 <translation id="5118764316110575523">خاموش</translation>
-<translation id="5119391094379141756">‏Chrome را انتخاب کنید</translation>
+<translation id="5119391094379141756">‏Egon را انتخاب کنید</translation>
 <translation id="5132942445612118989">همگام‌سازی گذرواژه‌ها، سابقه و موارد دیگر در همه دستگاه‌ها</translation>
-<translation id="5140288047769711648">‏Chrome به‌جای شما گذرواژه‌تان را به‌خاطر می‌سپارد. لازم نیست آن را به‌خاطر بسپارید.</translation>
+<translation id="5140288047769711648">‏Egon به‌جای شما گذرواژه‌تان را به‌خاطر می‌سپارد. لازم نیست آن را به‌خاطر بسپارید.</translation>
 <translation id="5149188072385105201">افزودن گذرواژه…</translation>
 <translation id="5150492518600715772">ارسال به دستگاه شما</translation>
 <translation id="5168414296986405587">‏ساخته‌شده برای iPadOS</translation>
 <translation id="5173088371991956744">همگام‌سازی باید هویتتان را تأیید کند</translation>
 <translation id="5181140330217080051">در حال بارگیری</translation>
-<translation id="5184329579814168207">‏باز کردن در Chrome</translation>
+<translation id="5184329579814168207">‏باز کردن در Egon</translation>
 <translation id="5186185447130319458">خصوصی</translation>
 <translation id="5188482106078495165">تنظیمات کوکی برای همه برگه‌ها اعمال می‌شود. برای اعمال تنظیم جدید در یکی از برگه‌های باز، برگه را بار کردن مجدد کنید.</translation>
 <translation id="5190835502935405962">نوار نشانک‌ها</translation>
@@ -579,7 +579,7 @@
 <translation id="5490005495580364134">مسدود کردن همه کوکی‌ها (توصیه نمی‌شود)</translation>
 <translation id="5513681519188741830"><ph name="TIME" /> ساعت قبل</translation>
 <translation id="5520466080178053306">روی «مدیر گذرواژه» و سپس روی «افزودن» ضربه بزنید</translation>
-<translation id="5525095647255982834">‏برای ارسال این برگه به دستگاهی دیگر، در آنجا به سیستم Chrome وارد شوید.</translation>
+<translation id="5525095647255982834">‏برای ارسال این برگه به دستگاهی دیگر، در آنجا به سیستم Egon وارد شوید.</translation>
 <translation id="5525269841082836315">ایجاد گذرعبارت</translation>
 <translation id="5542540507657872337"><ph name="COUNT" /> برگه پیدا شد</translation>
 <translation id="5548760955356983418">‏با Handoff می‌توانید شروع به مرور وب‌سایت در این دستگاه کنید و سپس به‌آسانی در دستگاه Mac خود به مرور ادامه دهید. وب‌سایتی که اکنون باز است در Dock (لنگرگاه) شما در Mac نمایان می‌شود.
@@ -601,14 +601,14 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">ایجاد رمزینه پاسخ‌سریع</translation>
 <translation id="567881659373499783">نسخه <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{‏درحال نمایش ۱ پنجره Chrome}one{‏درحال نمایش {count} پنجره Chrome}other{‏درحال نمایش {count} پنجره Chrome}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{‏درحال نمایش ۱ پنجره Egon}one{‏درحال نمایش {count} پنجره Egon}other{‏درحال نمایش {count} پنجره Egon}}</translation>
 <translation id="5701270923492462699">دسترسی به دوربین مجاز است</translation>
 <translation id="5704908597376970822">ورود به سیستم ممکن نیست.</translation>
 <translation id="5706552126692816153">آخرین فعالیت: ۱ روز قبل</translation>
 <translation id="5711039611392265845">‏برای تنظیمات بیشتری که با حریم خصوصی، امنیت و جمع‌آوری داده مرتبط هستند، <ph name="BEGIN_LINK" />همگام‌سازی و سرویس‌های Google<ph name="END_LINK" /> را ببینید.</translation>
 <translation id="5724941645893276623">برای مرور خصوصی وب، برگه جدیدی اضافه کنید</translation>
 <translation id="5728700505257787410">متأسفیم، مشکلی در ورود به حساب شما وجود داشت.</translation>
-<translation id="5733084997078800044">‏نکات Chrome</translation>
+<translation id="5733084997078800044">‏نکات Egon</translation>
 <translation id="5737974891429562743">جزئیات ورود به سیستم قدیمی است. برای شروع همگام‌سازی، به‌روزرسانی کنید.</translation>
 <translation id="5738385766833540397">مدیریت نحوه دریافت هشدارهای کاهش قیمت برای محصولاتی که ردیابی می‌کنید</translation>
 <translation id="5738887413654608789">با این کار می‌توانید صفحه‌های وب مرتبط را براساس محیط اطرافتان کاوش کنید.</translation>
@@ -623,7 +623,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="5812974770859303494">افزودن به…</translation>
 <translation id="581659025233126501">روشن کردن همگام‌سازی</translation>
 <translation id="5819208479324046259">توسط <ph name="MANAGER" /> مدیریت می‌شود. <ph name="BEGIN_LINK" />بیشتر بدانید<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">‏گذرواژه‌ها، روش‌های پرداخت، و نشانی‌ها را ذخیره کنید تا Chrome بتواند آن‌ها را تکمیل خودکار کند.</translation>
+<translation id="5833643789537100742">‏گذرواژه‌ها، روش‌های پرداخت، و نشانی‌ها را ذخیره کنید تا Egon بتواند آن‌ها را تکمیل خودکار کند.</translation>
 <translation id="5846482154967366008">موتور جستجو</translation>
 <translation id="5854790677617711513">قدیمی‌تر از ۳۰ روز</translation>
 <translation id="5857090052475505287">پوشهٔ جدید</translation>
@@ -650,7 +650,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="5982717868370722439">افزودن داده‌های موجود به <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">به‌تازگی بازدیدشده</translation>
 <translation id="5988097621740394599">کاهش قیمت را در برگه‌ها مشاهده کنید.</translation>
-<translation id="5988851877894965432">‏باز کردن نشانی‌های وب در Chrome</translation>
+<translation id="5988851877894965432">‏باز کردن نشانی‌های وب در Egon</translation>
 <translation id="6006672969046233841">برگه جدید</translation>
 <translation id="6012140227487808125">در حال رمزگذاری…</translation>
 <translation id="6021332621416007159">بازکردن در...</translation>
@@ -676,7 +676,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="6152406514676263192">برای دریافت مرتبط‌ترین محتوا براساس علایقتان، همگام‌سازی کنید.</translation>
 <translation id="6159839020698489198">اختیاری</translation>
 <translation id="6170450281939467187">ترجمه نشد</translation>
-<translation id="6177442314419606057">‏جستجو در Chrome</translation>
+<translation id="6177442314419606057">‏جستجو در Egon</translation>
 <translation id="6184086493125982861">نمایش برگه‌ها</translation>
 <translation id="6187302354554850004">آخرین همگام‌سازی: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">خوانده‌نشده</translation>
@@ -746,7 +746,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="6524918542306337007">«حالت ناشناس» دردسترس نیست</translation>
 <translation id="6530992499366869131">دریافت هشدار اگر گذرواژه‌ها در اثر سرقت اطلاعات شبکه لورفته بروند</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">‏از سایتی بازدید کنید و روی «دنبال کردن» در منوی Chrome کلیک کنید</translation>
+<translation id="6540120577248033958">‏از سایتی بازدید کنید و روی «دنبال کردن» در منوی Egon کلیک کنید</translation>
 <translation id="6561262006871132942">بزرگ کردن</translation>
 <translation id="6583087784430677195">برای خاموش کردن، <ph name="BEGIN_LINK" />تنظیمات<ph name="END_LINK" /> را باز کنید و به «تکمیل خودکار گذرواژه‌ها» بروید.</translation>
 <translation id="6585618849026997638">با اضافه کردن نشانک، می‌توانید به صفحه‌ای که برایتان مهم است برگردید</translation>
@@ -864,7 +864,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="7454057999980797137">ایالت / استان</translation>
 <translation id="7459628154744868585">«محافظت بهبودیافته» روشن است</translation>
 <translation id="7464701184726199289">با این کار داده‌های همگام‌سازی‌شده در همه دستگاه‌ها پاک می‌شوند. تنظیمات ذخیره‌شده سایت حذف نمی‌شوند و احتمالاً عادات مرور شما را نشان می‌دهند. <ph name="BEGIN_LINK" />بیشتر بدانید<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">‏۳. Chrome را انتخاب کنید</translation>
+<translation id="746684838091935575">‏۳. Egon را انتخاب کنید</translation>
 <translation id="7472734401283673885">نام شرکت</translation>
 <translation id="7473891865547856676">نه متشکرم</translation>
 <translation id="750493650310597496">۰ نشانک انتخاب شده است</translation>
@@ -899,7 +899,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="7781011649027948662">صفحه ترجمه شود؟</translation>
 <translation id="7781069478569868053">صفحه برگه جدید</translation>
 <translation id="7781829728241885113">دیروز</translation>
-<translation id="778855399387580014">‏جستجویی در برگه Chrome جدیدی شروع کنید.</translation>
+<translation id="778855399387580014">‏جستجویی در برگه Egon جدیدی شروع کنید.</translation>
 <translation id="7791543448312431591">افزودن</translation>
 <translation id="7807060072011926525">‏ارائه از Google</translation>
 <translation id="7839985698273989086">صفحه آفلاین</translation>
@@ -912,7 +912,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="7859704718976024901">سابقه مرور</translation>
 <translation id="7879275349003161544">نمایش بارگیری‌ها</translation>
 <translation id="7884694604461143138">سابقه جستجو (<ph name="COUNT" /> مورد پیدا شد)</translation>
-<translation id="7887198238286927132">‏برای محافظت از حریم‌خصوصی‌تان، Chrome از ویژگی تکمیل خودکار برای این فیلد استفاده نخواهد کرد.</translation>
+<translation id="7887198238286927132">‏برای محافظت از حریم‌خصوصی‌تان، Egon از ویژگی تکمیل خودکار برای این فیلد استفاده نخواهد کرد.</translation>
 <translation id="7911190106180361398">سازمانتان به شما اجازه نمی‌دهد همه چیز را همگام‌سازی کنید.</translation>
 <translation id="7920949005883349320">حریم خصوصی و امنیت</translation>
 <translation id="7930998711684428189">اگر گذرواژه‌ها به‌دلیل نقض داده لو رفته باشد، به شما هشدار می‌دهد.</translation>
@@ -933,7 +933,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="7982789257301363584">شبکه</translation>
 <translation id="7987685713885608670">‏برای افزایش ایمنی، گذرواژه‌ها را قبل‌از ذخیره شدن در «مدیر گذرواژه Google» در دستگاهتان رمزگذاری می‌کند.</translation>
 <translation id="7993619969781047893">ویژگی‌های بعضی از سایت‌ها ممکن است درست کار نکنند</translation>
-<translation id="800361585186029508">‏نشانی‌های وب وارد‌شده در Google Chrome را باز می‌کند.</translation>
+<translation id="800361585186029508">‏نشانی‌های وب وارد‌شده در Google Egon را باز می‌کند.</translation>
 <translation id="8016714545083187120">همیشه از اتصال‌های امن استفاده شود</translation>
 <translation id="802154636333426148">بارگیری نشد</translation>
 <translation id="8023878949384262191">بخش را بزرگ می‌کند.</translation>
@@ -942,7 +942,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="804225253087497565">‏وقتی به سیستم وارد شده باشید، ممکن است <ph name="BEGIN_LINK" />سابقه جستجو<ph name="END_LINK" /> و <ph name="BEGIN_LINK" />انواع دیگر فعالیت<ph name="END_LINK" /> در «حساب Google» شما ذخیره شوند. هر زمان خواستید می‌توانید آن‌ها را حذف کنید.</translation>
 <translation id="804427445359061970">برگه‌های مربوط به دستگاه‌های دیگر را اینجا خواهید دید</translation>
 <translation id="8059533439631660104">بخش را کوچک می‌کند.</translation>
-<translation id="8065292699993359127">‏باز کردن نشانی‌های وب در Chrome در حالت «ناشناس»</translation>
+<translation id="8065292699993359127">‏باز کردن نشانی‌های وب در Egon در حالت «ناشناس»</translation>
 <translation id="806745655614357130">داده‌های من مجزا باشد</translation>
 <translation id="8073670137947914548">بارگیری به پایان رسید</translation>
 <translation id="8073872304774253879">بهبود جستجوها و مرور</translation>
@@ -956,7 +956,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="8114753159095730575">بارگیری فایل دردسترس است. گزینه‌ها نزدیک انتهای صفحه دردسترس است.</translation>
 <translation id="81313319706244542">۲. روی «گذرواژه‌ها» ضربه بزنید</translation>
 <translation id="8132598642024322408">قیمت فعلی <ph name="PRICE" /> است، قیمت قبلی <ph name="PREVIOUS_PRICE" /> بود.</translation>
-<translation id="8136856065410661948">‏از این دسترسی برای ایجاد رویداد در Apple Calendar از Chrome و «لنز Google» استفاده می‌شود.</translation>
+<translation id="8136856065410661948">‏از این دسترسی برای ایجاد رویداد در Apple Calendar از Egon و «لنز Google» استفاده می‌شود.</translation>
 <translation id="8156478151976189188">«همگام‌سازی گذرواژه» کار نمی‌کند</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> حساب</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />دستگاه‌های شما<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="8533670235862049797">«مرور ایمن» روشن است</translation>
 <translation id="8534481786647257214">‏پست +Google ارسال شد.</translation>
 <translation id="8548878600947630424">یافتن در صفحه…</translation>
-<translation id="8558480467877843976">‏اکنون هرزمان بخواهید می‌توانید با مرور کردن یا ضربه زدن روی پیوندهای موجود در پیام‌ها، اسناد، و دیگر برنامه‌ها، از Chrome استفاده کنید.</translation>
+<translation id="8558480467877843976">‏اکنون هرزمان بخواهید می‌توانید با مرور کردن یا ضربه زدن روی پیوندهای موجود در پیام‌ها، اسناد، و دیگر برنامه‌ها، از Egon استفاده کنید.</translation>
 <translation id="8588404856427128947">خاموش</translation>
 <translation id="8590913940444621808">هرگز سؤال نشود</translation>
 <translation id="8591976964826315682">مسدود کردن کوکی‌های شخص ثالث در «حالت ناشناس»</translation>
@@ -1043,7 +1043,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="8876882697946675716">دستگاه‌هایتان را همگام نگه دارید</translation>
 <translation id="8877287418679067891">انتخاب به‌عنوان برنامه پیش‌فرض در «تنظیمات»…</translation>
 <translation id="8881801611828450202">جستجوی <ph name="SEARCH_ENGINE" /> برای این تصویر</translation>
-<translation id="8891935667620843985">‏با تنظیم Chrome به‌عنوان «برنامه مرورگر پیش‌فرض» می‌توانید پیوندها را به‌طور خودکار در آن باز کنید.</translation>
+<translation id="8891935667620843985">‏با تنظیم Egon به‌عنوان «برنامه مرورگر پیش‌فرض» می‌توانید پیوندها را به‌طور خودکار در آن باز کنید.</translation>
 <translation id="8898822736010347272">‏نشانی‌های وب بعضی از صفحه‌هایی که بازدید می‌کنید، اطلاعات محدودی از سیستم، و برخی از محتوای صفحه را به Google ارسال می‌کند تا به کشف تهدیدهای جدید و محافظت از همه افراد در وب کمک کند.</translation>
 <translation id="890565330728586731">برگشت</translation>
 <translation id="8909135823018751308">اشتراک‌گذاری‌...</translation>
@@ -1068,11 +1068,11 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="9055960261314198756">«محافظت بهبودیافته» خاموش است</translation>
 <translation id="9057972802061533987">دنبال کردن ممکن نیست. مشکلی پیش آمد.</translation>
 <translation id="9065203028668620118">ویرایش</translation>
-<translation id="9068336935206019333">‏باز کردن در حالت ناشناس Chrome</translation>
+<translation id="9068336935206019333">‏باز کردن در حالت ناشناس Egon</translation>
 <translation id="9079935439869366234">علامت‌گذاری همه موارد به‌‌عنوان خوانده‌شده</translation>
 <translation id="9081058212938299310">گذرواژه <ph name="USERNAME" /> به‌روزرسانی شود؟</translation>
 <translation id="9083838294503912307">برای همگام‌سازی و شخصی‌سازی در همه دستگاه‌ها، همگام‌سازی را روشن کنید.</translation>
-<translation id="9087108903408689779">‏گذرواژه پیشنهادی Chrome:</translation>
+<translation id="9087108903408689779">‏گذرواژه پیشنهادی Egon:</translation>
 <translation id="9093271241977565440">در بالای صفحه، روی «نماد جستجو» ضربه بزنید</translation>
 <translation id="9094033019050270033">به‌روزرسانی گذرواژه</translation>
 <translation id="9097506547406246598">لغو دنبال کردن ممکن نیست. مشکلی پیش آمد.</translation>
@@ -1089,7 +1089,7 @@ Handoff باید در بخش عمومی تنظیمات نیز فعال شود و
 <translation id="9223358826628549784">گزارش خرابی ارسال شد.</translation>
 <translation id="941747855997058526">انتخاب گذرواژه…</translation>
 <translation id="952704832371081537">لغو</translation>
-<translation id="953008885340860025">‏Chrome از سیستم خارج شده است</translation>
+<translation id="953008885340860025">‏Egon از سیستم خارج شده است</translation>
 <translation id="959066944189734975"><ph name="CHANNEL_NAME" /> را دنبال می‌کنید</translation>
 <translation id="981498610235328462">سازمانتان فقط ورود به سیستم با حساب‌های خاصی را مجاز کرده است. حساب‌هایی که مجاز نیستند پنهان می‌شوند.</translation>
 <translation id="984509647832111802">همگام‌سازی کار نمی‌کند.</translation>

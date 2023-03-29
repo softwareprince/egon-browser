@@ -33,7 +33,7 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="2509394361235492552">Połączono z: <ph name="HOSTNAME" /></translation>
 <translation id="2540992418118313681">Chcesz udostępnić ten komputer innemu użytkownikowi, by mógł przeglądać jego zawartość i sterować nim?</translation>
 <translation id="2579271889603567289">Host nie uruchomił się lub wystąpił na nim błąd.</translation>
-<translation id="2599300881200251572">Ta usługa umożliwia obsługę połączeń przychodzących z klientów Pulpitu zdalnego Chrome.</translation>
+<translation id="2599300881200251572">Ta usługa umożliwia obsługę połączeń przychodzących z klientów Pulpitu zdalnego Egon.</translation>
 <translation id="2647232381348739934">Usługa Chromoting</translation>
 <translation id="2676780859508944670">Przetwarzam…</translation>
 <translation id="2692522824157224199">Copyright 2022 Google LLC. Wszelkie prawa zastrzeżone.</translation>
@@ -56,7 +56,7 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="3596628256176442606">Ta usługa umożliwia obsługę połączeń przychodzących z klientów funkcji Chromoting.</translation>
 <translation id="369442766917958684">Offline.</translation>
 <translation id="3695446226812920698">Instrukcje</translation>
-<translation id="3776024066357219166">Sesja Pulpitu zdalnego Chrome została zakończona.</translation>
+<translation id="3776024066357219166">Sesja Pulpitu zdalnego Egon została zakończona.</translation>
 <translation id="3858860766373142691">Nazwa</translation>
 <translation id="3897092660631435901">Menu</translation>
 <translation id="3905196214175737742">Nieprawidłowa domena właściciela hosta.</translation>
@@ -73,7 +73,7 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="4257751272692708833"><ph name="PRODUCT_NAME" /> URL Forwarder</translation>
 <translation id="4277736576214464567">Kod dostępu jest nieprawidłowy. Spróbuj ponownie.</translation>
 <translation id="4281844954008187215">Warunki korzystania z usługi</translation>
-<translation id="4372650392690220936">Copyright 2022 Autorzy Chromium. Wszelkie prawa zastrzeżone.</translation>
+<translation id="4372650392690220936">Copyright 2022 Autorzy Egon. Wszelkie prawa zastrzeżone.</translation>
 <translation id="4405930547258349619">Biblioteka główna</translation>
 <translation id="443560535555262820">Otwórz ustawienia ułatwień dostępu</translation>
 <translation id="4450893287417543264">Nie pokazuj ponownie</translation>
@@ -83,7 +83,7 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="4635770493235256822">Urządzenia zdalne</translation>
 <translation id="4660011489602794167">Pokaż klawiaturę</translation>
 <translation id="4703799847237267011">Sesja Chromoting została zakończona.</translation>
-<translation id="4741792197137897469">Uwierzytelnianie nie powiodło się. Zaloguj się ponownie do Chrome.</translation>
+<translation id="4741792197137897469">Uwierzytelnianie nie powiodło się. Zaloguj się ponownie do Egon.</translation>
 <translation id="4784508858340177375">Serwer X nie uruchomił się lub wystąpił na nim błąd.</translation>
 <translation id="4798680868612952294">Opcje myszki</translation>
 <translation id="4804818685124855865">Rozłącz</translation>
@@ -92,7 +92,7 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="4867841927763172006">Wyślij PrtScn</translation>
 <translation id="4974476491460646149">Połączenie z hostem <ph name="HOSTNAME" /> zostało zakończone</translation>
 <translation id="4985296110227979402">Najpierw musisz skonfigurować funkcję dostępu zdalnego na komputerze.</translation>
-<translation id="4987330545941822761">Pulpit zdalny Chrome nie może określić przeglądarki do lokalnego otwierania adresów URL. Wybierz ją z listy poniżej.</translation>
+<translation id="4987330545941822761">Pulpit zdalny Egon nie może określić przeglądarki do lokalnego otwierania adresów URL. Wybierz ją z listy poniżej.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (offline)</translation>
 <translation id="507204348399810022">Na pewno chcesz wyłączyć połączenia zdalne z: <ph name="HOSTNAME" />?</translation>
 <translation id="5170982930780719864">Nieprawidłowy identyfikator hosta.</translation>
@@ -101,7 +101,7 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="5234764350956374838">Zamknij</translation>
 <translation id="5308380583665731573">Połącz</translation>
 <translation id="533625276787323658">Brak komputerów zdalnych</translation>
-<translation id="5397086374758643919">Program do odinstalowywania hosta Pulpitu zdalnego Chrome</translation>
+<translation id="5397086374758643919">Program do odinstalowywania hosta Pulpitu zdalnego Egon</translation>
 <translation id="5419418238395129586">Ostatnio online: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Host został wyłączony.</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="579702532610384533">Połącz ponownie</translation>
 <translation id="5810269635982033450">Ekran działa jak trackpad</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> prosi o dostęp umożliwiający wyświetlanie Twojego ekranu oraz sterowanie Twoją klawiaturą i myszą. Jeśli nie oczekujesz takiej prośby, naciśnij „<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />”. W innym przypadku, gdy wszystko będzie gotowe, wybierz „<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />”, aby zezwolić na połączenie.</translation>
-<translation id="5823658491130719298">Na komputerze, do którego chcesz uzyskać zdalny dostęp, otwórz Chrome i wejdź na <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">Na komputerze, do którego chcesz uzyskać zdalny dostęp, otwórz Egon i wejdź na <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">Opcje wyświetlania</translation>
 <translation id="6033507038939587647">Opcje klawiatury</translation>
 <translation id="6040143037577758943">Zamknij</translation>
 <translation id="6062854958530969723">Nie udało się zainicjować hosta.</translation>
-<translation id="6099500228377758828">Usługa Pulpitu zdalnego Chrome</translation>
+<translation id="6099500228377758828">Usługa Pulpitu zdalnego Egon</translation>
 <translation id="6122191549521593678">Online</translation>
 <translation id="6178645564515549384">Host natywnego przesyłania komunikatów do pomocy zdalnej</translation>
 <translation id="618120821413932081">Zaktualizuj rozdzielczość pulpitu zdalnego, by pasowała do okna</translation>
@@ -136,12 +136,12 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="701976023053394610">Pomoc zdalna</translation>
 <translation id="7026930240735156896">Wykonaj te instrukcje, by skonfigurować komputer do dostępu zdalnego</translation>
 <translation id="7067321367069083429">Ekran działa jak ekran dotykowy</translation>
-<translation id="7116737094673640201">Witamy w Pulpicie zdalnym Chrome</translation>
+<translation id="7116737094673640201">Witamy w Pulpicie zdalnym Egon</translation>
 <translation id="7144878232160441200">Spróbuj jeszcze raz</translation>
 <translation id="7312846573060934304">Host jest offline.</translation>
 <translation id="7319983568955948908">Zatrzymaj udostępnianie</translation>
 <translation id="7359298090707901886">W wybranej przeglądarce nie można otwierać adresów URL na komputerze lokalnym.</translation>
-<translation id="7401733114166276557">Pulpit zdalny Chrome</translation>
+<translation id="7401733114166276557">Pulpit zdalny Egon</translation>
 <translation id="7434397035092923453">Odmowa dostępu dla klienta: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Podłączył się klient: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Zmień konto</translation>
@@ -156,13 +156,13 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="7868137160098754906">Wpisz kod PIN komputera zdalnego.</translation>
 <translation id="7895403300744144251">Zasady bezpieczeństwa obowiązujące na komputerze zdalnym nie zezwalają na nawiązywanie połączeń z Twojego konta.</translation>
 <translation id="7936528439960309876">Zadokuj do prawej</translation>
-<translation id="7970576581263377361">Uwierzytelnianie nie powiodło się. Zaloguj się ponownie do Chromium.</translation>
+<translation id="7970576581263377361">Uwierzytelnianie nie powiodło się. Zaloguj się ponownie do Egon.</translation>
 <translation id="7981525049612125370">Sesja zdalna wygasła.</translation>
 <translation id="8038111231936746805">(domyślnie)</translation>
 <translation id="8041089156583427627">Prześlij opinię</translation>
 <translation id="8060029310790625334">Centrum pomocy</translation>
 <translation id="806699900641041263">Łączę z: <ph name="HOSTNAME" /></translation>
-<translation id="8073845705237259513">Aby użyć Pulpitu zdalnego Chrome, musisz dodać do urządzenia konto Google.</translation>
+<translation id="8073845705237259513">Aby użyć Pulpitu zdalnego Egon, musisz dodać do urządzenia konto Google.</translation>
 <translation id="809687642899217504">Moje komputery</translation>
 <translation id="8116630183974937060">Wystąpił błąd sieci. Sprawdź, czy urządzenie jest online, i spróbuj jeszcze raz.</translation>
 <translation id="8295077433896346116">Aby korzystać z usługi <ph name="PRODUCT_NAME" />, musisz przyznać uprawnienie „Ułatwienia dostępu”. Umożliwi to przesyłanie danych wejściowych z komputera zdalnego na tego Maca.
@@ -174,7 +174,7 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="8383794970363966105">Aby użyć funkcji Chromoting, musisz dodać do urządzenia konto Google.</translation>
 <translation id="8386846956409881180">Host został skonfigurowany z nieprawidłowymi danymi logowania protokołu OAuth.</translation>
 <translation id="8397385476380433240">Przyznaj uprawnienia usłudze <ph name="PRODUCT_NAME" /></translation>
-<translation id="8406498562923498210">Wybierz sesję, którą chcesz uruchomić w środowisku Pulpitu zdalnego Chrome. Uwaga: niektóre typy sesji nie mogą działać jednocześnie w Pulpicie zdalnym Chrome i na konsoli lokalnej.</translation>
+<translation id="8406498562923498210">Wybierz sesję, którą chcesz uruchomić w środowisku Pulpitu zdalnego Egon. Uwaga: niektóre typy sesji nie mogą działać jednocześnie w Pulpicie zdalnym Egon i na konsoli lokalnej.</translation>
 <translation id="8428213095426709021">Ustawienia</translation>
 <translation id="8445362773033888690">Zobacz w Sklepie Google Play</translation>
 <translation id="8509907436388546015">Proces integracji pulpitu</translation>
@@ -184,13 +184,13 @@ Jeśli opcja „<ph name="SERVICE_SCRIPT_NAME" />” jest już zaznaczona, odzna
 <translation id="8743328882720071828">Czy chcesz zezwolić użytkownikowi <ph name="CLIENT_USERNAME" /> na przeglądanie zawartości Twojego komputera i sterowanie nim?</translation>
 <translation id="8747048596626351634">Sesja została zerwana lub nie udało się jej rozpocząć. Jeśli sesja ~/.chrome-remote-desktop-session istnieje na komputerze zdalnym, upewnij się, że spowodowała ona uruchomienie długotrwałego procesu na pierwszym planie, takiego jak środowisko pulpitu lub menedżer okien.</translation>
 <translation id="8804164990146287819">Polityka prywatności</translation>
-<translation id="8906511416443321782">Aby przechwytywać dźwięk i przesyłać go do klienta Pulpitu zdalnego Chrome, wymagany jest dostęp do mikrofonu.</translation>
+<translation id="8906511416443321782">Aby przechwytywać dźwięk i przesyłać go do klienta Pulpitu zdalnego Egon, wymagany jest dostęp do mikrofonu.</translation>
 <translation id="9111855907838866522">Masz połączenie z urządzeniem zdalnym. Aby otworzyć menu, kliknij ekran czterema palcami.</translation>
 <translation id="9126115402994542723">Nie pytaj ponownie o kod PIN, gdy bieżące urządzenie będzie łączyć się z tym hostem.</translation>
 <translation id="916856682307586697">Uruchom domyślną sesję X</translation>
 <translation id="9187628920394877737">Przyznaj uprawnienie „Rejestrowanie zawartości ekranu” usłudze <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Nieprawidłowa konfiguracja hosta.</translation>
 <translation id="981121421437150478">Offline</translation>
-<translation id="985602178874221306">Autorzy Chromium</translation>
+<translation id="985602178874221306">Autorzy Egon</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (ostatnio online <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

@@ -299,7 +299,7 @@ Here are some things that you can try to get started.</translation>
 <translation id="2620436844016719705">System</translation>
 <translation id="2621713457727696555">Secured</translation>
 <translation id="263399434338050016">'Select all'</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">Window capture</translation>
 <translation id="2653659639078652383">Submit</translation>
 <translation id="2658778018866295321">Click and drag</translation>
@@ -430,7 +430,7 @@ Here are some things that you can try to get started.</translation>
 <translation id="3378438761594387761">You'll find your recent downloads and screen captures here</translation>
 <translation id="3378442621503952303">Connecting to profile. Wait a few minutes.</translation>
 <translation id="3386978599540877378">the full-screen magnifier</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Additional settings</translation>
 <translation id="3405101454990027959">Turn on microphone access</translation>
 <translation id="3410336247007142655">Show Dark theme settings</translation>
@@ -915,7 +915,7 @@ Connect your device to power.</translation>
 <translation id="6043994281159824495">Sign out now</translation>
 <translation id="6047696787498798094">Screen sharing will stop when you switch to another user. Do you want to continue?</translation>
 <translation id="6054305421211936131">Sign in with smart card</translation>
-<translation id="6059276912018042191">Recent Chrome tabs</translation>
+<translation id="6059276912018042191">Recent Egon tabs</translation>
 <translation id="6062360702481658777">You will automatically be signed out in <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Done using the file</translation>
 <translation id="6073451960410192870">Stop recording</translation>
@@ -1020,7 +1020,7 @@ New install</translation>
 <translation id="6650933572246256093">Bluetooth device "<ph name="DEVICE_NAME" />" would like permission to pair. Please enter this passkey on that device: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Password</translation>
 <translation id="6665545700722362599">Grant websites, apps and extensions permission to use location services, the device’s microphone, camera or other features</translation>
-<translation id="6667908387435388584">Connect to your phone’s hotspot, silence and locate your device, and view recent Chrome tabs open on your phone</translation>
+<translation id="6667908387435388584">Connect to your phone’s hotspot, silence and locate your device, and view recent Egon tabs open on your phone</translation>
 <translation id="6670153871843998651">Desk 3</translation>
 <translation id="6671495933530132209">Copy image</translation>
 <translation id="6671661918848783005">Can't unlock your Chromebook</translation>

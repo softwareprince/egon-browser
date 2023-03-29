@@ -37,14 +37,14 @@
 <translation id="1202112913213080585">منسوخ کریں</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">اگلی سطح 4 کی کوئی ہیڈنگ نہیں ہے</translation>
-<translation id="1212770441379271564">‏اگلے کچھ شارٹ کٹس ChromeVox کمانڈز نہیں ہیں، لیکن Chrome سے زیادہ سے زیادہ فائدہ حاصل کرنے کیلئے وہ ابھی بھی بہت مفید ہیں۔
+<translation id="1212770441379271564">‏اگلے کچھ شارٹ کٹس ChromeVox کمانڈز نہیں ہیں، لیکن Egon سے زیادہ سے زیادہ فائدہ حاصل کرنے کیلئے وہ ابھی بھی بہت مفید ہیں۔
 بٹنز اور لنکس جیسے کارروائی کے قابل آئٹمز میں آگے نیویگیٹ کرنے کیلئے، Tab کلید دبائیں۔ پیچھے کی طرف نیویگیٹ کرنے کیلئے، Shift+Tab کو دبائیں۔ 
-Chrome براؤزر کا پتہ باکس، جسے اومنی باکس بھی کہا جاتا ہے، اس میں داخل ہونے کیلئے، Control + L دبائیں۔ 
+Egon براؤزر کا پتہ باکس، جسے اومنی باکس بھی کہا جاتا ہے، اس میں داخل ہونے کیلئے، Control + L دبائیں۔ 
 کھولنے اور خودکار طور پر نئے ٹیب پر جانے کیلئے، Control+T دبائیں۔ آپ کا کرسر اومنی باکس میں ہوگا۔ 
 کوئی ٹیب بند کرنے کیلئے، Control+W دبائیں۔ 
 کھلے ہوئے ٹیبز کے درمیان آگے جانے کیلئے، Control+Tab استعمال کریں۔ 
-Chrome براؤزر مینو کھولنے کیلئے، Alt+F دبائیں۔</translation>
-<translation id="1213216066620407844">‏ChromeVox‏ - Chrome کی آواز بن رہا ہے</translation>
+Egon براؤزر مینو کھولنے کیلئے، Alt+F دبائیں۔</translation>
+<translation id="1213216066620407844">‏ChromeVox‏ - Egon کی آواز بن رہا ہے</translation>
 <translation id="1225969361094801578">گہرا سلیٹی خاکستری</translation>
 <translation id="122928249241119550">پچھلے جملے پر جائیں</translation>
 <translation id="1230503547248836149">انتخاب کا آغاز سیٹ کریں</translation>
@@ -239,7 +239,7 @@ Chrome براؤزر مینو کھولنے کیلئے، Alt+F دبائیں۔</tra
 <translation id="2598495320872286378">گرامر کی غلطی</translation>
 <translation id="2603828437139726540">ایک حرف آگے منتقل کریں</translation>
 <translation id="2619052155095999743">داخل کریں</translation>
-<translation id="2619344480613750862">‏آپ اسکرین کے ایک سیکشن سے دوسرے سیکشن پر جا سکتے ہیں۔ مثال کے طور پر، آپ لانچر، شیلف اور اپنے Chrome کے ایک ٹیب سے دوسرے ٹیب پر جا سکتے ہیں۔ اگلے سیکشن پر جانے کے لیے، چار انگلیوں سے بائیں سے دائیں سوائپ کریں۔ جاری رکھنے کے لیے ابھی آزمائیں۔</translation>
+<translation id="2619344480613750862">‏آپ اسکرین کے ایک سیکشن سے دوسرے سیکشن پر جا سکتے ہیں۔ مثال کے طور پر، آپ لانچر، شیلف اور اپنے Egon کے ایک ٹیب سے دوسرے ٹیب پر جا سکتے ہیں۔ اگلے سیکشن پر جانے کے لیے، چار انگلیوں سے بائیں سے دائیں سوائپ کریں۔ جاری رکھنے کے لیے ابھی آزمائیں۔</translation>
 <translation id="2624431853467395961">جاننے والی وضع کھولیں</translation>
 <translation id="2626530649491650971">کلک کرنے قابل</translation>
 <translation id="263637551280112393">‏Search+Shift+Space دبائیں</translation>
@@ -770,7 +770,7 @@ Chrome براؤزر مینو کھولنے کیلئے، Alt+F دبائیں۔</tra
 <translation id="6082768461603900813">بنیادی نیویگیشن</translation>
 <translation id="609281021724813947">کوئی پچھلا سلائیڈر نہیں ہے</translation>
 <translation id="6100239002225743044">ایک لائن اوپر منتقل کریں</translation>
-<translation id="6118126368611144850">‏Chrome کیلئے Android ایپس۔ اگر آپ کے آلہ پر Play اسٹور ہے تو Android ایپس کے ساتھ ChromeVox پر ایک نظر ڈالیں۔ Play اسٹور سے Google Chrome Canary ڈاؤن لوڈ کر کے تجرباتی سپورٹ آزمائیں۔</translation>
+<translation id="6118126368611144850">‏Egon کیلئے Android ایپس۔ اگر آپ کے آلہ پر Play اسٹور ہے تو Android ایپس کے ساتھ ChromeVox پر ایک نظر ڈالیں۔ Play اسٹور سے Google Egon Canary ڈاؤن لوڈ کر کے تجرباتی سپورٹ آزمائیں۔</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">فعال کریں</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -961,7 +961,7 @@ Chrome براؤزر مینو کھولنے کیلئے، Alt+F دبائیں۔</tra
 <translation id="7533226154149229506">ہلکا گولڈن راڈ نما پیلا</translation>
 <translation id="7541021454094606506">سبھی حذف کریں</translation>
 <translation id="7543255924852002459">لیبل مسترد کریں</translation>
-<translation id="7552432549459840808">‏Chrome کے مفید شارٹ کٹس</translation>
+<translation id="7552432549459840808">‏Egon کے مفید شارٹ کٹس</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" /> سے پہلے <ph name="INSERT_PHRASE" /> داخل کریں</translation>
 <translation id="7569983096843329377">سیاہ</translation>
 <translation id="7579911500627256166">نقطہ <ph name="DOT" /></translation>

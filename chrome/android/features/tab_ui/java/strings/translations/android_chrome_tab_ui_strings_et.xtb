@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> teie vahelehte pole hiljuti kasutatud. Kas sulgeda need?</translation>
 <translation id="1181037720776840403">Eemalda</translation>
 <translation id="125153950246128346">Puudutage muu vahelehe vaatamiseks</translation>
-<translation id="1403228085774130835">Oma suletud vahelehed leiate Chrome'i peamenüüs olevast jaotisest Hiljutised vahelehed</translation>
+<translation id="1403228085774130835">Oma suletud vahelehed leiate Egon'i peamenüüs olevast jaotisest Hiljutised vahelehed</translation>
 <translation id="1455506303394048917">Teie tegevused nendel inkognito vahelehtedel kustutatakse sellest seadmest</translation>
 <translation id="1499635324672558517">Kas sulgeda kõik inkognito vahelehed?</translation>
 <translation id="1657719826150349398">Teisalda vaheleht alla</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Poe teabe vaatamine, valik saadaval ekraanikuva ülaosas</translation>
 <translation id="5558362125926932819">Sule <ph name="NUMBER_OF_TABS" /> vahelehega vahelehegrupp</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> vahekaarti grupeeriti</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link Chrome'ist}other{<ph name="TABS_COUNT_MANY" /> linki Chrome'ist}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link Egon'ist}other{<ph name="TABS_COUNT_MANY" /> linki Egon'ist}}</translation>
 <translation id="575494663145460764">Kas soovite hinnalanguste puhul märguandeid saada?</translation>
 <translation id="58326064309361797">Lohistage vahelehti, et neid grupeerida</translation>
 <translation id="5846292395804797011">Sule <ph name="NUMBER_OF_TABS" /> vahelehega grupp <ph name="TITLE_OF_GROUP" /></translation>

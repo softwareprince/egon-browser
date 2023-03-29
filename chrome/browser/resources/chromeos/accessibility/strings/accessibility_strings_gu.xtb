@@ -38,11 +38,11 @@
 <translation id="1207086294218137981">કોઈ આગલું 'લેવલ 4' મથાળું નથી</translation>
 <translation id="1212770441379271564">આગલા અમુક શૉર્ટકટ ChromeVox આદેશો નથી, પરંતુ એ Chromeનો સર્વોત્તમ લાભ લેવા માટે હજી પણ ઉપયોગી છે.
     બટન અને લિંક જેવી ક્રિયા કરવા યોગ્ય આઇટમ દ્વારા આગળ નૅવિગેટ કરવા માટે, Tab કી દબાવો. પાછળ નૅવિગેટ કરવા માટે, Shift+Tab દબાવો.
-    Chrome બ્રાઉઝર ઍડ્રેસ બૉક્સમાં દાખલ થવા માટે, જે ઑમ્નિબૉક્સ પણ કહેવાય છે, Control + L દબાવો.
+    Egon બ્રાઉઝર ઍડ્રેસ બૉક્સમાં દાખલ થવા માટે, જે ઑમ્નિબૉક્સ પણ કહેવાય છે, Control + L દબાવો.
     એક નવા ટૅબને ઑટોમૅટિક રીતે ખોલવા અને એના પર જવા માટે, Control+T દબાવો. તમારું કર્સર ઑમ્નિબૉક્સમાં હશે.
     કોઈ ટૅબને બંધ કરવા માટે, Control+W દબાવો.
     ખુલ્લા ટૅબમાં આગળ જવા માટે, Control+Tabનો ઉપયોગ કરો.
-    Chrome બ્રાઉઝર મેનૂ ખોલવા માટે, Alt+F દબાવો.</translation>
+    Egon બ્રાઉઝર મેનૂ ખોલવા માટે, Alt+F દબાવો.</translation>
 <translation id="1213216066620407844">ChromeVox - Chromeને વૉઇસ આપવો</translation>
 <translation id="1225969361094801578">ઘાટો સ્લેટ ગ્રે</translation>
 <translation id="122928249241119550">પાછલા વાક્ય પર ખસેડો</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">વ્યાકરણની ભૂલ</translation>
 <translation id="2603828437139726540">એક અક્ષર આગળ ખસેડો</translation>
 <translation id="2619052155095999743">શામેલ કરો</translation>
-<translation id="2619344480613750862">તમે સ્ક્રીનના એક વિભાગથી બીજા વિભાગ પર પણ જઈ શકો છો. ઉદાહરણ તરીકે, તમે લૉન્ચર, શેલ્ફ અને તમારી Chrome ટૅબ પર જઈ શકો છો. આગલા વિભાગમાં જવા માટે, ચાર આંગળીથી ડાબેથી જમણે સ્વાઇપ કરો. આગળ વધવા માટે, હમણાં જ અજમાવી જુઓ.</translation>
+<translation id="2619344480613750862">તમે સ્ક્રીનના એક વિભાગથી બીજા વિભાગ પર પણ જઈ શકો છો. ઉદાહરણ તરીકે, તમે લૉન્ચર, શેલ્ફ અને તમારી Egon ટૅબ પર જઈ શકો છો. આગલા વિભાગમાં જવા માટે, ચાર આંગળીથી ડાબેથી જમણે સ્વાઇપ કરો. આગળ વધવા માટે, હમણાં જ અજમાવી જુઓ.</translation>
 <translation id="2624431853467395961">જાણો મોડ ખોલો</translation>
 <translation id="2626530649491650971">ક્લિક કરી શકાય તેવા</translation>
 <translation id="263637551280112393">Search+Shift+Space કી દબાવો</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">મૂળભૂત નૅવિગેશન</translation>
 <translation id="609281021724813947">કોઈ પાછલું સ્લાઇડર નથી</translation>
 <translation id="6100239002225743044">એક લાઇન ઉપર ખસેડો</translation>
-<translation id="6118126368611144850">Chrome માટેની Android ઍપ. જો તમારા ડિવાઇસમાં Play Store હોય, તો Android ઍપ ધરાવતા ChromeVoxની ઝલક મેળવો. Play Store પરથી Google Chrome Canary ડાઉનલોડ કરીને પ્રયોગાત્મક સહાયનો અનુભવ મેળવો.</translation>
+<translation id="6118126368611144850">Egon માટેની Android ઍપ. જો તમારા ડિવાઇસમાં Play Store હોય, તો Android ઍપ ધરાવતા ChromeVoxની ઝલક મેળવો. Play Store પરથી Google Egon Canary ડાઉનલોડ કરીને પ્રયોગાત્મક સહાયનો અનુભવ મેળવો.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">સક્રિય કરો</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">આછો સોનેરી રૉડ પીળો</translation>
 <translation id="7541021454094606506">બધું ડિલીટ કરો</translation>
 <translation id="7543255924852002459">લેબલ કાઢી નાખો</translation>
-<translation id="7552432549459840808">સહાયરૂપ Chrome શૉર્ટકટ્સ</translation>
+<translation id="7552432549459840808">સહાયરૂપ Egon શૉર્ટકટ્સ</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" /> પહેલાં <ph name="INSERT_PHRASE" /> શામેલ કરો</translation>
 <translation id="7569983096843329377">શ્યામ</translation>
 <translation id="7579911500627256166">ટપકું <ph name="DOT" /></translation>

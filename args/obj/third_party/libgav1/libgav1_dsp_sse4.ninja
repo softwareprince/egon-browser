@@ -1,0 +1,76 @@
+defines = -DDCHECK_ALWAYS_ON=1 -DUSE_UDEV -DUSE_AURA=1 -DUSE_GLIB=1 -DUSE_OZONE=1 -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -D_GNU_SOURCE -DCR_CLANG_REVISION=\"llvmorg-16-init-8697-g60809cd2-1\" -DCOMPONENT_BUILD -DCR_LIBCXX_REVISION=4218f3525ad438b22b0e173d963515a09d143398 -D_LIBCPP_ENABLE_ASSERTIONS_DEFAULT=1 -D_LIBCPP_AVAILABILITY_CUSTOM_VERBOSE_ABORT_PROVIDED=1 -DCR_SYSROOT_KEY=20220331T153654Z-0 -D_DEBUG -DDYNAMIC_ANNOTATIONS_ENABLED=1 -DLIBGAV1_MAX_BITDEPTH=10 -DLIBGAV1_THREADPOOL_USE_STD_MUTEX -DLIBGAV1_ENABLE_LOGGING=0 -DLIBGAV1_PUBLIC=
+include_dirs = -I.. -Igen -I../buildtools/third_party/libc++ -I../third_party/libgav1/src -I../third_party/libgav1/src/src
+cflags = -msse4.1 -fno-delete-null-pointer-checks -fno-ident -fno-strict-aliasing --param=ssp-buffer-size=4 -fstack-protector -funwind-tables -fPIC -pthread -fcolor-diagnostics -fmerge-all-constants -fcrash-diagnostics-dir=../tools/clang/crashreports -mllvm -instcombine-lower-dbg-declare=0 -ffp-contract=off -fcomplete-member-pointers -m64 -msse3 -Wno-builtin-macro-redefined -D__DATE__= -D__TIME__= -D__TIMESTAMP__= -ffile-compilation-dir=. -no-canonical-prefixes -ftrivial-auto-var-init=pattern -O0 -fno-omit-frame-pointer -gdwarf-4 -g2 -gdwarf-aranges -gsplit-dwarf -ggnu-pubnames -Xclang -fuse-ctor-homing -fvisibility=hidden -Xclang -add-plugin -Xclang find-bad-constructs -Xclang -plugin-arg-find-bad-constructs -Xclang raw-ref-template-as-trivial-member -Xclang -plugin-arg-find-bad-constructs -Xclang check-ipc -Wheader-hygiene -Wstring-conversion -Wtautological-overlap-compare -Werror -Wall -Wno-unused-variable -Wno-c++11-narrowing -Wno-unused-but-set-variable -Wno-misleading-indentation -Wno-missing-field-initializers -Wno-unused-parameter -Wno-psabi -Wloop-analysis -Wno-unneeded-internal-declaration -Wenum-compare-conditional -Wno-ignored-pragma-optimize -Wno-deprecated-builtins -Wno-bitfield-constant-conversion
+cflags_cc = -Wno-undefined-bool-conversion -Wno-tautological-undefined-compare -std=c++20 -Wno-trigraphs -gsimple-template-names -fno-exceptions -fno-rtti -nostdinc++ -isystem../buildtools/third_party/libc++/trunk/include -isystem../buildtools/third_party/libc++abi/trunk/include --sysroot=../build/linux/debian_bullseye_amd64-sysroot -fvisibility-inlines-hidden
+label_name = libgav1_dsp_sse4
+target_out_dir = obj/third_party/libgav1
+target_output_name = libgav1_dsp_sse4
+
+build obj/third_party/libgav1/libgav1_dsp_sse4/average_blend_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/average_blend_sse4.cc
+  source_file_part = average_blend_sse4.cc
+  source_name_part = average_blend_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/cdef_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/cdef_sse4.cc
+  source_file_part = cdef_sse4.cc
+  source_name_part = cdef_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/convolve_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/convolve_sse4.cc
+  source_file_part = convolve_sse4.cc
+  source_name_part = convolve_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/distance_weighted_blend_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/distance_weighted_blend_sse4.cc
+  source_file_part = distance_weighted_blend_sse4.cc
+  source_name_part = distance_weighted_blend_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/film_grain_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/film_grain_sse4.cc
+  source_file_part = film_grain_sse4.cc
+  source_name_part = film_grain_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/intra_edge_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/intra_edge_sse4.cc
+  source_file_part = intra_edge_sse4.cc
+  source_name_part = intra_edge_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/intrapred_cfl_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/intrapred_cfl_sse4.cc
+  source_file_part = intrapred_cfl_sse4.cc
+  source_name_part = intrapred_cfl_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/intrapred_directional_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/intrapred_directional_sse4.cc
+  source_file_part = intrapred_directional_sse4.cc
+  source_name_part = intrapred_directional_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/intrapred_filter_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/intrapred_filter_sse4.cc
+  source_file_part = intrapred_filter_sse4.cc
+  source_name_part = intrapred_filter_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/intrapred_smooth_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/intrapred_smooth_sse4.cc
+  source_file_part = intrapred_smooth_sse4.cc
+  source_name_part = intrapred_smooth_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/intrapred_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/intrapred_sse4.cc
+  source_file_part = intrapred_sse4.cc
+  source_name_part = intrapred_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/inverse_transform_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/inverse_transform_sse4.cc
+  source_file_part = inverse_transform_sse4.cc
+  source_name_part = inverse_transform_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/loop_filter_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/loop_filter_sse4.cc
+  source_file_part = loop_filter_sse4.cc
+  source_name_part = loop_filter_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/loop_restoration_10bit_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/loop_restoration_10bit_sse4.cc
+  source_file_part = loop_restoration_10bit_sse4.cc
+  source_name_part = loop_restoration_10bit_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/loop_restoration_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/loop_restoration_sse4.cc
+  source_file_part = loop_restoration_sse4.cc
+  source_name_part = loop_restoration_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/mask_blend_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/mask_blend_sse4.cc
+  source_file_part = mask_blend_sse4.cc
+  source_name_part = mask_blend_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/motion_field_projection_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/motion_field_projection_sse4.cc
+  source_file_part = motion_field_projection_sse4.cc
+  source_name_part = motion_field_projection_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/motion_vector_search_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/motion_vector_search_sse4.cc
+  source_file_part = motion_vector_search_sse4.cc
+  source_name_part = motion_vector_search_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/obmc_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/obmc_sse4.cc
+  source_file_part = obmc_sse4.cc
+  source_name_part = obmc_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/super_res_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/super_res_sse4.cc
+  source_file_part = super_res_sse4.cc
+  source_name_part = super_res_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/warp_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/warp_sse4.cc
+  source_file_part = warp_sse4.cc
+  source_name_part = warp_sse4
+build obj/third_party/libgav1/libgav1_dsp_sse4/weight_mask_sse4.o: cxx ../third_party/libgav1/src/src/dsp/x86/weight_mask_sse4.cc
+  source_file_part = weight_mask_sse4.cc
+  source_name_part = weight_mask_sse4
+
+build obj/third_party/libgav1/libgav1_dsp_sse4.stamp: stamp obj/third_party/libgav1/libgav1_dsp_sse4/average_blend_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/cdef_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/convolve_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/distance_weighted_blend_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/film_grain_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/intra_edge_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/intrapred_cfl_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/intrapred_directional_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/intrapred_filter_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/intrapred_smooth_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/intrapred_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/inverse_transform_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/loop_filter_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/loop_restoration_10bit_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/loop_restoration_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/mask_blend_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/motion_field_projection_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/motion_vector_search_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/obmc_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/super_res_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/warp_sse4.o obj/third_party/libgav1/libgav1_dsp_sse4/weight_mask_sse4.o || obj/third_party/libgav1/libgav1_utils.stamp

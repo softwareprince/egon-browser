@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">I-drag ang slider hanggang sa mabasa mo ito nang kumportable. Dapat ay halos ganito kalaki ang text pagkatapos mag-double tap sa isang talata.</translation>
 <translation id="2329473609445770916">Tinutukoy ng site na ito ang mga interes na magagamit ng iba pang site para magpakita sa iyo ng mga ad</translation>
 <translation id="2359808026110333948">Magpatuloy</translation>
-<translation id="2379925928934107488">Ilapat ang madilim na tema sa mga site kapag ginagamit ng Chrome ang madilim na tema, kapag posible</translation>
+<translation id="2379925928934107488">Ilapat ang madilim na tema sa mga site kapag ginagamit ng Egon ang madilim na tema, kapag posible</translation>
 <translation id="2387895666653383613">Pag-scale ng text</translation>
 <translation id="2390272837142897736">Dagdagan ang pag-zoom</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">Mula sa web</translation>
 <translation id="321187648315454507">Para payagan ang <ph name="APP_NAME" /> na magpadala sa iyo ng mga notification, i-on din ang mga notification sa <ph name="BEGIN_LINK" />Mga Setting ng Android<ph name="END_LINK" />.</translation>
 <translation id="3227137524299004712">Mikropono</translation>
-<translation id="3248611290851046188">Tinutukoy ng site na ito ang mga interes na magagamit ng iba pang site para magpakita sa iyo ng mga ad. Kinukuha rin ng site na ito ang mga interes mo mula sa Chrome para makapagpakita sa iyo ng higit pang nauugnay na ad.</translation>
+<translation id="3248611290851046188">Tinutukoy ng site na ito ang mga interes na magagamit ng iba pang site para magpakita sa iyo ng mga ad. Kinukuha rin ng site na ito ang mga interes mo mula sa Egon para makapagpakita sa iyo ng higit pang nauugnay na ad.</translation>
 <translation id="3277252321222022663">Payagan ang mga site na i-access ang mga sensor (inirerekomenda)</translation>
 <translation id="3285500645985761267">Payagan ang mga kaugnay na site na makita ang iyong aktibidad sa grupo</translation>
 <translation id="3295019059349372795">Kabanata 11: The Wonderful Emerald City of Oz</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">Iki-clear nito ang <ph name="DATASIZE" /> ng data at cookies na na-store ng mga site.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(+ 1 pa)}one{(+ # pa)}other{(+ # pa)}}</translation>
 <translation id="5403592356182871684">Mga Pangalan</translation>
-<translation id="5412236728747081950">Kinukuha ng site na ito ang iyong mga interes mula sa Chrome para makapagpakita sa iyo ng higit pang nauugnay na ad</translation>
+<translation id="5412236728747081950">Kinukuha ng site na ito ang iyong mga interes mula sa Egon para makapagpakita sa iyo ng higit pang nauugnay na ad</translation>
 <translation id="5438097262470833822">Ire-reset ng opsyong ito ang mga pahintulot para sa <ph name="WEBSITE" /></translation>
 <translation id="5489227211564503167"><ph name="ELAPSED_TIME" /> ang lumipas mula sa <ph name="TOTAL_TIME" />.</translation>
 <translation id="5494752089476963479">I-block ang mga ad sa mga site na nagpapakita ng mga nakakasagabal o nakakapanlinlang na ad</translation>

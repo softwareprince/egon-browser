@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">abbrechen</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Keine nächste Überschrift der Ebene 4</translation>
-<translation id="1212770441379271564">Bei den nächsten Tastaturbefehlen handelt es sich zwar nicht um ChromeVox-Befehle, aber sie sind für die optimale Bedienung von Chrome dennoch sehr hilfreich.
+<translation id="1212770441379271564">Bei den nächsten Tastaturbefehlen handelt es sich zwar nicht um ChromeVox-Befehle, aber sie sind für die optimale Bedienung von Egon dennoch sehr hilfreich.
     Wenn du durch ausführbare Elemente, z. B. Schaltflächen und Links, vorwärtsgehen möchtest, drücke die Tabulatortaste. Rückwärts gelangst du mit Umschalttaste + Tab.
-    Wenn du auf die Adressleiste des Chrome-Browsers, auch als Omnibox bezeichnet, zugreifen möchtest, drücke Strg + L.
+    Wenn du auf die Adressleiste des Egon-Browsers, auch als Omnibox bezeichnet, zugreifen möchtest, drücke Strg + L.
     Um einen neuen Tab zu öffnen und automatisch dorthin zu wechseln, drücke Strg + T. Dein Cursor befindet sich dann in der Omnibox.
     Wenn du einen Tab schließen möchtest, drücke Strg + W.
     Um zwischen offenen Tabs vorwärtszugehen, verwende Strg + Tab.
-    Um das Chrome-Browsermenü zu öffnen, drücke Alt + F.</translation>
-<translation id="1213216066620407844">ChromeVox – eine Stimme für Chrome</translation>
+    Um das Egon-Browsermenü zu öffnen, drücke Alt + F.</translation>
+<translation id="1213216066620407844">ChromeVox – eine Stimme für Egon</translation>
 <translation id="1225969361094801578">Dunkles Schiefergrau</translation>
 <translation id="122928249241119550">zum vorherigen Satz wechseln</translation>
 <translation id="1230503547248836149">Beginn der Auswahl</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Grammatikfehler</translation>
 <translation id="2603828437139726540">Ein Zeichen weiter</translation>
 <translation id="2619052155095999743">Einfügen</translation>
-<translation id="2619344480613750862">Außerdem kannst du zwischen den Bildschirmbereichen wechseln. So kannst du beispielsweise zwischen dem Launcher, der Ablage und deinen Chrome-Tabs wechseln. Wische mit vier Fingern von links nach rechts, um zum nächsten Abschnitt zu gelangen. Verwende diese Touch-Geste, um mit dem nächsten Schritt fortzufahren.</translation>
+<translation id="2619344480613750862">Außerdem kannst du zwischen den Bildschirmbereichen wechseln. So kannst du beispielsweise zwischen dem Launcher, der Ablage und deinen Egon-Tabs wechseln. Wische mit vier Fingern von links nach rechts, um zum nächsten Abschnitt zu gelangen. Verwende diese Touch-Geste, um mit dem nächsten Schritt fortzufahren.</translation>
 <translation id="2624431853467395961">Lernmodus öffnen</translation>
 <translation id="2626530649491650971">anklickbar</translation>
 <translation id="263637551280112393">Gleichzeitig Suchtaste + Umschalttaste + Leertaste drücken</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Protokoll</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Grafiksymbol</translation>
-<translation id="5648939288050772726">Glückwunsch! Jetzt kennst du die Grundlagen für die Nutzung von ChromeVox. Nicht vergessen: Du kannst das Befehlsmenü von ChromeVox jederzeit öffnen, indem du „Suche + Punkt“ drückst. Weitere Informationen zu ChromeVox und Chrome OS erhältst du in den folgenden Artikeln.
+<translation id="5648939288050772726">Glückwunsch! Jetzt kennst du die Grundlagen für die Nutzung von ChromeVox. Nicht vergessen: Du kannst das Befehlsmenü von ChromeVox jederzeit öffnen, indem du „Suche + Punkt“ drückst. Weitere Informationen zu ChromeVox und Egon OS erhältst du in den folgenden Artikeln.
     Wenn du die Anleitung abgeschlossen hast, gehe mit ChromeVox zur Schaltfläche „Schließen“ und klicke darauf.</translation>
 <translation id="5653397561111110475">Bedienungshilfen für den Chromebook-Touchscreen verwenden</translation>
 <translation id="5655682562155942719">Zwischen Befehlen wechseln</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Grundlegende Navigation</translation>
 <translation id="609281021724813947">Kein vorheriger Schieberegler</translation>
 <translation id="6100239002225743044">Eine Zeile nach oben</translation>
-<translation id="6118126368611144850">Android-Apps für Chrome. Wenn du den Play Store auf deinem Gerät installiert hast, kannst du vorab einen Blick auf ChromeVox mit Android-Apps werfen. Um die experimentelle Unterstützung auszuprobieren, lade Google Chrome Canary aus dem Play Store herunter.</translation>
+<translation id="6118126368611144850">Android-Apps für Egon. Wenn du den Play Store auf deinem Gerät installiert hast, kannst du vorab einen Blick auf ChromeVox mit Android-Apps werfen. Um die experimentelle Unterstützung auszuprobieren, lade Google Egon Canary aus dem Play Store herunter.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">aktivieren</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Helles Goldrutengelb</translation>
 <translation id="7541021454094606506">Alles löschen</translation>
 <translation id="7543255924852002459">Label "Verwerfen"</translation>
-<translation id="7552432549459840808">Nützliche Tastenkombinationen in Chrome</translation>
+<translation id="7552432549459840808">Nützliche Tastenkombinationen in Egon</translation>
 <translation id="7553679324939294712"><ph name="INSERT_PHRASE" /> vor <ph name="BEFORE_PHRASE" /> einfügen</translation>
 <translation id="7569983096843329377">Schwarz</translation>
 <translation id="7579911500627256166">Punkt <ph name="DOT" /></translation>

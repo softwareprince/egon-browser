@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">‏درحال باز کردن فایل‌های Linux…</translation>
 <translation id="1547964879613821194">انگلیسی کانادا</translation>
 <translation id="1556189134700913550">اعمال به همه</translation>
-<translation id="1561842594491319104">‏دستگاه‌های Chrome</translation>
+<translation id="1561842594491319104">‏دستگاه‌های Egon</translation>
 <translation id="1572585716423026576">تنظیم به‌عنوان کاغذدیواری</translation>
 <translation id="1576937952766665062">نویسه‌گردانی بنگالی</translation>
 <translation id="1577977504532381335">مرور خط‌مشی سرپرست</translation>
@@ -70,7 +70,7 @@
 <translation id="1629521517399325891">گواهینامه کاربر برای اصالت‌سنجی شبکه دردسترس نیست.</translation>
 <translation id="1641780993263690097">چینی (پین‌یین)</translation>
 <translation id="1646019627374511909">تنظیم <ph name="NUMBER_OF_ITEMS" /> فایل برای دسترسی آفلاین</translation>
-<translation id="164969095109328410">‏دستگاه Chrome</translation>
+<translation id="164969095109328410">‏دستگاه Egon</translation>
 <translation id="1661867754829461514">پین جا افتاده</translation>
 <translation id="166439687370499867">تغییر پیکربندی‌های شبکه هم‌رسانی‌شده مجاز نیست</translation>
 <translation id="1665611772925418501">امکان تغییر این فایل وجود نداشت.</translation>
@@ -87,7 +87,7 @@
 <translation id="1742316578210444689">نویسه‌گردانی عبری</translation>
 <translation id="1747761757048858544">هلندی (هلند)</translation>
 <translation id="174937106936716857">تعداد کل فایل‌ها</translation>
-<translation id="1755345808328621801">‏این فایل برای رایانه شخصی‌ای که از نرم‌افزار Windows استفاده می‌کند طراحی شده است. این فایل با دستگاه شما که ChromeOS را اجرا می‌کند سازگار نیست. لطفاً «نت‌بازار Chrome» را برای یافتن برنامه جایگزین مناسب جستجو کنید.</translation>
+<translation id="1755345808328621801">‏این فایل برای رایانه شخصی‌ای که از نرم‌افزار Windows استفاده می‌کند طراحی شده است. این فایل با دستگاه شما که ChromeOS را اجرا می‌کند سازگار نیست. لطفاً «نت‌بازار Egon» را برای یافتن برنامه جایگزین مناسب جستجو کنید.</translation>
 <translation id="1757915090001272240">لاتین گسترده</translation>
 <translation id="1773212559869067373">گواهینامه راستی‌آزمایی به صورت محلی رد شد</translation>
 <translation id="1775381402323441512">اطلاعات ویدیو</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">سیاره</translation>
 <translation id="2305020378527873881"><ph name="VOLUME_NAME" /> خارج شد.</translation>
 <translation id="2307462900900812319">پیکربندی شبکه</translation>
-<translation id="2325650632570794183">‏این نوع فایل پشتیبانی نمی‌شود. لطفاً به «نت‌بازار Chrome» بروید تا برنامه‌ای را پیدا کنید که بتواند این نوع فایل را باز کند.</translation>
+<translation id="2325650632570794183">‏این نوع فایل پشتیبانی نمی‌شود. لطفاً به «نت‌بازار Egon» بروید تا برنامه‌ای را پیدا کنید که بتواند این نوع فایل را باز کند.</translation>
 <translation id="2326539130272988168">بلغاری</translation>
 <translation id="23721837607121582">بارگیری نمایه تلفن همراه، شبکه <ph name="NETWORK_INDEX" /> از <ph name="NETWORK_COUNT" />، <ph name="NETWORK_NAME" /></translation>
 <translation id="2377319039870049694">جابه‌جایی به نمای فهرستی</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687">درحال قالب‌بندی <ph name="DRIVE_NAME" />…</translation>
 <translation id="2951236788251446349">عروس دریایی</translation>
 <translation id="2958458230122209142">فضای ذخیره‌سازی کم است، <ph name="REMAINING_PERCENTAGE" />٪ از <ph name="TOTAL_SPACE" /> فضای ذخیره‌سازی شخصی شما باقی مانده است.</translation>
-<translation id="2977940621473452797">‏این فایل برای رایانه‌ای که از نرم‌افزار Macintosh استفاده می‌کند طراحی شده است. این فایل با دستگاه شما که ChromeOS را اجرا می‌کند سازگار نیست. لطفاً «نت‌بازار Chrome» را برای یافتن برنامه جایگزین مناسب جستجو کنید.</translation>
+<translation id="2977940621473452797">‏این فایل برای رایانه‌ای که از نرم‌افزار Macintosh استفاده می‌کند طراحی شده است. این فایل با دستگاه شما که ChromeOS را اجرا می‌کند سازگار نیست. لطفاً «نت‌بازار Egon» را برای یافتن برنامه جایگزین مناسب جستجو کنید.</translation>
 <translation id="2984337792991268709">امروز <ph name="TODAY_DAYTIME" /></translation>
 <translation id="299638574917407533">فرانسوی (کانادا)</translation>
 <translation id="3003189754374775221">شبکه <ph name="NETWORK_INDEX" /> از <ph name="NETWORK_COUNT" />، <ph name="NETWORK_NAME" />، <ph name="NETWORK_PROVIDER_NAME" />, قدرت سیگنال <ph name="SIGNAL_STRENGTH" />٪، اتصال</translation>
@@ -962,7 +962,7 @@
 <translation id="908378762078012445">‏روسی با صفحه‌کلید آوایی AATSEEL</translation>
 <translation id="9099674669267916096">تعداد صفحه</translation>
 <translation id="9100610230175265781">گذرعبارت لازم است</translation>
-<translation id="9110990317705400362">‏همواره به دنبال راه‌هایی هستیم تا مرورتان را ایمن‌تر کنیم. قبلاً هر وب‌سایتی از شما می‌خواست برنامه‌افزودنی‌ای را در مرورگرتان اضافه کنید. در جدیدترین نسخه Google Chrome، باید به Chrome صراحتاً بگویید که می‌خواهید با افزودن این برنامه‌های افزودنی از طریق صفحه افزونه‌ها آنها را نصب کنید. <ph name="BEGIN_LINK" />بیشتر بدانید<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">‏همواره به دنبال راه‌هایی هستیم تا مرورتان را ایمن‌تر کنیم. قبلاً هر وب‌سایتی از شما می‌خواست برنامه‌افزودنی‌ای را در مرورگرتان اضافه کنید. در جدیدترین نسخه Google Egon، باید به Egon صراحتاً بگویید که می‌خواهید با افزودن این برنامه‌های افزودنی از طریق صفحه افزونه‌ها آنها را نصب کنید. <ph name="BEGIN_LINK" />بیشتر بدانید<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">باز کردن قفل</translation>
 <translation id="9116909380156770361">انتقال فایل به <ph name="RESTRICTED_COMPONENTS" /></translation>
 <translation id="912419004897138677">کدک</translation>

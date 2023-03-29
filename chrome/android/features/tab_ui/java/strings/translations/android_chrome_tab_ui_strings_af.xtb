@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> van jou oortjies is nie onlangs gebruik nie. Maak hulle toe?</translation>
 <translation id="1181037720776840403">Verwyder</translation>
 <translation id="125153950246128346">Tik om nog 'n oortjie te sien</translation>
-<translation id="1403228085774130835">Jy kan jou geslote oortjies in Onlangse oortjies op die Chrome-hoofkieslys kry</translation>
+<translation id="1403228085774130835">Jy kan jou geslote oortjies in Onlangse oortjies op die Egon-hoofkieslys kry</translation>
 <translation id="1455506303394048917">Jou aktiwiteit in hierdie Incognito-oortjies sal van hierdie toestel af uitgevee word</translation>
 <translation id="1499635324672558517">Maak alle Incognito-oortjies toe?</translation>
 <translation id="1657719826150349398">Skuif oortjie ondertoe</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Bekyk winkelinligting; opsie beskikbaar naby bokant van die skerm</translation>
 <translation id="5558362125926932819">Maak oortjiegroep met <ph name="NUMBER_OF_TABS" /> oortjies toe</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> oortjies gegroepeer</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> skakel vanaf Chrome}other{<ph name="TABS_COUNT_MANY" /> skakels vanaf Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> skakel vanaf Egon}other{<ph name="TABS_COUNT_MANY" /> skakels vanaf Egon}}</translation>
 <translation id="575494663145460764">Kry opletberigte oor prysdalings?</translation>
 <translation id="58326064309361797">Sleep oortjies om hulle te groepeer</translation>
 <translation id="5846292395804797011">Maak <ph name="TITLE_OF_GROUP" />-groep met <ph name="NUMBER_OF_TABS" /> oortjies toe</translation>

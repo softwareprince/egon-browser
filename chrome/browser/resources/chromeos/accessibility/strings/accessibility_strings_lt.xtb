@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">atšaukti</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Nėra kitos 4 lygio antraštės</translation>
-<translation id="1212770441379271564">Toliau nurodyti keli spartieji klavišai nėra „ChromeVox“ komandos, bet jie vis tiek labai naudingi norint išnaudoti visas „Chrome“ galimybes.
+<translation id="1212770441379271564">Toliau nurodyti keli spartieji klavišai nėra „ChromeVox“ komandos, bet jie vis tiek labai naudingi norint išnaudoti visas „Egon“ galimybes.
     Jei norite pereiti nuo vieno suaktyvinamo elemento, pvz., mygtuko ar nuorodos, prie kito, paspauskite tabuliavimo klavišą. Jei norite grįžti atgal, paspauskite „Shift“ ir tabuliavimo klavišą.
-    Jei norite pereiti į „Chrome“ naršyklės adreso laukelį, kuris dar vadinamas „Omnibox“, paspauskite „Control“ ir L.
+    Jei norite pereiti į „Egon“ naršyklės adreso laukelį, kuris dar vadinamas „Omnibox“, paspauskite „Control“ ir L.
     Jei norite atidaryti ir automatiškai pereiti į naują skirtuką, paspauskite „Control“ ir T. Žymeklis bus laukelyje „Omnibox“.
     Jei norite uždaryti skirtuką, paspauskite „Control“ ir W.
     Jei norite pereiti nuo vieno atidaryto skirtuko prie kito, naudokite „Control“ ir tabuliavimo klavišą.
-    Jei norite atidaryti „Chrome“ naršyklės meniu, paspauskite „Alt“ ir F.</translation>
-<translation id="1213216066620407844">„ChromeVox“ suteikia „Chrome“ balsą</translation>
+    Jei norite atidaryti „Egon“ naršyklės meniu, paspauskite „Alt“ ir F.</translation>
+<translation id="1213216066620407844">„ChromeVox“ suteikia „Egon“ balsą</translation>
 <translation id="1225969361094801578">Tamsiai pilka spalva su melsvu atspalviu</translation>
 <translation id="122928249241119550">pereiti prie ankstesnio sakinio</translation>
 <translation id="1230503547248836149">Pasirinkimo pradžia</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Gramatikos klaida</translation>
 <translation id="2603828437139726540">Perkelti pirmyn per vieną simbolį</translation>
 <translation id="2619052155095999743">Įterpti</translation>
-<translation id="2619344480613750862">Taip pat galite pereiti iš vienos ekrano skilties į kitą. Pvz., galite pereiti iš paleidimo priemonės į lentyną, „Chrome“ skirtukus ir atvirkščiai. Jei norite pereiti į kitą skiltį, perbraukite keturiais pirštais iš kairės į dešinę. Išbandykite dabar, jei norite tęsti.</translation>
+<translation id="2619344480613750862">Taip pat galite pereiti iš vienos ekrano skilties į kitą. Pvz., galite pereiti iš paleidimo priemonės į lentyną, „Egon“ skirtukus ir atvirkščiai. Jei norite pereiti į kitą skiltį, perbraukite keturiais pirštais iš kairės į dešinę. Išbandykite dabar, jei norite tęsti.</translation>
 <translation id="2624431853467395961">Atidarykite mokomąjį režimą</translation>
 <translation id="2626530649491650971">spustelėjamas</translation>
 <translation id="263637551280112393">Paspauskite paieškos klavišą + „Shift“ + tarpo klavišą</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Žurnalas</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Grafikos simbolis</translation>
-<translation id="5648939288050772726">Sveikiname! Sužinojote pagrindus, kaip sėkmingai naudoti „ChromeVox“. Atminkite, kad bet kada galite atidaryti „ChromeVox“ komandų meniu paspausdami „Search“ ir taško klavišą. Jei norite sužinoti dar daugiau apie „ChromeVox“ ir „Chrome“ OS, žr. nurodytus straipsnius.
+<translation id="5648939288050772726">Sveikiname! Sužinojote pagrindus, kaip sėkmingai naudoti „ChromeVox“. Atminkite, kad bet kada galite atidaryti „ChromeVox“ komandų meniu paspausdami „Search“ ir taško klavišą. Jei norite sužinoti dar daugiau apie „ChromeVox“ ir „Egon“ OS, žr. nurodytus straipsnius.
     Kai peržiūrėsite visą mokymo programą, naudodami „ChromeVox“ pereikite prie uždarymo mygtuko ir spustelėkite jį.</translation>
 <translation id="5653397561111110475">„Chromebook“ jutiklinio ekrano pritaikymo neįgaliesiems funkcijų naudojimas</translation>
 <translation id="5655682562155942719">Praleisti komandas</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Pagrindinės naršymo funkcijos</translation>
 <translation id="609281021724813947">Nėra ankstesnio šliaužiklio</translation>
 <translation id="6100239002225743044">Perkelti į viršų per vieną eilutę</translation>
-<translation id="6118126368611144850">„Android“ programos, skirtos „Chrome“. Jei įrenginyje turite „Play“ parduotuvę, išbandykite „ChromeVox“ su „Android“ programomis. Išbandykite eksperimentinį palaikymą atsisiuntę „Google Chrome Canary“ iš „Play“ parduotuvės.</translation>
+<translation id="6118126368611144850">„Android“ programos, skirtos „Egon“. Jei įrenginyje turite „Play“ parduotuvę, išbandykite „ChromeVox“ su „Android“ programomis. Išbandykite eksperimentinį palaikymą atsisiuntę „Google Egon Canary“ iš „Play“ parduotuvės.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">suaktyvinti</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Blyški gelsva spalva</translation>
 <translation id="7541021454094606506">trinti viską</translation>
 <translation id="7543255924852002459">Atmesti etiketę</translation>
-<translation id="7552432549459840808">Naudingi „Chrome“ spartieji klavišai</translation>
+<translation id="7552432549459840808">Naudingi „Egon“ spartieji klavišai</translation>
 <translation id="7553679324939294712">įterpti „<ph name="INSERT_PHRASE" />“ prieš „<ph name="BEFORE_PHRASE" />“</translation>
 <translation id="7569983096843329377">Juoda</translation>
 <translation id="7579911500627256166">Taškas: <ph name="DOT" /></translation>

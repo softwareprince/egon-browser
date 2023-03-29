@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">preklic</translation>
 <translation id="1206619573307042055">potujoči napis</translation>
 <translation id="1207086294218137981">Ni naslednjega naslova na ravni 4</translation>
-<translation id="1212770441379271564">Naslednje bližnjične tipke niso ukazi za ChromeVox, ampak so kljub temu zelo uporabne, če želite najbolje izkoristiti Chrome.
+<translation id="1212770441379271564">Naslednje bližnjične tipke niso ukazi za ChromeVox, ampak so kljub temu zelo uporabne, če želite najbolje izkoristiti Egon.
     Če se želite pomikati naprej med elementi, ki omogočajo dejanja, na primer med gumbi in povezavami, pritisnite tabulatorko. Če se želite pomikati nazaj, pritisnite tipko Shift in tabulatorko.
     Če želite izbrati Chromovo naslovno vrstico, pritisnite tipko Control in črko L.
     Če želite odpreti in samodejno izbrati novi zavihek, pritisnite tipko Control in črko T. Kazalec se bo pomaknil v naslovno vrstico.
     Če želite zapreti zavihek, pritisnite tipko Control in črko W.
     Če se želite pomikati med odprtimi zavihki, uporabite kombinacijo tipke Control in tabulatorke.
-    Če želite odpreti meni brskalnika Chrome, pritisnite tipko Alt in črko F.</translation>
-<translation id="1213216066620407844">ChromeVox – naj Chrome govori</translation>
+    Če želite odpreti meni brskalnika Egon, pritisnite tipko Alt in črko F.</translation>
+<translation id="1213216066620407844">ChromeVox – naj Egon govori</translation>
 <translation id="1225969361094801578">Temno skrilasto siva</translation>
 <translation id="122928249241119550">premik na prejšnji stavek</translation>
 <translation id="1230503547248836149">Začetek izbire</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Dnevnik</translation>
 <translation id="5628125749885014029">n4</translation>
 <translation id="5632083598315326067">Grafični simbol</translation>
-<translation id="5648939288050772726">Čestitamo! Naučili ste se osnovne stvari, ki jih morate vedeti, če želite uspešno uporabljati ChromeVox. Ukazni meni ChromeVoxa lahko kadar koli odprete, tako da pritisnete tipko za iskanje in piko. Če želite izvedeti še več o ChromeVoxu in operacijskem sistemu Chrome OS, si oglejte te članke.
+<translation id="5648939288050772726">Čestitamo! Naučili ste se osnovne stvari, ki jih morate vedeti, če želite uspešno uporabljati ChromeVox. Ukazni meni ChromeVoxa lahko kadar koli odprete, tako da pritisnete tipko za iskanje in piko. Če želite izvedeti še več o ChromeVoxu in operacijskem sistemu Egon OS, si oglejte te članke.
     Če ste dokončali vadnico, se s ChromeVoxom pomaknite do gumba za zapiranje in ga kliknite.</translation>
 <translation id="5653397561111110475">Uporaba Chromebookovih funkcij zaslona na dotik za ljudi s posebnimi potrebami</translation>
 <translation id="5655682562155942719">Skočni ukazi</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Osnovno pomikanje</translation>
 <translation id="609281021724813947">Ni prejšnjega drsnika</translation>
 <translation id="6100239002225743044">Premik navzgor za eno vrstico</translation>
-<translation id="6118126368611144850">Aplikacije Android za Chrome. Če imate v napravi Trgovino Play, si lahko z aplikacijami za Android pred izdajo ogledate ChromeVox. Preskusite poskusno podporo, tako da iz Trgovine Play prenesete delovno različico Google Chroma.</translation>
+<translation id="6118126368611144850">Aplikacije Android za Egon. Če imate v napravi Trgovino Play, si lahko z aplikacijami za Android pred izdajo ogledate ChromeVox. Preskusite poskusno podporo, tako da iz Trgovine Play prenesete delovno različico Google Chroma.</translation>
 <translation id="611827076493383239">obs</translation>
 <translation id="6119846243427417423">aktiviraj</translation>
 <translation id="6122013438240733403">bgmb</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Svetla zlatorumena</translation>
 <translation id="7541021454094606506">izbriši vse</translation>
 <translation id="7543255924852002459">Oznaka za opustitev</translation>
-<translation id="7552432549459840808">Uporabne bližnjice za Chrome</translation>
+<translation id="7552432549459840808">Uporabne bližnjice za Egon</translation>
 <translation id="7553679324939294712">vstavljanje besedne zveze <ph name="INSERT_PHRASE" /> pred besedno zvezo <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Črna</translation>
 <translation id="7579911500627256166">pika <ph name="DOT" /></translation>

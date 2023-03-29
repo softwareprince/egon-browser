@@ -18,7 +18,7 @@
 <translation id="1076421457278169141">コードをスキャンしました</translation>
 <translation id="1076785341346483463">管理対象アカウントとの同期</translation>
 <translation id="1084365883616172403">Facebookへの投稿が完了しました。</translation>
-<translation id="1085696779717592361">Chrome をデフォルトに設定する</translation>
+<translation id="1085696779717592361">Egon をデフォルトに設定する</translation>
 <translation id="1103523840287552314"><ph name="LANGUAGE" />を常に翻訳</translation>
 <translation id="110724200315609752">開いているウィンドウに切り替え</translation>
 <translation id="1112015203684611006">印刷できませんでした。</translation>
@@ -32,13 +32,13 @@
 <translation id="1165039591588034296">エラー</translation>
 <translation id="1172898394251786223">次の項目</translation>
 <translation id="1176932207622159128">画像を保存できません</translation>
-<translation id="1177414119866731261">Chrome メニューを開きます</translation>
+<translation id="1177414119866731261">Egon メニューを開きます</translation>
 <translation id="1181037720776840403">削除</translation>
 <translation id="1207113853726624428">新しく検索</translation>
 <translation id="1209206284964581585">今は表示しない</translation>
 <translation id="1219674500290482172">インターネットに接続できません。</translation>
 <translation id="122699739164161391">すべてのタブを閉じる</translation>
-<translation id="1229222343402087523">Chrome で ${searchPhrase} を検索</translation>
+<translation id="1229222343402087523">Egon で ${searchPhrase} を検索</translation>
 <translation id="1242044645101871359">もう一度ログインしてください</translation>
 <translation id="1254117744268754948">フォルダの選択</translation>
 <translation id="1254424942107648268">前を検索</translation>
@@ -128,7 +128,7 @@
 <translation id="1941314575388338491">ダブルタップしてコピー。</translation>
 <translation id="1943478190258551035">メニュー → 設定</translation>
 <translation id="1952172573699511566">可能な場合、設定した言語でウェブサイトのテキストを表示します。</translation>
-<translation id="1965935827552890526">開いている別の Chrome ウィンドウでの作業を終了してください。</translation>
+<translation id="1965935827552890526">開いている別の Egon ウィンドウでの作業を終了してください。</translation>
 <translation id="1973912524893600642">データを残す</translation>
 <translation id="1974060860693918893">詳細設定</translation>
 <translation id="1981118202195772574">モバイル</translation>
@@ -149,8 +149,8 @@
 <translation id="2139867232736819575">コピーしたテキストを検索</translation>
 <translation id="214201757571129614">ログイン…</translation>
 <translation id="2149973817440762519">ブックマークを編集</translation>
-<translation id="2150175299852799498">モバイル版 Google Chrome</translation>
-<translation id="2155145621546387786">Chrome を共有</translation>
+<translation id="2150175299852799498">モバイル版 Google Egon</translation>
+<translation id="2155145621546387786">Egon を共有</translation>
 <translation id="2175927920773552910">QR コード</translation>
 <translation id="2178545675770638239">パスワードの選択</translation>
 <translation id="2218443599109088993">縮小</translation>
@@ -161,7 +161,7 @@
 <translation id="225943865679747347">エラー コード: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">アカウントを追加</translation>
 <translation id="2268044343513325586">絞り込み</translation>
-<translation id="2271351792809375263">Chrome に保存したパスワードをデバイスの他のアプリで使用する</translation>
+<translation id="2271351792809375263">Egon に保存したパスワードをデバイスの他のアプリで使用する</translation>
 <translation id="2273327106802955778">その他のメニュー</translation>
 <translation id="2286505070150039482">選択したテキスト</translation>
 <translation id="2299218006564889602">Google パスワード マネージャーに保存する前にデバイス上でパスワードを暗号化します。</translation>
@@ -232,13 +232,13 @@
 <translation id="2797029671965852011">履歴を表示する</translation>
 <translation id="2800683595868705743">タブ切り替え機能を終了</translation>
 <translation id="2815198996063984598">2. [デフォルトのブラウザアプリ] をタップする</translation>
-<translation id="2820289420301699633">Chrome は管理者の制御下にあり、管理者は Chrome のデータにアクセスできます</translation>
+<translation id="2820289420301699633">Egon は管理者の制御下にあり、管理者は Egon のデータにアクセスできます</translation>
 <translation id="2830972654601096923">住所を管理...</translation>
 <translation id="2834399722155632105">3. [パスワードのオプション] をタップします</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />、<ph name="STATE" />、<ph name="URL" /></translation>
 <translation id="2843803966603263712">翻訳設定をリセット</translation>
 <translation id="2848086008667475748">[設定] でデフォルトにする…</translation>
-<translation id="2858204748079866344">プライバシー保護のため、Chrome ではこの欄のパスワードの自動入力は行われません。</translation>
+<translation id="2858204748079866344">プライバシー保護のため、Egon ではこの欄のパスワードの自動入力は行われません。</translation>
 <translation id="285960592395650245">ダウンロードを再試行</translation>
 <translation id="2870560284913253234">サイト</translation>
 <translation id="2871695793448672541">非表示のパスワード</translation>
@@ -256,7 +256,7 @@
 <translation id="292639812446257861">未読にする</translation>
 <translation id="2932085390869194046">パスワードを自動生成...</translation>
 <translation id="2932765531295814441">パスワードを手動で追加</translation>
-<translation id="2952581218264071393">1. Chrome の設定を開く</translation>
+<translation id="2952581218264071393">1. Egon の設定を開く</translation>
 <translation id="2958718410589002129">パスワード</translation>
 <translation id="2961210776189273067">敬称</translation>
 <translation id="2964349545761222050">サードパーティの Cookie をブロックする</translation>
@@ -312,7 +312,7 @@
 <translation id="3371831930909698441">翻訳が利用可能です。画面の下の方にオプションがあります。</translation>
 <translation id="3377063233124932127">保存したブックマークやパスワードなどが上部に表示されます。</translation>
 <translation id="3393920035788932672">ポップアップ許可済み</translation>
-<translation id="3399930248910934354">Chrome の設定を開く</translation>
+<translation id="3399930248910934354">Egon の設定を開く</translation>
 <translation id="3404744938087714423">ログアウトすると、同期がオフになります。</translation>
 <translation id="3425644765244388016">カードのニックネーム</translation>
 <translation id="3433057996795775706">このパスワードを削除しても、<ph name="WEBSITE" /> のアカウントは削除されません。他のサイトに被害が及ばないように、<ph name="WEBSITE" /> でパスワードを変更してください。</translation>
@@ -355,7 +355,7 @@
 <translation id="3709582977625132201">未読にする</translation>
 <translation id="371230970611282515">危険なイベントの発生を予測して警告します。</translation>
 <translation id="37207012422556617">急上昇ワード</translation>
-<translation id="3740397331642243698">入力された URL を Google Chrome のシークレット モードで開きます。</translation>
+<translation id="3740397331642243698">入力された URL を Google Egon のシークレット モードで開きます。</translation>
 <translation id="3762232513783804601">iPad 向けの設計</translation>
 <translation id="3768725474733206671">最後に閉じたタブを開く</translation>
 <translation id="3771033907050503522">シークレットタブ</translation>
@@ -374,12 +374,12 @@
 <translation id="3858860766373142691">名前</translation>
 <translation id="3861486700625780712">フォローを解除</translation>
 <translation id="3863769054730344136">お使いのデバイスに送信</translation>
-<translation id="387280738075653372">こちらから Chrome をダウンロードできます。</translation>
+<translation id="387280738075653372">こちらから Egon をダウンロードできます。</translation>
 <translation id="3888863481921783344">予定の招待者の候補を表示するために使用されます。</translation>
 <translation id="3892144330757387737">履歴はここに表示されます</translation>
 <translation id="3897092660631435901">メニュー</translation>
 <translation id="3904829425754749514">同期は組織によってオフにされています。このデバイスのブックマーク、履歴、パスワードなどの設定は、引き続き使用できます。これらの設定に変更を加えた場合、変更内容はアカウントと同期されません。</translation>
-<translation id="3913386780052199712">Chrome にログイン</translation>
+<translation id="3913386780052199712">Egon にログイン</translation>
 <translation id="3915450441834151894">サイト情報</translation>
 <translation id="3922310737605261887">コピーしたテキストを検索</translation>
 <translation id="3928666092801078803">データを統合する</translation>
@@ -522,7 +522,7 @@
 <translation id="4979397965658815378">Google アカウントでログインすると、どのデバイスからでも同じブックマーク、パスワード、履歴などの設定を利用できるようになります。</translation>
 <translation id="4986678885919050584">このデバイスから削除</translation>
 <translation id="4989542687859782284">利用不可</translation>
-<translation id="498985224078955265">このタブを別のデバイスに送信するには、両方のデバイスで Chrome にログインしてください。</translation>
+<translation id="498985224078955265">このタブを別のデバイスに送信するには、両方のデバイスで Egon にログインしてください。</translation>
 <translation id="5005498671520578047">パスワードのコピー</translation>
 <translation id="5017828934289857214">後で通知する</translation>
 <translation id="5037676449506322593">すべてを選択</translation>
@@ -536,9 +536,9 @@
 <translation id="5094827893301452931">ツイートが完了しました。</translation>
 <translation id="5118713593561876160">興味 / 関心</translation>
 <translation id="5118764316110575523">オフ</translation>
-<translation id="5119391094379141756">[Chrome] を選択する</translation>
+<translation id="5119391094379141756">[Egon] を選択する</translation>
 <translation id="5132942445612118989">すべてのデバイスでパスワード、履歴、その他の設定を同期する</translation>
-<translation id="5140288047769711648">このパスワードは Chrome で保存され、次回から自動入力されます。</translation>
+<translation id="5140288047769711648">このパスワードは Egon で保存され、次回から自動入力されます。</translation>
 <translation id="5149188072385105201">パスワードを追加...</translation>
 <translation id="5150492518600715772">お使いのデバイスに送信</translation>
 <translation id="5168414296986405587">iPadOS 向けの設計</translation>
@@ -579,7 +579,7 @@
 <translation id="5490005495580364134">すべての Cookie をブロックする（推奨されません）</translation>
 <translation id="5513681519188741830"><ph name="TIME" /> 時間前</translation>
 <translation id="5520466080178053306">パスワード マネージャーをタップして、[追加] をタップします</translation>
-<translation id="5525095647255982834">このタブを別のデバイスに送信するには、送信先のデバイスで Chrome にログインしてください。</translation>
+<translation id="5525095647255982834">このタブを別のデバイスに送信するには、送信先のデバイスで Egon にログインしてください。</translation>
 <translation id="5525269841082836315">パスフレーズの作成</translation>
 <translation id="5542540507657872337"><ph name="COUNT" /> 件見つかりました</translation>
 <translation id="5548760955356983418">Handoffを使うと、このデバイスで見ているウェブサイトの続きをMacで見ることができます。現在開いているウェブサイトはMacのDockに表示されます。
@@ -601,14 +601,14 @@
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">QR コードを作成</translation>
 <translation id="567881659373499783">バージョン <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{現在 1 個の Chrome ウィンドウを表示しています}other{現在 {count} 個の Chrome ウィンドウを表示しています}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{現在 1 個の Egon ウィンドウを表示しています}other{現在 {count} 個の Egon ウィンドウを表示しています}}</translation>
 <translation id="5701270923492462699">カメラへのアクセスが許可されています</translation>
 <translation id="5704908597376970822">ログインできません。</translation>
 <translation id="5706552126692816153">最終同期: 1 日前</translation>
 <translation id="5711039611392265845">プライバシー、セキュリティ、データ収集に関連するその他の設定については、<ph name="BEGIN_LINK" />同期と Google サービス<ph name="END_LINK" />をご覧ください。</translation>
 <translation id="5724941645893276623">ウェブをプライベートに閲覧するには、新しいタブを追加してください</translation>
 <translation id="5728700505257787410">アカウントへのログイン中に問題が発生しました。</translation>
-<translation id="5733084997078800044">Chrome のヒント</translation>
+<translation id="5733084997078800044">Egon のヒント</translation>
 <translation id="5737974891429562743">アカウントのログイン情報が古くなっています。同期を開始するには更新してください。</translation>
 <translation id="5738385766833540397">トラッキングしている商品の値下げアラートを受け取る方法を管理します</translation>
 <translation id="5738887413654608789">この機能を使用すると、周囲で発信されているデータを受信して関連のあるウェブページを表示することができます。</translation>
@@ -623,7 +623,7 @@
 <translation id="5812974770859303494">追加先…</translation>
 <translation id="581659025233126501">同期をオンにする</translation>
 <translation id="5819208479324046259"><ph name="MANAGER" /> によって管理されています。<ph name="BEGIN_LINK" />詳細<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">後で Chrome が自動入力できるように、パスワード、お支払い方法、住所を保存します。</translation>
+<translation id="5833643789537100742">後で Egon が自動入力できるように、パスワード、お支払い方法、住所を保存します。</translation>
 <translation id="5846482154967366008">検索エンジン</translation>
 <translation id="5854790677617711513">30 日以上経過</translation>
 <translation id="5857090052475505287">新しいフォルダ</translation>
@@ -650,7 +650,7 @@
 <translation id="5982717868370722439">既存のデータを <ph name="USER_EMAIL" /> に追加します。</translation>
 <translation id="5984222099446776634">最近のアクセス</translation>
 <translation id="5988097621740394599">タブで値下げ情報を確認します。</translation>
-<translation id="5988851877894965432">Chrome で URL を開く</translation>
+<translation id="5988851877894965432">Egon で URL を開く</translation>
 <translation id="6006672969046233841">新しいタブ</translation>
 <translation id="6012140227487808125">暗号化しています...</translation>
 <translation id="6021332621416007159">次で開く...</translation>
@@ -676,7 +676,7 @@
 <translation id="6152406514676263192">同期すると、興味や関心と最も関連性の高いコンテンツが表示されます。</translation>
 <translation id="6159839020698489198">任意</translation>
 <translation id="6170450281939467187">翻訳できませんでした</translation>
-<translation id="6177442314419606057">Chrome で検索</translation>
+<translation id="6177442314419606057">Egon で検索</translation>
 <translation id="6184086493125982861">タブを表示</translation>
 <translation id="6187302354554850004">最終同期: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">未読</translation>
@@ -746,7 +746,7 @@
 <translation id="6524918542306337007">シークレット モードは使用できません</translation>
 <translation id="6530992499366869131">データ侵害によりパスワードが漏洩した場合に警告する</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">サイトにアクセスして、Chrome メニューで [フォロー] をクリックします</translation>
+<translation id="6540120577248033958">サイトにアクセスして、Egon メニューで [フォロー] をクリックします</translation>
 <translation id="6561262006871132942">拡大</translation>
 <translation id="6583087784430677195">オフにするには、[<ph name="BEGIN_LINK" />設定<ph name="END_LINK" />] を開いて [パスワードを自動入力] に移動します。</translation>
 <translation id="6585618849026997638">重要なページは、ブックマークを追加しておくとすぐにアクセスできます</translation>
@@ -864,7 +864,7 @@
 <translation id="7454057999980797137">州/都道府県</translation>
 <translation id="7459628154744868585">保護強化機能がオンになっています</translation>
 <translation id="7464701184726199289">すべてのデバイスから同期データを削除します。保存済みのサイト設定は削除されず、普段の閲覧行動を反映した設定などが残る場合があります。<ph name="BEGIN_LINK" />詳細<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3.[Chrome] を選択する</translation>
+<translation id="746684838091935575">3.[Egon] を選択する</translation>
 <translation id="7472734401283673885">会社名</translation>
 <translation id="7473891865547856676">スキップ</translation>
 <translation id="750493650310597496">選択されていません</translation>
@@ -899,7 +899,7 @@
 <translation id="7781011649027948662">ページを翻訳しますか？</translation>
 <translation id="7781069478569868053">新しいタブページ</translation>
 <translation id="7781829728241885113">昨日</translation>
-<translation id="778855399387580014">新しい Chrome タブで検索を開始します。</translation>
+<translation id="778855399387580014">新しい Egon タブで検索を開始します。</translation>
 <translation id="7791543448312431591">追加</translation>
 <translation id="7807060072011926525">Google から提供</translation>
 <translation id="7839985698273989086">オフライン ページ</translation>
@@ -912,7 +912,7 @@
 <translation id="7859704718976024901">閲覧履歴</translation>
 <translation id="7879275349003161544">ダウンロードを表示</translation>
 <translation id="7884694604461143138">履歴を検索（<ph name="COUNT" /> 件見つかりました）</translation>
-<translation id="7887198238286927132">プライバシー保護のため、Chrome ではこの欄の自動入力は行われません。</translation>
+<translation id="7887198238286927132">プライバシー保護のため、Egon ではこの欄の自動入力は行われません。</translation>
 <translation id="7911190106180361398">お客様の組織では、[すべてを同期する] の設定は許可されていません。</translation>
 <translation id="7920949005883349320">プライバシーとセキュリティ</translation>
 <translation id="7930998711684428189">データ侵害によりパスワードが漏洩した場合に警告します。</translation>
@@ -933,7 +933,7 @@
 <translation id="7982789257301363584">ネットワーク</translation>
 <translation id="7987685713885608670">セキュリティ強化のため、Google パスワード マネージャーに保存する前にデバイス上でパスワードを暗号化します。</translation>
 <translation id="7993619969781047893">一部のサイトで機能を使用できなくなる可能性があります</translation>
-<translation id="800361585186029508">入力された URL を Google Chrome で開きます。</translation>
+<translation id="800361585186029508">入力された URL を Google Egon で開きます。</translation>
 <translation id="8016714545083187120">常に安全な接続を使用する</translation>
 <translation id="802154636333426148">ダウンロード エラー</translation>
 <translation id="8023878949384262191">セクションを展開します。</translation>
@@ -942,7 +942,7 @@
 <translation id="804225253087497565">ログイン中は Google アカウントに<ph name="BEGIN_LINK" />検索履歴<ph name="END_LINK" />や<ph name="BEGIN_LINK" />その他のアクティビティ<ph name="END_LINK" />が保存される可能性があります。これらのデータはいつでも削除できます。</translation>
 <translation id="804427445359061970">他のデバイスで開いたタブはここに表示されます</translation>
 <translation id="8059533439631660104">セクションを折りたたみます。</translation>
-<translation id="8065292699993359127">URL を Chrome のシークレット モードで開く</translation>
+<translation id="8065292699993359127">URL を Egon のシークレット モードで開く</translation>
 <translation id="806745655614357130">データを別に保持する</translation>
 <translation id="8073670137947914548">ダウンロードが完了しました</translation>
 <translation id="8073872304774253879">検索とブラウジングを改善する</translation>
@@ -956,7 +956,7 @@
 <translation id="8114753159095730575">ファイルのダウンロードが利用可能です。画面の下の方にオプションがあります。</translation>
 <translation id="81313319706244542">2. パスワードをタップします</translation>
 <translation id="8132598642024322408">今なら <ph name="PREVIOUS_PRICE" /> が <ph name="PRICE" /></translation>
-<translation id="8136856065410661948">Chrome や Google レンズから Apple カレンダーの予定を作成するために使用されます。</translation>
+<translation id="8136856065410661948">Egon や Google レンズから Apple カレンダーの予定を作成するために使用されます。</translation>
 <translation id="8156478151976189188">パスワード同期が機能していません</translation>
 <translation id="8157532349231307196">アカウント数: <ph name="NUMBER_OF_ACCOUNTS" /></translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />あなたのデバイス<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@
 <translation id="8533670235862049797">セーフ ブラウジングはオンになっています</translation>
 <translation id="8534481786647257214">Google+への投稿が完了しました。</translation>
 <translation id="8548878600947630424">ページ内を検索...</translation>
-<translation id="8558480467877843976">ブラウジングするときや、メッセージ、ドキュメント、他のアプリのリンクをタップしたときに、常に Chrome が使えるようになります。</translation>
+<translation id="8558480467877843976">ブラウジングするときや、メッセージ、ドキュメント、他のアプリのリンクをタップしたときに、常に Egon が使えるようになります。</translation>
 <translation id="8588404856427128947">オフ</translation>
 <translation id="8590913940444621808">今後表示しない</translation>
 <translation id="8591976964826315682">シークレット モードでサードパーティの Cookie をブロックする</translation>
@@ -1043,7 +1043,7 @@
 <translation id="8876882697946675716">デバイスを同期したままにする</translation>
 <translation id="8877287418679067891">[設定] でデフォルトにする...</translation>
 <translation id="8881801611828450202">この画像を <ph name="SEARCH_ENGINE" /> で検索</translation>
-<translation id="8891935667620843985">Chrome をデフォルトのブラウザアプリに設定すると、Chrome で自動的にリンクを開くことができます。</translation>
+<translation id="8891935667620843985">Egon をデフォルトのブラウザアプリに設定すると、Egon で自動的にリンクを開くことができます。</translation>
 <translation id="8898822736010347272">新たな脅威の発見と、すべてのウェブユーザーの保護に役立てるため、アクセスした一部のページの URL、限定的なシステム情報、一部のページ コンテンツを Google に送信します。</translation>
 <translation id="890565330728586731">戻る</translation>
 <translation id="8909135823018751308">共有...</translation>
@@ -1068,11 +1068,11 @@
 <translation id="9055960261314198756">保護強化機能がオフになっています</translation>
 <translation id="9057972802061533987">フォローできません。エラーが発生しました。</translation>
 <translation id="9065203028668620118">編集</translation>
-<translation id="9068336935206019333">シークレット モードの Chrome で開く</translation>
+<translation id="9068336935206019333">シークレット モードの Egon で開く</translation>
 <translation id="9079935439869366234">すべて未読にする</translation>
 <translation id="9081058212938299310"><ph name="USERNAME" /> のパスワードを更新しますか？</translation>
 <translation id="9083838294503912307">カスタマイズした設定を複数のデバイスで同期して使用するには、同期を有効にします。</translation>
-<translation id="9087108903408689779">Chrome の推奨パスワード:</translation>
+<translation id="9087108903408689779">Egon の推奨パスワード:</translation>
 <translation id="9093271241977565440">画面上部の検索アイコンをタップします</translation>
 <translation id="9094033019050270033">パスワードを更新</translation>
 <translation id="9097506547406246598">フォローを解除できません。エラーが発生しました。</translation>
@@ -1089,7 +1089,7 @@
 <translation id="9223358826628549784">クラッシュレポートを送信しました。</translation>
 <translation id="941747855997058526">パスワードの選択...</translation>
 <translation id="952704832371081537">キャンセル</translation>
-<translation id="953008885340860025">Chrome がログアウトされました</translation>
+<translation id="953008885340860025">Egon がログアウトされました</translation>
 <translation id="959066944189734975"><ph name="CHANNEL_NAME" /> をフォローしています</translation>
 <translation id="981498610235328462">組織が特定のアカウントでのログインしか許可していません。許可されていないアカウントは非表示になっています。</translation>
 <translation id="984509647832111802">同期が機能していません。</translation>

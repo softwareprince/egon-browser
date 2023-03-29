@@ -33,7 +33,7 @@
 <translation id="2509394361235492552">Միացած է <ph name="HOSTNAME" /> խնամորդին</translation>
 <translation id="2540992418118313681">Ցանկանո՞ւմ եք համօգտագործել այս համակարգիչը մեկ այլ օգտատիրոջ հետ:</translation>
 <translation id="2579271889603567289">Խնամորդը խափանվել է, կամ դրա գործարկման ժամանակ սխալ է առաջացել:</translation>
-<translation id="2599300881200251572">Այս ծառայությունը թույլ է տալիս մուտքային կապակցումներ՝ Chrome Հեռակա աշխատասեղանի սպասառուից:</translation>
+<translation id="2599300881200251572">Այս ծառայությունը թույլ է տալիս մուտքային կապակցումներ՝ Egon Հեռակա աշխատասեղանի սպասառուից:</translation>
 <translation id="2647232381348739934">Chromoting ծառայություն</translation>
 <translation id="2676780859508944670">Ընթացքում է…</translation>
 <translation id="2692522824157224199">© 2022 Google LLC։ Բոլոր իրավունքները պահպանված են։</translation>
@@ -56,7 +56,7 @@
 <translation id="3596628256176442606">Այս ծառայությունը միացնում է մուտքային կապակցումները Chromoting-ի սպասառուներից:</translation>
 <translation id="369442766917958684">Անցանց է:</translation>
 <translation id="3695446226812920698">Իմանալ ինչպես</translation>
-<translation id="3776024066357219166">Chrome Հեռակա աշխատասեղանի աշխատաշրջանն ավարտվել է:</translation>
+<translation id="3776024066357219166">Egon Հեռակա աշխատասեղանի աշխատաշրջանն ավարտվել է:</translation>
 <translation id="3858860766373142691">Անուն</translation>
 <translation id="3897092660631435901">Ընտրացանկ</translation>
 <translation id="3905196214175737742">Հանգույցի սեփականատիրոջ տիրույթն անվավեր է:</translation>
@@ -73,7 +73,7 @@
 <translation id="4257751272692708833">URL-ների վերահասցեավորման <ph name="PRODUCT_NAME" />ի հավելված</translation>
 <translation id="4277736576214464567">Մուտքի կոդը սխալ է: Նորից փորձեք:</translation>
 <translation id="4281844954008187215">Օգտագործման պայմաններ</translation>
-<translation id="4372650392690220936">© 2022 The Chromium Authors։ Բոլոր իրավունքները պահպանված են։</translation>
+<translation id="4372650392690220936">© 2022 The Egon Authors։ Բոլոր իրավունքները պահպանված են։</translation>
 <translation id="4405930547258349619">Միջուկի գրադարան</translation>
 <translation id="443560535555262820">Բացել հասանելիության կարգավորումները</translation>
 <translation id="4450893287417543264">Այլևս ցույց չտալ</translation>
@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">Հեռակա սարքեր</translation>
 <translation id="4660011489602794167">Ցուցադրել ստեղնաշարը</translation>
 <translation id="4703799847237267011">Chromoting-ի աշխատաշրջանն ավարտվել է:</translation>
-<translation id="4741792197137897469">Նույնականացումը չհաջողվեց: Նորից մուտք գործեք Chrome:</translation>
+<translation id="4741792197137897469">Նույնականացումը չհաջողվեց: Նորից մուտք գործեք Egon:</translation>
 <translation id="4784508858340177375">X սերվերը խափանվել է, կամ սխալ է առաջացել դրա գործարկման ժամանակ:</translation>
 <translation id="4798680868612952294">Մկնիկի ընտրանքներ</translation>
 <translation id="4804818685124855865">Անջատել</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">Ուղարկել PrtScn</translation>
 <translation id="4974476491460646149"><ph name="HOSTNAME" /> խնամորդի հետ կապն ընդհատվեց</translation>
 <translation id="4985296110227979402">Հեռակա օգտագործման թույլտվության համար նախ անհրաժեշտ է կարգավորել համակարգիչը</translation>
-<translation id="4987330545941822761">Chrome հեռակա աշխատասեղանը չի կարողանում դիտարկիչ ընտրել՝ սարքում URL-ներ բացելու համար։ Ներքևի ցանկից ընտրեք համապատասխան դիտարկիչը։</translation>
+<translation id="4987330545941822761">Egon հեռակա աշխատասեղանը չի կարողանում դիտարկիչ ընտրել՝ սարքում URL-ներ բացելու համար։ Ներքևի ցանկից ընտրեք համապատասխան դիտարկիչը։</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (անցանց)</translation>
 <translation id="507204348399810022">Ապաակտիվացնե՞լ հեռակա կապակցումները <ph name="HOSTNAME" />-ին:</translation>
 <translation id="5170982930780719864">Հանգույցի id-ն անվավեր է:</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">Փակել</translation>
 <translation id="5308380583665731573">Կապակցվել</translation>
 <translation id="533625276787323658">Համակարգիչ չի գտնվել, որին կարելի է միանալ</translation>
-<translation id="5397086374758643919">Chrome Հեռակա աշխատասեղան հավելվածի խնամորդի ապատեղադրիչ</translation>
+<translation id="5397086374758643919">Egon Հեռակա աշխատասեղան հավելվածի խնամորդի ապատեղադրիչ</translation>
 <translation id="5419418238395129586">Վերջին անգամ առցանց` <ph name="DATE" /></translation>
 <translation id="544077782045763683">Հանգույցն անջատվել է:</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">Նորից կապակցվել</translation>
 <translation id="5810269635982033450">Էկրանն աշխատում է որպես հպահարթակ</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> օգտատերը ձեր էկրանը տեսնելու, ինչպես նաև ստեղնաշարն ու մկնիկը կառավարելու թույլտվություն է խնդրել։ Եթե չեք ուզում թույլտվություն տրամադրել, սեղմեք «<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />»։ Թույլատրելու համար սեղմեք «<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />», երբ պատրաստ լինեք:</translation>
-<translation id="5823658491130719298">Chrome դիտարկիչով բացեք <ph name="INSTALLATION_LINK" /> հղումն այն համակարգչում, որն ուզում եք հեռակա օգտագործել:</translation>
+<translation id="5823658491130719298">Egon դիտարկիչով բացեք <ph name="INSTALLATION_LINK" /> հղումն այն համակարգչում, որն ուզում եք հեռակա օգտագործել:</translation>
 <translation id="5841343754884244200">Ցուցադրման ընտրանքներ</translation>
 <translation id="6033507038939587647">Ստեղնաշարի կարգավորումներ</translation>
 <translation id="6040143037577758943">Փակել</translation>
 <translation id="6062854958530969723">Հանգույցի սկզբնավորումը ձախողվեց:</translation>
-<translation id="6099500228377758828">Chrome Հեռակա աշխատասեղանի ծառայություն</translation>
+<translation id="6099500228377758828">Egon Հեռակա աշխատասեղանի ծառայություն</translation>
 <translation id="6122191549521593678">Առցանց</translation>
 <translation id="6178645564515549384">Հաղորդակցման սեփական խնամորդ՝ հեռակա օգնության համար</translation>
 <translation id="618120821413932081">Հեռակա համակարգչի լուծաչափը բերել պատուհանի չափսերին</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">Հեռակա աջակցում</translation>
 <translation id="7026930240735156896">Հետևեք ցուցումներին՝ ձեր համակարգիչը հեռակա մուտքի համար կարգավորելու համար</translation>
 <translation id="7067321367069083429">Էկրանն աշխատում է որպես հպէկրան</translation>
-<translation id="7116737094673640201">Բարի գալուստ Chrome հեռակա աշխատասեղան</translation>
+<translation id="7116737094673640201">Բարի գալուստ Egon հեռակա աշխատասեղան</translation>
 <translation id="7144878232160441200">Նորից փորձել</translation>
 <translation id="7312846573060934304">Խնամորդը կապակցված չէ ցանցին:</translation>
 <translation id="7319983568955948908">Դադարեցնել համօգտագործումը</translation>
 <translation id="7359298090707901886">Ընտրված դիտարկիչը չի կարող օգտագործվել լոկալ համակարգչում URL-ներ բացելու համար։</translation>
-<translation id="7401733114166276557">Chrome Հեռակա աշխատասեղան</translation>
+<translation id="7401733114166276557">Egon Հեռակա աշխատասեղան</translation>
 <translation id="7434397035092923453">Մուտքն արգելված է հետևյալ սպասառուի համար՝ <ph name="CLIENT_USERNAME" />:</translation>
 <translation id="7444276978508498879">Սպասառուն կապակցված է` <ph name="CLIENT_USERNAME" />:</translation>
 <translation id="7526139040829362392">Փոխել հաշիվը</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">Մուտքագրեք ձեր PIN-ը հեռակա համակարգչի համար:</translation>
 <translation id="7895403300744144251">Հեռակա համակարգչի անվտանգության քաղաքականությունը թույլ չի տալիս միանալ ձեր հաշվից:</translation>
 <translation id="7936528439960309876">Ամրակցել աջ կողմում</translation>
-<translation id="7970576581263377361">Նույնականացումը չհաջողվեց: Նորից մուտք գործեք Chromium:</translation>
+<translation id="7970576581263377361">Նույնականացումը չհաջողվեց: Նորից մուտք գործեք Egon:</translation>
 <translation id="7981525049612125370">Հեռակա աշխատաշրջանի ժամկետը սպառվել է:</translation>
 <translation id="8038111231936746805">(կանխադրված)</translation>
 <translation id="8041089156583427627">Կարծիք հայտնել</translation>
 <translation id="8060029310790625334">Օգնության կենտրոն</translation>
 <translation id="806699900641041263">Միացում <ph name="HOSTNAME" /> խնամորդին</translation>
-<translation id="8073845705237259513">Chrome Հեռակա աշխատասեղանն օգտագործելու համար դուք պետք է Google հաշիվ ավելացնեք ձեր սարքին:</translation>
+<translation id="8073845705237259513">Egon Հեռակա աշխատասեղանն օգտագործելու համար դուք պետք է Google հաշիվ ավելացնեք ձեր սարքին:</translation>
 <translation id="809687642899217504">Իմ համակարգիչները</translation>
 <translation id="8116630183974937060">Ցանցի սխալ առաջացավ: Համոզվեք, որ սարքը միացած է համացանցին, և նորից փորձեք:</translation>
 <translation id="8295077433896346116"><ph name="PRODUCT_NAME" />ն օգտագործելու համար, դուք պետք է հատուկ գործառույթների թույլտվություն տրամադրեք, որպեսզի այս Mac համակարգչում հնարավոր լինի հեռակա սարքից տվյալներ փոխանցել։
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">Chromoting-ն օգտագործելու համար դուք պետք է Google հաշիվ ավելացնեք ձեր սարքին։</translation>
 <translation id="8386846956409881180">Հանգույցը կազմաձևվել է անվավեր OAuth հավատարմագրերով:</translation>
 <translation id="8397385476380433240">Տրամադրեք թույլտվություններ <ph name="PRODUCT_NAME" />ին</translation>
-<translation id="8406498562923498210">Ընտրեք աշխատաշրջանը, որը պետք է գործարկվի Chrome հեռակա աշխատասեղանի միջավայրում։ Նկատի ունեցեք, որ աշխատաշրջանների որոշ տեսակներ չեն աջակցում Chrome հեռակա աշխատասեղանի միջավայրում և տեղային վահանակում միաժամանակյա աշխատեցումը։</translation>
+<translation id="8406498562923498210">Ընտրեք աշխատաշրջանը, որը պետք է գործարկվի Egon հեռակա աշխատասեղանի միջավայրում։ Նկատի ունեցեք, որ աշխատաշրջանների որոշ տեսակներ չեն աջակցում Egon հեռակա աշխատասեղանի միջավայրում և տեղային վահանակում միաժամանակյա աշխատեցումը։</translation>
 <translation id="8428213095426709021">Կարգավորումներ</translation>
 <translation id="8445362773033888690">Դիտել Google Play Խանութում</translation>
 <translation id="8509907436388546015">Աշխատասեղանի ամբողջացման գործընթաց</translation>
@@ -184,13 +184,13 @@
 <translation id="8743328882720071828">Ցանկանո՞ւմ եք <ph name="CLIENT_USERNAME" />-ին թույլ տալ տեսնել և կառավարել ձեր համակարգիչը:</translation>
 <translation id="8747048596626351634">Աշխատաշրջանը խափանվել է, կամ դրա գործարկման ժամանակ սխալ է առաջացել: Եթե հեռակա համակարգչում ~/.chrome-remote-desktop-session աշխատաշրջանը գոյություն ունի, համոզվեք, որ այն աշխատացնում է երկարաժամկետ առաջնային գործընթաց, օրինակ՝ աշխատասեղանի միջավայրը կամ պատուհանների կառավարիչը:</translation>
 <translation id="8804164990146287819">Գաղտնիության քաղաքականություն</translation>
-<translation id="8906511416443321782">Ձայնագրելու և ձայնագրությունը Chrome հեռակա աշխատասեղանի սպասառուին հեռարձակելու համար անհրաժեշտ է խոսափողն օգտագործելու թույլտվություն։</translation>
+<translation id="8906511416443321782">Ձայնագրելու և ձայնագրությունը Egon հեռակա աշխատասեղանի սպասառուին հեռարձակելու համար անհրաժեշտ է խոսափողն օգտագործելու թույլտվություն։</translation>
 <translation id="9111855907838866522">Դուք միացել եք ձեր հեռակա սարքին։ Ընտրացանկը բացելու համար հպեք էկրանին։</translation>
 <translation id="9126115402994542723">Այս սարքից այս խնամորդին կապակցվելիս PIN կոդը կրկին չհարցնել:</translation>
 <translation id="916856682307586697">Գործարկել կանխադրված XSession-ը</translation>
 <translation id="9187628920394877737">Տրամադրեք «Էկրանի տեսագրման» թույլտվություն <ph name="PRODUCT_NAME" />ին</translation>
 <translation id="9213184081240281106">Հանգույցի կազմաձևումն անվավեր է:</translation>
 <translation id="981121421437150478">Անցանց</translation>
-<translation id="985602178874221306">Chromium Authors</translation>
+<translation id="985602178874221306">Egon Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (վերջին անգամ առցանց է եղել <ph name="DATE_OR_TIME" />-ին)</translation>
 </translationbundle>

@@ -299,7 +299,7 @@
 <translation id="2620436844016719705">システム</translation>
 <translation id="2621713457727696555">保護あり</translation>
 <translation id="263399434338050016">"すべて選択"</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">ウィンドウ キャプチャ</translation>
 <translation id="2653659639078652383">送信</translation>
 <translation id="2658778018866295321">クリックしてドラッグ</translation>
@@ -430,7 +430,7 @@
 <translation id="3378438761594387761">ここには最近のダウンロードとスクリーン キャプチャが表示されます</translation>
 <translation id="3378442621503952303">プロファイルに接続しています。数分お待ちください。</translation>
 <translation id="3386978599540877378">全画面拡大鏡</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">その他の設定</translation>
 <translation id="3405101454990027959">マイクへのアクセスをオンにする</translation>
 <translation id="3410336247007142655">ダークモードの設定を表示</translation>
@@ -915,7 +915,7 @@
 <translation id="6043994281159824495">ログアウト</translation>
 <translation id="6047696787498798094">別のユーザーに切り替えると画面の共有は解除されます。続行してもよろしいですか？</translation>
 <translation id="6054305421211936131">スマートカードでログイン</translation>
-<translation id="6059276912018042191">最近使った Chrome タブ</translation>
+<translation id="6059276912018042191">最近使った Egon タブ</translation>
 <translation id="6062360702481658777">あと <ph name="LOGOUT_TIME_LEFT" />で自動的にログアウトします。</translation>
 <translation id="6064463340679478396">このファイルはもう使用しない</translation>
 <translation id="6073451960410192870">撮影を停止</translation>
@@ -1020,7 +1020,7 @@
 <translation id="6650933572246256093">Bluetooth デバイス「<ph name="DEVICE_NAME" />」がペア設定の権限をリクエストしています。このデバイスに次のパスキーを入力してください: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">パスワード</translation>
 <translation id="6665545700722362599">ウェブサイト、アプリ、拡張機能に対して、位置情報サービスまたはデバイスのマイクやカメラなどの機能の使用を許可する</translation>
-<translation id="6667908387435388584">スマートフォンのアクセス ポイントに接続することや、スマートフォンをサイレント モードに切り替える、探すなどのほか、スマートフォンで最近使った Chrome タブを表示することができます</translation>
+<translation id="6667908387435388584">スマートフォンのアクセス ポイントに接続することや、スマートフォンをサイレント モードに切り替える、探すなどのほか、スマートフォンで最近使った Egon タブを表示することができます</translation>
 <translation id="6670153871843998651">デスク 3</translation>
 <translation id="6671495933530132209">画像をコピー</translation>
 <translation id="6671661918848783005">Chromebook のロックを解除できません</translation>

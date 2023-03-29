@@ -33,7 +33,7 @@
 <translation id="2509394361235492552">เชื่อมต่อกับ <ph name="HOSTNAME" /> แล้ว</translation>
 <translation id="2540992418118313681">คุณต้องการจะแชร์คอมพิวเตอร์เครื่องนี้เพื่อให้ผู้ใช้อื่นเห็นและควบคุมไหม</translation>
 <translation id="2579271889603567289">โฮสต์ขัดข้องหรือเริ่มต้นไม่สำเร็จ</translation>
-<translation id="2599300881200251572">บริการนี้จะช่วยให้สามารถใช้การเชื่อมต่อขาเข้าจากไคลเอ็นต์ Chrome Remote Desktop</translation>
+<translation id="2599300881200251572">บริการนี้จะช่วยให้สามารถใช้การเชื่อมต่อขาเข้าจากไคลเอ็นต์ Egon Remote Desktop</translation>
 <translation id="2647232381348739934">Chromoting Service</translation>
 <translation id="2676780859508944670">กำลังทำงาน…</translation>
 <translation id="2692522824157224199">Copyright 2022 Google LLC. All Rights Reserved.</translation>
@@ -56,7 +56,7 @@
 <translation id="3596628256176442606">บริการนี้จะช่วยให้สามารถใช้การเชื่อมต่อขาเข้าจากไคลเอ็นต์ Chromoting</translation>
 <translation id="369442766917958684">ออฟไลน์</translation>
 <translation id="3695446226812920698">เรียนรู้วิธี</translation>
-<translation id="3776024066357219166">เซสชัน Chrome Remote Desktop ของคุณสิ้นสุดแล้ว</translation>
+<translation id="3776024066357219166">เซสชัน Egon Remote Desktop ของคุณสิ้นสุดแล้ว</translation>
 <translation id="3858860766373142691">ชื่อ</translation>
 <translation id="3897092660631435901">เมนู</translation>
 <translation id="3905196214175737742">โดเมนเจ้าของโฮสต์ไม่ถูกต้อง</translation>
@@ -73,7 +73,7 @@
 <translation id="4257751272692708833">ผู้ส่งต่อ URL ของ <ph name="PRODUCT_NAME" /></translation>
 <translation id="4277736576214464567">รหัสการเข้าถึงไม่ถูกต้อง โปรดลองอีกครั้ง</translation>
 <translation id="4281844954008187215">ข้อกำหนดในการให้บริการ</translation>
-<translation id="4372650392690220936">Copyright 2022 The Chromium Authors. All Rights Reserved.</translation>
+<translation id="4372650392690220936">Copyright 2022 The Egon Authors. All Rights Reserved.</translation>
 <translation id="4405930547258349619">Core Library</translation>
 <translation id="443560535555262820">เปิดค่ากำหนดการเข้าถึง</translation>
 <translation id="4450893287417543264">ไม่ต้องแสดงอีก</translation>
@@ -83,7 +83,7 @@
 <translation id="4635770493235256822">อุปกรณ์ระยะไกล</translation>
 <translation id="4660011489602794167">แสดงแป้นพิมพ์</translation>
 <translation id="4703799847237267011">เซสชัน Chromoting ของคุณได้สิ้นสุดลงแล้ว</translation>
-<translation id="4741792197137897469">การตรวจสอบสิทธิ์ล้มเหลว โปรดลงชื่อเข้าใช้ Chrome อีกครั้ง</translation>
+<translation id="4741792197137897469">การตรวจสอบสิทธิ์ล้มเหลว โปรดลงชื่อเข้าใช้ Egon อีกครั้ง</translation>
 <translation id="4784508858340177375">เซิร์ฟเวอร์ X ขัดข้องหรือเริ่มต้นไม่สำเร็จ</translation>
 <translation id="4798680868612952294">ตัวเลือกเมาส์</translation>
 <translation id="4804818685124855865">ตัดการเชื่อมต่อ</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">ส่ง PrtScn</translation>
 <translation id="4974476491460646149">ปิดการเชื่อมต่อของ <ph name="HOSTNAME" /> แล้ว</translation>
 <translation id="4985296110227979402">คุณต้องตั้งค่าคอมพิวเตอร์สำหรับการเข้าถึงระยะไกลก่อน</translation>
-<translation id="4987330545941822761">Chrome Remote Desktop ไม่สามารถระบุเบราว์เซอร์ที่จะเปิด URL ในอุปกรณ์ โปรดเลือกจากรายการด้านล่าง</translation>
+<translation id="4987330545941822761">Egon Remote Desktop ไม่สามารถระบุเบราว์เซอร์ที่จะเปิด URL ในอุปกรณ์ โปรดเลือกจากรายการด้านล่าง</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (ออฟไลน์)</translation>
 <translation id="507204348399810022">คุณแน่ใจไหมว่าต้องการปิดใช้การเชื่อมต่อระยะไกลกับ <ph name="HOSTNAME" /></translation>
 <translation id="5170982930780719864">รหัสโฮสต์ไม่ถูกต้อง</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">ปิด</translation>
 <translation id="5308380583665731573">เชื่อมต่อ</translation>
 <translation id="533625276787323658">ไม่มีปลายทางให้เชื่อมต่อ</translation>
-<translation id="5397086374758643919">Chrome Remote Desktop Host Uninstaller</translation>
+<translation id="5397086374758643919">Egon Remote Desktop Host Uninstaller</translation>
 <translation id="5419418238395129586">ออนไลน์ครั้งล่าสุด: <ph name="DATE" /></translation>
 <translation id="544077782045763683">โฮสต์ปิดตัวลงแล้ว</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">เชื่อมต่อใหม่</translation>
 <translation id="5810269635982033450">หน้าจอทำหน้าที่เหมือนแทร็กแพด</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> ขอสิทธิ์เข้าถึงเพื่อดูหน้าจอ รวมถึงควบคุมแป้นพิมพ์และเมาส์ของคุณ กด "<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />" หากคุณไม่คาดว่าจะได้รับคำขอนี้ ไม่เช่นนั้นให้เลือก ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />'' เพื่ออนุญาตการเชื่อมต่อเมื่อพร้อม</translation>
-<translation id="5823658491130719298">ในคอมพิวเตอร์ที่ต้องการเข้าถึงจากระยะไกล ให้เปิด Chrome แล้วไปที่ <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">ในคอมพิวเตอร์ที่ต้องการเข้าถึงจากระยะไกล ให้เปิด Egon แล้วไปที่ <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">ตัวเลือกการแสดงผล</translation>
 <translation id="6033507038939587647">ตัวเลือกแป้นพิมพ์</translation>
 <translation id="6040143037577758943">ปิด</translation>
 <translation id="6062854958530969723">การเตรียมใช้งานโฮสต์ล้มเหลว</translation>
-<translation id="6099500228377758828">Chrome Remote Desktop Service</translation>
+<translation id="6099500228377758828">Egon Remote Desktop Service</translation>
 <translation id="6122191549521593678">ออนไลน์</translation>
 <translation id="6178645564515549384">โฮสต์การรับส่งข้อความดั้งเดิมสำหรับการสนับสนุนระยะไกล</translation>
 <translation id="618120821413932081">อัปเดตความละเอียดของเดสก์ท็อประยะไกลให้พอดีกับหน้าต่าง</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">ความช่วยเหลือจากระยะไกล</translation>
 <translation id="7026930240735156896">ทำตามวิธีการเพื่อตั้งค่าคอมพิวเตอร์สำหรับการเข้าถึงระยะไกล</translation>
 <translation id="7067321367069083429">หน้าจอทำหน้าที่เหมือนหน้าจอสัมผัส</translation>
-<translation id="7116737094673640201">ยินดีต้อนรับสู่ Chrome Remote Desktop</translation>
+<translation id="7116737094673640201">ยินดีต้อนรับสู่ Egon Remote Desktop</translation>
 <translation id="7144878232160441200">ลองอีกครั้ง</translation>
 <translation id="7312846573060934304">โฮสต์ออฟไลน์</translation>
 <translation id="7319983568955948908">หยุดการแชร์</translation>
 <translation id="7359298090707901886">เบราว์เซอร์ที่เลือกไม่สามารถใช้เปิด URL ในคอมพิวเตอร์ในพื้นที่</translation>
-<translation id="7401733114166276557">Chrome Remote Desktop</translation>
+<translation id="7401733114166276557">Egon Remote Desktop</translation>
 <translation id="7434397035092923453">การเข้าถึงถูกปฏิเสธสำหรับไคลเอ็นต์: <ph name="CLIENT_USERNAME" /></translation>
 <translation id="7444276978508498879">ไคลเอ็นต์ที่เชื่อมต่อ: <ph name="CLIENT_USERNAME" /></translation>
 <translation id="7526139040829362392">เปลี่ยนบัญชี</translation>
@@ -156,13 +156,13 @@
 <translation id="7868137160098754906">โปรดป้อน PIN สำหรับคอมพิวเตอร์ระยะไกล</translation>
 <translation id="7895403300744144251">นโยบายการรักษาความปลอดภัยของคอมพิวเตอร์ระยะไกลไม่อนุญาตให้มีการเชื่อมต่อจากบัญชีของคุณ</translation>
 <translation id="7936528439960309876">จัดวางไว้ทางขวา</translation>
-<translation id="7970576581263377361">การตรวจสอบสิทธิ์ล้มเหลว โปรดลงชื่อเข้าใช้ Chromium อีกครั้ง</translation>
+<translation id="7970576581263377361">การตรวจสอบสิทธิ์ล้มเหลว โปรดลงชื่อเข้าใช้ Egon อีกครั้ง</translation>
 <translation id="7981525049612125370">เซสชันระยะไกลหมดอายุลงแล้ว</translation>
 <translation id="8038111231936746805">(ค่าเริ่มต้น)</translation>
 <translation id="8041089156583427627">ส่งความคิดเห็น</translation>
 <translation id="8060029310790625334">ศูนย์ช่วยเหลือ</translation>
 <translation id="806699900641041263">กำลังเชื่อมต่อกับ <ph name="HOSTNAME" /></translation>
-<translation id="8073845705237259513">ในการใช้ Chrome Remote Desktop คุณจะต้องเพิ่มบัญชี Google ลงในอุปกรณ์ของคุณ</translation>
+<translation id="8073845705237259513">ในการใช้ Egon Remote Desktop คุณจะต้องเพิ่มบัญชี Google ลงในอุปกรณ์ของคุณ</translation>
 <translation id="809687642899217504">คอมพิวเตอร์ของฉัน</translation>
 <translation id="8116630183974937060">เกิดข้อผิดพลาดในเครือข่าย โปรดตรวจสอบว่าอุปกรณ์ของคุณออนไลน์อยู่และลองอีกครั้ง</translation>
 <translation id="8295077433896346116">หากต้องการใช้ <ph name="PRODUCT_NAME" /> คุณต้องให้สิทธิ์ "การเข้าถึง" เพื่อให้ข้อมูลอินพุตจากเครื่องระยะไกลส่งถึง Mac เครื่องนี้ได้
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">ในการใช้ Chromoting คุณจะต้องเพิ่มบัญชี Google ลงในอุปกรณ์ของคุณ</translation>
 <translation id="8386846956409881180">โฮสต์ได้รับการกำหนดค่าด้วยข้อมูลรับรอง OAuth ที่ไม่ถูกต้อง</translation>
 <translation id="8397385476380433240">ให้สิทธิ์แก่ <ph name="PRODUCT_NAME" /></translation>
-<translation id="8406498562923498210">เลือกเซสชันที่จะเปิดภายในสภาพแวดล้อม Chrome Remote Desktop (โปรดทราบว่าเซสชันบางประเภทอาจไม่รองรับการทำงานภายใน Chrome Remote Desktop และในคอนโซลในเครื่องพร้อมกัน)</translation>
+<translation id="8406498562923498210">เลือกเซสชันที่จะเปิดภายในสภาพแวดล้อม Egon Remote Desktop (โปรดทราบว่าเซสชันบางประเภทอาจไม่รองรับการทำงานภายใน Egon Remote Desktop และในคอนโซลในเครื่องพร้อมกัน)</translation>
 <translation id="8428213095426709021">การตั้งค่า</translation>
 <translation id="8445362773033888690">ดูใน Google Play Store</translation>
 <translation id="8509907436388546015">Desktop Integration Process</translation>
@@ -184,13 +184,13 @@
 <translation id="8743328882720071828">คุณต้องการให้ <ph name="CLIENT_USERNAME" /> มองเห็นและควบคุมคอมพิวเตอร์ของคุณไหม</translation>
 <translation id="8747048596626351634">เซสชันขัดข้องหรือเริ่มต้นไม่สำเร็จ หากมี ~/.chrome-remote-desktop-session ในคอมพิวเตอร์ระยะไกล ให้ตรวจดูว่าได้เริ่มกระบวนการพื้นหน้าแบบระยะยาว เช่น สภาพแวดล้อมเดสก์ท็อปหรือตัวจัดการหน้าต่างแล้ว</translation>
 <translation id="8804164990146287819">นโยบายความเป็นส่วนตัว</translation>
-<translation id="8906511416443321782">ต้องได้รับสิทธิ์เข้าถึงไมโครโฟนเพื่อบันทึกเสียงและสตรีมไปยังไคลเอ็นต์ของ Chrome Remote Desktop</translation>
+<translation id="8906511416443321782">ต้องได้รับสิทธิ์เข้าถึงไมโครโฟนเพื่อบันทึกเสียงและสตรีมไปยังไคลเอ็นต์ของ Egon Remote Desktop</translation>
 <translation id="9111855907838866522">คุณเชื่อมต่อกับอุปกรณ์ระยะไกลแล้ว โปรดใช้ 4 นิ้วแตะหน้าจอเพื่อเปิดเมนู</translation>
 <translation id="9126115402994542723">อย่าขอ PIN อีกเมื่อเชื่อมต่อไปยังโฮสต์นี้จากอุปกรณ์เครื่องนี้</translation>
 <translation id="916856682307586697">เปิด XSession เริ่มต้น</translation>
 <translation id="9187628920394877737">ให้สิทธิ์ "การบันทึกหน้าจอ" กับ <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">การกำหนดค่าโฮสต์ไม่ถูกต้อง</translation>
 <translation id="981121421437150478">ออฟไลน์</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Egon Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (ออนไลน์ล่าสุดเมื่อ <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

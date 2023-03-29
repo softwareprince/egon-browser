@@ -299,7 +299,7 @@ Pääset alkuun esimerkiksi näillä tavoilla.</translation>
 <translation id="2620436844016719705">Järjestelmä</translation>
 <translation id="2621713457727696555">Suojattu</translation>
 <translation id="263399434338050016">Valitse kaikki</translation>
-<translation id="2645435784669275700">Chrome-käyttöjärjestelmä</translation>
+<translation id="2645435784669275700">Egon-käyttöjärjestelmä</translation>
 <translation id="2653019840645008922">Ikkunan tallennus</translation>
 <translation id="2653659639078652383">Lähetä</translation>
 <translation id="2658778018866295321">Klikkaa ja vedä</translation>
@@ -430,7 +430,7 @@ Pääset alkuun esimerkiksi näillä tavoilla.</translation>
 <translation id="3378438761594387761">Löydät viimeaikaiset lataukset ja kuvakaappaukset täältä</translation>
 <translation id="3378442621503952303">Muodostetaan yhteyttä profiiliin. Odota muutama minuutti.</translation>
 <translation id="3386978599540877378">koko näytön suurentaja</translation>
-<translation id="3387527074123400161">Chromium-käyttöjärjestelmä</translation>
+<translation id="3387527074123400161">Egon-käyttöjärjestelmä</translation>
 <translation id="3400357268283240774">Lisäasetukset</translation>
 <translation id="3405101454990027959">Laita mikrofonin käyttölupa päälle</translation>
 <translation id="3410336247007142655">Näytä tumman teeman asetukset</translation>
@@ -915,7 +915,7 @@ Yhdistä laite virtalähteeseen.</translation>
 <translation id="6043994281159824495">Kirjaudu ulos nyt</translation>
 <translation id="6047696787498798094">Näytön jakaminen loppuu, kun vaihdat toiseen käyttäjään. Haluatko jatkaa?</translation>
 <translation id="6054305421211936131">Kirjaudu sisään älykortilla</translation>
-<translation id="6059276912018042191">Viimeaikaiset Chrome-välilehdet</translation>
+<translation id="6059276912018042191">Viimeaikaiset Egon-välilehdet</translation>
 <translation id="6062360702481658777">Sinut kirjataan ulos automaattisesti, aikaa jäljellä <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Haluan lopettaa tiedoston käytön</translation>
 <translation id="6073451960410192870">Lopeta tallennus</translation>
@@ -1020,7 +1020,7 @@ Uusi asennus</translation>
 <translation id="6650933572246256093">Bluetooth-laite <ph name="DEVICE_NAME" /> pyytää lupaa laiteparin muodostamiseen. Anna tämä avain kyseisellä laitteella: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Salasana</translation>
 <translation id="6665545700722362599">Anna verkkosivustoille, sovelluksille ja laajennuksille oikeus käyttää sijaintipalveluita, laitteen mikrofonia, kameraa ja muita ominaisuuksia</translation>
-<translation id="6667908387435388584">Yhdistä puhelimesi hotspotiin, hiljennä ja paikanna laitteesi sekä katso viimeaikaiset Chrome-välilehdet, jotka ovat avoinna puhelimellasi</translation>
+<translation id="6667908387435388584">Yhdistä puhelimesi hotspotiin, hiljennä ja paikanna laitteesi sekä katso viimeaikaiset Egon-välilehdet, jotka ovat avoinna puhelimellasi</translation>
 <translation id="6670153871843998651">Pöytä 3</translation>
 <translation id="6671495933530132209">Kopioi kuva</translation>
 <translation id="6671661918848783005">Chromebookin lukitusta ei voi avata</translation>

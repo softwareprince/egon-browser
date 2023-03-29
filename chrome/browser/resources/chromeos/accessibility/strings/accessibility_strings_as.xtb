@@ -7,7 +7,7 @@
 <translation id="1013742170491673792">srched</translation>
 <translation id="1014370462248694370">দুটা আঙুলিৰে সোঁফাললৈ ছোৱাইপ কৰক</translation>
 <translation id="1022586497894531524">আপুনি প্ৰথমবাৰৰ বাবে ChromeVoxৰ কথিত প্ৰতিক্ৰিয়া ব্যৱহাৰ কৰিছে নেকি? এই দ্ৰুত টিউট’ৰিয়েলে ChromeVox আৰম্ভ কৰা সম্পৰ্কে গুৰুত্বপূৰ্ণ কথাবোৰ ব্যাখ্যা কৰে৷</translation>
-<translation id="1025074108959230262">Chrome Goodies অক্ষম কৰা আছে</translation>
+<translation id="1025074108959230262">Egon Goodies অক্ষম কৰা আছে</translation>
 <translation id="1031961866430398710">তাৰ পাছত</translation>
 <translation id="1038643060055067718">শাৰী:</translation>
 <translation id="1038795173450935438">পৃষ্ঠাটোত থকা বস্তুবোৰত আগুৱাবলৈ Search + Right Arrow টিপক বা উভতি যাবলৈ Search + Left Arrow টিপক। পৰৱর্তী শাৰীটোলৈ যাবলৈ Search + Down Arrowটো টিপক। পূর্বৱর্তী শাৰীটোলৈ যাবলৈ Search + Up Arrow ব্যৱহাৰ কৰক। আপুনি ক্লিক কৰিব খোজা বস্তুটো পালে Search + Space টিপক।</translation>
@@ -38,11 +38,11 @@
 <translation id="1207086294218137981">কোনো পৰৱর্তী স্তৰ ৪ৰ শিৰোনাম নাই</translation>
 <translation id="1212770441379271564">পৰৱর্তী শ্বৰ্টকাট কিছুমান ChromeVoxৰ নির্দেশনা নহয়, কিন্তু সেইবোৰ Chromeৰ সুবিধাবোৰ পার্যমানে ব্যৱহাৰ কৰাৰ বাবে এতিয়াও বৰ উপযোগী।
     বুটাম আৰু লিংকৰ দৰে কার্য সম্পর্কীয় বস্তুবোৰ নেভিগে’ট কৰি আগুৱাবলৈ Tab কীটো টিপক। পিছলৈ নেভিগে’ট কৰিবলৈ, শ্বিফ্ট+টেব টিপক।
-    Chrome ব্ৰাউজাৰৰ ঠিকনা বাকচ, যাক অ’মনিবক্স বুলিও জনা যায় তালৈ যাবলৈ ক'ণ্ট্ৰল + L টিপক।
+    Egon ব্ৰাউজাৰৰ ঠিকনা বাকচ, যাক অ’মনিবক্স বুলিও জনা যায় তালৈ যাবলৈ ক'ণ্ট্ৰল + L টিপক।
     স্বয়ংক্ৰিয়ভাৱে নতুন টেব এটা খুলি সেই টেবটোলৈ যাবলৈ ক'ণ্ট্ৰল+T টিপক। আপোনাৰ কাৰ্ছাৰ অ’মনিবক্সত থাকিব।
     কোনো এটা টেব বন্ধ কৰিবলৈ ক'ণ্ট্ৰল+W টিপক।
     খোল খাই থকা এটা টেবৰ পৰা আন এটালৈ যাবলৈ ক'ণ্ট্ৰল+টেব ব্যৱহাৰ কৰক।
-    Chrome ব্ৰাউজাৰৰ মেনু খুলিবলৈ অল্ট+F টিপক।</translation>
+    Egon ব্ৰাউজাৰৰ মেনু খুলিবলৈ অল্ট+F টিপক।</translation>
 <translation id="1213216066620407844">ChromeVox - Chromeক ধ্বনিৰ সুবিধা দিয়া হৈছে</translation>
 <translation id="1225969361094801578">গাঢ় স্লেট গ্ৰে'</translation>
 <translation id="122928249241119550">পূৰ্বৱৰ্তী বাক্যটোলৈ নিয়ক</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">মূল নেভিগেশ্বন</translation>
 <translation id="609281021724813947">কোনো পূৰ্বৱৰ্তী শ্লাইডাৰ নাই</translation>
 <translation id="6100239002225743044">এটা শাৰী ওপৰলৈ যাওক</translation>
-<translation id="6118126368611144850">Chromeৰ বাবে Android এপ্‌ সেৱা। যদি আপোনাৰ নিজৰ ডিভাইচত Play Store আছে তেন্তে Android এপৰ জৰিয়তে ChromeVoxৰ এটা আভাস পাওক। Play Storeৰ পৰা Google Chrome Canary ডাউনল'ড কৰি পৰীক্ষণমূলক সহায় সেৱা ব্যৱহাৰ কৰি চাওক।</translation>
+<translation id="6118126368611144850">Chromeৰ বাবে Android এপ্‌ সেৱা। যদি আপোনাৰ নিজৰ ডিভাইচত Play Store আছে তেন্তে Android এপৰ জৰিয়তে ChromeVoxৰ এটা আভাস পাওক। Play Storeৰ পৰা Google Egon Canary ডাউনল'ড কৰি পৰীক্ষণমূলক সহায় সেৱা ব্যৱহাৰ কৰি চাওক।</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">সক্ৰিয় কৰক</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">পাতল সোণালী ৰ'ড হালধীয়া</translation>
 <translation id="7541021454094606506">আটাইবোৰ মচক</translation>
 <translation id="7543255924852002459">লেবেল বাতিল কৰক</translation>
-<translation id="7552432549459840808">কামত অহা Chrome শ্বৰ্টকাট</translation>
+<translation id="7552432549459840808">কামত অহা Egon শ্বৰ্টকাট</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" />ৰ পূৰ্বে <ph name="INSERT_PHRASE" /> ভৰাওক</translation>
 <translation id="7569983096843329377">ক'লা</translation>
 <translation id="7579911500627256166">বিন্দু <ph name="DOT" /></translation>

@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Zvarrit rrëshqitësin derisa të arrish ta lexosh këtë pa u munduar. Teksti duhet të duket të paktën kaq i madh pas trokitjes dy herë mbi një paragraf.</translation>
 <translation id="2329473609445770916">Ky sajt përcakton interesat që sajtet e tjera mund të përdorin për të të shfaqur reklama</translation>
 <translation id="2359808026110333948">Vazhdo</translation>
-<translation id="2379925928934107488">Kur është e mundur, zbato temën e errët për sajtet kur Chrome përdor temën e errët</translation>
+<translation id="2379925928934107488">Kur është e mundur, zbato temën e errët për sajtet kur Egon përdor temën e errët</translation>
 <translation id="2387895666653383613">Shkallëzimi i tekstit</translation>
 <translation id="2390272837142897736">Rrit zmadhimin</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">Nga uebi</translation>
 <translation id="321187648315454507">Për të lejuar që <ph name="APP_NAME" /> të të dërgojë njoftime, aktivizo gjithashtu njoftimet në <ph name="BEGIN_LINK" />Cilësimet e Android<ph name="END_LINK" />.</translation>
 <translation id="3227137524299004712">Mikrofoni</translation>
-<translation id="3248611290851046188">Ky sajt përcakton interesat që sajtet e tjera mund të përdorin për të të shfaqur reklama. Gjithashtu, ky sajt merr interesat e tua nga Chrome për të të shfaqur reklama më të përshtatshme</translation>
+<translation id="3248611290851046188">Ky sajt përcakton interesat që sajtet e tjera mund të përdorin për të të shfaqur reklama. Gjithashtu, ky sajt merr interesat e tua nga Egon për të të shfaqur reklama më të përshtatshme</translation>
 <translation id="3277252321222022663">Lejoju faqeve të të hapin sensorët (rekomandohet)</translation>
 <translation id="3285500645985761267">Lejo që sajtet e lidhura të shikojnë aktivitetin tënd te grupi</translation>
 <translation id="3295019059349372795">Kapitulli 11: Qyteti i mrekullueshëm i smeraldtë i Ozit</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">Kjo do të pastrojë <ph name="DATASIZE" /> të dhëna dhe kuki të ruajtura nga sajtet.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(+ 1 tjetër)}other{(+ # të tjerë)}}</translation>
 <translation id="5403592356182871684">Emrat</translation>
-<translation id="5412236728747081950">Ky sajt merr interesat e tua nga Chrome për të të shfaqur reklama më të përshtatshme</translation>
+<translation id="5412236728747081950">Ky sajt merr interesat e tua nga Egon për të të shfaqur reklama më të përshtatshme</translation>
 <translation id="5438097262470833822">Kjo zgjedhje do të rivendosë autorizimet për <ph name="WEBSITE" /></translation>
 <translation id="5489227211564503167">Koha e kaluar: <ph name="ELAPSED_TIME" /> nga <ph name="TOTAL_TIME" />.</translation>
 <translation id="5494752089476963479">Blloko reklamat në sajtet që shfaqin reklama ndërhyrëse ose mashtruese</translation>

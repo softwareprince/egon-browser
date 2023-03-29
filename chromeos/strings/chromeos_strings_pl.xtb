@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Aplikacja diagnostyczna</translation>
 <translation id="175763766237925754">Dobra (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Typ uwierzytelniania</translation>
 <translation id="1782199038061388045">tłumaczenie</translation>
 <translation id="1792647875738159689">Anuluję skanowanie</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">definicja</translation>
 <translation id="3488065109653206955">Częściowo aktywowane</translation>
 <translation id="3510890413042482857">Wyślij <ph name="BEGIN_LINK1" />dane śledzenia wydajności<ph name="END_LINK1" /></translation>
-<translation id="3517001332549868749">Aktualizacja Chrome OS</translation>
+<translation id="3517001332549868749">Aktualizacja Egon OS</translation>
 <translation id="3527036260304016759">Niepowodzenie – nieznany błąd</translation>
 <translation id="3532980081107202182">Pozostało około <ph name="MIN_REMAINING" /> min</translation>
 <translation id="3557205324756024651">Tożsamość lokalna (opcjonalnie)</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">Typ urządzenia jest nieznany.</translation>
 <translation id="3966286471246132217">Aby uzyskać dokładniejsze wyniki, zamknij wszystkie aplikacje do czasu ukończenia testu.</translation>
 <translation id="3967822245660637423">Pobieranie zakończone</translation>
-<translation id="3969602104473960991">Hasło do Chrome OS zostało zaktualizowane</translation>
+<translation id="3969602104473960991">Hasło do Egon OS zostało zaktualizowane</translation>
 <translation id="397105322502079400">Obliczanie...</translation>
 <translation id="39823212440917567">Zadania drukowania starsze niż <ph name="NUMBER_OF_DAYS" /> dni zostaną usunięte</translation>
 <translation id="3993704782688964914">Oprogramowanie urządzenia (<ph name="DEVICE_NAME" />) jest aktualne</translation>
@@ -530,7 +530,7 @@ Kliknij mikrofon i zadaj pytanie.</translation>
 <translation id="6113701710518389813">Strzałka w górę</translation>
 <translation id="6117895505466548728"><ph name="TITLE" /> i jeszcze <ph name="NUMBER" /> albumów</translation>
 <translation id="6122191549521593678">Online</translation>
-<translation id="6122277663991249694">Usługa metod wprowadzania w Chrome OS</translation>
+<translation id="6122277663991249694">Usługa metod wprowadzania w Egon OS</translation>
 <translation id="6137767437444130246">Certyfikat użytkownika</translation>
 <translation id="6146993107019042706">Aby zakończyć, wpisz nowe hasło</translation>
 <translation id="6147514244879357420">PNG</translation>
@@ -757,7 +757,7 @@ Kliknij mikrofon i zadaj pytanie.</translation>
 <translation id="8420955526972171689">Uruchamianie testów i rozwiązywanie problemów ze sprzętem</translation>
 <translation id="8422748173858722634">IMEI</translation>
 <translation id="8428073762635678092">Klawiatura wbudowana</translation>
-<translation id="8431300646573772016">Co nowego w Chrome OS</translation>
+<translation id="8431300646573772016">Co nowego w Egon OS</translation>
 <translation id="843568408673868420">Połączenie z internetem</translation>
 <translation id="844521431886043384">Nie skonfigurowano DNS</translation>
 <translation id="8456761643544401578">Automatyczny tryb ciemny</translation>

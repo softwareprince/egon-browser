@@ -18,7 +18,7 @@ Your search engine is <ph name="DSE_NAME" />. See their instructions for deletin
 <translation id="1076421457278169141">Code scanned</translation>
 <translation id="1076785341346483463">Sync with managed account</translation>
 <translation id="1084365883616172403">Facebook post completed.</translation>
-<translation id="1085696779717592361">Use Chrome by default</translation>
+<translation id="1085696779717592361">Use Egon by default</translation>
 <translation id="1103523840287552314">Always translate <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">Switch to open window</translation>
 <translation id="1112015203684611006">Printing failed.</translation>
@@ -32,13 +32,13 @@ Your search engine is <ph name="DSE_NAME" />. See their instructions for deletin
 <translation id="1165039591588034296">Error</translation>
 <translation id="1172898394251786223">Next field</translation>
 <translation id="1176932207622159128">Cannot Save Image</translation>
-<translation id="1177414119866731261">Open the Chrome menu</translation>
+<translation id="1177414119866731261">Open the Egon menu</translation>
 <translation id="1181037720776840403">Remove</translation>
 <translation id="1207113853726624428">New Search</translation>
 <translation id="1209206284964581585">Hide for now</translation>
 <translation id="1219674500290482172">Unable to connect to the Internet.</translation>
 <translation id="122699739164161391">Close All Tabs</translation>
-<translation id="1229222343402087523">Search ${searchPhrase} in Chrome</translation>
+<translation id="1229222343402087523">Search ${searchPhrase} in Egon</translation>
 <translation id="1242044645101871359">Sign in again</translation>
 <translation id="1254117744268754948">Choose folder</translation>
 <translation id="1254424942107648268">Find Previous</translation>
@@ -128,7 +128,7 @@ Your search engine is <ph name="DSE_NAME" />. See their instructions for deletin
 <translation id="1941314575388338491">Double tap to copy.</translation>
 <translation id="1943478190258551035">Menu → Settings</translation>
 <translation id="1952172573699511566">Websites will show text in your preferred language, when possible.</translation>
-<translation id="1965935827552890526">Finish what you were doing in your other open Chrome window.</translation>
+<translation id="1965935827552890526">Finish what you were doing in your other open Egon window.</translation>
 <translation id="1973912524893600642">Keep Data</translation>
 <translation id="1974060860693918893">Advanced</translation>
 <translation id="1981118202195772574">Mobile</translation>
@@ -149,8 +149,8 @@ Your search engine is <ph name="DSE_NAME" />. See their instructions for deletin
 <translation id="2139867232736819575">Search for text that you copied</translation>
 <translation id="214201757571129614">Sign in…</translation>
 <translation id="2149973817440762519">Edit Bookmark</translation>
-<translation id="2150175299852799498">Chrome for mobile</translation>
-<translation id="2155145621546387786">Share Chrome</translation>
+<translation id="2150175299852799498">Egon for mobile</translation>
+<translation id="2155145621546387786">Share Egon</translation>
 <translation id="2175927920773552910">QR code</translation>
 <translation id="2178545675770638239">Select password</translation>
 <translation id="2218443599109088993">Zoom out</translation>
@@ -161,7 +161,7 @@ Your search engine is <ph name="DSE_NAME" />. See their instructions for deletin
 <translation id="225943865679747347">Error code: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Add Account</translation>
 <translation id="2268044343513325586">Refine</translation>
-<translation id="2271351792809375263">Use the passwords that you saved to Chrome in other apps on your device</translation>
+<translation id="2271351792809375263">Use the passwords that you saved to Egon in other apps on your device</translation>
 <translation id="2273327106802955778">More menu</translation>
 <translation id="2286505070150039482">Highlighted text</translation>
 <translation id="2299218006564889602">Your passwords are encrypted on your device before they’re saved to Google Password Manager.</translation>
@@ -232,13 +232,13 @@ Sites can't use cookies to see your browsing activity across different sites, fo
 <translation id="2797029671965852011">Show history</translation>
 <translation id="2800683595868705743">Leave Tab Switcher</translation>
 <translation id="2815198996063984598">2. Tap default browser app</translation>
-<translation id="2820289420301699633">Your administrator has control over Chrome and can access its data</translation>
+<translation id="2820289420301699633">Your administrator has control over Egon and can access its data</translation>
 <translation id="2830972654601096923">Manage Addresses…</translation>
 <translation id="2834399722155632105">3. Tap Password options</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Reset Translate settings</translation>
 <translation id="2848086008667475748">Make default in settings…</translation>
-<translation id="2858204748079866344">To protect your privacy, Chrome will not auto-fill your password in this field.</translation>
+<translation id="2858204748079866344">To protect your privacy, Egon will not auto-fill your password in this field.</translation>
 <translation id="285960592395650245">Retry Download</translation>
 <translation id="2870560284913253234">Site</translation>
 <translation id="2871695793448672541">Hidden Password</translation>
@@ -256,7 +256,7 @@ Sites can't use cookies to see your browsing activity across different sites, fo
 <translation id="292639812446257861">Mark Unread</translation>
 <translation id="2932085390869194046">Suggest password...</translation>
 <translation id="2932765531295814441">Add passwords manually</translation>
-<translation id="2952581218264071393">1. Open Chrome settings</translation>
+<translation id="2952581218264071393">1. Open Egon settings</translation>
 <translation id="2958718410589002129">Passwords</translation>
 <translation id="2961210776189273067">Title</translation>
 <translation id="2964349545761222050">Block third-party cookies</translation>
@@ -312,7 +312,7 @@ See your search engine’s instructions for deleting your search history, if app
 <translation id="3371831930909698441">Translate is available. Options available near bottom of the screen.</translation>
 <translation id="3377063233124932127">Now your saved bookmarks, passwords and more are at the top.</translation>
 <translation id="3393920035788932672">Pop-ups Allowed</translation>
-<translation id="3399930248910934354">Open Chrome settings</translation>
+<translation id="3399930248910934354">Open Egon settings</translation>
 <translation id="3404744938087714423">Signing out turns off sync.</translation>
 <translation id="3425644765244388016">Card nickname</translation>
 <translation id="3433057996795775706">Deleting this password will not delete your account on <ph name="WEBSITE" />. Change your password on <ph name="WEBSITE" /> to keep it safe from others.</translation>
@@ -355,7 +355,7 @@ See your search engine’s instructions for deleting your search history, if app
 <translation id="3709582977625132201">Mark as unread</translation>
 <translation id="371230970611282515">Predicts and warns you about dangerous events before they happen.</translation>
 <translation id="37207012422556617">Trending searches</translation>
-<translation id="3740397331642243698">Opens the inputted URLs in Google Chrome in Incognito.</translation>
+<translation id="3740397331642243698">Opens the inputted URLs in Google Egon in Incognito.</translation>
 <translation id="3762232513783804601">Built for your iPad</translation>
 <translation id="3768725474733206671">Reopen last closed tab</translation>
 <translation id="3771033907050503522">Incognito Tabs</translation>
@@ -374,12 +374,12 @@ See your search engine’s instructions for deleting your search history, if app
 <translation id="3858860766373142691">Name</translation>
 <translation id="3861486700625780712">Unfollow</translation>
 <translation id="3863769054730344136">Send to Your Devices</translation>
-<translation id="387280738075653372">Download Chrome here.</translation>
+<translation id="387280738075653372">Download Egon here.</translation>
 <translation id="3888863481921783344">This will be used to show you possible invitees to your event.</translation>
 <translation id="3892144330757387737">You'll find your history here</translation>
 <translation id="3897092660631435901">Menu</translation>
 <translation id="3904829425754749514">Your organisation turned off sync. You can still see your bookmarks, history, passwords and other settings on this device. If you make changes, they won’t sync to your account.</translation>
-<translation id="3913386780052199712">Signed in to Chrome</translation>
+<translation id="3913386780052199712">Signed in to Egon</translation>
 <translation id="3915450441834151894">Site Information</translation>
 <translation id="3922310737605261887">Search for copied text</translation>
 <translation id="3928666092801078803">Combine my data</translation>
@@ -522,7 +522,7 @@ To change this setting, <ph name="BEGIN_LINK" />reset sync<ph name="END_LINK" />
 <translation id="4979397965658815378">Sign in with your Google Account to get your bookmarks, passwords, history and other settings on all your devices</translation>
 <translation id="4986678885919050584">Remove from this device</translation>
 <translation id="4989542687859782284">Unavailable</translation>
-<translation id="498985224078955265">To send this tab to another device, sign in to Chrome on both devices.</translation>
+<translation id="498985224078955265">To send this tab to another device, sign in to Egon on both devices.</translation>
 <translation id="5005498671520578047">Copy password</translation>
 <translation id="5017828934289857214">Remind me later</translation>
 <translation id="5037676449506322593">Select All</translation>
@@ -532,19 +532,19 @@ To change this setting, <ph name="BEGIN_LINK" />reset sync<ph name="END_LINK" />
 <translation id="5062321486222145940">Install Google Drive</translation>
 <translation id="5083464117946352670">Cannot determine file size.</translation>
 <translation id="5090832849094901128">Deleting this password will not delete your account on <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">You can save pages to read later or offline. Chrome will ask if you want to save long pages.</translation>
+<translation id="5092117651143801290">You can save pages to read later or offline. Egon will ask if you want to save long pages.</translation>
 <translation id="5094827893301452931">Tweet completed.</translation>
 <translation id="5118713593561876160">Interests</translation>
 <translation id="5118764316110575523">Off</translation>
-<translation id="5119391094379141756">Select Chrome</translation>
+<translation id="5119391094379141756">Select Egon</translation>
 <translation id="5132942445612118989">Sync your passwords, history and more on all devices</translation>
-<translation id="5140288047769711648">Chrome will remember this password for you. You don't have to remember it.</translation>
+<translation id="5140288047769711648">Egon will remember this password for you. You don't have to remember it.</translation>
 <translation id="5149188072385105201">Add password…</translation>
 <translation id="5150492518600715772">Send to your device</translation>
 <translation id="5168414296986405587">Built for iPadOS</translation>
 <translation id="5173088371991956744">Sync needs to verify that it's you</translation>
 <translation id="5181140330217080051">Downloading</translation>
-<translation id="5184329579814168207">Open in Chrome</translation>
+<translation id="5184329579814168207">Open in Egon</translation>
 <translation id="5186185447130319458">Private</translation>
 <translation id="5188482106078495165">Your cookies setting applies to all tabs. To apply a new setting to an open tab, reload the tab.</translation>
 <translation id="5190835502935405962">Bookmarks Bar</translation>
@@ -579,7 +579,7 @@ To change this setting, <ph name="BEGIN_LINK" />reset sync<ph name="END_LINK" />
 <translation id="5490005495580364134">Block all cookies (not recommended)</translation>
 <translation id="5513681519188741830"><ph name="TIME" /> h ago</translation>
 <translation id="5520466080178053306">Tap Password Manager and then tap Add</translation>
-<translation id="5525095647255982834">To send this tab to another device, sign in to Chrome there.</translation>
+<translation id="5525095647255982834">To send this tab to another device, sign in to Egon there.</translation>
 <translation id="5525269841082836315">Create passphrase</translation>
 <translation id="5542540507657872337"><ph name="COUNT" /> found</translation>
 <translation id="5548760955356983418">Handoff lets you start browsing a website on this device and then easily continue on your Mac. The current open website will appear in the Dock of your Mac.
@@ -601,14 +601,14 @@ Handoff must also be enabled in the General section of Settings, and your device
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Create a QR Code</translation>
 <translation id="567881659373499783">Version <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Now showing 1 Chrome window}other{Now showing {count} Chrome windows}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Now showing 1 Egon window}other{Now showing {count} Egon windows}}</translation>
 <translation id="5701270923492462699">Camera access allowed</translation>
 <translation id="5704908597376970822">Can't sign in.</translation>
 <translation id="5706552126692816153">Active 1 day ago</translation>
 <translation id="5711039611392265845">For more settings that relate to privacy, security and data collection, see <ph name="BEGIN_LINK" />Sync and Google Services<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">To browse the web privately, add a new tab</translation>
 <translation id="5728700505257787410">Sorry, there was a problem signing in to your account.</translation>
-<translation id="5733084997078800044">Chrome tip</translation>
+<translation id="5733084997078800044">Egon tip</translation>
 <translation id="5737974891429562743">Account sign-in details are out of date. Update to start sync.</translation>
 <translation id="5738385766833540397">Manage how you receive price drop alerts for products that you track</translation>
 <translation id="5738887413654608789">This lets you discover relevant web pages based on your surroundings.</translation>
@@ -623,7 +623,7 @@ Handoff must also be enabled in the General section of Settings, and your device
 <translation id="5812974770859303494">Add to…</translation>
 <translation id="581659025233126501">Turn On Sync</translation>
 <translation id="5819208479324046259">Managed by <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Learn more<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Save passwords, payment methods and addresses for Chrome to auto-fill later.</translation>
+<translation id="5833643789537100742">Save passwords, payment methods and addresses for Egon to auto-fill later.</translation>
 <translation id="5846482154967366008">Search Engine</translation>
 <translation id="5854790677617711513">Older than 30 days</translation>
 <translation id="5857090052475505287">New Folder</translation>
@@ -650,7 +650,7 @@ Handoff must also be enabled in the General section of Settings, and your device
 <translation id="5982717868370722439">Add existing data to <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Recently Visited</translation>
 <translation id="5988097621740394599">See price drops on your tabs.</translation>
-<translation id="5988851877894965432">Open URLs in Chrome</translation>
+<translation id="5988851877894965432">Open URLs in Egon</translation>
 <translation id="6006672969046233841">New tab</translation>
 <translation id="6012140227487808125">Encrypting…</translation>
 <translation id="6021332621416007159">Open in...</translation>
@@ -676,7 +676,7 @@ Handoff must also be enabled in the General section of Settings, and your device
 <translation id="6152406514676263192">Sync for the most relevant content based on your interests.</translation>
 <translation id="6159839020698489198">optional</translation>
 <translation id="6170450281939467187">Translation failed</translation>
-<translation id="6177442314419606057">Search in Chrome</translation>
+<translation id="6177442314419606057">Search in Egon</translation>
 <translation id="6184086493125982861">Show Tabs</translation>
 <translation id="6187302354554850004">Last synced: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Unread</translation>
@@ -746,7 +746,7 @@ Try to use a unique password for every site.</translation>
 <translation id="6524918542306337007">Incognito mode is unavailable</translation>
 <translation id="6530992499366869131">Warn you if passwords are exposed in a data breach</translation>
 <translation id="6537746030088321027">sample.co.uk</translation>
-<translation id="6540120577248033958">Visit a site and click Follow in the Chrome menu</translation>
+<translation id="6540120577248033958">Visit a site and click Follow in the Egon menu</translation>
 <translation id="6561262006871132942">Zoom in</translation>
 <translation id="6583087784430677195">To turn off, open <ph name="BEGIN_LINK" />Settings<ph name="END_LINK" /> and go to Auto-fill passwords.</translation>
 <translation id="6585618849026997638">You can get back to a page that's important to you by adding a bookmark</translation>
@@ -864,7 +864,7 @@ While in Incognito, sites can't use cookies to see your browsing activity across
 <translation id="7454057999980797137">State / County</translation>
 <translation id="7459628154744868585">Enhanced protection is on</translation>
 <translation id="7464701184726199289">This clears synced data from all devices. Saved site settings will not be deleted and may reflect your browsing habits. <ph name="BEGIN_LINK" />Find out more<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Select Chrome</translation>
+<translation id="746684838091935575">3. Select Egon</translation>
 <translation id="7472734401283673885">Company Name</translation>
 <translation id="7473891865547856676">No, Thanks</translation>
 <translation id="750493650310597496">0 selected</translation>
@@ -899,7 +899,7 @@ While in Incognito, sites can't use cookies to see your browsing activity across
 <translation id="7781011649027948662">Translate page?</translation>
 <translation id="7781069478569868053">New Tab Page</translation>
 <translation id="7781829728241885113">Yesterday</translation>
-<translation id="778855399387580014">Start a search in a new Chrome tab.</translation>
+<translation id="778855399387580014">Start a search in a new Egon tab.</translation>
 <translation id="7791543448312431591">Add</translation>
 <translation id="7807060072011926525">Provided by Google</translation>
 <translation id="7839985698273989086">Offline page</translation>
@@ -912,7 +912,7 @@ While in Incognito, sites can't use cookies to see your browsing activity across
 <translation id="7859704718976024901">Browsing history</translation>
 <translation id="7879275349003161544">Show downloads</translation>
 <translation id="7884694604461143138">Search history (<ph name="COUNT" /> found)</translation>
-<translation id="7887198238286927132">To protect your privacy, Chrome will not auto-fill this field.</translation>
+<translation id="7887198238286927132">To protect your privacy, Egon will not auto-fill this field.</translation>
 <translation id="7911190106180361398">Your organisation doesn't allow for you to sync everything.</translation>
 <translation id="7920949005883349320">Privacy and security</translation>
 <translation id="7930998711684428189">Warns you if passwords are exposed in a data breach.</translation>
@@ -933,7 +933,7 @@ Sites can use cookies to see your browsing activity across different sites, for 
 <translation id="7982789257301363584">Network</translation>
 <translation id="7987685713885608670">For added safety, encrypt passwords on your device before they’re saved to Google Password Manager.</translation>
 <translation id="7993619969781047893">Features on some sites may break</translation>
-<translation id="800361585186029508">Opens the inputted URLs in Google Chrome.</translation>
+<translation id="800361585186029508">Opens the inputted URLs in Google Egon.</translation>
 <translation id="8016714545083187120">Always use secure connections</translation>
 <translation id="802154636333426148">Download failed</translation>
 <translation id="8023878949384262191">Expands the section.</translation>
@@ -942,7 +942,7 @@ Sites can use cookies to see your browsing activity across different sites, for 
 <translation id="804225253087497565"><ph name="BEGIN_LINK" />Search history<ph name="END_LINK" /> and <ph name="BEGIN_LINK" />other forms of activity<ph name="END_LINK" /> may be saved in your Google Account when you’re signed in. You can delete them at any time.</translation>
 <translation id="804427445359061970">You'll find your tabs from other devices here</translation>
 <translation id="8059533439631660104">Collapses the section.</translation>
-<translation id="8065292699993359127">Open URLs in Chrome in Incognito</translation>
+<translation id="8065292699993359127">Open URLs in Egon in Incognito</translation>
 <translation id="806745655614357130">Keep my data separate</translation>
 <translation id="8073670137947914548">Download finished</translation>
 <translation id="8073872304774253879">Make searches and browsing better</translation>
@@ -956,7 +956,7 @@ Sites can use cookies to see your browsing activity across different sites, for 
 <translation id="8114753159095730575">File download is available. Options available near bottom of screen.</translation>
 <translation id="81313319706244542">2. Tap Passwords</translation>
 <translation id="8132598642024322408">Now <ph name="PRICE" />, was <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">This will be used to create events in your Apple Calendar from Chrome and Google Lens.</translation>
+<translation id="8136856065410661948">This will be used to create events in your Apple Calendar from Egon and Google Lens.</translation>
 <translation id="8156478151976189188">Password Sync isn't working</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> accounts</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Your devices<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Sites can use cookies to see your browsing activity across different sites, for 
 <translation id="8533670235862049797">Safe Browsing is on</translation>
 <translation id="8534481786647257214">Google+ post completed.</translation>
 <translation id="8548878600947630424">Find in page...</translation>
-<translation id="8558480467877843976">You can now use Chrome any time that you browse or tap links in messages, documents and other apps.</translation>
+<translation id="8558480467877843976">You can now use Egon any time that you browse or tap links in messages, documents and other apps.</translation>
 <translation id="8588404856427128947">Off</translation>
 <translation id="8590913940444621808">Never Ask</translation>
 <translation id="8591976964826315682">Block third-party cookies in Incognito</translation>
@@ -1043,7 +1043,7 @@ Sites can use cookies to see your browsing activity across different sites, for 
 <translation id="8876882697946675716">Keep your devices in sync</translation>
 <translation id="8877287418679067891">Make default in settings…</translation>
 <translation id="8881801611828450202">Search <ph name="SEARCH_ENGINE" /> for This Image</translation>
-<translation id="8891935667620843985">You can open links in Chrome automatically by making it your default browser app.</translation>
+<translation id="8891935667620843985">You can open links in Egon automatically by making it your default browser app.</translation>
 <translation id="8898822736010347272">Sends URLs of some pages that you visit, limited system information and some page content to Google, to help discover new threats and protect everyone on the web.</translation>
 <translation id="890565330728586731">Back</translation>
 <translation id="8909135823018751308">Share…</translation>
@@ -1068,11 +1068,11 @@ Sites can use cookies to see your browsing activity across different sites, for 
 <translation id="9055960261314198756">Enhanced protection is off</translation>
 <translation id="9057972802061533987">Can't follow. Something went wrong.</translation>
 <translation id="9065203028668620118">Edit</translation>
-<translation id="9068336935206019333">Open in Chrome Incognito</translation>
+<translation id="9068336935206019333">Open in Egon Incognito</translation>
 <translation id="9079935439869366234">Mark All Unread</translation>
 <translation id="9081058212938299310">Update password for <ph name="USERNAME" />?</translation>
 <translation id="9083838294503912307">To sync and personalise across devices, turn on sync.</translation>
-<translation id="9087108903408689779">Chrome suggested password:</translation>
+<translation id="9087108903408689779">Egon suggested password:</translation>
 <translation id="9093271241977565440">At the top of the screen, tap the search icon</translation>
 <translation id="9094033019050270033">Update password</translation>
 <translation id="9097506547406246598">Can't unfollow. Something went wrong.</translation>
@@ -1089,7 +1089,7 @@ Sites can use cookies to see your browsing activity across different sites, for 
 <translation id="9223358826628549784">Crash report sent.</translation>
 <translation id="941747855997058526">Select password…</translation>
 <translation id="952704832371081537">Cancel</translation>
-<translation id="953008885340860025">Chrome is signed out</translation>
+<translation id="953008885340860025">Egon is signed out</translation>
 <translation id="959066944189734975">You're following <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">Your organisation allows you to sign in only with certain accounts. Accounts that aren't allowed are hidden.</translation>
 <translation id="984509647832111802">Sync isn't working.</translation>

@@ -171,7 +171,7 @@ locale.  The strings in this file are specific to iOS.
       <message name="IDS_IOS_ACCOUNT_CONSISTENCY_SETUP_SKIP_BUTTON" desc="Title of the button to skip the selection of an account. [Length: 20em] [iOS only]">
         Cancel
       </message>
-      <message name="IDS_IOS_ACCOUNT_IDENTITY_CHOOSER_ADD_ACCOUNT" desc="In Title Case: Button is displayed in the account picker dialog. Users can click it to add another account to the device, which can be used to sign in to Chrome. [iOS only]">
+      <message name="IDS_IOS_ACCOUNT_IDENTITY_CHOOSER_ADD_ACCOUNT" desc="In Title Case: Button is displayed in the account picker dialog. Users can click it to add another account to the device, which can be used to sign in to Egon. [iOS only]">
         Add Account…
       </message>
       <message name="IDS_IOS_ACCOUNT_IDENTITY_CHOOSER_CHOOSE_ACCOUNT" desc="Label at the top an account list. The user has to select one of the accounts to sign-in. [Length: 20em] [iOS only]">
@@ -232,10 +232,10 @@ locale.  The strings in this file are specific to iOS.
         Show All...
       </message>
       <message name="IDS_IOS_SUGGESTED_PASSWORD" desc="Text that shows a suggested generated password at user's request [Length: unlimited] [iOS only]">
-        Chrome Suggested Password:
+        Egon Suggested Password:
       </message>
       <message name="IDS_IOS_SUGGESTED_PASSWORD_HINT" desc="Text shown alongside a suggested password to tell user that generated passwords are recorded by chrome. [Length: unlimited] [iOS only]">
-        Chrome will remember this password for you. You don't have to remember it.
+        Egon will remember this password for you. You don't have to remember it.
       </message>
       <message name="IDS_IOS_SUGGESTED_STRONG_PASSWORD" desc="Text that shows a suggested generated password at user's request [Length: unlimited] [iOS only]">
         Use Strong Password:
@@ -342,7 +342,7 @@ locale.  The strings in this file are specific to iOS.
       <message name="IDS_IOS_AUTOFILL_SAVE_CARD_BADGE_HINT" desc="Accessibility Hint for the Save Card button which presents the current options to Save a Card. This is spoken by VoiceOver.   [Length:Unlimited] [iOS only]">
         Options to Save Card
       </message>
-      <message name="IDS_IOS_AUTOFILL_HONORIFIC_PREFIX" desc="Title of the field of a profile address representing the title that can be auto-filled by Chrome. A 'Title' field in a web form could be a prefix like Ms., Mx., or Dr. or a position held, like Captain or Rabbi. [Length: 15em] [iOS only]" meaning="Honorific">
+      <message name="IDS_IOS_AUTOFILL_HONORIFIC_PREFIX" desc="Title of the field of a profile address representing the title that can be auto-filled by Egon. A 'Title' field in a web form could be a prefix like Ms., Mx., or Dr. or a position held, like Captain or Rabbi. [Length: 15em] [iOS only]" meaning="Honorific">
         Title
       </message>
       <message name="IDS_IOS_AUTOFILL_FULLNAME" desc="Title of the field of a profile address representing the full name of the addressee. [Length: 15em] [iOS only]">
@@ -399,7 +399,7 @@ locale.  The strings in this file are specific to iOS.
       <message name="IDS_IOS_BLOCK_POPUPS" desc="Title for the view and option in Settings for blocking pop-ups. [Length: 15em] [iOS only]">
         Block Pop-ups
       </message>
-      <message name="IDS_IOS_SHOW_LINK_PREVIEWS" desc="Title for the view and option in Settings for showing link previews. [Length: unlimited] [iOS only]" meaning="Title for the Chrome Settings option for showing link previews. [Length: unlimited]">
+      <message name="IDS_IOS_SHOW_LINK_PREVIEWS" desc="Title for the view and option in Settings for showing link previews. [Length: unlimited] [iOS only]" meaning="Title for the Egon Settings option for showing link previews. [Length: unlimited]">
         Show Link Previews
       </message>
       <message name="IDS_IOS_BLUETOOTH_USAGE_DESCRIPTION" desc="Specifies the reason for using the device's bluetooth capabilities.">
@@ -529,7 +529,7 @@ locale.  The strings in this file are specific to iOS.
         Search bar is now easier to reach
       </message>
       <message name="IDS_IOS_CALENDARS_USAGE_DESCRIPTION" desc="Specifies the reason for accessing the user's calendar while the app is in use [Length: unlimited] [iOS only].">
-          This will be used to create events in your Apple Calendar from Chrome and Google Lens.
+          This will be used to create events in your Apple Calendar from Egon and Google Lens.
       </message>
       <message name="IDS_IOS_CONTACTS_USAGE_DESCRIPTION" desc="Specifies the reason for accessing the user's contacts while the app is in use [Length: unlimited] [iOS only].">
         This will be used to show you possible invitees to your event.
@@ -549,10 +549,10 @@ locale.  The strings in this file are specific to iOS.
       <message name="IDS_IOS_CLEAR_BROWSING_DATA_ACTIVITY_MODAL" desc="Message text for the activity indicator modal during clear browsing data.">
         Clearing browsing data...
       </message>
-      <message name="IDS_IOS_CLEAR_BROWSING_DATA_FOOTER_ACCOUNT" desc="Footer message in the settings to clear browsing data that informs the user that clearing browsing data will not sign them out of Chrome.">
+      <message name="IDS_IOS_CLEAR_BROWSING_DATA_FOOTER_ACCOUNT" desc="Footer message in the settings to clear browsing data that informs the user that clearing browsing data will not sign them out of Egon.">
         You won't be signed out of your Google Account.
       </message>
-      <message name="IDS_IOS_CLEAR_BROWSING_DATA_FOOTER_ACCOUNT_AND_HISTORY" desc="Footer message in the settings to clear browsing data that informs the user that clearing browsing data will not sign them out of Chrome and that other forms of history will still be available.">
+      <message name="IDS_IOS_CLEAR_BROWSING_DATA_FOOTER_ACCOUNT_AND_HISTORY" desc="Footer message in the settings to clear browsing data that informs the user that clearing browsing data will not sign them out of Egon and that other forms of history will still be available.">
         You won't be signed out of your Google Account. Your Google Account may have other forms of browsing history at <ph name="BEGIN_LINK">BEGIN_LINK</ph>history.google.com<ph name="END_LINK">END_LINK</ph>.
       </message>
       <message name="IDS_IOS_CLEAR_BROWSING_DATA_FOOTER_GOOGLE_DSE" desc="Footer message in the settings to clear browsing data that informs the user they can seperately delete their search history and/or other account info at the 2 links provided.">
@@ -682,7 +682,7 @@ See your search engine’s instructions for deleting your search history, if app
         Select Tabs
       </message>
       <message name="IDS_IOS_CONTENT_SUGGESTIONS_ACCESSIBILITY_LABEL_SUGGESTION" desc="The accessibility label of a suggestion. Summarizes fields in the reading list entry (title, publisher informations, status and informations). Read by Text-to-Speech.">
-        <ph name="TITLE"><ex>Learn about the new Chromium Projects</ex>$1</ph>, <ph name="PUBLISHER_INFORMATION"><ex>The Chromium organization</ex>$2</ph>, <ph name="PUBLICATION_DATE"><ex>January 1 2017</ex>$3</ph>
+        <ph name="TITLE"><ex>Learn about the new Egon Projects</ex>$1</ph>, <ph name="PUBLISHER_INFORMATION"><ex>The Egon organization</ex>$2</ph>, <ph name="PUBLICATION_DATE"><ex>January 1 2017</ex>$3</ph>
       </message>
       <message name="IDS_IOS_CONTENT_SUGGESTIONS_BOOKMARKS" desc="The Bookmarks title on the new tab page [Length: 10em]">
         Bookmarks
@@ -738,13 +738,13 @@ See your search engine’s instructions for deleting your search history, if app
       <message name="IDS_IOS_CONTEXT_MENU_SEARCHIMAGEWITHGOOGLE" desc="Context menu text for option to search an image with Google [Length: 25em] [iOS only]">
         Search Image with Google
       </message>
-      <message name="IDS_IOS_COPY_VERSION_HINT" desc="The accessibility hint for the label showing the Chrome version. [iOS only]">
+      <message name="IDS_IOS_COPY_VERSION_HINT" desc="The accessibility hint for the label showing the Egon version. [iOS only]">
         Double tap to copy.
       </message>
       <message name="IDS_IOS_OPEN_SETTINGS" desc="Text of the button that will take the user to the Settings page to configure the default browser [iOS only]">
         Open Settings
       </message>
-      <message name="IDS_IOS_DEFAULT_NON_MODAL_PRIMARY_BUTTON_TEXT" desc="Text of button that will take users to Chrome or iOS settings where they can change the default browser. Used in the non-modal default browser promo [iOS only]">
+      <message name="IDS_IOS_DEFAULT_NON_MODAL_PRIMARY_BUTTON_TEXT" desc="Text of button that will take users to Egon or iOS settings where they can change the default browser. Used in the non-modal default browser promo [iOS only]">
         Set…
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_REMIND_ME_LATER_BUTTON_TEXT" desc="Text of button that will show the default browser modal promo UI again at a later time.  [iOS only]">
@@ -777,7 +777,7 @@ See your search engine’s instructions for deleting your search history, if app
       <message name="IDS_IOS_DISCONNECT_DIALOG_TITLE_UNITY" desc="The title of the disconnect dialog [Length: 30em].">
         Sign out and turn off sync?
       </message>
-      <message name="IDS_IOS_DISCOVER_FEED_HEADER_IPH" desc="In-product help that points at the menu icon for the news feed on Chrome's new tab page. This string instructs the user to open the menu for settings that let them control the content that appears on the feed.">
+      <message name="IDS_IOS_DISCOVER_FEED_HEADER_IPH" desc="In-product help that points at the menu icon for the news feed on Egon's new tab page. This string instructs the user to open the menu for settings that let them control the content that appears on the feed.">
         Control your stories and activity here
       </message>
       <message name="IDS_IOS_DISCOVER_FEED_HEADER_TURNED_OFF_LABEL" desc="The message that appears in the feed header when the feed is turned off from the header menu. IMPORTANT: The 'Turn On' part of this string should match the content of IDS_IOS_DISCOVER_FEED_MENU_TURN_ON_ITEM so that users understand what menu option to select.">
@@ -967,7 +967,7 @@ See your search engine’s instructions for deleting your search history, if app
         To see updates from this site, follow it here.
       </message>
       <message name="IDS_IOS_FOLLOW_MANAGEMENT_EMPTY_TEXT" desc="The text of an empty following list.">
-        Visit a site and click Follow in the Chrome menu
+        Visit a site and click Follow in the Egon menu
       </message>
       <message name="IDS_IOS_FOLLOW_MANAGEMENT_EMPTY_TITLE" desc="The title of an empty following list.">
         You'll find your followed sites here
@@ -1005,16 +1005,16 @@ See your search engine’s instructions for deleting your search history, if app
       <message name="IDS_IOS_FIRST_RUN_SCREEN_READ_MORE" desc="The label on the primary button of some screens in the first run experience if the content requires scrolling to the end [iOS only]">
         More
       </message>
-      <message name="IDS_IOS_FIRST_RUN_SIGNIN_CONTINUE" desc="In Title Case: Button on the very first screen of Chrome to continue into Chrome. [iOS only]">
+      <message name="IDS_IOS_FIRST_RUN_SIGNIN_CONTINUE" desc="In Title Case: Button on the very first screen of Egon to continue into Egon. [iOS only]">
         Continue
       </message>
-      <message name="IDS_IOS_FIRST_RUN_SIGNIN_CONTINUE_AS" desc="In Title Case: Button to sign into Chrome with the displayed account and without having to reenter a password. Jessica is replaced with the user’s given name, or the user’s full name if the given name is not available. Ensure consistency with related OneGoogle sign-in buttons (TC ID 5569230012177947065). [iOS only]">
+      <message name="IDS_IOS_FIRST_RUN_SIGNIN_CONTINUE_AS" desc="In Title Case: Button to sign into Egon with the displayed account and without having to reenter a password. Jessica is replaced with the user’s given name, or the user’s full name if the given name is not available. Ensure consistency with related OneGoogle sign-in buttons (TC ID 5569230012177947065). [iOS only]">
         Continue as <ph name="FIRST_RUN_ACCOUNT_NAME">$1<ex>Jessica</ex></ph>
       </message>
-      <message name="IDS_IOS_FIRST_RUN_SIGNIN_DONT_SIGN_IN" desc="In Title Case: Button on the very first screen of Chrome to continue without signing into Chrome. [iOS only]">
+      <message name="IDS_IOS_FIRST_RUN_SIGNIN_DONT_SIGN_IN" desc="In Title Case: Button on the very first screen of Egon to continue without signing into Egon. [iOS only]">
         Don’t Sign In
       </message>
-      <message name="IDS_IOS_FIRST_RUN_SIGNIN_SIGN_IN_ACTION" desc="In Title Case: Button on the very first screen of Chrome for users to sign in when there is no Google Account on the device. [iOS only]">
+      <message name="IDS_IOS_FIRST_RUN_SIGNIN_SIGN_IN_ACTION" desc="In Title Case: Button on the very first screen of Egon for users to sign in when there is no Google Account on the device. [iOS only]">
         Sign In…
       </message>
       <message name="IDS_IOS_FIRST_RUN_SYNC_SCREEN_CONTENT_WITH_LINK_TO_SETTINGS" desc="Content string on the sync screen presented to the user on First Run [iOS only]">
@@ -1035,10 +1035,10 @@ See your search engine’s instructions for deleting your search history, if app
       <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_ACCEPT_BUTTON" desc="The label on the continue button of the welcome screen presented to the user on First Run [iOS only]">
         Accept and Continue
       </message>
-      <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_BROWSER_MANAGED" desc="Text to indicate that Chrome is managed by the user’s organization. [iOS only]">
+      <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_BROWSER_MANAGED" desc="Text to indicate that Egon is managed by the user’s organization. [iOS only]">
         Your browser is managed by your organization.
       </message>
-      <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_TERMS_OF_SERVICE" desc="The text is displayed in a footer on the very first screen of Chrome. The link ‘Terms of Service’ opens the Google Terms of Service. [iOS only]">
+      <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_TERMS_OF_SERVICE" desc="The text is displayed in a footer on the very first screen of Egon. The link ‘Terms of Service’ opens the Google Terms of Service. [iOS only]">
         By continuing, you agree to the <ph name="BEGIN_LINK">BEGIN_LINK</ph>Terms of Service<ph name="END_LINK">END_LINK</ph>.
       </message>
       <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_TITLE_IPAD" desc="The title of the welcome screen presented to the user on First Run when on iPad [iOS only]">
@@ -1048,7 +1048,7 @@ See your search engine’s instructions for deleting your search history, if app
         Built for Your iPhone
       </message>
       <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_MANAGED" desc="The disclaimer that the browser is managed on the welcome screen presented to the user on First Run when the browser is managed [iOS only]">
-        Your administrator has control over Chrome and can access its data
+        Your administrator has control over Egon and can access its data
       </message>
       <message name="IDS_IOS_FIRSTRUN_TERMS_TITLE" desc="Title for the Terms of Service page shown to user on First Run. [Length: 20em] [iOS only]">
         Terms of Service
@@ -1092,7 +1092,7 @@ See your search engine’s instructions for deleting your search history, if app
       <message name="IDS_IOS_GOOGLE_SERVICES_SETTINGS_ENTER_PASSPHRASE_TO_START_SYNC" desc="Title button to ask the user to tap their passphrase. The sync is blocked until the correct passphrase is entered">
         To start sync, enter your passphrase
       </message>
-      <message name="IDS_IOS_GOOGLE_SERVICES_SETTINGS_IMPROVE_CHROME_DETAIL" desc="Feature detail text in the settings for the user enable or disable. Related with 'Help improve Chrome's features and performance' feature. [iOS only]">
+      <message name="IDS_IOS_GOOGLE_SERVICES_SETTINGS_IMPROVE_CHROME_DETAIL" desc="Feature detail text in the settings for the user enable or disable. Related with 'Help improve Egon's features and performance' feature. [iOS only]">
         Automatically sends usage statistics and crash reports to Google.
       </message>
       <message name="IDS_IOS_GOOGLE_SERVICES_SETTINGS_TITLE" desc="Title for the view in the Settings for enabling/disabling Google services. [Length: 26em] [iOS only]">
@@ -1125,7 +1125,7 @@ See your search engine’s instructions for deleting your search history, if app
       <message name="IDS_IOS_HISTORY_EMPTY_TITLE" desc="Title shown on the History screen when there are no History entries.">
           You'll find your history here
       </message>
-      <message name="IDS_IOS_HISTORY_OTHER_FORMS_OF_HISTORY" desc="The notification at the top of the history page indicating that deleting Chrome browsing history will not delete other forms of history stored at Google My Activity.">
+      <message name="IDS_IOS_HISTORY_OTHER_FORMS_OF_HISTORY" desc="The notification at the top of the history page indicating that deleting Egon browsing history will not delete other forms of history stored at Google My Activity.">
         Your Google Account may have other forms of browsing history at <ph name="BEGIN_LINK">BEGIN_LINK</ph>history.google.com<ph name="END_LINK">END_LINK</ph>.
       </message>
       <message name="IDS_IOS_HTTP_LOGIN_DIALOG_PASSWORD_PLACEHOLDER" desc="The placeholder text for the password on the http login dialog [Length: 20em] [iOS only]">
@@ -1156,10 +1156,10 @@ See your search engine’s instructions for deleting your search history, if app
         more
       </message>
       <message name="IDS_IOS_INCOGNITO_INTERSTITIAL_OPEN_IN_CHROME_INCOGNITO" desc="Button to open a link from an external app in Incognito mode rather than a regular tab. [iOS only]">
-        Open in Chrome Incognito
+        Open in Egon Incognito
       </message>
       <message name="IDS_IOS_INCOGNITO_INTERSTITIAL_OPEN_IN_CHROME" desc="Button to open a link from an external app in a regular tab rather than in Incognito mode. [iOS only]">
-        Open in Chrome
+        Open in Egon
       </message>
       <message name="IDS_IOS_INCOGNITO_REAUTH_SYSTEM_DIALOG_REASON" desc="Text for system biometric authentication dialog to explain why authentication is required when the user attempts to authenticate to access Incognito tabs. [iOS only]">
         Use <ph name="BIOMETRIC_AUTHENITCATION_TYPE">$1<ex>Face ID</ex></ph> to unlock your Incognito tabs.
@@ -1215,39 +1215,39 @@ See your search engine’s instructions for deleting your search history, if app
       <message name="IDS_IOS_INSPECT_UI_CONSOLE_STOP_LOGGING" desc="The button on the top of the debugging page to stop JavaScript console logging [iOS only].">
         Stop Logging
       </message>
-      <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_TITLE" desc="Shortcut name to open URL in Chrome [iOS only].">
-        Open URLs in Chrome
+      <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_TITLE" desc="Shortcut name to open URL in Egon [iOS only].">
+        Open URLs in Egon
       </message>
-      <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_DESCRIPTION" desc="Shortcut description to open URLs in Chrome [iOS only].">
-        Opens the inputted URLs in Google Chrome.
+      <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_DESCRIPTION" desc="Shortcut description to open URLs in Egon [iOS only].">
+        Opens the inputted URLs in Google Egon.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_PARAMETER_COMBINATION_TITLE" desc="Apple Shortcuts.app format for displaying the URL input [iOS only].">
         Open ${url}
       </message>
-      <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_INCOGNITO_TITLE" desc="Shortcut name to open URL in Chrome in Incognito [iOS only].">
-        Open URLs in Chrome in Incognito
+      <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_INCOGNITO_TITLE" desc="Shortcut name to open URL in Egon in Incognito [iOS only].">
+        Open URLs in Egon in Incognito
       </message>
-      <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_INCOGNITO_DESCRIPTION" desc="Shortcut description to open URLs in Chrome in Incognito [iOS only].">
-        Opens the inputted URLs in Google Chrome in Incognito.
+      <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_INCOGNITO_DESCRIPTION" desc="Shortcut description to open URLs in Egon in Incognito [iOS only].">
+        Opens the inputted URLs in Google Egon in Incognito.
       </message>
       <message name="IDS_IOS_INTENTS_OPEN_IN_CHROME_INCOGNITO_PARAMETER_COMBINATION_TITLE" desc="Apple Shortcuts.app format for displaying the URL input [iOS only].">
         Open ${url} in Incognito
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_IN_CHROME_DESCRIPTION" desc="Siri Shortcut for search in chrome description [iOS only].">
-        Start a search in a new Chrome tab.
+        Start a search in a new Egon tab.
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_IN_CHROME_INVOCATION_PHRASE" desc="Siri Shortcut, spoken suggestion for search in chrome [iOS only].">
-        Search in Chrome
+        Search in Egon
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_IN_CHROME_TITLE" desc="Siri Shortcut for search in chrome title [iOS only].">
-          Search in Chrome
+          Search in Egon
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_IN_CHROME_SUGGEST_TITLE" desc="Siri Shortcut for search in chrome title [iOS only].">
-        Search in Chrome
+        Search in Egon
       </message>
       <message name="IDS_IOS_INTENTS_SEARCH_IN_CHROME_PARAMETER_COMBINATION_TITLE" desc="Apple Shortcuts App's format for displaying the user search phrase input, shown by the Siri Shortcut app when the
-          user is adding or editing a Search in Chrome shortcut[iOS only].">
-          Search ${searchPhrase} in Chrome
+          user is adding or editing a Search in Egon shortcut[iOS only].">
+          Search ${searchPhrase} in Egon
       </message>
       <message name="IDS_IOS_JAVA_SCRIPT_DIALOG_BLOCKING_BUTTON_TEXT" desc="The text used for the button added to JavaScript dialogs to prevent a page from spamming the user with endless alerts. [Length:27em]">
         Suppress Dialogs
@@ -1387,10 +1387,10 @@ See your search engine’s instructions for deleting your search history, if app
       <message name="IDS_IOS_MANAGE_SYNC_GOOGLE_ACTIVITY_CONTROLS_DESCRIPTION" desc="Subtitle for the cell to open 'Google Activity Controls' dialog.">
         Control how your browsing history is used to personalize Search and more
       </message>
-      <message name="IDS_IOS_MANAGE_SYNC_DATA_FROM_CHROME_SYNC_DESCRIPTION" desc="Subtitle for the cell to open 'Data from Chromium sync' web page where the user can control all their data data from sync.">
+      <message name="IDS_IOS_MANAGE_SYNC_DATA_FROM_CHROME_SYNC_DESCRIPTION" desc="Subtitle for the cell to open 'Data from Egon sync' web page where the user can control all their data data from sync.">
         Review your synced data
       </message>
-      <message name="IDS_IOS_MANAGED_DISCONNECT_DIALOG_ACCEPT_UNITY" desc="Label on the button to proceed with signout and clear all Chrome data.[Length: 30em].">
+      <message name="IDS_IOS_MANAGED_DISCONNECT_DIALOG_ACCEPT_UNITY" desc="Label on the button to proceed with signout and clear all Egon data.[Length: 30em].">
         Clear
       </message>
       <message name="IDS_IOS_MANAGED_SIGNIN_ACCEPT_BUTTON" desc="The title of the Accept button of the Sign in to a managed account dialog. [40em]">
@@ -1430,10 +1430,10 @@ See your search engine’s instructions for deleting your search history, if app
         Not secure
       </message>
       <message name="IDS_IOS_MANUAL_FALLBACK_NOT_SECURE_PASSWORD_BODY" desc="The body of the alert informing a user the password they selected won't be filled on the form." meaning="The field the user is trying to fill is not of password type  [80em]">
-        To protect your privacy, Chrome will not autofill your password in this field.
+        To protect your privacy, Egon will not autofill your password in this field.
       </message>
       <message name="IDS_IOS_MANUAL_FALLBACK_NOT_SECURE_GENERIC_BODY" desc="The body of the alert informing a user the content they selected won't be filled on the form." meaning="The form is not secure [80em]">
-        To protect your privacy, Chrome will not autofill this field.
+        To protect your privacy, Egon will not autofill this field.
       </message>
       <message name="IDS_IOS_MANUAL_FALLBACK_USE_OTHER_PASSWORD" desc="The title for the manual fallback UI with all passwords without filter." meaning="The title for a list where the user is about to select a password or username to be filled in a form [Length: 10em]">
         Passwords
@@ -1582,13 +1582,13 @@ See your search engine’s instructions for deleting your search history, if app
       <message name="IDS_IOS_OMNIBOX_PEDAL_SUBTITLE_LAUNCH_INCOGNITO" desc="Subtitle for the Open Incognito Tab acceleration pedal in the omnibox that should correspond to the path to the New Incognito Tab button">
        Menu → New Incognito Tab
       </message>
-      <message name="IDS_IOS_OMNIBOX_PEDAL_SUBTITLE_RUN_CHROME_SAFETY_CHECK" desc="Subtitle for the Run Chrome Safety Check acceleration pedal in the omnibox that should correspond to the path to the Safety Check dialog in Settings">
+      <message name="IDS_IOS_OMNIBOX_PEDAL_SUBTITLE_RUN_CHROME_SAFETY_CHECK" desc="Subtitle for the Run Egon Safety Check acceleration pedal in the omnibox that should correspond to the path to the Safety Check dialog in Settings">
        Menu → Settings → Safety Check
       </message>
       <message name="IDS_IOS_OMNIBOX_PEDAL_SUBTITLE_MANAGE_CHROME_SETTINGS" desc="Subtitle for the Manage Settings acceleration pedal in the omnibox that should correspond to the path to Settings">
        Menu → Settings
       </message>
-      <message name="IDS_IOS_OMNIBOX_PEDAL_SUBTITLE_VIEW_CHROME_HISTORY" desc="Subtitle for the View Your Chrome History acceleration pedal in the omnibox that should correspond to the path to History">
+      <message name="IDS_IOS_OMNIBOX_PEDAL_SUBTITLE_VIEW_CHROME_HISTORY" desc="Subtitle for the View Your Egon History acceleration pedal in the omnibox that should correspond to the path to History">
        Menu → History
       </message>
 
@@ -1604,10 +1604,10 @@ See your search engine’s instructions for deleting your search history, if app
       <message name="IDS_IOS_OPTIONS_ACCOUNTS_ADD_ACCOUNT_BUTTON" desc="The title of the Add account button on the accounts settings screen [iOS only] [30em]">
         Add Account…
       </message>
-      <message name="IDS_IOS_OPTIONS_ACCOUNTS_DESCRIPTION" desc="Text informing the user of the accounts they are signed in to Chrome with [iOS only] [150em]">
+      <message name="IDS_IOS_OPTIONS_ACCOUNTS_DESCRIPTION" desc="Text informing the user of the accounts they are signed in to Egon with [iOS only] [150em]">
         Signed In to Google as
       </message>
-      <message name="IDS_IOS_OPTIONS_ACCOUNTS_SYNC_IS_OFF" desc="Text informing the user that sync is off [iOS only] [60em]" meaning="The Chrome sync feature is off.">
+      <message name="IDS_IOS_OPTIONS_ACCOUNTS_SYNC_IS_OFF" desc="Text informing the user that sync is off [iOS only] [60em]" meaning="The Egon sync feature is off.">
         Off
       </message>
       <message name="IDS_IOS_OPTIONS_ACCOUNTS_SIGN_OUT_TURN_OFF_SYNC" desc="Title of the button to sign out and turn off sync. [iOS only]">
@@ -1910,7 +1910,7 @@ While in Incognito, sites can't use cookies to see your browsing activity across
       <message name="IDS_IOS_SAFE_BROWSING_STANDARD_PROTECTION_EXTENDED_REPORTING_SUMMARY" desc="Summary for Safe Browsing extended reporting.">
         Sends URLs of some pages you visit, limited system information, and some page content to Google, to help discover new threats and protect everyone on the web.
       </message>
-      <message name="IDS_IOS_SAFE_BROWSING_STANDARD_PROTECTION_LEAK_CHECK_TITLE" desc="Title for the switch toggling whether Chrome should check that entered credentials have been part of a leak.">
+      <message name="IDS_IOS_SAFE_BROWSING_STANDARD_PROTECTION_LEAK_CHECK_TITLE" desc="Title for the switch toggling whether Egon should check that entered credentials have been part of a leak.">
         Warn You if Passwords Are Exposed in a Data Breach
       </message>
       <message name="IDS_IOS_TABLE_VIEW_INFO_BUTTON_ITEM_ACCESSIBILITY_TAP" desc="Accessibility hint for info button items that have a tap functionality.">
@@ -1928,10 +1928,10 @@ While in Incognito, sites can't use cookies to see your browsing activity across
       <message name="IDS_IOS_TAILORED_SECURITY_TURN_ON_ACTION_TITLE" desc="Action shown in the iOS message when the account tailored security setting is enabled for an unconsented primary account">
         Turn On
       </message>
-      <message name="IDS_SAVE_PASSWORD_FOOTER" desc="The footer text of the infobar that offers user to save/update a password to Chrome.">
+      <message name="IDS_SAVE_PASSWORD_FOOTER" desc="The footer text of the infobar that offers user to save/update a password to Egon.">
         Passwords are saved in your Google Account so you can use them on any device.
       </message>
-      <message name="IDS_SAVE_PASSWORD_FOOTER_DISPLAYING_USER_EMAIL" desc="The footer text of the infobar that offers user to save/update a password to Chrome; also display's current user's email.">
+      <message name="IDS_SAVE_PASSWORD_FOOTER_DISPLAYING_USER_EMAIL" desc="The footer text of the infobar that offers user to save/update a password to Egon; also display's current user's email.">
         You can use saved passwords on any device. They're saved to Google Password Manager for <ph name="EMAIL">$1<ex>johndoe@gmail.com</ex></ph>
       </message>
       <message name="IDS_IOS_PERMISSIONS_CAMERA" desc="Usually used to show whether user has enabled a site's permission to use the device camera.">
@@ -1995,7 +1995,7 @@ While in Incognito, sites can't use cookies to see your browsing activity across
         You were signed out as part of your iPad reset. Tap continue below to sign in.
       </message>
       <message name="IDS_IOS_POST_RESTORE_SIGN_IN_ALERT_PROMO_TITLE" desc="The title text of the alert post restore sign-in promo. [iOS only]">
-        Chrome is Signed Out
+        Egon is Signed Out
       </message>
       <message name="IDS_IOS_POST_RESTORE_SIGN_IN_ALERT_PROMO_MESSAGE_IPHONE" desc="The message text of the alert post restore sign-in promo. [iOS only]">
         You were signed out of your account <ph name="USER_NAME">$1<ex>example@gmail.com</ex></ph> as part of your iPhone reset. Tap continue below to sign in.
@@ -2100,7 +2100,7 @@ While in Incognito, sites can't use cookies to see your browsing activity across
         Added to Reading List
       </message>
       <message name="IDS_IOS_READING_LIST_ENTRY_ACCESSIBILITY_LABEL" desc="Accessibility label for a reading list entry. Summarizes fields in the reading list entry (title, status and url). Read by Text To Speech.">
-        <ph name="TITLE"><ex>Chromium - The Chromium Projects</ex>$1</ph>, <ph name="STATE"><ex>Available offline</ex>$2</ph>, <ph name="URL"><ex>http://www.chromium.org/Home</ex>$3</ph>
+        <ph name="TITLE"><ex>Egon - The Egon Projects</ex>$1</ph>, <ph name="STATE"><ex>Available offline</ex>$2</ph>, <ph name="URL"><ex>http://www.chromium.org/Home</ex>$3</ph>
       </message>
       <message name="IDS_IOS_READING_LIST_ACCESSIBILITY_STATE_DOWNLOADED" desc="Accessibility label for the offline status of the reading list entry. Read by Text To Speech.">
         Available offline
@@ -2124,7 +2124,7 @@ While in Incognito, sites can't use cookies to see your browsing activity across
         Add
       </message>
       <message name="IDS_IOS_READING_LIST_MESSAGES_MODAL_DESCRIPTION" desc="Informational text explaining the utility of Reading List. [iOS only]">
-          You can save pages to read later or offline. Chrome will ask if you want to save long pages.
+          You can save pages to read later or offline. Egon will ask if you want to save long pages.
         </message>
       <message name="IDS_IOS_READING_LIST_MESSAGES_MODAL_NEVER_ASK" desc="Button text to indicate the user wants to be never shown the Add to Reading List prompt [iOS only]">
         Never Ask
@@ -2285,16 +2285,16 @@ While in Incognito, sites can't use cookies to see your browsing activity across
       <message name="IDS_IOS_SAFE_MODE_AW_SNAP" desc="The title of the safe mode UI after multiple crashes.  This is intended to be a humorous exclamation of dismay. [Length: 30em]">
         Aw, Snap!
       </message>
-      <message name="IDS_IOS_SAFE_MODE_CRASH_REPORT_SENT" desc="The message indicating that Chrome sent a crash report. [Length: 140em]">
+      <message name="IDS_IOS_SAFE_MODE_CRASH_REPORT_SENT" desc="The message indicating that Egon sent a crash report. [Length: 140em]">
         Crash report sent.
       </message>
-      <message name="IDS_IOS_SAFE_MODE_RELOAD_CHROME" desc="The label of a button used to start Chrome from safe mode.  Clicking this button dismisses the safe mode UI and launches Chrome. [Length: 30em]">
+      <message name="IDS_IOS_SAFE_MODE_RELOAD_CHROME" desc="The label of a button used to start Egon from safe mode.  Clicking this button dismisses the safe mode UI and launches Egon. [Length: 30em]">
         Try again
       </message>
-      <message name="IDS_IOS_SAFE_MODE_SENDING_CRASH_REPORT" desc="The message indicating that Chrome is sending a crash report. [Length: 140em]">
+      <message name="IDS_IOS_SAFE_MODE_SENDING_CRASH_REPORT" desc="The message indicating that Egon is sending a crash report. [Length: 140em]">
         Sending crash report...
       </message>
-      <message name="IDS_IOS_SAFE_MODE_UNKNOWN_CAUSE" desc="The message indicating that Chrome crashed for an unknown reason. [Length: 140em]">
+      <message name="IDS_IOS_SAFE_MODE_UNKNOWN_CAUSE" desc="The message indicating that Egon crashed for an unknown reason. [Length: 140em]">
         Something went really wrong. We'll work on that.
       </message>
       <message name="IDS_IOS_SAVE_IMAGE_ERROR" desc="Message informing the user that the image could not be saved because there was an error.">
@@ -2363,7 +2363,7 @@ While in Incognito, sites can't use cookies to see your browsing activity across
       <message name="IDS_IOS_SETTINGS_ADD_PASSWORD_FOOTER_NON_SYNCING" desc="Disclaimer telling non-syncing users what will happen to their passwords">
         Your password will be saved to your device.
       </message>
-      <message name="IDS_IOS_LEAK_CHECK_SWITCH" desc="Title for the switch toggling whether Chrome should check that entered credentials have been part of a leak.">
+      <message name="IDS_IOS_LEAK_CHECK_SWITCH" desc="Title for the switch toggling whether Egon should check that entered credentials have been part of a leak.">
         Warn You if Passwords Are Exposed in a Data Breach
       </message>
       <message name="IDS_IOS_LEAK_CHECK_SIGNED_OUT_ENABLED_DESC" desc="Text that describes the 'Password Leak Detection' functionality to signed-out users who have not disabled the feature.">
@@ -2452,16 +2452,16 @@ While in Incognito, sites can't use cookies to see your browsing activity across
         To export passwords, you must first set a passcode on your device.
       </message>
       <message name="IDS_IOS_SETTINGS_HEADER_TEXT" desc="Header of the Default Browser Settings page explaining the default browser feature's utility.">
-        You can open links in Chrome automatically by making it your Default Browser App.
+        You can open links in Egon automatically by making it your Default Browser App.
       </message>
       <message name="IDS_IOS_SETTINGS_FOLLOW_STEPS_BELOW_TEXT" desc="The prompt under the Default Browser Settings page's header text.">
         Follow the steps below:
       </message>
-      <message name="IDS_IOS_SETTINGS_OPEN_CHROME_SETTINGS_BUTTON_TEXT" desc="Label of the button that opens the Chrome panel in Settings.app">
-          Open Chrome Settings
+      <message name="IDS_IOS_SETTINGS_OPEN_CHROME_SETTINGS_BUTTON_TEXT" desc="Label of the button that opens the Egon panel in Settings.app">
+          Open Egon Settings
       </message>
       <message name="IDS_IOS_SETTINGS_OPEN_SETTINGS_STEP" desc="Text of the row indicating the first step of setting the default browser.">
-        1. Open Chrome Settings
+        1. Open Egon Settings
       </message>
       <message name="IDS_IOS_SETTINGS_SET_DEFAULT_BROWSER" desc="Label of the row that opens the Default Browser Settings page">
           Default Browser
@@ -2470,7 +2470,7 @@ While in Incognito, sites can't use cookies to see your browsing activity across
         2. Tap Default Browser App
       </message>
       <message name="IDS_IOS_SETTINGS_SELECT_CHROME_STEP" desc="Text of the row indicating the third step of setting the default browser.">
-        3. Select Chrome
+        3. Select Egon
       </message>
       <message name="IDS_IOS_SAVE_PASSWORDS_MANAGE_ACCOUNT" desc="Header text with link for the view in Settings for managing saved passwords. [Length: unlimited] [iOS only]">
         View and manage saved passwords at <ph name="BEGIN_LINK">BEGIN_LINK</ph>passwords.google.com<ph name="END_LINK">END_LINK</ph>
@@ -2552,10 +2552,10 @@ Try to use a unique password for every site.
       <message name="IDS_IOS_SEARCH_COPIED" desc="The message displayed when the search is copied via long press (contextual search) [Length: 10em] [iOS only]">
         Copied
       </message>
-      <message name="IDS_IOS_SEARCH_COPIED_IMAGE" desc="If a user has an image on their clipboard, this string will appear as an option when the user long-presses on Chrome's address bar. The user can select this option to search the default search engine for the image. This string is a complete sentence. If necessary for your language, you can translate as 'Search for Image That You Copied.' [iOS only]" meaning="Maximum characters: 32">
+      <message name="IDS_IOS_SEARCH_COPIED_IMAGE" desc="If a user has an image on their clipboard, this string will appear as an option when the user long-presses on Egon's address bar. The user can select this option to search the default search engine for the image. This string is a complete sentence. If necessary for your language, you can translate as 'Search for Image That You Copied.' [iOS only]" meaning="Maximum characters: 32">
           Search for Copied Image
       </message>
-      <message name="IDS_IOS_SEARCH_COPIED_TEXT" desc="If a user has some text on their clipboard, this string will appear as an option when the user long-presses on Chrome's address bar. The user can select this option to search the default search engine for the text. This string is a complete sentence. If necessary for your language, you can translate as 'Search for Text That You Copied.' [iOS only]" meaning="Maximum characters: 32">
+      <message name="IDS_IOS_SEARCH_COPIED_TEXT" desc="If a user has some text on their clipboard, this string will appear as an option when the user long-presses on Egon's address bar. The user can select this option to search the default search engine for the text. This string is a complete sentence. If necessary for your language, you can translate as 'Search for Text That You Copied.' [iOS only]" meaning="Maximum characters: 32">
           Search for Copied Text
       </message>
       <message name="IDS_IOS_DEFAULT_PAGE_MODE_DESKTOP" desc="The label used to let the user choose that their pages will be loaded using the Desktop mode (vs Mobile)" meaning="The pages will be loaded in Desktop mode">
@@ -2585,38 +2585,38 @@ Try to use a unique password for every site.
       <message name="IDS_IOS_SEARCH_ENGINE_SETTING_TITLE" desc="The title for Search Engine selection setting [iOS only]">
         Search Engine
       </message>
-      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS" desc="The title of the view that teaches users to turn on iOS auto-fill from Chrome password manager">
+      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS" desc="The title of the view that teaches users to turn on iOS auto-fill from Egon password manager">
         Passwords in Other Apps
       </message>
-      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_CAPTION" desc="The caption label below subtitle of the view that teaches users to turn off iOS auto-fill from Chrome password manager">
+      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_CAPTION" desc="The caption label below subtitle of the view that teaches users to turn off iOS auto-fill from Egon password manager">
         To turn off, open <ph name="BEGIN_LINK">BEGIN_LINK</ph>Settings<ph name="END_LINK">END_LINK</ph> and go to AutoFill Passwords.
       </message>
-      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_CAPTION_IOS16" desc="The caption label below subtitle of the view that teaches users to turn off iOS auto-fill from Chrome password manager on iOS 16 and above">
+      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_CAPTION_IOS16" desc="The caption label below subtitle of the view that teaches users to turn off iOS auto-fill from Egon password manager on iOS 16 and above">
         To turn off, open <ph name="BEGIN_LINK">BEGIN_LINK</ph>Settings<ph name="END_LINK">END_LINK</ph> and go to Password Options.
       </message>
-      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_SHORTENED_STEP_1" desc="Text of the row indicating the first step of shortened instruction of of turning on iOS auto-fill from Chrome password manager [iOS only]">
+      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_SHORTENED_STEP_1" desc="Text of the row indicating the first step of shortened instruction of of turning on iOS auto-fill from Egon password manager [iOS only]">
         Open AutoFill Password Settings
       </message>
-      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_SHORTENED_STEP_1_IOS16" desc="Text of the row indicating the first step of shortened instruction of of turning on iOS auto-fill from Chrome password manager on iOS 16 and above [iOS only]">
+      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_SHORTENED_STEP_1_IOS16" desc="Text of the row indicating the first step of shortened instruction of of turning on iOS auto-fill from Egon password manager on iOS 16 and above [iOS only]">
         Open Password Options
       </message>
-      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_STEP_1_IPAD" desc="Text of the row indicating the first step of full instruction of of turning on iOS auto-fill from Chrome password manager [iOS only]">
+      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_STEP_1_IPAD" desc="Text of the row indicating the first step of full instruction of of turning on iOS auto-fill from Egon password manager [iOS only]">
         1. Open iPad Settings
       </message>
-      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_STEP_1_IPHONE" desc="Text of the row indicating the first step of full instruction of of turning on iOS auto-fill from Chrome password manager [iOS only]">
+      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_STEP_1_IPHONE" desc="Text of the row indicating the first step of full instruction of of turning on iOS auto-fill from Egon password manager [iOS only]">
         1. Open iPhone Settings
       </message>
-      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_STEP_2" desc="Text of the row indicating the second step of full instruction of of turning on iOS auto-fill from Chrome password manager [iOS only]">
+      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_STEP_2" desc="Text of the row indicating the second step of full instruction of of turning on iOS auto-fill from Egon password manager [iOS only]">
         2. Tap Passwords
       </message>
-      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_STEP_3" desc="Text of the row indicating the third step of full instruction of of turning on iOS auto-fill from Chrome password manager [iOS only]">
+      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_STEP_3" desc="Text of the row indicating the third step of full instruction of of turning on iOS auto-fill from Egon password manager [iOS only]">
         3. Tap AutoFill Passwords
       </message>
-      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_STEP_3_IOS16" desc="Text of the row indicating the third step of full instruction of of turning on iOS auto-fill from Chrome password manager on iOS 16 and above [iOS only]">
+      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_STEP_3_IOS16" desc="Text of the row indicating the third step of full instruction of of turning on iOS auto-fill from Egon password manager on iOS 16 and above [iOS only]">
         3. Tap Password Options
       </message>
-      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_SUBTITLE" desc="The subtitle of the view that teaches users to turn on iOS auto-fill from Chrome password manager">
-        Use the passwords you saved to Chrome in other apps on your device
+      <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_SUBTITLE" desc="The subtitle of the view that teaches users to turn on iOS auto-fill from Egon password manager">
+        Use the passwords you saved to Egon in other apps on your device
       </message>
       <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_SUBTITLE_SYNCING_ENABLED" desc="The subtitle of the view that teaches password-syncing users they can access passwords from their other devices">
         You can also use saved passwords on your other devices.
@@ -2666,7 +2666,7 @@ Try to use a unique password for every site.
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_OPEN_SAFE_BROWSING_INFO" desc="String in the popover for the Safe Browsing check to direct the user to the Google Services page if Safe Browsing is disabled">
         To turn on Safe Browsing, open <ph name="BEGIN_LINK">BEGIN_LINK</ph>Google Services<ph name="END_LINK">END_LINK</ph> and tap Safe Browsing.
       </message>
-      <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_TITLE" desc="Title for the updates element of safety check" meaning="Row title to display the user's Chrome update status, and access upates [CHAR_LIMIT=20]">
+      <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_TITLE" desc="Title for the updates element of safety check" meaning="Row title to display the user's Egon update status, and access upates [CHAR_LIMIT=20]">
         Updates
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_ISSUES_FOUND_TIME" desc="Footer for the safety check section telling the user when issues were found.">
@@ -2811,10 +2811,10 @@ Try to use a unique password for every site.
         Send to Your Devices
       </message>
       <message name="IDS_SEND_TAB_TO_SELF_SIGN_IN_PROMO_LABEL" desc = "Text when a signed out user attempts to use send-tab-to-self, then sees a sign-in promo.">
-        To send this tab to another device, sign in to Chrome on both devices.
+        To send this tab to another device, sign in to Egon on both devices.
       </message>
       <message name="IDS_SEND_TAB_TO_SELF_NO_TARGET_DEVICE_LABEL" desc = "Text shown when a user with no available target devices attempts to use send-tab-to-self.">
-        To send this tab to another device, sign in to Chrome there.
+        To send this tab to another device, sign in to Egon there.
       </message>
       <message name="IDS_IOS_SHARE_PAGE_BUTTON_LABEL" desc="Label of a button which will initiate a share flow for the current page. [iOS only]">
         Share Page...
@@ -2936,7 +2936,7 @@ Try to use a unique password for every site.
       <message name="IDS_IOS_SIGN_IN_DISMISS" desc="Title displayed when there is an unknown failure in sign-in and the user needs to attempt to sign in again. [Length: 20em] [iOS only]">
        Dismiss 
       </message>
-      <message name="IDS_IOS_SIGN_IN_FAILED" desc="Explanatory message shown when Sign in to Chrome failed for an unknown technical reason.  [Length: 50em] [iOS only]">
+      <message name="IDS_IOS_SIGN_IN_FAILED" desc="Explanatory message shown when Sign in to Egon failed for an unknown technical reason.  [Length: 50em] [iOS only]">
         Failed to sign in. Please try again later.
       </message>
       <message name="IDS_IOS_WEBSIGN_ERROR_TITLE" desc="Title displayed when sign in fails due to an authentication issue. [iOS only]">
@@ -2970,7 +2970,7 @@ Try to use a unique password for every site.
         Now your saved bookmarks, passwords and more are at the top.
       </message>
       <message name="IDS_IOS_WHATS_NEW_FEATURE_NEW_MENU_STEP_1" desc="Text of the row indicating the first step of New Menu in What's New. [iOS only]">
-        Open the Chrome Menu
+        Open the Egon Menu
       </message>
       <message name="IDS_IOS_WHATS_NEW_FEATURE_NEW_MENU_STEP_2" desc="Text of the row indicating the second step of New Menu in What's New. [iOS only]">
         Explore the options in the menu bar
@@ -2997,7 +2997,7 @@ Try to use a unique password for every site.
         Easily add site passwords to Google Password Manager anytime.
       </message>
       <message name="IDS_IOS_WHATS_NEW_FEATURE_ADD_PASSWORDS_MANUALLY_STEP_1" desc="Text of the row indicating the first step of Share Highlight in What's New. [iOS only]">
-        Open Chrome Settings
+        Open Egon Settings
       </message>
       <message name="IDS_IOS_WHATS_NEW_FEATURE_ADD_PASSWORDS_MANUALLY_STEP_2" desc="Text of the row indicating the second step of Share Highlight in What's New. [iOS only]">
         Tap Passwords Manager Then Tap Add
@@ -3008,22 +3008,22 @@ Try to use a unique password for every site.
       <message name="IDS_IOS_WHATS_NEW_FEATURE_ADD_PASSWORDS_MANUALLY_BUTTON_TITLE" desc="Text of the primary button of Share Highlight in What's New. [iOS only]">
         Open Settings
       </message>
-      <message name="IDS_IOS_WHATS_CHROME_TIP_CHROME_DEFAULT_TITLE" desc="Use Chrome By Default title displayed in What's New. [iOS only]">
-        Use Chrome By Default
+      <message name="IDS_IOS_WHATS_CHROME_TIP_CHROME_DEFAULT_TITLE" desc="Use Egon By Default title displayed in What's New. [iOS only]">
+        Use Egon By Default
       </message>
-      <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_CHROME_DEFAULT_SUBTITLE" desc="Use Chrome By Default subtitle displayed in What's New. [iOS only]">
-        You can now use Chrome anytime you browse or tap links in messages, documents, and other apps.
+      <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_CHROME_DEFAULT_SUBTITLE" desc="Use Egon By Default subtitle displayed in What's New. [iOS only]">
+        You can now use Egon anytime you browse or tap links in messages, documents, and other apps.
       </message>
-      <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_CHROME_DEFAULT_STEP_1" desc="Text of the row indicating the first step of Use Chrome By Default in What's New. [iOS only]">
+      <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_CHROME_DEFAULT_STEP_1" desc="Text of the row indicating the first step of Use Egon By Default in What's New. [iOS only]">
         Open Settings
       </message>
-      <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_CHROME_DEFAULT_STEP_2" desc="Text of the row indicating the second step of Use Chrome By Default in What's New. [iOS only]">
+      <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_CHROME_DEFAULT_STEP_2" desc="Text of the row indicating the second step of Use Egon By Default in What's New. [iOS only]">
         Tap Default Browser App
       </message>
-      <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_CHROME_DEFAULT_STEP_3" desc="Text of the row indicating the third step of Use Chrome By Default in What's New. [iOS only]">
-        Select Chrome
+      <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_CHROME_DEFAULT_STEP_3" desc="Text of the row indicating the third step of Use Egon By Default in What's New. [iOS only]">
+        Select Egon
       </message>
-      <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_CHROME_DEFAULT_BUTTON_TITLE" desc="Text of the primary button of Use Chrome By Default in What's New. [iOS only]">
+      <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_CHROME_DEFAULT_BUTTON_TITLE" desc="Text of the primary button of Use Egon By Default in What's New. [iOS only]">
         Make Default in Settings...
       </message>
       <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_PASSWORDS_IN_OTHER_APPS_TITLE" desc="Passwords In Other Apps title displayed in What's New. [iOS only]">
@@ -3036,7 +3036,7 @@ Try to use a unique password for every site.
         Open AutoFill Password Settings
       </message>
       <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_PASSWORDS_IN_OTHER_APPS_STEP_2" desc="Text of the row indicating the second step of Passwords In Other Apps in What's New. [iOS only]">
-        Select Chrome
+        Select Egon
       </message>
       <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_PASSWORDS_IN_OTHER_APPS_BUTTON_TITLE" desc="Text of the primary button of Passwords In Other Apps in What's New. [iOS only]">
         Open Settings
@@ -3045,10 +3045,10 @@ Try to use a unique password for every site.
         Autofill
       </message>
       <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_AUTOFILL_SUBTITLE" desc="Autofill subtitle displayed in What's New. [iOS only]">
-        Save passwords, payment methods, and addresses for Chrome to autofill later.
+        Save passwords, payment methods, and addresses for Egon to autofill later.
       </message>
       <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_AUTOFILL_STEP_1" desc="Text of the row indicating the first step of Autofill in What's New. [iOS only]">
-        Open Chrome Settings
+        Open Egon Settings
       </message>
       <message name="IDS_IOS_WHATS_NEW_CHROME_TIP_AUTOFILL_STEP_2" desc="Text of the row indicating the second step of Autofill in What's New. [iOS only]">
         Open Passwords, Payment Methods, or Address and More
@@ -3062,7 +3062,7 @@ Try to use a unique password for every site.
       <message name="IDS_IOS_SIGN_IN_INVALID_ACCOUNT_TITLE" desc="Title of the alert displayed when the user sign in with a restricted account.">
         Sign in with a Valid Account
       </message>
-      <message name="IDS_IOS_SIGN_IN_TO_CHROME_SETTING_SUBTITLE" desc="The subtitle for the setting item to Sign in to Chrome [iOS only]">
+      <message name="IDS_IOS_SIGN_IN_TO_CHROME_SETTING_SUBTITLE" desc="The subtitle for the setting item to Sign in to Egon [iOS only]">
         Get your bookmarks, history, passwords, and other settings on all your devices.
       </message>
       <message name="IDS_IOS_SIGN_IN_TO_CHROME_SETTING_SUBTITLE_SYNC_MANAGED" desc="The subtitle for the setting item of the signed in user when sync is managed by policies [iOS only]">
@@ -3075,7 +3075,7 @@ Try to use a unique password for every site.
         Error code: <ph name="ERROR_CODE">$1<ex>2</ex></ph>
       </message>
       <message name="IDS_IOS_SIGNIN_ACCOUNT_NOTIFICATION_TITLE" desc="Notification title for the user's signed-in state [iOS only]">
-      Signed in to Chrome
+      Signed in to Egon
       </message>
       <message name="IDS_IOS_SIGNIN_ACCOUNT_NOTIFICATION_TITLE_WITH_USERNAME" desc="Notification title for the user's signed-in state that includes the user's full name [iOS only]">
       Signed in as <ph name="USER">$1<ex>Jane Doe</ex></ph>
@@ -3092,34 +3092,34 @@ Try to use a unique password for every site.
       <message name="IDS_IOS_SIGNOUT_DIALOG_MESSAGE_WITH_SYNC" desc="The text describes that sync will be off when user signs out [iOS only].">
         Signing out turns off sync.
       </message>
-      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_EIGHT" desc="Keyword used in Spotlight that will be linked to the Chrome App. [iOS only]">
+      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_EIGHT" desc="Keyword used in Spotlight that will be linked to the Egon App. [iOS only]">
         Online
       </message>
-      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_FIVE" desc="Keyword used in Spotlight that will be linked to the Chrome App. [iOS only]">
+      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_FIVE" desc="Keyword used in Spotlight that will be linked to the Egon App. [iOS only]">
         Browse
       </message>
-      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_FOUR" desc="Keyword used in Spotlight that will be linked to the Chrome App. [iOS only]">
+      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_FOUR" desc="Keyword used in Spotlight that will be linked to the Egon App. [iOS only]">
         Search
       </message>
-      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_NINE" desc="Keyword used in Spotlight that will be linked to the Chrome App. [iOS only]">
+      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_NINE" desc="Keyword used in Spotlight that will be linked to the Egon App. [iOS only]">
         Autofill
       </message>
-      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_ONE" desc="Keyword used in Spotlight that will be linked to the Chrome App. [iOS only]">
+      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_ONE" desc="Keyword used in Spotlight that will be linked to the Egon App. [iOS only]">
         Incognito
       </message>
-      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_SEVEN" desc="Keyword used in Spotlight that will be linked to the Chrome App. [iOS only]">
+      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_SEVEN" desc="Keyword used in Spotlight that will be linked to the Egon App. [iOS only]">
         Network
       </message>
-      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_SIX" desc="Keyword used in Spotlight that will be linked to the Chrome App. [iOS only]">
+      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_SIX" desc="Keyword used in Spotlight that will be linked to the Egon App. [iOS only]">
         www
       </message>
-      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_TEN" desc="Keyword used in Spotlight that will be linked to the Chrome App. [iOS only]">
+      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_TEN" desc="Keyword used in Spotlight that will be linked to the Egon App. [iOS only]">
         Sync
       </message>
-      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_THREE" desc="Keyword used in Spotlight that will be linked to the Chrome App. [iOS only]">
+      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_THREE" desc="Keyword used in Spotlight that will be linked to the Egon App. [iOS only]">
         Private
       </message>
-      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_TWO" desc="Keyword used in Spotlight that will be linked to the Chrome App. [iOS only]">
+      <message name="IDS_IOS_SPOTLIGHT_KEYWORD_TWO" desc="Keyword used in Spotlight that will be linked to the Egon App. [iOS only]">
         Internet
       </message>
       <message name="IDS_IOS_SUGGESTIONS_DONE" desc="Label of the navigation bar button to close the view.">
@@ -3200,7 +3200,7 @@ Your data was encrypted with your sync passphrase on <ph name="TIME">$2<ex>Sept 
       <message name="IDS_IOS_SYNC_INCORRECT_PASSPHRASE" desc="Message when the passphrase is incorrect.">
         Incorrect passphrase
       </message>
-      <message name="IDS_IOS_SYNC_INFOBAR_SIGN_IN_SETTINGS_BUTTON_MOBILE" desc="Infobar button on Chrome Welcome page to let the user access the Sing in settings view. [Length: 20em]">
+      <message name="IDS_IOS_SYNC_INFOBAR_SIGN_IN_SETTINGS_BUTTON_MOBILE" desc="Infobar button on Egon Welcome page to let the user access the Sing in settings view. [Length: 20em]">
         Sign in settings
       </message>
       <message name="IDS_IOS_SYNC_LOGIN_INFO_OUT_OF_DATE" desc="The login information for the user is out of date - for example, the user changed their password and therefore signing in again is required.">
@@ -3410,7 +3410,7 @@ Your data was encrypted with your sync passphrase on <ph name="TIME">$2<ex>Sept 
       <message name="IDS_IOS_TABS_SEARCH_SUGGESTED_ACTION_SEARCH_WEB" desc="Title for a suggested action presented at the end of search results to search the web for the same search term.">
         Search on Web
       </message>
-      <message name="IDS_IOS_TANGIBLE_SYNC_DISCLAIMER" desc="This string appears in the footer on a full-page screen that asks users if they want to turn on sync. 'Sync' is short for 'synchronization'. The first sentence informs the user where they can go to change their mind or to customize what Chrome/Chromium data types they choose to sync (a user's Chrome/Chromium data includes their bookmarks, passwords, history, settings, and more). The second sentence informs the user that if they choose to sync, then their history may be used to personalize Search and other services. Translate 'history' according to https://localization.google.com/glossary/termset?gid=27517723&amp;tsid=59c3162. [iOS only][CHAR_LIMIT=200].">
+      <message name="IDS_IOS_TANGIBLE_SYNC_DISCLAIMER" desc="This string appears in the footer on a full-page screen that asks users if they want to turn on sync. 'Sync' is short for 'synchronization'. The first sentence informs the user where they can go to change their mind or to customize what Egon/Egon data types they choose to sync (a user's Egon/Egon data includes their bookmarks, passwords, history, settings, and more). The second sentence informs the user that if they choose to sync, then their history may be used to personalize Search and other services. Translate 'history' according to https://localization.google.com/glossary/termset?gid=27517723&amp;tsid=59c3162. [iOS only][CHAR_LIMIT=200].">
         You can always choose what to sync in <ph name="BEGIN_LINK">BEGIN_LINK</ph>settings<ph name="END_LINK">END_LINK</ph>. Google may personalize Search and other services based on your history.
       </message>
       <message name="IDS_IOS_TANGIBLE_SYNC_DATA_TYPE_BOOKMARKS" desc="This string appears as an item in a list of sync data types on a full-page screen that asks users if they want to turn on sync. Translate 'bookmarks' according to https://localization.google.com/glossary/termset?gid=27517723&amp;tsid=59c31bb. [iOS only][CHAR_LIMIT=25]">
@@ -3428,13 +3428,13 @@ Your data was encrypted with your sync passphrase on <ph name="TIME">$2<ex>Sept 
       <message name="IDS_IOS_TANGIBLE_SYNC_TITLE_TURN_ON_SYNC" desc="This string appears as a heading on a full-page screen that asks users if they want to turn on sync. 'Sync' is short for 'synchronization'. The tone should be informative and inviting. [iOS only][CHAR_LIMIT=35]">
         Turn On Sync
       </message>
-      <message name="IDS_IOS_TANGIBLE_SYNC_SUBTITLE_BACK_UP" desc="This string appears as a subheading a full-page screen that asks users if they want to turn on sync. This string explains to users that they can back up their Chrome/Chromium data and use it on all their computers, phones, and other devices; a user's Chrome/Chromium data includes their bookmarks, passwords, history, settings, and more. The word 'stuff' can be translated as 'data' or similar if there is no natural translation of 'stuff'. Maintain the level of formality that your language generally uses in the Chrome/Chromium app. The tone should be informative and inviting. [iOS only][CHAR_LIMIT=100]">
+      <message name="IDS_IOS_TANGIBLE_SYNC_SUBTITLE_BACK_UP" desc="This string appears as a subheading a full-page screen that asks users if they want to turn on sync. This string explains to users that they can back up their Egon/Egon data and use it on all their computers, phones, and other devices; a user's Egon/Egon data includes their bookmarks, passwords, history, settings, and more. The word 'stuff' can be translated as 'data' or similar if there is no natural translation of 'stuff'. Maintain the level of formality that your language generally uses in the Egon/Egon app. The tone should be informative and inviting. [iOS only][CHAR_LIMIT=100]">
         Back up your stuff and use it on any device.
       </message>
-      <message name="IDS_IOS_TANGIBLE_SYNC_SUBTITLE_SYNC" desc="This string appears as a subheading a full-page screen that asks users if they want to turn on sync. This string explains to users that they can get their Chrome data on all their computers, phones, and other devices; a user's Chrome data includes their bookmarks, passwords, history, settings, and more. Maintain the level of formality that your language generally uses in the Chrome app. The tone should be informative and inviting. [iOS only][CHAR_LIMIT=100]">
+      <message name="IDS_IOS_TANGIBLE_SYNC_SUBTITLE_SYNC" desc="This string appears as a subheading a full-page screen that asks users if they want to turn on sync. This string explains to users that they can get their Egon data on all their computers, phones, and other devices; a user's Egon data includes their bookmarks, passwords, history, settings, and more. Maintain the level of formality that your language generally uses in the Egon app. The tone should be informative and inviting. [iOS only][CHAR_LIMIT=100]">
         Sync your data on all devices.
       </message>
-      <message name="IDS_IOS_TANGIBLE_SYNC_TURN_ON_SYNC" desc="This string appears as the primary button on a full-page screen that asks users if they want to turn on sync. It appears when the user launches Chrome for the first time, after they have signed in. When the user chooses this button, they opt in to the sync feature. The tone should be straightforward. [CHAR_LIMIT=15][iOS only]">
+      <message name="IDS_IOS_TANGIBLE_SYNC_TURN_ON_SYNC" desc="This string appears as the primary button on a full-page screen that asks users if they want to turn on sync. It appears when the user launches Egon for the first time, after they have signed in. When the user chooses this button, they opt in to the sync feature. The tone should be straightforward. [CHAR_LIMIT=15][iOS only]">
         Turn On
       </message>
       <message name="IDS_IOS_TERMS_OF_SERVICE" desc="The label to access the terms of service, displayed in the application settings, with no product name. [Length: 30em] [iOS only]">
@@ -3548,14 +3548,14 @@ Your data was encrypted with your sync passphrase on <ph name="TIME">$2<ex>Sept 
       <message name="IDS_IOS_TOOLS_MENU_RECENT_TABS" desc="The iOS menu item for opening the panel showing the recently closed tabs and the tabs from other devices." meaning="[In Title case] [iOS only] [Length: Unlimited]">
         Recent Tabs
       </message>
-      <message name="IDS_IOS_OVERFLOW_MENU_SHARE_CHROME" desc="The iOS menu item for opening a share sheet with the URL to the Chrome app in the iOS app store" meaning="[In Title case] [iOS only] [Length: Unlimited]">
-        Share Chrome
+      <message name="IDS_IOS_OVERFLOW_MENU_SHARE_CHROME" desc="The iOS menu item for opening a share sheet with the URL to the Egon app in the iOS app store" meaning="[In Title case] [iOS only] [Length: Unlimited]">
+        Share Egon
       </message>
-      <message name="IDS_IOS_OVERFLOW_MENU_SHARE_CHROME_TITLE" desc="The title displayed along with the app store link to Chrome, when sharing the chrome app" meaning="[In Title case] [iOS only] [Length: Unlimited]">
-        Chrome for Mobile
+      <message name="IDS_IOS_OVERFLOW_MENU_SHARE_CHROME_TITLE" desc="The title displayed along with the app store link to Egon, when sharing the chrome app" meaning="[In Title case] [iOS only] [Length: Unlimited]">
+        Egon for Mobile
       </message>
-      <message name="IDS_IOS_OVERFLOW_MENU_SHARE_CHROME_DESC" desc="The description displayed along with the app store link to Chrome, when sharing the chrome app" meaning="[In Title case] [iOS only] [Length: Unlimited]">
-        Download Chrome here.
+      <message name="IDS_IOS_OVERFLOW_MENU_SHARE_CHROME_DESC" desc="The description displayed along with the app store link to Egon, when sharing the chrome app" meaning="[In Title case] [iOS only] [Length: Unlimited]">
+        Download Egon here.
       </message>
       <message name="IDS_IOS_TOOLS_MENU_RELOAD" desc="The title of the button in the menu allowing the user to reload the page.">
         Reload
@@ -3566,10 +3566,10 @@ Your data was encrypted with your sync passphrase on <ph name="TIME">$2<ex>Sept 
       <message name="IDS_IOS_TOOLS_MENU_REQUEST_MOBILE_SITE" desc="The iOS menu item for requesting the mobile site [iOS only]" meaning="Request the mobile version of the current web site. [Length: Unlimited]">
         Request Mobile Site
       </message>
-      <message name="IDS_IOS_TOOLS_MENU_SEARCH_COPIED_IMAGE" desc="If a user has an image on their clipboard, this string will appear as an option when the user long-presses on Chrome's search icon. The user can select this option to search the default search engine for the image. This string is a complete sentence. If necessary for your language, you can translate as 'Search for Image That You Copied.'" meaning="[Length:Unlimited]">
+      <message name="IDS_IOS_TOOLS_MENU_SEARCH_COPIED_IMAGE" desc="If a user has an image on their clipboard, this string will appear as an option when the user long-presses on Egon's search icon. The user can select this option to search the default search engine for the image. This string is a complete sentence. If necessary for your language, you can translate as 'Search for Image That You Copied.'" meaning="[Length:Unlimited]">
         Search for Image You Copied
       </message>
-      <message name="IDS_IOS_TOOLS_MENU_SEARCH_COPIED_TEXT" desc="If a user has some text on their clipboard, this string will appear as an option when the user long-presses on Chrome's search icon. The user can select this option to search the default search engine for the text. This string is a complete sentence. If necessary for your language, you can translate as 'Search for Text That You Copied.'" meaning="[Length:Unlimited]">
+      <message name="IDS_IOS_TOOLS_MENU_SEARCH_COPIED_TEXT" desc="If a user has some text on their clipboard, this string will appear as an option when the user long-presses on Egon's search icon. The user can select this option to search the default search engine for the text. This string is a complete sentence. If necessary for your language, you can translate as 'Search for Text That You Copied.'" meaning="[Length:Unlimited]">
           Search for Text You Copied
       </message>
       <message name="IDS_IOS_TOOLS_MENU_SETTINGS" desc="The iOS menu item for opening the settings [iOS only]" meaning="Open the settings menu. [Length:Unlimited]">
@@ -3587,7 +3587,7 @@ Your data was encrypted with your sync passphrase on <ph name="TIME">$2<ex>Sept 
       <message name="IDS_IOS_TOOLS_MENU_TEXT_ZOOM" desc="The iOS menu item for zooming the page's text.">
         Zoom Text…
       </message>
-      <message name="IDS_IOS_TOOLS_MENU_VISIT_COPIED_LINK" desc="If a user has a URL on their clipboard, this string will appear as an option when the user long-presses on Chrome's search icon. The user can select this option to visit the URL. This string is a complete sentence. If necessary for your language, you can translate as 'Visit Link That You Copied.'" meaning="[Lenth: unlimited]">
+      <message name="IDS_IOS_TOOLS_MENU_VISIT_COPIED_LINK" desc="If a user has a URL on their clipboard, this string will appear as an option when the user long-presses on Egon's search icon. The user can select this option to visit the URL. This string is a complete sentence. If necessary for your language, you can translate as 'Visit Link That You Copied.'" meaning="[Lenth: unlimited]">
           Visit Link You Copied
       </message>
       <message name="IDS_IOS_TOOLS_MENU_VOICE_SEARCH" desc="The iOS menu item for opening Voice Search.">
@@ -3701,10 +3701,10 @@ Your data was encrypted with your sync passphrase on <ph name="TIME">$2<ex>Sept 
       <message name="IDS_IOS_UPGRADE_AVAILABLE_BUTTON" desc="Displayed on a button the user can use to upgrade the a more recent version of the application. [Length: 10em]">
         Update
       </message>
-      <message name="IDS_IOS_VISIT_COPIED_LINK" desc="If a user has a URL on their clipboard, this string will appear as an option when the user long-presses on Chrome's address bar. The user can select this option to visit the URL. This string is a complete sentence. If necessary for your language, you can translate as 'Visit Link That You Copied.' [iOS only]" meaning="Maximum characters: 32">
+      <message name="IDS_IOS_VISIT_COPIED_LINK" desc="If a user has a URL on their clipboard, this string will appear as an option when the user long-presses on Egon's address bar. The user can select this option to visit the URL. This string is a complete sentence. If necessary for your language, you can translate as 'Visit Link That You Copied.' [iOS only]" meaning="Maximum characters: 32">
           Visit Copied Link
       </message>
-      <message name="IDS_IOS_VERSION" desc="The label for the Chrome version on which the application is based, displayed in the About Chrome settings page [Length: 30em] [iOS only]">
+      <message name="IDS_IOS_VERSION" desc="The label for the Egon version on which the application is based, displayed in the About Egon settings page [Length: 30em] [iOS only]">
         Version <ph name="PRODUCT_VERSION">$1<ex>31.0.1650.18</ex></ph>
       </message>
       <message name="IDS_IOS_VERSION_COPIED" desc="The message displayed when the version label is tapped (in About settings) [Length: 10em] [iOS only]">
@@ -3722,13 +3722,13 @@ Your data was encrypted with your sync passphrase on <ph name="TIME">$2<ex>Sept 
       <message name="IDS_IOS_SIGNIN_PROMO_BOOKMARKS_WITH_UNITY" desc="Text to inform the user that they can sign in and sync to get bookmarks shared between devices. [iOS only]">
         To get your bookmarks on all your devices, turn on sync.
       </message>
-      <message name="IDS_IOS_SIGNIN_PROMO_CHANGE_ACCOUNT" desc="Button that the user can press if they are not the profile that Chrome found (opposite of 'Continue as Joe Doe'). The user will be able to choose another account and sign-in with it.">
+      <message name="IDS_IOS_SIGNIN_PROMO_CHANGE_ACCOUNT" desc="Button that the user can press if they are not the profile that Egon found (opposite of 'Continue as Joe Doe'). The user will be able to choose another account and sign-in with it.">
         Choose Another Account
       </message>
       <message name="IDS_IOS_SIGNIN_PROMO_CLOSE_ACCESSIBILITY" desc="Accessibility label to describe the close button action in the sign-in promo element.">
         Close sign-in promo
       </message>
-      <message name="IDS_IOS_SIGNIN_PROMO_CONTINUE_AS" desc="Button that the user can press to login without asking the password and continue using Chrome with this acccount. [Length: 9em]">
+      <message name="IDS_IOS_SIGNIN_PROMO_CONTINUE_AS" desc="Button that the user can press to login without asking the password and continue using Egon with this acccount. [Length: 9em]">
         Continue as <ph name="NAME">$1<ex>John Doe</ex></ph>
       </message>
       <message name="IDS_IOS_SIGNIN_PROMO_RECENT_TABS_WITH_UNITY" desc="Text to inform the user that they can sign in and sync to get tabs shared between devices. [iOS only]">
@@ -3801,7 +3801,7 @@ Your data was encrypted with your sync passphrase on <ph name="TIME">$2<ex>Sept 
           Create Link
       </message>
       <message name="IDS_IOS_UI_BLOCKED_USE_OTHER_WINDOW_DESCRIPTION" desc="Explanatory text that appears when the user has multiple windows open, and one window is showing a dialog that has to be interacted with before any other window can be used. [iOS only]">
-          Finish what you were doing in your other open Chrome window.
+          Finish what you were doing in your other open Egon window.
       </message>
       <message name="IDS_IOS_UI_BLOCKED_USE_OTHER_WINDOW_SWITCH_WINDOW_ACTION" desc="Button label that appears on a button to switch to some other window, when the user has multiple windows open, and one window is showing a dialog that has to be interacted with before any other window can be used.">
           Switch to Open Window
@@ -3820,8 +3820,8 @@ Your data was encrypted with your sync passphrase on <ph name="TIME">$2<ex>Sept 
       </message>
       <message name="IDS_IOS_WINDOW_COUNT_CHANGE" is_accessibility_with_no_ui="true" desc="VoiceOver text spoken when the count of visible windows changes -- note: this text is only spoken, never displayed on screen">
         {count, plural,
-          =1 {Now showing 1 Chrome window}
-          other {Now showing {count} Chrome windows}}
+          =1 {Now showing 1 Egon window}
+          other {Now showing {count} Egon windows}}
       </message>
       <message name="IDS_IOS_WHATS_NEW_TITLE" desc="Title of the What's new Feature">
         What's New
@@ -3830,7 +3830,7 @@ Your data was encrypted with your sync passphrase on <ph name="TIME">$2<ex>Sept 
         Learn More
       </message>
       <message name="IDS_IOS_WHATS_NEW_SECTION_CHROME_TIP_TITLE" desc="Title of a section in a table view to inform users about a chrome tip.">
-        Chrome Tip
+        Egon Tip
       </message>
       <message name="IDS_IOS_WHATS_NEW_SECTION_FEATURED_TITLE" desc="Title of a section in a table view to inform users about the newest feature.">
         Featured

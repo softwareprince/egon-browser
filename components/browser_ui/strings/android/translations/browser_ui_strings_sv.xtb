@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Flytta reglaget tills du kan läsa texten ordentligt. Texten bör bli åtminstone så här stor när du trycker två gånger på ett stycke.</translation>
 <translation id="2329473609445770916">På den här webbplatsen definieras intressen som andra webbplatser kan använda för sina annonser</translation>
 <translation id="2359808026110333948">Fortsätt</translation>
-<translation id="2379925928934107488">Använd mörkt tema på webbplatser om Chrome använder mörkt tema, när det är möjligt</translation>
+<translation id="2379925928934107488">Använd mörkt tema på webbplatser om Egon använder mörkt tema, när det är möjligt</translation>
 <translation id="2387895666653383613">Textskalning</translation>
 <translation id="2390272837142897736">Öka zoom</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">Från webben</translation>
 <translation id="321187648315454507">Om du vill få aviseringar från <ph name="APP_NAME" /> måste du även aktivera aviseringar i <ph name="BEGIN_LINK" />Android-inställningarna<ph name="END_LINK" />.</translation>
 <translation id="3227137524299004712">Mikrofon</translation>
-<translation id="3248611290851046188">På den här webbplatsen definieras intressen som andra webbplatser kan använda för sina annonser. Webbplatsen hämtar dessutom dina intressen från Chrome för att visa mer relevanta annonser för dig.</translation>
+<translation id="3248611290851046188">På den här webbplatsen definieras intressen som andra webbplatser kan använda för sina annonser. Webbplatsen hämtar dessutom dina intressen från Egon för att visa mer relevanta annonser för dig.</translation>
 <translation id="3277252321222022663">Tillåt att webbplatser får åtkomst till enhetens sensorer (rekommenderas)</translation>
 <translation id="3285500645985761267">Tillåt att relaterade webbplatser ser din aktivitet i gruppen</translation>
 <translation id="3295019059349372795">Kapitel 11: Den underbara Smaragdstaden</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783"><ph name="DATASIZE" /> data och cookies som har sparats av webbplatser rensas.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(+ 1 till)}other{(+ # till)}}</translation>
 <translation id="5403592356182871684">Namn</translation>
-<translation id="5412236728747081950">Den här webbplatsen hämtar dina intressen från Chrome för att visa mer relevanta annonser för dig</translation>
+<translation id="5412236728747081950">Den här webbplatsen hämtar dina intressen från Egon för att visa mer relevanta annonser för dig</translation>
 <translation id="5438097262470833822">Detta återställer behörigheter för <ph name="WEBSITE" /></translation>
 <translation id="5489227211564503167">Förfluten tid: <ph name="ELAPSED_TIME" /> av <ph name="TOTAL_TIME" />.</translation>
 <translation id="5494752089476963479">Blockera annonser på webbplatser där påträngande eller vilseledande annonser visas</translation>

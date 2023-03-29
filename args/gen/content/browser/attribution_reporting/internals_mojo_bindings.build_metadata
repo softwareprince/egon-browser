@@ -1,0 +1,10 @@
+{
+  "deps": [
+    "mojo_bindings.build_metadata",
+    "../../../components/attribution_reporting/source_registration_error_mojom.build_metadata",
+    "../../../url/mojom/url_mojom_origin.build_metadata"
+  ],
+  "sources": [
+    "../../../../../content/browser/attribution_reporting/attribution_internals.mojom"
+  ]
+}

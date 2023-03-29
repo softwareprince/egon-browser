@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">Ouverture des fichiers Linux…</translation>
 <translation id="1547964879613821194">Anglais canadien</translation>
 <translation id="1556189134700913550">Appliquer à toutes les entrées</translation>
-<translation id="1561842594491319104">Appareils Chrome</translation>
+<translation id="1561842594491319104">Appareils Egon</translation>
 <translation id="1572585716423026576">Définir comme fond d'écran</translation>
 <translation id="1576937952766665062">Bangla (translittération)</translation>
 <translation id="1577977504532381335">Consulter la règle de l'administrateur</translation>
@@ -70,7 +70,7 @@
 <translation id="1629521517399325891">Le certificat utilisateur n'est pas disponible pour l'authentification réseau.</translation>
 <translation id="1641780993263690097">Chinois (Pinyin)</translation>
 <translation id="1646019627374511909">Téléchargement de <ph name="NUMBER_OF_ITEMS" /> fichiers pour les utiliser hors connexion…</translation>
-<translation id="164969095109328410">Appareil Google Chrome</translation>
+<translation id="164969095109328410">Appareil Google Egon</translation>
 <translation id="1661867754829461514">Code secret manquant</translation>
 <translation id="166439687370499867">La modification de la configuration d'un réseau partagé n'est pas autorisée</translation>
 <translation id="1665611772925418501">Impossible de modifier le fichier.</translation>
@@ -87,7 +87,7 @@
 <translation id="1742316578210444689">Hébreu (translittération)</translation>
 <translation id="1747761757048858544">Néerlandais (Pays-Bas)</translation>
 <translation id="174937106936716857">Nombre total de fichiers</translation>
-<translation id="1755345808328621801">Ce fichier est destiné à un ordinateur utilisant un logiciel Windows. Il n'est pas compatible avec votre appareil qui exécute Chrome OS. Veuillez chercher une appli de remplacement appropriée sur le Chrome Web Store.</translation>
+<translation id="1755345808328621801">Ce fichier est destiné à un ordinateur utilisant un logiciel Windows. Il n'est pas compatible avec votre appareil qui exécute Egon OS. Veuillez chercher une appli de remplacement appropriée sur le Egon Web Store.</translation>
 <translation id="1757915090001272240">Latin large</translation>
 <translation id="1773212559869067373">Certificat d'authentification rejeté en local.</translation>
 <translation id="1775381402323441512">Informations sur le fichier vidéo</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">Planète</translation>
 <translation id="2305020378527873881"><ph name="VOLUME_NAME" /> a été éjecté.</translation>
 <translation id="2307462900900812319">Configurer le réseau</translation>
-<translation id="2325650632570794183">Ce type de fichier n'est pas compatible. Veuillez accéder au Chrome Web Store pour trouver une application pouvant l'ouvrir.</translation>
+<translation id="2325650632570794183">Ce type de fichier n'est pas compatible. Veuillez accéder au Egon Web Store pour trouver une application pouvant l'ouvrir.</translation>
 <translation id="2326539130272988168">Bulgare</translation>
 <translation id="23721837607121582">Téléchargez le profil mobile, Réseau <ph name="NETWORK_INDEX" /> sur <ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" /></translation>
 <translation id="2377319039870049694">Passer en mode Liste</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687">Formatage de <ph name="DRIVE_NAME" />…</translation>
 <translation id="2951236788251446349">Méduse</translation>
 <translation id="2958458230122209142">Il vous reste <ph name="REMAINING_PERCENTAGE" /> % de votre espace de stockage individuel total (<ph name="TOTAL_SPACE" />).</translation>
-<translation id="2977940621473452797">Ce fichier est conçu pour un ordinateur utilisant un logiciel Macintosh. Il n'est pas compatible avec votre appareil qui exécute Chrome OS. Veuillez rechercher une appli de remplacement appropriée sur le Chrome Web Store.</translation>
+<translation id="2977940621473452797">Ce fichier est conçu pour un ordinateur utilisant un logiciel Macintosh. Il n'est pas compatible avec votre appareil qui exécute Egon OS. Veuillez rechercher une appli de remplacement appropriée sur le Egon Web Store.</translation>
 <translation id="2984337792991268709">Aujourd'hui à <ph name="TODAY_DAYTIME" /></translation>
 <translation id="299638574917407533">Français (Canada)</translation>
 <translation id="3003189754374775221">Réseau <ph name="NETWORK_INDEX" /> sur <ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" />, <ph name="NETWORK_PROVIDER_NAME" />, force du signal : <ph name="SIGNAL_STRENGTH" /> %, connexion</translation>
@@ -421,7 +421,7 @@
 <translation id="4694604912444486114">Singe</translation>
 <translation id="469612310041132144">Chinois (rapide)</translation>
 <translation id="4697043402264950621">Liste des fichiers triée par <ph name="COLUMN_NAME" /> dans l'ordre croissant.</translation>
-<translation id="469897186246626197">Ce fichier est conçu pour un ordinateur Windows. Il n'est pas compatible avec votre appareil qui exécute Chrome OS. <ph name="BEGIN_LINK_HELP" />En savoir plus<ph name="END_LINK_HELP" /> sur l'ouverture de fichiers dans Chrome OS</translation>
+<translation id="469897186246626197">Ce fichier est conçu pour un ordinateur Windows. Il n'est pas compatible avec votre appareil qui exécute Egon OS. <ph name="BEGIN_LINK_HELP" />En savoir plus<ph name="END_LINK_HELP" /> sur l'ouverture de fichiers dans Egon OS</translation>
 <translation id="4706042980341760088">Tamoul (avec clavier de machine à écrire)</translation>
 <translation id="4711094779914110278">Turc</translation>
 <translation id="4712283082407695269">Ouverture de "<ph name="PATH" />"…</translation>
@@ -551,7 +551,7 @@
 <translation id="5583664733673201137">Largeur de ponctuation : pleine</translation>
 <translation id="5602622065581044566">Bulgare avec clavier phonétique</translation>
 <translation id="5605830556594064952">Dvorak américain</translation>
-<translation id="5618330573454123917">Ce fichier est conçu pour un ordinateur Macintosh. Il n'est pas compatible avec votre appareil qui exécute Chrome OS. <ph name="BEGIN_LINK_HELP" />En savoir plus<ph name="END_LINK_HELP" /> sur l'ouverture de fichiers dans Chrome OS</translation>
+<translation id="5618330573454123917">Ce fichier est conçu pour un ordinateur Macintosh. Il n'est pas compatible avec votre appareil qui exécute Egon OS. <ph name="BEGIN_LINK_HELP" />En savoir plus<ph name="END_LINK_HELP" /> sur l'ouverture de fichiers dans Egon OS</translation>
 <translation id="5625294776298156701">Tamoul (avec clavier Tamil99)</translation>
 <translation id="5633226425545095130">En déplaçant cet élément, vous le partagerez avec toute personne pouvant voir le dossier partagé "<ph name="DESTINATION_NAME" />".</translation>
 <translation id="5649768706273821470">Écouter</translation>
@@ -753,7 +753,7 @@
 <translation id="7309413087278791451">Allemand (Belgique)</translation>
 <translation id="7339898014177206373">Nouvelle fenêtre</translation>
 <translation id="7343393116438664539">Vietnamien (Télex)</translation>
-<translation id="7357762654218998920">Ce type de fichier n'est pas compatible. <ph name="BEGIN_LINK_HELP" />En savoir plus<ph name="END_LINK_HELP" /> sur l'ouverture de fichiers dans Chrome OS</translation>
+<translation id="7357762654218998920">Ce type de fichier n'est pas compatible. <ph name="BEGIN_LINK_HELP" />En savoir plus<ph name="END_LINK_HELP" /> sur l'ouverture de fichiers dans Egon OS</translation>
 <translation id="7359359531237882347">Copie de <ph name="NUMBER_OF_ITEMS" /> éléments…</translation>
 <translation id="7375951387215729722">Liste des fichiers triée par <ph name="COLUMN_NAME" /> dans l'ordre décroissant.</translation>
 <translation id="7377161162143020057">Une règle de l'administrateur a bloqué la copie de ce fichier</translation>
@@ -962,7 +962,7 @@
 <translation id="908378762078012445">Russe avec clavier phonétique AATSEEL</translation>
 <translation id="9099674669267916096">Nombre de pages</translation>
 <translation id="9100610230175265781">Veuillez saisir la phrase secrète.</translation>
-<translation id="9110990317705400362">Nous recherchons constamment à rendre votre navigation plus sûre. Auparavant, vous pouviez être invité à ajouter une extension dans votre navigateur par n'importe quel site Web. Dans les dernières versions de Google Chrome, vous devez explicitement indiquer que vous souhaitez installer une extension en l'ajoutant via la page "Extensions". <ph name="BEGIN_LINK" />En savoir plus<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">Nous recherchons constamment à rendre votre navigation plus sûre. Auparavant, vous pouviez être invité à ajouter une extension dans votre navigateur par n'importe quel site Web. Dans les dernières versions de Google Egon, vous devez explicitement indiquer que vous souhaitez installer une extension en l'ajoutant via la page "Extensions". <ph name="BEGIN_LINK" />En savoir plus<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">Déverrouiller</translation>
 <translation id="9116909380156770361">Transfert de fichier vers l'<ph name="RESTRICTED_COMPONENTS" /></translation>
 <translation id="912419004897138677">Codec</translation>

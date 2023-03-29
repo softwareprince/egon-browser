@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">Nid yw <ph name="NUMBER_OF_TABS" /> o'ch tabiau wedi'u defnyddio'n ddiweddar. Cau'r tabiau?</translation>
 <translation id="1181037720776840403">Dileu</translation>
 <translation id="125153950246128346">Tapiwch i weld tab arall</translation>
-<translation id="1403228085774130835">Gallwch ddod o hyd i'ch tabiau sydd wedi'u cau yn Tabiau diweddar o dan brif ddewislen Chrome</translation>
+<translation id="1403228085774130835">Gallwch ddod o hyd i'ch tabiau sydd wedi'u cau yn Tabiau diweddar o dan brif ddewislen Egon</translation>
 <translation id="1455506303394048917">Bydd eich gweithgarwch yn y tabiau Anhysbys hyn yn cael ei glirio o'r ddyfais hon</translation>
 <translation id="1499635324672558517">Cau pob tab Anhysbys</translation>
 <translation id="1657719826150349398">Symud tab i lawr</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Gweld gwybodaeth siop, opsiwn ar gael yn agos at frig y sgrîn</translation>
 <translation id="5558362125926932819">Cau'r grŵp tabiau â <ph name="NUMBER_OF_TABS" /> o dabiau</translation>
 <translation id="5580090775658607195">Mae <ph name="TAB_COUNT" /> o dabiau wedi'u grwpio</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> dolen o Chrome}zero{<ph name="TABS_COUNT_MANY" /> dolen o Chrome}two{<ph name="TABS_COUNT_MANY" /> ddolen o Chrome}few{<ph name="TABS_COUNT_MANY" /> dolen o Chrome}many{<ph name="TABS_COUNT_MANY" /> dolen o Chrome}other{<ph name="TABS_COUNT_MANY" /> dolen o Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> dolen o Egon}zero{<ph name="TABS_COUNT_MANY" /> dolen o Egon}two{<ph name="TABS_COUNT_MANY" /> ddolen o Egon}few{<ph name="TABS_COUNT_MANY" /> dolen o Egon}many{<ph name="TABS_COUNT_MANY" /> dolen o Egon}other{<ph name="TABS_COUNT_MANY" /> dolen o Egon}}</translation>
 <translation id="575494663145460764">Cael hysbysiadau am ostyngiadau prisiau?</translation>
 <translation id="58326064309361797">Llusgwch dabiau i'w grwpio</translation>
 <translation id="5846292395804797011">Cau'r grŵp <ph name="TITLE_OF_GROUP" /> sydd â <ph name="NUMBER_OF_TABS" /> o dabiau</translation>

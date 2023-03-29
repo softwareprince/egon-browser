@@ -299,7 +299,7 @@
 <translation id="2620436844016719705">Σύστημα</translation>
 <translation id="2621713457727696555">Unsecured</translation>
 <translation id="263399434338050016">"Επιλογή όλων"</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">Λήψη παραθύρου</translation>
 <translation id="2653659639078652383">Υποβολή</translation>
 <translation id="2658778018866295321">Κάντε κλικ και σύρετε</translation>
@@ -430,7 +430,7 @@
 <translation id="3378438761594387761">Εδώ θα βρείτε τις πρόσφατες λήψεις και τις καταγραφές οθόνης</translation>
 <translation id="3378442621503952303">Η σύνδεση στο προφίλ βρίσκεται σε εξέλιξη. Περιμένετε λίγα λεπτά.</translation>
 <translation id="3386978599540877378">ο μεγεθυντικός φακός πλήρους οθόνης</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Πρόσθετες ρυθμίσεις</translation>
 <translation id="3405101454990027959">Ενεργοποίηση πρόσβασης στο μικρόφωνο</translation>
 <translation id="3410336247007142655">Εμφάνιση ρυθμίσεων Σκούρου θέματος</translation>
@@ -915,7 +915,7 @@
 <translation id="6043994281159824495">Έξοδος τώρα</translation>
 <translation id="6047696787498798094">Η κοινή χρήση οθόνης θα διακοπεί κατά την εναλλαγή σε άλλον χρήστη. Θέλετε να συνεχίσετε;</translation>
 <translation id="6054305421211936131">Σύνδεση με έξυπνη κάρτα</translation>
-<translation id="6059276912018042191">Πρόσφατες καρτέλες Chrome</translation>
+<translation id="6059276912018042191">Πρόσφατες καρτέλες Egon</translation>
 <translation id="6062360702481658777">Θα αποσυνδεθείτε αυτόματα σε <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Δεν χρησιμοποιώ πλέον αυτό το αρχείο</translation>
 <translation id="6073451960410192870">Διακοπή εγγραφής</translation>
@@ -1020,7 +1020,7 @@
 <translation id="6650933572246256093">Η συσκευή Bluetooth "<ph name="DEVICE_NAME" />" ζητά δικαιώματα σύζευξης. Καταχωρίστε αυτό το κλειδί πρόσβασης στη συγκεκριμένη συσκευή: <ph name="PASSKEY" /></translation>
 <translation id="6657585470893396449">Κωδικός πρόσβασης</translation>
 <translation id="6665545700722362599">Εκχωρήσει άδειες σε ιστοτόπους, εφαρμογές και επεκτάσεις για τη χρήση υπηρεσιών τοποθεσίας, του μικροφώνου ή της κάμερας της συσκευής ή άλλων λειτουργιών</translation>
-<translation id="6667908387435388584">Συνδεθείτε στο σημείο πρόσβασης Wi-Fi του τηλεφώνου σας, θέστε σε σίγαση και εντοπίστε τη συσκευή σας και δείτε τις πρόσφατες καρτέλες Chrome που είναι ανοικτές στο τηλέφωνό σας.</translation>
+<translation id="6667908387435388584">Συνδεθείτε στο σημείο πρόσβασης Wi-Fi του τηλεφώνου σας, θέστε σε σίγαση και εντοπίστε τη συσκευή σας και δείτε τις πρόσφατες καρτέλες Egon που είναι ανοικτές στο τηλέφωνό σας.</translation>
 <translation id="6670153871843998651">Γραφείο 3</translation>
 <translation id="6671495933530132209">Αντιγραφή εικόνας</translation>
 <translation id="6671661918848783005">Δεν είναι δυνατό το ξεκλείδωμα του Chromebook</translation>

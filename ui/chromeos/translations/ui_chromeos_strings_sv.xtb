@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">Linux-filerna öppnas …</translation>
 <translation id="1547964879613821194">Kanadensisk engelska</translation>
 <translation id="1556189134700913550">Ersätt alla</translation>
-<translation id="1561842594491319104">Chrome-enheter</translation>
+<translation id="1561842594491319104">Egon-enheter</translation>
 <translation id="1572585716423026576">Använd som bakgrund</translation>
 <translation id="1576937952766665062">bengali, translitterering</translation>
 <translation id="1577977504532381335">Granska administratörspolicy</translation>
@@ -70,7 +70,7 @@
 <translation id="1629521517399325891">Användarcertifikatet är inte tillgängligt för nätverksautentisering.</translation>
 <translation id="1641780993263690097">kinesiska (pinyin)</translation>
 <translation id="1646019627374511909"><ph name="NUMBER_OF_ITEMS" /> filer görs tillgängliga offline</translation>
-<translation id="164969095109328410">Chrome-enhet</translation>
+<translation id="164969095109328410">Egon-enhet</translation>
 <translation id="1661867754829461514">Pinkod saknas</translation>
 <translation id="166439687370499867">Du får inte ändra delade nätverkskonfigurationer</translation>
 <translation id="1665611772925418501">Det gick inte att ändra filen.</translation>
@@ -87,7 +87,7 @@
 <translation id="1742316578210444689">hebreiska, translitterering</translation>
 <translation id="1747761757048858544">nederländska (Nederländerna)</translation>
 <translation id="174937106936716857">Totalt antal filer</translation>
-<translation id="1755345808328621801">Den här filen är avsedd för en dator med Windows-programvara. Den är inte kompatibel med din enhet, som har Chrome OS. Sök efter en lämplig ersättningsapp i Chrome Web Store.</translation>
+<translation id="1755345808328621801">Den här filen är avsedd för en dator med Windows-programvara. Den är inte kompatibel med din enhet, som har Egon OS. Sök efter en lämplig ersättningsapp i Egon Web Store.</translation>
 <translation id="1757915090001272240">Wide Latin</translation>
 <translation id="1773212559869067373">Autentiseringscertifikatet godkändes inte lokalt</translation>
 <translation id="1775381402323441512">Videoinformation</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">Planet</translation>
 <translation id="2305020378527873881"><ph name="VOLUME_NAME" /> har tagits bort.</translation>
 <translation id="2307462900900812319">Konfigurera nätverk</translation>
-<translation id="2325650632570794183">Filtypen stöds inte. Besök Chrome Web Store om du vill hitta en app som kan öppna den här filtypen.</translation>
+<translation id="2325650632570794183">Filtypen stöds inte. Besök Egon Web Store om du vill hitta en app som kan öppna den här filtypen.</translation>
 <translation id="2326539130272988168">bulgariska</translation>
 <translation id="23721837607121582">Ladda ned mobilprofil, Nätverk <ph name="NETWORK_INDEX" /> av <ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" /></translation>
 <translation id="2377319039870049694">Byt till listvy</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687">Formaterar <ph name="DRIVE_NAME" /> …</translation>
 <translation id="2951236788251446349">Manet</translation>
 <translation id="2958458230122209142">Ont om lagringsutrymme – <ph name="REMAINING_PERCENTAGE" /> % kvar av ditt individuella lagringsutrymme på <ph name="TOTAL_SPACE" />.</translation>
-<translation id="2977940621473452797">Den här filen är avsedd för en dator med programvara från Macintosh. Den är inte kompatibel med din enhet, som har Chrome OS. Sök efter en lämplig ersättningsapp i Chrome Web Store.</translation>
+<translation id="2977940621473452797">Den här filen är avsedd för en dator med programvara från Macintosh. Den är inte kompatibel med din enhet, som har Egon OS. Sök efter en lämplig ersättningsapp i Egon Web Store.</translation>
 <translation id="2984337792991268709">Idag kl. <ph name="TODAY_DAYTIME" /></translation>
 <translation id="299638574917407533">franska (Kanada)</translation>
 <translation id="3003189754374775221">Nätverk <ph name="NETWORK_INDEX" /> av <ph name="NETWORK_COUNT" />, <ph name="NETWORK_NAME" />, <ph name="NETWORK_PROVIDER_NAME" />, signalstyrka <ph name="SIGNAL_STRENGTH" /> %, anslut</translation>
@@ -421,7 +421,7 @@
 <translation id="4694604912444486114">Apa</translation>
 <translation id="469612310041132144">kinesiska (snabb inmatningsmetod)</translation>
 <translation id="4697043402264950621">Fillistan har sorterats efter <ph name="COLUMN_NAME" /> i stigande ordning.</translation>
-<translation id="469897186246626197">Den här filen är avsedd för en Windows-dator. Den är inte kompatibel med din enhet, som har Chrome OS. <ph name="BEGIN_LINK_HELP" />Läs mer<ph name="END_LINK_HELP" /> om att öppna filer i Chrome OS.</translation>
+<translation id="469897186246626197">Den här filen är avsedd för en Windows-dator. Den är inte kompatibel med din enhet, som har Egon OS. <ph name="BEGIN_LINK_HELP" />Läs mer<ph name="END_LINK_HELP" /> om att öppna filer i Egon OS.</translation>
 <translation id="4706042980341760088">tamilskt tangentbord (skrivmaskin)</translation>
 <translation id="4711094779914110278">turkiska</translation>
 <translation id="4712283082407695269">Öppnar <ph name="PATH" /></translation>
@@ -551,7 +551,7 @@
 <translation id="5583664733673201137">Punktbredden är full</translation>
 <translation id="5602622065581044566">bulgariskt fonetiskt tangentbord</translation>
 <translation id="5605830556594064952">USA (dvorak)</translation>
-<translation id="5618330573454123917">Den här filen är avsedd för en Macintosh. Den är inte kompatibel med din enhet, som har Chrome OS. <ph name="BEGIN_LINK_HELP" />Läs mer<ph name="END_LINK_HELP" /> om att öppna filer i Chrome OS.</translation>
+<translation id="5618330573454123917">Den här filen är avsedd för en Macintosh. Den är inte kompatibel med din enhet, som har Egon OS. <ph name="BEGIN_LINK_HELP" />Läs mer<ph name="END_LINK_HELP" /> om att öppna filer i Egon OS.</translation>
 <translation id="5625294776298156701">tamilskt tangentbord (Tamil99)</translation>
 <translation id="5633226425545095130">Om du flyttar det här objektet delas det med alla som har åtkomst till den delade mappen <ph name="DESTINATION_NAME" />.</translation>
 <translation id="5649768706273821470">Lyssna</translation>
@@ -753,7 +753,7 @@
 <translation id="7309413087278791451">tyska (Belgien)</translation>
 <translation id="7339898014177206373">Nytt fönster</translation>
 <translation id="7343393116438664539">vietnamesiska (telex)</translation>
-<translation id="7357762654218998920">Den här filtypen stöds inte. <ph name="BEGIN_LINK_HELP" />Läs mer<ph name="END_LINK_HELP" /> om att öppna filer i Chrome OS.</translation>
+<translation id="7357762654218998920">Den här filtypen stöds inte. <ph name="BEGIN_LINK_HELP" />Läs mer<ph name="END_LINK_HELP" /> om att öppna filer i Egon OS.</translation>
 <translation id="7359359531237882347"><ph name="NUMBER_OF_ITEMS" /> objekt kopieras ...</translation>
 <translation id="7375951387215729722">Fillistan har sorterats efter <ph name="COLUMN_NAME" /> i fallande ordning.</translation>
 <translation id="7377161162143020057">Möjligheten att kopiera den här filen blockeras av administratörspolicyn</translation>
@@ -962,7 +962,7 @@
 <translation id="908378762078012445">ryskt fonetiskt tangentbord (AATSEEL)</translation>
 <translation id="9099674669267916096">Sidantal</translation>
 <translation id="9100610230175265781">Lösenfras krävs</translation>
-<translation id="9110990317705400362">Vi strävar hela tiden efter att göra det säkrare för dig att surfa. Tidigare kunde du uppmanas att lägga till ett tillägg i webbläsaren på vilken webbplats som helst. I de senaste versionerna av Google Chrome måste du uttryckligen tala om för Chrome att du vill installera dessa tillägg genom att lägga till dem via sidan Tillägg. <ph name="BEGIN_LINK" />Läs mer<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">Vi strävar hela tiden efter att göra det säkrare för dig att surfa. Tidigare kunde du uppmanas att lägga till ett tillägg i webbläsaren på vilken webbplats som helst. I de senaste versionerna av Google Egon måste du uttryckligen tala om för Egon att du vill installera dessa tillägg genom att lägga till dem via sidan Tillägg. <ph name="BEGIN_LINK" />Läs mer<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">Lås upp</translation>
 <translation id="9116909380156770361">Filöverföring till <ph name="RESTRICTED_COMPONENTS" /></translation>
 <translation id="912419004897138677">Kodek</translation>

@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> tab son zamanlarda istifadə edilməyib. Onlar bağlansın?</translation>
 <translation id="1181037720776840403">Silin</translation>
 <translation id="125153950246128346">Başqa taba baxmaq üçün klikləyin</translation>
-<translation id="1403228085774130835">Qapalı tablarınızı Chrome əsas menyusunda Son tablarda tapa bilərsiniz</translation>
+<translation id="1403228085774130835">Qapalı tablarınızı Egon əsas menyusunda Son tablarda tapa bilərsiniz</translation>
 <translation id="1455506303394048917">Bu Anonim tablardakı fəaliyyətiniz bu cihazdan silinəcək</translation>
 <translation id="1499635324672558517">Bütün Anonim tablar bağlansın?</translation>
 <translation id="1657719826150349398">Tabı aşağıya daşıyın</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Mağaza məlumatlarına baxın, seçim ekranın yuxarı hissəsində əlçatandır</translation>
 <translation id="5558362125926932819"><ph name="NUMBER_OF_TABS" /> tab olan tab qrupunu bağlayın</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> tab qruplaşdırıldı</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Chrome'dan <ph name="TABS_COUNT_ONE" /> keçid}other{Chrome'dan <ph name="TABS_COUNT_MANY" /> keçid}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{Egon'dan <ph name="TABS_COUNT_ONE" /> keçid}other{Egon'dan <ph name="TABS_COUNT_MANY" /> keçid}}</translation>
 <translation id="575494663145460764">Qiymət endirimləri üçün xəbərdarlıq alınsın?</translation>
 <translation id="58326064309361797">Tabları qruplaşdırmaq üçün sürüşdürün</translation>
 <translation id="5846292395804797011"><ph name="NUMBER_OF_TABS" /> tab olan <ph name="TITLE_OF_GROUP" /> qrupunu bağlayın</translation>

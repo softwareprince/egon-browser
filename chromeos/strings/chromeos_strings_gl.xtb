@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Aplicación Diagnósticos</translation>
 <translation id="175763766237925754">Boa (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Tipo de autenticación</translation>
 <translation id="1782199038061388045">tradución</translation>
 <translation id="1792647875738159689">Cancelando escaneo</translation>
@@ -103,7 +103,7 @@
 <translation id="1807246157184219062">Claro</translation>
 <translation id="1827738518074806965">Galería de arte</translation>
 <translation id="1851218745569890714">Videoconferencias</translation>
-<translation id="1852934301711881861">Instalar Chrome OS Flex</translation>
+<translation id="1852934301711881861">Instalar Egon OS Flex</translation>
 <translation id="1856388568474281774">Frecha abaixo</translation>
 <translation id="1858620243986915808">Anexar captura de pantalla</translation>
 <translation id="1871569928317311284">Quitar tema escuro</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">definición</translation>
 <translation id="3488065109653206955">Activado parcialmente</translation>
 <translation id="3510890413042482857">Enviar <ph name="BEGIN_LINK1" />datos de seguimento de rendemento<ph name="END_LINK1" /></translation>
-<translation id="3517001332549868749">Actualiz. Chrome OS</translation>
+<translation id="3517001332549868749">Actualiz. Egon OS</translation>
 <translation id="3527036260304016759">Produciuse un erro descoñecido</translation>
 <translation id="3532980081107202182">Quedan <ph name="MIN_REMAINING" /> minutos aproximadamente</translation>
 <translation id="3557205324756024651">Identidade local (opcional)</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">Descoñécese o tipo de dispositivo.</translation>
 <translation id="3966286471246132217">Para obter resultados máis precisos, pecha todas as aplicacións ata que remate a proba.</translation>
 <translation id="3967822245660637423">Descarga completa</translation>
-<translation id="3969602104473960991">Modificouse o contrasinal de Chrome OS</translation>
+<translation id="3969602104473960991">Modificouse o contrasinal de Egon OS</translation>
 <translation id="397105322502079400">Calculando...</translation>
 <translation id="39823212440917567">Quitaranse os traballos de impresión de máis de <ph name="NUMBER_OF_DAYS" /> días</translation>
 <translation id="3993704782688964914">O dispositivo (<ph name="DEVICE_NAME" />) xa está actualizado</translation>
@@ -530,7 +530,7 @@ Proba a tocar o micrófono para preguntarme algo.</translation>
 <translation id="6113701710518389813">Frecha arriba</translation>
 <translation id="6117895505466548728"><ph name="TITLE" /> e <ph name="NUMBER" /> álbums máis</translation>
 <translation id="6122191549521593678">Online</translation>
-<translation id="6122277663991249694">Servizo do método de introdución de texto de Chrome OS</translation>
+<translation id="6122277663991249694">Servizo do método de introdución de texto de Egon OS</translation>
 <translation id="6137767437444130246">Certificado de usuario</translation>
 <translation id="6146993107019042706">Para finalizar, introduce o teu novo contrasinal</translation>
 <translation id="6147514244879357420">PNG</translation>
@@ -757,7 +757,7 @@ Proba a tocar o micrófono para preguntarme algo.</translation>
 <translation id="8420955526972171689">Fai probas e soluciona problemas de hardware</translation>
 <translation id="8422748173858722634">IMEI</translation>
 <translation id="8428073762635678092">Teclado integrado</translation>
-<translation id="8431300646573772016">Novidades de Chrome OS</translation>
+<translation id="8431300646573772016">Novidades de Egon OS</translation>
 <translation id="843568408673868420">Conectividade de Internet</translation>
 <translation id="844521431886043384">O DNS non está configurado</translation>
 <translation id="8456761643544401578">Modo escuro automático</translation>

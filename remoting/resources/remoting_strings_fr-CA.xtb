@@ -33,7 +33,7 @@ Si l'option « <ph name="SERVICE_SCRIPT_NAME" /> » est déjà cochée, décoc
 <translation id="2509394361235492552">Connecté à <ph name="HOSTNAME" /></translation>
 <translation id="2540992418118313681">Souhaitez-vous partager cet ordinateur pour qu’un autre utilisateur puisse y accéder et le contrôler?</translation>
 <translation id="2579271889603567289">L'hôte a planté ou n'a pas réussi à démarrer.</translation>
-<translation id="2599300881200251572">Ce service permet les connexions entrantes de clients de Bureau à distance Chrome.</translation>
+<translation id="2599300881200251572">Ce service permet les connexions entrantes de clients de Bureau à distance Egon.</translation>
 <translation id="2647232381348739934">Service Chromoting</translation>
 <translation id="2676780859508944670">Opération en cours...</translation>
 <translation id="2692522824157224199">© 2022 Google LLC. Tous droits réservés.</translation>
@@ -56,7 +56,7 @@ Si l'option « <ph name="SERVICE_SCRIPT_NAME" /> » est déjà cochée, décoc
 <translation id="3596628256176442606">Ce service permet la réception de connexions provenant de clients Chromoting.</translation>
 <translation id="369442766917958684">Hors ligne</translation>
 <translation id="3695446226812920698">Découvrez comment</translation>
-<translation id="3776024066357219166">Votre session de Bureau à distance Chrome est terminée.</translation>
+<translation id="3776024066357219166">Votre session de Bureau à distance Egon est terminée.</translation>
 <translation id="3858860766373142691">Nom</translation>
 <translation id="3897092660631435901">Menu</translation>
 <translation id="3905196214175737742">Domaine du propriétaire de l'hôte non valide.</translation>
@@ -73,7 +73,7 @@ Si l'option « <ph name="SERVICE_SCRIPT_NAME" /> » est déjà cochée, décoc
 <translation id="4257751272692708833">Transfert d'URL <ph name="PRODUCT_NAME" /></translation>
 <translation id="4277736576214464567">Le code d'accès n'est pas valide. Veuillez réessayer.</translation>
 <translation id="4281844954008187215">Conditions d'utilisation</translation>
-<translation id="4372650392690220936">© 2022 Les auteurs de Chromium. Tous droits réservés.</translation>
+<translation id="4372650392690220936">© 2022 Les auteurs de Egon. Tous droits réservés.</translation>
 <translation id="4405930547258349619">Bibliothèque principale</translation>
 <translation id="443560535555262820">Ouvrir les préférences d'accessibilité</translation>
 <translation id="4450893287417543264">Ne plus afficher</translation>
@@ -83,7 +83,7 @@ Si l'option « <ph name="SERVICE_SCRIPT_NAME" /> » est déjà cochée, décoc
 <translation id="4635770493235256822">Appareils distants</translation>
 <translation id="4660011489602794167">Afficher le clavier</translation>
 <translation id="4703799847237267011">Votre session Chromoting a pris fin.</translation>
-<translation id="4741792197137897469">Échec de l'authentification. Veuillez vous connecter de nouveau à Chrome.</translation>
+<translation id="4741792197137897469">Échec de l'authentification. Veuillez vous connecter de nouveau à Egon.</translation>
 <translation id="4784508858340177375">Le serveur X a planté ou n'a pas réussi à démarrer.</translation>
 <translation id="4798680868612952294">Options de la souris</translation>
 <translation id="4804818685124855865">Déconnecter</translation>
@@ -92,7 +92,7 @@ Si l'option « <ph name="SERVICE_SCRIPT_NAME" /> » est déjà cochée, décoc
 <translation id="4867841927763172006">Envoyer Impr. écran</translation>
 <translation id="4974476491460646149">Connexion fermée pour <ph name="HOSTNAME" /></translation>
 <translation id="4985296110227979402">Vous devez d'abord configurer votre ordinateur pour l'accès à distance</translation>
-<translation id="4987330545941822761">Bureau à distance Chrome ne peut pas déterminer le navigateur pour ouvrir les URL localement. Veuillez le choisir dans la liste ci-dessous.</translation>
+<translation id="4987330545941822761">Bureau à distance Egon ne peut pas déterminer le navigateur pour ouvrir les URL localement. Veuillez le choisir dans la liste ci-dessous.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (hors ligne)</translation>
 <translation id="507204348399810022">Voulez-vous vraiment désactiver les connexions à distance à <ph name="HOSTNAME" />?</translation>
 <translation id="5170982930780719864">Identifiant d'hôte non valide.</translation>
@@ -101,7 +101,7 @@ Si l'option « <ph name="SERVICE_SCRIPT_NAME" /> » est déjà cochée, décoc
 <translation id="5234764350956374838">Fermer</translation>
 <translation id="5308380583665731573">Connecter</translation>
 <translation id="533625276787323658">Il n'existe aucun ordinateur auquel se connecter</translation>
-<translation id="5397086374758643919">Programme de désinstallation de l'hôte de Bureau à distance Chrome</translation>
+<translation id="5397086374758643919">Programme de désinstallation de l'hôte de Bureau à distance Egon</translation>
 <translation id="5419418238395129586">Dernière connexion : <ph name="DATE" /></translation>
 <translation id="544077782045763683">L'hôte s'est éteint.</translation>
 <translation id="5601503069213153581">NIP</translation>
@@ -111,12 +111,12 @@ Si l'option « <ph name="SERVICE_SCRIPT_NAME" /> » est déjà cochée, décoc
 <translation id="579702532610384533">Reconnexion</translation>
 <translation id="5810269635982033450">L'écran devient un pavé tactile</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> a demandé un accès afin de voir votre écran et de contrôler votre clavier ainsi que votre souris. Appuyez sur « <ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" /> » si vous n'attendiez pas cette demande. Sinon, sélectionnez « <ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" /> » pour autoriser la connexion lorsque vous êtes prêt.</translation>
-<translation id="5823658491130719298">Sur l'ordinateur auquel vous souhaitez accéder à distance, ouvrez Chrome et consultez <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">Sur l'ordinateur auquel vous souhaitez accéder à distance, ouvrez Egon et consultez <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">Options d'affichage</translation>
 <translation id="6033507038939587647">Options du clavier</translation>
 <translation id="6040143037577758943">Fermer</translation>
 <translation id="6062854958530969723">Échec de l'initialisation de l'hôte.</translation>
-<translation id="6099500228377758828">Service Bureau à distance Chrome</translation>
+<translation id="6099500228377758828">Service Bureau à distance Egon</translation>
 <translation id="6122191549521593678">En ligne</translation>
 <translation id="6178645564515549384">Hôte de messagerie native pour l'assistance à distance</translation>
 <translation id="618120821413932081">Mettre à jour la résolution à distance pour correspondre à la fenêtre</translation>
@@ -136,12 +136,12 @@ Si l'option « <ph name="SERVICE_SCRIPT_NAME" /> » est déjà cochée, décoc
 <translation id="701976023053394610">Assistance à distance</translation>
 <translation id="7026930240735156896">Suivez les instructions pour configurer votre ordinateur pour l'accès à distance</translation>
 <translation id="7067321367069083429">L'écran devient un écran tactile</translation>
-<translation id="7116737094673640201">Bienvenue dans Bureau à distance Chrome</translation>
+<translation id="7116737094673640201">Bienvenue dans Bureau à distance Egon</translation>
 <translation id="7144878232160441200">Réessayer</translation>
 <translation id="7312846573060934304">L'hôte est hors ligne.</translation>
 <translation id="7319983568955948908">Arrêter le partage</translation>
 <translation id="7359298090707901886">Le navigateur choisi ne peut pas être utilisé pour ouvrir des URL sur la machine locale.</translation>
-<translation id="7401733114166276557">Bureau à distance Chrome</translation>
+<translation id="7401733114166276557">Bureau à distance Egon</translation>
 <translation id="7434397035092923453">Accès refusé pour le client : <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Connexion du client : <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Changer de compte</translation>
@@ -156,13 +156,13 @@ Si l'option « <ph name="SERVICE_SCRIPT_NAME" /> » est déjà cochée, décoc
 <translation id="7868137160098754906">Veuillez entrer votre NIP pour l'ordinateur distant.</translation>
 <translation id="7895403300744144251">Les règles de sécurité sur l'ordinateur à distance n'autorisent pas les connexions depuis votre compte.</translation>
 <translation id="7936528439960309876">Ancrer à droite</translation>
-<translation id="7970576581263377361">Échec de l'authentification. Veuillez vous connecter de nouveau à Chromium.</translation>
+<translation id="7970576581263377361">Échec de l'authentification. Veuillez vous connecter de nouveau à Egon.</translation>
 <translation id="7981525049612125370">La session à distance a expiré.</translation>
 <translation id="8038111231936746805">(par défaut)</translation>
 <translation id="8041089156583427627">Envoyer des commentaires</translation>
 <translation id="8060029310790625334">Centre d’aide</translation>
 <translation id="806699900641041263">Connexion à <ph name="HOSTNAME" /> en cours…</translation>
-<translation id="8073845705237259513">Pour utiliser Bureau à distance Chrome, vous devez ajouter un compte Google à votre appareil.</translation>
+<translation id="8073845705237259513">Pour utiliser Bureau à distance Egon, vous devez ajouter un compte Google à votre appareil.</translation>
 <translation id="809687642899217504">Mes ordinateurs</translation>
 <translation id="8116630183974937060">Une erreur réseau s'est produite. Veuillez vérifier que votre appareil est en ligne, puis réessayer.</translation>
 <translation id="8295077433896346116">Pour utiliser <ph name="PRODUCT_NAME" />, vous devez accorder l'autorisation « Accessibilité » afin que l'entrée de la machine distante puisse être utilisée sur ce Mac.
@@ -174,7 +174,7 @@ Si l'option « <ph name="SERVICE_SCRIPT_NAME" /> » est déjà cochée, décoc
 <translation id="8383794970363966105">Pour utiliser Chromoting, vous devez ajouter un compte Google à votre appareil.</translation>
 <translation id="8386846956409881180">L'hôte est configuré avec des authentifiants OAuth non valides.</translation>
 <translation id="8397385476380433240">Accorder l'autorisation à <ph name="PRODUCT_NAME" /></translation>
-<translation id="8406498562923498210">Sélectionnez une session à lancer dans votre environnement de Bureau à distance Chrome. (Remarque : Certains types de sessions pourraient ne pas fonctionner simultanément dans Bureau à distance Chrome et sur la console locale.)</translation>
+<translation id="8406498562923498210">Sélectionnez une session à lancer dans votre environnement de Bureau à distance Egon. (Remarque : Certains types de sessions pourraient ne pas fonctionner simultanément dans Bureau à distance Egon et sur la console locale.)</translation>
 <translation id="8428213095426709021">Paramètres</translation>
 <translation id="8445362773033888690">Afficher dans la boutique Google Play Store</translation>
 <translation id="8509907436388546015">Processus d'intégration au bureau</translation>
@@ -184,13 +184,13 @@ Si l'option « <ph name="SERVICE_SCRIPT_NAME" /> » est déjà cochée, décoc
 <translation id="8743328882720071828">Voulez-vous autoriser <ph name="CLIENT_USERNAME" /> à accéder à votre ordinateur et à en prendre le contrôle?</translation>
 <translation id="8747048596626351634">La session a planté ou n'a pas réussi à démarrer. Si ~/.chrome-remote-desktop-session est présente sur l'ordinateur distant, assurez-vous qu'elle exécute un processus de longue durée au premier plan, tel qu'un environnement de bureau ou un gestionnaire de fenêtres.</translation>
 <translation id="8804164990146287819">Politique de confidentialité</translation>
-<translation id="8906511416443321782">L'accès au microphone est requis pour capturer de l'audio et le diffuser au client Bureau à distance Chrome.</translation>
+<translation id="8906511416443321782">L'accès au microphone est requis pour capturer de l'audio et le diffuser au client Bureau à distance Egon.</translation>
 <translation id="9111855907838866522">Vous êtes connecté à votre appareil distant. Pour ouvrir le menu, veuillez toucher l'écran avec quatre doigts.</translation>
 <translation id="9126115402994542723">Ne plus demander de NIP pour la connexion à cet hôte à partir de cet appareil.</translation>
 <translation id="916856682307586697">Lancer la XSession par défaut</translation>
 <translation id="9187628920394877737">Accordez l'autorisation « Enregistrement de l'écran » à <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Configuration d'hôte non valide.</translation>
 <translation id="981121421437150478">Hors ligne</translation>
-<translation id="985602178874221306">Les auteurs de Chrome</translation>
+<translation id="985602178874221306">Les auteurs de Egon</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (dernière connexion : <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">لم يتم استخدام <ph name="NUMBER_OF_TABS" /> من علامات التبويب مؤخرًا. هل تريد إغلاقها؟</translation>
 <translation id="1181037720776840403">إزالة</translation>
 <translation id="125153950246128346">يُرجى النقر للاطِّلاع على علامة تبويب أخرى</translation>
-<translation id="1403228085774130835">‏يمكنك العثور على علامات التبويب المغلقة في "علامات التبويب الأخيرة" ضمن قائمة Chrome الرئيسية.</translation>
+<translation id="1403228085774130835">‏يمكنك العثور على علامات التبويب المغلقة في "علامات التبويب الأخيرة" ضمن قائمة Egon الرئيسية.</translation>
 <translation id="1455506303394048917">سيتم محو بيانات نشاطك ضمن علامات التبويب هذه في وضع التصفُّح المتخفي على هذا الجهاز.</translation>
 <translation id="1499635324672558517">هل تريد إغلاق جميع علامات التبويب في وضع التصفُّح المتخفي؟</translation>
 <translation id="1657719826150349398">نقل علامة التبويب إلى الأسفل</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">عرض معلومات المتجر، وهو خيار متاح بالقرب من أعلى الشاشة</translation>
 <translation id="5558362125926932819">إغلاق مجموعة علامات التبويب التي تحتوي على <ph name="NUMBER_OF_TABS" /> علامة تبويب</translation>
 <translation id="5580090775658607195">تم جمع <ph name="TAB_COUNT" /> علامة تبويب</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{‏رابط واحد (<ph name="TABS_COUNT_ONE" />) من Chrome}zero{‏<ph name="TABS_COUNT_MANY" /> رابط من Chrome}two{‏رابطان (<ph name="TABS_COUNT_MANY" />) من Chrome}few{‏<ph name="TABS_COUNT_MANY" /> روابط من Chrome}many{‏<ph name="TABS_COUNT_MANY" /> رابطًا من Chrome}other{‏<ph name="TABS_COUNT_MANY" /> رابط من Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{‏رابط واحد (<ph name="TABS_COUNT_ONE" />) من Egon}zero{‏<ph name="TABS_COUNT_MANY" /> رابط من Egon}two{‏رابطان (<ph name="TABS_COUNT_MANY" />) من Egon}few{‏<ph name="TABS_COUNT_MANY" /> روابط من Egon}many{‏<ph name="TABS_COUNT_MANY" /> رابطًا من Egon}other{‏<ph name="TABS_COUNT_MANY" /> رابط من Egon}}</translation>
 <translation id="575494663145460764">هل تريد الحصول على تنبيهات عن الأسعار المنخفضة؟</translation>
 <translation id="58326064309361797">اسحب علامات التبويب لجمعها.</translation>
 <translation id="5846292395804797011">إغلاق المجموعة "<ph name="TITLE_OF_GROUP" />" التي تحتوي على <ph name="NUMBER_OF_TABS" /> علامة تبويب</translation>

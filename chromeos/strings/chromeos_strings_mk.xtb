@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Апликација за дијагностика</translation>
 <translation id="175763766237925754">Добар (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Тип автентикација</translation>
 <translation id="1782199038061388045">превод</translation>
 <translation id="1792647875738159689">Се откажува скенирањето</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">дефиниција</translation>
 <translation id="3488065109653206955">Делумно активиран</translation>
 <translation id="3510890413042482857">Испрати <ph name="BEGIN_LINK1" />податоци во траги за учинок<ph name="END_LINK1" /></translation>
-<translation id="3517001332549868749">Ажурирање на Chrome OS</translation>
+<translation id="3517001332549868749">Ажурирање на Egon OS</translation>
 <translation id="3527036260304016759">Неуспешно - непозната грешка</translation>
 <translation id="3532980081107202182">Преостануваат околу <ph name="MIN_REMAINING" /> мин.</translation>
 <translation id="3557205324756024651">Локален идентитет (незадолжително)</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">Типот на уред не е познат.</translation>
 <translation id="3966286471246132217">За попрецизни резултати, затворете ги сите апликации додека не заврши тестот.</translation>
 <translation id="3967822245660637423">Преземањето е завршено</translation>
-<translation id="3969602104473960991">Лозинката за Chrome OS е ажурирана</translation>
+<translation id="3969602104473960991">Лозинката за Egon OS е ажурирана</translation>
 <translation id="397105322502079400">Се пресметува…</translation>
 <translation id="39823212440917567">Задачите за печатење постари од <ph name="NUMBER_OF_DAYS" /> дена ќе се отстранат</translation>
 <translation id="3993704782688964914">Уредот <ph name="DEVICE_NAME" /> сега е ажуриран</translation>
@@ -530,7 +530,7 @@
 <translation id="6113701710518389813">Стрелка нагоре</translation>
 <translation id="6117895505466548728"><ph name="TITLE" />, +<ph name="NUMBER" /> други албуми</translation>
 <translation id="6122191549521593678">Онлајн</translation>
-<translation id="6122277663991249694">Услуга за методи за внесување во Chrome OS</translation>
+<translation id="6122277663991249694">Услуга за методи за внесување во Egon OS</translation>
 <translation id="6137767437444130246">Сертификат на корисник</translation>
 <translation id="6146993107019042706">За да завршите, внесете ја новата лозинка</translation>
 <translation id="6147514244879357420">PNG</translation>
@@ -757,7 +757,7 @@
 <translation id="8420955526972171689">Извршува тестови и решава проблеми во врска со хардверот</translation>
 <translation id="8422748173858722634">IMEI</translation>
 <translation id="8428073762635678092">Вградена тастатура</translation>
-<translation id="8431300646573772016">Што е ново во Chrome OS</translation>
+<translation id="8431300646573772016">Што е ново во Egon OS</translation>
 <translation id="843568408673868420">Поврзливост на интернет</translation>
 <translation id="844521431886043384">DNS не е поставен</translation>
 <translation id="8456761643544401578">Автоматски темен режим</translation>

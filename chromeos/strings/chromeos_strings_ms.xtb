@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Apl diagnostik</translation>
 <translation id="175763766237925754">Baik (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Jenis pengesahan</translation>
 <translation id="1782199038061388045">terjemahan</translation>
 <translation id="1792647875738159689">Membatalkan pengimbasan</translation>
@@ -103,7 +103,7 @@
 <translation id="1807246157184219062">Cahaya</translation>
 <translation id="1827738518074806965">Galeri seni</translation>
 <translation id="1851218745569890714">Persidangan Video</translation>
-<translation id="1852934301711881861">Pasang Chrome OS Flex</translation>
+<translation id="1852934301711881861">Pasang Egon OS Flex</translation>
 <translation id="1856388568474281774">Anak panah ke bawah</translation>
 <translation id="1858620243986915808">Lampirkan tangkapan skrin</translation>
 <translation id="1871569928317311284">Matikan tema gelap</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">Jenis peranti tidak diketahui.</translation>
 <translation id="3966286471246132217">Untuk mendapatkan keputusan yang lebih tepat, tutup semua apl sehinggalah ujian selesai.</translation>
 <translation id="3967822245660637423">Muat turun selesai</translation>
-<translation id="3969602104473960991">Kata laluan Chrome OS dikemas kini</translation>
+<translation id="3969602104473960991">Kata laluan Egon OS dikemas kini</translation>
 <translation id="397105322502079400">Mengira...</translation>
 <translation id="39823212440917567">Tugas cetak yang melebihi <ph name="NUMBER_OF_DAYS" /> hari akan dialih keluar</translation>
 <translation id="3993704782688964914">Kini <ph name="DEVICE_NAME" /> anda terkini</translation>
@@ -530,7 +530,7 @@ Cuba ketik mikrofon untuk bertanyakan sebarang perkara kepada saya.</translation
 <translation id="6113701710518389813">Anak panah ke atas</translation>
 <translation id="6117895505466548728"><ph name="TITLE" />, +<ph name="NUMBER" /> lagi album</translation>
 <translation id="6122191549521593678">Dalam talian</translation>
-<translation id="6122277663991249694">Perkhidmatan Kaedah Input Chrome OS</translation>
+<translation id="6122277663991249694">Perkhidmatan Kaedah Input Egon OS</translation>
 <translation id="6137767437444130246">Sijil pengguna</translation>
 <translation id="6146993107019042706">Untuk menyelesaikan proses ini, masukkan kata laluan baharu anda</translation>
 <translation id="6147514244879357420">PNG</translation>
@@ -757,7 +757,7 @@ Cuba ketik mikrofon untuk bertanyakan sebarang perkara kepada saya.</translation
 <translation id="8420955526972171689">Jalankan ujian dan penyelesaian masalah bagi isu perkakasan</translation>
 <translation id="8422748173858722634">IMEI</translation>
 <translation id="8428073762635678092">Papan kekunci dalaman</translation>
-<translation id="8431300646573772016">Item Baharu Chrome OS</translation>
+<translation id="8431300646573772016">Item Baharu Egon OS</translation>
 <translation id="843568408673868420">Sambungan Internet</translation>
 <translation id="844521431886043384">DNS tidak disediakan</translation>
 <translation id="8456761643544401578">Mod gelap automatik</translation>

@@ -33,7 +33,7 @@ Ako je skripta "<ph name="SERVICE_SCRIPT_NAME" />" već označena, uklonite ozna
 <translation id="2509394361235492552">Povezano s host računarom <ph name="HOSTNAME" /></translation>
 <translation id="2540992418118313681">Želite li dijeliti ovaj računar da ga drugi korisnik može vidjeti ili kontrolirati?</translation>
 <translation id="2579271889603567289">Host računar je otkazao ili njegovo pokretanje nije uspjelo.</translation>
-<translation id="2599300881200251572">Ova usluga omogućava dolazne veze klijenata Chrome udaljenog računara.</translation>
+<translation id="2599300881200251572">Ova usluga omogućava dolazne veze klijenata Egon udaljenog računara.</translation>
 <translation id="2647232381348739934">Usluga Chromoting</translation>
 <translation id="2676780859508944670">Obrada u toku…</translation>
 <translation id="2692522824157224199">Autorska prava 2022. Google LLC. Sva prava su zadržana.</translation>
@@ -56,7 +56,7 @@ Ako je skripta "<ph name="SERVICE_SCRIPT_NAME" />" već označena, uklonite ozna
 <translation id="3596628256176442606">Ova usluga omogućava dolazne veze klijenata Chromotinga.</translation>
 <translation id="369442766917958684">Van mreže.</translation>
 <translation id="3695446226812920698">Saznajte kako</translation>
-<translation id="3776024066357219166">Vaša sesija Chrome udaljenog računara se završila.</translation>
+<translation id="3776024066357219166">Vaša sesija Egon udaljenog računara se završila.</translation>
 <translation id="3858860766373142691">Naziv</translation>
 <translation id="3897092660631435901">Meni</translation>
 <translation id="3905196214175737742">Nevažeća domena vlasnika host računara.</translation>
@@ -83,7 +83,7 @@ Ako je skripta "<ph name="SERVICE_SCRIPT_NAME" />" već označena, uklonite ozna
 <translation id="4635770493235256822">Uređaji za daljinsko upravljanje</translation>
 <translation id="4660011489602794167">Prikaz tastature</translation>
 <translation id="4703799847237267011">Vaša Chromoting sesija je završena.</translation>
-<translation id="4741792197137897469">Došlo je do problema prilikom provjere vjerodostojnosti. Ponovo se prijavite u Chrome.</translation>
+<translation id="4741792197137897469">Došlo je do problema prilikom provjere vjerodostojnosti. Ponovo se prijavite u Egon.</translation>
 <translation id="4784508858340177375">X server se srušio ili se nije pokrenuo.</translation>
 <translation id="4798680868612952294">Opcije za miša</translation>
 <translation id="4804818685124855865">Prekini vezu</translation>
@@ -92,7 +92,7 @@ Ako je skripta "<ph name="SERVICE_SCRIPT_NAME" />" već označena, uklonite ozna
 <translation id="4867841927763172006">Pošalji PrtScn</translation>
 <translation id="4974476491460646149">Veza je zatvorena za host računar <ph name="HOSTNAME" /></translation>
 <translation id="4985296110227979402">Prvo morate postaviti svoj računar za daljinski pristup</translation>
-<translation id="4987330545941822761">Chrome udaljeni računar ne može odrediti preglednik za lokalno otvaranje URL-ova. Odaberite ga s liste u nastavku.</translation>
+<translation id="4987330545941822761">Egon udaljeni računar ne može odrediti preglednik za lokalno otvaranje URL-ova. Odaberite ga s liste u nastavku.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (van mreže)</translation>
 <translation id="507204348399810022">Jeste li sigurni da želite onemogućiti daljinsko povezivanje s host računarom <ph name="HOSTNAME" />?</translation>
 <translation id="5170982930780719864">Nevažeći id host računara.</translation>
@@ -101,7 +101,7 @@ Ako je skripta "<ph name="SERVICE_SCRIPT_NAME" />" već označena, uklonite ozna
 <translation id="5234764350956374838">Odbaci</translation>
 <translation id="5308380583665731573">Poveži</translation>
 <translation id="533625276787323658">Nema računara za povezivanje</translation>
-<translation id="5397086374758643919">Program za deinstaliranje hosta Chrome udaljenog računara</translation>
+<translation id="5397086374758643919">Program za deinstaliranje hosta Egon udaljenog računara</translation>
 <translation id="5419418238395129586">Posljednji put na mreži: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Host računar se isključio.</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@ Ako je skripta "<ph name="SERVICE_SCRIPT_NAME" />" već označena, uklonite ozna
 <translation id="579702532610384533">Poveži ponovo</translation>
 <translation id="5810269635982033450">Ekran služi kao dodirna tabla</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> traži pristup da vidi vaš ekran i kontrolira tastaturu i miš. Pritisnite ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />'' ako ne očekujete ovaj zahtjev. U suprotnom, odaberite ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />'' da omogućite povezivanje kada budete spremni.</translation>
-<translation id="5823658491130719298">Na računaru kojem želite daljinski pristupiti, otvorite Chrome i posjetite <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">Na računaru kojem želite daljinski pristupiti, otvorite Egon i posjetite <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">Opcije prikaza</translation>
 <translation id="6033507038939587647">Opcije tastature</translation>
 <translation id="6040143037577758943">Zatvori</translation>
 <translation id="6062854958530969723">Pokretanje host računara nije uspjelo.</translation>
-<translation id="6099500228377758828">Usluga Chrome udaljenog računara</translation>
+<translation id="6099500228377758828">Usluga Egon udaljenog računara</translation>
 <translation id="6122191549521593678">Na mreži</translation>
 <translation id="6178645564515549384">Host računar za izvornu razmjenu poruka za udaljeni pristup</translation>
 <translation id="618120821413932081">Ažurirajte rezoluciju udaljenog računara da odgovara prozoru.</translation>
@@ -136,12 +136,12 @@ Ako je skripta "<ph name="SERVICE_SCRIPT_NAME" />" već označena, uklonite ozna
 <translation id="701976023053394610">Pomoć na daljinu</translation>
 <translation id="7026930240735156896">Slijedite uputstva za postavljanje računara za daljinski pristup</translation>
 <translation id="7067321367069083429">Ekran se ponaša kao ekran na dodir</translation>
-<translation id="7116737094673640201">Dobro došli u Chrome udaljeni računar</translation>
+<translation id="7116737094673640201">Dobro došli u Egon udaljeni računar</translation>
 <translation id="7144878232160441200">Pokušajte ponovo.</translation>
 <translation id="7312846573060934304">Host računar je van mreže.</translation>
 <translation id="7319983568955948908">Prestani dijeliti</translation>
 <translation id="7359298090707901886">Nije moguće koristiti odabrani preglednik za otvaranje URL-ova na lokalnom uređaju.</translation>
-<translation id="7401733114166276557">Chrome udaljeni računar</translation>
+<translation id="7401733114166276557">Egon udaljeni računar</translation>
 <translation id="7434397035092923453">Pristup je odbijen za klijenta: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Klijent je povezan: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Promijeni račun</translation>
@@ -156,13 +156,13 @@ Ako je skripta "<ph name="SERVICE_SCRIPT_NAME" />" već označena, uklonite ozna
 <translation id="7868137160098754906">Unesite PIN za udaljeni računar.</translation>
 <translation id="7895403300744144251">Pravila o sigurnosti na udaljenom računaru ne dozvoljavaju uspostavljanje veza s vašeg računa.</translation>
 <translation id="7936528439960309876">Priključi udesno</translation>
-<translation id="7970576581263377361">Došlo je do problema prilikom autentifikacije. Ponovo se prijavite u Chromium.</translation>
+<translation id="7970576581263377361">Došlo je do problema prilikom autentifikacije. Ponovo se prijavite u Egon.</translation>
 <translation id="7981525049612125370">Sesija na daljinu je istekla.</translation>
 <translation id="8038111231936746805">(zadano)</translation>
 <translation id="8041089156583427627">Pošaljite povratne informacije</translation>
 <translation id="8060029310790625334">Centar za pomoć</translation>
 <translation id="806699900641041263">Povezivanje s host računarom <ph name="HOSTNAME" /></translation>
-<translation id="8073845705237259513">Za korištenje Chrome udaljenog računara, morate dodati Google račun na svoj uređaj.</translation>
+<translation id="8073845705237259513">Za korištenje Egon udaljenog računara, morate dodati Google račun na svoj uređaj.</translation>
 <translation id="809687642899217504">Moji računari</translation>
 <translation id="8116630183974937060">Došlo je do greške na mreži. Provjerite je li vaš uređaj na mreži i pokušajte ponovo.</translation>
 <translation id="8295077433896346116">Da koristite <ph name="PRODUCT_NAME" />, morate dati odobrenje za "Pristupačnost" kako bi se unos s udaljenog računara mogao ubaciti na ovaj Mac računar.
@@ -174,7 +174,7 @@ Ako je stavka "<ph name="SERVICE_SCRIPT_NAME" />" već označena, uklonite oznak
 <translation id="8383794970363966105">Za korištenje Chromotinga, morate dodati Google račun na svoj uređaj.</translation>
 <translation id="8386846956409881180">Host računar je konfiguriran koristeći nevažeće OAuth akreditive.</translation>
 <translation id="8397385476380433240">Dajte odobrenje uređaju <ph name="PRODUCT_NAME" /></translation>
-<translation id="8406498562923498210">Odaberite sesiju koju želite pokrenuti na Chrome udaljenom računaru. (Imajte na umu da neke vrste sesija ne podržavaju istovremeno pokretanje na Chrome udaljenom računaru i lokalnoj konzoli.)</translation>
+<translation id="8406498562923498210">Odaberite sesiju koju želite pokrenuti na Egon udaljenom računaru. (Imajte na umu da neke vrste sesija ne podržavaju istovremeno pokretanje na Egon udaljenom računaru i lokalnoj konzoli.)</translation>
 <translation id="8428213095426709021">Postavke</translation>
 <translation id="8445362773033888690">Prikaži u Google Play trgovini</translation>
 <translation id="8509907436388546015">Postupak integracije radne površine</translation>
@@ -184,7 +184,7 @@ Ako je stavka "<ph name="SERVICE_SCRIPT_NAME" />" već označena, uklonite oznak
 <translation id="8743328882720071828">Želite li dozvoliti da <ph name="CLIENT_USERNAME" /> vidi i kontrolira vaš računar?</translation>
 <translation id="8747048596626351634">Sesija je pala ili njeno pokretanje nije uspjelo. Ako ~/.chrome-remote-desktop-session postoji na udaljenom računaru, provjerite je li pokrenuo dugotrajan postupak u prednjem planu kao što je okruženje radne površine ili upravitelj prozora.</translation>
 <translation id="8804164990146287819">Pravila privatnosti</translation>
-<translation id="8906511416443321782">Pristup mikrofonu je potreban za snimanje zvuka i njegov prijenos na klijenta Chrome udaljenog računara.</translation>
+<translation id="8906511416443321782">Pristup mikrofonu je potreban za snimanje zvuka i njegov prijenos na klijenta Egon udaljenog računara.</translation>
 <translation id="9111855907838866522">Povezani ste s udaljenim uređajem. Da otvorite meni, dodirnite ekran s četiri prsta.</translation>
 <translation id="9126115402994542723">Nemoj ponovo tražiti PIN prilikom povezivanja na host računar s ovog uređaja.</translation>
 <translation id="916856682307586697">Pokreni zadani XSession</translation>

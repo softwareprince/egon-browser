@@ -33,11 +33,11 @@
 <translation id="2509394361235492552">已连接到“<ph name="HOSTNAME" />”</translation>
 <translation id="2540992418118313681">您要与其他用户共享此计算机的查看和控制权限吗？</translation>
 <translation id="2579271889603567289">主机已崩溃或未能顺利启动。</translation>
-<translation id="2599300881200251572">此服务允许来自 Chrome 远程桌面客户端的连接。</translation>
-<translation id="2647232381348739934">Chrome 远程访问服务</translation>
+<translation id="2599300881200251572">此服务允许来自 Egon 远程桌面客户端的连接。</translation>
+<translation id="2647232381348739934">Egon 远程访问服务</translation>
 <translation id="2676780859508944670">运行中…</translation>
 <translation id="2692522824157224199">版权所有 2022 Google LLC。保留所有权利。</translation>
-<translation id="2699970397166997657">Chrome 远程访问</translation>
+<translation id="2699970397166997657">Egon 远程访问</translation>
 <translation id="2758123043070977469">验证您的身份时出问题了，请重新登录。</translation>
 <translation id="2803375539583399270">输入 PIN 码</translation>
 <translation id="2919669478609886916">您目前正在与其他用户共享此计算机。您希望继续共享吗？</translation>
@@ -53,10 +53,10 @@
 <translation id="3385242214819933234">主机所有者无效。</translation>
 <translation id="3423542133075182604">安全密钥远程处理</translation>
 <translation id="3581045510967524389">无法连接到网络。请检查您的设备是否已连接到网络。</translation>
-<translation id="3596628256176442606">此服务允许来自 Chrome 远程访问客户端的连接。</translation>
+<translation id="3596628256176442606">此服务允许来自 Egon 远程访问客户端的连接。</translation>
 <translation id="369442766917958684">离线。</translation>
 <translation id="3695446226812920698">如何解决</translation>
-<translation id="3776024066357219166">您的 Chrome 远程桌面会话已结束。</translation>
+<translation id="3776024066357219166">您的 Egon 远程桌面会话已结束。</translation>
 <translation id="3858860766373142691">名称</translation>
 <translation id="3897092660631435901">菜单</translation>
 <translation id="3905196214175737742">主机所有者所在网域无效。</translation>
@@ -69,11 +69,11 @@
 <translation id="4155497795971509630">缺少某些必需的组件。请确保您已安装该软件的最新版本，然后重试。</translation>
 <translation id="4176825807642096119">访问代码</translation>
 <translation id="4227991223508142681">主机配置实用程序</translation>
-<translation id="4240294130679914010">Chrome 远程访问主机卸载程序</translation>
+<translation id="4240294130679914010">Egon 远程访问主机卸载程序</translation>
 <translation id="4257751272692708833"><ph name="PRODUCT_NAME" />地址转发工具</translation>
 <translation id="4277736576214464567">访问代码无效，请重试。</translation>
 <translation id="4281844954008187215">服务条款</translation>
-<translation id="4372650392690220936">版权所有 2022 The Chromium Authors。保留所有权利。</translation>
+<translation id="4372650392690220936">版权所有 2022 The Egon Authors。保留所有权利。</translation>
 <translation id="4405930547258349619">核心数据库</translation>
 <translation id="443560535555262820">打开“无障碍”偏好设置</translation>
 <translation id="4450893287417543264">不再显示</translation>
@@ -82,8 +82,8 @@
 <translation id="4618411825115957973"><ph name="URL_FORWARDER_NAME" />未正确配置。请选择其他默认网络浏览器，然后重新启用网址转发功能。</translation>
 <translation id="4635770493235256822">远程设备</translation>
 <translation id="4660011489602794167">显示键盘</translation>
-<translation id="4703799847237267011">您的 Chrome 远程访问会话已结束。</translation>
-<translation id="4741792197137897469">身份验证失败。请重新登录 Chrome。</translation>
+<translation id="4703799847237267011">您的 Egon 远程访问会话已结束。</translation>
+<translation id="4741792197137897469">身份验证失败。请重新登录 Egon。</translation>
 <translation id="4784508858340177375">X 服务器已崩溃或未能顺利启动。</translation>
 <translation id="4798680868612952294">鼠标选项</translation>
 <translation id="4804818685124855865">断开连接</translation>
@@ -92,7 +92,7 @@
 <translation id="4867841927763172006">发送PrtScn</translation>
 <translation id="4974476491460646149">与“<ph name="HOSTNAME" />”的连接已关闭</translation>
 <translation id="4985296110227979402">您需要先设置计算机，然后才能进行远程访问</translation>
-<translation id="4987330545941822761">Chrome 远程桌面无法确定应使用哪款浏览器在本地打开网址。请从下面的列表中选择。</translation>
+<translation id="4987330545941822761">Egon 远程桌面无法确定应使用哪款浏览器在本地打开网址。请从下面的列表中选择。</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" />（离线）</translation>
 <translation id="507204348399810022">确定要停用与“<ph name="HOSTNAME" />”的远程连接吗？</translation>
 <translation id="5170982930780719864">主机 ID 无效。</translation>
@@ -101,7 +101,7 @@
 <translation id="5234764350956374838">关闭</translation>
 <translation id="5308380583665731573">连接</translation>
 <translation id="533625276787323658">没有可连接到的计算机</translation>
-<translation id="5397086374758643919">Chrome 远程桌面主机卸载程序</translation>
+<translation id="5397086374758643919">Egon 远程桌面主机卸载程序</translation>
 <translation id="5419418238395129586">上次在线日期：<ph name="DATE" /></translation>
 <translation id="544077782045763683">主机已关机。</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@
 <translation id="579702532610384533">重新连接</translation>
 <translation id="5810269635982033450">屏幕充当触控板</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> 已请求获权查看您的屏幕并控制您的键盘和鼠标。如果您不愿批准这项请求，请按“<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />”。否则，请在准备就绪后选择“<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />”以允许建立这项关联。</translation>
-<translation id="5823658491130719298">在您要远程访问的计算机上，打开 Chrome 并访问 <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">在您要远程访问的计算机上，打开 Egon 并访问 <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">显示选项</translation>
 <translation id="6033507038939587647">键盘选项</translation>
 <translation id="6040143037577758943">关闭</translation>
 <translation id="6062854958530969723">主机初始化失败。</translation>
-<translation id="6099500228377758828">Chrome 远程桌面服务</translation>
+<translation id="6099500228377758828">Egon 远程桌面服务</translation>
 <translation id="6122191549521593678">在线</translation>
 <translation id="6178645564515549384">用于远程协助的本地消息传递主机</translation>
 <translation id="618120821413932081">更新远程桌面的分辨率以适合浏览器窗口的大小</translation>
@@ -136,12 +136,12 @@
 <translation id="701976023053394610">远程协助</translation>
 <translation id="7026930240735156896">按照说明设置计算机以供远程访问</translation>
 <translation id="7067321367069083429">屏幕充当触摸屏</translation>
-<translation id="7116737094673640201">欢迎使用 Chrome 远程桌面</translation>
+<translation id="7116737094673640201">欢迎使用 Egon 远程桌面</translation>
 <translation id="7144878232160441200">重试</translation>
 <translation id="7312846573060934304">主机未连接到网络。</translation>
 <translation id="7319983568955948908">停止共享</translation>
 <translation id="7359298090707901886">无法使用所选浏览器在本地计算机上打开网址。</translation>
-<translation id="7401733114166276557">Chrome 远程桌面</translation>
+<translation id="7401733114166276557">Egon 远程桌面</translation>
 <translation id="7434397035092923453"><ph name="CLIENT_USERNAME" /> 访问客户端的请求遭拒。</translation>
 <translation id="7444276978508498879">已连接客户端：<ph name="CLIENT_USERNAME" />。</translation>
 <translation id="7526139040829362392">更改帐号</translation>
@@ -156,7 +156,7 @@
 <translation id="7868137160098754906">请为远程计算机输入PIN码。</translation>
 <translation id="7895403300744144251">这台远程计算机的安全政策不允许从您的帐号进行连接。</translation>
 <translation id="7936528439960309876">固定到右侧</translation>
-<translation id="7970576581263377361">身份验证失败。请重新登录 Chromium。</translation>
+<translation id="7970576581263377361">身份验证失败。请重新登录 Egon。</translation>
 <translation id="7981525049612125370">远程会话已过期。</translation>
 <translation id="8038111231936746805">（默认）</translation>
 <translation id="8041089156583427627">发送反馈</translation>
@@ -174,7 +174,7 @@
 <translation id="8383794970363966105">要使用Chrome远程访问，您需要先为自己的设备添加一个Google帐号。</translation>
 <translation id="8386846956409881180">为主机指定的 OAuth 凭据无效。</translation>
 <translation id="8397385476380433240">向 <ph name="PRODUCT_NAME" />授予权限</translation>
-<translation id="8406498562923498210">请选择要在 Chrome 远程桌面环境下启动的会话。（注意：某些会话类型可能不支持同时在 Chrome 远程桌面和本地控制台运行。）</translation>
+<translation id="8406498562923498210">请选择要在 Egon 远程桌面环境下启动的会话。（注意：某些会话类型可能不支持同时在 Egon 远程桌面和本地控制台运行。）</translation>
 <translation id="8428213095426709021">设置</translation>
 <translation id="8445362773033888690">在Google Play商店中查看</translation>
 <translation id="8509907436388546015">桌面集成进程</translation>
@@ -184,13 +184,13 @@
 <translation id="8743328882720071828">您要允许 <ph name="CLIENT_USERNAME" /> 查看和控制您的计算机吗？</translation>
 <translation id="8747048596626351634">会话已崩溃或未能顺利启动。如果远程计算机上存在 ~/.chrome-remote-desktop-session，请确保它会启动一个能长时间运行的前台进程（例如桌面环境或窗口管理器）。</translation>
 <translation id="8804164990146287819">隐私权政策</translation>
-<translation id="8906511416443321782">必须具备麦克风使用权限，才能捕获音频并将其流式传输到 Chrome 远程桌面客户端。</translation>
+<translation id="8906511416443321782">必须具备麦克风使用权限，才能捕获音频并将其流式传输到 Egon 远程桌面客户端。</translation>
 <translation id="9111855907838866522">您已连接到远程设备。要打开菜单，请用四根手指点按屏幕。</translation>
 <translation id="9126115402994542723">从这台设备连接到此主机时不再要求输入PIN码。</translation>
 <translation id="916856682307586697">启动默认的 XSession</translation>
 <translation id="9187628920394877737">向 <ph name="PRODUCT_NAME" />授予“屏幕录制”权限</translation>
 <translation id="9213184081240281106">主机配置无效。</translation>
 <translation id="981121421437150478">离线</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Egon Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" />（上次联网时间：<ph name="DATE_OR_TIME" />）</translation>
 </translationbundle>

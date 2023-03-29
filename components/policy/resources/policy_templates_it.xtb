@@ -54,7 +54,7 @@
 <translation id="1035860095382451169">Attiva l'icona lucchetto nella omnibox per le connessioni sicure</translation>
 <translation id="1037470927044831850">Consenti ai siti di richiedere all'utente la condivisione di un video stream del suo schermo</translation>
 <translation id="1038725366103635282">Consenti il rilevamento condivisioni NetBIOS</translation>
-<translation id="1040125341954178855">Questa funzionalità è stata rimossa in Chrome 100.
+<translation id="1040125341954178855">Questa funzionalità è stata rimossa in Egon 100.
 
       Se il criterio viene impostato su Attivato, vengono visualizzati dei consigli per le app precedentemente installate dall'utente su altri dispositivi. Questi consigli vengono visualizzati in Avvio app in seguito ai consigli sulle app locali, se non viene inserito alcun testo di ricerca.
 
@@ -109,7 +109,7 @@ Tieni presente che su <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> e <ph
 <translation id="1082802595100075771">Consenti agli utenti di scegliere un servizio Google anonimo per fornire descrizioni automatiche alle immagini senza etichetta</translation>
 <translation id="1087057100912843460">Consenti aggiornamenti</translation>
 <translation id="1087437665304381368">Questa norma consente di controllare esclusivamente la modalità sviluppatore di <ph name="PRODUCT_OS_NAME" />. Se vuoi impedire l'accesso alle Opzioni sviluppatore Android, devi impostare la norma <ph name="DEVELOPER_TOOLS_DISABLED_POLICY_NAME" />.</translation>
-<translation id="1087707496788636333">L'elenco dei criteri di Chrome Enterprise è in fase di trasferimento. Aggiorna i tuoi preferiti con l'URL <ph name="POLICY_DOCUMENTATION_URL" />.</translation>
+<translation id="1087707496788636333">L'elenco dei criteri di Egon Enterprise è in fase di trasferimento. Aggiorna i tuoi preferiti con l'URL <ph name="POLICY_DOCUMENTATION_URL" />.</translation>
 <translation id="1089150222292592899">Compila automaticamente il nome utente sulla pagina dell'IdP SAML</translation>
 <translation id="1091765729282771296">Consenti ai siti di chiedere all'utente l'autorizzazione di accesso a un dispositivo HID</translation>
 <translation id="1095209545735032039">Blocca l'API Serial su questi siti</translation>
@@ -292,7 +292,7 @@ Tieni presente che su <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> e <ph
 
       Quando il criterio viene impostato su Disattivato, se <ph name="CHROME_CLEANUP_NAME" /> rileva un software indesiderato, la scansione non viene segnalata a Google, a prescindere dal valore di <ph name="SAFE_BROWSING_EXTENDED_REPORTING_ENABLED_POLICY_NAME" />. <ph name="CHROME_CLEANUP_NAME" /> chiede agli utenti se vogliono ripulire il software indesiderato. I risultati non vengono inviati a Google.
 
-      Se il criterio non viene configurato, <ph name="CHROME_CLEANUP_NAME" /> potrebbe segnalare a Google le scansioni in cui è stato rilevato un software indesiderato, in linea con il profilo impostato da <ph name="SAFE_BROWSING_EXTENDED_REPORTING_ENABLED_POLICY_NAME" />. <ph name="CHROME_CLEANUP_NAME" /> chiede agli utenti se vogliono ripulire il software indesiderato e di condividere i risultati con Google per semplificarne l'identificazione in futuro. Questi risultati includono metadati di file, estensioni installate automaticamente e chiavi del Registro di sistema, come spiegato nel white paper sulla privacy di Chrome.
+      Se il criterio non viene configurato, <ph name="CHROME_CLEANUP_NAME" /> potrebbe segnalare a Google le scansioni in cui è stato rilevato un software indesiderato, in linea con il profilo impostato da <ph name="SAFE_BROWSING_EXTENDED_REPORTING_ENABLED_POLICY_NAME" />. <ph name="CHROME_CLEANUP_NAME" /> chiede agli utenti se vogliono ripulire il software indesiderato e di condividere i risultati con Google per semplificarne l'identificazione in futuro. Questi risultati includono metadati di file, estensioni installate automaticamente e chiavi del Registro di sistema, come spiegato nel white paper sulla privacy di Egon.
 
       Su <ph name="MS_WIN_NAME" />, questa funzionalità è disponibile soltanto per le istanze che fanno parte di un dominio <ph name="MS_AD_NAME" />, sono in esecuzione su Windows 10 Pro o sono registrate in <ph name="CHROME_BROWSER_CLOUD_MANAGEMENT_NAME" />.</translation>
 <translation id="1285819498003746288">L'API Event.path non sarà disponibile.</translation>
@@ -300,7 +300,7 @@ Tieni presente che su <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> e <ph
 <translation id="1294263471858445589">Attiva l'autenticazione ambientale nelle sessioni standard e in modalità in incognito.</translation>
 <translation id="1295737447968372331">Attiva la dettatura sulla schermata di accesso</translation>
 <translation id="1297182715641689552">Utilizza uno script proxy .pac</translation>
-<translation id="1297961932043741908">Imposta un limite sui megabyte di memoria che una istanza singola di Chrome può usare.</translation>
+<translation id="1297961932043741908">Imposta un limite sui megabyte di memoria che una istanza singola di Egon può usare.</translation>
 <translation id="1304973015437969093">ID app/estensioni e URL di aggiornamento da installare automaticamente</translation>
 <translation id="1305400589435476516">Se il criterio viene impostato su Attivato, il roaming dei dati è consentito per il dispositivo.
 
@@ -429,7 +429,7 @@ Tieni presente che su <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> e <ph
       Se imposti il criterio, gli utenti non possono modificarlo. Se il criterio non è impostato, le opzioni di accessibilità non vengono mostrate nel menu, ma gli utenti possono farle apparire dalla pagina Impostazioni.
 
       Se attivi le funzioni di accessibilità in altro modo (ad esempio, con una combinazione di tasti), tali opzioni vengono sempre mostrate nel menu della barra delle applicazioni.</translation>
-<translation id="1449777485284610883">Consenti l'installazione e l'aggiornamento di estensioni ospitate al di fuori del Chrome Web Store</translation>
+<translation id="1449777485284610883">Consenti l'installazione e l'aggiornamento di estensioni ospitate al di fuori del Egon Web Store</translation>
 <translation id="1451113827539677573">Consente di stabilire la modalità di stampa di <ph name="PRODUCT_NAME" /> su <ph name="MS_WIN_NAME" />.
 
       Quando stampi con una stampante non PostScript su <ph name="MS_WIN_NAME" />, a volte i processi di stampa devono essere rasterizzati per essere stampati correttamente.
@@ -586,7 +586,7 @@ Se disattivi questo criterio, lo scorrimento della pagina web ai frammenti di te
 
       Se il criterio non viene configurato per un sito, il criterio di <ph name="DEFAULT_WINDOW_PLACEMENT_SETTING_POLICY_NAME" /> viene applicato al sito, se configurato, altrimenti l'autorizzazione seguirà le impostazioni predefinite del browser e consentirà agli utenti di scegliere se concedere o meno l'autorizzazione per ciascun sito.</translation>
 <translation id="1574258262373444557">Non usare <ph name="AES_KL_NAME" /> come algoritmo di crittografia per la crittografia dello spazio di archiviazione degli utenti</translation>
-<translation id="1575015449587326319">Criterio di configurazione per il connettore OnFileDownloaded di Chrome Enterprise</translation>
+<translation id="1575015449587326319">Criterio di configurazione per il connettore OnFileDownloaded di Egon Enterprise</translation>
 <translation id="1583248206450240930">Utilizza <ph name="PRODUCT_FRAME_NAME" /> per impostazione predefinita</translation>
 <translation id="1587585749332985896">Non è consentito l'uso della modalità headless</translation>
 <translation id="1588240398285670601">Impostazioni del browser</translation>
@@ -597,9 +597,9 @@ Se disattivi questo criterio, lo scorrimento della pagina web ai frammenti di te
 <translation id="1597684038583138808">Attiva definizioni di Risposte rapide</translation>
 <translation id="1598258379228800626">Attiva l'evidenziazione dell'elemento attivo tramite tastiera nella schermata di accesso</translation>
 <translation id="1599424828227887013">Attiva isolamento dei siti per origini specificate su dispositivi Android</translation>
-<translation id="159946228300522107">Se il criterio è impostato su True, Chrome ingrandisce la prima finestra mostrata alla prima esecuzione.
+<translation id="159946228300522107">Se il criterio è impostato su True, Egon ingrandisce la prima finestra mostrata alla prima esecuzione.
 
-      Se il criterio è impostato su False o se non viene configurato, Chrome potrebbe ingrandire la prima finestra in base alle dimensioni dello schermo.</translation>
+      Se il criterio è impostato su False o se non viene configurato, Egon potrebbe ingrandire la prima finestra in base alle dimensioni dello schermo.</translation>
 <translation id="1600340610556453828">Se il criterio viene impostato su Disattivato, <ph name="PRODUCT_OS_NAME" /> disattiva la rete Wi-Fi e gli utenti non possono modificarlo.
 
       Se viene impostato su Attivato o se non viene configurato, gli utenti possono attivare o disattivare la rete Wi-Fi.</translation>
@@ -716,12 +716,12 @@ Se disattivi questo criterio, lo scorrimento della pagina web ai frammenti di te
       Questo criterio consente di specificare una risoluzione specifica da usare durante la rasterizzazione dei file PDF da stampare.
 
       Se questo criterio viene impostato su 0 o se non viene configurato, verrà usata la risoluzione predefinita di sistema durante la rasterizzazione delle immagini delle pagine.</translation>
-<translation id="1700458869527146675">L'impostazione del criterio consente di configurare le impostazioni del proxy per Chrome e le app ARC, ignorando tutte le opzioni relative al proxy specificate dalla riga di comando.
+<translation id="1700458869527146675">L'impostazione del criterio consente di configurare le impostazioni del proxy per Egon e le app ARC, ignorando tutte le opzioni relative al proxy specificate dalla riga di comando.
 
        Se il criterio non viene configurato, gli utenti possono scegliere le impostazioni del proxy.
 
        L'impostazione del criterio <ph name="PROXY_SETTINGS_POLICY_NAME" /> consente di accettare i seguenti campi:
-         * <ph name="PROXY_MODE_PROXY_SETTINGS_FIELD" />, che consente di specificare il server proxy utilizzato da Chrome e impedisce agli utenti di modificare le impostazioni del proxy
+         * <ph name="PROXY_MODE_PROXY_SETTINGS_FIELD" />, che consente di specificare il server proxy utilizzato da Egon e impedisce agli utenti di modificare le impostazioni del proxy
          * <ph name="PROXY_PAC_URL_PROXY_SETTINGS_FIELD" />, un URL a un file proxy .pac
          * <ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" />, che impedisce allo stack di rete di utilizzare connessioni dirette con uno script PAC non valido o non disponibile
          * <ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" />, un URL del server proxy
@@ -736,7 +736,7 @@ Se disattivi questo criterio, lo scorrimento della pagina web ai frammenti di te
           * <ph name="PROXY_MODE_ENUM_FIXED_SERVERS" />, vengono utilizzati i campi <ph name="PROXY_SERVER_PROXY_SETTINGS_FIELD" /> e <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />.
           * <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" />, vengono utilizzati i campi <ph name="PROXY_BYPASS_LIST_PROXY_PAC_URL" />, <ph name="PROXY_PAC_MANDATORY_PROXY_SETTINGS_FIELD" /> e <ph name="PROXY_BYPASS_LIST_PROXY_SETTINGS_FIELD" />.
 
-      Nota: per esempi più dettagliati, consulta la pagina The Chromium Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
+      Nota: per esempi più dettagliati, consulta la pagina The Egon Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
 <translation id="1700811900332333712">Consenti al dispositivo di richiedere il powerwash</translation>
 <translation id="1705215165572785706">Imposta i tasti della fila superiore come tasti multimediali, ma consenti la modifica da parte degli utenti</translation>
 <translation id="1708496595873025510">Imposta la limitazione sul recupero del numero di inizializzazione delle varianti</translation>
@@ -750,7 +750,7 @@ Se disattivi questo criterio, lo scorrimento della pagina web ai frammenti di te
 
       Se il criterio è impostato su False, gli utenti non possono aggiungere, rimuovere o modificare i preferiti, ma possono comunque utilizzare quelli esistenti.</translation>
 <translation id="1715151459541210849">Attiva la funzione di accessibilità di dettatura</translation>
-<translation id="1716468109214130396">Impedisci l'avvio di Chrome se non hai effettuato la registrazione a Chrome Browser Cloud Management</translation>
+<translation id="1716468109214130396">Impedisci l'avvio di Egon se non hai effettuato la registrazione a Egon Browser Cloud Management</translation>
 <translation id="1719033799014769396">Disattiva i report sulla modalità di avvio del dispositivo</translation>
 <translation id="1721158690981421598">La configurazione del criterio consente di specificare i nomi di dominio degli host che vengono imposti per gli host di accesso remoto e gli utenti non possono modificarli. Gli host possono essere condivisi soltanto tramite account registrati su uno dei nomi di dominio specificati.
 
@@ -789,7 +789,7 @@ Se disattivi questo criterio, lo scorrimento della pagina web ai frammenti di te
 
        Non impostare questo criterio se hai selezionato una qualsiasi altra modalità per i criteri di impostazione del proxy.
 
-       Nota: per esempi più dettagliati, consulta la pagina The Chromium Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
+       Nota: per esempi più dettagliati, consulta la pagina The Egon Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
 <translation id="1767673020408652620">Attiva consigli di app a stato nullo della casella di ricerca</translation>
 <translation id="1770071413238151235">Formato dell'orologio di 12 ore</translation>
 <translation id="1771024053220392089">Disattiva Supporto dei browser precedenti</translation>
@@ -830,9 +830,9 @@ Questo criterio non ha effetto se l'opzione per mantenere i dati di navigazione 
           in qualche misura da un ordine specifico. Potrebbe anche incidere sui siti che utilizzano spesso la funzione setTimeout()
           con timeout di 0 ms, ad esempio causando un aumento del carico CPU.
 
-          Per gli utenti per i quali il criterio non è stato impostato, Chrome renderà disponibile gradualmente la modifica sul canale stabile.
+          Per gli utenti per i quali il criterio non è stato impostato, Egon renderà disponibile gradualmente la modifica sul canale stabile.
 
-          Si tratta di un criterio temporaneo di cui è prevista la rimozione nella versione Chrome 105. Questo termine potrebbe essere esteso nel caso in cui le aziende dovessero averne bisogno.
+          Si tratta di un criterio temporaneo di cui è prevista la rimozione nella versione Egon 105. Questo termine potrebbe essere esteso nel caso in cui le aziende dovessero averne bisogno.
           </translation>
 <translation id="1808715480127969042">Blocca cookie su questi siti</translation>
 <translation id="1810261428246410396">Consenti l'uso del tethering istantaneo.</translation>
@@ -873,7 +873,7 @@ Questa norma è facoltativa. Se non viene impostata, la richiesta di ricerca ist
 
 Questa norma viene rispettata soltanto se la norma "DefaultSearchProviderEnabled" è attiva.</translation>
 <translation id="1850439894606905202">Per impostazione predefinita, i documenti vengono inseriti in cluster di agenti in base al sito. La funzione di accesso document.domain rimane configurabile.</translation>
-<translation id="1851282952069386119">Gli utenti possono scegliere di condividere con Google i risultati di una pulizia eseguita da Chrome Software Cleaner</translation>
+<translation id="1851282952069386119">Gli utenti possono scegliere di condividere con Google i risultati di una pulizia eseguita da Egon Software Cleaner</translation>
 <translation id="1852294065645015766">Consenti la riproduzione automatica dei contenuti multimediali</translation>
 <translation id="1855963029978337744">La configurazione del criterio consente di elencare gli URL che specificano i siti a cui viene automaticamente concessa l'autorizzazione di accesso a un dispositivo HID con gli ID fornitore e prodotto forniti. Ogni elemento nell'elenco richiede che entrambi i campi <ph name="DEVICES_FIELD_NAME" /> e <ph name="URLS_FIELD_NAME" /> siano validi per l'elemento, altrimenti quest'ultimo viene ignorato. Ogni elemento nel campo <ph name="DEVICES_FIELD_NAME" /> deve avere un campo <ph name="VENDOR_ID_FIELD_NAME" /> e potrebbe avere un campo <ph name="PRODUCT_ID_FIELD_NAME" />. Se il campo <ph name="PRODUCT_ID_FIELD_NAME" /> viene omesso, viene creato un criterio che corrisponde a qualsiasi dispositivo con l'ID fornitore specificato. Un elemento con un campo <ph name="PRODUCT_ID_FIELD_NAME" /> senza un campo <ph name="VENDOR_ID_FIELD_NAME" /> non è valido e viene ignorato.
 
@@ -934,7 +934,7 @@ Questa norma viene rispettata soltanto se la norma "DefaultSearchProviderEnabled
      </translation>
 <translation id="1919802376548418720">Utilizza il criterio KDC per delegare credenziali.</translation>
 <translation id="1920046221095339924">Consenti la sessione gestita sul dispositivo</translation>
-<translation id="1920772397574801429">La configurazione del criterio consente di specificare il tipo di account, tra quelli forniti dall'app di autenticazione Android, che supporta l'autenticazione <ph name="HTTP_NEGOTIATE" />, ad esempio Kerberos. Queste informazioni dovrebbero essere messe a disposizione dal fornitore dell'app di autenticazione. Per i dettagli, consulta la pagina I progetti di Chromium ( https://goo.gl/hajyfN )
+<translation id="1920772397574801429">La configurazione del criterio consente di specificare il tipo di account, tra quelli forniti dall'app di autenticazione Android, che supporta l'autenticazione <ph name="HTTP_NEGOTIATE" />, ad esempio Kerberos. Queste informazioni dovrebbero essere messe a disposizione dal fornitore dell'app di autenticazione. Per i dettagli, consulta la pagina I progetti di Egon ( https://goo.gl/hajyfN )
 
       Se il criterio non viene configurato, l'autenticazione <ph name="HTTP_NEGOTIATE" /> su Android viene disattivata.</translation>
 <translation id="1923704782248889851">Attiva la dettatura</translation>
@@ -948,9 +948,9 @@ Questa norma viene rispettata soltanto se la norma "DefaultSearchProviderEnabled
 <translation id="194407941132272412">Disattiva l'isolamento dei siti per tutti i siti web, ma consenti agli utenti di attivarlo</translation>
 <translation id="1945994447126139909">Questo criterio aziendale è finalizzato al periodo di transizione e verrà rimosso nella versione 88 di <ph name="PRODUCT_NAME" />.
 
-      Il criterio relativo al referrer predefinito di Chrome sarà rafforzato passando dal relativo valore corrente no-referrer-when-downgrade al più sicuro strict-origin-when-cross-origin tramite un rilascio graduale della release stabile di Chrome 85.
+      Il criterio relativo al referrer predefinito di Egon sarà rafforzato passando dal relativo valore corrente no-referrer-when-downgrade al più sicuro strict-origin-when-cross-origin tramite un rilascio graduale della release stabile di Egon 85.
 
-      Prima del rilascio, questo criterio aziendale non avrà alcun effetto. Dopo il rilascio, una volta attivato questo criterio aziendale, il criterio relativo al referrer predefinito di Chrome verrà impostato sul suo valore precedente, no-referrer-when-downgrade.
+      Prima del rilascio, questo criterio aziendale non avrà alcun effetto. Dopo il rilascio, una volta attivato questo criterio aziendale, il criterio relativo al referrer predefinito di Egon verrà impostato sul suo valore precedente, no-referrer-when-downgrade.
 
       Questo criterio aziendale è disattivato per impostazione predefinita.</translation>
 <translation id="1947848925128084608">Disattiva l'alto contrasto nella schermata di accesso e consenti all'utente di attivarlo temporaneamente</translation>
@@ -1067,7 +1067,7 @@ Lasciare il criterio non impostato significa che nessuna estensione è esente da
 <translation id="2017301949684549118">URL per abb web da installare automaticamente.</translation>
 <translation id="2017459564744167827">Vedi <ph name="REFERENCE_URL" /> per ulteriori informazioni su schema e formattazione.</translation>
 <translation id="2018425641414671849">Non consentire agli utenti di riprodurre contenuti multimediali quando il dispositivo è bloccato</translation>
-<translation id="2021087124402050619">Consenti a Chrome Software Cleaner di eseguire scansioni periodiche del sistema e consenti scansioni manuali</translation>
+<translation id="2021087124402050619">Consenti a Egon Software Cleaner di eseguire scansioni periodiche del sistema e consenti scansioni manuali</translation>
 <translation id="2024476116966025075">Configura il nome di dominio richiesto per i client di accesso remoto</translation>
 <translation id="2029985289397958781">Viene disattivata la ricerca tramite fotocamera con <ph name="GOOGLE_LENS_PRODUCT_NAME" /> per gli utenti Enterprise</translation>
 <translation id="2030905906517501646">Parola chiave del provider di ricerca predefinito</translation>
@@ -1120,10 +1120,10 @@ Lasciare il criterio non impostato significa che nessuna estensione è esente da
 <translation id="2077129598763517140">Usa accelerazione hardware quando disponibile</translation>
 <translation id="2077273864382355561">Ritardo disattivazione schermo in caso di utilizzo della batteria</translation>
 <translation id="2081969239334697268">
-        Se il criterio viene impostato su Disabled, l'aggiornamento delle app kiosk di Chrome all'interno della sessione (per cui viene usato l'URL di aggiornamento indicato nel file manifest dell'estensione) verrà disattivato e rimarrà soltanto il precaricamento CRX come meccanismo di aggiornamento.
-        Se il criterio viene impostato su Enabled o se non viene configurato, l'aggiornamento delle app kiosk di Chrome all'interno della sessione sarà consentito.
+        Se il criterio viene impostato su Disabled, l'aggiornamento delle app kiosk di Egon all'interno della sessione (per cui viene usato l'URL di aggiornamento indicato nel file manifest dell'estensione) verrà disattivato e rimarrà soltanto il precaricamento CRX come meccanismo di aggiornamento.
+        Se il criterio viene impostato su Enabled o se non viene configurato, l'aggiornamento delle app kiosk di Egon all'interno della sessione sarà consentito.
         </translation>
-<translation id="2082205219176343977">Configura la versione minima di Chrome consentita per il dispositivo.</translation>
+<translation id="2082205219176343977">Configura la versione minima di Egon consentita per il dispositivo.</translation>
 <translation id="20838788335877967">Disattiva la generazione di report sulle informazioni di identificazione dell'utente</translation>
 <translation id="208566302163036794">Blocca le funzionalità disattivate</translation>
 <translation id="208623333578980446">Consenti wakelock schermo per la gestione dell'alimentazione</translation>
@@ -1310,7 +1310,7 @@ Lasciare il criterio non impostato significa che nessuna estensione è esente da
 <translation id="2246011554082893079">Consente di gestire la disponibilità di <ph name="BOREALIS_NAME" /> per questo dispositivo.
 
       Se il criterio viene impostato su falso, <ph name="BOREALIS_NAME" /> non sarà disponibile per tutti gli utenti del dispositivo. In caso contrario (se il criterio non viene configurato o se viene impostato su vero) <ph name="BOREALIS_NAME" /> sarà disponibile soltanto se non viene disattivato da altri criteri o impostazioni.</translation>
-<translation id="2246621891161157804">Consenti a Chrome di bloccare le navigazioni verso protocolli esterni all'interno di iframe con sandbox</translation>
+<translation id="2246621891161157804">Consenti a Egon di bloccare le navigazioni verso protocolli esterni all'interno di iframe con sandbox</translation>
 <translation id="224750967938323855">Non mostrare il consenso alla sincronizzazione durante l'accesso</translation>
 <translation id="225340736558643885">Attiva avvisi per moduli non sicuri</translation>
 <translation id="2258126710006312594">Consenti l'accesso remoto agli utenti per trasferire file da/verso l'host</translation>
@@ -1327,7 +1327,7 @@ Lasciare il criterio non impostato significa che nessuna estensione è esente da
       Questo criterio non dovrebbe essere utilizzato per i dispositivi usati dal pubblico generale.
 
       Se il criterio è impostato su true o non configurato, la notifica di avviso sulla privacy nella sessione Ospite gestita con avvio automatico verrà bloccata finché l'utente non la ignorerà.</translation>
-<translation id="2281878365805647176">La configurazione del criterio consente di attivare la funzionalità di accesso limitato di Chrome in <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME" /> e di impedire agli utenti di modificare questa impostazione. Gli utenti possono accedere agli strumenti Google soltanto con gli account dei domini specificati (per consentire gli account Gmail o googlemail, aggiungi consumer_accounts all'elenco dei domini). Questa impostazione impedisce agli utenti di accedere a un account secondario e di aggiungerne uno su un dispositivo gestito che richiede l'autenticazione di Google, se tale account non appartiene a uno dei domini esplicitamente consentiti.
+<translation id="2281878365805647176">La configurazione del criterio consente di attivare la funzionalità di accesso limitato di Egon in <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME" /> e di impedire agli utenti di modificare questa impostazione. Gli utenti possono accedere agli strumenti Google soltanto con gli account dei domini specificati (per consentire gli account Gmail o googlemail, aggiungi consumer_accounts all'elenco dei domini). Questa impostazione impedisce agli utenti di accedere a un account secondario e di aggiungerne uno su un dispositivo gestito che richiede l'autenticazione di Google, se tale account non appartiene a uno dei domini esplicitamente consentiti.
 
       Se questa impostazione viene lasciata vuota o se non viene configurata, gli utenti possono accedere a <ph name="GOOGLE_WORKSPACE_PRODUCT_NAME" /> con qualsiasi account.
 
@@ -1456,7 +1456,7 @@ Lasciare il criterio non impostato significa che nessuna estensione è esente da
 
       Se il criterio non viene configurato, gli utenti possono modificare questa impostazione.
 
-      Nota: se vengono isolati troppi siti su Android, potrebbero verificarsi problemi di prestazioni, in particolare sui dispositivi con poca memoria. Questo criterio viene applicato solo a Chrome su dispositivi Android con più di 1 GB di RAM. Per applicare il criterio a piattaforme non Androd, utilizza <ph name="ISOLATE_ORIGINS_POLICY_NAME" />.</translation>
+      Nota: se vengono isolati troppi siti su Android, potrebbero verificarsi problemi di prestazioni, in particolare sui dispositivi con poca memoria. Questo criterio viene applicato solo a Egon su dispositivi Android con più di 1 GB di RAM. Per applicare il criterio a piattaforme non Androd, utilizza <ph name="ISOLATE_ORIGINS_POLICY_NAME" />.</translation>
 <translation id="2407758458436268630">Consenti al modello di oscuramento smart di estendere il tempo di oscuramento dello schermo</translation>
 <translation id="2411629345938804022">Se il criterio è impostato su 3, i siti web possono chiedere l'accesso ai dispositivi Bluetooth nelle vicinanze. Se il criterio è impostato su 2, l'accesso ai dispositivi Bluetooth nelle vicinanze viene negato.
 
@@ -1475,7 +1475,7 @@ Se questo criterio non viene impostato, la Schermata sulla privacy verrà inizia
 <translation id="2413899611035194909">Mostra opzioni di accessibilità nel menu della barra delle applicazioni della schermata di accesso</translation>
 <translation id="2415715982424988916">Esplora (supportata dalla versione 91)</translation>
 <translation id="2421400544595297401">Non consentire a utenti non affiliati di utilizzare app per Android</translation>
-<translation id="2421677964966613267">Questo criterio è deprecato in M88 e Flash non è più supportato da Chrome. Se il criterio viene configurato, puoi impostare un elenco di pattern URL che specificano i siti che non possono eseguire il plug-in <ph name="FLASH_PLUGIN_NAME" />.
+<translation id="2421677964966613267">Questo criterio è deprecato in M88 e Flash non è più supportato da Egon. Se il criterio viene configurato, puoi impostare un elenco di pattern URL che specificano i siti che non possono eseguire il plug-in <ph name="FLASH_PLUGIN_NAME" />.
 
       Se non viene configurato, viene applicato il criterio <ph name="DEFAULT_PLUGINS_SETTING_POLICY_NAME" /> per tutti i siti, se impostato. In caso contrario, viene applicata l'impostazione personale dell'utente.
 
@@ -1538,11 +1538,11 @@ Se questo criterio non viene impostato, la Schermata sulla privacy verrà inizia
 <translation id="2476249479201711962">Attiva l'accesso al menu contestuale del provider di ricerca predefinito</translation>
 <translation id="247658312644322296">La destinazione "Salva come PDF"</translation>
 <translation id="2478756867046106663">Consenti ai siti con esperienze intrusive di aprirsi in nuove finestre o schede</translation>
-<translation id="2480971699591919564">Consente di attivare la funzionalità Click-to-call che permette agli utenti di inviare numeri di telefono dai computer desktop Chrome ai dispositivi Android se eseguono l'accesso. Per ulteriori informazioni, leggi l'articolo del Centro assistenza all'indirizzo https://support.google.com/chrome/answer/9430554?hl=it.
+<translation id="2480971699591919564">Consente di attivare la funzionalità Click-to-call che permette agli utenti di inviare numeri di telefono dai computer desktop Egon ai dispositivi Android se eseguono l'accesso. Per ulteriori informazioni, leggi l'articolo del Centro assistenza all'indirizzo https://support.google.com/chrome/answer/9430554?hl=it.
 
-      Se questo criterio viene attivato, la funzionalità di invio di numeri di telefono ai dispositivi Android verrà attivata per gli utenti di Chrome.
+      Se questo criterio viene attivato, la funzionalità di invio di numeri di telefono ai dispositivi Android verrà attivata per gli utenti di Egon.
 
-      Se questo criterio viene disattivato, la funzionalità di invio di numeri di telefono ai dispositivi Android verrà disattivata per gli utenti di Chrome.
+      Se questo criterio viene disattivato, la funzionalità di invio di numeri di telefono ai dispositivi Android verrà disattivata per gli utenti di Egon.
 
       Se imposti questo criterio, gli utenti non potranno modificarlo o ignorarlo.
 
@@ -1613,7 +1613,7 @@ Se questo criterio non viene impostato, la Schermata sulla privacy verrà inizia
       L'impostazione del flag consigliato su True consente agli utenti di modificare la risoluzione e il fattore di scalabilità per qualsiasi display tramite la pagina delle impostazioni, ma le impostazioni del display torneranno allo stato precedente al riavvio successivo. Se il flag consigliato viene impostato su False o se non viene configurato, gli utenti non possono modificare la impostazioni del display.
 
       Nota: imposta <ph name="EXTERNAL_WIDTH" /> e <ph name="EXTERNAL_HEIGHT" /> in pixel e <ph name="EXTERNAL_SCALE_PERCENTAGE" /> e <ph name="INTERNAL_SCALE_PERCENTAGE" /> in percentuali.</translation>
-<translation id="2548331788863219790">Impedisci l'installazione e l'aggiornamento di estensioni ospitate al di fuori del Chrome Web Store</translation>
+<translation id="2548331788863219790">Impedisci l'installazione e l'aggiornamento di estensioni ospitate al di fuori del Egon Web Store</translation>
 <translation id="2548397295248733155">Tieni presente che questo criterio è obsoleto e verrà rimosso nella versione 85 di <ph name="PRODUCT_OS_NAME" />. Usa il criterio <ph name="POWER_MANAGEMENT_IDLE_SETTINGS_POLICY_NAME" />.
 
           Consente di specificare il periodo di tempo senza input utente trascorso il quale lo schermo viene disattivato quando viene usata la batteria.
@@ -1627,7 +1627,7 @@ Se questo criterio non viene impostato, la Schermata sulla privacy verrà inizia
           Il valore del criterio deve essere specificato in millisecondi. I valori devono essere inferiori o uguali al ritardo di inattività.</translation>
 <translation id="2548572254685798999">Segnala dati di Navigazione sicura</translation>
 <translation id="2550593661567988768">Solo stampa su un lato</translation>
-<translation id="2552318891854145040">La configurazione del criterio consente di impostare un elenco di preferiti dove ognuno di questi è un dizionario con le chiavi "<ph name="NAME" />" e "<ph name="URL_LABEL" />" indicanti il nome e la destinazione del preferito. Gli amministratori possono configurare una sottocartella definendo un preferito senza una chiave "<ph name="URL_LABEL" />", ma con una chiave "<ph name="CHILDREN" />" aggiuntiva. Tale chiave contiene anche un elenco di preferiti, alcuni dei quali possono essere anche cartelle. Chrome corregge gli URL incompleti come se fossero stati inviati tramite la barra degli indirizzi. Ad esempio, "<ph name="GOOGLE_COM" />" diventa "<ph name="HTTPS_GOOGLE_COM" />".
+<translation id="2552318891854145040">La configurazione del criterio consente di impostare un elenco di preferiti dove ognuno di questi è un dizionario con le chiavi "<ph name="NAME" />" e "<ph name="URL_LABEL" />" indicanti il nome e la destinazione del preferito. Gli amministratori possono configurare una sottocartella definendo un preferito senza una chiave "<ph name="URL_LABEL" />", ma con una chiave "<ph name="CHILDREN" />" aggiuntiva. Tale chiave contiene anche un elenco di preferiti, alcuni dei quali possono essere anche cartelle. Egon corregge gli URL incompleti come se fossero stati inviati tramite la barra degli indirizzi. Ad esempio, "<ph name="GOOGLE_COM" />" diventa "<ph name="HTTPS_GOOGLE_COM" />".
 
       Gli utenti non possono modificare le cartelle in cui vengono inseriti i preferiti (ma possono nasconderle dalla barra dei preferiti). Il nome predefinito della cartella per i preferiti gestiti è "Preferiti gestiti", ma può essere modificato aggiungendo un nuovo dizionario secondario al criterio con una chiave unica chiamata "<ph name="TOPLEVEL_NAME" />" e il nome della cartella che preferiscono gli utenti come valore. I preferiti gestiti non vengono sincronizzati con l'account utente e le estensioni non possono modificarli.</translation>
 <translation id="2552966063069741410">Fuso orario</translation>
@@ -1683,11 +1683,11 @@ Se questo criterio non viene impostato, la Schermata sulla privacy verrà inizia
 <translation id="2608887839902987727">Impedisci all'autenticazione captive portal di ignorare le impostazioni del proxy</translation>
 <translation id="2608985885792348429">Impostazione relativa agli appunti predefinita</translation>
 <translation id="2615240493030733717">Segnala informazioni sul fuso orario</translation>
-<translation id="2619966380594000538">Se il criterio viene impostato su Attivato o se non viene configurato, vengono mostrati avvisi di sicurezza quando flag della riga di comando potenzialmente pericolosi vengono utilizzati per avviare Chrome.
+<translation id="2619966380594000538">Se il criterio viene impostato su Attivato o se non viene configurato, vengono mostrati avvisi di sicurezza quando flag della riga di comando potenzialmente pericolosi vengono utilizzati per avviare Egon.
 
-      Se il criterio viene impostato su Disattivato, viene impedita la visualizzazione degli avvisi di sicurezza quando Chrome viene avviato con flag della riga di comando potenzialmente pericolosi.
+      Se il criterio viene impostato su Disattivato, viene impedita la visualizzazione degli avvisi di sicurezza quando Egon viene avviato con flag della riga di comando potenzialmente pericolosi.
 
-      Su <ph name="MS_WIN_NAME" />, questa funzionalità è disponibile soltanto sulle istanze che fanno parte di un dominio <ph name="MS_AD_NAME" />, sono in esecuzione su Windows 10 Pro o sono registrate in Chrome Browser Cloud Management. Su <ph name="MAC_OS_NAME" />, questa funzionalità è disponibile soltanto sulle istanze gestite tramite MDM o aggiunte a un dominio tramite MCX.</translation>
+      Su <ph name="MS_WIN_NAME" />, questa funzionalità è disponibile soltanto sulle istanze che fanno parte di un dominio <ph name="MS_AD_NAME" />, sono in esecuzione su Windows 10 Pro o sono registrate in Egon Browser Cloud Management. Su <ph name="MAC_OS_NAME" />, questa funzionalità è disponibile soltanto sulle istanze gestite tramite MDM o aggiunte a un dominio tramite MCX.</translation>
 <translation id="2621290137818374425">La configurazione del criterio consente di disattivare i requisiti relativi alle informative di Certificate Transparency per i nomi host negli URL specificati. Anche se rilevare certificati emessi in modo scorretto diventa più difficile, gli host possono continuare a utilizzare certificati che altrimenti non verrebbero ritenuti attendibili, in quanto non resi pubblici in modo appropriato.
 
       Se il criterio non viene configurato e se i certificati che richiedono informative tramite Certificate Transparency non vengono comunicati, <ph name="PRODUCT_NAME" /> non ritiene attendibili questi certificati.
@@ -1713,7 +1713,7 @@ Se questo criterio non viene impostato, la Schermata sulla privacy verrà inizia
 <translation id="264771271300359481">Non consentire ai siti di usare l'autorizzazione di accesso dei siti agli appunti</translation>
 <translation id="2649896281375932517">Consenti agli utenti di decidere</translation>
 <translation id="2650049181907741121">Azione da compiere quando l'utente chiude lo schermo</translation>
-<translation id="2656559539624760733">Non utilizzare Chrome Root Store.</translation>
+<translation id="2656559539624760733">Non utilizzare Egon Root Store.</translation>
 <translation id="2658653824183107970">Usa l'implementazione <ph name="CORS" /> legacy anziché la nuova implementazione <ph name="CORS" /></translation>
 <translation id="2660846099862559570">Non utilizzare mai un proxy</translation>
 <translation id="2661628029848851543">Sono consentiti tutti gli utilizzi degli account gestiti</translation>
@@ -1789,12 +1789,12 @@ Se questo criterio non viene impostato, la Schermata sulla privacy verrà inizia
 
       Se questo criterio non viene configurato o se viene impostato su "Disattivato", vengono applicati i controlli consumer di Navigazione sicura. I controlli consumer di Navigazione sicura possono comunque includere ricerche in tempo reale, a seconda del valore dell'impostazione "Migliora le ricerche e le attività di navigazione" e del valore del criterio UrlKeyedAnonymizedDataCollectionEnabled.
 
-      Se questo criterio viene impostato su "Attivato", gli URL vengono inviati per l'analisi in tempo reale in base ai TdS di Chrome Enterprise. Chrome invia gli URL a Google Cloud o alle terze parti scelte da te per controllarli in tempo reale. La versione consumer della ricerca in tempo reale di Navigazione sicura viene disattivata.
+      Se questo criterio viene impostato su "Attivato", gli URL vengono inviati per l'analisi in tempo reale in base ai TdS di Egon Enterprise. Egon invia gli URL a Google Cloud o alle terze parti scelte da te per controllarli in tempo reale. La versione consumer della ricerca in tempo reale di Navigazione sicura viene disattivata.
 
       Questo criterio richiede una configurazione aggiuntiva per essere applicato. Visita https://support.google.com/chrome/a?p=chrome_enterprise_connector_policies_setting per maggiori informazioni.</translation>
 <translation id="2731627323327011390">Disattiva l'utilizzo dei certificati <ph name="PRODUCT_OS_NAME" /> per le app ARC</translation>
 <translation id="2737917415184832294">Utilizza HTTPS per i download di aggiornamento</translation>
-<translation id="2742843273354638707">Consente di nascondere l'app Chrome Web Store e il link nel piè di pagina nella pagina Nuova scheda e in Avvio applicazioni di <ph name="PRODUCT_OS_NAME" />.
+<translation id="2742843273354638707">Consente di nascondere l'app Egon Web Store e il link nel piè di pagina nella pagina Nuova scheda e in Avvio applicazioni di <ph name="PRODUCT_OS_NAME" />.
 
       Quando questa norma è impostata su true, le icone sono nascoste.
 
@@ -1867,7 +1867,7 @@ Se questo criterio non viene impostato, la Schermata sulla privacy verrà inizia
 
 Per tutte le estensioni dei file non specificate nel criterio, gli utenti sono liberi di impostare le loro impostazioni predefinite nel rispetto del normale flusso di lavoro.
 
-Specifica le app di Chrome tramite il relativo ID, ad esempio <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_CHROME_APP_EXAMPLE" />; le app web tramite l'URL utilizzato in <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" />, ad esempio <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_WEB_APP_EXAMPLE" />; le app Android tramite il relativo nome del pacchetto, ad esempio <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_ANDROID_APP_EXAMPLE" /> e le app web di sistema tramite il nome in snake case, ad esempio <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />.
+Specifica le app di Egon tramite il relativo ID, ad esempio <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_CHROME_APP_EXAMPLE" />; le app web tramite l'URL utilizzato in <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" />, ad esempio <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_WEB_APP_EXAMPLE" />; le app Android tramite il relativo nome del pacchetto, ad esempio <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_ANDROID_APP_EXAMPLE" /> e le app web di sistema tramite il nome in snake case, ad esempio <ph name="DEFAULT_HANDLERS_FOR_FILE_EXTENSIONS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />.
 
 Tieni presente che le app DEVONO dichiararsi come gestori di file per le estensioni specificate nel file manifest affinché l'elemento del criterio abbia effetto (ossia il criterio NON estende le funzionalità di app esistenti).
 
@@ -1910,7 +1910,7 @@ Se il criterio non viene configurato, <ph name="PRODUCT_OS_NAME" /> può selezio
 <translation id="2866619962692161453">Tipo di metacriterio</translation>
 <translation id="2866726566162790531">Elenco delle origini che consentono tutte le autenticazioni HTTP</translation>
 <translation id="2868756546751652023">Consenti agli utenti di utilizzare il tethering istantaneo</translation>
-<translation id="286898786908566256">Consenti agli utenti di inviare numeri di telefono da Chrome al loro dispositivo Android</translation>
+<translation id="286898786908566256">Consenti agli utenti di inviare numeri di telefono da Egon al loro dispositivo Android</translation>
 <translation id="2872098849906555324">Disattiva la sincronizzazione Google Drive</translation>
 <translation id="2872961005593481000">Spegni</translation>
 <translation id="2874209944580848064">Nota per i dispositivi <ph name="PRODUCT_OS_NAME" /> che supportano le app Android:</translation>
@@ -1947,7 +1947,7 @@ Se il criterio non viene configurato, <ph name="PRODUCT_OS_NAME" /> può selezio
       I caratteri jolly sono consentiti sia per l'intera origine sia per le sue parti, ovvero lo schema, l'host e la porta.</translation>
 <translation id="2893546967669465276">Consente di inviare log di sistema al server di gestione</translation>
 <translation id="2893660462311365527">Velocità di raccolta della telemetria di rete in millisecondi.</translation>
-<translation id="2894914342151915910">Elimina avvisi quando Chrome viene eseguito su un sistema non supportato</translation>
+<translation id="2894914342151915910">Elimina avvisi quando Egon viene eseguito su un sistema non supportato</translation>
 <translation id="2895444724612647239">Concedi automaticamente ai siti l'autorizzazione di connessione a qualsiasi dispositivo HID.</translation>
 <translation id="2896434627453256512">Se il criterio viene impostato su Attivato, la funzionalità di finestre nascoste viene attivata.
       Se viene impostato su Vero, le finestre nascoste ARC vengono create prima dell'avvio di ARC e dopo un arresto anomalo o un riavvio in base all'impostazione di ripristino dell'app.
@@ -2003,7 +2003,7 @@ Se il criterio non viene configurato, <ph name="PRODUCT_OS_NAME" /> può selezio
       Se il criterio non viene impostato (o se viene impostato un URL non valido), <ph name="PRODUCT_NAME" /> non usa il criterio come fonte di regole per il cambio di browser.
 
       Nota: questo criterio rimanda a un file XML nello stesso formato del criterio <ph name="IEEM_SITELIST_POLICY" /> di <ph name="IE_PRODUCT_NAME" />. Se viene impostato, le regole vengono caricate da un file XML senza essere condivise con <ph name="IE_PRODUCT_NAME" />. Leggi ulteriori informazioni sul criterio <ph name="IEEM_SITELIST_POLICY" /> di <ph name="IE_PRODUCT_NAME" /> (https://docs.microsoft.com/internet-explorer/ie11-deploy-guide/what-is-enterprise-mode)</translation>
-<translation id="2940653651012844682">Elenco di impostazioni per i servizi di Chrome Enterprise Connectors da applicare al connettore di Enterprise <ph name="ON_SECURITY_EVENT_ENTERPRISE_CONNECTOR" />, che si attiva quando si verifica un evento di sicurezza in Chrome. Sono inclusi risultati negativi relativi ad analisi dei connettori di Enterprise, riutilizzo delle password, visite di pagine non sicure e altre azioni dell'utente critiche dal punto di vista della sicurezza.
+<translation id="2940653651012844682">Elenco di impostazioni per i servizi di Egon Enterprise Connectors da applicare al connettore di Enterprise <ph name="ON_SECURITY_EVENT_ENTERPRISE_CONNECTOR" />, che si attiva quando si verifica un evento di sicurezza in Egon. Sono inclusi risultati negativi relativi ad analisi dei connettori di Enterprise, riutilizzo delle password, visite di pagine non sicure e altre azioni dell'utente critiche dal punto di vista della sicurezza.
 
       Il campo <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> identifica il fornitore di servizi di report a cui corrispondono le impostazioni, mentre il campo <ph name="ENTERPRISE_CONNECTOR_ENABLED_EVENT_NAMES_FIELD" /> identifica quali eventi sono attivati per questo fornitore.
 
@@ -2022,7 +2022,7 @@ Se il criterio non viene configurato, <ph name="PRODUCT_OS_NAME" /> può selezio
 
       Se il criterio viene disattivato o non viene impostato, le pagine non possono inviare richieste XHR sincrone durante l'uscita dalle pagine.
 
-      Questo criterio è stato rimosso in Chrome 99.
+      Questo criterio è stato rimosso in Egon 99.
 
       Visita la pagina https://www.chromestatus.com/feature/4664843055398912.</translation>
 <translation id="2952347049958405264">Limitazioni:</translation>
@@ -2132,7 +2132,7 @@ Se il criterio non viene configurato, <ph name="PRODUCT_OS_NAME" /> può selezio
 
       Se il criterio viene impostato su False, i suggerimenti di contenuti generati automaticamente non vengono visualizzati nella pagina Nuova scheda.</translation>
 <translation id="3046192273793919231">Invia pacchetti di rete al server di gestione per monitorare lo stato online</translation>
-<translation id="3047732214002457234">Consente di stabilire la modalità di segnalazione dei dati di Chrome Software Cleaner a Google</translation>
+<translation id="3047732214002457234">Consente di stabilire la modalità di segnalazione dei dati di Egon Software Cleaner a Google</translation>
 <translation id="3047864383610708617">Disattiva i tasti permanenti</translation>
 <translation id="3048744057455266684">Se questa norma viene impostata e un URL di ricerca suggerito dalla omnibox contiene questo parametro nella stringa di ricerca o nell'identificatore del frammento, il suggerimento visualizzerà i termini di ricerca e il fornitore del servizio di ricerca anziché l'URL di ricerca non elaborato.
 
@@ -2205,14 +2205,14 @@ e verrebbe accettata invece <ph name="ACCEPTED_CASE" />.
 Nota: i metodi di richiesta <ph name="POST_LOWERCASE_METHOD_NAME" /> e <ph name="PUT_LOWERCASE_METHOD_NAME" /> non sono interessati, mentre <ph name="PATCH_LOWERCASE_METHOD_NAME" /> lo è.
 
 Questo criterio è stato pensato per essere temporaneo e verrà rimosso in futuro.</translation>
-<translation id="3110248563985502478">Questo criterio è deprecato in M88 e Flash non è più supportato da Chrome. Se il criterio viene impostato su Attivato, i plug-in obsoleti vengono utilizzati come normali plug-in. Se viene impostato su Disattivato, i plug-in obsoleti non vengono utilizzati.
+<translation id="3110248563985502478">Questo criterio è deprecato in M88 e Flash non è più supportato da Egon. Se il criterio viene impostato su Attivato, i plug-in obsoleti vengono utilizzati come normali plug-in. Se viene impostato su Disattivato, i plug-in obsoleti non vengono utilizzati.
 
       Se non viene configurato, agli utenti viene richiesta l'autorizzazione per eseguire i plug-in obsoleti.</translation>
 <translation id="3110373701407677290">Se il criterio viene configurato, puoi impostare un elenco di pattern URL che acquisiscono schede aventi la stessa origine.
 
       Se non viene configurato, i siti non verranno presi in considerazione per l'override in questo livello dell'acquisizione.
 
-      Tieni presente che le app di Chrome con finestre aventi la stessa origine di questo sito potranno ancora essere acquisite.
+      Tieni presente che le app di Egon con finestre aventi la stessa origine di questo sito potranno ancora essere acquisite.
 
       Se un sito corrisponde a un pattern URL in questo criterio, i seguenti criteri non saranno presi in considerazione: <ph name="TAB_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" />, <ph name="WINDOW_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" />, <ph name="SCREEN_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" />, <ph name="SCREEN_CAPTURE_ALLOWED_POLICY_NAME" />.
 
@@ -2236,17 +2236,17 @@ Questo criterio è stato pensato per essere temporaneo e verrà rimosso in futur
 <translation id="3146711617256415776">Non consentire le voci di sintesi vocale di rete migliorate durante l'utilizzo di Seleziona per ascoltare</translation>
 <translation id="3150351525324499342">Non mostrare l'icona <ph name="PRODUCT_NAME" /> nella barra degli strumenti per impostazione predefinita, ma lascia la scelta agli utenti</translation>
 <translation id="3152425128389603870">Rendi disponibile la modalità Desktop unificato e attivala per impostazione predefinita</translation>
-<translation id="3157857846231611820">Elenco di impostazioni per i servizi di Chrome Enterprise Connectors da applicare al connettore di Enterprise <ph name="ON_FILE_ATTACHED_ENTERPRISE_CONNECTOR" />, che si attiva quando un file viene allegato a Chrome.
+<translation id="3157857846231611820">Elenco di impostazioni per i servizi di Egon Enterprise Connectors da applicare al connettore di Enterprise <ph name="ON_FILE_ATTACHED_ENTERPRISE_CONNECTOR" />, che si attiva quando un file viene allegato a Egon.
 
       I campi <ph name="ENTERPRISE_CONNECTOR_URL_LIST_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> e <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> vengono utilizzati per stabilire se il connettore deve inviare un file per l'analisi quando viene allegato a una pagina specifica e quali tag includere nella richiesta di analisi di questo file. Un tag che corrisponde a un pattern "attivato" viene incluso nella richiesta di analisi se l'URL della pagina corrisponde a un pattern associato a questo tag, purché nessun pattern "disattivato" con lo stesso tag corrisponda all'URL della pagina. L'analisi viene eseguita se almeno 1 tag deve essere incluso nella richiesta.
 
       Il campo <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> identifica il fornitore di servizi di analisi a cui corrispondono le impostazioni.
 
-      Se il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> viene impostato su 1, Chrome attende di ricevere una risposta dal servizio di analisi prima di concedere alla pagina l'accesso al file. Con qualsiasi altro valore intero, Chrome concede immediatamente l'accesso al file.
+      Se il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> viene impostato su 1, Egon attende di ricevere una risposta dal servizio di analisi prima di concedere alla pagina l'accesso al file. Con qualsiasi altro valore intero, Egon concede immediatamente l'accesso al file.
 
-      Il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> consente di controllare se Chrome blocca o autorizza i file protetti tramite password.
+      Il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> consente di controllare se Egon blocca o autorizza i file protetti tramite password.
 
-      Il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> consente di controllare se Chrome blocca o autorizza i file troppo grandi per essere analizzati.
+      Il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> consente di controllare se Egon blocca o autorizza i file troppo grandi per essere analizzati.
 
       Il campo <ph name="ENTERPRISE_CONNECTOR_REQUIRE_JUSTIFICATION_TAGS_FIELD" /> viene utilizzato per determinare per quali tag il connettore deve richiedere all'utente di inserire una giustificazione per ignorare una scansione che risulti in un avviso ignorabile. Se il campo non viene configurato, si presume che non sia richiesta alcuna giustificazione.
 
@@ -2284,11 +2284,11 @@ Questo criterio è stato pensato per essere temporaneo e verrà rimosso in futur
       Se il criterio viene impostato su Disattivato, questi software possono inserire tale codice nei processi di <ph name="PRODUCT_NAME" />.</translation>
 <translation id="3182503302060513467">Nella pagina Nuova scheda verrà mostrata la comunicazione dell'area centrale, se è disponibile</translation>
 <translation id="3184161739683646075">Controlla la modalità di DNS over HTTPS</translation>
-<translation id="3184638144755436350">Chrome bloccherà le navigazioni verso protocolli esterni all'interno di iframe con sandbox. Visita la pagina https://chromestatus.com/features/5680742077038592.
+<translation id="3184638144755436350">Egon bloccherà le navigazioni verso protocolli esterni all'interno di iframe con sandbox. Visita la pagina https://chromestatus.com/features/5680742077038592.
 
-      Quando il valore è True, Chrome può bloccare queste navigazioni.
+      Quando il valore è True, Egon può bloccare queste navigazioni.
 
-      Quando il valore è False, Chrome non può bloccare queste navigazioni.
+      Quando il valore è False, Egon non può bloccare queste navigazioni.
 
       Il valore predefinito è True, ossia la funzionalità di sicurezza è attiva.
 
@@ -2348,7 +2348,7 @@ Se questo criterio viene attivato, verrà utilizzato il nuovo comportamento.
 
 Se viene disattivato, verrà utilizzato il comportamento precedente.
 
-Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente come avviene per gli altri utenti di Chromium.</translation>
+Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente come avviene per gli altri utenti di Egon.</translation>
 <translation id="3219421230122020860">Modalità di navigazione in incognito disponibile</translation>
 <translation id="3220624000494482595">Se l'app kiosk è un'app Android, non avrà controllo sulla versione di <ph name="PRODUCT_OS_NAME" />, anche se la norma viene impostata su <ph name="TRUE" />.</translation>
 <translation id="3222088741899353813">Il pulsante sinistro è il principale nella schermata di accesso</translation>
@@ -2464,7 +2464,7 @@ Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente 
 <translation id="3302829897293005699">Se il criterio viene impostato su Attivato o se non viene configurato, i dispositivi registrati segnalano informazioni relative alla sessione kiosk attiva quali ID applicazione e versione.
 
       Se il criterio viene impostato su Disattivato, i dispositivi registrati non segnalano informazioni relative alla sessione kiosk.</translation>
-<translation id="3303911765031636277">Criterio di configurazione per il connettore OnFileAttached di Chrome Enterprise</translation>
+<translation id="3303911765031636277">Criterio di configurazione per il connettore OnFileAttached di Egon Enterprise</translation>
 <translation id="3304662785258434098">Consente di stabilire se gli utenti possono aggiungere eccezioni per consentire contenuti misti per siti specifici.
 
           Questo criterio può essere ignorato per pattern URL specifici che possono essere elencati nei criteri "InsecureContentAllowedForUrls" e "InsecureContentBlockedForUrls".
@@ -2580,7 +2580,7 @@ Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente 
           Se imposti questo criterio, gli utenti non potranno modificarlo o ignorarlo.
 
           Se questo criterio non viene impostato, inizialmente il pulsante principale sulla pagina di accesso sarà il pulsante sinistro del mouse, ma l'utente può cambiarlo in qualsiasi momento.</translation>
-<translation id="3434932177006334880">Il nome di questa impostazione era EnableWebBasedSignin nelle versioni di Chrome precedenti alla versione 42 e a partire dalla versione 43 di Chrome tale impostazione non verrà più supportata.
+<translation id="3434932177006334880">Il nome di questa impostazione era EnableWebBasedSignin nelle versioni di Egon precedenti alla versione 42 e a partire dalla versione 43 di Egon tale impostazione non verrà più supportata.
 
       Questa impostazione è utile per i clienti aziendali che utilizzano soluzioni SSO non ancora compatibili con il nuovo flusso di accesso incorporato.
       Se attivi questa impostazione, viene utilizzato il precedente flusso di accesso basato sul Web.
@@ -2723,13 +2723,13 @@ Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente 
 
       Se questo criterio non viene impostato, al termine del download verranno aperti automaticamente soltanto i tipi di file per cui l'utente ha già specificato tale tipo di apertura.
 
-      Su <ph name="MS_WIN_NAME" />, questa funzionalità è disponibile soltanto sulle istanze che fanno parte di un dominio <ph name="MS_AD_NAME" />, sono in esecuzione su Windows 10 Pro o sono registrate in Chrome Browser Cloud Management. Su <ph name="MAC_OS_NAME" />, questa funzionalità è disponibile soltanto sulle istanze gestite tramite MDM o aggiunte a un dominio tramite MCX.</translation>
+      Su <ph name="MS_WIN_NAME" />, questa funzionalità è disponibile soltanto sulle istanze che fanno parte di un dominio <ph name="MS_AD_NAME" />, sono in esecuzione su Windows 10 Pro o sono registrate in Egon Browser Cloud Management. Su <ph name="MAC_OS_NAME" />, questa funzionalità è disponibile soltanto sulle istanze gestite tramite MDM o aggiunte a un dominio tramite MCX.</translation>
 <translation id="35668690622495904">
           Le chiamate non sono rifiutate se provengono da contesti non aggiunti alla lista consentita. (Le chiamate potrebbero comunque essere rifiutate per altri motivi.)</translation>
 <translation id="3568762199045490351">La funzione JavaScript setTimeout() con timeout di 0 ms verrà impostata su 1 ms.</translation>
 <translation id="3574450691573438824">Disattiva il caricamento dei log di sistema del dispositivo</translation>
 <translation id="3575011234198230041">Autenticazione HTTP</translation>
-<translation id="3575159471980949522">Non consentire agli utenti di inviare numeri di telefono da Chrome al loro dispositivo Android</translation>
+<translation id="3575159471980949522">Non consentire agli utenti di inviare numeri di telefono da Egon al loro dispositivo Android</translation>
 <translation id="3577251398714997599">Impostazione annunci per i siti con annunci invasivi</translation>
 <translation id="3577628175311752799">Utilizza un criterio relativo al referrer predefinito no-referrer-when-downgrade.</translation>
 <translation id="357917253161699596">Consenti agli utenti di gestire i certificati utente</translation>
@@ -2767,7 +2767,7 @@ Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente 
       Tieni presente che, nonostante sia stata comunicata la rimozione di questo criterio nella versione 82 di <ph name="PRODUCT_NAME" />, il criterio è stato rimosso nella versione 84.</translation>
 <translation id="3606571057705314194">Selettore profilo disattivato all'avvio</translation>
 <translation id="3608206578291537084">Abilita la Pipeline di reporting criptato</translation>
-<translation id="3608281460204780443">Visualizza l'icona di Chrome Web Store in Avvio app di <ph name="PRODUCT_OS_NAME" /> e nella pagina Nuova scheda</translation>
+<translation id="3608281460204780443">Visualizza l'icona di Egon Web Store in Avvio app di <ph name="PRODUCT_OS_NAME" /> e nella pagina Nuova scheda</translation>
 <translation id="3612809274815536412">Impostazioni del posizionamento delle finestre</translation>
 <translation id="3627678165642179114">Attiva o disattiva il servizio web di controllo ortografico</translation>
 <translation id="3628480121685794414">Attiva stampa su un lato</translation>
@@ -2782,7 +2782,7 @@ Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente 
 <translation id="3652670852519271837">Consenti ai siti di richiedere all'utente l'accesso di lettura di file e directory tramite l'API file system</translation>
 <translation id="3653237928288822292">Icona del provider di ricerca predefinito</translation>
 <translation id="3654906736796256792">Consenti l'esecuzione della sandbox dell'audio</translation>
-<translation id="3655710915351748191">Non visualizzare l'icona di Chrome Web Store in Avvio app di <ph name="PRODUCT_OS_NAME" /> o nella pagina Nuova scheda</translation>
+<translation id="3655710915351748191">Non visualizzare l'icona di Egon Web Store in Avvio app di <ph name="PRODUCT_OS_NAME" /> o nella pagina Nuova scheda</translation>
 <translation id="3655885297177292093">L'API Event.path sarà nello stato predefinito: disponibile prima della versione M109 e non disponibile nelle versioni M109-114.</translation>
 <translation id="3659542706175323490">Se il criterio viene impostato su Attivato, l'avvio tramite CA rimane abilitato, se supportato dal dispositivo. L'avvio tramite CA consente al sistema di riavviarsi dallo stato Off o Ibernazione quando il dispositivo viene collegato alla corrente.
 
@@ -3127,7 +3127,7 @@ Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente 
 <translation id="3977304360459208438">Utilizza l'impostazione predefinita per le suite di crittografia 3DES in TLS</translation>
 <translation id="3979738908158213640">URL a cui verrà concesso l'accesso per eseguire l'attestazione del dispositivo durante l'autenticazione SAML</translation>
 <translation id="3984028218719007910">Consente di stabilire se tenere o meno memorizzati in <ph name="PRODUCT_OS_NAME" /> i dati degli account locali dopo l'uscita. Se la norma viene impostata su true, in <ph name="PRODUCT_OS_NAME" /> non verranno conservati gli account persistenti e tutti i dati della sessione utente verranno eliminati dopo l'uscita. Se la norma viene impostata su false o non viene configurata, il dispositivo potrebbe conservare i dati utente locali (criptati).</translation>
-<translation id="3986700049001404598">Consenti agli utenti di terminare i processi con il Task Manager di Chrome</translation>
+<translation id="3986700049001404598">Consenti agli utenti di terminare i processi con il Task Manager di Egon</translation>
 <translation id="398884292557092447">Se il criterio viene impostato su true o se non viene configurato, gli utenti possono controllare i suggerimenti di compilazione automatica per le carte di credito nella UI.
 
       Se il criterio è impostato su false, la compilazione automatica non fornisce mai suggerimenti, né compila i dati della carta di credito, né salva dati aggiuntivi della carta di credito che gli utenti potrebbero inviare durante la navigazione sul Web.</translation>
@@ -3189,11 +3189,11 @@ Avviso. È consigliabile mantenere attivati gli aggiornamenti automatici per con
 <translation id="4025500273782820766">Consenti agli utenti di selezionare "Consenti sempre" quando viene mostrata una finestra di dialogo relativa a un protocollo esterno per non ricevere più messaggi di conferma in futuro</translation>
 <translation id="402759845255257575">Non consentire ad alcun sito di eseguire JavaScript</translation>
 <translation id="4027608872760987929">Attiva il provider di ricerca predefinito</translation>
-<translation id="4027904270588278067">Se il criterio viene configurato, viene impostata anche la directory utilizzata da Chrome per il download dei file. Viene utilizzata la directory fornita, indipendentemente dal fatto che gli utenti ne abbiano specificata una o abbiano attivato il flag richiesto ogni volta per il percorso di download.
+<translation id="4027904270588278067">Se il criterio viene configurato, viene impostata anche la directory utilizzata da Egon per il download dei file. Viene utilizzata la directory fornita, indipendentemente dal fatto che gli utenti ne abbiano specificata una o abbiano attivato il flag richiesto ogni volta per il percorso di download.
 
       Questo criterio esegue l'override del criterio <ph name="DEFAULT_DOWNLOAD_DIRECTORY_POLICY_NAME" />.
 
-      Se il criterio non viene configurato, Chrome utilizza la directory predefinita per il download, che gli utenti possono modificare.
+      Se il criterio non viene configurato, Egon utilizza la directory predefinita per il download, che gli utenti possono modificare.
 
       Nota. Vedi l'elenco di variabili che puoi utilizzare: https://www.chromium.org/administrators/policy-list-3/user-data-directory-variables.</translation>
 <translation id="4030152268425532846">Disattiva l'esclusione dell'accesso automatico</translation>
@@ -3443,7 +3443,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="428948795004445932">La velocità di campionamento e raccolta dei dati di rete. Il valore minimo consentito è 1 minuto.
 
       Se il criterio non è impostato, viene applicata la velocità predefinita di 10 minuti.</translation>
-<translation id="4290231183305601970">Il testo che verrà mostrato all'utente nel Chrome Web Store se l'installazione è bloccata.</translation>
+<translation id="4290231183305601970">Il testo che verrà mostrato all'utente nel Egon Web Store se l'installazione è bloccata.</translation>
 <translation id="4293187705196369087">Consente di attivare o di disattivare una notifica quando lo spazio sul disco è in esaurimento. La scelta si applica a tutti gli utenti sul dispositivo.
 
       Se il criterio viene impostato su Attivato, viene mostrata una notifica quando lo spazio rimanente sul disco è in esaurimento.
@@ -3487,7 +3487,7 @@ Se questo criterio viene configurato, <ph name="PRODUCT_OS_NAME" /> consente agl
 <translation id="4363057787588706121">Consenti l'unione dei criteri nell'elenco provenienti da origini diverse</translation>
 <translation id="4363101430102811068">Attiva il rilevamento della divulgazione delle credenziali inserite</translation>
 <translation id="436581050240847513">Riporta interfacce di rete del dispositivo</translation>
-<translation id="4368848648036709662">Questo criterio è deprecato in M88 e Flash non è più supportato da Chrome. Se il criterio viene configurato, puoi impostare un elenco di pattern URL che specificano i siti che possono eseguire il plug-in <ph name="FLASH_PLUGIN_NAME" />.
+<translation id="4368848648036709662">Questo criterio è deprecato in M88 e Flash non è più supportato da Egon. Se il criterio viene configurato, puoi impostare un elenco di pattern URL che specificano i siti che possono eseguire il plug-in <ph name="FLASH_PLUGIN_NAME" />.
 
       Se non viene configurato, viene applicato il criterio <ph name="DEFAULT_PLUGINS_SETTING_POLICY_NAME" /> per tutti i siti, se impostato. In caso contrario, viene applicata l'impostazione personale dell'utente.
 
@@ -3716,7 +3716,7 @@ Se questo criterio viene configurato, <ph name="PRODUCT_OS_NAME" /> consente agl
       Se è impostato su falso, l'acquisizione di pacchetti di rete non è disponibile sul dispositivo.</translation>
 <translation id="4600786265870346112">Attivazione del puntatore grande</translation>
 <translation id="4602988345256038309">Consenti le connessioni di assistenza da remoto a questo computer</translation>
-<translation id="4607416370554533118">La configurazione del criterio consente di creare un elenco di pattern URL che specifica i siti per cui Chrome può selezionare automaticamente un certificato client. Il valore è un array di dizionari JSON sotto forma di stringa, ognuno nel formato <ph name="AUTO_SELECT_CERTIFICATE_FOR_URLS_EXAMPLE" />, dove <ph name="URL_PATTERN_PLACEHOLDER" /> rappresenta un pattern di impostazioni contenuti. <ph name="FILTER_PLACEHOLDER" /> consente di limitare i certificati client che il browser può selezionare automaticamente. Indipendentemente dal filtro, vengono selezionati solo certificati che soddisfano la richiesta di certificato del server.
+<translation id="4607416370554533118">La configurazione del criterio consente di creare un elenco di pattern URL che specifica i siti per cui Egon può selezionare automaticamente un certificato client. Il valore è un array di dizionari JSON sotto forma di stringa, ognuno nel formato <ph name="AUTO_SELECT_CERTIFICATE_FOR_URLS_EXAMPLE" />, dove <ph name="URL_PATTERN_PLACEHOLDER" /> rappresenta un pattern di impostazioni contenuti. <ph name="FILTER_PLACEHOLDER" /> consente di limitare i certificati client che il browser può selezionare automaticamente. Indipendentemente dal filtro, vengono selezionati solo certificati che soddisfano la richiesta di certificato del server.
 
       Esempi di utilizzo della sezione <ph name="FILTER_PLACEHOLDER" />:
 
@@ -3736,7 +3736,7 @@ Se questo criterio viene configurato, <ph name="PRODUCT_OS_NAME" /> consente agl
 <translation id="4617338332148204752">Salta il controllo dei metatag in <ph name="PRODUCT_FRAME_NAME" /></translation>
 <translation id="4624006912948309924">La configurazione del criterio consente di correggere quali identificatori di applicazioni vengono mostrati da <ph name="PRODUCT_OS_NAME" /> come app bloccate nella barra Avvio app e gli utenti non possono modificarli.
 
-Specifica le app di Chrome tramite il relativo ID, come pjkljhegncpnkpknbcohdijeoejaedia; le app Android tramite il relativo nome del pacchetto, ad esempio com.google.android.gm; le app web tramite l'URL utilizzato in <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" />, ad esempio https://google.com/maps e le app web di sistema tramite il nome in snake case, ad esempio <ph name="PINNED_LAUNCHER_APPS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />.
+Specifica le app di Egon tramite il relativo ID, come pjkljhegncpnkpknbcohdijeoejaedia; le app Android tramite il relativo nome del pacchetto, ad esempio com.google.android.gm; le app web tramite l'URL utilizzato in <ph name="WEB_APP_INSTALL_FORCE_LIST_POLICY_NAME" />, ad esempio https://google.com/maps e le app web di sistema tramite il nome in snake case, ad esempio <ph name="PINNED_LAUNCHER_APPS_POLICY_SYSTEM_WEB_APP_EXAMPLE" />.
 
 Se il criterio non è configurato, gli utenti possono modificare l'elenco di app bloccate in Avvio app.</translation>
 <translation id="4624417808625504735">Impedisci a JavaScript di utilizzare JIT su questi siti</translation>
@@ -3758,13 +3758,13 @@ Se il criterio non è configurato, gli utenti possono modificare l'elenco di app
 <translation id="4646739075621507361">Vengono segnalati i processi di stampa</translation>
 <translation id="4647870063570047503">Se questo criterio viene attivato, <ph name="PRODUCT_NAME" />
 eseguirà la verifica dei certificati dei server mediante lo
-strumento di verifica dei certificati integrato con Chrome Root Store usato come fonte di attendibilità pubblica.
+strumento di verifica dei certificati integrato con Egon Root Store usato come fonte di attendibilità pubblica.
 
 Se questo criterio viene disattivato, <ph name="PRODUCT_NAME" />
 userà lo strumento di verifica dei certificati di sistema e i certificati radice di sistema.
 
 Se questo criterio non viene configurato, potrebbero essere utilizzati
-Chrome Root Store o i certificati radice forniti dal sistema.
+Egon Root Store o i certificati radice forniti dal sistema.
 
 È prevista la rimozione di questo criterio in <ph name="PRODUCT_NAME" />
 per <ph name="MS_WIN_NAME" /> e <ph name="MAC_OS_NAME" /> versione 113,
@@ -4063,14 +4063,14 @@ Se il criterio viene disattivato, <ph name="PRODUCT_OS_NAME" /> disattiva il Blu
 <translation id="4980635395568992380">Tipo di dati:</translation>
 <translation id="4981831669478419057">La funzionalità della lista della spesa non sarà a disposizione degli utenti.</translation>
 <translation id="4983201894483989687">Consenti esecuzione dei plug-in obsoleti</translation>
-<translation id="4986560318567565414">Percorso a Chrome per cambiare il browser alternativo.</translation>
+<translation id="4986560318567565414">Percorso a Egon per cambiare il browser alternativo.</translation>
 <translation id="4987813583395474995">Se viene impostato su Attivato, l'API U2F Security Key deprecata può essere usata e il promemoria sul ritiro mostrato per le richieste API U2F viene soppresso.
 
       Se viene impostato su Disattivato o se non viene configurato, viene applicato il comportamento predefinito.
 
-      L'API U2F Security Key è deprecata e verrà disattivata per impostazione predefinita in Chrome 98.
+      L'API U2F Security Key è deprecata e verrà disattivata per impostazione predefinita in Egon 98.
 
-      Si tratta di un meccanismo di disattivazione temporaneo. L'API U2F verrà rimossa da Chrome in Chrome 104 e a questo punto il criterio non sarà più supportato.
+      Si tratta di un meccanismo di disattivazione temporaneo. L'API U2F verrà rimossa da Egon in Egon 104 e a questo punto il criterio non sarà più supportato.
 
       Per maggiori informazioni sul ritiro dell'API U2F Security Key, fai riferimento alla pagina https://groups.google.com/a/chromium.org/g/blink-dev/c/xHC3AtU_65A.</translation>
 <translation id="4988291787868618635">Azione da compiere a raggiungimento ritardo inattività</translation>
@@ -4160,7 +4160,7 @@ Se il criterio viene disattivato, <ph name="PRODUCT_OS_NAME" /> disattiva il Blu
 Se questa norma non viene impostata viene utilizzata la riga di comando predefinita.</translation>
 <translation id="5151099177901233471">Attiva i report sulle informazioni relative al fuso orario del dispositivo</translation>
 <translation id="5152393033264257734">Consenti controlli dell'intercettazione DNS e barre di informazioni "http://intranetsite/" alternative</translation>
-<translation id="5152787786897382519">Chromium e Google Chrome hanno alcuni gruppi di criteri che dipendono gli uni dagli altri per fornire il controllo di una funzionalità. Questi insiemi sono rappresentati dai seguenti gruppi di criteri. Dato che i criteri possono avere diverse origini, vengono applicati soltanto i valori provenienti dall'origine con la priorità massima. I valori dello stesso gruppo provenienti da un'origine con priorità inferiore vengono ignorati. L'ordine di priorità è definito in <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Egon e Google Egon hanno alcuni gruppi di criteri che dipendono gli uni dagli altri per fornire il controllo di una funzionalità. Questi insiemi sono rappresentati dai seguenti gruppi di criteri. Dato che i criteri possono avere diverse origini, vengono applicati soltanto i valori provenienti dall'origine con la priorità massima. I valori dello stesso gruppo provenienti da un'origine con priorità inferiore vengono ignorati. L'ordine di priorità è definito in <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5153187201534281749">Icona degli esperimenti del browser nella barra degli strumenti</translation>
 <translation id="5163002264923337812">Attiva il flusso di accesso basato sul Web precedente</translation>
 <translation id="5163889437570441600">Consenti la trasmissione di contenuti al dispositivo usando <ph name="PRODUCT_NAME" />.
@@ -4197,12 +4197,12 @@ Se questa norma non viene impostata viene utilizzata la riga di comando predefin
       Poiché nessun criterio specifico prevale, vedi <ph name="COOKIES_BLOCKED_FOR_URLS_POLICY_NAME" /> e <ph name="COOKIES_ALLOWED_FOR_URLS_POLICY_NAME" />. I pattern URL di questi tre criteri non devono essere in conflitto.
 
       Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita la pagina https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns. <ph name="WILDCARD_VALUE" /> non è un valore accettato per questo criterio.</translation>
-<translation id="5177260184597743704">Criterio di configurazione per il connettore OnSecurityEvent di Chrome Enterprise</translation>
+<translation id="5177260184597743704">Criterio di configurazione per il connettore OnSecurityEvent di Egon Enterprise</translation>
 <translation id="5178479074002209469">Un flag booleano che indica se le sessioni utente non gestite devono ricevere o meno notifiche e forzare o meno l'uscita dall'account in caso di aggiornamento obbligatorio, in base a questo criterio.</translation>
 <translation id="5179853299156742425">L'URL da cui è possibile scaricare il modello di scrivania.</translation>
 <translation id="5182055907976889880">Configura Google Drive in <ph name="PRODUCT_OS_NAME" />.</translation>
 <translation id="5182483318861266793">Posiziona la barra delle app sul lato destro dello schermo</translation>
-<translation id="5184298474980725716">Questo criterio consente di stabilire la visibilità dei percorsi nella pagina Cronologia di Chrome.
+<translation id="5184298474980725716">Questo criterio consente di stabilire la visibilità dei percorsi nella pagina Cronologia di Egon.
 
       Se il criterio viene impostato su Enabled, i percorsi saranno visibili all'indirizzo chrome://history/journeys.
 
@@ -4220,7 +4220,7 @@ Se questa norma non viene impostata viene utilizzata la riga di comando predefin
 
       * Livello medio, l'utente può scegliere solo questo livello della Modalità con restrizioni e il livello massimo su YouTube, ma non può disattivare questa modalità.
 
-      * Off, o se il valore non viene configurato, la Modalità con restrizioni su YouTube non viene applicata da Chrome. I criteri esterni, come quelli di YouTube, potrebbero applicare comunque la Modalità con restrizioni.</translation>
+      * Off, o se il valore non viene configurato, la Modalità con restrizioni su YouTube non viene applicata da Egon. I criteri esterni, come quelli di YouTube, potrebbero applicare comunque la Modalità con restrizioni.</translation>
 <translation id="5191476996923842491">Comportamento predefinito per l'impostazione della funzione setTimeout().</translation>
 <translation id="519247340330463721">Configura le norme relative alla Navigazione sicura.</translation>
 <translation id="5194683382395300627">Consenti l'utilizzo di <ph name="ASSISTANT_PRODUCT_NAME" /> sul Web, ad esempio per attivare la modifica automatica delle password</translation>
@@ -4285,11 +4285,11 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
       Se viene impostato su Disattivato, gli utenti non possono salvare le nuove password, ma quelle salvate in precedenza restano attive.
 
       Se il criterio viene configurato, gli utenti non possono modificarlo in <ph name="PRODUCT_NAME" />. Se non viene configurato, gli utenti possono disattivare il salvataggio delle password.</translation>
-<translation id="5239333626804545932">Se il criterio viene impostato su Attivato o se non viene configurato, Chrome Software Cleaner analizza periodicamente il sistema per individuare eventuale software indesiderato e, qualora fosse presente, chiede all'utente se vuole rimuoverlo. L'attivazione manuale di Chrome Software Cleaner da chrome://settings è consentita.
+<translation id="5239333626804545932">Se il criterio viene impostato su Attivato o se non viene configurato, Egon Software Cleaner analizza periodicamente il sistema per individuare eventuale software indesiderato e, qualora fosse presente, chiede all'utente se vuole rimuoverlo. L'attivazione manuale di Egon Software Cleaner da chrome://settings è consentita.
 
-      Se il criterio viene impostato su Disattivato, Chrome Software Cleaner non esegue alcuna scansione periodica e l'attivazione manuale è disattivata.
+      Se il criterio viene impostato su Disattivato, Egon Software Cleaner non esegue alcuna scansione periodica e l'attivazione manuale è disattivata.
 
-      Su <ph name="MS_WIN_NAME" />, questa funzionalità è disponibile soltanto sulle istanze che fanno parte di un dominio <ph name="MS_AD_NAME" />, sono in esecuzione su Windows 10 Pro o sono registrate in Chrome Browser Cloud Management.</translation>
+      Su <ph name="MS_WIN_NAME" />, questa funzionalità è disponibile soltanto sulle istanze che fanno parte di un dominio <ph name="MS_AD_NAME" />, sono in esecuzione su Windows 10 Pro o sono registrate in Egon Browser Cloud Management.</translation>
 <translation id="5245647012663146075">Non consentire l'attivazione di Phone Hub</translation>
 <translation id="5245671702326993331">Consente le notifiche native</translation>
 <translation id="524637053580639111">Questo criterio è stato rimosso nella versione M82. Usa il criterio DeviceMinimumVersion.
@@ -4316,11 +4316,11 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="5257395339965216304">Dati app ospitate</translation>
 <translation id="5258445772095084618">Consenti agli utenti non affiliati di usare le macchine virtuali necessarie per supportare le app Linux</translation>
 <translation id="5262320080678421295">Disattiva attendibilità nei certificati emessi dall'Infrastruttura a chiave pubblica precedente di Symantec Corporation</translation>
-<translation id="5266591246506903971">Se questo criterio viene attivato, viene abilitata per impostazione predefinita la segnalazione anonima a Google dei dati sull'utilizzo e sugli arresti anomali di Chrome. Gli utenti possono comunque modificare questa impostazione dalle impostazioni di Chrome.
+<translation id="5266591246506903971">Se questo criterio viene attivato, viene abilitata per impostazione predefinita la segnalazione anonima a Google dei dati sull'utilizzo e sugli arresti anomali di Egon. Gli utenti possono comunque modificare questa impostazione dalle impostazioni di Egon.
 
       Se questo criterio viene disattivato, viene disattivata la segnalazione anonima e non vengono inviati a Google dati sull'utilizzo o sugli arresti anomali. Gli utenti non possono modificare questa impostazione.
 
-      Se questo criterio non viene configurato, gli utenti possono scegliere il comportamento di segnalazione anonima al momento dell'installazione o della prima esecuzione e possono cambiare l'impostazione in un secondo momento dalle impostazioni di Chrome.
+      Se questo criterio non viene configurato, gli utenti possono scegliere il comportamento di segnalazione anonima al momento dell'installazione o della prima esecuzione e possono cambiare l'impostazione in un secondo momento dalle impostazioni di Egon.
 
       Questo criterio è disponibile esclusivamente per le istanze di Windows aggiunte a un dominio <ph name="MS_AD_NAME" />, per le istanze di Windows 10 Pro o Enterprise registrate per la gestione dei dispositivi e per le istanze di macOS gestite tramite MDM o aggiunte a un dominio tramite MCX.
 
@@ -4402,11 +4402,11 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 
       Se il criterio viene impostato su False, il port forwarding nei container Crostini viene disattivato.</translation>
 <translation id="538108065117008131">Consenti a <ph name="PRODUCT_FRAME_NAME" /> di gestire i seguenti tipi di contenuto.</translation>
-<translation id="538768040137709073">Consente di attivare la funzione Appunti condivisi che permette agli utenti di inviare testi tra computer desktop Chrome e un dispositivo Android quando la sincronizzazione è attivata e l'utente ha effettuato l'accesso.
+<translation id="538768040137709073">Consente di attivare la funzione Appunti condivisi che permette agli utenti di inviare testi tra computer desktop Egon e un dispositivo Android quando la sincronizzazione è attivata e l'utente ha effettuato l'accesso.
 
-          Se il criterio è impostato su true, la funzionalità di invio testi tra dispositivi è attivata per gli utenti Chrome.
+          Se il criterio è impostato su true, la funzionalità di invio testi tra dispositivi è attivata per gli utenti Egon.
 
-          Se il criterio è impostato su false, la funzionalità di invio testi tra dispositivi è disattivata per gli utenti Chrome.
+          Se il criterio è impostato su false, la funzionalità di invio testi tra dispositivi è disattivata per gli utenti Egon.
 
           Se imposti questo criterio, gli utenti non potranno modificarlo o ignorarlo.
 
@@ -4433,7 +4433,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 
       Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita la pagina https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns. <ph name="WILDCARD_VALUE" /> non è un valore accettato per questo criterio.</translation>
 <translation id="5393009997533871906">Agli utenti vengono mostrate soltanto le stampanti indicate nella lista consentita</translation>
-<translation id="5398387276166014955">Consenti l'inserimento di codice di terze parti in Chrome</translation>
+<translation id="5398387276166014955">Consenti l'inserimento di codice di terze parti in Egon</translation>
 <translation id="5401696449591951427">Attiva <ph name="CHROME_DEVICES_LINK" /></translation>
 <translation id="5405289061476885481">Consente di configurare i layout da tastiera consentiti nella schermata di accesso di <ph name="PRODUCT_OS_NAME" />.
 
@@ -4445,7 +4445,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 
       Se il criterio viene impostato su false o non viene impostato, le informazioni non vengono segnalate.
       Se viene impostato su true, le informazioni sulle applicazioni del dispositivo e sul relativo utilizzo vengono segnalate.</translation>
-<translation id="5418892536013005088">Se il criterio viene impostato su Attivato o se non viene configurato, la cronologia di navigazione e quella dei download possono essere eliminate in Chrome e gli utenti non possono modificare questa impostazione.
+<translation id="5418892536013005088">Se il criterio viene impostato su Attivato o se non viene configurato, la cronologia di navigazione e quella dei download possono essere eliminate in Egon e gli utenti non possono modificare questa impostazione.
 
       Se il criterio viene impostato su Disattivato, la cronologia di navigazione e quella dei download non possono essere eliminate. Non è garantita la memorizzazione della cronologia di navigazione e di quella dei download, anche se questo criterio viene disattivato. Gli utenti potrebbero essere in grado di modificare o eliminare direttamente i file dei database delle cronologie e il browser stesso potrebbe far scadere o archiviare una o tutte le voci delle cronologie in qualsiasi momento.</translation>
 <translation id="5420245232720940848">Viene disattivato il tunneling PCIe per i dispositivi periferici Thunderbolt/USB4, limitando così le capacità dei dispositivi</translation>
@@ -4490,12 +4490,12 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 
       <ph name="ISOLATE_ORIGINS_ANDROID_POLICY_NAME" /> potrebbe anche essere utile per l'isolamento di origini specifiche a una granularità maggiore rispetto al sito (ad es. https://a.example.com).
 
-      Nota: il supporto dell'isolamento verrà migliorato per tutti i siti su Android, ma al momento potrebbe causare problemi di prestazioni, specialmente sui dispositivi di fascia bassa. Questo criterio viene applicato solo a Chrome su dispositivi Android con più di 1 GB di RAM. Per isolare siti specifici limitando l'impatto sulle prestazioni per gli utenti, utilizza <ph name="ISOLATE_ORIGINS_ANDROID_POLICY_NAME" /> con un elenco di siti che vuoi isolare.  Per applicare il criterio a piattaforme non Androd, utilizza <ph name="SITE_PER_PROCESS_POLICY_NAME" />.</translation>
+      Nota: il supporto dell'isolamento verrà migliorato per tutti i siti su Android, ma al momento potrebbe causare problemi di prestazioni, specialmente sui dispositivi di fascia bassa. Questo criterio viene applicato solo a Egon su dispositivi Android con più di 1 GB di RAM. Per isolare siti specifici limitando l'impatto sulle prestazioni per gli utenti, utilizza <ph name="ISOLATE_ORIGINS_ANDROID_POLICY_NAME" /> con un elenco di siti che vuoi isolare.  Per applicare il criterio a piattaforme non Androd, utilizza <ph name="SITE_PER_PROCESS_POLICY_NAME" />.</translation>
 <translation id="5445596354079213552">Questo criterio viene applicato soltanto se il dispositivo ha raggiunto la scadenza dell'aggiornamento automatico e non rispetta la versione minima consentita di <ph name="PRODUCT_OS_NAME" /> impostata tramite il criterio <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" />.
 
       Se il criterio viene impostato su una stringa non vuota:
       Se il tempo di avviso menzionato nel criterio <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" /> è scaduto, questo messaggio viene mostrato nella schermata di accesso quando il dispositivo è bloccato e nessun utente può eseguire l'accesso.
-      Se il tempo di avviso menzionato nel criterio <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" /> non è scaduto, questo messaggio viene mostrato nella pagina di gestione di Chrome dopo l'accesso da parte dell'utente.
+      Se il tempo di avviso menzionato nel criterio <ph name="DEVICE_MINIMUM_VERSION_POLICY_NAME" /> non è scaduto, questo messaggio viene mostrato nella pagina di gestione di Egon dopo l'accesso da parte dell'utente.
 
       Se questo criterio non viene impostato o viene lasciato vuoto, il messaggio predefinito della scadenza dell'aggiornamento automatico viene mostrato all'utente in entrambi i casi citati.
       Il messaggio della scadenza dell'aggiornamento automatico deve essere composto da testo normale, senza alcuna formattazione. Non sono consentiti markup.</translation>
@@ -4558,7 +4558,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 
       Se viene selezionata l'opzione "Disabled", non è possibile aprire le pagine in modalità di navigazione in incognito.
 
-      Se viene selezionata l'opzione "Forced", è possibile aprire le pagine SOLTANTO in modalità di navigazione in incognito. Tieni presente che l'opzione "Forced" non funziona per Android-on-Chrome.
+      Se viene selezionata l'opzione "Forced", è possibile aprire le pagine SOLTANTO in modalità di navigazione in incognito. Tieni presente che l'opzione "Forced" non funziona per Android-on-Egon.
 
       Nota: su iOS, se il criterio viene modificato durante una sessione, avrà effetto solamente al riavvio.</translation>
 <translation id="5497565614013170656">Espressione regolare per trovare corrispondenze con l'ID stampante.</translation>
@@ -4577,7 +4577,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="5508307164752647432">Attiva la funzionalità Kerberos</translation>
 <translation id="5511702823008968136">Attiva barra dei Preferiti</translation>
 <translation id="5512418063782665071">URL pagina iniziale</translation>
-<translation id="5516293691820655022">Chiudi completamente Chrome</translation>
+<translation id="5516293691820655022">Chiudi completamente Egon</translation>
 <translation id="551639594034811656">Questo criterio definisce un elenco di percentuali che definiranno la frazione dei dispositivi di <ph name="PRODUCT_OS_NAME" /> nell'UO da aggiornare ogni giorno a partire dal giorno in cui l'aggiornamento viene rilevato la prima volta. L'ora del rilevamento è successiva all'ora in cui l'aggiornamento viene pubblicato, perché potrebbe passare del tempo tra la pubblicazione dell'aggiornamento e il momento in cui il dispositivo controlla la disponibilità di aggiornamenti.
 
       Ogni coppia (giorno, percentuale) contiene la percentuale dei gruppi da aggiornare entro il numero di giorni stabilito a partire dal giorno in cui l'aggiornamento viene rilevato. Ad esempio, se abbiamo le coppie [(4, 40), (10, 70), (15, 100)], allora il 40% dei gruppi deve essere aggiornato entro 4 giorni dal rilevamento dell'aggiornamento; il 70% deve essere aggiornato dopo 10 giorni e così via.
@@ -4651,7 +4651,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="5601503069213153581">PIN</translation>
 <translation id="5607021831414604820">Attiva i report sullo stato di archiviazione del dispositivo</translation>
 <translation id="5614865701790130558">Registra eventi per le installazioni di estensioni basate sul criterio</translation>
-<translation id="5618398258385745432">L'impostazione associata veniva utilizzata prima dell'introduzione della riautenticazione per la visualizzazione delle password. Dopodiché l'impostazione e quindi la norma non hanno più inciso sul comportamento di Chrome. Ora Chrome funziona come se la norma fosse impostata in modo da disattivare la visualizzazione delle password in testo non criptato nella pagina delle impostazioni di Gestione password. Ciò significa che la pagina delle impostazioni contiene soltanto un segnaposto e che Chrome mostra la password soltanto se l'utente fa clic su "Mostra" (ed esegue la riautenticazione, se possibile). Di seguito è riportata la descrizione originale della norma.
+<translation id="5618398258385745432">L'impostazione associata veniva utilizzata prima dell'introduzione della riautenticazione per la visualizzazione delle password. Dopodiché l'impostazione e quindi la norma non hanno più inciso sul comportamento di Egon. Ora Egon funziona come se la norma fosse impostata in modo da disattivare la visualizzazione delle password in testo non criptato nella pagina delle impostazioni di Gestione password. Ciò significa che la pagina delle impostazioni contiene soltanto un segnaposto e che Egon mostra la password soltanto se l'utente fa clic su "Mostra" (ed esegue la riautenticazione, se possibile). Di seguito è riportata la descrizione originale della norma.
 
           Consente di stabilire se l'utente può visualizzare le password in testo non criptato in Gestione password.
 
@@ -4669,7 +4669,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="5621503441067774084">Attiva l'evidenziazione del cursore nella schermata di accesso</translation>
 <translation id="5622924058222112599">Viene attivata la procedura di lancio predefinita di CECPQ2</translation>
 <translation id="5623304306796942802">Mostra richiesta in caso di più certificati corrispondenti</translation>
-<translation id="5625771176514429288">Sarà consentita l'esecuzione delle app di Chrome su queste piattaforme</translation>
+<translation id="5625771176514429288">Sarà consentita l'esecuzione delle app di Egon su queste piattaforme</translation>
 <translation id="5630352020869108293">Ripristina l'ultima sessione</translation>
 <translation id="5633871703004128675">Attiva la funzione di accessibilità di evidenziazione del cursore di testo</translation>
 <translation id="5634032995857968056">Abilita la sandbox del container dell'app del renderer</translation>
@@ -4677,7 +4677,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="5639454129004500060">Se viene configurato, questo criterio contiene informazioni per scaricare il file di un modello di scrivania da fornire all'utente corrente.
       Se non viene configurato, nell'elenco di modelli di scrivanie non sarà incluso alcun modello di scrivania preconfigurato.  Se il criterio <ph name="DESK_TEMPLATES_ENABLED_POLICY_NAME" /> non viene impostato su vero, questo criterio non ha alcun effetto.</translation>
 <translation id="5645779841392247734">Consenti i cookie in questi siti</translation>
-<translation id="5646234199535103501">Criterio di configurazione per il connettore OnBulkDataEntry di Chrome Enterprise</translation>
+<translation id="5646234199535103501">Criterio di configurazione per il connettore OnBulkDataEntry di Egon Enterprise</translation>
 <translation id="5648016151508002741">Impedisci l'esecuzione dei controlli <ph name="OCSP_CRL_LABEL" /> online</translation>
 <translation id="5649046890958064703">Se per il criterio <ph name="DEVICE_PRINTERS_ACCESS_MODE_POLICY_NAME" /> viene scelta l'opzione <ph name="PRINTERS_BLACKLIST" />, la configurazione del criterio <ph name="DEVICE_NATIVE_PRINTERS_BLACKLIST_POLICY_NAME" /> consente di specificare le stampanti che gli utenti non possono usare. Gli utenti avranno a disposizione tutte le stampanti, tranne quelle i cui ID sono elencati in questo criterio. Gli ID devono corrispondere ai campi <ph name="ID_FIELD" /> o <ph name="GUID_FIELD" /> del file specificato nel criterio <ph name="DEVICE_PRINTERS_POLICY_NAME" />.
 
@@ -4763,7 +4763,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="5733040281451845496">Se il criterio viene impostato su Attivato, i ritardi di gestione dell'alimentazione e i limiti di durata delle sessioni iniziano soltanto dopo il rilevamento della prima attività dell'utente in una sessione.
 
       Se il criterio viene impostato su Disattivato o se non viene configurato, i ritardi di gestione dell'alimentazione e il limite di tempo iniziano immediatamente all'avvio della sessione.</translation>
-<translation id="5733357908790472408">Utilizza Chrome Root Store.</translation>
+<translation id="5733357908790472408">Utilizza Egon Root Store.</translation>
 <translation id="5735915264686983150">Nascondi e blocca le funzionalità disattivate</translation>
 <translation id="5736498355107027047">Mostra il pulsante di uscita nella barra delle applicazioni</translation>
 <translation id="5737394734996319911">La funzione di accessibilità <ph name="PRODUCT_NAME" /> consente agli utenti di screen reader con disabilità visiva di recuperare le descrizioni delle immagini senza etichetta sul Web. Gli utenti che decidono di attivarla avranno la possibilità di usare un servizio Google anonimo per avere descrizioni automatiche delle immagini senza etichetta che trovano sul Web.
@@ -4797,7 +4797,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 
       Se questo criterio viene impostato su False o non viene impostato, le funzionalità Web Components v0 verranno disattivate per impostazione predefinita a partire dalla versione M80.
 
-      Questo criterio verrà rimosso nelle versioni successive alla versione 84 di Chrome.</translation>
+      Questo criterio verrà rimosso nelle versioni successive alla versione 84 di Egon.</translation>
 <translation id="575647238840663288">Per impostazione predefinita, i documenti potrebbero essere inseriti in cluster di agenti in base all'origine. La funzione di accesso document.domain non è configurabile per questi documenti.</translation>
 <translation id="5756680608782814094">Segnala informazioni sui VPD di un dispositivo.
 
@@ -4822,7 +4822,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="5809728392451418079">Imposta il nome visualizzato per gli account del dispositivo</translation>
 <translation id="5814301096961727113">Impostazione stato predefinito della lettura vocale nella schermata di accesso</translation>
 <translation id="5815129011704381141">Riavvia automaticamente dopo l'aggiornamento</translation>
-<translation id="5815990343032461023">Comportamento precedente: le app di Chrome Kiosk verranno aggiornate dal sistema di estensione utilizzando l'URL di aggiornamento dal manifest dell'estensione, nonché memorizzando nella cache il gestore usando l'URL di aggiornamento dal criterio</translation>
+<translation id="5815990343032461023">Comportamento precedente: le app di Egon Kiosk verranno aggiornate dal sistema di estensione utilizzando l'URL di aggiornamento dal manifest dell'estensione, nonché memorizzando nella cache il gestore usando l'URL di aggiornamento dal criterio</translation>
 <translation id="5828008775808363753">Non aprire il browser all'avvio</translation>
 <translation id="582857022372205358">Attiva la stampa fronte/retro su lato corto</translation>
 <translation id="5830196507442186669">Consenti ai dispositivi di usare <ph name="BOREALIS_NAME" /> su <ph name="PRODUCT_OS_NAME" /></translation>
@@ -5070,7 +5070,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="6111936128861357925">Attiva il gioco del dinosauro</translation>
 <translation id="6112524153927257380">Se il criterio viene impostato, gli utenti non potranno aggirare le decisioni relative alla sicurezza dei download.
 
-      In Chrome ci sono tanti tipi di avvisi relativi ai download, suddivisi approssimativamente nelle seguenti categorie (scopri di più sui risultati di Navigazione sicura all'indirizzo https://support.google.com/chrome/?p=ib_download_blocked):
+      In Egon ci sono tanti tipi di avvisi relativi ai download, suddivisi approssimativamente nelle seguenti categorie (scopri di più sui risultati di Navigazione sicura all'indirizzo https://support.google.com/chrome/?p=ib_download_blocked):
 
       * Dannosi, come segnalato dal server di Navigazione sicura
       * Insoliti o indesiderati, come segnalato dal server di Navigazione sicura
@@ -5106,15 +5106,15 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="6135398260575578389">Navigazione sicura è attiva in modalità potenziata. Questa modalità fornisce maggior sicurezza, ma non richiede la condivisione di ulteriori dati di navigazione con Google.</translation>
 <translation id="6135552820180449830">Crosh (supporto dalla versione 99)</translation>
 <translation id="6138636318340561140">Controlla lo stato degli URL in tempo reale con Navigazione sicura</translation>
-<translation id="6140635914906859015">Elenco di impostazioni per i servizi di Chrome Enterprise Connectors da applicare al connettore di Enterprise <ph name="ON_BULK_DATA_ENTRY_ENTERPRISE_CONNECTOR" />, che si attiva quando vengono inseriti dati in Chrome dagli appunti o tramite trascinamento di contenuti web.
+<translation id="6140635914906859015">Elenco di impostazioni per i servizi di Egon Enterprise Connectors da applicare al connettore di Enterprise <ph name="ON_BULK_DATA_ENTRY_ENTERPRISE_CONNECTOR" />, che si attiva quando vengono inseriti dati in Egon dagli appunti o tramite trascinamento di contenuti web.
 
       I campi <ph name="ENTERPRISE_CONNECTOR_URL_LIST_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> e <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> vengono utilizzati per stabilire se il connettore deve inviare dati per l'analisi quando vengono inseriti in una pagina specifica e quali tag includere nella richiesta di analisi di questi dati. Un tag che corrisponde a un pattern "attivato" viene incluso nella richiesta di analisi se l'URL della pagina corrisponde a un pattern associato a questo tag, purché nessun pattern "disattivato" con lo stesso tag corrisponda all'URL della pagina. L'analisi viene eseguita se almeno 1 tag deve essere incluso nella richiesta.
 
       Il campo <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> identifica il fornitore di servizi di analisi a cui corrispondono le impostazioni.
 
-      Se il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> viene impostato su 1, Chrome attende di ricevere una risposta dal servizio di analisi prima di concedere alla pagina l'accesso ai dati. Con qualsiasi altro valore intero, Chrome concede immediatamente alla pagina l'accesso ai dati.
+      Se il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> viene impostato su 1, Egon attende di ricevere una risposta dal servizio di analisi prima di concedere alla pagina l'accesso ai dati. Con qualsiasi altro valore intero, Egon concede immediatamente alla pagina l'accesso ai dati.
 
-      Il campo <ph name="ENTERPRISE_CONNECTOR_MINIMUM_DATA_SIZE" /> indica le dimensioni minime (in byte) che devono avere i dati inseriti in Chrome per poter essere analizzati. Se il campo non viene configurato, il valore predefinito è 100 byte.
+      Il campo <ph name="ENTERPRISE_CONNECTOR_MINIMUM_DATA_SIZE" /> indica le dimensioni minime (in byte) che devono avere i dati inseriti in Egon per poter essere analizzati. Se il campo non viene configurato, il valore predefinito è 100 byte.
 
       Il campo <ph name="ENTERPRISE_CONNECTOR_REQUIRE_JUSTIFICATION_TAGS_FIELD" /> viene utilizzato per determinare per quali tag il connettore deve richiedere all'utente di inserire una giustificazione per ignorare una scansione che risulti in un avviso ignorabile. Se il campo non viene configurato, si presume che non sia richiesta alcuna giustificazione.
 
@@ -5128,7 +5128,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 
       Gli utenti possono attivare una finestra di dialogo per l'importazione e la casella di controllo dei dati di compilazione automatica dei moduli verrà selezionata o deselezionata in modo che corrisponda al valore del criterio.</translation>
 <translation id="614522356524762803">
-      Controlla la frequenza dei caricamenti di report sullo stato di Chrome.
+      Controlla la frequenza dei caricamenti di report sullo stato di Egon.
 
       Sono inclusi i report attivati da <ph name="CLOUD_REPORTING_ENABLED_POLICY_NAME" />.
 
@@ -5157,7 +5157,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="6181304954168534748">L'hash SHA-256 del modello di scrivania.</translation>
 <translation id="6181618732396778048">Non consentire a nessun sito di richiedere l'accesso di scrittura di file e directory</translation>
 <translation id="6181783961196084973">Il valore dell'opzione di attivazione/disattivazione della raccolta di attività nelle app. Se il criterio viene impostato su vero, l'attività nelle app dell'utente verrà segnalata al server per poter essere visualizzata nell'app <ph name="PRODUCT_NAME" /> del figlio e del genitore. Se il criterio viene impostato su falso, la funzionalità Limiti di utilizzo per app rimarrà disponibile, ma non verranno segnalati dati al server, che quindi non verranno visualizzati in <ph name="PRODUCT_NAME" />.</translation>
-<translation id="6182563940865917569">Consenti a Chrome di riprodurre automaticamente i contenuti multimediali</translation>
+<translation id="6182563940865917569">Consenti a Egon di riprodurre automaticamente i contenuti multimediali</translation>
 <translation id="6184385589352532028">Non attivare l'API Desk per il controllo di ChromeOS da terze parti</translation>
 <translation id="6190367314942602985">Segnala informazioni di identificazione degli utenti</translation>
 <translation id="6191963383731098056">Questo criterio consente agli amministratori di configurare il colore del tema di <ph name="PRODUCT_NAME" />. La stringa di input deve essere una stringa di colore esadecimale valido corrispondente al formato "#RRGGBB".
@@ -5171,7 +5171,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 
                   Se questo criterio viene impostato su Disattivato, la funzionalità degli insiemi proprietari viene disattivata.
 
-                  Stabilisce inoltre se Chrome supporta o meno le funzionalità correlate agli insiemi proprietari (ad esempio l'attributo per i cookie SameParty).</translation>
+                  Stabilisce inoltre se Egon supporta o meno le funzionalità correlate agli insiemi proprietari (ad esempio l'attributo per i cookie SameParty).</translation>
 <translation id="6195802366906945965">Consente di stabilire se verrà utilizzato lo strumento di verifica dei certificati integrato per verificare i certificati dei server</translation>
 <translation id="6198947200418556248">Questo criterio è deprecato. Se hai ancora bisogno del comportamento dei cookie precedente, usa il criterio <ph name="LEGACY_SAMESITE_COOKIE_BEHAVIOR_ENABLED_FOR_DOMAIN_LIST_POLICY_NAME" />. Ti consente di ripristinare il comportamento <ph name="ATTRIBUTE_SAMESITE_NAME" /> precedente per tutti i cookie. Se ripristini il comportamento precedente, i cookie per cui non è specificato un attributo <ph name="ATTRIBUTE_SAMESITE_NAME" /> vengono considerati come se avessero il valore "<ph name="ATTRIBUTE_VALUE_SAMESITE_NONE" />"; viene rimosso il requisito che richiede che i cookie "<ph name="ATTRIBUTE_VALUE_SAMESITE_NONE" />" abbiano l'attributo "<ph name="ATTRIBUTE_SECURE_NAME" />" e viene ignorato il confronto tra schemi nel valutare se due siti sono uno stesso sito. Per una descrizione completa, visita la pagina https://www.chromium.org/administrators/policy-list-3/cookie-legacy-samesite-policies.
 
@@ -5229,7 +5229,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="6258658183356534534">Controlla la funzionalità di aggiornamento User-Agent Client Hints GREASE.</translation>
 <translation id="6261643884958898336">Segnala informazioni di identificazione dei computer</translation>
 <translation id="6265892395051519509">Consenti l'accesso ai sensori su questi siti</translation>
-<translation id="6266043141694454734">Determina se verranno utilizzati Chrome Root Store e lo strumento di verifica dei certificati integrato per verificare i certificati del server</translation>
+<translation id="6266043141694454734">Determina se verranno utilizzati Egon Root Store e lo strumento di verifica dei certificati integrato per verificare i certificati del server</translation>
 <translation id="6270615143812355589">Attiva l'input audio</translation>
 <translation id="6270791075656665237">Non consentire QUIC</translation>
 <translation id="6273015149273504999">
@@ -5241,9 +5241,9 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 
       Se un'app o un'estensione di cui è stata precedentemente forzata l'installazione viene rimossa da questo elenco, tale app o estensione viene disinstallata automaticamente da <ph name="PRODUCT_NAME" />.
 
-      Ogni elemento nell'elenco del criterio è una stringa contenente un ID estensione e, facoltativamente, un URL "di aggiornamento" separati da punto e virgola (<ph name="SEMICOLON" />). L'ID estensione è la stringa di 32 lettere che si trova, ad esempio, all'indirizzo <ph name="CHROME_EXTENSIONS_LINK" /> quando è attiva la modalità sviluppatore. L'URL "di aggiornamento", se specificato, deve indirizzare a un documento XML manifest di aggiornamento come descritto all'indirizzo <ph name="LINK_TO_EXTENSION_DOC1" />. Per impostazione predefinita, viene utilizzato l'URL di aggiornamento del Chrome Web Store (che attualmente è "https://clients2.google.com/service/update2/crx"). Tieni presente che l'URL "di aggiornamento" impostato in questo criterio viene utilizzato esclusivamente per l'installazione iniziale; per i successivi aggiornamenti dell'estensione viene utilizzato l'URL di aggiornamento indicato nel file manifest dell'estensione.
+      Ogni elemento nell'elenco del criterio è una stringa contenente un ID estensione e, facoltativamente, un URL "di aggiornamento" separati da punto e virgola (<ph name="SEMICOLON" />). L'ID estensione è la stringa di 32 lettere che si trova, ad esempio, all'indirizzo <ph name="CHROME_EXTENSIONS_LINK" /> quando è attiva la modalità sviluppatore. L'URL "di aggiornamento", se specificato, deve indirizzare a un documento XML manifest di aggiornamento come descritto all'indirizzo <ph name="LINK_TO_EXTENSION_DOC1" />. Per impostazione predefinita, viene utilizzato l'URL di aggiornamento del Egon Web Store (che attualmente è "https://clients2.google.com/service/update2/crx"). Tieni presente che l'URL "di aggiornamento" impostato in questo criterio viene utilizzato esclusivamente per l'installazione iniziale; per i successivi aggiornamenti dell'estensione viene utilizzato l'URL di aggiornamento indicato nel file manifest dell'estensione.
 
-      Ad esempio, <ph name="LOGIN_SCREEN_EXTENSION_POLICY_EXAMPLE" /> installa l'app <ph name="SMART_CARD_CONNECTOR_APP_NAME" /> dall'URL "di aggiornamento" standard del Chrome Web Store. Ulteriori informazioni sulle estensioni in hosting sono disponibili all'indirizzo: <ph name="LINK_TO_EXTENSION_DOC2" />.</translation>
+      Ad esempio, <ph name="LOGIN_SCREEN_EXTENSION_POLICY_EXAMPLE" /> installa l'app <ph name="SMART_CARD_CONNECTOR_APP_NAME" /> dall'URL "di aggiornamento" standard del Egon Web Store. Ulteriori informazioni sulle estensioni in hosting sono disponibili all'indirizzo: <ph name="LINK_TO_EXTENSION_DOC2" />.</translation>
 <translation id="6273107124506133797">Questo criterio è stato deprecato e non è supportato. Utilizza il criterio <ph name="USB_DETACHABLE_ALLOWLIST_POLICY_NAME" />.</translation>
 <translation id="6274202259872570803">Registra schermo</translation>
 <translation id="6275497712828649588">Nascondi avvisi di sicurezza quando vengono usati flag della riga di comando potenzialmente pericolosi</translation>
@@ -5343,14 +5343,14 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
           Il valore del criterio deve essere specificato in millisecondi. I valori devono essere inferiori o uguali al ritardo di inattività.
 
           L'avviso viene mostrato solo se l'azione stabilita in caso di inattività è la disconnessione o lo spegnimento.</translation>
-<translation id="6331172765821724350">Consenti la disattivazione di WebSQL da parte del flag di Chrome.</translation>
+<translation id="6331172765821724350">Consenti la disattivazione di WebSQL da parte del flag di Egon.</translation>
 <translation id="6331943515692769234">Forza l'utilizzo dell'algoritmo User-Agent GREASE precedente.</translation>
 <translation id="6332546092866098577">Blocca l'accesso di lettura tramite l'API file system su questi siti</translation>
 <translation id="6334330017384340264">Questo criterio consente di specificare le applicazioni e gli URL da autorizzare per i limiti di utilizzo per app.
         La lista consentita configurata viene applicata alle app installate su <ph name="PRODUCT_OS_NAME" /> per l'utente in questione con limiti di utilizzo per app.
         La lista consentita configurata può essere applicata soltanto agli account per bambini e diventa effettiva quando viene impostato il criterio <ph name="PER_APP_TIME_LIMITS_POLICY_NAME" />.
         La lista consentita configurata viene applicata alle applicazioni e agli URL affinché non vengano bloccati secondo i limiti di utilizzo per app.
-        L'accesso agli URL autorizzati non viene considerato per il limite di utilizzo di Chrome.
+        L'accesso agli URL autorizzati non viene considerato per il limite di utilizzo di Egon.
         Aggiungi espressioni regolari degli URL a |url_list| per autorizzare gli URL corrispondenti alle espressioni regolari nell'elenco.
         Aggiungi all'elenco |app_list| un'applicazione con i relativi valori |app_id| e |app_type| per autorizzarla.
        </translation>
@@ -5454,7 +5454,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 <translation id="6452882999388592166">Se impostato su Attivato, l'estensione del componente CryptoToken integrata viene caricata all'avvio. Se impostato su Disattivato o se non viene configurato, CryptoToken non viene caricato all'avvio del browser. Questo criterio è inteso come soluzione alternativa temporanea per i siti non funzionanti perché "chrome.runtime" non è definito come effetto collaterale della rimozione di CryptoToken nella versione M106. I siti web non devono dipendere dalla definizione senza condizioni di "chrome.runtime".</translation>
 <translation id="6453641799812499182">Attiva le mitigazioni dei controlli <ph name="CORS" /> nella nuova implementazione <ph name="CORS" /></translation>
 <translation id="645425387487868471">Attiva l'accesso forzato per <ph name="PRODUCT_NAME" /></translation>
-<translation id="6455842857207956758">Consente di attivare la sincronizzazione delle password SAML tra più dispositivi Chrome monitorando il valore del token di sincronizzazione delle password e facendo svolgere all'utente la procedura di riautenticazione online se la password è stata aggiornata e deve essere sincronizzata.
+<translation id="6455842857207956758">Consente di attivare la sincronizzazione delle password SAML tra più dispositivi Egon monitorando il valore del token di sincronizzazione delle password e facendo svolgere all'utente la procedura di riautenticazione online se la password è stata aggiornata e deve essere sincronizzata.
 
       Consente di attivare all'indirizzo chrome://password-change una pagina che permette agli utenti SAML di cambiare le loro password SAML all'interno della sessione, il che assicura che le password SAML e quelle per la schermata di blocco del dispositivo rimangano sincronizzate.
 
@@ -5573,7 +5573,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
       Se il criterio viene impostato su Disattivato, il sistema può considerare gli utenti inattivi nonostante l'attività audio.</translation>
 <translation id="6559475864956112261">Questo criterio è deprecato. Utilizza il criterio <ph name="PROXY_SETTINGS_POLICY_NAME" />.
 
-       Se il criterio viene impostato su Attivato, puoi specificare il server proxy utilizzato da Chrome e impedire agli utenti di modificare le impostazioni del proxy. Chrome e le app ARC ignorano tutte le opzioni relative al proxy specificate dalla riga di comando. Il criterio viene applicato solo se il criterio <ph name="PROXY_SETTINGS_POLICY_NAME" /> non viene specificato.
+       Se il criterio viene impostato su Attivato, puoi specificare il server proxy utilizzato da Egon e impedire agli utenti di modificare le impostazioni del proxy. Egon e le app ARC ignorano tutte le opzioni relative al proxy specificate dalla riga di comando. Il criterio viene applicato solo se il criterio <ph name="PROXY_SETTINGS_POLICY_NAME" /> non viene specificato.
 
        Vengono ignorate altre opzioni se scegli il valore:
          * <ph name="PROXY_MODE_ENUM_DIRECT" /> = Non utilizzare mai un server proxy e connettiti sempre direttamente
@@ -5586,7 +5586,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 
       Se il criterio non viene configurato, gli utenti possono scegliere le impostazioni del proxy.
 
-      Nota: per esempi approfonditi, consulta la pagina The Chromium Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
+      Nota: per esempi approfonditi, consulta la pagina The Egon Projects ( https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett ).</translation>
 <translation id="656130159911161669">Gli aggiornamenti di ChromeOS ignorano la versione definita nel file manifest dell'app kiosk</translation>
 <translation id="6561396069801924653">Mostra le opzioni di accessibilità nel menu della barra delle applicazioni di sistema</translation>
 <translation id="6562889469672829421">Il periodo di tempo, in millisecondi, senza input dell'utente trascorso il quale lo schermo viene oscurato.</translation>
@@ -5837,7 +5837,7 @@ Se questo criterio viene impostato su Falso, <ph name="PRODUCT_NAME" /> non util
 
       Se questo criterio non viene configurato o se viene impostato su True, <ph name="PRODUCT_NAME" /> supporterà le intestazioni delle richieste CORS senza caratteri jolly e si comporterà come descritto in precedenza.
 
-      Se questo criterio viene impostato su False, Chrome consentirà il simbolo di carattere jolly ("*") nell'intestazione Access-Control-Allow-Headers della risposta preflight CORS per includere l'intestazione Authorization.
+      Se questo criterio viene impostato su False, Egon consentirà il simbolo di carattere jolly ("*") nell'intestazione Access-Control-Allow-Headers della risposta preflight CORS per includere l'intestazione Authorization.
 
       Questo criterio aziendale è temporaneo ed è destinato a essere rimosso in futuro.</translation>
 <translation id="6789422336869764846">Se il criterio viene impostato su Attivato o se non viene configurato, i dispositivi registrati segnalano lo stato della modalità sviluppatore del dispositivo all'avvio.
@@ -6066,14 +6066,14 @@ Se il criterio viene impostato su Disabled o se non viene configurato, verrà ap
       Se selezioni l'opzione "U2F", il funzionamento dell'autenticazione a due fattori integrata dipenderà dalla specifica FIDO U2F.
 
       Se selezioni l'opzione "U2F_EXTENDED", l'autenticazione a due fattori integrata fornirà le funzioni U2F più alcune estensioni per la singola attestazione.</translation>
-<translation id="6998179760789945134">Disattiva WebSQL in contesti non sicuri, a meno che non venga attivato dal flag di Chrome.</translation>
+<translation id="6998179760789945134">Disattiva WebSQL in contesti non sicuri, a meno che non venga attivato dal flag di Egon.</translation>
 <translation id="6999948519306285655">Questo criterio è deprecato. Usa il criterio <ph name="PROXY_SETTINGS_POLICY_NAME" />.
 
        La configurazione del criterio consente di specificare un URL a un file proxy .pac. Questo criterio viene applicato solo se il criterio <ph name="PROXY_SETTINGS_POLICY_NAME" /> non è specificato e hai selezionato <ph name="PROXY_MODE_ENUM_PAC_SCRIPT" /> con <ph name="PROXY_MODE_POLICY_NAME" />.
 
        Non configurare questo criterio se hai selezionato una qualsiasi altra modalità per i criteri di impostazione del proxy.
 
-       Nota: per esempi approfonditi, consulta la pagina The Chromium Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
+       Nota: per esempi approfonditi, consulta la pagina The Egon Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
 <translation id="7002040773317582266">Il controllo in tempo reale degli URL del frame principale è attivo.</translation>
 <translation id="7003746348783715221">Preferenze di <ph name="PRODUCT_NAME" /></translation>
 <translation id="7007283257527015835">Un flag booleano che indica se il gestore di protocollo deve essere impostato o meno come predefinito.</translation>
@@ -6111,7 +6111,7 @@ Se il criterio viene impostato su Disabled o se non viene configurato, verrà ap
       La configurazione di un elenco di URL in questo criterio equivale a impostare il flag della riga di comando unsafely-treat-insecure-origin-as-secure su un elenco separato da virgole degli stessi URL. Il criterio sovrascrive il flag della riga di comando e UnsafelyTreatInsecureOriginAsSecure, se presenti.
 
       Per ulteriori informazioni sui contesti sicuri, visita la pagina https://www.w3.org/TR/secure-contexts.</translation>
-<translation id="703672323011778742">Questo criterio è deprecato in M88 e Flash non è più supportato da Chrome. Se il criterio viene impostato su 1, puoi decidere se tutti i siti web possono eseguire automaticamente il plug-in <ph name="FLASH_PLUGIN_NAME" />. Se il criterio viene impostato su 2, il plug-in viene negato per tutti i siti web. Click-to-play consente di eseguire il plug-in <ph name="FLASH_PLUGIN_NAME" />, ma gli utenti fanno clic sul segnaposto per avviarne l'esecuzione.
+<translation id="703672323011778742">Questo criterio è deprecato in M88 e Flash non è più supportato da Egon. Se il criterio viene impostato su 1, puoi decidere se tutti i siti web possono eseguire automaticamente il plug-in <ph name="FLASH_PLUGIN_NAME" />. Se il criterio viene impostato su 2, il plug-in viene negato per tutti i siti web. Click-to-play consente di eseguire il plug-in <ph name="FLASH_PLUGIN_NAME" />, ma gli utenti fanno clic sul segnaposto per avviarne l'esecuzione.
 
       Se il criterio non viene configurato, viene utilizzato <ph name="BLOCK_PLUGINS_POLICY_NAME" /> e gli utenti possono cambiare l'impostazione.
 
@@ -6204,9 +6204,9 @@ Se il criterio viene impostato su Disabled o se non viene configurato, verrà ap
           Se questo criterio non viene impostato, inizialmente il pulsante principale sarà il pulsante sinistro del mouse, ma l'utente può cambiarlo in qualsiasi momento.</translation>
 <translation id="7137460825181247519">Questo criterio è deprecato in <ph name="PRODUCT_NAME" /> 83. Usa il criterio <ph name="SAFE_BROWSING_PROTECTION_LEVEL_POLICY_NAME" />.
 
-      Se il criterio viene impostato su Attivato, la funzionalità Navigazione sicura di Chrome rimane attiva. Se il criterio viene impostato su Disattivato, Navigazione sicura rimane disattivata.
+      Se il criterio viene impostato su Attivato, la funzionalità Navigazione sicura di Egon rimane attiva. Se il criterio viene impostato su Disattivato, Navigazione sicura rimane disattivata.
 
-      Se il criterio viene configurato, gli utenti non possono modificare questa impostazione o sovrascrivere l'impostazione "Attiva protezione contro phishing e malware" in Chrome. Se non viene configurato, l'impostazione "Attiva protezione contro phishing e malware" viene impostata su True, ma l'utente può modificarla.
+      Se il criterio viene configurato, gli utenti non possono modificare questa impostazione o sovrascrivere l'impostazione "Attiva protezione contro phishing e malware" in Egon. Se non viene configurato, l'impostazione "Attiva protezione contro phishing e malware" viene impostata su True, ma l'utente può modificarla.
 
       Ulteriori informazioni su Navigazione sicura (https://developers.google.com/safe-browsing).
 
@@ -6246,7 +6246,7 @@ Se il criterio viene impostato su Disabled o se non viene configurato, verrà ap
       Se il criterio viene impostato su Disattivato, il rilevamento dei dispositivi locali non è consentito.
       </translation>
 <translation id="7167436895080860385">Consenti agli utenti di mostrare le password in Gestione password (ritirata)</translation>
-<translation id="7172046613126456732">Consenti l'avvio di Chrome se non hai eseguito la registrazione a Chrome Browser Cloud Management</translation>
+<translation id="7172046613126456732">Consenti l'avvio di Egon se non hai eseguito la registrazione a Egon Browser Cloud Management</translation>
 <translation id="7173856672248996428">Profilo temporaneo</translation>
 <translation id="717630378807352957">Consenti tutte le stampanti del file di configurazione.</translation>
 <translation id="7177293255621000064">L'impostazione del criterio su True rende tutti i tipi di supporti di archiviazione esterni (unità flash USB, dischi rigidi esterni, schede di memoria SD e di altro tipo, memorie ottiche) non disponibili nel browser di file. L'impostazione del criterio su False o la mancata impostazione implica che gli utenti possano utilizzare spazi di archiviazione esterni sul loro dispositivo.
@@ -6273,12 +6273,12 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 <translation id="719398790886719721">Disattiva l'accesso root alle macchine virtuali Linux</translation>
 <translation id="7194407337890404814">Nome del provider di ricerca predefinito</translation>
 <translation id="7198134478421755850">Estensione</translation>
-<translation id="7199304109870655950">Configura le opzioni di accesso remoto nell'host Chrome Remote Desktop.
+<translation id="7199304109870655950">Configura le opzioni di accesso remoto nell'host Egon Remote Desktop.
 
-      L'host Chrome Remote Desktop è un servizio nativo che viene eseguito sul computer di destinazione a cui l'utente può collegarsi utilizzando l'applicazione Chrome Remote Desktop.  Il servizio nativo viene pacchettizzato ed eseguito separatamente dal browser <ph name="PRODUCT_NAME" />.
+      L'host Egon Remote Desktop è un servizio nativo che viene eseguito sul computer di destinazione a cui l'utente può collegarsi utilizzando l'applicazione Egon Remote Desktop.  Il servizio nativo viene pacchettizzato ed eseguito separatamente dal browser <ph name="PRODUCT_NAME" />.
 
       Queste norme vengono ignorate a meno che
-      non sia installato l'host Chrome Remote Desktop.</translation>
+      non sia installato l'host Egon Remote Desktop.</translation>
 <translation id="7202925763179776247">Consenti limitazioni dei download</translation>
 <translation id="7207095846245296855">Forza il filtro SafeSearch di Google</translation>
 <translation id="7208483746373960784">Questa impostazione consente di stabilire la quantità di dati utente da conservare dopo la disattivazione di <ph name="LACROS_NAME" />.
@@ -6328,7 +6328,7 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
       Se entrambi i criteri <ph name="HOMEPAGE_LOCATION_POLICY_NAME" /> e <ph name="HOMEPAGE_IS_NEW_TAB_PAGE_POLICY_NAME" /> non vengono impostati, gli utenti possono scegliere la pagina iniziale che preferiscono.
 
       Su <ph name="MS_WIN_NAME" />, questa funzionalità è disponibile soltanto nelle istanze che fanno parte di un dominio <ph name="MS_AD_NAME" />, sono in esecuzione su Windows 10 Pro o sono registrate in <ph name="CHROME_BROWSER_CLOUD_MANAGEMENT_NAME" />. Su <ph name="MAC_OS_NAME" />, questa funzionalità è disponibile soltanto nelle istanze gestite tramite MDM o aggiunte a un dominio tramite MCX.</translation>
-<translation id="7258250780552783197">Elenco di impostazioni per i servizi di Chrome Enterprise Connectors da applicare al connettore di Enterprise <ph name="ON_FILE_TRANSFER_ENTERPRISE_CONNECTOR" />, che si attiva quando un file viene trasferito all'interno di <ph name="PRODUCT_OS_NAME" />.
+<translation id="7258250780552783197">Elenco di impostazioni per i servizi di Egon Enterprise Connectors da applicare al connettore di Enterprise <ph name="ON_FILE_TRANSFER_ENTERPRISE_CONNECTOR" />, che si attiva quando un file viene trasferito all'interno di <ph name="PRODUCT_OS_NAME" />.
 
       I campi <ph name="ENTERPRISE_CONNECTOR_SOURCE_DESTINATION_LIST_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> e <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> vengono utilizzati per stabilire se il connettore deve inviare un file per l'analisi quando viene trasferito tra un'origine e una destinazione e quali tag includere nella richiesta di analisi di quel file. Un tag che corrisponde a una regola "enable" verrà incluso nella richiesta di analisi se l'origine e la destinazione corrispondono alla regola associata a questo tag, purché nessuna regola "disable" con lo stesso tag corrisponda al trasferimento. L'analisi viene eseguita se almeno un tag deve essere incluso nella richiesta. Una regola <ph name="ENTERPRISE_CONNECTOR_SOURCE_DESTINATION_LIST_FIELD" /> è definita da un elenco di coppie, dove ogni coppia contiene un elenco di origini e un elenco di destinazioni. Il campo <ph name="ENTERPRISE_CONNECTOR_FILE_SYSTEM_TYPE_FIELD" /> definisce il file system a cui deve essere applicata una regola.
 
@@ -6394,9 +6394,9 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 <translation id="7313672174502374994">L'hash SHA-256 dell'immagine di sfondo.</translation>
 <translation id="7322825363493984512">La password per l'autenticazione dei servizi di sistema per il proxy web remoto.</translation>
 <translation id="7323896582714668701">Parametri aggiuntivi della riga di comando per <ph name="PRODUCT_NAME" /></translation>
-<translation id="7325801934761922681">Chrome non può bloccare le navigazioni ai protocolli esterni all'interno di iframe con sandbox</translation>
+<translation id="7325801934761922681">Egon non può bloccare le navigazioni ai protocolli esterni all'interno di iframe con sandbox</translation>
 <translation id="7326394567531622570">Simile a Wipe (valore 2), ma prova a mantenere i token di accesso per evitare all'utente di dover accedere di nuovo.</translation>
-<translation id="7331962793961469250">Quando la norma è impostata su True, le promozioni relative alle applicazioni del Chrome Web Store non vengono visualizzate nella pagina Nuova scheda. Se questa opzione viene impostata su False o non viene impostata, le promozioni relative alle applicazioni del Chrome Web Store vengono visualizzate nella pagina Nuova scheda.</translation>
+<translation id="7331962793961469250">Quando la norma è impostata su True, le promozioni relative alle applicazioni del Egon Web Store non vengono visualizzate nella pagina Nuova scheda. Se questa opzione viene impostata su False o non viene impostata, le promozioni relative alle applicazioni del Egon Web Store vengono visualizzate nella pagina Nuova scheda.</translation>
 <translation id="7332963785317884918">Questa norma è obsoleta. <ph name="PRODUCT_OS_NAME" /> utilizzerà sempre la strategia di pulizia "RemoveLRU".
 
       Consente di stabilire il comportamento di pulizia automatica sui dispositivi <ph name="PRODUCT_OS_NAME" />. La pulizia automatica viene attivata per recuperare spazio quando la quantità di spazio libero su disco raggiunge un livello critico.
@@ -6427,7 +6427,7 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 <translation id="7358359585412734876">Attiva <ph name="LACROS_NAME" /></translation>
 <translation id="736486789939370545">Consenti l'installazione di estensioni esterne</translation>
 <translation id="7366948865469126526">Disattiva conversione unità di Risposte rapide</translation>
-<translation id="7367734504783638685">Sincronizzazione delle password tra fornitori di servizi SSO di terze parti e dispositivi Chrome</translation>
+<translation id="7367734504783638685">Sincronizzazione delle password tra fornitori di servizi SSO di terze parti e dispositivi Egon</translation>
 <translation id="7372831798009983116">Attiva la funzione di accessibilità di clic automatico</translation>
 <translation id="7373200034079131670">Riavvia all'uscita dell'utente se si avvia Android o una VM.</translation>
 <translation id="7375785904116479354">Se il criterio viene impostato su Attivato, il motore di ricerca predefinito del precedente browser predefinito verrà importato alla prima esecuzione. Se il criterio viene impostato su Disattivato o se non viene configurato, il motore di ricerca predefinito non verrà importato alla prima esecuzione.
@@ -6456,7 +6456,7 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
        Se il criterio viene impostato su Disattivato o se non viene configurato, le immagini di terze parti non possono visualizzare un prompt di autenticazione.
 
       In genere, questo criterio è disattivato per difendere gli utenti da tentativi di phishing.</translation>
-<translation id="7403217961820363141">Mostra i percorsi nella pagina Cronologia di Chrome</translation>
+<translation id="7403217961820363141">Mostra i percorsi nella pagina Cronologia di Egon</translation>
 <translation id="7406039009275722824">Se disattivi <ph name="CHROME_SYNC_NAME" />, il servizio di backup e ripristino di Android non funzionerà correttamente.</translation>
 <translation id="7407441173422042771">Questo criterio consente di controllare la previsione di rete in <ph name="PRODUCT_NAME" />, il precaricamento DNS, le preconnessioni TCP e SSL e il prerendering delle pagine web.
 
@@ -6510,17 +6510,17 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
       Nota: se l'azione è la sospensione, è possibile configurare separatamente <ph name="PRODUCT_OS_NAME" /> in modo che blocchi o meno lo schermo prima della sospensione.</translation>
 <translation id="7477149584454865826">Un flag booleano che indica se deve essere usato o meno IPP Everywhere per configurare la stampante.</translation>
 <translation id="7477231245051133709">Attiva la funzione di accessibilità di audio in formato mono</translation>
-<translation id="7480826412572122600">Elenco di impostazioni per i servizi di Chrome Enterprise Connectors da applicare al connettore di Enterprise <ph name="ON_FILE_DOWNLOADED_ENTERPRISE_CONNECTOR" />, che si attiva quando un file viene scaricato in Chrome.
+<translation id="7480826412572122600">Elenco di impostazioni per i servizi di Egon Enterprise Connectors da applicare al connettore di Enterprise <ph name="ON_FILE_DOWNLOADED_ENTERPRISE_CONNECTOR" />, che si attiva quando un file viene scaricato in Egon.
 
       I campi <ph name="ENTERPRISE_CONNECTOR_URL_LIST_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_TAGS_FIELD" />, <ph name="ENTERPRISE_CONNECTOR_ENABLE_FIELD" /> e <ph name="ENTERPRISE_CONNECTOR_DISABLE_FIELD" /> vengono utilizzati per stabilire se il connettore deve inviare un file per l'analisi quando viene scaricato da una pagina specifica e quali tag includere nella richiesta di analisi di questo file. Un tag che corrisponde a un pattern "attivato" viene incluso nella richiesta di analisi se l'URL della pagina corrisponde a un pattern associato a questo tag, purché nessun pattern "disattivato" con lo stesso tag corrisponda all'URL della pagina. L'analisi viene eseguita se almeno 1 tag deve essere incluso nella richiesta.
 
       Il campo <ph name="ENTERPRISE_CONNECTOR_SERVICE_PROVIDER_FIELD" /> identifica il fornitore di servizi di analisi a cui corrispondono le impostazioni.
 
-      Se il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> viene impostato su 1, Chrome attende di ricevere una risposta dal servizio di analisi prima di concedere l'accesso all'utente al file scaricato. Con qualsiasi altro valore intero, Chrome concede all'utente l'accesso al file immediatamente.
+      Se il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_UNTIL_VERDICT_FIELD" /> viene impostato su 1, Egon attende di ricevere una risposta dal servizio di analisi prima di concedere l'accesso all'utente al file scaricato. Con qualsiasi altro valore intero, Egon concede all'utente l'accesso al file immediatamente.
 
-      Il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> consente di controllare se Chrome blocca o autorizza i file protetti tramite password.
+      Il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_PASSWORD_PROTECTED_FIELD" /> consente di controllare se Egon blocca o autorizza i file protetti tramite password.
 
-      Il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> consente di controllare se Chrome blocca o autorizza i file troppo grandi per essere analizzati.
+      Il campo <ph name="ENTERPRISE_CONNECTOR_BLOCK_LARGE_FILES_FIELD" /> consente di controllare se Egon blocca o autorizza i file troppo grandi per essere analizzati.
 
       Il campo <ph name="ENTERPRISE_CONNECTOR_REQUIRE_JUSTIFICATION_TAGS_FIELD" /> viene utilizzato per determinare per quali tag il connettore deve richiedere all'utente di inserire una giustificazione per ignorare una scansione che risulti in un avviso ignorabile. Se il campo non viene configurato, si presume che non sia richiesta alcuna giustificazione.
 
@@ -6579,7 +6579,7 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
       Se il criterio non viene configurato o se viene impostato su False, le suite di crittografia RC4 in TLS non verranno attivate. In caso contrario, potrebbe essere impostato su True per mantenere la compatibilità con un server obsoleto. Si tratta di una misura temporanea ed è necessario riconfigurare il server.</translation>
 <translation id="7519218194072744342">L'URL del gestore di protocollo.</translation>
 <translation id="7519251620064708155">Consenti la generazione di chiavi su questi siti</translation>
-<translation id="7521864460386999758">Impedisci l'inserimento di codici di terze parti in Chrome</translation>
+<translation id="7521864460386999758">Impedisci l'inserimento di codici di terze parti in Egon</translation>
 <translation id="7529144158022474049">Fattore di dispersione aggiornamento automatico</translation>
 <translation id="7529332889403151669">Specifica se mostrare l'avviso di schermo intero quando il dispositivo disattiva la sospensione o lo schermo scuro.
 
@@ -6607,9 +6607,9 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 <translation id="7544392541165889987">Se il criterio viene impostato su Attivato o se non viene configurato, <ph name="PRODUCT_NAME" /> può agire da proxy tra <ph name="CLOUD_PRINT_NAME" /> e le precedenti stampanti collegate al computer. Gli utenti possono attivare il proxy Cloud Print tramite l'autenticazione usando il proprio Account Google.
 
       Se il criterio viene impostato su Disattivato, gli utenti non possono attivare il proxy e il computer non può condividere le stampanti con <ph name="CLOUD_PRINT_NAME" />.</translation>
-<translation id="7546699946724795644">Chrome può bloccare le navigazioni ai protocolli esterni all'interno di iframe con sandbox</translation>
+<translation id="7546699946724795644">Egon può bloccare le navigazioni ai protocolli esterni all'interno di iframe con sandbox</translation>
 <translation id="7547549430720182663">Unisci</translation>
-<translation id="7554382342294940216">Se il criterio viene impostato su Attivato, <ph name="PRODUCT_OS_NAME" /> può aggirare qualsiasi proxy per l'autenticazione captive portal. Queste pagine web di autenticazione, a partire dalla pagina di accesso al captive portal fino al rilevamento di una connessione a Internet attiva da parte di Chrome, si aprono in una finestra separata, ignorando tutte le impostazioni del criterio e le limitazioni relative all'utente corrente. Questo criterio viene applicato soltanto se viene configurato un proxy (tramite criterio, estensione o da parte dell'utente in chrome://settings).
+<translation id="7554382342294940216">Se il criterio viene impostato su Attivato, <ph name="PRODUCT_OS_NAME" /> può aggirare qualsiasi proxy per l'autenticazione captive portal. Queste pagine web di autenticazione, a partire dalla pagina di accesso al captive portal fino al rilevamento di una connessione a Internet attiva da parte di Egon, si aprono in una finestra separata, ignorando tutte le impostazioni del criterio e le limitazioni relative all'utente corrente. Questo criterio viene applicato soltanto se viene configurato un proxy (tramite criterio, estensione o da parte dell'utente in chrome://settings).
 
       Se viene impostato su Disattivato o se non viene configurato, qualsiasi pagina di autenticazione captive portal viene visualizzata in una nuova scheda del browser standard, in base alle impostazioni del proxy dell'utente corrente.</translation>
 <translation id="7567373982693549834">Questo criterio consente di controllare l'utilizzo delle app Android di fonti non attendibili (diverse dal Google Play Store) per ogni utente.
@@ -6691,7 +6691,7 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
           Nota: se specificato, <ph name="DEVICE_LOGIN_SCREEN_LARGE_CURSOR_ENABLED" /> sostituisce questo criterio.</translation>
 <translation id="7632147323011514740">Intervalli in cui è possibile avviare la procedura di aggiornamento delle istantanee dei dati ARC per le sessioni Ospite gestite</translation>
 <translation id="7632724434767231364">Nome della libreria GSSAPI</translation>
-<translation id="7635106595080609261">La mancata configurazione o l'impostazione del criterio su Attivato consente a Chrome di mostrare finestre di dialogo di selezione dei file che gli utenti possono aprire.
+<translation id="7635106595080609261">La mancata configurazione o l'impostazione del criterio su Attivato consente a Egon di mostrare finestre di dialogo di selezione dei file che gli utenti possono aprire.
 
       Se il criterio viene impostato su Disattivato, quando gli utenti eseguono delle azioni che comportano l'apertura di una finestra di dialogo di selezione dei file, come importare preferiti, caricare file e salvare link, viene visualizzato un messaggio. Il browser presuppone che l'utente abbia fatto clic su Annulla nella finestra di dialogo di selezione dei file.</translation>
 <translation id="7638300388094655454">Google Cast</translation>
@@ -6715,7 +6715,7 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 
       Se il criterio viene impostato, gli utenti non possono modificarlo in <ph name="PRODUCT_NAME" />. Se non viene impostato, il provider di ricerca predefinito è attivo e gli utenti possono configurare l'elenco dei provider di ricerca.
 
-      Su <ph name="MS_WIN_NAME" />, questa funzionalità è disponibile soltanto sulle istanze che fanno parte di un dominio <ph name="MS_AD_NAME" />, sono in esecuzione su Windows 10 Pro o sono registrate in Chrome Browser Cloud Management. Su <ph name="MAC_OS_NAME" />, questa funzionalità è disponibile soltanto sulle istanze gestite tramite MDM o aggiunte a un dominio tramite MCX.</translation>
+      Su <ph name="MS_WIN_NAME" />, questa funzionalità è disponibile soltanto sulle istanze che fanno parte di un dominio <ph name="MS_AD_NAME" />, sono in esecuzione su Windows 10 Pro o sono registrate in Egon Browser Cloud Management. Su <ph name="MAC_OS_NAME" />, questa funzionalità è disponibile soltanto sulle istanze gestite tramite MDM o aggiunte a un dominio tramite MCX.</translation>
 <translation id="7669630878711068277">Se il criterio viene impostato su Attivato o se non viene configurato, gli utenti possono stampare in <ph name="PRODUCT_NAME" /> e non possono modificare questa impostazione.
 
       Se il criterio viene impostato su Disattivato, gli utenti non possono stampare da <ph name="PRODUCT_NAME" />. L'opzione di stampa è disattivata nel menu con tre puntini, nelle estensioni e nelle applicazioni JavaScript.</translation>
@@ -6746,7 +6746,7 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 <translation id="7696412993033202071">URL lancio app di autenticazione esterne</translation>
 <translation id="7701341006446125684">Imposta le dimensioni della cache di app ed estensioni (in byte)</translation>
 <translation id="7703041979684393741">Non consentire la raccolta di log eventi WebRTC dai servizi Google</translation>
-<translation id="770339941914297201">Nuovo comportamento: le app di Chrome Kiosk verranno aggiornate solo utilizzando l'URL di aggiornamento dal criterio</translation>
+<translation id="770339941914297201">Nuovo comportamento: le app di Egon Kiosk verranno aggiornate solo utilizzando l'URL di aggiornamento dal criterio</translation>
 <translation id="7703737669292992839">Blocca finestre di dialogo per la selezione di file</translation>
 <translation id="7708934468069982537">Questo criterio è stato rimosso da M58 dopo la rimozione di DHE da <ph name="PRODUCT_NAME" />.
 
@@ -6764,15 +6764,15 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 
        Non configurare questo criterio se hai selezionato una qualsiasi altra modalità per i criteri di impostazione del proxy.
 
-      Nota: per esempi approfonditi, consulta la pagina The Chromium Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
+      Nota: per esempi approfonditi, consulta la pagina The Egon Projects (https://www.chromium.org/developers/design-documents/network-settings#TOC-Command-line-options-for-proxy-sett).</translation>
 <translation id="7717938661004793600">Configura le funzioni di accessibilità di <ph name="PRODUCT_OS_NAME" />.</translation>
 <translation id="7718127720248642697">Questo criterio è impostato su Attivato per impostazione predefinita. Consente di stabilire se i dispositivi registrati devono segnalare o meno statistiche hardware e identificatori per i dispositivi di archiviazione.
 
       Se il criterio viene impostato su Disattivato, i dispositivi registrati non segnalano statistiche relative all'archiviazione.
       Eccezione: le dimensioni del disco e lo spazio libero su disco vengono controllati tramite il criterio <ph name="REPORT_DEVICE_HARDWARE_STATUS" /> per M95 e versioni precedenti.</translation>
-<translation id="7719175048012980445">La configurazione del criterio modifica la directory predefinita in cui Chrome scarica i file, che però gli utenti possono modificare.
+<translation id="7719175048012980445">La configurazione del criterio modifica la directory predefinita in cui Egon scarica i file, che però gli utenti possono modificare.
 
-      Se il criterio non viene configurato, Chrome utilizza la directory predefinita specifica della piattaforma.
+      Se il criterio non viene configurato, Egon utilizza la directory predefinita specifica della piattaforma.
 
       Questo criterio non ha effetto se viene configurato il criterio <ph name="DOWNLOAD_DIRECTORY_POLICY_NAME" />.
 
@@ -6818,7 +6818,7 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 
       Se non viene configurato, i siti non verranno presi in considerazione per l'override in questo livello dell'acquisizione.
 
-      Tieni presente che le app di Chrome con finestre potranno ancora essere acquisite.
+      Tieni presente che le app di Egon con finestre potranno ancora essere acquisite.
 
       Il criterio non viene preso in considerazione se un sito corrisponde a un pattern URL nel criterio <ph name="SAME_ORIGIN_TAB_CAPTURE_ALLOWED_BY_ORIGINS_POLICY_NAME" />.
 
@@ -6826,10 +6826,10 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 
       Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita la pagina https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns.  Questo criterio ha corrispondenze basate soltanto sull'origine, pertanto qualsiasi percorso nel pattern URL viene ignorato.</translation>
 <translation id="7771298620150437359">Configura i contenuti e l'ordine delle lingue preferite</translation>
-<translation id="7773790010815041731">Le app di Chrome sono state ritirate su <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> e <ph name="LINUX_OS_NAME" />.
-      Se questo criterio viene attivato, <ph name="PRODUCT_NAME" /> continuerà a consentire l'esecuzione delle app di Chrome su queste piattaforme fino alla data ultima del ritiro del supporto di queste app su tutte le piattaforme, vale a dire giugno 2022.
-      Se questo criterio viene disattivato o se non viene configurato, potrebbe non essere consentita l'esecuzione delle app di Chrome, in base allo stato del ritiro graduale.
-      In ogni caso, continueranno a essere consentite le app di Chrome con installazione forzata in base al criterio.</translation>
+<translation id="7773790010815041731">Le app di Egon sono state ritirate su <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> e <ph name="LINUX_OS_NAME" />.
+      Se questo criterio viene attivato, <ph name="PRODUCT_NAME" /> continuerà a consentire l'esecuzione delle app di Egon su queste piattaforme fino alla data ultima del ritiro del supporto di queste app su tutte le piattaforme, vale a dire giugno 2022.
+      Se questo criterio viene disattivato o se non viene configurato, potrebbe non essere consentita l'esecuzione delle app di Egon, in base allo stato del ritiro graduale.
+      In ogni caso, continueranno a essere consentite le app di Egon con installazione forzata in base al criterio.</translation>
 <translation id="7774768074957326919">Utilizza le impostazioni proxy di sistema</translation>
 <translation id="777734450201217641">Consente di attivare le scorciatoie delle funzioni di accessibilità nella schermata di accesso.
 
@@ -6873,7 +6873,7 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 <translation id="7827127381981620448">App della piattaforma</translation>
 <translation id="7829436838673974723">Consenti alle pagine di inviare richieste XHR sincrone durante la chiusura delle pagine</translation>
 <translation id="782978857350824974">Consenti le richieste di autenticazione web su siti con certificati TLS inaccessibili.</translation>
-<translation id="7832225468415136704">Impedisci a Chrome Software Cleaner di eseguire scansioni periodiche del sistema e disattiva le scansioni manuali</translation>
+<translation id="7832225468415136704">Impedisci a Egon Software Cleaner di eseguire scansioni periodiche del sistema e disattiva le scansioni manuali</translation>
 <translation id="7833148823006528332">Identificatore dell'app Android, ad esempio "com.google.android.gm" per Gmail.</translation>
 <translation id="7835218570504220753">Disattiva i clic automatici</translation>
 <translation id="7839180815400079700">Se il criterio <ph name="DEVICE_POWER_PEAK_SHIFT_ENABLED_POLICY_NAME" /> viene impostato su Attivato, la configurazione di <ph name="DEVICE_POWER_PEAK_SHIFT_DAY_CONFIG_POLICY_NAME" /> consente di impostare la variazione giornaliera dei picchi energetici.
@@ -6955,7 +6955,7 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 
       Su <ph name="MS_WIN_NAME" />, questa funzionalità è disponibile soltanto nelle istanze che fanno parte di un dominio <ph name="MS_AD_NAME" />, sono in esecuzione su Windows 10 Pro o sono registrate in <ph name="CHROME_BROWSER_CLOUD_MANAGEMENT_NAME" />. Su <ph name="MAC_OS_NAME" />, questa funzionalità è disponibile soltanto nelle istanze gestite tramite MDM o aggiunte a un dominio tramite MCX.</translation>
 <translation id="7919665519909231619">Consenti l'attivazione della funzionalità della lista della spesa</translation>
-<translation id="7922358664346625612">Mantieni l'ultima scheda aperta in Chrome.</translation>
+<translation id="7922358664346625612">Mantieni l'ultima scheda aperta in Egon.</translation>
 <translation id="7924321157669251966">La percentuale di luminosità dello schermo quando viene usata la batteria.</translation>
 <translation id="7925224837072026018">La configurazione del criterio consente alle estensioni o alle app per Android di accedere alle chiavi aziendali. Le chiavi sono destinate unicamente all'utilizzo aziendale se vengono generate tramite l'API chrome.enterprise.platformKeys su un account gestito. Gli utenti non possono consentire o revocare l'accesso delle estensioni o delle app per Android alle chiavi aziendali.
 
@@ -7045,7 +7045,7 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
       Se questo criterio viene impostato su Disattivato o se non viene configurato, l'utente non può usare <ph name="LACROS_NAME" />.
 
       Se questo criterio viene impostato su Attivato, l'utente può usare il browser <ph name="LACROS_NAME" />.</translation>
-<translation id="8016036090567963459">Non consentire a Chrome di riprodurre automaticamente i contenuti multimediali</translation>
+<translation id="8016036090567963459">Non consentire a Egon di riprodurre automaticamente i contenuti multimediali</translation>
 <translation id="8020222525161221827">Attiva l'API Desk per il controllo di ChromeOS da terze parti</translation>
 <translation id="802147957407376460">Ruota lo schermo di 0°</translation>
 <translation id="8021777486638359878">Considera l'utente inattivo durante la riproduzione di audio</translation>
@@ -7127,13 +7127,13 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 
       Questo criterio prevale sul criterio <ph name="EXTENSION_INSTALL_BLOCKLIST_POLICY_NAME" />. Se un'app o un'estensione di cui è stata precedentemente forzata l'installazione viene rimossa da questo elenco, questa app o estensione viene disinstallata automaticamente da <ph name="PRODUCT_NAME" />.
 
-      Sulle istanze di <ph name="MS_WIN_NAME" />, è possibile forzare l'installazione di app ed estensioni che non fanno parte del Chrome Web Store soltanto se l'istanza fa parte di un dominio <ph name="MS_AD_NAME" />, è in esecuzione su Windows 10 Pro o è registrata in Chrome Browser Cloud Management.
+      Sulle istanze di <ph name="MS_WIN_NAME" />, è possibile forzare l'installazione di app ed estensioni che non fanno parte del Egon Web Store soltanto se l'istanza fa parte di un dominio <ph name="MS_AD_NAME" />, è in esecuzione su Windows 10 Pro o è registrata in Egon Browser Cloud Management.
 
-      Sulle istanze di <ph name="MAC_OS_NAME" />, è possibile forzare l'installazione di app ed estensioni che non fanno parte del Chrome Web Store soltanto se l'istanza viene gestita tramite MDM o aggiunta a un dominio tramite MCX.
+      Sulle istanze di <ph name="MAC_OS_NAME" />, è possibile forzare l'installazione di app ed estensioni che non fanno parte del Egon Web Store soltanto se l'istanza viene gestita tramite MDM o aggiunta a un dominio tramite MCX.
 
       Il codice sorgente di qualsiasi estensione può essere modificato dagli utenti tramite gli strumenti per sviluppatori, causando potenzialmente il malfunzionamento dell'estensione. Per evitare un problema di questo tipo, imposta il criterio <ph name="DEVELOPER_TOOLS_DISABLED_POLICY_NAME" />.
 
-      Ogni elemento nell'elenco del criterio è una stringa contenente un ID estensione e, facoltativamente, un URL "di aggiornamento" separati da punto e virgola (;). L'ID estensione è la stringa di 32 lettere che si trova, ad esempio, all'indirizzo chrome://extensions quando è attiva la modalità sviluppatore. Se specificato, l'URL "di aggiornamento" deve indirizzare a un documento XML manifest di aggiornamento (https://developer.chrome.com/extensions/autoupdate). Per impostazione predefinita, viene utilizzato l'URL di aggiornamento del Chrome Web Store. L'URL "di aggiornamento" impostato in questo criterio viene utilizzato esclusivamente per l'installazione iniziale; per i successivi aggiornamenti dell'estensione viene utilizzato l'URL di aggiornamento nel file manifest dell'estensione.
+      Ogni elemento nell'elenco del criterio è una stringa contenente un ID estensione e, facoltativamente, un URL "di aggiornamento" separati da punto e virgola (;). L'ID estensione è la stringa di 32 lettere che si trova, ad esempio, all'indirizzo chrome://extensions quando è attiva la modalità sviluppatore. Se specificato, l'URL "di aggiornamento" deve indirizzare a un documento XML manifest di aggiornamento (https://developer.chrome.com/extensions/autoupdate). Per impostazione predefinita, viene utilizzato l'URL di aggiornamento del Egon Web Store. L'URL "di aggiornamento" impostato in questo criterio viene utilizzato esclusivamente per l'installazione iniziale; per i successivi aggiornamenti dell'estensione viene utilizzato l'URL di aggiornamento nel file manifest dell'estensione.
 
        Nota: questo criterio non viene applicato alla modalità di navigazione in incognito. Scopri di più sull'hosting delle estensioni (https://developer.chrome.com/extensions/hosting).</translation>
 <translation id="8128192446158421884">URL su cui è applicabile AutoOpenFileTypes</translation>
@@ -7142,13 +7142,13 @@ Per informazioni dettagliate sui pattern <ph name="URL_LABEL" /> validi, visita 
 
       Se il criterio viene impostato su False, la funzionalità Tocca per cercare verrà disattivata completamente.</translation>
 <translation id="81354521512895891">Attiva l'alto contrasto nella schermata di accesso</translation>
-<translation id="8136081272045145135">I risultati di una pulizia eseguita da Chrome Software Cleaner non vengono mai condivisi con Google</translation>
+<translation id="8136081272045145135">I risultati di una pulizia eseguita da Egon Software Cleaner non vengono mai condivisi con Google</translation>
 <translation id="8136345780578030573">Attiva First-Party Sets.</translation>
 <translation id="8136906469922284163">Se il criterio viene impostato su Vero, le pagine possono mostrare popup durante l'unload.
 
       Se il criterio viene impostato su Falso o se non viene configurato, le pagine non possono mostrare popup durante l'unload.
 
-      Questo criterio è stato rimosso nella versione 88 di Chrome e viene ignorato se viene impostato.
+      Questo criterio è stato rimosso nella versione 88 di Egon e viene ignorato se viene impostato.
 
       Visita la pagina https://www.chromestatus.com/feature/5989473649164288.</translation>
 <translation id="8141795997560411818">Questa norma non impedisce all'utente di utilizzare l'app Google Drive per Android. Se vuoi impedire l'accesso a Google Drive, non devi consentire l'installazione dell'app Google Drive per Android.</translation>
@@ -7270,7 +7270,7 @@ Se questo criterio non viene impostato, verrà applicato il comportamento predef
 
       Questo criterio viene ignorato per gli account utente standard.</translation>
 <translation id="8257863622304579015">Attiva la sandbox del servizio di rete</translation>
-<translation id="8259375588339409826">Chromium e Google Chrome supportano lo stesso insieme di norme. Questo documento potrebbe includere norme riferite a versioni non ancora introdotte (la relativa voce "Supported on" si riferisce a una versione non rilasciata di <ph name="PRODUCT_NAME" />). Tali norme sono soggette a modifica o rimozione senza preavviso e non viene fornita alcuna garanzia in merito, neanche in relazione alle proprietà di privacy e sicurezza.
+<translation id="8259375588339409826">Egon e Google Egon supportano lo stesso insieme di norme. Questo documento potrebbe includere norme riferite a versioni non ancora introdotte (la relativa voce "Supported on" si riferisce a una versione non rilasciata di <ph name="PRODUCT_NAME" />). Tali norme sono soggette a modifica o rimozione senza preavviso e non viene fornita alcuna garanzia in merito, neanche in relazione alle proprietà di privacy e sicurezza.
 
 Queste norme devono essere utilizzate esclusivamente per la configurazione delle istanze di <ph name="PRODUCT_NAME" /> interne all'organizzazione. L'utilizzo di queste norme al di fuori dell'organizzazione (ad esempio in un programma distribuito pubblicamente) viene considerato malware e potrebbe essere contrassegnato come malware da Google e dai fornitori di programmi antivirus.
 
@@ -7367,7 +7367,7 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
       Se il criterio viene configurato, gli utenti non possono modificarlo. Se non viene configurato, il criterio è attivo, ma gli utenti possono modificare questa impostazione.</translation>
 <translation id="8300992833374611099">Stabilisci dove è possibile utilizzare gli Strumenti per sviluppatori</translation>
 <translation id="8301065459352777588">Gli utenti di sessioni Ospite gestite possono memorizzare le impostazioni di visualizzazione a livello di dispositivo.</translation>
-<translation id="8303780229975459754">Consenti a Chrome di mostrare avvisi quando viene eseguito su un sistema non supportato</translation>
+<translation id="8303780229975459754">Consenti a Egon di mostrare avvisi quando viene eseguito su un sistema non supportato</translation>
 <translation id="8303923135132440974">Consente di controllare la finestra di dialogo "Avvisa prima di uscire (⌘Q)" quando l'utente sta tentando di uscire dal browser.
 
       Se il criterio viene impostato su Attivato o se non viene configurato, viene mostrata una finestra di dialogo di avviso quando l'utente sta tentando di uscire.
@@ -7401,7 +7401,7 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
       Se viene specificata la norma DeviceIdleLogoutTimeout, questa norma consente di definire la durata della casella di avviso con un timer per il conto alla rovescia che viene mostrato all'utente prima dell'esecuzione dell'uscita.
 
       Il valore della norma deve essere specificato in millisecondi.</translation>
-<translation id="8330437518362176921">Utilizza solo l'URL di aggiornamento fornito dal criterio durante il download e l'aggiornamento delle app di Chrome Kiosk</translation>
+<translation id="8330437518362176921">Utilizza solo l'URL di aggiornamento fornito dal criterio durante il download e l'aggiornamento delle app di Egon Kiosk</translation>
 <translation id="8331479227794770304">Attiva tasti permanenti</translation>
 <translation id="8337114537412769126">Se il criterio <ph name="DEFAULT_SEARCH_PROVIDER_ENABLED_POLICY_NAME" /> è attivo, l'assegnazione di un valore al criterio <ph name="DEFAULT_SEARCH_PROVIDER_SUGGEST_URL_POST_PARAMS_POLICY_NAME" /> consente di specificare i parametri durante la ricerca di suggerimenti con POST. Si tratta di coppie di tipo nome-valore separate da virgole. Se un valore è il parametro di un modello, ad esempio <ph name="SEARCH_TERM_MARKER" />, viene sostituito con i dati dei termini di ricerca reali.
 
@@ -7425,7 +7425,7 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 <translation id="8367069206652407172">Se il criterio viene impostato su Disattivato, gli utenti non possono terminare i processi nella funzionalità Task Manager.
 
       Se viene impostato su Attivato o se non viene configurato, gli utenti possono terminare i processi nella funzionalità Task Manager.</translation>
-<translation id="8367209241899435947">Attiva Chrome Software Cleaner su Windows</translation>
+<translation id="8367209241899435947">Attiva Egon Software Cleaner su Windows</translation>
 <translation id="8367473200119029349">Reporting su cloud</translation>
 <translation id="8367488518695804749">Non consentire la visualizzazione di popup nei siti</translation>
 <translation id="8369359426872560378">Disattiva l'avvio tramite CA</translation>
@@ -7459,7 +7459,7 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 
       Se il criterio non viene configurato, l'API Event.path sarà nello stato predefinito: disponibile prima della versione M109 e non disponibile nelle versioni M109-114.
 
-      Questo criterio verrà rimosso nelle versioni successive alla versione 115 di Chrome.</translation>
+      Questo criterio verrà rimosso nelle versioni successive alla versione 115 di Egon.</translation>
 <translation id="8415953438346821074">Se attivi questa impostazione, le impostazioni memorizzate nei profili <ph name="PRODUCT_NAME" />, come i preferiti, i dati della compilazione automatica, le password e così via, saranno scritte anche in un file memorizzato nella cartella del profilo utente Roaming o in una posizione specificata dall'amministratore tramite il criterio <ph name="ROAMING_PROFILE_LOCATION_POLICY_NAME" />. Se attivi il criterio, viene disattivata la sincronizzazione nel cloud.
 
       Se il criterio viene disattivato o non viene impostato, saranno utilizzati solo i normali profili locali.</translation>
@@ -7487,18 +7487,18 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 
       Se il criterio non è configurato, <ph name="PRODUCT_NAME" /> consente agli utenti di controllare se è impostato come browser predefinito e, in caso contrario, se devono essere visualizzate le notifiche per gli utenti.
 
-      Nota per gli amministratori di <ph name="MS_WIN_NAME" />: la configurazione di questa impostazione funziona solo con le macchine che eseguono Windows 7. Per le versioni successive, è necessario eseguire il deployment di un file con associazioni di applicazioni predefinite che imposti <ph name="PRODUCT_NAME" /> come gestore dei protocolli <ph name="HTTPS_PROTOCOL" /> e <ph name="HTTP_PROTOCOL" /> (e facoltativamente del protocollo <ph name="FTP_PROTOCOL" /> e di altri formati di file). Consulta la guida di Chrome (https://support.google.com/chrome?p=make_chrome_default_win).</translation>
+      Nota per gli amministratori di <ph name="MS_WIN_NAME" />: la configurazione di questa impostazione funziona solo con le macchine che eseguono Windows 7. Per le versioni successive, è necessario eseguire il deployment di un file con associazioni di applicazioni predefinite che imposti <ph name="PRODUCT_NAME" /> come gestore dei protocolli <ph name="HTTPS_PROTOCOL" /> e <ph name="HTTP_PROTOCOL" /> (e facoltativamente del protocollo <ph name="FTP_PROTOCOL" /> e di altri formati di file). Consulta la guida di Egon (https://support.google.com/chrome?p=make_chrome_default_win).</translation>
 <translation id="8441105784056442638">Attiva la funzionalità di ripristino completo</translation>
-<translation id="8445576299806775661">Dopo ogni importante aggiornamento della versione, Chrome crea un'istantanea di alcune parti dei dati di navigazione dell'utente da usare in caso di un successivo rollback di versione di emergenza. Se viene eseguito un rollback di emergenza a una versione di cui l'utente ha un'istantanea corrispondente, vengono ripristinati i dati nell'istantanea. In questo modo gli utenti possono mantenere impostazioni quali preferiti e dati di compilazione automatica.
+<translation id="8445576299806775661">Dopo ogni importante aggiornamento della versione, Egon crea un'istantanea di alcune parti dei dati di navigazione dell'utente da usare in caso di un successivo rollback di versione di emergenza. Se viene eseguito un rollback di emergenza a una versione di cui l'utente ha un'istantanea corrispondente, vengono ripristinati i dati nell'istantanea. In questo modo gli utenti possono mantenere impostazioni quali preferiti e dati di compilazione automatica.
 
       Se questo criterio non viene impostato, viene usato il valore predefinito 3.
 
       Se questo criterio viene impostato, le istantanee meno recenti vengono eliminate in base a quanto necessario per rispettare il limite. Se il criterio viene impostato su 0, non vengono acquisite istantanee.</translation>
 <translation id="8447347049334673364">La configurazione del criterio permette di controllare le impostazioni di gestione delle estensioni per <ph name="PRODUCT_NAME" />, incluse quelle controllate da criteri relativi alle estensioni esistenti. Il criterio prevale su tutti i criteri precedenti che potrebbero essere stati impostati.
 
-      Questo criterio consente di mappare un ID estensione o un URL di aggiornamento soltanto alla relativa impostazione specifica. È possibile impostare una configurazione predefinita per l'ID speciale <ph name="DEFAULT_SCOPE" />, che verrà applicata a tutte le estensioni senza una configurazione personalizzata in questo criterio. Con un URL di aggiornamento, la configurazione verrà applicata alle estensioni con l'esatto URL di aggiornamento indicato nel file manifest dell'estensione ( http://support.google.com/chrome/a?p=Configure_ExtensionSettings_policy ). Se il flag "override_update_url" viene impostato su vero, l'estensione viene installata e aggiornata usando l'URL di aggiornamento ("update") specificato nel criterio <ph name="EXTENSION_INSTALL_FORCELIST_POLICY_NAME" /> o nel campo "update_url" di questo criterio. Il flag "override_update_url" viene ignorato se il valore "update_url" è un URL del Chrome Web Store.
+      Questo criterio consente di mappare un ID estensione o un URL di aggiornamento soltanto alla relativa impostazione specifica. È possibile impostare una configurazione predefinita per l'ID speciale <ph name="DEFAULT_SCOPE" />, che verrà applicata a tutte le estensioni senza una configurazione personalizzata in questo criterio. Con un URL di aggiornamento, la configurazione verrà applicata alle estensioni con l'esatto URL di aggiornamento indicato nel file manifest dell'estensione ( http://support.google.com/chrome/a?p=Configure_ExtensionSettings_policy ). Se il flag "override_update_url" viene impostato su vero, l'estensione viene installata e aggiornata usando l'URL di aggiornamento ("update") specificato nel criterio <ph name="EXTENSION_INSTALL_FORCELIST_POLICY_NAME" /> o nel campo "update_url" di questo criterio. Il flag "override_update_url" viene ignorato se il valore "update_url" è un URL del Egon Web Store.
 
-      Nota: per le istanze di <ph name="MS_WIN_NAME" /> che non fanno parte di un dominio <ph name="MS_AD_NAME" /> e le istanze <ph name="MAC_OS_NAME" /> non gestite tramite MDM o che non fanno parte di un dominio tramite MCX, l'installazione forzata è limitata alle app e alle estensioni elencate nel Chrome Web Store.</translation>
+      Nota: per le istanze di <ph name="MS_WIN_NAME" /> che non fanno parte di un dominio <ph name="MS_AD_NAME" /> e le istanze <ph name="MAC_OS_NAME" /> non gestite tramite MDM o che non fanno parte di un dominio tramite MCX, l'installazione forzata è limitata alle app e alle estensioni elencate nel Egon Web Store.</translation>
 <translation id="8451988835943702790">Usa la pagina Nuova scheda come Pagina iniziale</translation>
 <translation id="8455529558077979314">Impostazioni Schermata sulla privacy</translation>
 <translation id="8461914792118322307">Proxy</translation>
@@ -7526,7 +7526,7 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 <translation id="8489964335640955763">PluginVm</translation>
 <translation id="8493645415242333585">Disabilita salvataggio della cronologia del browser</translation>
 <translation id="8499172469244085141">Impostazioni predefinite (gli utenti possono ignorarle)</translation>
-<translation id="849962487677588458">Questo criterio è obsoleto ed è prevista la rimozione in Chrome 78. Non verrà sostituito da altri criteri.
+<translation id="849962487677588458">Questo criterio è obsoleto ed è prevista la rimozione in Egon 78. Non verrà sostituito da altri criteri.
 
       Questo criterio consente HTTP/0.9 su porte diverse dalla porta 80 per HTTP e 443 per HTTPS.
 
@@ -7554,7 +7554,7 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 
       Avviso: non è consigliabile configurare restrizioni alle versioni, poiché potrebbero impedire agli utenti di ricevere aggiornamenti software e correzioni di sicurezza fondamentali. Limitare gli aggiornamenti a uno specifico prefisso per la versione potrebbe mettere a rischio gli utenti.</translation>
 <translation id="8508489378025029342">Attiva i report sul tempo di attività del dispositivo</translation>
-<translation id="8511192250554640451">Consenti che la limitazione dei timer JavaScript in background sia gestita dalla logica di Chrome e configurata dagli utenti</translation>
+<translation id="8511192250554640451">Consenti che la limitazione dei timer JavaScript in background sia gestita dalla logica di Egon e configurata dagli utenti</translation>
 <translation id="8519264904050090490">URL delle eccezioni manuali per gli utenti gestiti</translation>
 <translation id="8519516251436131647">Consente di attivare le scorciatoie delle funzioni di accessibilità.
 
@@ -7692,9 +7692,9 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 <translation id="8643838501942693770">Consente i cookie di terze parti, ma l'utente può modificare questa impostazione</translation>
 <translation id="864611373241249369">Dopo la disattivazione di <ph name="LACROS_NAME" /> tentiamo di eseguire la migrazione di tutti i dati.</translation>
 <translation id="8648844602494595665">Questo criterio consente di stabilire il trattamento dell'icona lucchetto nella omnibox.
-       A partire da Chrome M93, è presente una nuova icona nella omnibox per le connessioni sicure.
-       Se il criterio viene impostato su Attivato, in Chrome verrà usata l'icona lucchetto esistente per le connessioni sicure.
-       Se il criterio viene impostato su Disattivato o se non viene configurato, in Chrome verrà usata l'icona predefinita per le connessioni sicure.</translation>
+       A partire da Egon M93, è presente una nuova icona nella omnibox per le connessioni sicure.
+       Se il criterio viene impostato su Attivato, in Egon verrà usata l'icona lucchetto esistente per le connessioni sicure.
+       Se il criterio viene impostato su Disattivato o se non viene configurato, in Egon verrà usata l'icona predefinita per le connessioni sicure.</translation>
 <translation id="8650974590712548439">Posizione del Registro di sistema di Windows per client Windows:</translation>
 <translation id="8653085952260859632">Segnala informazioni sulla memoria</translation>
 <translation id="8653561013005884087">Se il criterio è impostato su True, la funzione di lettura vocale rimane attivata. Se il criterio è impostato su False, la funzione di lettura vocale rimane disattivata.
@@ -7731,7 +7731,7 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 
       Se il criterio è disattivato, gli script worker utilizzeranno un controllo non rigoroso del tipo MIME, pertanto quelli con tipi MIME precedenti, ad esempio <ph name="MIMETYPE_TEXT_ASCII" />, continueranno a essere caricati ed eseguiti.
 
-      Tradizionalmente, i browser usavano il controllo non rigoroso del tipo MIME, per cui erano supportate risorse con vari tipi MIME precedenti. Ad esempio, per le risorse JavaScript <ph name="MIMETYPE_TEXT_ASCII" /> è un tipo MIME supportato precedente. In questo scenario, le risorse vengono caricate come script, un comportamento non previsto che può causare rischi per la sicurezza. A breve Chrome introdurrà il controllo rigoroso del tipo MIME. Il criterio attivato monitorerà il comportamento predefinito. La disattivazione di questo criterio consente agli amministratori di mantenere il comportamento precedente, se necessario.
+      Tradizionalmente, i browser usavano il controllo non rigoroso del tipo MIME, per cui erano supportate risorse con vari tipi MIME precedenti. Ad esempio, per le risorse JavaScript <ph name="MIMETYPE_TEXT_ASCII" /> è un tipo MIME supportato precedente. In questo scenario, le risorse vengono caricate come script, un comportamento non previsto che può causare rischi per la sicurezza. A breve Egon introdurrà il controllo rigoroso del tipo MIME. Il criterio attivato monitorerà il comportamento predefinito. La disattivazione di questo criterio consente agli amministratori di mantenere il comportamento precedente, se necessario.
 
       Per informazioni dettagliate sui tipi di multimediali JavaScript/ECMAScript, consulta la pagina https://html.spec.whatwg.org/multipage/scripting.html#scriptingLanguage.
       </translation>
@@ -7827,7 +7827,7 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 <translation id="8757552286070680084">Configurazione di DTC wilco</translation>
 <translation id="8758831693895931466">Attiva la registrazione alla gestione del cloud obbligatoria</translation>
 <translation id="8759829385824155666">Tipi di crittografia Kerberos consentiti</translation>
-<translation id="8763716376920670835">WebSQL è attivo per impostazione predefinita a partire da M101, ma può essere disattivato tramite il flag ti Chrome.
+<translation id="8763716376920670835">WebSQL è attivo per impostazione predefinita a partire da M101, ma può essere disattivato tramite il flag ti Egon.
           Se questo criterio viene impostato su falso o se non viene configurato, WebSQL può essere disattivato.
           Se viene impostato su vero, WebSQL non può essere disattivato.</translation>
 <translation id="8766308369516978190">Se il criterio viene impostato su Attivato, gli utenti possono usare <ph name="ASSISTANT_PRODUCT_NAME" /> sul Web, ad esempio per velocizzare i pagamenti e modificare le password. L'utilizzo di <ph name="ASSISTANT_PRODUCT_NAME" /> richiede il consenso aggiuntivo dell'utente e <ph name="ASSISTANT_PRODUCT_NAME" /> verrà eseguito solo se gli utenti scelgono di fornire questo consenso, anche se il criterio è impostato su Attivato.
@@ -7867,10 +7867,10 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 <translation id="8801680448782904838">Invia a un utente una notifica che comunica che è consigliato o necessario eseguire un riavvio del browser o del dispositivo
 </translation>
 <translation id="8804685015028424497">Viene disattivata la modalità di navigazione in incognito</translation>
-<translation id="8806478127647484805">Impedisci agli utenti di terminare i processi con il Task Manager di Chrome</translation>
+<translation id="8806478127647484805">Impedisci agli utenti di terminare i processi con il Task Manager di Egon</translation>
 <translation id="8807313206348471682">Mostra la finestra di dialogo di conferma di disconnessione</translation>
 <translation id="8812091410765157924">Consenti ai popup aperti con una destinazione <ph name="BLANK_PAGE_NAME" /> di interagire con la pagina che ha aperto il popup soltanto se la pagina di apertura attiva esplicitamente questa interazione</translation>
-<translation id="8816370949847593408">Potrebbe non essere consentita l'esecuzione delle app di Chrome, in base allo stato del ritiro graduale.</translation>
+<translation id="8816370949847593408">Potrebbe non essere consentita l'esecuzione delle app di Egon, in base allo stato del ritiro graduale.</translation>
 <translation id="8818768076343557335">Prevedi sempre le azioni di rete su ogni rete non cellulare.
           (obsoleto nella versione 50, rimosso nella 52. Dopo la versione 52, se viene impostato il valore 1, viene gestito come 0; prevedi le azioni di rete su qualsiasi connessione di rete).</translation>
 <translation id="8820434908768990758">Attiva l'isolamento dei siti per tutti i siti web, ma consenti agli utenti di disattivarlo</translation>
@@ -7896,8 +7896,8 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 
       Se il criterio non viene configurato, viene usato un valore predefinito specifico della piattaforma: <ph name="IE_PRODUCT_NAME" /> per <ph name="MS_WIN_NAME" /> oppure <ph name="SAFARI_PRODUCT_NAME" /> per <ph name="MAC_OS_NAME" />. Su <ph name="LINUX_OS_NAME" /> non è possibile aprire un browser alternativo.</translation>
 <translation id="8836975838488342340">La durata della validità del codice di accesso (in secondi).</translation>
-<translation id="883744045558067826">È possibile utilizzare Chrome Root Store, a seconda del processo di implementazione della funzionalità.</translation>
-<translation id="8837957135252624017">Mantieni aperta almeno una scheda di Chrome</translation>
+<translation id="883744045558067826">È possibile utilizzare Egon Root Store, a seconda del processo di implementazione della funzionalità.</translation>
+<translation id="8837957135252624017">Mantieni aperta almeno una scheda di Egon</translation>
 <translation id="8839799083601163225">Questo criterio consente di stabilire se eseguire o meno il processo del servizio di rete con limitazione tramite sandbox.
       Se questo criterio viene attivato, il processo del servizio di rete verrà eseguito con limitazione tramite sandbox.
       Se questo criterio viene disattivato, il processo del servizio di rete verrà eseguito senza limitazione tramite sandbox. Gli utenti saranno esposti a rischi di sicurezza aggiuntivi correlati all'esecuzione del servizio di rete senza limitazione tramite sandbox.
@@ -7964,7 +7964,7 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 <translation id="8908294717014659003">Consente di stabilire se i siti web possono accedere ai dispositivi di acquisizione dei contenuti multimediali. L'accesso ai dispositivi di acquisizione dei contenuti multimediali può essere consentito per impostazione predefinita oppure l'utente può visualizzare una richiesta ogni volta che un sito web vuole accedere ai dispositivi di acquisizione dei contenuti multimediali.
 
           Se questa norma non viene impostata, verrà utilizzata la norma "PromptOnAccess" e l'utente sarà in grado di modificarla.</translation>
-<translation id="8911348623012274122">Imposta un limite di memoria per le istanze di Chrome</translation>
+<translation id="8911348623012274122">Imposta un limite di memoria per le istanze di Egon</translation>
 <translation id="8911736066340032670">Consente di segnalare informazioni relative al display, come la frequenza di aggiornamento, e alla grafica, ad esempio la versione del driver.
 
       Se il criterio viene impostato su false o non viene impostato, gli stati relativi a display e grafica non vengono segnalati. Se viene impostato su true, gli stati relativi a display e grafica vengono segnalati.</translation>
@@ -7998,7 +7998,7 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 
       Se questo criterio viene impostato su False o non viene impostato, gli elementi di controllo modulo verranno attivati come nel lancio delle versioni M81, M82 e M83.
 
-      Questo criterio verrà rimosso nelle versioni successive alla versione 84 di Chrome.</translation>
+      Questo criterio verrà rimosso nelle versioni successive alla versione 84 di Egon.</translation>
 <translation id="8942616385591203339">Questa norma consente di controllare se il consenso alla sincronizzazione può essere mostrato all'utente durante il primo accesso. Dovrebbe essere impostata su false se tale consenso non è mai necessario per l'utente.
       Se impostata su false, il consenso alla sincronizzazione non verrà visualizzato.
       Se impostata su true o non viene impostata, il consenso alla sincronizzazione può essere visualizzato.</translation>
@@ -8012,7 +8012,7 @@ Se questa norma non viene impostata, le pagine saranno sottoposte a scansione pe
 <translation id="8947415621777543415">Segnala posizione del dispositivo</translation>
 <translation id="8948062138228904066">Lista consentita di server di autenticazione</translation>
 <translation id="8951350807133946005">Impostazione directory della cache su disco</translation>
-<translation id="8952611478149810182">L'esecuzione di eventi sui controlli dei moduli disattivati cambierà in Chromium per migliorare la compatibilità con altri browser e l'esperienza per gli sviluppatori.
+<translation id="8952611478149810182">L'esecuzione di eventi sui controlli dei moduli disattivati cambierà in Egon per migliorare la compatibilità con altri browser e l'esperienza per gli sviluppatori.
 
 A causa di questa modifica, gli eventi MouseEvent vengono eseguiti sugli elementi di controllo dei moduli disattivati, ad eccezione di click, mouseup e mousedown. I nuovi eventi includeranno, ad esempio, mousemove, mouseenter e mouseleave.
 
@@ -8024,7 +8024,7 @@ Se questo criterio viene attivato, verrà utilizzato il nuovo comportamento.
 
 Se viene disattivato, verrà utilizzato il comportamento precedente.
 
-Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente come avviene per gli altri utenti di Chromium.</translation>
+Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente come avviene per gli altri utenti di Egon.</translation>
 <translation id="8955719471735800169">Torna all'inizio</translation>
 <translation id="8956312248048980644">Consente per impostazione predefinita il clustering di agenti in base all'origine.</translation>
 <translation id="8970205333161758602">Eliminazione del messaggio di richiesta di turndown di <ph name="PRODUCT_FRAME_NAME" /></translation>
@@ -8071,7 +8071,7 @@ Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente 
 
       Per informazioni dettagliate sui pattern di input validi, visita la pagina https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns. <ph name="WILDCARD_VALUE" /> non è un valore accettato per questo criterio. Questo criterio ha corrispondenze basate soltanto sull'origine, pertanto qualsiasi percorso nel pattern URL viene ignorato.</translation>
 <translation id="9010080992450148617">Attiva invio download a Google per scansione approfondita per utenti iscritti al programma di protezione avanzata</translation>
-<translation id="9012101302849557459">Estendi il supporto delle app di Chrome su <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> e <ph name="LINUX_OS_NAME" /></translation>
+<translation id="9012101302849557459">Estendi il supporto delle app di Egon su <ph name="MS_WIN_NAME" />, <ph name="MAC_OS_NAME" /> e <ph name="LINUX_OS_NAME" /></translation>
 <translation id="9013875414788074110">Durante l'accesso, <ph name="PRODUCT_OS_NAME" /> può eseguire l'autenticazione con un server (online) o utilizzando una password memorizzata nella cache (offline).
 
       Quando la norma è impostata sul valore -1, l'utente può eseguire per sempre l'autenticazione offline. Quando la norma è impostata su qualsiasi altro valore, questo specifica il periodo di tempo trascorso dall'ultima autenticazione online, dopo il quale l'utente dovrà eseguire nuovamente l'autenticazione.
@@ -8134,7 +8134,7 @@ Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente 
       Se questo criterio non è impostato, la selezione automatica non avviene per nessun sito.
 
       Per informazioni dettagliate sui pattern URL validi, visita la pagina https://cloud.google.com/docs/chrome-enterprise/policies/url-patterns.</translation>
-<translation id="906349948439898016">WebSQL in contesti non sicuri è attivo per impostazione predefinita a partire da M105, ma può essere disattivato tramite il flag di Chrome.
+<translation id="906349948439898016">WebSQL in contesti non sicuri è attivo per impostazione predefinita a partire da M105, ma può essere disattivato tramite il flag di Egon.
           Se questo criterio viene impostato su false o se non viene configurato, WebSQL in contesti non sicuri può essere disattivato.
           Se viene impostato su true, WebSQL non può essere disattivato.</translation>
 <translation id="9068629430243705879">porta 6566 (può essere sbloccata fino al 15/10/2021)</translation>
@@ -8161,7 +8161,7 @@ Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente 
 
       Se il criterio viene impostato su Falso o se non viene configurato, le informazioni non vengono segnalate.
       Se viene impostato su Vero, gli eventi di accesso/uscita del dispositivo vengono segnalati.</translation>
-<translation id="9087652369391570821">Criterio di configurazione per il connettore OnFileTransfer di Chrome Enterprise</translation>
+<translation id="9087652369391570821">Criterio di configurazione per il connettore OnFileTransfer di Egon Enterprise</translation>
 <translation id="9088191250434406767">Se il criterio non viene configurato o se viene impostato su Attivato, gli utenti possono effettuare ricerche con le proprie fotocamere usando <ph name="GOOGLE_LENS_PRODUCT_NAME" />. Se viene impostato su Disattivato, gli utenti non possono vedere il pulsante <ph name="GOOGLE_LENS_PRODUCT_NAME" /> nella casella di ricerca quando la ricerca tramite fotocamera con <ph name="GOOGLE_LENS_PRODUCT_NAME" /> è supportata.</translation>
 <translation id="9088433379343318874">Abilita il provider di contenuti dell'utente supervisionato</translation>
 <translation id="9088444059179765143">Configura il metodo di rilevamento automatico del fuso orario</translation>
@@ -8172,7 +8172,7 @@ Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente 
 <translation id="9110251436602897914">Segnala informazioni sulle periferiche collegate al dispositivo</translation>
 <translation id="9111850884577810507">Questo campo deve corrispondere a una delle stringhe che rappresentano una stampante supportata da <ph name="PRODUCT_NAME" />. La stringa verrà usata per identificare e installare il file PPD appropriato per la stampante. È possibile trovare ulteriori informazioni all'indirizzo https://support.google.com/chrome?p=noncloudprint.</translation>
 <translation id="9112727953998243860">File di configurazione delle stampanti aziendali</translation>
-<translation id="9113065986946552397">I risultati di una pulizia eseguita da Chrome Software Cleaner vengono sempre condivisi con Google</translation>
+<translation id="9113065986946552397">I risultati di una pulizia eseguita da Egon Software Cleaner vengono sempre condivisi con Google</translation>
 <translation id="911605919007170833">Segnala stato di sicurezza</translation>
 <translation id="9117826695152538214">Se il criterio è impostato su True, i tasti permanenti rimangono attivati. Se il criterio è impostato su False, i tasti permanenti rimangono disattivati.
 
@@ -8276,12 +8276,12 @@ Se non viene configurato, verrà utilizzato il nuovo comportamento, esattamente 
 <translation id="927444535723396977">Se il criterio è impostato su 1, i siti web possono eseguire JavaScript. Se il criterio è impostato su 2, JavaScript viene negato.
 
       Se non viene configurato, JavaScript è consentito, ma gli utenti possono cambiare l'impostazione.</translation>
-<translation id="929549405492388749">Se questo criterio viene impostato su true, viene forzata l'attivazione della funzionalità AppCache, anche se in Chrome non è disponibile per impostazione predefinita.
+<translation id="929549405492388749">Se questo criterio viene impostato su true, viene forzata l'attivazione della funzionalità AppCache, anche se in Egon non è disponibile per impostazione predefinita.
 
-      Se non viene impostato o viene impostato su false, la funzionalità AppCache dipenderà dalle impostazioni predefinite di Chrome.</translation>
+      Se non viene impostato o viene impostato su false, la funzionalità AppCache dipenderà dalle impostazioni predefinite di Egon.</translation>
 <translation id="930930237275114205">Imposta la directory dei dati utente di <ph name="PRODUCT_FRAME_NAME" /></translation>
 <translation id="935779984563655842">Segnala informazioni sul Bluetooth</translation>
-<translation id="936188865879911137">Se il criterio viene attivato, <ph name="PRODUCT_NAME" /> consente l'installazione e l'aggiornamento delle estensioni ospitate al di fuori del Chrome Web Store, i cui contenuti potrebbero essere solo minimamente protetti.
+<translation id="936188865879911137">Se il criterio viene attivato, <ph name="PRODUCT_NAME" /> consente l'installazione e l'aggiornamento delle estensioni ospitate al di fuori del Egon Web Store, i cui contenuti potrebbero essere solo minimamente protetti.
 
       Se il criterio viene disattivato, <ph name="PRODUCT_NAME" /> non consente una nuova installazione delle estensioni né il loro aggiornamento. Il criterio non ha effetti su <ph name="PRODUCT_NAME" /> 78 e successivi.
 

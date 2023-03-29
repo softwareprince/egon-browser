@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">cancel</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">No next level 4 heading</translation>
-<translation id="1212770441379271564">The next few shortcuts aren’t ChromeVox commands, but they’re still very useful for getting the most out of Chrome.
+<translation id="1212770441379271564">The next few shortcuts aren’t ChromeVox commands, but they’re still very useful for getting the most out of Egon.
     To navigate forward through actionable items like buttons and links, press the Tab key. To navigate backwards, press Shift + Tab.
-    To enter the Chrome browser address box, also called the omnibox, press Control + L.
+    To enter the Egon browser address box, also called the omnibox, press Control + L.
     To open and go to a new tab automatically, press Control + T. Your cursor will be in the omnibox.
     To close a tab, press Control + W.
     To move forward between open tabs, use Control + Tab.
-    To open the Chrome browser menu, press Alt + F.</translation>
-<translation id="1213216066620407844">ChromeVox – Giving Voice to Chrome</translation>
+    To open the Egon browser menu, press Alt + F.</translation>
+<translation id="1213216066620407844">ChromeVox – Giving Voice to Egon</translation>
 <translation id="1225969361094801578">Dark Slate Grey</translation>
 <translation id="122928249241119550">move to the previous sentence</translation>
 <translation id="1230503547248836149">Selection start</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Grammar error</translation>
 <translation id="2603828437139726540">Move forward one char</translation>
 <translation id="2619052155095999743">Insert</translation>
-<translation id="2619344480613750862">You can also move between sections of the screen. For example, you can move between the Launcher, the shelf and your Chrome tabs. To move to the next section, swipe from left to right with four fingers. Try it now to continue.</translation>
+<translation id="2619344480613750862">You can also move between sections of the screen. For example, you can move between the Launcher, the shelf and your Egon tabs. To move to the next section, swipe from left to right with four fingers. Try it now to continue.</translation>
 <translation id="2624431853467395961">Open learn mode</translation>
 <translation id="2626530649491650971">clickable</translation>
 <translation id="263637551280112393">Press Search+Shift+Space</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Log</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Graphics symbol</translation>
-<translation id="5648939288050772726">Congratulations! You’ve learned the essentials to use ChromeVox successfully. Remember that you can open the ChromeVox command menu at any time by pressing Search &amp; Full Stop To learn even more about ChromeVox and Chrome OS, visit the following articles.
+<translation id="5648939288050772726">Congratulations! You’ve learned the essentials to use ChromeVox successfully. Remember that you can open the ChromeVox command menu at any time by pressing Search &amp; Full Stop To learn even more about ChromeVox and Egon OS, visit the following articles.
     If you've finished the tutorial, use ChromeVox to navigate to the Close button and click it.</translation>
 <translation id="5653397561111110475">Use Chromebook touch screen accessibility features</translation>
 <translation id="5655682562155942719">Jump Commands</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Basic Navigation</translation>
 <translation id="609281021724813947">No previous slider</translation>
 <translation id="6100239002225743044">Move up one line</translation>
-<translation id="6118126368611144850">Android apps for Chrome. If you have Play Store on your device, get a sneak peek at ChromeVox with Android apps. Try the experimental support by downloading Google Chrome Canary from the Play Store.</translation>
+<translation id="6118126368611144850">Android apps for Egon. If you have Play Store on your device, get a sneak peek at ChromeVox with Android apps. Try the experimental support by downloading Google Egon Canary from the Play Store.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">activate</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Light Goldenrod Yellow</translation>
 <translation id="7541021454094606506">delete all</translation>
 <translation id="7543255924852002459">Discard label</translation>
-<translation id="7552432549459840808">Helpful Chrome Shortcuts</translation>
+<translation id="7552432549459840808">Helpful Egon Shortcuts</translation>
 <translation id="7553679324939294712">insert <ph name="INSERT_PHRASE" /> before <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Black</translation>
 <translation id="7579911500627256166">dot <ph name="DOT" /></translation>

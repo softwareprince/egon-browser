@@ -59,7 +59,7 @@
 <translation id="1538729222189715449">Linux файлдары ашылуда…</translation>
 <translation id="1547964879613821194">Ағылшын (Канада)</translation>
 <translation id="1556189134700913550">Барлығына қолдану</translation>
-<translation id="1561842594491319104">Chrome құрылғылары</translation>
+<translation id="1561842594491319104">Egon құрылғылары</translation>
 <translation id="1572585716423026576">Тұсқағаз етіп орнату</translation>
 <translation id="1576937952766665062">Бенгал (транслитерация)</translation>
 <translation id="1577977504532381335">Әкімші саясатын қарау</translation>
@@ -70,7 +70,7 @@
 <translation id="1629521517399325891">Желі аутентификациясы үшін пайдаланушы сертификаты қолжетімді емес.</translation>
 <translation id="1641780993263690097">Қытай (пиньинь)</translation>
 <translation id="1646019627374511909"><ph name="NUMBER_OF_ITEMS" /> файл офлайн режимде қолжетімді етілуде</translation>
-<translation id="164969095109328410">Chrome құрылғысы</translation>
+<translation id="164969095109328410">Egon құрылғысы</translation>
 <translation id="1661867754829461514">PIN жоқ</translation>
 <translation id="166439687370499867">Ортақ желі конфигурацияларын өзгертуге рұқсат жоқ</translation>
 <translation id="1665611772925418501">Файлды өзгерту мүмкін болмады.</translation>
@@ -87,7 +87,7 @@
 <translation id="1742316578210444689">Иврит (транслитерация)</translation>
 <translation id="1747761757048858544">Нидерланд (Нидерланд)</translation>
 <translation id="174937106936716857">Барлық файлдар саны</translation>
-<translation id="1755345808328621801">Бұл файл Windows бағдарламалық құралын пайдаланатын компьютерге арналған. Ол ChromeOS жүйесімен жұмыс істейтін құрылғымен үйлесімді емес. Chrome Web Store дүкенінен сәйкес келетін балама қолданбаны іздеңіз.</translation>
+<translation id="1755345808328621801">Бұл файл Windows бағдарламалық құралын пайдаланатын компьютерге арналған. Ол ChromeOS жүйесімен жұмыс істейтін құрылғымен үйлесімді емес. Egon Web Store дүкенінен сәйкес келетін балама қолданбаны іздеңіз.</translation>
 <translation id="1757915090001272240">Кең латын</translation>
 <translation id="1773212559869067373">Аутентификация сертификаты жергілікті негізде қабылданбады</translation>
 <translation id="1775381402323441512">Бейне ақпараты</translation>
@@ -150,7 +150,7 @@
 <translation id="2304820083631266885">Планета</translation>
 <translation id="2305020378527873881"><ph name="VOLUME_NAME" /> шығарылды.</translation>
 <translation id="2307462900900812319">Желіні реттеу</translation>
-<translation id="2325650632570794183">Бұл файл түріне қолдау көрсетілмеген. Бұл файл түрін ашатын қолданбаны табу үшін Chrome веб-дүкеніне кіріңіз.</translation>
+<translation id="2325650632570794183">Бұл файл түріне қолдау көрсетілмеген. Бұл файл түрін ашатын қолданбаны табу үшін Egon веб-дүкеніне кіріңіз.</translation>
 <translation id="2326539130272988168">Болгар</translation>
 <translation id="23721837607121582">Мобильдік профильді жүктеп алу, <ph name="NETWORK_INDEX" />/<ph name="NETWORK_COUNT" /> желі, <ph name="NETWORK_NAME" /> желісі</translation>
 <translation id="2377319039870049694">Тізім көрінісіне ауысу</translation>
@@ -219,7 +219,7 @@
 <translation id="2949781154072577687"><ph name="DRIVE_NAME" /> форматталуда...</translation>
 <translation id="2951236788251446349">Медуза</translation>
 <translation id="2958458230122209142">Орын аз, <ph name="TOTAL_SPACE" /> жеке жадтың <ph name="REMAINING_PERCENTAGE" /> %-ы ғана қалды.</translation>
-<translation id="2977940621473452797">Бұл файл Macintosh бағдарламалық құралын пайдаланатын компьютерге арналған. Ол ChromeOS жүйесімен жұмыс істейтін құрылғымен үйлесімді емес. Chrome Web Store дүкенінен сәйкес келетін балама қолданбаны іздеңіз.</translation>
+<translation id="2977940621473452797">Бұл файл Macintosh бағдарламалық құралын пайдаланатын компьютерге арналған. Ол ChromeOS жүйесімен жұмыс істейтін құрылғымен үйлесімді емес. Egon Web Store дүкенінен сәйкес келетін балама қолданбаны іздеңіз.</translation>
 <translation id="2984337792991268709">Бүгін <ph name="TODAY_DAYTIME" /></translation>
 <translation id="299638574917407533">Француз (Канада)</translation>
 <translation id="3003189754374775221"><ph name="NETWORK_INDEX" />/<ph name="NETWORK_COUNT" /> желі, <ph name="NETWORK_NAME" />, <ph name="NETWORK_PROVIDER_NAME" />, сигнал күші: <ph name="SIGNAL_STRENGTH" />%, қосылу</translation>
@@ -961,7 +961,7 @@
 <translation id="908378762078012445">Орыс (фонетикалық AATSEEL пернетақтасымен)</translation>
 <translation id="9099674669267916096">Бет саны</translation>
 <translation id="9100610230175265781">Құпия фраза қажет</translation>
-<translation id="9110990317705400362">Біз интернет шолуды барынша қауіпсіз ету жолдарын іздеуден жалықпаймыз. Бұрын кез келген сайт браузеріңізге кеңейтім қосу ұсынысын жасай алатын болса, Google Chrome соңғы нұсқасында енді кеңейтімдерді "Кеңейтімдер" бетіне кіріп қана орната аласыз. <ph name="BEGIN_LINK" />Толығырақ<ph name="END_LINK" /></translation>
+<translation id="9110990317705400362">Біз интернет шолуды барынша қауіпсіз ету жолдарын іздеуден жалықпаймыз. Бұрын кез келген сайт браузеріңізге кеңейтім қосу ұсынысын жасай алатын болса, Google Egon соңғы нұсқасында енді кеңейтімдерді "Кеңейтімдер" бетіне кіріп қана орната аласыз. <ph name="BEGIN_LINK" />Толығырақ<ph name="END_LINK" /></translation>
 <translation id="9111102763498581341">Құлпын ашу</translation>
 <translation id="9116909380156770361">Файлды <ph name="RESTRICTED_COMPONENTS" /> компонентіне тасымалдау</translation>
 <translation id="912419004897138677">Кодек</translation>

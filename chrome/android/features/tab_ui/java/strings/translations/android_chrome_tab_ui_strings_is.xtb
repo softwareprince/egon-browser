@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> af flipunum þínum hafa ekki verið notaðir nýlega. Viltu loka þeim?</translation>
 <translation id="1181037720776840403">Fjarlægja</translation>
 <translation id="125153950246128346">Ýttu til að sjá annan flipa</translation>
-<translation id="1403228085774130835">Þú finnur flipa sem þú hefur lokað í „Nýlegir flipar“ á aðalvalmynd Chrome</translation>
+<translation id="1403228085774130835">Þú finnur flipa sem þú hefur lokað í „Nýlegir flipar“ á aðalvalmynd Egon</translation>
 <translation id="1455506303394048917">Virknin þín í þessum huliðsflipum verður hreinsuð úr þessu tæki</translation>
 <translation id="1499635324672558517">Loka öllum huliðsflipum?</translation>
 <translation id="1657719826150349398">Færa flipa niður</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Skoða upplýsingar um verslun, valkostir eru ofarlega á skjánum</translation>
 <translation id="5558362125926932819">Loka flipahópi með <ph name="NUMBER_OF_TABS" /> flipum</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> flipar sameinaðir.</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> tengill frá Chrome}one{<ph name="TABS_COUNT_MANY" /> tengill frá Chrome}other{<ph name="TABS_COUNT_MANY" /> tenglar frá Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> tengill frá Egon}one{<ph name="TABS_COUNT_MANY" /> tengill frá Egon}other{<ph name="TABS_COUNT_MANY" /> tenglar frá Egon}}</translation>
 <translation id="575494663145460764">Fá tilkynningar um verðlækkanir?</translation>
 <translation id="58326064309361797">Dragðu flipa til að sameina þá</translation>
 <translation id="5846292395804797011">Loka <ph name="TITLE_OF_GROUP" />-hópi með <ph name="NUMBER_OF_TABS" /> flipum</translation>

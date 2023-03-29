@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">токтотуу</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Кийинки 4-деңгээлдин башкы аталышы жок</translation>
-<translation id="1212770441379271564">Төмөнкү ыкчам баскычтар ChromeVox'тун башкаруу баскычтарына кирбейт, бирок Chrome'ду колдонууга абдан пайдасы тиет.
+<translation id="1212770441379271564">Төмөнкү ыкчам баскычтар ChromeVox'тун башкаруу баскычтарына кирбейт, бирок Egon'ду колдонууга абдан пайдасы тиет.
     Баскычтар жана шилтемелер сыяктуу аракеттерди аткаруучу нерселерден алдыга өтүү үчүн Tab баскычын басыңыз. Артка өтүү үчүн Shift+Tab баскычтарын басыңыз.
-    Chrome серепчисинин дарек тилкесине (omnibox деп да аталат) кирүү үчүн Control + L баскычтарын басыңыз.
+    Egon серепчисинин дарек тилкесине (omnibox деп да аталат) кирүү үчүн Control + L баскычтарын басыңыз.
     Жаңы өтмөк ачып, ага автоматтык түрдө өтүү үчүн Control+T баскычтарын басыңыз. Курсоруңуз omnibox'тун ичине кирет.
     Өтмөктү жабуу үчүн Control+W баскычтарын басыңыз.
     Ачык өтмөктөрдөн кийинкисине өтүү үчүн Control+Tab баскычтарын басыңыз.
-    Chrome серепчисинин менюсун ачуу үчүн Alt+F баскычтарын басыңыз.</translation>
-<translation id="1213216066620407844">ChromeVox – Chrome'го үн берүү</translation>
+    Egon серепчисинин менюсун ачуу үчүн Alt+F баскычтарын басыңыз.</translation>
+<translation id="1213216066620407844">ChromeVox – Egon'го үн берүү</translation>
 <translation id="1225969361094801578">Күңүрт көгүш боз</translation>
 <translation id="122928249241119550">мурунку сүйлөмгө өтүү</translation>
 <translation id="1230503547248836149">Тандоону баштоо</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Грамматикалык ката</translation>
 <translation id="2603828437139726540">Бир тамга алдыга жылдыруу</translation>
 <translation id="2619052155095999743">Кыстаруу</translation>
-<translation id="2619344480613750862">Экрандагы бөлүмдөрдүн арасында да өтө аласыз. Мисалы, жүргүзгүч, текче жана Chrome өтмөктөрүнүн арасында да өтө аласыз. Кийинки бөлүмгө өтүү үчүн төрт манжаңыз менен солдон оңго сүрүңүз. Улантуу үчүн азыр аткарып көрүңүз.</translation>
+<translation id="2619344480613750862">Экрандагы бөлүмдөрдүн арасында да өтө аласыз. Мисалы, жүргүзгүч, текче жана Egon өтмөктөрүнүн арасында да өтө аласыз. Кийинки бөлүмгө өтүү үчүн төрт манжаңыз менен солдон оңго сүрүңүз. Улантуу үчүн азыр аткарып көрүңүз.</translation>
 <translation id="2624431853467395961">Үйрөнүү режимин ачуу</translation>
 <translation id="2626530649491650971">чыкылдатылуучу</translation>
 <translation id="263637551280112393">Search+Shift+Space баскычтарын басыңыз</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Чабыттоонун негиздери</translation>
 <translation id="609281021724813947">Мурунку сыдырма жок</translation>
 <translation id="6100239002225743044">Бир сап өйдө жылдыруу</translation>
-<translation id="6118126368611144850">Chrome'го арналган Android колдонмолору. Эгер түзмөгүңүздө Play Store орнотулган болсо, ChromeVox'ту Android колдонмолору менен пайдаланып көрүңүз. Play Storeдөн Google Chrome Canary'ни жүктөп алып, тажрыйбалуу колдоону байкап көрүңүз.</translation>
+<translation id="6118126368611144850">Egon'го арналган Android колдонмолору. Эгер түзмөгүңүздө Play Store орнотулган болсо, ChromeVox'ту Android колдонмолору менен пайдаланып көрүңүз. Play Storeдөн Google Egon Canary'ни жүктөп алып, тажрыйбалуу колдоону байкап көрүңүз.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">жандыруу</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Ач кызгылтым алтын түстүү сары</translation>
 <translation id="7541021454094606506">баарын жок кылуу</translation>
 <translation id="7543255924852002459">Энбелгини жоюу</translation>
-<translation id="7552432549459840808">Chrome'дун пайдалуу ыкчам баскычтары</translation>
+<translation id="7552432549459840808">Egon'дун пайдалуу ыкчам баскычтары</translation>
 <translation id="7553679324939294712"><ph name="INSERT_PHRASE" /> <ph name="BEFORE_PHRASE" /> чейин киргизүү</translation>
 <translation id="7569983096843329377">Кара</translation>
 <translation id="7579911500627256166"><ph name="DOT" /> чекиттери</translation>

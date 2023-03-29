@@ -191,31 +191,31 @@ all other OS specific variables will be false.
   <release seq="1">
     <messages fallback_to_english="true">
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_GAME_DISPLAY_NAME" desc="Display name for the dino game widget" meaning="String that appears as title in the installation window for the Dino widget. [CHAR_LIMIT=30][iOS only]">
-        Chrome Dino Game
+        Egon Dino Game
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_GAME_DESCRIPTION" desc="Description for the dino game widget" meaning="String that appears as description in the installation window for the Dino widget. [CHAR_LIMIT=150][iOS only]">
-        Jump into the Chrome Dino game from your Home Screen.
+        Jump into the Egon Dino game from your Home Screen.
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_GAME_TITLE" desc="Title for the dino game widget" meaning="String that appears in the Dino widget. [CHAR_LIMIT=15][iOS only]">
-        Chrome Dino
+        Egon Dino
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_GAME_A11Y_LABEL" desc="Accessibility label for the dino game widget" meaning="Accessibility label for the dino game widget [CHAR_LIMIT=40][iOS only]">
-        Jump into Chrome Dino Game
+        Jump into Egon Dino Game
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_LOCKSCREEN_LAUNCHER_GAME_DISPLAY_NAME" desc="Display name for the lockscreen launcher game widget" meaning="String that appears as title in the installation window for the lockscreen launcher Dino Game widget. [CHAR_LIMIT=30][iOS only]">
-        Chrome Dino Game
+        Egon Dino Game
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_LOCKSCREEN_LAUNCHER_GAME_DESCRIPTION" desc="Description for the lockscreen launcher game widget" meaning="String that appears as description in the installation window for the lockscreen launcher Dino Game widget. [CHAR_LIMIT=150][iOS only]">
-        Jump into the Chrome Dino Game from your lock screen.
+        Jump into the Egon Dino Game from your lock screen.
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_LOCKSCREEN_LAUNCHER_GAME_A11Y_LABEL" desc="Accessibility label for the lockscreen launcher game widget" meaning="Accessibility label for the lockscreen launcher Dino Game widget [CHAR_LIMIT=40][iOS only]">
-        Jump into Chrome Dino Game
+        Jump into Egon Dino Game
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_LOCKSCREEN_LAUNCHER_INCOGNITO_DISPLAY_NAME" desc="Display name for the lockscreen launcher incognito widget" meaning="String that appears as title in the installation window for the lockscreen launcher Incognito widget. [CHAR_LIMIT=30][iOS only]">
         Incognito Search
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_LOCKSCREEN_LAUNCHER_INCOGNITO_DESCRIPTION" desc="Description for the lockscreen launcher incognito widget" meaning="String that appears as description in the installation window for the lockscreen launcher Incognito widget. [CHAR_LIMIT=150][iOS only]">
-        Search or navigate in a new Incognito tab in Chrome.
+        Search or navigate in a new Incognito tab in Egon.
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_LOCKSCREEN_LAUNCHER_INCOGNITO_A11Y_LABEL" desc="Accessibility label for the lockscreen launcher incognito widget" meaning="Accessibility label for the lockscreen launcher Incognito widget [CHAR_LIMIT=40][iOS only]">
         Incognito Search
@@ -224,7 +224,7 @@ all other OS specific variables will be false.
         Search
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_LOCKSCREEN_LAUNCHER_SEARCH_DESCRIPTION" desc="Description for the lockscreen launcher search widget" meaning="String that appears as description in the installation window for the lockscreen launcher Search widget. [CHAR_LIMIT=150][iOS only]">
-        Search in Chrome with your favorite search engine.
+        Search in Egon with your favorite search engine.
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_LOCKSCREEN_LAUNCHER_SEARCH_A11Y_LABEL" desc="Accessibility label for the lockscreen launcher search widget" meaning="Accessibility label for the lockscreen launcher Search widget [CHAR_LIMIT=40][iOS only]">
         Search
@@ -233,7 +233,7 @@ all other OS specific variables will be false.
         Voice Search
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_LOCKSCREEN_LAUNCHER_VOICESEARCH_DESCRIPTION" desc="Description for the lockscreen launcher voice search widget" meaning="String that appears as description in the installation window for the lockscreen launcher Voice Search widget. [CHAR_LIMIT=150][iOS only]">
-        Search in Chrome using your voice.
+        Search in Egon using your voice.
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_LOCKSCREEN_LAUNCHER_VOICESEARCH_A11Y_LABEL" desc="Accessibility label for the lockscreen launcher voice search widget" meaning="Accessibility label for the lockscreen launcher Voice Search widget [CHAR_LIMIT=40][iOS only]">
         Voice Search
@@ -266,7 +266,7 @@ all other OS specific variables will be false.
         Search
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_SEARCH_DESCRIPTION" desc="Description for the search widget" meaning="String that appears as description in the installation window for the Search widget. [CHAR_LIMIT=150][iOS only]">
-        Search in Chrome with your favorite search engine.
+        Search in Egon with your favorite search engine.
       </message>
       <message name="IDS_IOS_WIDGET_KIT_EXTENSION_SEARCH_TITLE" desc="Title for the search widget" meaning="String that appears in the Search widget. Should be splited in two lines, each line with a max of 15 characteres. [CHAR_LIMIT=25][iOS only]">
         Search or

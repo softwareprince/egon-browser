@@ -18,7 +18,7 @@
 <translation id="1076421457278169141">Кодот е скениран</translation>
 <translation id="1076785341346483463">Синхронизација со управувана сметка</translation>
 <translation id="1084365883616172403">Објавата на Facebook е завршена.</translation>
-<translation id="1085696779717592361">Стандардно користете Chrome</translation>
+<translation id="1085696779717592361">Стандардно користете Egon</translation>
 <translation id="1103523840287552314">Секогаш преведувај <ph name="LANGUAGE" /></translation>
 <translation id="110724200315609752">Префрлете се на отворениот прозорец</translation>
 <translation id="1112015203684611006">Печатењето не успеа.</translation>
@@ -32,13 +32,13 @@
 <translation id="1165039591588034296">Грешка</translation>
 <translation id="1172898394251786223">Следно поле</translation>
 <translation id="1176932207622159128">Не може да се зачува сликата</translation>
-<translation id="1177414119866731261">Отворете го менито на Chrome</translation>
+<translation id="1177414119866731261">Отворете го менито на Egon</translation>
 <translation id="1181037720776840403">Отстрани</translation>
 <translation id="1207113853726624428">Ново пребарување</translation>
 <translation id="1209206284964581585">Сокриј засега</translation>
 <translation id="1219674500290482172">Не може да се поврзе на интернет.</translation>
 <translation id="122699739164161391">Затвори ги сите картички</translation>
-<translation id="1229222343402087523">Пребарајте ${searchPhrase} во Chrome</translation>
+<translation id="1229222343402087523">Пребарајте ${searchPhrase} во Egon</translation>
 <translation id="1242044645101871359">Најавете се повторно</translation>
 <translation id="1254117744268754948">Одбери Папка</translation>
 <translation id="1254424942107648268">Најдете претходно</translation>
@@ -128,7 +128,7 @@
 <translation id="1941314575388338491">Допрете двапати за да копирате.</translation>
 <translation id="1943478190258551035">Мени → Поставки</translation>
 <translation id="1952172573699511566">Кога е можно, веб-сајтовите ќе прикажуваат текст на вашиот претпочитан јазик.</translation>
-<translation id="1965935827552890526">Завршете го тоа што сте го започнале во другиот отворен прозорец на Chrome.</translation>
+<translation id="1965935827552890526">Завршете го тоа што сте го започнале во другиот отворен прозорец на Egon.</translation>
 <translation id="1973912524893600642">Задржи ги податоците</translation>
 <translation id="1974060860693918893">Напредни</translation>
 <translation id="1981118202195772574">Мобилен</translation>
@@ -149,8 +149,8 @@
 <translation id="2139867232736819575">Пребарувајте го текстот што го копиравте</translation>
 <translation id="214201757571129614">Најавете се…</translation>
 <translation id="2149973817440762519">Измени Обележувач</translation>
-<translation id="2150175299852799498">Chrome за мобилен уред</translation>
-<translation id="2155145621546387786">Споделете ја Chrome</translation>
+<translation id="2150175299852799498">Egon за мобилен уред</translation>
+<translation id="2155145621546387786">Споделете ја Egon</translation>
 <translation id="2175927920773552910">QR-код</translation>
 <translation id="2178545675770638239">Изберете лозинка</translation>
 <translation id="2218443599109088993">Одзумирај</translation>
@@ -161,7 +161,7 @@
 <translation id="225943865679747347">Код на грешка: <ph name="ERROR_CODE" /></translation>
 <translation id="2267753748892043616">Додајте сметка</translation>
 <translation id="2268044343513325586">Подобри</translation>
-<translation id="2271351792809375263">Користете ги лозинките зачувани на Chrome во други апликации на вашиот уред</translation>
+<translation id="2271351792809375263">Користете ги лозинките зачувани на Egon во други апликации на вашиот уред</translation>
 <translation id="2273327106802955778">Мени за повеќе опции</translation>
 <translation id="2286505070150039482">Нагласен текст</translation>
 <translation id="2299218006564889602">Лозинките се шифрираат на уредот пред да се зачуваат во „Управникот со лозинки на Google“.</translation>
@@ -232,13 +232,13 @@
 <translation id="2797029671965852011">Прикажи ја историјата</translation>
 <translation id="2800683595868705743">Излези од менувачот на картички</translation>
 <translation id="2815198996063984598">2. Допрете „Стандардна апликација за прелистување“</translation>
-<translation id="2820289420301699633">Вашиот администратор го контролира Chrome и може да пристапува до неговите податоци</translation>
+<translation id="2820289420301699633">Вашиот администратор го контролира Egon и може да пристапува до неговите податоци</translation>
 <translation id="2830972654601096923">Управувајте со адресите…</translation>
 <translation id="2834399722155632105">3. Допрете „Опции за лозинки“</translation>
 <translation id="2834956026595107950"><ph name="TITLE" />, <ph name="STATE" />, <ph name="URL" /></translation>
 <translation id="2843803966603263712">Ресетирај ги поставките за преведување</translation>
 <translation id="2848086008667475748">Одредете ја како „Стандардна“ во „Поставки“…</translation>
-<translation id="2858204748079866344">За да ја заштити вашата приватност, Chrome нема автоматски да ја пополнува вашата лозинка во ова поле.</translation>
+<translation id="2858204748079866344">За да ја заштити вашата приватност, Egon нема автоматски да ја пополнува вашата лозинка во ова поле.</translation>
 <translation id="285960592395650245">Повтори преземање</translation>
 <translation id="2870560284913253234">Локација</translation>
 <translation id="2871695793448672541">Скриена лозинка</translation>
@@ -256,7 +256,7 @@
 <translation id="292639812446257861">Означи како непрочитано</translation>
 <translation id="2932085390869194046">Предложете лозинка…</translation>
 <translation id="2932765531295814441">Додавајте лозинки рачно</translation>
-<translation id="2952581218264071393">1. Отворете ги поставките за Chrome</translation>
+<translation id="2952581218264071393">1. Отворете ги поставките за Egon</translation>
 <translation id="2958718410589002129">Лозинки</translation>
 <translation id="2961210776189273067">Наслов</translation>
 <translation id="2964349545761222050">Блокирај колачиња од трети страни</translation>
@@ -312,7 +312,7 @@
 <translation id="3371831930909698441">„Преведи“ е достапна. Достапни се опции на дното на екранот.</translation>
 <translation id="3377063233124932127">Отсега вашите зачувани обележувачи, лозинки и друго се најгоре.</translation>
 <translation id="3393920035788932672">Појавни прозорци се дозволени</translation>
-<translation id="3399930248910934354">Отворете ги поставките за Chrome</translation>
+<translation id="3399930248910934354">Отворете ги поставките за Egon</translation>
 <translation id="3404744938087714423">Одјавувањето ќе ја исклучи синхронизацијата.</translation>
 <translation id="3425644765244388016">Прекар на картичката</translation>
 <translation id="3433057996795775706">Со бришењето на лозинкава нема да се избрише вашата сметка на <ph name="WEBSITE" />. Сменете ја лозинката на <ph name="WEBSITE" /> за да ја заштитите сметката од надворешни лица.</translation>
@@ -355,7 +355,7 @@
 <translation id="3709582977625132201">Обележи како непрочитано</translation>
 <translation id="371230970611282515">Предвидува опасни настани и ве предупредува пред да се случат.</translation>
 <translation id="37207012422556617">Пребарувања во тренд</translation>
-<translation id="3740397331642243698">Ги отвора внесените URL-адреси во Google Chrome во „Инкогнито“.</translation>
+<translation id="3740397331642243698">Ги отвора внесените URL-адреси во Google Egon во „Инкогнито“.</translation>
 <translation id="3762232513783804601">Создаден за вашиот iPad</translation>
 <translation id="3768725474733206671">Повторно отвори ја последната затворена картичка</translation>
 <translation id="3771033907050503522">Инкогнито картички</translation>
@@ -374,12 +374,12 @@
 <translation id="3858860766373142691">Име</translation>
 <translation id="3861486700625780712">Не следи</translation>
 <translation id="3863769054730344136">Испратете до вашите уреди</translation>
-<translation id="387280738075653372">Преземете го Chrome тука.</translation>
+<translation id="387280738075653372">Преземете го Egon тука.</translation>
 <translation id="3888863481921783344">Ова ќе се користи за да ви ги покаже лицата што може да ги поканите на настанот.</translation>
 <translation id="3892144330757387737">Вашата историја ќе ја најдете тука</translation>
 <translation id="3897092660631435901">Мени</translation>
 <translation id="3904829425754749514">Вашата организација го исклучи синхронизирањето. Сѐ уште може да ги гледате вашите обележувачи, историја, лозинки и другите поставки на уредов. Промените нема да се синхронизираат со вашата сметка.</translation>
-<translation id="3913386780052199712">Најавени сте на Chrome</translation>
+<translation id="3913386780052199712">Најавени сте на Egon</translation>
 <translation id="3915450441834151894">Информации за сајтот</translation>
 <translation id="3922310737605261887">Пребарајте го копираниот текст</translation>
 <translation id="3928666092801078803">Комбинирај ги моите податоци</translation>
@@ -522,7 +522,7 @@
 <translation id="4979397965658815378">Најавете се со сметката на Google за да ги добиете обележувачите, лозинките, историјата и другите поставки на сите ваши уреди.</translation>
 <translation id="4986678885919050584">Отстранете ја од уредов</translation>
 <translation id="4989542687859782284">Недостапни</translation>
-<translation id="498985224078955265">За да ја испратите картичкава на друг уред, најавете се на Chrome на двата уреда.</translation>
+<translation id="498985224078955265">За да ја испратите картичкава на друг уред, најавете се на Egon на двата уреда.</translation>
 <translation id="5005498671520578047">Копирање лозинка</translation>
 <translation id="5017828934289857214">Потсети ме подоцна</translation>
 <translation id="5037676449506322593">Избери сè</translation>
@@ -532,19 +532,19 @@
 <translation id="5062321486222145940">Инсталирајте Диск на Google</translation>
 <translation id="5083464117946352670">Не може да утврди големина на датотека.</translation>
 <translation id="5090832849094901128">Со бришењето на лозинкава нема да се избрише вашата сметка на <ph name="WEBSITE" />.</translation>
-<translation id="5092117651143801290">Може да зачувувате страници за да ги читате подоцна или офлајн. Chrome ќе ве праша дали сакате да зачувувате долги страници.</translation>
+<translation id="5092117651143801290">Може да зачувувате страници за да ги читате подоцна или офлајн. Egon ќе ве праша дали сакате да зачувувате долги страници.</translation>
 <translation id="5094827893301452931">Твитот е завршен.</translation>
 <translation id="5118713593561876160">Интереси</translation>
 <translation id="5118764316110575523">Исклучено</translation>
-<translation id="5119391094379141756">Изберете Chrome</translation>
+<translation id="5119391094379141756">Изберете Egon</translation>
 <translation id="5132942445612118989">Синхронизирајте ги лозинките, историјата и друго на сите уреди</translation>
-<translation id="5140288047769711648">Chrome ќе ја запомни оваа лозинка за вас. Нема потреба и вие да ја помните.</translation>
+<translation id="5140288047769711648">Egon ќе ја запомни оваа лозинка за вас. Нема потреба и вие да ја помните.</translation>
 <translation id="5149188072385105201">Додајте лозинка…</translation>
 <translation id="5150492518600715772">Испратете до вашиот уред</translation>
 <translation id="5168414296986405587">Создадено за iPad OS</translation>
 <translation id="5173088371991956744">Синхронизацијата треба да потврди дека сте вие</translation>
 <translation id="5181140330217080051">Се презема</translation>
-<translation id="5184329579814168207">Отвори во Chrome</translation>
+<translation id="5184329579814168207">Отвори во Egon</translation>
 <translation id="5186185447130319458">Приватен</translation>
 <translation id="5188482106078495165">Поставката за колачиња се применува на сите картички. За да примените нова поставка на отворена картичка, вчитајте ја картичката повторно.</translation>
 <translation id="5190835502935405962">Лента со обележувачи</translation>
@@ -579,7 +579,7 @@
 <translation id="5490005495580364134">Блокирај ги сите колачиња (не се препорачува)</translation>
 <translation id="5513681519188741830">пред <ph name="TIME" /> ч.</translation>
 <translation id="5520466080178053306">Допрете „Password Manager“, а потоа допрете „Додај“</translation>
-<translation id="5525095647255982834">За да ја испратите картичкава на друг уред, најавете се на Chrome таму.</translation>
+<translation id="5525095647255982834">За да ја испратите картичкава на друг уред, најавете се на Egon таму.</translation>
 <translation id="5525269841082836315">Создај пристапна фраза</translation>
 <translation id="5542540507657872337">Најдено: <ph name="COUNT" /></translation>
 <translation id="5548760955356983418">Handoff ви овозможува да започнете со прелистување на веб-локација на уредот и потоа лесно да продолжите на Mac. Моментално отворената веб-локација ќе се појави во Dock на Mac.
@@ -601,14 +601,14 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="5669528293118408608">www</translation>
 <translation id="5669617676038747374">Создајте QR-код</translation>
 <translation id="567881659373499783">Верзија <ph name="PRODUCT_VERSION" /></translation>
-<translation id="5690398455483874150">{count,plural, =1{Сега се прикажува 1 прозорец на Chrome}one{Сега се прикажува {count} прозорец на Chrome}other{Сега се прикажуваат {count} прозорци на Chrome}}</translation>
+<translation id="5690398455483874150">{count,plural, =1{Сега се прикажува 1 прозорец на Egon}one{Сега се прикажува {count} прозорец на Egon}other{Сега се прикажуваат {count} прозорци на Egon}}</translation>
 <translation id="5701270923492462699">Дозволен е пристап до „Камерата“</translation>
 <translation id="5704908597376970822">Не може да се најавите.</translation>
 <translation id="5706552126692816153">Активен пред 1 ден</translation>
 <translation id="5711039611392265845">За повеќе поставки што се однесуваат на приватноста, безбедноста и собирањето податоци, одете на <ph name="BEGIN_LINK" />Синхронизација и услуги на Google<ph name="END_LINK" />.</translation>
 <translation id="5724941645893276623">За приватно прелистување на интернет, додајте нова картичка</translation>
 <translation id="5728700505257787410">Се извинуваме, настана проблем при најавување на сметката.</translation>
-<translation id="5733084997078800044">Совет за Chrome</translation>
+<translation id="5733084997078800044">Совет за Egon</translation>
 <translation id="5737974891429562743">Деталите за најавување на сметката се застарени. Ажурирајте ги за да започне синхронизацијата.</translation>
 <translation id="5738385766833540397">Управувајте како ќе добивате известувања за намалени цени за производите што ги следите</translation>
 <translation id="5738887413654608789">Ова ви овозможува да откриете релевантни веб-страници врз основа на вашата околина.</translation>
@@ -623,7 +623,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="5812974770859303494">Додај во…</translation>
 <translation id="581659025233126501">Вклучи синхронизација</translation>
 <translation id="5819208479324046259">Управувано од <ph name="MANAGER" />. <ph name="BEGIN_LINK" />Дознајте повеќе<ph name="END_LINK" /></translation>
-<translation id="5833643789537100742">Зачувувајте лозинки, начини на плаќање и адреси за да може Chrome автоматски да ги пополнува подоцна.</translation>
+<translation id="5833643789537100742">Зачувувајте лозинки, начини на плаќање и адреси за да може Egon автоматски да ги пополнува подоцна.</translation>
 <translation id="5846482154967366008">Пребарувач</translation>
 <translation id="5854790677617711513">Постари од 30 дена</translation>
 <translation id="5857090052475505287">Нова папка</translation>
@@ -650,7 +650,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="5982717868370722439">Додајте ги постоечките податоци во <ph name="USER_EMAIL" />.</translation>
 <translation id="5984222099446776634">Неодамна посетени</translation>
 <translation id="5988097621740394599">Гледајте ги попустите на картичките.</translation>
-<translation id="5988851877894965432">Отвори ги URL-адресите во Chrome</translation>
+<translation id="5988851877894965432">Отвори ги URL-адресите во Egon</translation>
 <translation id="6006672969046233841">Нова картичка</translation>
 <translation id="6012140227487808125">Се шифрира...</translation>
 <translation id="6021332621416007159">Отвори во...</translation>
@@ -676,7 +676,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="6152406514676263192">Синхронизирање со најрелевантните содржини според вашите интереси.</translation>
 <translation id="6159839020698489198">изборно</translation>
 <translation id="6170450281939467187">Преведувањето не успеа</translation>
-<translation id="6177442314419606057">Пребарувајте во Chrome</translation>
+<translation id="6177442314419606057">Пребарувајте во Egon</translation>
 <translation id="6184086493125982861">Прикажи картички</translation>
 <translation id="6187302354554850004">Последна синхронизација: <ph name="LAST_USED_TIME" /></translation>
 <translation id="6189413832092199491">Непрочитани</translation>
@@ -746,7 +746,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="6524918542306337007">Режимот „Инкогнито“ е недостапен</translation>
 <translation id="6530992499366869131">Добијте предупредување ако лозинките се откриени при упад во податоците</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Посетете сајт и кликнете „Следи“ во менито на Chrome</translation>
+<translation id="6540120577248033958">Посетете сајт и кликнете „Следи“ во менито на Egon</translation>
 <translation id="6561262006871132942">Зумирај</translation>
 <translation id="6583087784430677195">За да го исклучите, отворете ги <ph name="BEGIN_LINK" />Поставките<ph name="END_LINK" /> и одете на „Автоматско пополнување лозинки“.</translation>
 <translation id="6585618849026997638">Може да се навратите на страница што ви е важна со додавање обележувач</translation>
@@ -864,7 +864,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="7454057999980797137">Држава/Земја</translation>
 <translation id="7459628154744868585">Вклучена е „Подобрената заштита“</translation>
 <translation id="7464701184726199289">Ова ги чисти синхронизираните податоци од сите уреди. Поставките на зачуваните сајтови нема да се избришат и може да ги отсликуваат вашите навики за прелистување. <ph name="BEGIN_LINK" />Дознајте повеќе<ph name="END_LINK" /></translation>
-<translation id="746684838091935575">3. Изберете Chrome</translation>
+<translation id="746684838091935575">3. Изберете Egon</translation>
 <translation id="7472734401283673885">Име на компанија</translation>
 <translation id="7473891865547856676">Не, фала</translation>
 <translation id="750493650310597496">0 избрани</translation>
@@ -899,7 +899,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="7781011649027948662">Да се преведе страницата?</translation>
 <translation id="7781069478569868053">Страница во нова картичка</translation>
 <translation id="7781829728241885113">Вчера</translation>
-<translation id="778855399387580014">Започнете пребарување во нова картичка на Chrome.</translation>
+<translation id="778855399387580014">Започнете пребарување во нова картичка на Egon.</translation>
 <translation id="7791543448312431591">Додај</translation>
 <translation id="7807060072011926525">Обезбедено од Google</translation>
 <translation id="7839985698273989086">Офлајн страница</translation>
@@ -912,7 +912,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="7859704718976024901">Историја на прелистувањето</translation>
 <translation id="7879275349003161544">Прикажете ги преземањата</translation>
 <translation id="7884694604461143138">Историја на пребарување (број на најдени ставки: <ph name="COUNT" />)</translation>
-<translation id="7887198238286927132">За да ја заштити вашата приватност, Chrome нема автоматски да го пополнува ова поле.</translation>
+<translation id="7887198238286927132">За да ја заштити вашата приватност, Egon нема автоматски да го пополнува ова поле.</translation>
 <translation id="7911190106180361398">Вашата организација не дозволува да синхронизирате сѐ.</translation>
 <translation id="7920949005883349320">Приватност и безбедност</translation>
 <translation id="7930998711684428189">Ве предупредува ако лозинките се откриени при упад во податоците.</translation>
@@ -933,7 +933,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="7982789257301363584">Мрежа</translation>
 <translation id="7987685713885608670">За дополнителна безбедност, шифрирајте ги лозинките на уредот пред да се зачуваат во „Управникот со лозинки на Google“.</translation>
 <translation id="7993619969781047893">Функциите на некои сајтови може да не функционираат</translation>
-<translation id="800361585186029508">Ги отвора внесените URL-адреси во Google Chrome.</translation>
+<translation id="800361585186029508">Ги отвора внесените URL-адреси во Google Egon.</translation>
 <translation id="8016714545083187120">Секогаш користете безбедни врски</translation>
 <translation id="802154636333426148">Неуспешно преземање</translation>
 <translation id="8023878949384262191">Го проширува делот.</translation>
@@ -942,7 +942,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="804225253087497565"><ph name="BEGIN_LINK" />Историјата на пребарување<ph name="END_LINK" /> и <ph name="BEGIN_LINK" />други форми на активност<ph name="END_LINK" /> може да се зачувуваат во вашата сметка на Google кога сте најавени. Може да ги избришете во секое време.</translation>
 <translation id="804427445359061970">Картичките од другите уреди ќе ги најдете тука</translation>
 <translation id="8059533439631660104">Го собира делот.</translation>
-<translation id="8065292699993359127">Отворај URL-адреси во Chrome во „Инкогнито“</translation>
+<translation id="8065292699993359127">Отворај URL-адреси во Egon во „Инкогнито“</translation>
 <translation id="806745655614357130">Не поврзувај ги податоците</translation>
 <translation id="8073670137947914548">Преземањето заврши</translation>
 <translation id="8073872304774253879">Подобрете ги пребарувањата и прелистувањето</translation>
@@ -956,7 +956,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="8114753159095730575">Достапна е датотека за преземање. Достапни се опции на дното на екранот.</translation>
 <translation id="81313319706244542">2. Допрете „Лозинки“</translation>
 <translation id="8132598642024322408">Сега <ph name="PRICE" />, беше <ph name="PREVIOUS_PRICE" />.</translation>
-<translation id="8136856065410661948">Ова ќе се користи за да се создаваат настани во вашиот „Календар на Apple“ од Chrome и Google Lens.</translation>
+<translation id="8136856065410661948">Ова ќе се користи за да се создаваат настани во вашиот „Календар на Apple“ од Egon и Google Lens.</translation>
 <translation id="8156478151976189188">Синхронизацијата на лозинките не работи</translation>
 <translation id="8157532349231307196"><ph name="NUMBER_OF_ACCOUNTS" /> сметки</translation>
 <translation id="8193953846147532858"><ph name="BEGIN_LINK" />Вашите уреди<ph name="END_LINK" /> · <ph name="EMAIL" /></translation>
@@ -1003,7 +1003,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="8533670235862049797">„Безбедното прелистување“ е вклучено</translation>
 <translation id="8534481786647257214">Објавата на Google+ е завршена.</translation>
 <translation id="8548878600947630424">Најди во страница...</translation>
-<translation id="8558480467877843976">Отсега може да го користите Chrome секогаш кога ќе прелистувате или допрете линкови во пораки, документи и други апликации.</translation>
+<translation id="8558480467877843976">Отсега може да го користите Egon секогаш кога ќе прелистувате или допрете линкови во пораки, документи и други апликации.</translation>
 <translation id="8588404856427128947">Исклучена</translation>
 <translation id="8590913940444621808">Никогаш не прашувај</translation>
 <translation id="8591976964826315682">Блокирајте колачиња од трети страни во „Инкогнито“</translation>
@@ -1043,7 +1043,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="8876882697946675716">Уредите нека ви бидат синхронизирани</translation>
 <translation id="8877287418679067891">Поставете како стандарден во „Поставки“…</translation>
 <translation id="8881801611828450202">Пребарај <ph name="SEARCH_ENGINE" /> за сликава</translation>
-<translation id="8891935667620843985">Може да отворате сајтови во Chrome автоматски така што ќе го направите ваша стандардна апликација за прелистувач.</translation>
+<translation id="8891935667620843985">Може да отворате сајтови во Egon автоматски така што ќе го направите ваша стандардна апликација за прелистувач.</translation>
 <translation id="8898822736010347272">Испраќа URL-адреси до Google од некои страници што ги посетувате, како и ограничени податоци за системот и некои содржини од страниците за да помогне да се откријат нови закани и да се заштитат сите на интернет.</translation>
 <translation id="890565330728586731">Назад</translation>
 <translation id="8909135823018751308">Сподели…</translation>
@@ -1068,11 +1068,11 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="9055960261314198756">„Подобрената заштита“ е исклучена</translation>
 <translation id="9057972802061533987">Не може да се следи. Нешто тргна наопаку.</translation>
 <translation id="9065203028668620118">Измени</translation>
-<translation id="9068336935206019333">Отвори во „Инкогнито“ на Chrome</translation>
+<translation id="9068336935206019333">Отвори во „Инкогнито“ на Egon</translation>
 <translation id="9079935439869366234">Означи ги сите како непрочитани</translation>
 <translation id="9081058212938299310">Да се ажурира лозинката за <ph name="USERNAME" />?</translation>
 <translation id="9083838294503912307">За да ги синхронизирате и персонализирате уредите, вклучете синхронизација.</translation>
-<translation id="9087108903408689779">Предложена лозинка од Chrome:</translation>
+<translation id="9087108903408689779">Предложена лозинка од Egon:</translation>
 <translation id="9093271241977565440">Најгоре на екранот, допрете ја иконата „Пребарување“</translation>
 <translation id="9094033019050270033">Ажурирај ја лозинката</translation>
 <translation id="9097506547406246598">Не може да се отследи. Нешто тргна наопаку.</translation>
@@ -1089,7 +1089,7 @@ Handoff мора да биде овозможен и во Општиот дел 
 <translation id="9223358826628549784">Извештајот за пад се испрати.</translation>
 <translation id="941747855997058526">Изберете лозинка…</translation>
 <translation id="952704832371081537">Откажи</translation>
-<translation id="953008885340860025">Chrome е одјавен</translation>
+<translation id="953008885340860025">Egon е одјавен</translation>
 <translation id="959066944189734975">Го следите <ph name="CHANNEL_NAME" /></translation>
 <translation id="981498610235328462">Вашата организација ви дозволува да се најавите само со одредени сметки. Сметките што не се дозволени се сокриени.</translation>
 <translation id="984509647832111802">Синхронизацијата не функционира.</translation>

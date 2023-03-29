@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">لغو</translation>
 <translation id="1206619573307042055">محتوای متحرک</translation>
 <translation id="1207086294218137981">عنوان سطح ۴ بعدی وجود ندارد</translation>
-<translation id="1212770441379271564">‏چند میان‌بر بعدی در میان فرمان‌های ChromeVox نیستند، اما برای استفاده بهتر از Chrome خیلی مفید هستند.
+<translation id="1212770441379271564">‏چند میان‌بر بعدی در میان فرمان‌های ChromeVox نیستند، اما برای استفاده بهتر از Egon خیلی مفید هستند.
 برای پیمایش رو به‌جلو در بین موارد قابل کنش مثل دکمه‌ها و پیوندها، کلید Tab را فشار دهید. برای پیمایش رو به‌عقب، Shift+Tab را فشار دهید.
-برای وارد شدن به کادر نشانی مرورگر Chrome (که omnibox هم گفته می‌شود)، Control + L را فشار دهید.
+برای وارد شدن به کادر نشانی مرورگر Egon (که omnibox هم گفته می‌شود)، Control + L را فشار دهید.
 برای باز کردن و رفتن به برگه جدید به‌طور خودکار، Control+T را فشار دهید. نشانگر در omnibox قرار خواهد گرفت. 
 برای بستن برگه، Control+W را فشار دهید. 
 برای حرکت رو به‌جلو میان برگه‌های باز، از Control+Tab استفاده کنید. 
-برای باز کردن منوی مرورگر Chrome، کلیدهای Alt+F را فشار دهید.</translation>
-<translation id="1213216066620407844">‏ChromeVox - ارائه صدا به Chrome</translation>
+برای باز کردن منوی مرورگر Egon، کلیدهای Alt+F را فشار دهید.</translation>
+<translation id="1213216066620407844">‏ChromeVox - ارائه صدا به Egon</translation>
 <translation id="1225969361094801578">سربی تیره</translation>
 <translation id="122928249241119550">به جمله قبلی برو</translation>
 <translation id="1230503547248836149">شروع بخش انتخاب‌شده</translation>
@@ -238,13 +238,13 @@
 <translation id="2598495320872286378">خطای دستور زبانی</translation>
 <translation id="2603828437139726540">یک نویسه به جلو بروید</translation>
 <translation id="2619052155095999743">درج</translation>
-<translation id="2619344480613750862">‏همچنین می‌توانید بین بخش‌های صفحه جابه‌جا شوید. برای مثال، می‌توانید بین راه‌انداز، قفسه، و برگه‌های Chrome جابه‌جا شوید. برای اینکه به بخش بعدی بروید، با چهار انگشت تند از چپ به راست بکشید. برای ادامه، اکنون آن را امتحان کنید.</translation>
+<translation id="2619344480613750862">‏همچنین می‌توانید بین بخش‌های صفحه جابه‌جا شوید. برای مثال، می‌توانید بین راه‌انداز، قفسه، و برگه‌های Egon جابه‌جا شوید. برای اینکه به بخش بعدی بروید، با چهار انگشت تند از چپ به راست بکشید. برای ادامه، اکنون آن را امتحان کنید.</translation>
 <translation id="2624431853467395961">باز کردن حالت یادگیری</translation>
 <translation id="2626530649491650971">قابل کلیک</translation>
 <translation id="263637551280112393">‏کلید Search+Shift+Space را فشار دهید</translation>
 <translation id="2637227747952042642">ریاضی</translation>
 <translation id="2638785836053527382">بارگیری <ph name="FILE_NAME" /> ازسرگیری شد</translation>
-<translation id="2639750663247012216">‏تغییردهنده Chrome Vox</translation>
+<translation id="2639750663247012216">‏تغییردهنده Egon Vox</translation>
 <translation id="2644542693584024604">املای اشتباه</translation>
 <translation id="2651441758640020174">فصل دلخواهتان را از فهرست انتخاب کنید.</translation>
 <translation id="2654172656519784359">یک واژه به جلو بروید</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">پیمایش ساده</translation>
 <translation id="609281021724813947">لغزنده قبلی وجود ندارد</translation>
 <translation id="6100239002225743044">یک خط به بالا بروید</translation>
-<translation id="6118126368611144850">‏برنامه‌های Android برای Chrome. اگر در دستگاهتان «فروشگاه Play» دارید، پیش‌نمایش استفاده از ChromeVox با برنامه‌های Android را ببینید. با بارگیری Google Chrome Canary از «فروشگاه Play»، پشتیبانی آزمایشی را امتحان کنید.</translation>
+<translation id="6118126368611144850">‏برنامه‌های Android برای Egon. اگر در دستگاهتان «فروشگاه Play» دارید، پیش‌نمایش استفاده از ChromeVox با برنامه‌های Android را ببینید. با بارگیری Google Egon Canary از «فروشگاه Play»، پشتیبانی آزمایشی را امتحان کنید.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">فعالسازی</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">لیمویی روشن</translation>
 <translation id="7541021454094606506">حذف همه</translation>
 <translation id="7543255924852002459">برچسب صرف‌نظر کردن</translation>
-<translation id="7552432549459840808">‏میان‌برهای مفید Chrome</translation>
+<translation id="7552432549459840808">‏میان‌برهای مفید Egon</translation>
 <translation id="7553679324939294712"><ph name="INSERT_PHRASE" /> را قبل‌از <ph name="BEFORE_PHRASE" /> وارد کن</translation>
 <translation id="7569983096843329377">سیاه</translation>
 <translation id="7579911500627256166">نقطه <ph name="DOT" /></translation>

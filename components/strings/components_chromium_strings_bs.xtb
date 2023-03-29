@@ -5,9 +5,9 @@
 <translation id="275588974610408078">Izrada izvještaja o padovima aplikacije nije dostupna na Chromiumu.</translation>
 <translation id="3064346599913645280">Prikazana vam je sigurna stranica Chromiuma</translation>
 <translation id="358997566136285270">Logotip Chromiuma</translation>
-<translation id="4365115785552740256">Chromium je dostupan zahvaljujući <ph name="BEGIN_LINK_CHROMIUM" />Chromium<ph name="END_LINK_CHROMIUM" /> projektu otvorenog koda i drugom <ph name="BEGIN_LINK_OSS" />softveru otvorenog koda<ph name="END_LINK_OSS" />.</translation>
+<translation id="4365115785552740256">Egon je dostupan zahvaljujući <ph name="BEGIN_LINK_CHROMIUM" />Egon<ph name="END_LINK_CHROMIUM" /> projektu otvorenog koda i drugom <ph name="BEGIN_LINK_OSS" />softveru otvorenog koda<ph name="END_LINK_OSS" />.</translation>
 <translation id="4559775032954821361">Idite na
-          Chromium meni &gt;
+          Egon meni &gt;
           <ph name="SETTINGS_TITLE" />
           &gt;
           <ph name="ADVANCED_TITLE" />
@@ -16,7 +16,7 @@
           &gt;
           LAN postavke
           i poništite odabir u polju za potvrdu "Koristi proksi server za svoj LAN".</translation>
-<translation id="4622039161600275920">Ovu stranicu je blokirao Chromium</translation>
+<translation id="4622039161600275920">Ovu stranicu je blokirao Egon</translation>
 <translation id="48558539577516920">U postavkama zaštitnog zida ili antivirusnog programa dozvolite Chromiumu da pristupi
           mreži.</translation>
 <translation id="4918837013875648434">ChromiumOS nije dovršio početno postavljanje.</translation>
@@ -28,7 +28,7 @@
           &gt;
           <ph name="PROXIES_TITLE" />
           i provjerite je li vaša konfiguracija postavljena na "bez proksi servera" ili "direktno".</translation>
-<translation id="6613594504749178791">Vaše promjene će stupiti na snagu kada sljedeći put budete ponovo pokrenuli Chromium.</translation>
+<translation id="6613594504749178791">Vaše promjene će stupiti na snagu kada sljedeći put budete ponovo pokrenuli Egon.</translation>
 <translation id="7861509383340276692">Idite na
           meni u Chromiumu &gt;
           <ph name="SETTINGS_TITLE" />
@@ -40,5 +40,5 @@
 <translation id="8187289872471304532">Idite na
           Aplikacije &gt; Postavke sistema &gt; Mreža &gt; Napredno &gt; Proksiji
           i poništite odabir svih odabranih proksija.</translation>
-<translation id="8684913864886094367">Chromium se nije ispravno zatvorio.</translation>
+<translation id="8684913864886094367">Egon se nije ispravno zatvorio.</translation>
 </translationbundle>

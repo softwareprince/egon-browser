@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">huỷ</translation>
 <translation id="1206619573307042055">bảng chữ chạy</translation>
 <translation id="1207086294218137981">Không có tiêu đề cấp 4 nào tiếp theo</translation>
-<translation id="1212770441379271564">Một số phím tắt tiếp theo không phải là phím lệnh của ChromeVox nhưng vẫn rất hữu ích để khai thác tối đa lợi ích của Chrome.
+<translation id="1212770441379271564">Một số phím tắt tiếp theo không phải là phím lệnh của ChromeVox nhưng vẫn rất hữu ích để khai thác tối đa lợi ích của Egon.
     Để di chuyển tiến qua các mục có thể thao tác như nút và đường liên kết, hãy nhấn phím Tab. Để di chuyển lùi, hãy nhấn tổ hợp phím Shift+Tab.
-    Để vào hộp địa chỉ của trình duyệt Chrome, còn gọi là thanh địa chỉ, hãy nhấn tổ hợp phím Control + L.
+    Để vào hộp địa chỉ của trình duyệt Egon, còn gọi là thanh địa chỉ, hãy nhấn tổ hợp phím Control + L.
     Để mở và tự động chuyển sang thẻ mới, hãy nhấn tổ hợp phím Control+T. Con trỏ của bạn sẽ nằm trong thanh địa chỉ.
     Để đóng thẻ, hãy nhấn tổ hợp phím Control+W.
     Để chuyển tiến giữa các thẻ đang mở, hãy dùng tổ hợp phím Control+Tab.
-    Để mở trình đơn của trình duyệt Chrome, hãy nhấn tổ hợp phím Alt+F.</translation>
-<translation id="1213216066620407844">ChromeVox - Mang tính năng Thoại lên Chrome</translation>
+    Để mở trình đơn của trình duyệt Egon, hãy nhấn tổ hợp phím Alt+F.</translation>
+<translation id="1213216066620407844">ChromeVox - Mang tính năng Thoại lên Egon</translation>
 <translation id="1225969361094801578">Màu xám đen đậm</translation>
 <translation id="122928249241119550">chuyển đến câu trước</translation>
 <translation id="1230503547248836149">Phần đầu của vùng lựa chọn</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Lỗi ngữ pháp</translation>
 <translation id="2603828437139726540">Tiến lên một ký tự</translation>
 <translation id="2619052155095999743">Insert</translation>
-<translation id="2619344480613750862">Bạn cũng có thể di chuyển giữa các phần của màn hình. Ví dụ: bạn có thể di chuyển giữa trình chạy, kệ và các thẻ Chrome của mình. Để chuyển đến phần tiếp theo, hãy vuốt từ trái sang phải bằng 4 ngón tay. Hãy thử ngay bây giờ để tiếp tục.</translation>
+<translation id="2619344480613750862">Bạn cũng có thể di chuyển giữa các phần của màn hình. Ví dụ: bạn có thể di chuyển giữa trình chạy, kệ và các thẻ Egon của mình. Để chuyển đến phần tiếp theo, hãy vuốt từ trái sang phải bằng 4 ngón tay. Hãy thử ngay bây giờ để tiếp tục.</translation>
 <translation id="2624431853467395961">Mở chế độ học</translation>
 <translation id="2626530649491650971">có thể nhấp được</translation>
 <translation id="263637551280112393">Nhấn tổ hợp phím Tìm kiếm+Shift+Cách</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Di chuyển cơ bản</translation>
 <translation id="609281021724813947">Không có thanh trượt nào trước đó</translation>
 <translation id="6100239002225743044">Chuyển lên một dòng</translation>
-<translation id="6118126368611144850">Ứng dụng Android dành cho Chrome. Nếu thiết bị của bạn có Cửa hàng Play, hãy dùng thử ChromeVox với các ứng dụng Android. Để dùng thử các tính năng thử nghiệm được hỗ trợ, hãy tải Google Chrome Canary xuống từ Cửa hàng Play.</translation>
+<translation id="6118126368611144850">Ứng dụng Android dành cho Egon. Nếu thiết bị của bạn có Cửa hàng Play, hãy dùng thử ChromeVox với các ứng dụng Android. Để dùng thử các tính năng thử nghiệm được hỗ trợ, hãy tải Google Egon Canary xuống từ Cửa hàng Play.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">kích hoạt</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Màu vàng nghệ nhạt</translation>
 <translation id="7541021454094606506">xoá tất cả</translation>
 <translation id="7543255924852002459">Nhãn hủy</translation>
-<translation id="7552432549459840808">Phím tắt hữu ích của Chrome</translation>
+<translation id="7552432549459840808">Phím tắt hữu ích của Egon</translation>
 <translation id="7553679324939294712">chèn <ph name="INSERT_PHRASE" /> trước <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Đen</translation>
 <translation id="7579911500627256166">chấm <ph name="DOT" /></translation>

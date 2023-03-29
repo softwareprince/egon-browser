@@ -95,7 +95,7 @@
 <translation id="1755556344721611131">Праграма для дыягностыкі</translation>
 <translation id="175763766237925754">Добры (<ph name="SIGNAL_STRENGTH" />)</translation>
 <translation id="1758018619400202187">EAP-TLS</translation>
-<translation id="1759842336958782510">Chrome</translation>
+<translation id="1759842336958782510">Egon</translation>
 <translation id="1768959921651994223">Тып аўтэнтыфікацыі</translation>
 <translation id="1782199038061388045">пераклад</translation>
 <translation id="1792647875738159689">Сканіраванне скасоўваецца</translation>
@@ -103,7 +103,7 @@
 <translation id="1807246157184219062">Светлая</translation>
 <translation id="1827738518074806965">Мастацкая галерэя</translation>
 <translation id="1851218745569890714">Відэаканферэнцыі</translation>
-<translation id="1852934301711881861">Усталяваць Chrome OS Flex</translation>
+<translation id="1852934301711881861">Усталяваць Egon OS Flex</translation>
 <translation id="1856388568474281774">Стрэлка ўніз</translation>
 <translation id="1858620243986915808">Далучыць здымак экрана</translation>
 <translation id="1871569928317311284">Выключыць цёмную тэму</translation>
@@ -251,7 +251,7 @@
 <translation id="3486220673238053218">азначэнне</translation>
 <translation id="3488065109653206955">Часткова актывавана</translation>
 <translation id="3510890413042482857">Адпраўляць <ph name="BEGIN_LINK1" />даныя адсочвання прадукцыйнасці<ph name="END_LINK1" /></translation>
-<translation id="3517001332549868749">Абнаўленне Chrome OS</translation>
+<translation id="3517001332549868749">Абнаўленне Egon OS</translation>
 <translation id="3527036260304016759">Збой: невядомая памылка</translation>
 <translation id="3532980081107202182">Прыблізны час да завяршэння: <ph name="MIN_REMAINING" /> хв</translation>
 <translation id="3557205324756024651">Лакальнае пасведчанне (неабавязкова)</translation>
@@ -296,7 +296,7 @@
 <translation id="3954678691475912818">Гэта прылада невядомага тыпу.</translation>
 <translation id="3966286471246132217">Каб атрымаць больш дакладныя вынікі, закрыйце ўсе ўкладкі, пакуль праверка не будзе завершана.</translation>
 <translation id="3967822245660637423">Спампоўка завершана</translation>
-<translation id="3969602104473960991">Пароль Chrome OS зменены</translation>
+<translation id="3969602104473960991">Пароль Egon OS зменены</translation>
 <translation id="397105322502079400">Ідзе разлік...</translation>
 <translation id="39823212440917567">Заданні друку, старэйшыя за <ph name="NUMBER_OF_DAYS" /> сут, будуць выдалены</translation>
 <translation id="3993704782688964914">Прылада "<ph name="DEVICE_NAME" />" абноўлена</translation>
@@ -530,7 +530,7 @@
 <translation id="6113701710518389813">Стрэлка ўверх</translation>
 <translation id="6117895505466548728">"<ph name="TITLE" />" і <ph name="NUMBER" /> іншыя альбомы</translation>
 <translation id="6122191549521593678">У інтэрнэце</translation>
-<translation id="6122277663991249694">Сэрвіс спосабаў уводу Chrome OS</translation>
+<translation id="6122277663991249694">Сэрвіс спосабаў уводу Egon OS</translation>
 <translation id="6137767437444130246">Сертыфікат карыстальніка</translation>
 <translation id="6146993107019042706">Каб закончыць, увядзіце новы пароль</translation>
 <translation id="6147514244879357420">PNG</translation>
@@ -757,7 +757,7 @@
 <translation id="8420955526972171689">Запуск праверак, а таксама пошук і выпраўленне непаладак, звязаных з апаратным забеспячэннем</translation>
 <translation id="8422748173858722634">IMEI</translation>
 <translation id="8428073762635678092">Убудаваная клавіятура</translation>
-<translation id="8431300646573772016">Што новага ў Chrome OS</translation>
+<translation id="8431300646573772016">Што новага ў Egon OS</translation>
 <translation id="843568408673868420">Падключэнне да інтэрнэту</translation>
 <translation id="844521431886043384">DNS не наладжаны</translation>
 <translation id="8456761643544401578">Аўтаматычнае ўключэнне цёмнага рэжыму</translation>

@@ -63,7 +63,7 @@
 <translation id="2321958826496381788">Vilkite šliaužiklį, kol bus patogu skaityti šį tekstą. Du kartus palietus pastraipą, tekstas turėtų būti mažiausiai tokio dydžio.</translation>
 <translation id="2329473609445770916">Šioje svetainėje apibrėžiami pomėgiai, kuriais kitos svetainės gali pasinaudoti rodydamos jums skelbimus</translation>
 <translation id="2359808026110333948">Tęskite</translation>
-<translation id="2379925928934107488">Kai galima, taikyti tamsiąją temą svetainėse, kai „Chrome“ naudoja tamsiąją temą</translation>
+<translation id="2379925928934107488">Kai galima, taikyti tamsiąją temą svetainėse, kai „Egon“ naudoja tamsiąją temą</translation>
 <translation id="2387895666653383613">Teksto mastelio keitimas</translation>
 <translation id="2390272837142897736">Padidinti mastelį</translation>
 <translation id="2402980924095424747"><ph name="MEGABYTES" /> MB</translation>
@@ -111,7 +111,7 @@
 <translation id="3203366800380907218">Iš žiniatinklio</translation>
 <translation id="321187648315454507">Norėdami leisti „<ph name="APP_NAME" />“ siųsti pranešimus, taip pat įjunkite juos <ph name="BEGIN_LINK" />„Android“ nustatymuose<ph name="END_LINK" />.</translation>
 <translation id="3227137524299004712">Mikrofonas</translation>
-<translation id="3248611290851046188">Šioje svetainėje apibrėžiami pomėgiai, kuriais kitos svetainės gali pasinaudoti rodydamos jums skelbimus. Ši svetainė taip pat gauna informaciją apie jūsų pomėgius iš „Chrome“, kad galėtų rodyti jums aktualesnius skelbimus</translation>
+<translation id="3248611290851046188">Šioje svetainėje apibrėžiami pomėgiai, kuriais kitos svetainės gali pasinaudoti rodydamos jums skelbimus. Ši svetainė taip pat gauna informaciją apie jūsų pomėgius iš „Egon“, kad galėtų rodyti jums aktualesnius skelbimus</translation>
 <translation id="3277252321222022663">Leidžiama svetainėms pasiekti jutiklius (rekomenduojama)</translation>
 <translation id="3285500645985761267">Leisti susijusioms svetainėms peržiūrėti jūsų veiklą grupėje</translation>
 <translation id="3295019059349372795">11 skyrius. Nuostabusis Smaragdo miestas</translation>
@@ -214,7 +214,7 @@
 <translation id="5354152178998424783">Tai atlikus bus išvalyta <ph name="DATASIZE" /> svetainių saugomų duomenų ir slapukų.</translation>
 <translation id="5394307150471348411">{DETAIL_COUNT,plural, =1{(ir dar 1)}one{(ir dar #)}few{(ir dar #)}many{(ir dar #)}other{(ir dar #)}}</translation>
 <translation id="5403592356182871684">Pavadinimai</translation>
-<translation id="5412236728747081950">Ši svetainė gauna informaciją apie jūsų pomėgius iš „Chrome“, kad galėtų rodyti jums aktualesnius skelbimus</translation>
+<translation id="5412236728747081950">Ši svetainė gauna informaciją apie jūsų pomėgius iš „Egon“, kad galėtų rodyti jums aktualesnius skelbimus</translation>
 <translation id="5438097262470833822">Bus iš naujo nustatyti svetainės <ph name="WEBSITE" /> leidimai</translation>
 <translation id="5489227211564503167">Praėjęs laikas: <ph name="ELAPSED_TIME" /> iš <ph name="TOTAL_TIME" />.</translation>
 <translation id="5494752089476963479">Blokuoti skelbimus svetainėse, kuriose rodomi nepageidaujami arba klaidinantys skelbimai</translation>

@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> dintre file nu au fost folosite în ultima vreme. Vrei să le închizi?</translation>
 <translation id="1181037720776840403">Elimină</translation>
 <translation id="125153950246128346">Atinge pentru a vedea altă filă</translation>
-<translation id="1403228085774130835">Poți găsi filele închise în filele Recente din meniul principal Chrome</translation>
+<translation id="1403228085774130835">Poți găsi filele închise în filele Recente din meniul principal Egon</translation>
 <translation id="1455506303394048917">Activitatea ta în filele incognito va fi ștearsă de pe acest dispozitiv</translation>
 <translation id="1499635324672558517">Închizi toate filele incognito?</translation>
 <translation id="1657719826150349398">Mută fila mai jos</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Vezi informații despre magazin, opțiune disponibilă în partea de sus a ecranului</translation>
 <translation id="5558362125926932819">Închide grupul de file cu <ph name="NUMBER_OF_TABS" /> file</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> file grupate</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link din Chrome}few{<ph name="TABS_COUNT_MANY" /> linkuri din Chrome}other{<ph name="TABS_COUNT_MANY" /> de linkuri din Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link din Egon}few{<ph name="TABS_COUNT_MANY" /> linkuri din Egon}other{<ph name="TABS_COUNT_MANY" /> de linkuri din Egon}}</translation>
 <translation id="575494663145460764">Vrei să primești alerte privind scăderile de prețuri?</translation>
 <translation id="58326064309361797">Trage filele pentru a le grupa</translation>
 <translation id="5846292395804797011">Închide grupul <ph name="TITLE_OF_GROUP" /> cu <ph name="NUMBER_OF_TABS" /> file</translation>

@@ -38,11 +38,11 @@
 <translation id="1207086294218137981">Nema sljedećeg naslova 4. razine</translation>
 <translation id="1212770441379271564">Sljedećih nekoliko prečaca nisu naredbe ChromeVoxa, ali su također vrlo korisni za iskorištavanje svih mogućnosti Chromea.
     Za kretanje unaprijed po stavkama koje omogućuju radnju, kao što su gumbi i veze, pritišćite tipku Tab. Za pomicanje unatrag pritišćite tipke Shift i Tab.
-    Za ulazak u adresni okvir preglednika Chrome, odnosno višenamjenski okvir, pritisnite tipke Control i L.
+    Za ulazak u adresni okvir preglednika Egon, odnosno višenamjenski okvir, pritisnite tipke Control i L.
     Za otvaranje nove kartice i automatski prelazak na nju pritisnite tipke Control i T. Pokazivač će biti u višenamjenskom okviru.
     Da biste zatvorili karticu, pritisnite tipke Control i W.
     Za pomicanje unaprijed kroz otvorene kartice koristite tipke Control i Tab.
-    Za otvaranje izbornika preglednika Chrome pritisnite tipke Alt i F.</translation>
+    Za otvaranje izbornika preglednika Egon pritisnite tipke Alt i F.</translation>
 <translation id="1213216066620407844">ChromeVox – daje Chromeu glas</translation>
 <translation id="1225969361094801578">Tamna plavosiva</translation>
 <translation id="122928249241119550">prijeđi na prethodnu rečenicu</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Zapisnik</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Grafički simbol</translation>
-<translation id="5648939288050772726">Čestitamo! Svladali ste osnove potrebne za uspješnu upotrebu ChromeVoxa. Zapamtite da ChromeVoxov izbornik za naredbe možete otvoriti u bilo kojem trenutku tako što ćete pritisnuti tipku za pretraživanje i točku. Još više o ChromeVoxu i Chrome OS-u možete saznati u sljedećim člancima.
+<translation id="5648939288050772726">Čestitamo! Svladali ste osnove potrebne za uspješnu upotrebu ChromeVoxa. Zapamtite da ChromeVoxov izbornik za naredbe možete otvoriti u bilo kojem trenutku tako što ćete pritisnuti tipku za pretraživanje i točku. Još više o ChromeVoxu i Egon OS-u možete saznati u sljedećim člancima.
     Ako ste gotovi s vodičem, pomoću ChromeVoxa dođite do gumba Zatvori i kliknite ga.</translation>
 <translation id="5653397561111110475">Upotreba značajki pristupačnosti dodirnog zaslona Chromebooka</translation>
 <translation id="5655682562155942719">Naredbe za skok</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Osnovno kretanje</translation>
 <translation id="609281021724813947">Nema prethodnog klizača</translation>
 <translation id="6100239002225743044">Premjesti jedan redak prema gore</translation>
-<translation id="6118126368611144850">Android aplikacije za Chrome. Ako na uređaju imate Trgovinu Play, pogledajte kako ChromeVox funkcionira s Android aplikacijama. Preuzmite Google Chrome Canary iz Trgovine Play i isprobajte eksperimentalnu podršku.</translation>
+<translation id="6118126368611144850">Android aplikacije za Egon. Ako na uređaju imate Trgovinu Play, pogledajte kako ChromeVox funkcionira s Android aplikacijama. Preuzmite Google Egon Canary iz Trgovine Play i isprobajte eksperimentalnu podršku.</translation>
 <translation id="611827076493383239">psjćn</translation>
 <translation id="6119846243427417423">aktiviraj</translation>
 <translation id="6122013438240733403">gmb</translation>

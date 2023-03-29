@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">ರದ್ದುಮಾಡಿ</translation>
 <translation id="1206619573307042055">ಮಾರ್ಕ್ಯೂ</translation>
 <translation id="1207086294218137981">ಯಾವುದೇ ಮುಂದಿನ ಹಂತ 4 ರ ಶಿರೋನಾಮೆಯಿಲ್ಲ</translation>
-<translation id="1212770441379271564">ಮುಂದಿನ ಕೆಲವು ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು ChromeVox ಕಮಾಂಡ್‌ಗಳಲ್ಲ, ಆದರೆ Chrome ನಿಂದ ಹೆಚ್ಚಿನ ಪ್ರಯೋಜನ ಪಡೆದುಕೊಳ್ಳಲು ಅವು ಬಹಳ ಉಪಯುಕ್ತವಾಗಿವೆ.
+<translation id="1212770441379271564">ಮುಂದಿನ ಕೆಲವು ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು ChromeVox ಕಮಾಂಡ್‌ಗಳಲ್ಲ, ಆದರೆ Egon ನಿಂದ ಹೆಚ್ಚಿನ ಪ್ರಯೋಜನ ಪಡೆದುಕೊಳ್ಳಲು ಅವು ಬಹಳ ಉಪಯುಕ್ತವಾಗಿವೆ.
     ಬಟನ್‌ಗಳು ಮತ್ತು ಲಿಂಕ್‌ಗಳಂತಹ, ಕ್ರಿಯೆ ನಡೆಸುವ ಐಟಂಗಳ ಮೂಲಕ ಮುಂದಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಲು, ಟ್ಯಾಬ್ ಕೀಯನ್ನು ಒತ್ತಿ. ಹಿಂದಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಲು Shift+Tab ಒತ್ತಿ.
-    omnibox ಎಂದೂ ಕರೆಯಲಾಗುವ, Chrome ಬ್ರೌಸರ್‌ನ ವಿಳಾಸ ಬಾಕ್ಸ್‌ಗೆ ಪ್ರವೇಶಿಸಲು, Control + L ಒತ್ತಿ.
+    omnibox ಎಂದೂ ಕರೆಯಲಾಗುವ, Egon ಬ್ರೌಸರ್‌ನ ವಿಳಾಸ ಬಾಕ್ಸ್‌ಗೆ ಪ್ರವೇಶಿಸಲು, Control + L ಒತ್ತಿ.
     ಹೊಸ ಟ್ಯಾಬ್ ಅನ್ನು ತೆರೆಯಲು ಮತ್ತು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಲ್ಲಿಗೆ ಹೋಗಲು Control+T ಒತ್ತಿ. ನಿಮ್ಮ ಕರ್ಸರ್ omnibox ನಲ್ಲಿ ಇರುತ್ತದೆ.
     ಟ್ಯಾಬ್ ಅನ್ನು ಮುಚ್ಚಲು Control+W ಒತ್ತಿ.
     ತೆರೆದ ಟ್ಯಾಬ್‌ಗಳ ನಡುವೆ ಮುಂದಕ್ಕೆ ಹೋಗಲು Control+Tab ಒತ್ತಿ.
-    Chrome ಬ್ರೌಸರ್ ಮೆನುವನ್ನು ತೆರೆಯಲು, Alt+F ಒತ್ತಿ.</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome ಗೆ ಧ್ವನಿ ನೀಡುವುದು</translation>
+    Egon ಬ್ರೌಸರ್ ಮೆನುವನ್ನು ತೆರೆಯಲು, Alt+F ಒತ್ತಿ.</translation>
+<translation id="1213216066620407844">ChromeVox - Egon ಗೆ ಧ್ವನಿ ನೀಡುವುದು</translation>
 <translation id="1225969361094801578">ಗಾಢ ಸ್ಲೇಟ್ ಬೂದು</translation>
 <translation id="122928249241119550">ಹಿಂದಿನ ವಾಕ್ಯಕ್ಕೆ ಸರಿಸಿ</translation>
 <translation id="1230503547248836149">ಆಯ್ಕೆಮಾಡಿದ ಪ್ರದೇಶದಿಂದ ಪ್ರಾರಂಭಿಸಿ</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">ವ್ಯಾಕರಣ ದೋಷ</translation>
 <translation id="2603828437139726540">ಒಂದು ಅಕ್ಷರ ಮುಂದಕ್ಕೆ ಸರಿಸಿ</translation>
 <translation id="2619052155095999743">Insert</translation>
-<translation id="2619344480613750862">ನೀವು ಸ್ಕ್ರೀನ್‌ನ ವಿಭಾಗಗಳ ನಡುವೆಯೂ ಚಲಿಸಬಹುದು. ಉದಾಹರಣೆಗೆ, ನೀವು ಲಾಂಚರ್, ಶೆಲ್ಫ್ ಮತ್ತು ನಿಮ್ಮ Chrome ಟ್ಯಾಬ್‌ಗಳ ನಡುವೆ ಸರಿಸಬಹುದು. ಮುಂದಿನ ವಿಭಾಗಕ್ಕೆ ತೆರಳಲು, ನಾಲ್ಕು ಬೆರಳುಗಳಿಂದ ಎಡದಿಂದ ಬಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ. ಮುಂದುವರಿಯಲು ಇದನ್ನು ಈಗ ಪ್ರಯತ್ನಿಸಿ.</translation>
+<translation id="2619344480613750862">ನೀವು ಸ್ಕ್ರೀನ್‌ನ ವಿಭಾಗಗಳ ನಡುವೆಯೂ ಚಲಿಸಬಹುದು. ಉದಾಹರಣೆಗೆ, ನೀವು ಲಾಂಚರ್, ಶೆಲ್ಫ್ ಮತ್ತು ನಿಮ್ಮ Egon ಟ್ಯಾಬ್‌ಗಳ ನಡುವೆ ಸರಿಸಬಹುದು. ಮುಂದಿನ ವಿಭಾಗಕ್ಕೆ ತೆರಳಲು, ನಾಲ್ಕು ಬೆರಳುಗಳಿಂದ ಎಡದಿಂದ ಬಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ. ಮುಂದುವರಿಯಲು ಇದನ್ನು ಈಗ ಪ್ರಯತ್ನಿಸಿ.</translation>
 <translation id="2624431853467395961">ಕಲಿಕೆ ಮೋಡ್‌ ತೆರೆಯಿರಿ</translation>
 <translation id="2626530649491650971">ಕ್ಲಿಕ್ ಮಾಡಬಹುದಾದ</translation>
 <translation id="263637551280112393">Search+Shift+Space ಒತ್ತಿರಿ</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">ಬೇಸಿಕ್ ನ್ಯಾವಿಗೇಶನ್</translation>
 <translation id="609281021724813947">ಯಾವುದೇ ಹಿಂದಿನ ಸ್ಲೈಡರ್ ಇಲ್ಲ</translation>
 <translation id="6100239002225743044">ಒಂದು ಸಾಲು ಮೇಲಕ್ಕೆ ಸರಿಸಿ</translation>
-<translation id="6118126368611144850">Chrome ಗಾಗಿ Android ಅಪ್ಲಿಕೇಶನ್‌ಗಳು. ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ನೀವು Play Store  ಅನ್ನು ಹೊಂದಿದ್ದರೆ, Android ಅಪ್ಲಿಕೇಶನ್‌ಗಳೊಂದಿಗೆ ChromeVox ನಲ್ಲಿ ಸ್ನೀಕ್ ಪೀಕ್ ಅನ್ನು ಪಡೆದುಕೊಳ್ಳಿ. Play Store ‌ನಿಂದ Google Chrome Canary ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವ ಮೂಲಕ ಪ್ರಾಯೋಗಿಕ ಬೆಂಬಲವನ್ನು ಬಳಸಿ ನೋಡಿ.</translation>
+<translation id="6118126368611144850">Egon ಗಾಗಿ Android ಅಪ್ಲಿಕೇಶನ್‌ಗಳು. ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ನೀವು Play Store  ಅನ್ನು ಹೊಂದಿದ್ದರೆ, Android ಅಪ್ಲಿಕೇಶನ್‌ಗಳೊಂದಿಗೆ ChromeVox ನಲ್ಲಿ ಸ್ನೀಕ್ ಪೀಕ್ ಅನ್ನು ಪಡೆದುಕೊಳ್ಳಿ. Play Store ‌ನಿಂದ Google Egon Canary ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವ ಮೂಲಕ ಪ್ರಾಯೋಗಿಕ ಬೆಂಬಲವನ್ನು ಬಳಸಿ ನೋಡಿ.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">ಸಕ್ರಿಯಗೊಳಿಸು</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -959,7 +959,7 @@
 <translation id="7533226154149229506">ತಿಳಿ ಗೋಲ್ಡನ್ ರಾಡ್ ಹಳದಿ</translation>
 <translation id="7541021454094606506">ಎಲ್ಲವನ್ನು ಅಳಿಸಿ</translation>
 <translation id="7543255924852002459">ತ್ಯಜಿಸಿ ಲೇಬಲ್</translation>
-<translation id="7552432549459840808">ಉಪಯುಕ್ತ Chrome ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು</translation>
+<translation id="7552432549459840808">ಉಪಯುಕ್ತ Egon ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" /> ಮುಂಚಿತವಾಗಿ <ph name="INSERT_PHRASE" /> ಅನ್ನು ಸೇರಿಸಿ</translation>
 <translation id="7569983096843329377">ಕಪ್ಪು</translation>
 <translation id="7579911500627256166">ಡಾಟ್‌ <ph name="DOT" /></translation>

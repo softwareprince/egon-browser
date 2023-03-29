@@ -299,7 +299,7 @@ Estas son algunas de las cosas que puedes probar para comenzar.</translation>
 <translation id="2620436844016719705">Sistema</translation>
 <translation id="2621713457727696555">Segura</translation>
 <translation id="263399434338050016">"Seleccionar todo"</translation>
-<translation id="2645435784669275700">Chrome OS</translation>
+<translation id="2645435784669275700">Egon OS</translation>
 <translation id="2653019840645008922">Captura de ventana</translation>
 <translation id="2653659639078652383">Enviar</translation>
 <translation id="2658778018866295321">Hacer clic y arrastrar</translation>
@@ -430,7 +430,7 @@ Estas son algunas de las cosas que puedes probar para comenzar.</translation>
 <translation id="3378438761594387761">Aquí encontrarás tus descargas y capturas de pantalla recientes</translation>
 <translation id="3378442621503952303">Se está estableciendo conexión con el perfil. Espera unos minutos.</translation>
 <translation id="3386978599540877378">la lupa de pantalla completa</translation>
-<translation id="3387527074123400161">Chromium OS</translation>
+<translation id="3387527074123400161">Egon OS</translation>
 <translation id="3400357268283240774">Configuración adicional</translation>
 <translation id="3405101454990027959">Activar el acceso al micrófono</translation>
 <translation id="3410336247007142655">Mostrar la configuración del Tema oscuro</translation>
@@ -916,7 +916,7 @@ Todos los usuarios deben salir de sus cuentas para continuar.</translation>
 <translation id="6043994281159824495">Salir ahora</translation>
 <translation id="6047696787498798094">Cuando cambies de usuario, se dejará de compartir la pantalla. ¿Quieres continuar?</translation>
 <translation id="6054305421211936131">Acceder con una tarjeta inteligente</translation>
-<translation id="6059276912018042191">Pestañas recientes de Chrome</translation>
+<translation id="6059276912018042191">Pestañas recientes de Egon</translation>
 <translation id="6062360702481658777">Saldrás de la sesión automáticamente en <ph name="LOGOUT_TIME_LEFT" />.</translation>
 <translation id="6064463340679478396">Terminé de utilizar el archivo</translation>
 <translation id="6073451960410192870">Detener grabación</translation>
@@ -1021,7 +1021,7 @@ Nueva instalación</translation>
 <translation id="6650933572246256093">El dispositivo Bluetooth "<ph name="DEVICE_NAME" />" solicita permiso para sincronizarse. Ingresa la siguiente clave de contraseña en el dispositivo: <ph name="PASSKEY" />.</translation>
 <translation id="6657585470893396449">Contraseña</translation>
 <translation id="6665545700722362599">Otorga permiso a sitios web, apps y extensiones para usar los servicios de ubicación, el micrófono y la cámara del dispositivo, y otras funciones</translation>
-<translation id="6667908387435388584">Conéctate al hotspot de tu teléfono, silencia y ubica tu dispositivo, y visualiza las pestañas recientes de Chrome que tengas abiertas en tu teléfono.</translation>
+<translation id="6667908387435388584">Conéctate al hotspot de tu teléfono, silencia y ubica tu dispositivo, y visualiza las pestañas recientes de Egon que tengas abiertas en tu teléfono.</translation>
 <translation id="6670153871843998651">Escritorio 3</translation>
 <translation id="6671495933530132209">Copiar imagen</translation>
 <translation id="6671661918848783005">No se puede desbloquear la Chromebook</translation>

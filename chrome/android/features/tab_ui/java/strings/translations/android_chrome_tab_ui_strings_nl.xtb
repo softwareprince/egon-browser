@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> van je tabbladen zijn niet recent gebruikt. Wil je ze sluiten?</translation>
 <translation id="1181037720776840403">Verwijderen</translation>
 <translation id="125153950246128346">Tik om nog een tabblad te bekijken</translation>
-<translation id="1403228085774130835">Je kunt je gesloten tabbladen vinden in Recente tabbladen in het hoofdmenu van Chrome</translation>
+<translation id="1403228085774130835">Je kunt je gesloten tabbladen vinden in Recente tabbladen in het hoofdmenu van Egon</translation>
 <translation id="1455506303394048917">Je activiteit in deze incognitotabbladen wordt verwijderd van dit apparaat</translation>
 <translation id="1499635324672558517">Alle incognitotabbladen sluiten?</translation>
 <translation id="1657719826150349398">Tabblad naar beneden verplaatsen</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Winkelinformatie bekijken, optie beschikbaar bovenaan het scherm</translation>
 <translation id="5558362125926932819">Tabbladgroep met <ph name="NUMBER_OF_TABS" /> tabbladen sluiten</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> tabbladen gegroepeerd</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link vanuit Chrome}other{<ph name="TABS_COUNT_MANY" /> links vanuit Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> link vanuit Egon}other{<ph name="TABS_COUNT_MANY" /> links vanuit Egon}}</translation>
 <translation id="575494663145460764">Meldingen krijgen voor prijsdalingen?</translation>
 <translation id="58326064309361797">Sleep de tabbladen om ze te groeperen</translation>
 <translation id="5846292395804797011">De groep <ph name="TITLE_OF_GROUP" /> met <ph name="NUMBER_OF_TABS" /> tabbladen sluiten</translation>

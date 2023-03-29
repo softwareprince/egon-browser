@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">canslwch</translation>
 <translation id="1206619573307042055">pabell fawr</translation>
 <translation id="1207086294218137981">Dim pennawd lefel 4 nesaf</translation>
-<translation id="1212770441379271564">Nid yw'r llwybrau byr canlynol yn orchmynion ChromeVox, ond maent dal i fod yn ddefnyddiol iawn i fanteisio'n llawn ar Chrome.
+<translation id="1212770441379271564">Nid yw'r llwybrau byr canlynol yn orchmynion ChromeVox, ond maent dal i fod yn ddefnyddiol iawn i fanteisio'n llawn ar Egon.
     Er mwyn llywio ymlaen drwy eitemau gweithredu megis botymau a dolenni, pwyswch y fysell Tab. Er mwyn llywio am yn ôl, pwyswch Shift+Tab.
-    Er mwyn defnyddio blwch cyfeiriad porwr Chrome, sydd hefyd yn cael ei alw'n omniflwch, pwyswch Control ac L.
+    Er mwyn defnyddio blwch cyfeiriad porwr Egon, sydd hefyd yn cael ei alw'n omniflwch, pwyswch Control ac L.
     Er mwyn agor a mynd i dab newydd yn awtomatig, pwyswch Control a T. Bydd eich cyrchwr yn ymddangos yn yr omniflwch.
     Er mwyn cau tab, pwyswch Control ac W.
     Er mwyn symud ymlaen rhwng tabiau sydd ar agor, defnyddiwch Control a Tab.
-    Er mwyn agor dewislen porwr Chrome, pwyswch Alt ac F.</translation>
-<translation id="1213216066620407844">ChromeVox - Rhoi Llais i Chrome</translation>
+    Er mwyn agor dewislen porwr Egon, pwyswch Alt ac F.</translation>
+<translation id="1213216066620407844">ChromeVox - Rhoi Llais i Egon</translation>
 <translation id="1225969361094801578">Llwyd Llechi Tywyll</translation>
 <translation id="122928249241119550">symudwch i'r frawddeg flaenorol</translation>
 <translation id="1230503547248836149">Dechrau dewis</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Gwall gramadegol</translation>
 <translation id="2603828437139726540">Symud ymlaen un nod</translation>
 <translation id="2619052155095999743">Mewnosod</translation>
-<translation id="2619344480613750862">Gallwch hefyd symud rhwng rhannau o'r sgrîn. Er enghraifft, gallwch symud rhwng y lansiwr, y silff, a'ch tabiau Chrome. I symud i'r rhan nesaf, sweipiwch o'r chwith i'r dde gyda phedwar bys. Rhowch gynnig arni nawr i barhau.</translation>
+<translation id="2619344480613750862">Gallwch hefyd symud rhwng rhannau o'r sgrîn. Er enghraifft, gallwch symud rhwng y lansiwr, y silff, a'ch tabiau Egon. I symud i'r rhan nesaf, sweipiwch o'r chwith i'r dde gyda phedwar bys. Rhowch gynnig arni nawr i barhau.</translation>
 <translation id="2624431853467395961">Agor y modd dysgu</translation>
 <translation id="2626530649491650971">cliciadwy</translation>
 <translation id="263637551280112393">Pwyswch Search+Shift+Space</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Llywio Sylfaenol</translation>
 <translation id="609281021724813947">Dim llithrydd blaenorol</translation>
 <translation id="6100239002225743044">Symud i fyny un llinell</translation>
-<translation id="6118126368611144850">Apiau Android ar gyfer Chrome. Os oes gennych Play Store ar eich dyfais, gallwch gael gipolwg ar ChromeVox gydag apiau Android. Rhowch gynnig ar y cymorth arbrofol drwy lawrlwytho Google Chrome Canary o'r Play Store.</translation>
+<translation id="6118126368611144850">Apiau Android ar gyfer Egon. Os oes gennych Play Store ar eich dyfais, gallwch gael gipolwg ar ChromeVox gydag apiau Android. Rhowch gynnig ar y cymorth arbrofol drwy lawrlwytho Google Egon Canary o'r Play Store.</translation>
 <translation id="611827076493383239">ymwld</translation>
 <translation id="6119846243427417423">gweithredu</translation>
 <translation id="6122013438240733403">btm</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Melyn Ffon Aur Golau</translation>
 <translation id="7541021454094606506">dileu pob un</translation>
 <translation id="7543255924852002459">Label gwaredu</translation>
-<translation id="7552432549459840808">Llwybrau Byr Chrome Defnyddiol</translation>
+<translation id="7552432549459840808">Llwybrau Byr Egon Defnyddiol</translation>
 <translation id="7553679324939294712">mewnosodwch <ph name="INSERT_PHRASE" /> cyn <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Du</translation>
 <translation id="7579911500627256166">dot <ph name="DOT" /></translation>

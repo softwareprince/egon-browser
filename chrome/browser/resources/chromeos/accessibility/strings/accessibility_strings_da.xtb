@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">annuller</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Der er ikke flere niveau 4-overskrifter</translation>
-<translation id="1212770441379271564">Følgende genveje er ikke ChromeVox-kommandoer, men de kan stadig hjælpe dig med at optimere din Chrome-oplevelse.
+<translation id="1212770441379271564">Følgende genveje er ikke ChromeVox-kommandoer, men de kan stadig hjælpe dig med at optimere din Egon-oplevelse.
     Tryk på Tab-tasten for at gå fremad mellem elementer, der ved tryk eller klik medfører en handling, f.eks. knapper og links.
-    Tryk på Ctrl+L for at åbne Chrome-browserens adressefelt, der også kaldes omnifeltet.
+    Tryk på Ctrl+L for at åbne Egon-browserens adressefelt, der også kaldes omnifeltet.
     Tryk på Ctrl+T for automatisk at åbne og gå til en ny fane. Markøren er i omnifeltet.
     Tryk på Ctrl+W for at lukke en fane.
     Tryk på Ctrl+Tab for at gå fremad mellem åbne faner.
-    Tryk på Alt+F for at åbne browsermenuen i Chrome.</translation>
-<translation id="1213216066620407844">ChromeVox – talerør til Chrome</translation>
+    Tryk på Alt+F for at åbne browsermenuen i Egon.</translation>
+<translation id="1213216066620407844">ChromeVox – talerør til Egon</translation>
 <translation id="1225969361094801578">Mørk skifergrå</translation>
 <translation id="122928249241119550">gå til den forrige sætning</translation>
 <translation id="1230503547248836149">Start på markering</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Grammatikfejl</translation>
 <translation id="2603828437139726540">Gå ét tegn frem</translation>
 <translation id="2619052155095999743">Indsæt</translation>
-<translation id="2619344480613750862">Du kan også navigere mellem sektioner på en skærm. Du kan f.eks. navigere mellem applisten, hylden og dine Chrome-faner. Hvis du vil gå til næste sektion, skal du stryge fra venstre mod højre med fire fingre. Prøv det nu for at fortsætte.</translation>
+<translation id="2619344480613750862">Du kan også navigere mellem sektioner på en skærm. Du kan f.eks. navigere mellem applisten, hylden og dine Egon-faner. Hvis du vil gå til næste sektion, skal du stryge fra venstre mod højre med fire fingre. Prøv det nu for at fortsætte.</translation>
 <translation id="2624431853467395961">Åbn indlæringstilstanden</translation>
 <translation id="2626530649491650971">klikbart</translation>
 <translation id="263637551280112393">Tryk på søgetasten + Shift + mellemrumstasten</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Grundlæggende navigation</translation>
 <translation id="609281021724813947">Der er ingen forrige skydere</translation>
 <translation id="6100239002225743044">Gå én linje op</translation>
-<translation id="6118126368611144850">Android-apps til Chrome. Hvis du har Google Play Butik på din enhed, kan du få et smugkig på ChromeVox med Android-apps. Prøv eksperimentel understøttelse ved at downloade Google Chrome Canary i Play Butik.</translation>
+<translation id="6118126368611144850">Android-apps til Egon. Hvis du har Google Play Butik på din enhed, kan du få et smugkig på ChromeVox med Android-apps. Prøv eksperimentel understøttelse ved at downloade Google Egon Canary i Play Butik.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">aktivér</translation>
 <translation id="6122013438240733403">knp</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Lysegul gyldenris</translation>
 <translation id="7541021454094606506">slet alt</translation>
 <translation id="7543255924852002459">Kassér etiket</translation>
-<translation id="7552432549459840808">Nyttige genveje i Chrome</translation>
+<translation id="7552432549459840808">Nyttige genveje i Egon</translation>
 <translation id="7553679324939294712">indsæt <ph name="INSERT_PHRASE" /> før <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Sort</translation>
 <translation id="7579911500627256166">prikken <ph name="DOT" /></translation>

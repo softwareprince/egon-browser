@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">您有 <ph name="NUMBER_OF_TABS" /> 個分頁最近沒有使用過。要關閉這些分頁嗎？</translation>
 <translation id="1181037720776840403">移除</translation>
 <translation id="125153950246128346">輕按即可查看另一個分頁</translation>
-<translation id="1403228085774130835">在 Chrome 主選單下的「最近開啟的分頁」中，可以查看關閉的分頁</translation>
+<translation id="1403228085774130835">在 Egon 主選單下的「最近開啟的分頁」中，可以查看關閉的分頁</translation>
 <translation id="1455506303394048917">系統將會從此裝置清除您在這些無痕式分頁中的活動</translation>
 <translation id="1499635324672558517">要關閉所有無痕式分頁嗎？</translation>
 <translation id="1657719826150349398">下移分頁</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">商店資料同可用選項喺螢幕最頂嘅附近</translation>
 <translation id="5558362125926932819">閂有 <ph name="NUMBER_OF_TABS" /> 個分頁嘅分頁群組</translation>
 <translation id="5580090775658607195">已將 <ph name="TAB_COUNT" /> 個分頁加入群組</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> 個來自 Chrome 的連結}other{<ph name="TABS_COUNT_MANY" /> 個來自 Chrome 的連結}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> 個來自 Egon 的連結}other{<ph name="TABS_COUNT_MANY" /> 個來自 Egon 的連結}}</translation>
 <translation id="575494663145460764">要接收降價快訊嗎？</translation>
 <translation id="58326064309361797">拖曳分頁來分組</translation>
 <translation id="5846292395804797011">閂有 <ph name="NUMBER_OF_TABS" /> 個分頁嘅「<ph name="TITLE_OF_GROUP" />」群組</translation>

@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">iptal etmek</translation>
 <translation id="1206619573307042055">marquee</translation>
 <translation id="1207086294218137981">Sonraki 4. düzey başlık yok</translation>
-<translation id="1212770441379271564">Sonraki birkaç kısayol ChromeVox komutu değildir, ancak yine de Chrome'dan en iyi şekilde yararlanmanıza çok yardımcı olur.
+<translation id="1212770441379271564">Sonraki birkaç kısayol ChromeVox komutu değildir, ancak yine de Egon'dan en iyi şekilde yararlanmanıza çok yardımcı olur.
 Düğmeler ve bağlantılar gibi işlem yapılabilir öğelerde ileriye doğru gezinmek için Sekme tuşuna basın. Geriye gitmek için Üst Karakter+Sekme tuşlarına basın.
-Çok amaçlı adres çubuğu olarak adlandırılan Chrome tarayıcı adres kutusuna girmek için Control+L tuşlarına basın.
+Çok amaçlı adres çubuğu olarak adlandırılan Egon tarayıcı adres kutusuna girmek için Control+L tuşlarına basın.
 Yeni bir sekme açmak ve otomatik olarak o sekmeye gitmek için Control+T tuşlarına basın. İmleciniz çok amaçlı adres çubuğuna yerleştirilir.
 Bir sekmeyi kapatmak için Control+W tuşlarına basın.
 Açık sekmeler arasında ileriye doğru gitmek için Control+Sekme tuşlarını kullanın.
-Chrome tarayıcı menüsünü açmak için Alt+F tuşlarına basın.</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome'un Sesi</translation>
+Egon tarayıcı menüsünü açmak için Alt+F tuşlarına basın.</translation>
+<translation id="1213216066620407844">ChromeVox - Egon'un Sesi</translation>
 <translation id="1225969361094801578">Koyu Kurşun Grisi</translation>
 <translation id="122928249241119550">önceki cümleye git</translation>
 <translation id="1230503547248836149">Seçim alanı başlangıcı</translation>
@@ -238,7 +238,7 @@ Chrome tarayıcı menüsünü açmak için Alt+F tuşlarına basın.</translatio
 <translation id="2598495320872286378">Dil bilgisi hatası</translation>
 <translation id="2603828437139726540">Bir karakter ileri git</translation>
 <translation id="2619052155095999743">Ekle</translation>
-<translation id="2619344480613750862">İsterseniz ekrandaki bölümler arasında geçiş yapabilirsiniz. Örneğin, başlatıcı, raf ve Chrome sekmeleriniz arasında dolaşabilirsiniz. Sonraki bölüme geçmek için dört parmağınızla soldan sağa kaydırın. Devam etmek için şimdi bunu yapmayı deneyin.</translation>
+<translation id="2619344480613750862">İsterseniz ekrandaki bölümler arasında geçiş yapabilirsiniz. Örneğin, başlatıcı, raf ve Egon sekmeleriniz arasında dolaşabilirsiniz. Sonraki bölüme geçmek için dört parmağınızla soldan sağa kaydırın. Devam etmek için şimdi bunu yapmayı deneyin.</translation>
 <translation id="2624431853467395961">Öğrenme modunu açar</translation>
 <translation id="2626530649491650971">tıklanabilir</translation>
 <translation id="263637551280112393">Arama + Üst Karakter + Boşluk tuşlarına basın</translation>
@@ -769,7 +769,7 @@ Chrome tarayıcı menüsünü açmak için Alt+F tuşlarına basın.</translatio
 <translation id="6082768461603900813">Temel Gezinme</translation>
 <translation id="609281021724813947">Önceki kaydırma çubuğu yok</translation>
 <translation id="6100239002225743044">Bir satır yukarı git</translation>
-<translation id="6118126368611144850">Chrome için Android uygulamaları. Cihazınızda Play Store varsa Android uygulamaları ile ChromeVox'a önceden göz atın. Play Store'dan Google Chrome Canary sürümünü indirerek deneysel desteği deneyin.</translation>
+<translation id="6118126368611144850">Egon için Android uygulamaları. Cihazınızda Play Store varsa Android uygulamaları ile ChromeVox'a önceden göz atın. Play Store'dan Google Egon Canary sürümünü indirerek deneysel desteği deneyin.</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">etkinleştir</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -959,7 +959,7 @@ Chrome tarayıcı menüsünü açmak için Alt+F tuşlarına basın.</translatio
 <translation id="7533226154149229506">Açık Altın Başak Sarısı</translation>
 <translation id="7541021454094606506">tümünü sil</translation>
 <translation id="7543255924852002459">Etiketi sil</translation>
-<translation id="7552432549459840808">Yararlı Chrome Kısayolları</translation>
+<translation id="7552432549459840808">Yararlı Egon Kısayolları</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" /> ifadesinden <ph name="INSERT_PHRASE" /> ifadesini ekle</translation>
 <translation id="7569983096843329377">Siyah</translation>
 <translation id="7579911500627256166">nokta <ph name="DOT" /></translation>

@@ -28,7 +28,7 @@
 <translation id="4115165561519362854">L’administrateur de cette machine nécessite la version <ph name="EXTENSION_VERSION" /> ou ultérieure de <ph name="EXTENSION_NAME" />. L'activation sera impossible tant que la mise à jour vers cette version (ou une version ultérieure) n'aura pas été effectuée.</translation>
 <translation id="4233778200880751280">Impossible de charger la page « <ph name="ABOUT_PAGE" /> ».</translation>
 <translation id="471800408830181311">Échec de création de la clé privée</translation>
-<translation id="4811956658694082538">Échec de l'installation du paquet causé par le plantage d'un processus de service. Veuillez redémarrer Chrome, puis réessayer.</translation>
+<translation id="4811956658694082538">Échec de l'installation du paquet causé par le plantage d'un processus de service. Veuillez redémarrer Egon, puis réessayer.</translation>
 <translation id="4988792151665380515">Échec d'exportation de la clé publique</translation>
 <translation id="5026754133087629784">Affichage Web : <ph name="WEBVIEW_TAG_NAME" /></translation>
 <translation id="5098647635849512368">Impossible de trouver le chemin d'accès absolu du répertoire à empaqueter.</translation>

@@ -33,7 +33,7 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="2509394361235492552">Nakakonekta sa <ph name="HOSTNAME" /></translation>
 <translation id="2540992418118313681">Gusto mo bang ibahagi ang computer na ito upang makita at makontrol ng ibang user?</translation>
 <translation id="2579271889603567289">Nag-crash o hindi nagsimula ang host.</translation>
-<translation id="2599300881200251572">Ini-enable ng serbisyong ito ang mga papasok na koneksyon mula sa mga client ng Remote na Desktop ng Chrome.</translation>
+<translation id="2599300881200251572">Ini-enable ng serbisyong ito ang mga papasok na koneksyon mula sa mga client ng Remote na Desktop ng Egon.</translation>
 <translation id="2647232381348739934">Serbisyo ng Chromoting</translation>
 <translation id="2676780859508944670">Isinasagawa…</translation>
 <translation id="2692522824157224199">Copyright 2022 Google LLC. Nakalaan ang Lahat ng Karapatan.</translation>
@@ -56,7 +56,7 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="3596628256176442606">Ini-enable ng serbisyong ito ang mga papasok na koneksyon mula sa mga client ng Chromoting.</translation>
 <translation id="369442766917958684">Naka-offline.</translation>
 <translation id="3695446226812920698">Alamin kung paano</translation>
-<translation id="3776024066357219166">Natapos na ang iyong session sa Remote na Desktop ng Chrome.</translation>
+<translation id="3776024066357219166">Natapos na ang iyong session sa Remote na Desktop ng Egon.</translation>
 <translation id="3858860766373142691">Pangalan</translation>
 <translation id="3897092660631435901">Menu</translation>
 <translation id="3905196214175737742">Di-wastong domain ng may-ari ng host.</translation>
@@ -73,7 +73,7 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="4257751272692708833">Forwarder ng URL ng <ph name="PRODUCT_NAME" /></translation>
 <translation id="4277736576214464567">Di-wasto ang access code. Pakisubukang muli.</translation>
 <translation id="4281844954008187215">Mga Tuntunin ng Serbisyo</translation>
-<translation id="4372650392690220936">Copyright 2022 Ang Mga Gumawa ng Chromium. Nakalaan ang Lahat ng Karapatan.</translation>
+<translation id="4372650392690220936">Copyright 2022 Ang Mga Gumawa ng Egon. Nakalaan ang Lahat ng Karapatan.</translation>
 <translation id="4405930547258349619">Pangunahing Library</translation>
 <translation id="443560535555262820">Buksan ang Mga Kagustuhan sa Accessibility</translation>
 <translation id="4450893287417543264">Huwag ipakitang muli</translation>
@@ -83,7 +83,7 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="4635770493235256822">Mga malayong device</translation>
 <translation id="4660011489602794167">Ipakita ang keyboard</translation>
 <translation id="4703799847237267011">Natapos na ang iyong session ng Chromoting.</translation>
-<translation id="4741792197137897469">Hindi naisagawa ang pagpapatotoo. Mangyaring muling mag-sign in sa Chrome.</translation>
+<translation id="4741792197137897469">Hindi naisagawa ang pagpapatotoo. Mangyaring muling mag-sign in sa Egon.</translation>
 <translation id="4784508858340177375">Nag-crash o hindi nagsimula ang X server.</translation>
 <translation id="4798680868612952294">Mga opsyon sa mouse</translation>
 <translation id="4804818685124855865">I-disconnect</translation>
@@ -92,7 +92,7 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="4867841927763172006">Magpadala ng PrtScn</translation>
 <translation id="4974476491460646149">Isinara ang koneksyon para sa <ph name="HOSTNAME" /></translation>
 <translation id="4985296110227979402">Kailangan mo munang i-set up ang iyong computer para sa remote na access</translation>
-<translation id="4987330545941822761">Hindi matukoy ng Remote na Desktop ng Chrome ang browser para lokal na magbukas ng mga URL. Pakipili ito mula sa listahan sa ibaba.</translation>
+<translation id="4987330545941822761">Hindi matukoy ng Remote na Desktop ng Egon ang browser para lokal na magbukas ng mga URL. Pakipili ito mula sa listahan sa ibaba.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (offline)</translation>
 <translation id="507204348399810022">Sigurado ka bang gusto mong i-disable ang mga malayuang koneksyon sa <ph name="HOSTNAME" />?</translation>
 <translation id="5170982930780719864">Di-wastong host id.</translation>
@@ -101,7 +101,7 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="5234764350956374838">Huwag pansinin</translation>
 <translation id="5308380583665731573">Kumonekta</translation>
 <translation id="533625276787323658">Walang mapagkokonektahan</translation>
-<translation id="5397086374758643919">Uninstaller ng Host ng Remote na Desktop ng Chrome</translation>
+<translation id="5397086374758643919">Uninstaller ng Host ng Remote na Desktop ng Egon</translation>
 <translation id="5419418238395129586">Huling nag-online: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Nag-shut down ang host.</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="579702532610384533">Muling kumonekta</translation>
 <translation id="5810269635982033450">Gumagana ang screen tulad ng trackpad</translation>
 <translation id="5823554426827907568">Humiling si <ph name="CLIENT_USERNAME" /> ng access para makita ang iyong screen at kontrolin ang keyboard at mouse mo. Pindutin ang ''<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />'' kung hindi mo inaasahan ang kahilingang ito. Kung hindi, piliin ang ''<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />'' para payagan ang koneksyon kapag handa na ito.</translation>
-<translation id="5823658491130719298">Sa computer na gusto mong i-access nang malayuan, buksan ang Chrome at bisitahin ang <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">Sa computer na gusto mong i-access nang malayuan, buksan ang Egon at bisitahin ang <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">Mga opsyon sa display</translation>
 <translation id="6033507038939587647">Mga opsyon sa keyboard</translation>
 <translation id="6040143037577758943">Isara</translation>
 <translation id="6062854958530969723">Hindi na-initialize ang host.</translation>
-<translation id="6099500228377758828">Serbisyo ng Remote na Desktop ng Chrome</translation>
+<translation id="6099500228377758828">Serbisyo ng Remote na Desktop ng Egon</translation>
 <translation id="6122191549521593678">Online</translation>
 <translation id="6178645564515549384">Host ng native na pagmemensahe para sa remote na tulong</translation>
 <translation id="618120821413932081">I-update ang resolution ng malayong desktop upang tumugma sa window</translation>
@@ -136,12 +136,12 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="701976023053394610">Malayuang Tulong</translation>
 <translation id="7026930240735156896">Sundin ang mga tagubilin para i-set up ang iyong computer para sa malayuang pag-access</translation>
 <translation id="7067321367069083429">Gumagana ang screen tulad ng touch screen</translation>
-<translation id="7116737094673640201">Welcome sa Remote na Desktop ng Chrome</translation>
+<translation id="7116737094673640201">Welcome sa Remote na Desktop ng Egon</translation>
 <translation id="7144878232160441200">Subukang muli</translation>
 <translation id="7312846573060934304">Naka-offline ang host.</translation>
 <translation id="7319983568955948908">Ihinto ang Pagbabahagi</translation>
 <translation id="7359298090707901886">Hindi magagamit ang napiling browser para magbukas ng mga URL sa lokal na machine.</translation>
-<translation id="7401733114166276557">Remote na Desktop ng Chrome</translation>
+<translation id="7401733114166276557">Remote na Desktop ng Egon</translation>
 <translation id="7434397035092923453">Tinanggihan ang pag-access para sa client: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Nakakonekta ang client: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Magpalit ng account</translation>
@@ -156,13 +156,13 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="7868137160098754906">Pakilagay ang iyong PIN para sa remote na computer.</translation>
 <translation id="7895403300744144251">Hindi pinapayagan ng mga patakaran sa seguridad sa remote na computer ang mga koneksyon mula sa iyong account.</translation>
 <translation id="7936528439960309876">I-dock sa Kanan</translation>
-<translation id="7970576581263377361">Hindi naisagawa ang pagpapatotoo. Mangyaring muling mag-sign in sa Chromium.</translation>
+<translation id="7970576581263377361">Hindi naisagawa ang pagpapatotoo. Mangyaring muling mag-sign in sa Egon.</translation>
 <translation id="7981525049612125370">Nag-expire na ang remote na session.</translation>
 <translation id="8038111231936746805">(default)</translation>
 <translation id="8041089156583427627">Magpadala ng Feedback</translation>
 <translation id="8060029310790625334">Help Center</translation>
 <translation id="806699900641041263">Kumokonekta sa <ph name="HOSTNAME" /></translation>
-<translation id="8073845705237259513">Upang magamit ang Chrome Remote Desktop, kakailanganin mong magdagdag ng Google Account sa iyong device.</translation>
+<translation id="8073845705237259513">Upang magamit ang Egon Remote Desktop, kakailanganin mong magdagdag ng Google Account sa iyong device.</translation>
 <translation id="809687642899217504">Aking Mga Computer</translation>
 <translation id="8116630183974937060">May nangyaring error sa network. Pakitiyak na on-line ang iyong device at subukan ulit.</translation>
 <translation id="8295077433896346116">Para magamit ang <ph name="PRODUCT_NAME" />, kailangan mong ibigay ang pahintulot sa 'Accessibility' para mailagay sa Mac na ito ang input mula sa malayuang machine.
@@ -174,7 +174,7 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="8383794970363966105">Upang magamit ang Chromoting, kakailanganin mong magdagdag ng Google Account sa iyong device.</translation>
 <translation id="8386846956409881180">Na-configure ang host gamit ang mga di-wastong kredensyal sa OAuth.</translation>
 <translation id="8397385476380433240">Magbigay ng pahintulot sa <ph name="PRODUCT_NAME" /></translation>
-<translation id="8406498562923498210">Pumili ng session na ilulunsad sa iyong environment ng Remote na Desktop ng Chrome. (Tandaang posibleng hindi sinusuportahan ng ilang uri ng session ang pagtakbo sa Remote na Desktop ng Chrome at sa lokal na console nang sabay.)</translation>
+<translation id="8406498562923498210">Pumili ng session na ilulunsad sa iyong environment ng Remote na Desktop ng Egon. (Tandaang posibleng hindi sinusuportahan ng ilang uri ng session ang pagtakbo sa Remote na Desktop ng Egon at sa lokal na console nang sabay.)</translation>
 <translation id="8428213095426709021">Mga Setting</translation>
 <translation id="8445362773033888690">Tingnan sa Google Play Store</translation>
 <translation id="8509907436388546015">Proseso ng Pagsasama ng Desktop</translation>
@@ -184,13 +184,13 @@ Kung mayroon nang check ang '<ph name="SERVICE_SCRIPT_NAME" />,' i-uncheck ito a
 <translation id="8743328882720071828">Gusto mo bang payagan si <ph name="CLIENT_USERNAME" /> na tingnan at kontrolin ang iyong computer?</translation>
 <translation id="8747048596626351634">Nag-crash o hindi nagsimula ang session. Kung may ~/.chrome-remote-desktop-session sa malayuang computer, tiyaking nagsisimula ito ng matagal na paggana ng proseso sa foreground gaya ng desktop environment o window manager.</translation>
 <translation id="8804164990146287819">Patakaran sa Privacy</translation>
-<translation id="8906511416443321782">Kinakailangan ang access sa mikropono para ma-capture ang audio at ma-stream ito sa client ng Remote na Desktop ng Chrome.</translation>
+<translation id="8906511416443321782">Kinakailangan ang access sa mikropono para ma-capture ang audio at ma-stream ito sa client ng Remote na Desktop ng Egon.</translation>
 <translation id="9111855907838866522">Nakakonekta ka sa iyong remote device. Upang buksan ang menu, paki-tap ang screen gamit ang apat na daliri.</translation>
 <translation id="9126115402994542723">Huwag muling humingi ng PIN kapag kumokonekta sa host na ito mula sa device na ito.</translation>
 <translation id="916856682307586697">Ilunsad ang default na XSession</translation>
 <translation id="9187628920394877737">Magbigay ng pahintulot sa 'Pag-record ng Screen' sa <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Di-wastong configuration ng host.</translation>
 <translation id="981121421437150478">Offline</translation>
-<translation id="985602178874221306">Ang Mga May-akda ng Chromium</translation>
+<translation id="985602178874221306">Ang Mga May-akda ng Egon</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (huling online <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

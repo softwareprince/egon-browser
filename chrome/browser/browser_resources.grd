@@ -67,7 +67,7 @@
       </if>
 
       <if expr="enable_hangout_services_extension">
-        <!-- Hangout Services extension, included in Google Chrome builds only. -->
+        <!-- Hangout Services extension, included in Google Egon builds only. -->
         <include name="IDR_HANGOUT_SERVICES_MANIFEST" file="resources\hangout_services\manifest.json" type="BINDATA" />
       </if>
 
@@ -339,7 +339,7 @@
         <include name="IDR_ARC_POWER_CONTROL_CSS" file="resources\chromeos\arc_power_control\arc_power_control.css" type="BINDATA" />
       </if>
       <if expr="not is_android">
-        <!-- Chrome Cart -->
+        <!-- Egon Cart -->
         <part file="cart/resources/cart_resources.grdp" />
       </if>
       <if expr="not is_android">

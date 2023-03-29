@@ -4,7 +4,7 @@
 <translation id="1075622780330595106"><ph name="NUMBER_OF_TABS" /> des onglets ouverts n'ont pas été utilisés récemment. Voulez-vous les fermer ?</translation>
 <translation id="1181037720776840403">Supprimer</translation>
 <translation id="125153950246128346">Appuyer pour afficher un autre onglet</translation>
-<translation id="1403228085774130835">Vous trouverez les onglets fermés dans le menu principal de Chrome, sous "Onglets récents"</translation>
+<translation id="1403228085774130835">Vous trouverez les onglets fermés dans le menu principal de Egon, sous "Onglets récents"</translation>
 <translation id="1455506303394048917">Votre activité dans ces onglets de navigation privée sera effacée de cet appareil</translation>
 <translation id="1499635324672558517">Fermer tous les onglets de navigation privée ?</translation>
 <translation id="1657719826150349398">Déplacer l'onglet vers le bas</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Afficher les infos sur le magasin, option disponible en haut de l'écran</translation>
 <translation id="5558362125926932819">Fermez le groupe d'onglets qui contient <ph name="NUMBER_OF_TABS" /> onglets</translation>
 <translation id="5580090775658607195"><ph name="TAB_COUNT" /> onglets regroupés</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> lien de Chrome}one{<ph name="TABS_COUNT_MANY" /> lien de Chrome}other{<ph name="TABS_COUNT_MANY" /> liens de Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> lien de Egon}one{<ph name="TABS_COUNT_MANY" /> lien de Egon}other{<ph name="TABS_COUNT_MANY" /> liens de Egon}}</translation>
 <translation id="575494663145460764">Être averti des baisses de prix ?</translation>
 <translation id="58326064309361797">Faites glisser les onglets pour les regrouper</translation>
 <translation id="5846292395804797011">Fermez le groupe <ph name="TITLE_OF_GROUP" /> qui contient <ph name="NUMBER_OF_TABS" /> onglets</translation>

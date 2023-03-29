@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">Имате више картица (<ph name="NUMBER_OF_TABS" />) које нисте користили у скорије време. Желите ли да их затворите?</translation>
 <translation id="1181037720776840403">Уклони</translation>
 <translation id="125153950246128346">Додирните да бисте видели неку другу картицу</translation>
-<translation id="1403228085774130835">Затворене картице можете да пронађете у одељку Недавне картице у главном менију Chrome-а</translation>
+<translation id="1403228085774130835">Затворене картице можете да пронађете у одељку Недавне картице у главном менију Egon-а</translation>
 <translation id="1455506303394048917">Ваше активности на овим картицама без архивирања ће бити обрисане са овог уређаја</translation>
 <translation id="1499635324672558517">Желите да затворите све картице без архивирања?</translation>
 <translation id="1657719826150349398">Преместите картицу надоле</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Прегледајте информације о продавници, опцију која је доступна у врху екрана</translation>
 <translation id="5558362125926932819">Затворите групу од картица: <ph name="NUMBER_OF_TABS" /></translation>
 <translation id="5580090775658607195">Картице су груписане (<ph name="TAB_COUNT" />)</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> линк из Chrome-а}one{<ph name="TABS_COUNT_MANY" /> линк из Chrome-а}few{<ph name="TABS_COUNT_MANY" /> линкa из Chrome-а}other{<ph name="TABS_COUNT_MANY" /> линковa из Chrome-а}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> линк из Egon-а}one{<ph name="TABS_COUNT_MANY" /> линк из Egon-а}few{<ph name="TABS_COUNT_MANY" /> линкa из Egon-а}other{<ph name="TABS_COUNT_MANY" /> линковa из Egon-а}}</translation>
 <translation id="575494663145460764">Желите да добијате обавештења за снижења?</translation>
 <translation id="58326064309361797">Превуците картице да бисте их груписали</translation>
 <translation id="5846292395804797011">Затворите групу <ph name="TITLE_OF_GROUP" /> са картица: <ph name="NUMBER_OF_TABS" /></translation>

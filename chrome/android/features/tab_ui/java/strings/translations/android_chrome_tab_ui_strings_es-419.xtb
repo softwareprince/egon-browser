@@ -4,7 +4,7 @@
 <translation id="1075622780330595106">Últimamente no usaste <ph name="NUMBER_OF_TABS" /> de tus pestañas. ¿Quieres cerrarlas?</translation>
 <translation id="1181037720776840403">Quitar</translation>
 <translation id="125153950246128346">Presiona para ver otra pestaña</translation>
-<translation id="1403228085774130835">Puedes encontrar todas las pestañas cerradas en Pestañas recientes en el menú principal de Chrome</translation>
+<translation id="1403228085774130835">Puedes encontrar todas las pestañas cerradas en Pestañas recientes en el menú principal de Egon</translation>
 <translation id="1455506303394048917">Tu actividad en las pestañas de incógnito se borrará del dispositivo</translation>
 <translation id="1499635324672558517">¿Quieres cerrar todas las pestañas de incógnito?</translation>
 <translation id="1657719826150349398">Mover la pestaña hacia abajo</translation>
@@ -57,7 +57,7 @@
 <translation id="5556417849629758491">Ver información de la tienda (la opción está disponible cerca de la parte superior de la pantalla)</translation>
 <translation id="5558362125926932819">Cerrar el grupo de pestañas, el cual tiene <ph name="NUMBER_OF_TABS" /> pestañas</translation>
 <translation id="5580090775658607195">Se agruparon <ph name="TAB_COUNT" /> pestañas</translation>
-<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> vínculo de Chrome}other{<ph name="TABS_COUNT_MANY" /> vínculos de Chrome}}</translation>
+<translation id="5656738671621697952">{TABS_COUNT,plural, =1{<ph name="TABS_COUNT_ONE" /> vínculo de Egon}other{<ph name="TABS_COUNT_MANY" /> vínculos de Egon}}</translation>
 <translation id="575494663145460764">¿Deseas recibir alertas de descuentos?</translation>
 <translation id="58326064309361797">Arrastra las pestañas para agruparlas</translation>
 <translation id="5846292395804797011">Cerrar el grupo <ph name="TITLE_OF_GROUP" />, el cual tiene <ph name="NUMBER_OF_TABS" /> pestañas</translation>

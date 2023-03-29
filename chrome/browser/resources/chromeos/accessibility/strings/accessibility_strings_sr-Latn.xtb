@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">otkaži</translation>
 <translation id="1206619573307042055">pokretni tekst</translation>
 <translation id="1207086294218137981">Nema sledećeg zaglavlja 4. nivoa</translation>
-<translation id="1212770441379271564">Sledećih par prečica nisu ChromeVox komande, ali su i dalje veoma korisne ako želite da koristite Chrome na najbolji način.
+<translation id="1212770441379271564">Sledećih par prečica nisu ChromeVox komande, ali su i dalje veoma korisne ako želite da koristite Egon na najbolji način.
     Da biste se kretali unapred kroz stavke za određene radnje, poput dugmadi i linkova, pritisnite taster Tab. Da biste se kretali unazad, pritisnite Shift + Tab.
-    Da biste ušli u okvir za adresu Chrome pregledača, koji se zove i omniboks, pritisnite Control + L.
+    Da biste ušli u okvir za adresu Egon pregledača, koji se zove i omniboks, pritisnite Control + L.
     Da biste automatski otvorili novu karticu i otišli na nju, pritisnite Control + T. Kursor će biti u omniboksu.
     Da biste zatvorili karticu, pritisnite Control + W.
     Da biste se kretali unapred po otvorenim karticama, koristite Control + Tab.
-    Da biste otvorili meni Chrome pregledača, pritisnite Alt + F.</translation>
-<translation id="1213216066620407844">ChromeVox – daje glas Chrome-u</translation>
+    Da biste otvorili meni Egon pregledača, pritisnite Alt + F.</translation>
+<translation id="1213216066620407844">ChromeVox – daje glas Egon-u</translation>
 <translation id="1225969361094801578">Tamnosiva</translation>
 <translation id="122928249241119550">premesti u prethodnu rečenicu</translation>
 <translation id="1230503547248836149">Početak izbora</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Gramatička greška</translation>
 <translation id="2603828437139726540">Pomeri unapred za jedan znak</translation>
 <translation id="2619052155095999743">Umetanje</translation>
-<translation id="2619344480613750862">Možete i da se krećete između odeljaka na ekranu. Na primer, možete da se krećete između pokretača, police i Chrome kartica. Da biste prešli na sledeći odeljak, prevucite sleva nadesno pomoću četiri prsta. Isprobajte odmah da biste nastavili.</translation>
+<translation id="2619344480613750862">Možete i da se krećete između odeljaka na ekranu. Na primer, možete da se krećete između pokretača, police i Egon kartica. Da biste prešli na sledeći odeljak, prevucite sleva nadesno pomoću četiri prsta. Isprobajte odmah da biste nastavili.</translation>
 <translation id="2624431853467395961">Otvara režim za učenje</translation>
 <translation id="2626530649491650971">element na koji može da se klikne</translation>
 <translation id="263637551280112393">Pritisnite taster za pretragu + Shift + taster za razmak</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Evidencija</translation>
 <translation id="5628125749885014029">h4</translation>
 <translation id="5632083598315326067">Grafički simbol</translation>
-<translation id="5648939288050772726">Čestitamo! Naučili ste osnove korišćenja ChromeVox-a. Zapamtite da ChromeVox meni sa komandama možete da otvorite u svakom trenutku ako pritisnete taster za pretragu + taster sa tačkom. Da biste saznali još više o ChromeVox-u i Chrome OS-u, pogledajte sledeće članke.
+<translation id="5648939288050772726">Čestitamo! Naučili ste osnove korišćenja ChromeVox-a. Zapamtite da ChromeVox meni sa komandama možete da otvorite u svakom trenutku ako pritisnete taster za pretragu + taster sa tačkom. Da biste saznali još više o ChromeVox-u i Egon OS-u, pogledajte sledeće članke.
     Ako ste završili sa vodičem, koristite ChromeVox da biste došli do dugmeta Zatvori i kliknuli na njega.</translation>
 <translation id="5653397561111110475">Korišćenje funkcija pristupačnosti na Chromebook dodirnom ekranu</translation>
 <translation id="5655682562155942719">Komande za prelazak</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Osnovno kretanje</translation>
 <translation id="609281021724813947">Nema prethodnog klizača</translation>
 <translation id="6100239002225743044">Pomeri nagore za jedan red</translation>
-<translation id="6118126368611144850">Android aplikacije za Chrome. Ako imate Play prodavnicu na uređaju, pogledajte ChromeVox sa Android aplikacijama pre zvaničnog objavljivanja. Isprobajte eksperimentalnu podršku tako što ćete preuzeti Google Chrome Canary iz Play prodavnice.</translation>
+<translation id="6118126368611144850">Android aplikacije za Egon. Ako imate Play prodavnicu na uređaju, pogledajte ChromeVox sa Android aplikacijama pre zvaničnog objavljivanja. Isprobajte eksperimentalnu podršku tako što ćete preuzeti Google Egon Canary iz Play prodavnice.</translation>
 <translation id="611827076493383239">posećeno</translation>
 <translation id="6119846243427417423">aktiviraj</translation>
 <translation id="6122013438240733403">dugme</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Svetla zlatnožuta</translation>
 <translation id="7541021454094606506">izbriši sve</translation>
 <translation id="7543255924852002459">Oznaka dugmeta za odbacivanje</translation>
-<translation id="7552432549459840808">Korisne prečice za Chrome</translation>
+<translation id="7552432549459840808">Korisne prečice za Egon</translation>
 <translation id="7553679324939294712">umetni <ph name="INSERT_PHRASE" /> ispred <ph name="BEFORE_PHRASE" /></translation>
 <translation id="7569983096843329377">Crna</translation>
 <translation id="7579911500627256166">tačka <ph name="DOT" /></translation>

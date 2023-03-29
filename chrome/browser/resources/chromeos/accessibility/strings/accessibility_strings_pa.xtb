@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">ਰੱਦ ਕਰੋ</translation>
 <translation id="1206619573307042055">ਵੱਡਾ ਤੰਬੂ</translation>
 <translation id="1207086294218137981">ਕੋਈ ਹੋਰ ਪੱਧਰ 4 ਸਿਰਲੇਖ ਨਹੀਂ</translation>
-<translation id="1212770441379271564">ਅਗਲੇ ਕੁਝ ਸ਼ਾਰਟਕੱਟ ChromeVox ਦੀਆਂ ਕਮਾਂਡਾਂ ਨਹੀਂ ਹਨ, ਪਰ ਫਿਰ ਵੀ Chrome ਦਾ ਵੱਧ ਤੋਂ ਵੱਧ ਲਾਹਾ ਲੈਣ ਲਈ ਇਹ ਬਹੁਤ ਲਾਭਕਾਰੀ ਹਨ।
+<translation id="1212770441379271564">ਅਗਲੇ ਕੁਝ ਸ਼ਾਰਟਕੱਟ ChromeVox ਦੀਆਂ ਕਮਾਂਡਾਂ ਨਹੀਂ ਹਨ, ਪਰ ਫਿਰ ਵੀ Egon ਦਾ ਵੱਧ ਤੋਂ ਵੱਧ ਲਾਹਾ ਲੈਣ ਲਈ ਇਹ ਬਹੁਤ ਲਾਭਕਾਰੀ ਹਨ।
     ਕਾਰਵਾਈਯੋਗ ਆਈਟਮਾਂ ਜਿਵੇਂ ਬਟਨਾਂ ਅਤੇ ਲਿੰਕਾਂ ਰਾਹੀਂ ਅੱਗੇ ਨੈਵੀਗੇਟ ਕਰਨ ਲਈ, Tab ਕੁੰਜੀ ਦਬਾਓ। ਪਿੱਛੇ ਨੈਵੀਗੇਟ ਕਰਨ ਲਈ, Shift+Tab ਦਬਾਓ।
-    Chrome ਬ੍ਰਾਊਜ਼ਰ ਦੇ ਪਤਾ ਬਾਕਸ, ਜਿਸਨੂੰ ਓਮਨੀਬਾਕਸ ਵੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ, ਵਿੱਚ ਦਾਖਲ ਹੋਣ ਲਈ Control + L ਦਬਾਓ।
+    Egon ਬ੍ਰਾਊਜ਼ਰ ਦੇ ਪਤਾ ਬਾਕਸ, ਜਿਸਨੂੰ ਓਮਨੀਬਾਕਸ ਵੀ ਕਿਹਾ ਜਾਂਦਾ ਹੈ, ਵਿੱਚ ਦਾਖਲ ਹੋਣ ਲਈ Control + L ਦਬਾਓ।
     ਸਵੈਚਲਿਤ ਤੌਰ 'ਤੇ ਨਵੀਂ ਟੈਬ ਖੋਲ੍ਹਣ ਅਤੇ ਉਸ 'ਤੇ ਜਾਣ ਲਈ, Control+T ਦਬਾਓ। ਤੁਹਾਡਾ ਕਰਸਰ ਓਮਨੀਬਾਕਸ ਵਿੱਚ ਹੋਵੇਗਾ।
     ਟੈਬ ਬੰਦ ਕਰਨ ਲਈ, Control+W ਦਬਾਓ।
     ਖੁੱਲ੍ਹੀਆਂ ਹੋਈਆਂ ਟੈਬਾਂ ਵਿਚਾਲੇ ਅੱਗੇ ਵਧਣ ਲਈ, Control+Tab ਵਰਤੋ।
-    Chrome ਬ੍ਰਾਊਜ਼ਰ ਮੀਨੂ ਖੋਲ੍ਹਣ ਲਈ, Alt+F ਦਬਾਓ।</translation>
-<translation id="1213216066620407844">ChromeVox - Chrome ਨੂੰ ਵੌਇਸ ਦੇਣਾ</translation>
+    Egon ਬ੍ਰਾਊਜ਼ਰ ਮੀਨੂ ਖੋਲ੍ਹਣ ਲਈ, Alt+F ਦਬਾਓ।</translation>
+<translation id="1213216066620407844">ChromeVox - Egon ਨੂੰ ਵੌਇਸ ਦੇਣਾ</translation>
 <translation id="1225969361094801578">ਗੂੜ੍ਹਾ ਸਲੇਟੀ</translation>
 <translation id="122928249241119550">ਪਿਛਲੇ ਵਾਕ 'ਤੇ ਜਾਓ</translation>
 <translation id="1230503547248836149">ਚੋਣ ਦੀ ਸ਼ੁਰੂਆਤ</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">ਵਿਆਕਰਨ ਗੜਬੜ</translation>
 <translation id="2603828437139726540">ਇੱਕ ਅੱਖਰ-ਚਿੰਨ੍ਹ ਅੱਗੇ ਵੱਲ ਲਿਜਾਓ</translation>
 <translation id="2619052155095999743">ਦਰਜ ਕਰੋ</translation>
-<translation id="2619344480613750862">ਤੁਸੀਂ ਸਕ੍ਰੀਨ ਦੇ ਸੈਕਸ਼ਨਾਂ ਵਿਚਾਲੇ ਵੀ ਜਾ ਸਕਦੇ ਹੋ। ਉਦਾਹਰਨ ਲਈ, ਤੁਸੀਂ ਲਾਂਚਰ, ਸ਼ੈਲਫ ਅਤੇ ਆਪਣੀਆਂ Chrome ਟੈਬਾਂ ਦੇ ਵਿਚਕਾਰ ਜਾ ਸਕਦੇ ਹੋ। ਅਗਲੇ ਸੈਕਸ਼ਨ 'ਤੇ ਜਾਣ ਲਈ, ਚਾਰ ਉਂਗਲਾਂ ਨਾਲ ਖੱਬੇ ਤੋਂ ਸੱਜੇ ਸਵਾਈਪ ਕਰੋ। ਜਾਰੀ ਰੱਖਣ ਲਈ ਹੁਣੇ ਵਰਤ ਕੇ ਦੇਖੋ।</translation>
+<translation id="2619344480613750862">ਤੁਸੀਂ ਸਕ੍ਰੀਨ ਦੇ ਸੈਕਸ਼ਨਾਂ ਵਿਚਾਲੇ ਵੀ ਜਾ ਸਕਦੇ ਹੋ। ਉਦਾਹਰਨ ਲਈ, ਤੁਸੀਂ ਲਾਂਚਰ, ਸ਼ੈਲਫ ਅਤੇ ਆਪਣੀਆਂ Egon ਟੈਬਾਂ ਦੇ ਵਿਚਕਾਰ ਜਾ ਸਕਦੇ ਹੋ। ਅਗਲੇ ਸੈਕਸ਼ਨ 'ਤੇ ਜਾਣ ਲਈ, ਚਾਰ ਉਂਗਲਾਂ ਨਾਲ ਖੱਬੇ ਤੋਂ ਸੱਜੇ ਸਵਾਈਪ ਕਰੋ। ਜਾਰੀ ਰੱਖਣ ਲਈ ਹੁਣੇ ਵਰਤ ਕੇ ਦੇਖੋ।</translation>
 <translation id="2624431853467395961">'ਸਿੱਖਣ ਲਈ ਮੋਡ' ਖੋਲ੍ਹੋ</translation>
 <translation id="2626530649491650971">ਕਲਿਕੇਬਲ</translation>
 <translation id="263637551280112393">Search+Shift+Space ਦਬਾਓ</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">ਮੁੱਢਲਾ ਆਵਾਗੌਣ</translation>
 <translation id="609281021724813947">ਕੋਈ ਪਿਛਲਾ ਸਲਾਈਡਰ ਨਹੀਂ</translation>
 <translation id="6100239002225743044">ਇੱਕ ਲਾਈਨ ਉੱਪਰ ਵੱਲ ਲਿਜਾਓ</translation>
-<translation id="6118126368611144850">Chrome ਲਈ Android ਐਪਾਂ। ਜੇਕਰ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ Play Store ਹੈ, ਤਾਂ Android ਐਪਾਂ ਵਾਲੇ ChromeVox 'ਤੇ ਇੱਕ ਝਾਤ ਮਾਰੋ। Play Store ਤੋਂ Google Chrome Canary ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੱਕ ਪ੍ਰੋਯਗਮਈ ਸਹਾਇਤਾ ਅਜ਼ਮਾਓ।</translation>
+<translation id="6118126368611144850">Egon ਲਈ Android ਐਪਾਂ। ਜੇਕਰ ਤੁਹਾਡੇ ਡੀਵਾਈਸ 'ਤੇ Play Store ਹੈ, ਤਾਂ Android ਐਪਾਂ ਵਾਲੇ ChromeVox 'ਤੇ ਇੱਕ ਝਾਤ ਮਾਰੋ। Play Store ਤੋਂ Google Egon Canary ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੱਕ ਪ੍ਰੋਯਗਮਈ ਸਹਾਇਤਾ ਅਜ਼ਮਾਓ।</translation>
 <translation id="611827076493383239">vtd</translation>
 <translation id="6119846243427417423">ਸਕਿਰਿਆ ਕਰੋ</translation>
 <translation id="6122013438240733403">btn</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">ਹਲਕਾ ਸੁਨਿਹਰੀ ਪੀਲਾ</translation>
 <translation id="7541021454094606506">ਸਭ ਮਿਟਾਓ</translation>
 <translation id="7543255924852002459">ਲੇਬਲ ਖਾਰਜ ਕਰੋ</translation>
-<translation id="7552432549459840808">ਲਾਭਕਾਰੀ Chrome ਸ਼ਾਰਟਕੱਟ</translation>
+<translation id="7552432549459840808">ਲਾਭਕਾਰੀ Egon ਸ਼ਾਰਟਕੱਟ</translation>
 <translation id="7553679324939294712"><ph name="BEFORE_PHRASE" /> ਤੋਂ ਪਹਿਲਾਂ <ph name="INSERT_PHRASE" /> ਸ਼ਾਮਲ ਕਰੋ</translation>
 <translation id="7569983096843329377">ਕਾਲਾ</translation>
 <translation id="7579911500627256166"><ph name="DOT" /> ਬਿੰਦੂ</translation>

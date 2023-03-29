@@ -36,14 +36,14 @@
 <translation id="1202112913213080585">atcelt</translation>
 <translation id="1206619573307042055">slīdošais teksts</translation>
 <translation id="1207086294218137981">Nav nākamā 4. līmeņa virsraksta.</translation>
-<translation id="1212770441379271564">Daži nākamie īsinājumtaustiņi nav ChromeVox komandas, taču tie ir ļoti noderīgi efektīvai Chrome izmantošanai.
+<translation id="1212770441379271564">Daži nākamie īsinājumtaustiņi nav ChromeVox komandas, taču tie ir ļoti noderīgi efektīvai Egon izmantošanai.
     Lai pārietu uz priekšu pa izmantojamajiem vienumiem, piemēram, pogām un saitēm, nospiediet tabulēšanas taustiņu. Lai pārietu atpakaļ, vienlaikus nospiediet pārslēgšanas un tabulēšanas taustiņu.
-    Lai ievadītu tekstu pārlūkprogrammas Chrome adreses joslā, kas tiek saukta arī par universālo lodziņu, vienlaikus nospiediet vadības taustiņu un taustiņu L.
+    Lai ievadītu tekstu pārlūkprogrammas Egon adreses joslā, kas tiek saukta arī par universālo lodziņu, vienlaikus nospiediet vadības taustiņu un taustiņu L.
     Lai atvērtu jaunu cilni un automātiski pārietu uz to, vienlaikus nospiediet vadības taustiņu un taustiņu T. Kursors atradīsies universālajā lodziņā.
     Lai aizvērtu cilni, vienlaikus nospiediet vadības taustiņu un taustiņu W.
     Lai pārvietotos uz priekšu pa atvērtām cilnēm, vienlaikus nospiediet vadības un tabulēšanas taustiņu.
-    Lai atvērtu Chrome pārlūkprogrammas izvēlni, vienlaikus nospiediet alternēšanas taustiņu un taustiņu F.</translation>
-<translation id="1213216066620407844">ChromeVox — balss piešķiršana pārlūkam Chrome</translation>
+    Lai atvērtu Egon pārlūkprogrammas izvēlni, vienlaikus nospiediet alternēšanas taustiņu un taustiņu F.</translation>
+<translation id="1213216066620407844">ChromeVox — balss piešķiršana pārlūkam Egon</translation>
 <translation id="1225969361094801578">Tumši zilganpelēka</translation>
 <translation id="122928249241119550">pāriet uz iepriekšējo teikumu</translation>
 <translation id="1230503547248836149">Atlases sākums</translation>
@@ -238,7 +238,7 @@
 <translation id="2598495320872286378">Gramatikas kļūda</translation>
 <translation id="2603828437139726540">Pārvietot uz priekšu par vienu rakstzīmi</translation>
 <translation id="2619052155095999743">Ievietot</translation>
-<translation id="2619344480613750862">Varat arī pārvietoties pa ekrāna apgabaliem. Piemēram, varat pāriet no palaidēja uz plauktu vai Chrome cilnēm. Lai pārietu uz nākamo apgabalu, ar četriem pirkstiem velciet no kreisās puses uz labo. Izmēģiniet to tūlīt, lai turpinātu.</translation>
+<translation id="2619344480613750862">Varat arī pārvietoties pa ekrāna apgabaliem. Piemēram, varat pāriet no palaidēja uz plauktu vai Egon cilnēm. Lai pārietu uz nākamo apgabalu, ar četriem pirkstiem velciet no kreisās puses uz labo. Izmēģiniet to tūlīt, lai turpinātu.</translation>
 <translation id="2624431853467395961">Atvērt mācību režīmu</translation>
 <translation id="2626530649491650971">klikšķināms</translation>
 <translation id="263637551280112393">Vienlaikus nospiediet meklēšanas taustiņu, pārslēgšanas taustiņu un atstarpes taustiņu</translation>
@@ -699,7 +699,7 @@
 <translation id="5623842676595125836">Žurnāls</translation>
 <translation id="5628125749885014029">4. līmeņa virsraksts</translation>
 <translation id="5632083598315326067">Grafiskais simbols</translation>
-<translation id="5648939288050772726">Apsveicam! Esat veiksmīgi apguvis ChromeVox lietošanas pamatus. Jebkurā brīdī varat atvērt ChromeVox komandu izvēlni, vienlaikus nospiežot meklēšanas taustiņu un punkta taustiņu. Papildu informāciju par ChromeVox un Chrome OS skatiet tālāk norādītajos rakstos.
+<translation id="5648939288050772726">Apsveicam! Esat veiksmīgi apguvis ChromeVox lietošanas pamatus. Jebkurā brīdī varat atvērt ChromeVox komandu izvēlni, vienlaikus nospiežot meklēšanas taustiņu un punkta taustiņu. Papildu informāciju par ChromeVox un Egon OS skatiet tālāk norādītajos rakstos.
     Ja esat beidzis darbu ar pamācību, izmantojiet ChromeVox, lai pārietu uz aizvēršanas pogu un noklikšķinātu uz tās.</translation>
 <translation id="5653397561111110475">Chromebook skārienekrāna pieejamības funkciju izmantošana</translation>
 <translation id="5655682562155942719">Pārejas komandas</translation>
@@ -769,7 +769,7 @@
 <translation id="6082768461603900813">Navigācijas pamatiespējas</translation>
 <translation id="609281021724813947">Nav iepriekšējā slīdņa.</translation>
 <translation id="6100239002225743044">Pārvietot par vienu rindiņu augstāk</translation>
-<translation id="6118126368611144850">Android lietotnes pārlūkam Chrome. Ja jūsu ierīcē ir pieejams Play veikals, izmēģiniet ChromeVox darbību ar Android lietotnēm. Izmēģiniet eksperimentālo atbalstu, lejupielādējot Google Chrome Canary no Play veikala.</translation>
+<translation id="6118126368611144850">Android lietotnes pārlūkam Egon. Ja jūsu ierīcē ir pieejams Play veikals, izmēģiniet ChromeVox darbību ar Android lietotnēm. Izmēģiniet eksperimentālo atbalstu, lejupielādējot Google Egon Canary no Play veikala.</translation>
 <translation id="611827076493383239">apmeklēta</translation>
 <translation id="6119846243427417423">aktivizt</translation>
 <translation id="6122013438240733403">poga</translation>
@@ -960,7 +960,7 @@
 <translation id="7533226154149229506">Gaiši zeltgalvīšu dzeltena</translation>
 <translation id="7541021454094606506">dzēst visu</translation>
 <translation id="7543255924852002459">Atmest iezīmi</translation>
-<translation id="7552432549459840808">Noderīgi Chrome īsinājumtaustiņi</translation>
+<translation id="7552432549459840808">Noderīgi Egon īsinājumtaustiņi</translation>
 <translation id="7553679324939294712">ievietot “<ph name="INSERT_PHRASE" />” pirms “<ph name="BEFORE_PHRASE" />”</translation>
 <translation id="7569983096843329377">Melna</translation>
 <translation id="7579911500627256166">punkts <ph name="DOT" /></translation>

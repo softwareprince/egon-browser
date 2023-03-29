@@ -33,7 +33,7 @@ Hvis det allerede er merket av for «<ph name="SERVICE_SCRIPT_NAME" />», fjerne
 <translation id="2509394361235492552">Koblet til <ph name="HOSTNAME" /></translation>
 <translation id="2540992418118313681">Har du lyst til å dele denne datamaskinen slik at en annen bruker kan se og kontrollere den?</translation>
 <translation id="2579271889603567289">Verten krasjet eller kunne ikke starte.</translation>
-<translation id="2599300881200251572">Med denne tjenesten kan du motta innkommende tilkoblinger fra Chrome Eksternt skrivebord-klienter.</translation>
+<translation id="2599300881200251572">Med denne tjenesten kan du motta innkommende tilkoblinger fra Egon Eksternt skrivebord-klienter.</translation>
 <translation id="2647232381348739934">Chromoting-tjeneste</translation>
 <translation id="2676780859508944670">Behandler …</translation>
 <translation id="2692522824157224199">Copyright 2022 Google LLC. Med enerett.</translation>
@@ -56,7 +56,7 @@ Hvis det allerede er merket av for «<ph name="SERVICE_SCRIPT_NAME" />», fjerne
 <translation id="3596628256176442606">Med denne tjenesten kan du motta innkommende tilkoblinger fra Chromoting-klienter.</translation>
 <translation id="369442766917958684">Utenfor nettet.</translation>
 <translation id="3695446226812920698">Sånn gjør du det</translation>
-<translation id="3776024066357219166">Chrome Eksternt skrivebord-økten din er avsluttet.</translation>
+<translation id="3776024066357219166">Egon Eksternt skrivebord-økten din er avsluttet.</translation>
 <translation id="3858860766373142691">Navn</translation>
 <translation id="3897092660631435901">Meny</translation>
 <translation id="3905196214175737742">Ugyldig domene for vertseieren.</translation>
@@ -73,7 +73,7 @@ Hvis det allerede er merket av for «<ph name="SERVICE_SCRIPT_NAME" />», fjerne
 <translation id="4257751272692708833">Program for viderekobling av nettadresser fra <ph name="PRODUCT_NAME" /></translation>
 <translation id="4277736576214464567">Tilgangskoden er ugyldig. Prøv på nytt.</translation>
 <translation id="4281844954008187215">Vilkår for bruk</translation>
-<translation id="4372650392690220936">Copyright 2022 The Chromium Authors. Med enerett.</translation>
+<translation id="4372650392690220936">Copyright 2022 The Egon Authors. Med enerett.</translation>
 <translation id="4405930547258349619">Core-bibliotek</translation>
 <translation id="443560535555262820">Åpne innstillinger for tilgjengelighet</translation>
 <translation id="4450893287417543264">Ikke vis igjen</translation>
@@ -83,7 +83,7 @@ Hvis det allerede er merket av for «<ph name="SERVICE_SCRIPT_NAME" />», fjerne
 <translation id="4635770493235256822">Eksterne enheter</translation>
 <translation id="4660011489602794167">Vis tastatur</translation>
 <translation id="4703799847237267011">Chromoting-økten er avsluttet.</translation>
-<translation id="4741792197137897469">Autentiseringen mislyktes. Logg på Chrome på nytt.</translation>
+<translation id="4741792197137897469">Autentiseringen mislyktes. Logg på Egon på nytt.</translation>
 <translation id="4784508858340177375">X-tjeneren krasjet eller kunne ikke starte.</translation>
 <translation id="4798680868612952294">Alternativer for mus</translation>
 <translation id="4804818685124855865">Koble fra</translation>
@@ -92,7 +92,7 @@ Hvis det allerede er merket av for «<ph name="SERVICE_SCRIPT_NAME" />», fjerne
 <translation id="4867841927763172006">Send PrtScn</translation>
 <translation id="4974476491460646149">Koblet fra <ph name="HOSTNAME" /></translation>
 <translation id="4985296110227979402">Du må først konfigurere en datamaskin for ekstern tilgang.</translation>
-<translation id="4987330545941822761">Chrome Eksternt skrivebord kan ikke fastslå hvilken nettleser som skal brukes til å åpne nettadresser lokalt. Velg den på listen under.</translation>
+<translation id="4987330545941822761">Egon Eksternt skrivebord kan ikke fastslå hvilken nettleser som skal brukes til å åpne nettadresser lokalt. Velg den på listen under.</translation>
 <translation id="5064360042339518108"><ph name="HOSTNAME" /> (ikke på nett)</translation>
 <translation id="507204348399810022">Er du sikker på at du vil deaktivere eksterne forbindelser til <ph name="HOSTNAME" />?</translation>
 <translation id="5170982930780719864">Ugyldig verts-ID.</translation>
@@ -101,7 +101,7 @@ Hvis det allerede er merket av for «<ph name="SERVICE_SCRIPT_NAME" />», fjerne
 <translation id="5234764350956374838">Lukk</translation>
 <translation id="5308380583665731573">Koble til</translation>
 <translation id="533625276787323658">Det finnes ingenting å koble til</translation>
-<translation id="5397086374758643919">Avinstalleringsprogram for Chrome Eksternt skrivebord-vert</translation>
+<translation id="5397086374758643919">Avinstalleringsprogram for Egon Eksternt skrivebord-vert</translation>
 <translation id="5419418238395129586">Sist på nett: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Verten har slått seg av.</translation>
 <translation id="5601503069213153581">PIN</translation>
@@ -111,12 +111,12 @@ Hvis det allerede er merket av for «<ph name="SERVICE_SCRIPT_NAME" />», fjerne
 <translation id="579702532610384533">Koble til på nytt</translation>
 <translation id="5810269635982033450">Skjermen fungerer som en styreflate</translation>
 <translation id="5823554426827907568"><ph name="CLIENT_USERNAME" /> har bedt om tilgang til å se skjermen din og styre tastaturet og musen. Trykk på «<ph name="IDS_SHARE_CONFIRM_DIALOG_DECLINE" />» hvis du ikke forventet å få denne forespørselen. Ellers velger du «<ph name="IDS_SHARE_CONFIRM_DIALOG_CONFIRM" />» for å tillate tilkoblingen når du er klar.</translation>
-<translation id="5823658491130719298">Åpne Chrome på datamaskinen du vil ha ekstern tilgang til, og gå til <ph name="INSTALLATION_LINK" /></translation>
+<translation id="5823658491130719298">Åpne Egon på datamaskinen du vil ha ekstern tilgang til, og gå til <ph name="INSTALLATION_LINK" /></translation>
 <translation id="5841343754884244200">Visningsalternativer</translation>
 <translation id="6033507038939587647">Tastaturalternativer</translation>
 <translation id="6040143037577758943">Lukk</translation>
 <translation id="6062854958530969723">Vertsinitialiseringen mislyktes.</translation>
-<translation id="6099500228377758828">Chrome Eksternt skrivebord-tjeneste</translation>
+<translation id="6099500228377758828">Egon Eksternt skrivebord-tjeneste</translation>
 <translation id="6122191549521593678">Pålogget</translation>
 <translation id="6178645564515549384">Innebygd meldingsvert for ekstern hjelp</translation>
 <translation id="618120821413932081">Oppdater oppløsningen på det eksterne skrivebordet, så den samsvarer med vinduet</translation>
@@ -136,12 +136,12 @@ Hvis det allerede er merket av for «<ph name="SERVICE_SCRIPT_NAME" />», fjerne
 <translation id="701976023053394610">Fjernhjelp</translation>
 <translation id="7026930240735156896">Følg instruksjonene for å konfigurere datamaskinen din for ekstern tilgang.</translation>
 <translation id="7067321367069083429">Skjermen fungerer som en berøringsskjerm</translation>
-<translation id="7116737094673640201">Velkommen til Chrome Eksternt skrivebord</translation>
+<translation id="7116737094673640201">Velkommen til Egon Eksternt skrivebord</translation>
 <translation id="7144878232160441200">Prøv på nytt</translation>
 <translation id="7312846573060934304">Verten er uten nett.</translation>
 <translation id="7319983568955948908">Stopp deling</translation>
 <translation id="7359298090707901886">Den valgte nettleseren kan ikke brukes til å åpne nettadresser på den lokale maskinen.</translation>
-<translation id="7401733114166276557">Chrome Eksternt skrivebord</translation>
+<translation id="7401733114166276557">Egon Eksternt skrivebord</translation>
 <translation id="7434397035092923453">Klienten ble nektet tilgang: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7444276978508498879">Klienten ble tilknyttet: <ph name="CLIENT_USERNAME" />.</translation>
 <translation id="7526139040829362392">Velg en annen konto</translation>
@@ -156,13 +156,13 @@ Hvis det allerede er merket av for «<ph name="SERVICE_SCRIPT_NAME" />», fjerne
 <translation id="7868137160098754906">Skriv inn PIN-koden for den eksterne datamaskinen.</translation>
 <translation id="7895403300744144251">Sikkerhetsinnstillingene på den eksterne datamaskinen tillater ikke tilkoblinger fra kontoen din.</translation>
 <translation id="7936528439960309876">Fest til høyre</translation>
-<translation id="7970576581263377361">Autentiseringen mislyktes. Logg på Chromium på nytt.</translation>
+<translation id="7970576581263377361">Autentiseringen mislyktes. Logg på Egon på nytt.</translation>
 <translation id="7981525049612125370">Den eksterne økten er utløpt.</translation>
 <translation id="8038111231936746805">(standard)</translation>
 <translation id="8041089156583427627">Send tilbakemelding</translation>
 <translation id="8060029310790625334">Brukerstøtte</translation>
 <translation id="806699900641041263">Kobler til <ph name="HOSTNAME" /></translation>
-<translation id="8073845705237259513">Hvis du vil bruke Chrome Eksternt skrivebord, må du legge til en Google-konto på enheten din.</translation>
+<translation id="8073845705237259513">Hvis du vil bruke Egon Eksternt skrivebord, må du legge til en Google-konto på enheten din.</translation>
 <translation id="809687642899217504">Mine datamaskiner</translation>
 <translation id="8116630183974937060">Det oppsto en nettverksfeil. Kontroller at enheten er tilkoblet nettet, og prøv på nytt.</translation>
 <translation id="8295077433896346116">For å bruke <ph name="PRODUCT_NAME" /> må du innvilge «Tilgjengelighet»-tillatelsen, slik at inndata fra den eksterne maskinen kan sendes til denne Macen.
@@ -174,7 +174,7 @@ Hvis det allerede er merket av for «<ph name="SERVICE_SCRIPT_NAME" />», fjerne
 <translation id="8383794970363966105">Hvis du vil bruke Chromoting, må du legge til en Google-konto på enheten din.</translation>
 <translation id="8386846956409881180">Verten er konfigurert med ugyldig OAuth-legitimasjon.</translation>
 <translation id="8397385476380433240">Gi tillatelse til <ph name="PRODUCT_NAME" /></translation>
-<translation id="8406498562923498210">Velg økten du vil starte i Chrome Eksternt skrivebord-miljøet ditt. (Merk at enkelte økttyper kanskje ikke støtter samtidig kjøring på Chrome Eksternt skrivebord og på den lokale konsollen.)</translation>
+<translation id="8406498562923498210">Velg økten du vil starte i Egon Eksternt skrivebord-miljøet ditt. (Merk at enkelte økttyper kanskje ikke støtter samtidig kjøring på Egon Eksternt skrivebord og på den lokale konsollen.)</translation>
 <translation id="8428213095426709021">Innstillinger</translation>
 <translation id="8445362773033888690">Se oppføringen i Google Play-butikken</translation>
 <translation id="8509907436388546015">Integrasjonsprosess for skrivebord</translation>
@@ -184,13 +184,13 @@ Hvis det allerede er merket av for «<ph name="SERVICE_SCRIPT_NAME" />», fjerne
 <translation id="8743328882720071828">Vil du tillate at <ph name="CLIENT_USERNAME" /> kan se og kontrollere datamaskinen din?</translation>
 <translation id="8747048596626351634">Økten krasjet eller kunne ikke starte. Hvis ~/.chrome-remote-desktop-session eksisterer på den eksterne datamaskinen, må du sørge for at den starter en prosess i forgrunnen som kjører lenge – for eksempel et skrivebordsmiljø eller en vindusbehandler.</translation>
 <translation id="8804164990146287819">Personvernregler</translation>
-<translation id="8906511416443321782">Mikrofontilgang kreves for å ta opp lyd og strømme den til Chrome Eksternt skrivebord-klienten.</translation>
+<translation id="8906511416443321782">Mikrofontilgang kreves for å ta opp lyd og strømme den til Egon Eksternt skrivebord-klienten.</translation>
 <translation id="9111855907838866522">Du er koblet til den eksterne enheten. For å åpne menyen, trykk på skjermen med fire fingre.</translation>
 <translation id="9126115402994542723">Ikke be om PIN-kode igjen når du kobler til denne verten fra denne enheten.</translation>
 <translation id="916856682307586697">Start standard XSession</translation>
 <translation id="9187628920394877737">Gi «Skjermopptak»-tillatelsen til <ph name="PRODUCT_NAME" /></translation>
 <translation id="9213184081240281106">Ugyldig vertskonfigurasjon.</translation>
 <translation id="981121421437150478">Uten nett</translation>
-<translation id="985602178874221306">The Chromium Authors</translation>
+<translation id="985602178874221306">The Egon Authors</translation>
 <translation id="992215271654996353"><ph name="HOSTNAME" /> (sist på nettet <ph name="DATE_OR_TIME" />)</translation>
 </translationbundle>

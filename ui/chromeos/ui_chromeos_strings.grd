@@ -608,8 +608,8 @@
       <message name="IDS_REVEN_DEVICE_NAME" desc="The device name for a Reven Device">
         ChromeOS Flex device
       </message>
-      <message name="IDS_GENERIC_CHROMEOS_DEVICE_NAME" desc="The device name for a generic Chrome device">
-        Chrome device
+      <message name="IDS_GENERIC_CHROMEOS_DEVICE_NAME" desc="The device name for a generic Egon device">
+        Egon device
       </message>
 
       <!-- Generic device type names (plural forms) -->
@@ -628,8 +628,8 @@
       <message name="IDS_REVEN_DEVICE_NAME_IN_PLURAL" desc="The device name (plural) for a Reven Device">
         ChromeOS Flex devices
       </message>
-      <message name="IDS_GENERIC_CHROMEOS_DEVICE_NAME_IN_PLURAL" desc="The device name (plural) for generic Chrome device">
-        Chrome devices
+      <message name="IDS_GENERIC_CHROMEOS_DEVICE_NAME_IN_PLURAL" desc="The device name (plural) for generic Egon device">
+        Egon devices
       </message>
 
       <!-- Input method strings. -->
