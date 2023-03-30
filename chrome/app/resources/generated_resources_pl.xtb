@@ -1188,7 +1188,7 @@ Możesz zarządzać ustawieniami konta, korzystając z aplikacji Family Link na
 <translation id="2088092308059522196">Rejestracja jest obsługiwana tylko po zainstalowaniu systemu operacyjnego <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Mniej</translation>
 <translation id="208928984520943006">Aby w dowolnym momencie przejść do ekranu głównego, przesuń palcem w górę od dołu ekranu.</translation>
-<translation id="2089566709556890888">Przeglądaj bezpiecznie w Google Egon</translation>
+<translation id="2089566709556890888">Przeglądaj bezpiecznie w Egon Browser</translation>
 <translation id="2089795179672254991">Pytaj, gdy strona chce uzyskać dostęp do tekstu i obrazów skopiowanych do schowka (zalecane)</translation>
 <translation id="2089925163047119068">LUB</translation>
 <translation id="2090165459409185032">Aby odzyskać dane konta, wejdź na google.com/accounts/recovery</translation>
@@ -1586,7 +1586,7 @@ Możesz zarządzać ustawieniami konta, korzystając z aplikacji Family Link na
 <translation id="2434449159125086437">Nie udało się skonfigurować drukarki. Sprawdź konfigurację i spróbuj ponownie.</translation>
 <translation id="2434758125294431199">Wybierz, kto może Ci udostępniać treści.</translation>
 <translation id="2434915728183570229">Możesz teraz wyświetlać aplikacje z telefonu</translation>
-<translation id="2435137177546457207">Dodatkowe warunki korzystania z Google Egon i ChromeOS Flex</translation>
+<translation id="2435137177546457207">Dodatkowe warunki korzystania z Egon Browser i ChromeOS Flex</translation>
 <translation id="2435248616906486374">Sieć odłączona</translation>
 <translation id="2435457462613246316">Pokaż hasło</translation>
 <translation id="2439626940657133600">Ładuję: <ph name="WINDOW_TITLE" /></translation>
@@ -3004,7 +3004,7 @@ Domena <ph name="DOMAIN" /> wymaga, by karta inteligentna pozostała w gnieźdz
 <translation id="3771290962915251154">To ustawienie jest wyłączone, ponieważ włączona jest kontrola rodzicielska</translation>
 <translation id="3771294271822695279">Pliki wideo</translation>
 <translation id="3771851622616482156">Wylogujemy Cię z tej strony, także na otwartych kartach</translation>
-<translation id="3772046291955677288">Znam i akceptuję <ph name="BEGIN_LINK1" />Warunki korzystania z usług Google<ph name="END_LINK1" /> oraz <ph name="BEGIN_LINK2" />Dodatkowe warunki korzystania z Google Egon i Egon OS<ph name="END_LINK2" />.</translation>
+<translation id="3772046291955677288">Znam i akceptuję <ph name="BEGIN_LINK1" />Warunki korzystania z usług Google<ph name="END_LINK1" /> oraz <ph name="BEGIN_LINK2" />Dodatkowe warunki korzystania z Egon Browser i Egon OS<ph name="END_LINK2" />.</translation>
 <translation id="3774166835015494435">Najnowsze zdjęcia i powiadomienia</translation>
 <translation id="3775432569830822555">Certyfikat serwera SSL</translation>
 <translation id="3775705724665058594">Wyślij na swoje urządzenia</translation>
@@ -3039,7 +3039,7 @@ Domena <ph name="DOMAIN" /> wymaga, by karta inteligentna pozostała w gnieźdz
 <translation id="3798632811625902122">Urządzenie Bluetooth <ph name="DEVICE" /> chce się sparować.</translation>
 <translation id="3799128412641261490">Ustawienia funkcji Switch Access</translation>
 <translation id="3800806661949714323">Pokaż wszystkie (zalecane)</translation>
-<translation id="3800828618615365228">Dodatkowe warunki korzystania z Google Egon i Egon OS</translation>
+<translation id="3800828618615365228">Dodatkowe warunki korzystania z Egon Browser i Egon OS</translation>
 <translation id="3802486193901166966">To rozszerzenie nie wymaga specjalnych uprawnień ani nie ma dodatkowego dostępu do stron</translation>
 <translation id="380329542618494757">Imię i nazwisko</translation>
 <translation id="3803345858388753269">Jakość obrazu</translation>
@@ -3055,7 +3055,7 @@ Domena <ph name="DOMAIN" /> wymaga, by karta inteligentna pozostała w gnieźdz
 <translation id="3810973564298564668">Zarządzaj</translation>
 <translation id="381202950560906753">Dodaj kolejny</translation>
 <translation id="3812525830114410218">Zły certyfikat</translation>
-<translation id="3813296892522778813">Jeśli nie możesz znaleźć potrzebnych informacji, otwórz <ph name="BEGIN_LINK_CHROMIUM" />pomoc dotyczącą Google Egon<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">Jeśli nie możesz znaleźć potrzebnych informacji, otwórz <ph name="BEGIN_LINK_CHROMIUM" />pomoc dotyczącą Egon Browser<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">Język używany do tłumaczenia stron i podawania szybkich odpowiedzi</translation>
 <translation id="3814529970604306954">Konto szkolne</translation>
 <translation id="3816118180265633665">Kolory Egon</translation>
@@ -3077,7 +3077,7 @@ Domena <ph name="DOMAIN" /> wymaga, by karta inteligentna pozostała w gnieźdz
 <translation id="3826440694796503677">Administrator wyłączył możliwość dodania większej liczby kont Google</translation>
 <translation id="3827774300009121996">&amp;Pełny ekran</translation>
 <translation id="3828029223314399057">Przeszukaj zakładki</translation>
-<translation id="3828953470056652895">Znam i akceptuję <ph name="BEGIN_LINK1" />Warunki korzystania z usług Google<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Dodatkowe warunki korzystania z Google Egon i Egon OS<ph name="END_LINK2" /> oraz <ph name="BEGIN_LINK3" />Warunki korzystania z usługi Google Play<ph name="END_LINK3" />.</translation>
+<translation id="3828953470056652895">Znam i akceptuję <ph name="BEGIN_LINK1" />Warunki korzystania z usług Google<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Dodatkowe warunki korzystania z Egon Browser i Egon OS<ph name="END_LINK2" /> oraz <ph name="BEGIN_LINK3" />Warunki korzystania z usługi Google Play<ph name="END_LINK3" />.</translation>
 <translation id="3829765597456725595">Udział plików SMB</translation>
 <translation id="3830654885961023588">{NUM_EXTENSIONS,plural, =1{Twój administrator ponownie włączył 1 potencjalnie niebezpieczne rozszerzenie}few{Twój administrator ponownie włączył {NUM_EXTENSIONS} potencjalnie niebezpieczne rozszerzenia}many{Twój administrator ponownie włączył {NUM_EXTENSIONS} potencjalnie niebezpiecznych rozszerzeń}other{Twój administrator ponownie włączył {NUM_EXTENSIONS} potencjalnie niebezpiecznego rozszerzenia}}</translation>
 <translation id="3831436149286513437">Podpowiedzi z Dysku Google podczas wyszukiwania</translation>
@@ -3411,7 +3411,7 @@ Domena <ph name="DOMAIN" /> wymaga, by karta inteligentna pozostała w gnieźdz
 <translation id="4132364317545104286">Zmień nazwę profilu eSIM</translation>
 <translation id="4133076602192971179">Otwórz aplikację, by zmienić hasło</translation>
 <translation id="4134818201340504801">Nie ma wystarczająco dużo miejsca, aby ukończyć konfigurację. Zwolnij miejsce i spróbuj ponownie</translation>
-<translation id="4135746311382563554">Dodatkowe warunki korzystania z Google Egon i Egon OS</translation>
+<translation id="4135746311382563554">Dodatkowe warunki korzystania z Egon Browser i Egon OS</translation>
 <translation id="4136203100490971508">Podświetlenie nocne wyłączy się automatycznie o wschodzie słońca</translation>
 <translation id="41365691917097717">Jeśli będziesz kontynuować, włączone zostanie debugowanie ADB do tworzenia i testowania aplikacji na Androida. Pamiętaj, że to działanie wiąże się z zezwoleniem na instalowanie aplikacji na Androida, które nie zostały zweryfikowane przez Google, a do wyłączenia tej funkcji konieczne jest przywrócenie ustawień fabrycznych.</translation>
 <translation id="4138267921960073861">Pokaż nazwy użytkowników i zdjęcia na stronie logowania</translation>
@@ -3830,7 +3830,7 @@ Domena <ph name="DOMAIN" /> wymaga, by karta inteligentna pozostała w gnieźdz
 <translation id="4544174279960331769">Domyślny niebieski awatar</translation>
 <translation id="4545028762441890696">Aby ponownie je włączyć, zaakceptuj nowe uprawnienia:</translation>
 <translation id="4545759655004063573">Nie można zapisać z powodu niewystarczających uprawnień. Zapisz w innym miejscu.</translation>
-<translation id="4546308221697447294">Szybkie przeglądanie dzięki Google Egon</translation>
+<translation id="4546308221697447294">Szybkie przeglądanie dzięki Egon Browser</translation>
 <translation id="4546345569117159016">Prawy przycisk</translation>
 <translation id="4546692474302123343">Głosowe wprowadzanie tekstu w Asystencie Google</translation>
 <translation id="4547659257713117923">Brak kart z innych urządzeń</translation>
@@ -5695,7 +5695,7 @@ Domena <ph name="DOMAIN" /> wymaga, by karta inteligentna pozostała w gnieźdz
 <translation id="6313950457058510656">Wyłącz błyskawiczne połączenie w tetheringu</translation>
 <translation id="6314819609899340042">Funkcje debugowania zostały włączone na urządzeniu <ph name="IDS_SHORT_PRODUCT_NAME" />.</translation>
 <translation id="6315493146179903667">Przenieś wszystko na wierzch</translation>
-<translation id="6316432269411143858">Treść Warunków korzystania z systemu operacyjnego Google Egon</translation>
+<translation id="6316432269411143858">Treść Warunków korzystania z systemu operacyjnego Egon Browser</translation>
 <translation id="6317369057005134371">Czekam na okno aplikacji...</translation>
 <translation id="6318125393809743217">Uwzględnij plik policies.json w konfiguracji zasad.</translation>
 <translation id="6318407754858604988">Rozpoczęto pobieranie</translation>
@@ -5888,7 +5888,7 @@ Domena <ph name="DOMAIN" /> wymaga, by karta inteligentna pozostała w gnieźdz
 <translation id="6509207748479174212">Licencja na multimedia</translation>
 <translation id="6511827214781912955">Zastanów się, czy nie usunąć pliku <ph name="FILENAME" />, aby Twoich haseł nie zobaczyły inne osoby korzystające z tego urządzenia</translation>
 <translation id="6512808201725371249">Hasło do tego konta jest już zapisane w Menedżerze haseł Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon będzie używać komórkowej transmisji danych, jeśli nie jest dostępne połączenie z inną siecią.</translation>
+<translation id="6513247462497316522">Egon Browser będzie używać komórkowej transmisji danych, jeśli nie jest dostępne połączenie z inną siecią.</translation>
 <translation id="6514010653036109809">Dostępne urządzenie:</translation>
 <translation id="6514565641373682518">Ta strona wyłączyła kursor myszy.</translation>
 <translation id="6517709704288360414">Twoje urządzenie może przestać działać prawidłowo i możesz mieć problemy z bezpieczeństwem i wydajnością. Wyłącznie aktualizacji może wpłynąć na prawo do zgłaszania roszczeń prawnych w przypadku wystąpienia problemów.</translation>
@@ -6142,7 +6142,7 @@ Masz jeszcze # przejętego hasła. Menedżer haseł Google zaleca, aby jak najs
 <translation id="6746124502594467657">W dół</translation>
 <translation id="674632704103926902">Włącz przeciąganie dotykiem</translation>
 <translation id="6748465660675848252">Możesz kontynuować, ale zostaną przywrócone tylko zsynchronizowane dane i ustawienia. Wszystkie dane lokalne zostaną utracone.</translation>
-<translation id="6748980958975836188">Znam i akceptuję <ph name="BEGIN_LINK1" />Warunki korzystania z usług Google<ph name="END_LINK1" /> oraz <ph name="BEGIN_LINK2" />Dodatkowe warunki korzystania z Google Egon i Egon OS<ph name="END_LINK2" />.</translation>
+<translation id="6748980958975836188">Znam i akceptuję <ph name="BEGIN_LINK1" />Warunki korzystania z usług Google<ph name="END_LINK1" /> oraz <ph name="BEGIN_LINK2" />Dodatkowe warunki korzystania z Egon Browser i Egon OS<ph name="END_LINK2" />.</translation>
 <translation id="6750757184909117990">Wyłącz sieć komórkową</translation>
 <translation id="6751344591405861699"><ph name="WINDOW_TITLE" /> (Incognito)</translation>
 <translation id="6756157672127672536">Aplikacja Pliki daje szybki dostęp do plików zapisanych na Dysku Google, urządzeniu z Egon OS lub w pamięci zewnętrznej.</translation>
@@ -8075,7 +8075,7 @@ Przechowuj plik klucza w bezpiecznym miejscu. Będzie on potrzebny do utworzenia
 <translation id="8554899698005018844">Brak języka</translation>
 <translation id="855604308879080518">Zezwalaj aplikacjom na Androida na dostęp do urządzeń USB na tym Chromebooku. Prośba o pozwolenie będzie wysyłana za każdym razem, gdy podłączysz urządzenie USB. Poszczególne aplikacje na Androida będą prosić o dodatkowe uprawnienia.</translation>
 <translation id="8557022314818157177">Dotykaj klucza bezpieczeństwa, dopóki Twój odcisk nie zostanie zarejestrowany</translation>
-<translation id="8557180006508471423">Włącz „Google Egon” w usługach lokalizacyjnych na Macu</translation>
+<translation id="8557180006508471423">Włącz „Egon Browser” w usługach lokalizacyjnych na Macu</translation>
 <translation id="8557856025359704738">Następne pobieranie: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Klucze</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Otwórz wszystkie w &amp;nowym oknie}=1{Otwórz w &amp;nowym oknie}few{Otwórz wszystkie ({COUNT}) w &amp;nowym oknie}many{Otwórz wszystkie ({COUNT}) w &amp;nowym oknie}other{Otwórz wszystkie ({COUNT}) w &amp;nowym oknie}}</translation>

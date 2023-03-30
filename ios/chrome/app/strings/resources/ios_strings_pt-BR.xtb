@@ -32,7 +32,7 @@ Seu mecanismo de pesquisa é o <ph name="DSE_NAME" />. Veja as instruções para
 <translation id="1165039591588034296">Erro</translation>
 <translation id="1172898394251786223">Próximo campo</translation>
 <translation id="1176932207622159128">Impossível salvar imagem</translation>
-<translation id="1177414119866731261">Abra o menu do Google Egon</translation>
+<translation id="1177414119866731261">Abra o menu do Egon Browser</translation>
 <translation id="1181037720776840403">Remover</translation>
 <translation id="1207113853726624428">Nova pesquisa</translation>
 <translation id="1209206284964581585">Ocultar por enquanto</translation>
@@ -355,7 +355,7 @@ Veja as instruções do seu mecanismo de pesquisa para excluir o histórico de p
 <translation id="3709582977625132201">Marcar como não lido</translation>
 <translation id="371230970611282515">Prevê e avisa sobre eventos perigosos antes que eles aconteçam.</translation>
 <translation id="37207012422556617">Pesquisas em alta</translation>
-<translation id="3740397331642243698">Abre os URLs inseridos na navegação anônima do Google Egon.</translation>
+<translation id="3740397331642243698">Abre os URLs inseridos na navegação anônima do Egon Browser.</translation>
 <translation id="3762232513783804601">Criado para o iPad</translation>
 <translation id="3768725474733206671">Reabrir a última guia fechada</translation>
 <translation id="3771033907050503522">Guias anônimas</translation>
@@ -544,7 +544,7 @@ Para alterar essa configuração, <ph name="BEGIN_LINK" />redefina a sincroniza�
 <translation id="5168414296986405587">Desenvolvido para iPadOS</translation>
 <translation id="5173088371991956744">A sincronização precisa confirmar sua identidade</translation>
 <translation id="5181140330217080051">Fazendo download</translation>
-<translation id="5184329579814168207">Abrir no Google Egon</translation>
+<translation id="5184329579814168207">Abrir no Egon Browser</translation>
 <translation id="5186185447130319458">Particular</translation>
 <translation id="5188482106078495165">Sua configuração de cookies é aplicada a todas as guias. Para aplicar uma nova configuração a uma guia aberta, atualize a guia.</translation>
 <translation id="5190835502935405962">Barra de favoritos</translation>
@@ -746,7 +746,7 @@ Tente usar uma senha exclusiva para cada site.</translation>
 <translation id="6524918542306337007">O modo de navegação anônima está indisponível</translation>
 <translation id="6530992499366869131">Avisar se as suas senhas forem expostas em uma violação de dados</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Visite um site e clique em "Seguir" no menu do Google Egon</translation>
+<translation id="6540120577248033958">Visite um site e clique em "Seguir" no menu do Egon Browser</translation>
 <translation id="6561262006871132942">Aumentar zoom</translation>
 <translation id="6583087784430677195">Para desativar, abra <ph name="BEGIN_LINK" />Ajustes<ph name="END_LINK" /> e acesse "Preenchimento Automático de Senhas".</translation>
 <translation id="6585618849026997638">Você pode adicionar uma página importante aos favoritos para acessá-la com facilidade</translation>
@@ -933,7 +933,7 @@ Eles também podem usar cookies para ver sua atividade de navegação em diferen
 <translation id="7982789257301363584">Rede</translation>
 <translation id="7987685713885608670">Para ter mais segurança, criptografe as senhas no dispositivo antes que elas sejam salvas no Gerenciador de senhas do Google.</translation>
 <translation id="7993619969781047893">Os recursos de alguns sites podem apresentar falhas</translation>
-<translation id="800361585186029508">Abre os URLs fornecidos no Google Egon.</translation>
+<translation id="800361585186029508">Abre os URLs fornecidos no Egon Browser.</translation>
 <translation id="8016714545083187120">Sempre usar conexões seguras</translation>
 <translation id="802154636333426148">Falha no download</translation>
 <translation id="8023878949384262191">Expande a seção.</translation>

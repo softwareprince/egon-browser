@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">পূর্বে থকা ডেটা মচক।</translation>
 <translation id="1146678959555564648">VR দিয়ক</translation>
 <translation id="1149401351239820326">ম্যাদ উকলা মাহ</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> Chromeত খুলিব। অব্যাহত ৰাখি আপুনি <ph name="BEGIN_LINK1" />Googleৰ সেৱাৰ চৰ্তাৱলী<ph name="END_LINK1" /> আৰু <ph name="BEGIN_LINK2" />Google Egon আৰু ChromeOSৰ সেৱাৰ অতিৰিক্ত চৰ্তাৱলী<ph name="END_LINK2" />ত সন্মতি দিয়ে।</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> Chromeত খুলিব। অব্যাহত ৰাখি আপুনি <ph name="BEGIN_LINK1" />Googleৰ সেৱাৰ চৰ্তাৱলী<ph name="END_LINK1" /> আৰু <ph name="BEGIN_LINK2" />Egon Browser আৰু ChromeOSৰ সেৱাৰ অতিৰিক্ত চৰ্তাৱলী<ph name="END_LINK2" />ত সন্মতি দিয়ে।</translation>
 <translation id="1154704303112745282">পৃষ্ঠাখন অফলাইনত উপলব্ধ নহয়: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"শীর্ষ ছাইটসমূহ" বুটামটো টিপি জনপ্ৰিয় ৱেবছাইটসমূহ চাওক</translation>
 <translation id="1173894706177603556">নতুন নাম দিয়ক</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">এপ্ খুলিব পৰা নগ’ল</translation>
 <translation id="2132122640199389833">লিংক কৰি থোৱা আটাইবোৰ ডিভাইচ আঁতৰাওক</translation>
 <translation id="213279576345780926">বন্ধ <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">Egon ব্যৱহাৰ কৰি আপুনি <ph name="BEGIN_TOS_LINK" />Googleৰ সেৱাৰ চৰ্তাৱলী<ph name="END_TOS_LINK" /> আৰু <ph name="BEGIN_ATOS_LINK" />Google Egon আৰু ChromeOSৰ সেৱাৰ অতিৰিক্ত চৰ্তাৱলী<ph name="END_ATOS_LINK" />ত সন্মতি দিয়ে।</translation>
+<translation id="2134927169889348449">Egon ব্যৱহাৰ কৰি আপুনি <ph name="BEGIN_TOS_LINK" />Googleৰ সেৱাৰ চৰ্তাৱলী<ph name="END_TOS_LINK" /> আৰু <ph name="BEGIN_ATOS_LINK" />Egon Browser আৰু ChromeOSৰ সেৱাৰ অতিৰিক্ত চৰ্তাৱলী<ph name="END_ATOS_LINK" />ত সন্মতি দিয়ে।</translation>
 <translation id="2139186145475833000">গৃহ স্ক্ৰীনত যোগ কৰক</translation>
 <translation id="2141396931810938595">আপোনাৰ ব্যৱহাৰৰ ওপৰত আধাৰিত</translation>
 <translation id="214888715418183969">আপুনি Chromeৰ সৈতে কি সহজে শ্বেয়াৰ কৰিব পাৰে সেয়া বাছনি কৰক। Chromeৰ সুবিধা, পাৰদৰ্শিতা আৰু স্থিৰতা উন্নত কৰাত সহায় কৰিবলৈ আপুনি শ্বেয়াৰ কৰা মেট্ৰিক্স ব্যৱহাৰ কৰা হ’ব।</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Chromeত আপোনাৰ আগ্ৰহৰ বিষয়বস্তু সম্পৰ্কীয় প্ৰবন্ধসমূহ</translation>
 <translation id="3066573403916685335">তললৈ নিয়ক</translation>
 <translation id="3070005020161560471">স্বয়ংক্ৰিয়ভাৱে অনুবাদ কৰিবলগীয়া</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> Chromeত খুলিব। অব্যাহত ৰাখি আপুনি <ph name="BEGIN_LINK1" />Googleৰ সেৱাৰ চৰ্তাৱলী<ph name="END_LINK1" /> আৰু <ph name="BEGIN_LINK2" />Google Egon আৰু ChromeOSৰ সেৱাৰ অতিৰিক্ত চৰ্তাৱলী<ph name="END_LINK2" />ত সন্মতি দিয়ে। <ph name="BEGIN_LINK3" />গোপনীয়তা নীতি<ph name="END_LINK3" />টোও প্ৰযোজ্য।</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> Chromeত খুলিব। অব্যাহত ৰাখি আপুনি <ph name="BEGIN_LINK1" />Googleৰ সেৱাৰ চৰ্তাৱলী<ph name="END_LINK1" /> আৰু <ph name="BEGIN_LINK2" />Egon Browser আৰু ChromeOSৰ সেৱাৰ অতিৰিক্ত চৰ্তাৱলী<ph name="END_LINK2" />ত সন্মতি দিয়ে। <ph name="BEGIN_LINK3" />গোপনীয়তা নীতি<ph name="END_LINK3" />টোও প্ৰযোজ্য।</translation>
 <translation id="3091010850649238832">ক্লিপব'ৰ্ডৰ সমল দেখুৱাওক</translation>
 <translation id="3098745985164956033">আপোনাৰ বাবে বিৱৰণ উন্নত কৰিবলৈ Googleলৈ কিছুমান প্ৰতিচ্ছবি পঠিওৱা হয়</translation>
 <translation id="3114507951000454849">আজিৰ বাতৰি পঢ়ক <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">আপুনি যদি নিজৰ পাছফ্ৰেজটো পাহৰিছে বা এই ছেটিংটো সলনি কৰিব বিচাৰিছে তেন্তে <ph name="BEGIN_LINK" />ছিংক ৰিছেট কৰক<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">আপোনাৰ পাছৱৰ্ড ছিংক কৰিবলৈ এয়া আপুনি বুলি সত্যাপন কৰক</translation>
 <translation id="3223522355830797639">আপোনাৰ বেংকে এইগৰাকী আপুনি বুলি নিশ্চিত কৰিবলৈ বিচাৰিছে।</translation>
-<translation id="3227557059438308877">এটা সুৰক্ষা সম্পৰ্কীয় চাবি হিচাপে Google Egon</translation>
+<translation id="3227557059438308877">এটা সুৰক্ষা সম্পৰ্কীয় চাবি হিচাপে Egon Browser</translation>
 <translation id="3232754137068452469">ৱেব এপ্‌</translation>
 <translation id="3234978181857588512">ডিভাইচত ছেভ কৰক</translation>
 <translation id="3236059992281584593">১ মিনিট বাকী আছে</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">লিংকৰ ঠিকনাটো প্ৰতিলিপি কৰক</translation>
 <translation id="4283102315569707115">ডিফ’ল্ট হিচাপে ডেস্কটপৰ ছাইটৰ বাবে অনুৰোধ কৰিবনে?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android ছেটিঙত স্ক্ৰীন লক অন কৰক<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Egon ব্যৱহাৰ কৰি আপুনি <ph name="BEGIN_TOS_LINK" />Googleৰ সেৱাৰ চৰ্তাৱলী<ph name="END_TOS_LINK" /> আৰু <ph name="BEGIN_ATOS_LINK" />Google Egon আৰু ChromeOSৰ সেৱাৰ অতিৰিক্ত চৰ্তাৱলী<ph name="END_ATOS_LINK" />ত সন্মতি দিয়ে। <ph name="BEGIN_PRIVACY_LINK" />গোপনীয়তা নীতি<ph name="END_PRIVACY_LINK" />টোও প্ৰযোজ্য।</translation>
+<translation id="4293476595220860475">Egon ব্যৱহাৰ কৰি আপুনি <ph name="BEGIN_TOS_LINK" />Googleৰ সেৱাৰ চৰ্তাৱলী<ph name="END_TOS_LINK" /> আৰু <ph name="BEGIN_ATOS_LINK" />Egon Browser আৰু ChromeOSৰ সেৱাৰ অতিৰিক্ত চৰ্তাৱলী<ph name="END_ATOS_LINK" />ত সন্মতি দিয়ে। <ph name="BEGIN_PRIVACY_LINK" />গোপনীয়তা নীতি<ph name="END_PRIVACY_LINK" />টোও প্ৰযোজ্য।</translation>
 <translation id="4296252229500326964">নতুন ইনক’গনিট’ টেব</translation>
 <translation id="4298388696830689168">লিংক হৈ থকা ছাইটবোৰ</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>

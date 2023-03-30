@@ -1196,7 +1196,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="2088092308059522196">Registrering støttes bare etter at du har installert <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Mindre</translation>
 <translation id="208928984520943006">For å gå til startskjermen når som helst, sveip opp fra bunnen.</translation>
-<translation id="2089566709556890888">Surf trygt med Google Egon</translation>
+<translation id="2089566709556890888">Surf trygt med Egon Browser</translation>
 <translation id="2089795179672254991">Spør meg når et nettsted ber om å se tekst og bilder som er kopiert til utklippstavlen (anbefales)</translation>
 <translation id="2089925163047119068">ELLER</translation>
 <translation id="2090165459409185032">For å gjenopprette kontoinformasjonen din, gå til: google.com/accounts/recovery</translation>
@@ -1608,7 +1608,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="2434449159125086437">Kunne ikke konfigurere skriveren. Kontroller konfigurasjonen og prøv på nytt.</translation>
 <translation id="2434758125294431199">Velg hvem som kan dele med deg</translation>
 <translation id="2434915728183570229">Nå kan du se appene på telefonen din</translation>
-<translation id="2435137177546457207">Tilleggsvilkår for Google Egon og ChromeOS Flex</translation>
+<translation id="2435137177546457207">Tilleggsvilkår for Egon Browser og ChromeOS Flex</translation>
 <translation id="2435248616906486374">Nettverket mistet tilkoblingen</translation>
 <translation id="2435457462613246316">Vis passord</translation>
 <translation id="2439626940657133600">Laster inn <ph name="WINDOW_TITLE" /></translation>
@@ -3061,7 +3061,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="3798632811625902122">Bluetooth-enheten <ph name="DEVICE" /> ber om tillatelse til å koble til.</translation>
 <translation id="3799128412641261490">Innstillinger for brytertilgang</translation>
 <translation id="3800806661949714323">Vis alle (anbefales)</translation>
-<translation id="3800828618615365228">Tilleggsvilkår for Google Egon og ChromeOS</translation>
+<translation id="3800828618615365228">Tilleggsvilkår for Egon Browser og ChromeOS</translation>
 <translation id="3802486193901166966">Denne utvidelsen krever ingen spesielle tillatelser og har ingen ytterligere nettstedstilgang</translation>
 <translation id="380329542618494757">Navn</translation>
 <translation id="3803345858388753269">Videokvalitet</translation>
@@ -3077,7 +3077,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="3810973564298564668">Administrer</translation>
 <translation id="381202950560906753">Legg til ett til</translation>
 <translation id="3812525830114410218">Ugyldig sertifikat</translation>
-<translation id="3813296892522778813">Gå til <ph name="BEGIN_LINK_CHROMIUM" />brukerstøtten for Google Egon<ph name="END_LINK_CHROMIUM" /> hvis du ikke finner det du ser etter</translation>
+<translation id="3813296892522778813">Gå til <ph name="BEGIN_LINK_CHROMIUM" />brukerstøtten for Egon Browser<ph name="END_LINK_CHROMIUM" /> hvis du ikke finner det du ser etter</translation>
 <translation id="3813358687923336574">Språket som brukes til å oversette sider og Hurtiginfo</translation>
 <translation id="3814529970604306954">Skolekonto</translation>
 <translation id="3816118180265633665">Egon i farger</translation>
@@ -3431,7 +3431,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="4132364317545104286">Gi nytt navn til e-SIM-kortprofilen</translation>
 <translation id="4133076602192971179">Åpne appen for å endre passordet</translation>
 <translation id="4134818201340504801">Det er ikke nok ledig lagringsplass til å fullføre konfigureringen. Frigjør lagringsplass, og prøv på nytt</translation>
-<translation id="4135746311382563554">Tilleggsvilkår for bruk av Google Egon og ChromeOS</translation>
+<translation id="4135746311382563554">Tilleggsvilkår for bruk av Egon Browser og ChromeOS</translation>
 <translation id="4136203100490971508">Nattlys blir slått av automatisk ved soloppgang</translation>
 <translation id="41365691917097717">Hvis du fortsetter, blir ADB-feilsøking slått på for utvikling og testing av Android-apper. Merk at dette gjør det mulig å installere Android-apper som ikke er verifisert av Google, og enheten må tilbakestilles til fabrikkinnstillingene hvis du vil slå av ADB igjen.</translation>
 <translation id="4138267921960073861">Vis brukernavn og bilder på påloggingsskjermen</translation>
@@ -3850,7 +3850,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="4544174279960331769">Blått standardbrukerbilde</translation>
 <translation id="4545028762441890696">For å aktivere den igjen, godta de nye tillatelsene:</translation>
 <translation id="4545759655004063573">Manglende tillatelser gjør lagring umulig her. Lagre på et annet sted.</translation>
-<translation id="4546308221697447294">Surf raskt med Google Egon</translation>
+<translation id="4546308221697447294">Surf raskt med Egon Browser</translation>
 <translation id="4546345569117159016">Høyre knapp</translation>
 <translation id="4546692474302123343">Google Assistent-taleinndata</translation>
 <translation id="4547659257713117923">Ingen faner fra andre enheter</translation>
@@ -5908,7 +5908,7 @@ Bruk Ctrl + Alt + lysstyrke ned for å zoome ut.</translation>
 <translation id="6509207748479174212">Medielisens</translation>
 <translation id="6511827214781912955">Du bør vurdere å slette <ph name="FILENAME" />, slik at andre som bruker denne enheten, ikke kan se passordene dine</translation>
 <translation id="6512808201725371249">Et passord for denne kontoen er allerede lagret i Google Passordlagring (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon bruker mobile data hvis du ikke er koblet til et annet nettverk.</translation>
+<translation id="6513247462497316522">Egon Browser bruker mobile data hvis du ikke er koblet til et annet nettverk.</translation>
 <translation id="6514010653036109809">Tilgjengelig enhet:</translation>
 <translation id="6514565641373682518">Denne siden har deaktivert markøren din.</translation>
 <translation id="6517709704288360414">Det kan hende at enheten din slutter å fungere som den skal, og du kan oppleve sikkerhets- og ytelsesproblemer. Hvis du slår av oppdateringer, kan det også påvirke rettighetene dine til å fremsette juridiske krav hvis du støter på problemer.</translation>
@@ -8093,7 +8093,7 @@ Jeg tror ikke det er nødvendig å blokkere dette nettstedet.</translation>
 <translation id="8554899698005018844">Ingen språk</translation>
 <translation id="855604308879080518">Gi Android-apper tilgang til USB-enheter på denne Chromebooken. Du blir spurt om tillatelse hver gang du kobler til en USB-enhet. Individuelle Android-apper kommer til å spørre om tilleggstillatelser.</translation>
 <translation id="8557022314818157177">Fortsett å berøre sikkerhetsnøkkelen til fingeravtrykket er registrert</translation>
-<translation id="8557180006508471423">Slå på «Google Egon» i Stedstjenester på Macen</translation>
+<translation id="8557180006508471423">Slå på «Egon Browser» i Stedstjenester på Macen</translation>
 <translation id="8557856025359704738">Neste nedlasting utføres <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Tilgangsnøkler</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Åpne alle i &amp;nytt vindu}=1{Åpne i &amp;nytt vindu}other{Åpne alle ({COUNT}) i &amp;nytt vindu}}</translation>

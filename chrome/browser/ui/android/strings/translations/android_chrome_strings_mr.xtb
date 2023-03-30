@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">विद्यमान डेटा हटवा.</translation>
 <translation id="1146678959555564648">VR एंटर करा</translation>
 <translation id="1149401351239820326">कालबाह्य होण्याचा महिना:</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> हे Egon मध्ये उघडेल. पुढे सुरू ठेवून, तुम्ही <ph name="BEGIN_LINK1" />Google सेवा अटी<ph name="END_LINK1" /> आणि <ph name="BEGIN_LINK2" />Google Egon व ChromeOS च्या अतिरिक्त सेवा अटी<ph name="END_LINK2" /> यांना सहमती दर्शवता.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> हे Egon मध्ये उघडेल. पुढे सुरू ठेवून, तुम्ही <ph name="BEGIN_LINK1" />Google सेवा अटी<ph name="END_LINK1" /> आणि <ph name="BEGIN_LINK2" />Egon Browser व ChromeOS च्या अतिरिक्त सेवा अटी<ph name="END_LINK2" /> यांना सहमती दर्शवता.</translation>
 <translation id="1154704303112745282">पेज ऑफलाइन उपलब्ध नाही: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"टॉप साइट" बटणावर टॅप करून लोकप्रिय वेबसाइट पहा</translation>
 <translation id="1173894706177603556">नाव बदला</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">जाहिरात मापन हे तुम्ही भेट देत असलेल्या साइटना Egon कडे माहितीची विनंती करण्यास अनुमती देते, जे साइटला तिच्या जाहिरातींचा परफॉर्मन्स मोजण्यात मदत करते. जाहिरात मापन हे साइटदरम्यान शक्य तितकी कमी माहिती ट्रान्सफर करून क्रॉस-साइट ट्रॅकिंग प्रतिबंधित करते.
 
 तुम्ही सर्व किंवा विशिष्ट साइटचा तुमचा ब्राउझिंग इतिहास हटवता, तेव्हा संबंधित मापन माहितीदेखील हटवता. <ph name="BEGIN_LINK" />तुमचा ब्राउझिंग इतिहास<ph name="END_LINK" /> पहा.</translation>
-<translation id="1332501820983677155">Google Egon वैशिष्ट्य शॉर्टकट</translation>
+<translation id="1332501820983677155">Egon Browser वैशिष्ट्य शॉर्टकट</translation>
 <translation id="1344653310988386453">हायलाइट करण्यासाठी लिंकचा समावेश करा</translation>
 <translation id="1347468774581902829">अ‍ॅक्टिव्हिटी व्यवस्थापित करा</translation>
 <translation id="1360432990279830238">साइन आउट करून सिंक बंद करायचे आहे का?</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">ॲप उघडता आले नाही</translation>
 <translation id="2132122640199389833">सर्व लिंक केलेली डिव्हाइस काढून टाका</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> बंद केले</translation>
-<translation id="2134927169889348449">Egon वापरून, तुम्ही <ph name="BEGIN_TOS_LINK" />Google सेवा अटी<ph name="END_TOS_LINK" /> आणि <ph name="BEGIN_ATOS_LINK" />Google Egon व ChromeOS अतिरिक्त सेवा अटी<ph name="END_ATOS_LINK" /> यांना सहमती दर्शवता.</translation>
+<translation id="2134927169889348449">Egon वापरून, तुम्ही <ph name="BEGIN_TOS_LINK" />Google सेवा अटी<ph name="END_TOS_LINK" /> आणि <ph name="BEGIN_ATOS_LINK" />Egon Browser व ChromeOS अतिरिक्त सेवा अटी<ph name="END_ATOS_LINK" /> यांना सहमती दर्शवता.</translation>
 <translation id="2139186145475833000">होम स्क्रीनवर जोडा</translation>
 <translation id="2141396931810938595">तुमच्या वापरावर आधारित</translation>
 <translation id="214888715418183969">तुम्हाला Egon सह काय शेअर करायचे आहे ते निवडा. तुम्ही शेअर केलेली मेट्रिक Egon ची वैशिष्ट्ये, परफॉर्मन्स आणि स्थिरता सुधारण्यात मदत करण्यासाठी वापरली जाईल.</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Egon वरील तुमच्या स्वारस्यांविषयी लेख</translation>
 <translation id="3066573403916685335">खाली हलवा</translation>
 <translation id="3070005020161560471">आपोआप भाषांतर करा</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> हे Egon मध्ये उघडेल. पुढे सुरू ठेवून, तुम्ही <ph name="BEGIN_LINK1" />Google सेवा अटी<ph name="END_LINK1" /> आणि <ph name="BEGIN_LINK2" />Google Egon व ChromeOS च्या अतिरिक्त सेवा अटी<ph name="END_LINK2" /> यांना सहमती दर्शवता. <ph name="BEGIN_LINK3" />गोपनीयता धोरण<ph name="END_LINK3" /> देखील लागू होते.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> हे Egon मध्ये उघडेल. पुढे सुरू ठेवून, तुम्ही <ph name="BEGIN_LINK1" />Google सेवा अटी<ph name="END_LINK1" /> आणि <ph name="BEGIN_LINK2" />Egon Browser व ChromeOS च्या अतिरिक्त सेवा अटी<ph name="END_LINK2" /> यांना सहमती दर्शवता. <ph name="BEGIN_LINK3" />गोपनीयता धोरण<ph name="END_LINK3" /> देखील लागू होते.</translation>
 <translation id="3091010850649238832">क्लिपबोर्डवरील आशय दाखवा</translation>
 <translation id="3098745985164956033">तुमच्यासाठी वर्णनांमध्ये सुधारणा करण्याकरिता काही इमेज Google कडे पाठवल्या जातात</translation>
 <translation id="3114507951000454849">आजच्या बातम्या वाचा <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">तुमचा सांकेतिक पासफ्रेझ विसरल्यास किंवा हे सेटिंग बदलू इच्छित असल्यास, <ph name="BEGIN_LINK" />सिंक रीसेट करा<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">तुमचे पासवर्ड सिंक करण्यासाठी हे तुम्हीच असल्याची पडताळणी करा</translation>
 <translation id="3223522355830797639">हे तुम्हीच असल्याचे तुमच्या बॅंकला कंफर्म करायचे आहे.</translation>
-<translation id="3227557059438308877">सिक्युरिटी की म्हणून Google Egon</translation>
+<translation id="3227557059438308877">सिक्युरिटी की म्हणून Egon Browser</translation>
 <translation id="3232754137068452469">वेब अ‍ॅप</translation>
 <translation id="3234978181857588512">डिव्हाइसमध्ये सेव्ह करा</translation>
 <translation id="3236059992281584593">1 मिनिट शिल्लक</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">लिंकचा पत्ता कॉपी करा</translation>
 <translation id="4283102315569707115">बाय डीफॉल्ट डेस्कटॉप साइटची विनंती करायची आहे का?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android सेटिंग्जमध्ये स्क्रीन लॉक सुरू करणे<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Egon वापरून, तुम्ही <ph name="BEGIN_TOS_LINK" />Google सेवा अटी<ph name="END_TOS_LINK" /> आणि <ph name="BEGIN_ATOS_LINK" />Google Egon व ChromeOS अतिरिक्त सेवा अटी<ph name="END_ATOS_LINK" /> यांना सहमती दर्शवता. <ph name="BEGIN_PRIVACY_LINK" />गोपनीयता धोरण<ph name="END_PRIVACY_LINK" /> देखील लागू होते.</translation>
+<translation id="4293476595220860475">Egon वापरून, तुम्ही <ph name="BEGIN_TOS_LINK" />Google सेवा अटी<ph name="END_TOS_LINK" /> आणि <ph name="BEGIN_ATOS_LINK" />Egon Browser व ChromeOS अतिरिक्त सेवा अटी<ph name="END_ATOS_LINK" /> यांना सहमती दर्शवता. <ph name="BEGIN_PRIVACY_LINK" />गोपनीयता धोरण<ph name="END_PRIVACY_LINK" /> देखील लागू होते.</translation>
 <translation id="4296252229500326964">नवीन गुप्त टॅब</translation>
 <translation id="4298388696830689168">लिंक केलेल्या साइट</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -787,7 +787,7 @@
 <translation id="5304593522240415983">हे फील्ड रिक्त ठेवता येणार नाही</translation>
 <translation id="5308380583665731573">कनेक्‍ट करा</translation>
 <translation id="5317780077021120954">सेव्ह करा</translation>
-<translation id="5319359161174645648">Google Egon ची शिफारस करते</translation>
+<translation id="5319359161174645648">Egon Browser ची शिफारस करते</translation>
 <translation id="5321849971085220133">ट्रॅकिंग कमी करण्यासाठी आणि तुम्ही ब्राउझ करत असताना तुम्हाला आणखी सुरक्षित ठेवण्यासाठी Egon नवीन मार्ग शोधत आहे. Egon <ph name="BEGIN_LINK" />तुमच्या स्वारस्यांचा अंदाज लावणे<ph name="END_LINK" /> हेदेखील करते आणि तुम्हाला ते व्यवस्थापित करू देते. त्यानंतर, तुम्ही भेट देता त्या साइट तुम्हाला जाहिराती दाखवण्यासाठी Egon ला तुमच्या स्वारस्यांबद्दल विचारू शकतात.</translation>
 <translation id="5324858694974489420">पालक सेटिंग्ज</translation>
 <translation id="5326921373682845375">प्रीलोड केलेली पेज एंक्रिप्ट केलेली असल्यामुळे आणि पेजशी लिंक करणारी साइट ही Google साइट असल्यामुळे, ही पेज खाजगीरीत्या प्रीलोड करताना Google सर्व्हरना नवीन माहिती मिळत नाही.</translation>
@@ -1547,7 +1547,7 @@
 <translation id="9219582468404818260">आम्हाला आणखी चांगले वेब तयार करण्यात मदत करा</translation>
 <translation id="92381315203627188">साइटने त्यांच्या पेजवरील लिंक खाजगीरीत्या प्रीलोड करण्यास सांगितल्यास, Egon हे कुकीशिवाय Google सर्व्हरद्वारे पेज एंक्रिप्ट आणि प्रीलोड करते. हे प्रीलोड केलेल्या साइटपासून तुमची ओळख लपवते.</translation>
 <translation id="926205370408745186">Digital wellbeing वरून तुमची Egon ॲक्टिव्हिटी काढून टाका</translation>
-<translation id="927968626442779827">Google Egon वर लाइट मोड वापरा</translation>
+<translation id="927968626442779827">Egon Browser वर लाइट मोड वापरा</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> ला फॉलो करत आहे</translation>
 <translation id="932327136139879170">होम</translation>
 <translation id="938850635132480979">एरर: <ph name="ERROR_CODE" /></translation>

@@ -263,7 +263,7 @@ To će u suprotnom biti onemogućeno na temelju vaših postavki privatnosti. To 
 <translation id="156703335097561114">Podaci o mreži kao što su adrese, konfiguracija sučelja i kvaliteta veze</translation>
 <translation id="1567040042588613346">Pravilo funkcionira kako je predviđeno, ali na drugoj lokaciji postavljena je ista vrijednost koju ovo pravilo nasljeđuje.</translation>
 <translation id="1569487616857761740">Unesite datum isteka</translation>
-<translation id="1569694109004336106">Google Egon pokušava uključiti Windows Hello za unos zaporki.</translation>
+<translation id="1569694109004336106">Egon Browser pokušava uključiti Windows Hello za unos zaporki.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> in</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Nešto nije u redu s prikazivanjem ove web-stranice.</translation>
@@ -459,7 +459,7 @@ To će u suprotnom biti onemogućeno na temelju vaših postavki privatnosti. To 
 <translation id="2085876078937250610">Spremite…</translation>
 <translation id="2088086323192747268">Gumb za upravljanje sinkronizacijom, pritisnite Enter da biste u postavkama Chromea upravljali time koji će se podaci sinkronizirati</translation>
 <translation id="2091887806945687916">Zvuk</translation>
-<translation id="2093982008204312032">Google Egon pokušava isključiti Windows Hello za unos zaporki.</translation>
+<translation id="2093982008204312032">Egon Browser pokušava isključiti Windows Hello za unos zaporki.</translation>
 <translation id="2094505752054353250">Domena se ne podudara</translation>
 <translation id="2099652385553570808">Trostruko spajanje s lijeve strane</translation>
 <translation id="2101225219012730419">Verzija:</translation>
@@ -2583,7 +2583,7 @@ Dodatne pojedinosti:
 <translation id="7564049878696755256">Mogli biste izgubiti pristup svojem <ph name="ORG_NAME" /> računu ili bi netko mogao ukrasti vaš identitet. Egon preporučuje da odmah promijenite zaporku.</translation>
 <translation id="7564680668369175887">Karavani</translation>
 <translation id="7567204685887185387">Poslužitelj nije mogao dokazati da je <ph name="DOMAIN" />; njegov sigurnosni certifikat možda je lažan. To može biti uzrokovano pogrešnom konfiguracijom ili napadom na vašu vezu.</translation>
-<translation id="7568616151991626879">Google Egon pokušava unijeti vašu zaporku u aplikaciji <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Egon Browser pokušava unijeti vašu zaporku u aplikaciji <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Gumb Upravljaj tražilicama, pritisnite Enter da biste upravljali zadanom tražilicom i pretraživanjem web-lokacije</translation>
 <translation id="7569952961197462199">Želite li s Chromea ukloniti kreditnu karticu?</translation>

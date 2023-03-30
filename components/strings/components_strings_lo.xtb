@@ -263,7 +263,7 @@
 <translation id="156703335097561114">ຂໍ້ມູນດ້ານເຄືອຂ່າຍ ເຊັ່ນ: ທີ່ຢູ່, ການຕັ້ງຄ່າສ່ວນຕິດຕໍ່ ແລະ ຄຸນນະພາບການເຊື່ອມຕໍ່</translation>
 <translation id="1567040042588613346">ນະໂຍບາຍນີ້ກຳລັງເຮັດວຽກຕາມທີ່ກຳນົດໄວ້ ແຕ່ມີການຕັ້ງຄ່າດຽວກັນຢູ່ບ່ອນອື່ນ ແລະ ນະໂຍບາຍນີ້ກຳລັງແທນທີ່ມັນ.</translation>
 <translation id="1569487616857761740">ປ້ອນວັນທີໝົດອາຍຸ</translation>
-<translation id="1569694109004336106">Google Egon ກຳລັງພະຍາຍາມເປີດໃຊ້ Windows Hello ສຳລັບການຕື່ມລະຫັດຜ່ານ.</translation>
+<translation id="1569694109004336106">Egon Browser ກຳລັງພະຍາຍາມເປີດໃຊ້ Windows Hello ສຳລັບການຕື່ມລະຫັດຜ່ານ.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> ນິ້ວ</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">ມີບາງອັນຜິດພາດ ໃນຂະນະທີ່ກໍາລັງສະແດງໜ້າ​ເວັບນີ້.</translation>
@@ -459,7 +459,7 @@
 <translation id="2085876078937250610">ບັນທຶກ…</translation>
 <translation id="2088086323192747268">ຈັດການປຸ່ມຊິ້ງຂໍ້ມູນ, ກົດ Enter ເພື່ອຈັດການວ່າຂໍ້ມູນໃດທີ່ທ່ານຈະຊິ້ງຂໍ້ມູນໃນການຕັ້ງຄ່າ Egon</translation>
 <translation id="2091887806945687916">ສຽງ</translation>
-<translation id="2093982008204312032">Google Egon ກຳລັງພະຍາຍາມປິດ Windows Hello ສຳລັບການຕື່ມລະຫັດຜ່ານ.</translation>
+<translation id="2093982008204312032">Egon Browser ກຳລັງພະຍາຍາມປິດ Windows Hello ສຳລັບການຕື່ມລະຫັດຜ່ານ.</translation>
 <translation id="2094505752054353250">ໂດເມນບໍ່ເຂົ້າຄູ່ກັນ</translation>
 <translation id="2099652385553570808">ໜີບກະຫຼັບເຟີເບື້ອງຊ້າຍສາມເທື່ອ</translation>
 <translation id="2101225219012730419">ລຸ້ນ:</translation>
@@ -2584,7 +2584,7 @@
 <translation id="7564049878696755256">ທ່ານສາມາດສູນເສຍການເຂົ້າເຖິງບັນຊີ <ph name="ORG_NAME" /> ຂອງທ່ານ ຫຼື ປະສົບກັບການຖືກລັກໃຊ້ຕົວຕົນ. Egon ຂໍແນະນຳໃຫ້ປ່ຽນລະຫັດຜ່ານຂອງທ່ານດຽວນີ້.</translation>
 <translation id="7564680668369175887">ສະເຕຊັນວາກອນ</translation>
 <translation id="7567204685887185387">ເຊີບເວີນີ້ບໍ່ສາມາດພິສູດໄດ້ວ່າ ມັນແມ່ນ <ph name="DOMAIN" />; ໃບຢັ້ງຢືນຄວາມປອດໄພຂອງມັນອາດຈະໄດ້ຮັບການອອກໃຫ້ແບບຫຼອກລວງ. ອັນນີ້ອາດຈະເຮັດໃຫ້ເກີດມີການປັບຕັ້ງຄ່າຜິດ ຫຼືຜູ້ໂຈມຕີອາດຈະດັກເອົາການເຊື່ອມຕໍ່ຂອງທ່ານ.</translation>
-<translation id="7568616151991626879">Google Egon ຍັງຄົງກຳລັງພະຍາຍາມຕື່ມລະຫັດຜ່ານຂອງທ່ານຢູ່ <ph name="APP_NAME" /> ຢູ່.</translation>
+<translation id="7568616151991626879">Egon Browser ຍັງຄົງກຳລັງພະຍາຍາມຕື່ມລະຫັດຜ່ານຂອງທ່ານຢູ່ <ph name="APP_NAME" /> ຢູ່.</translation>
 <translation id="7569490014721427265">ກັອບ</translation>
 <translation id="7569761772822664555">ປຸ່ມຈັດການໂປຣແກຣມຊອກຫາ, ກົດ Enter ເພື່ອຈັດການໂປຣແກຣມຊອກຫາ ແລະ ການຊອກຫາເວັບໄຊເລີ່ມຕົ້ນຂອງທ່ານ</translation>
 <translation id="7569952961197462199">ເອົາ​ບັດ​ເຄ​ຣ​ດິດ​ອອກ​ໄປ​ຈາກ Egon ບໍ?</translation>

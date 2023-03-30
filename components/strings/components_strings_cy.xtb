@@ -263,7 +263,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="156703335097561114">Gwybodaeth rhwydweithio megis cyfeiriadau, ffurfweddiad rhyngwyneb, ac ansawdd cysylltiad</translation>
 <translation id="1567040042588613346">Mae'r polisi hwn yn gweithio yn ôl y bwriad ond gosodir yr un gwerth mewn man arall ac mae'n cael ei ddisodli gan y polisi hwn.</translation>
 <translation id="1569487616857761740">Rhowch y dyddiad dod i ben</translation>
-<translation id="1569694109004336106">Mae Google Egon yn ceisio troi Windows Hello ymlaen ar gyfer llenwi cyfrineiriau.</translation>
+<translation id="1569694109004336106">Mae Egon Browser yn ceisio troi Windows Hello ymlaen ar gyfer llenwi cyfrineiriau.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> modfedd</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Aeth rhywbeth o'i le wrth arddangos y dudalen we hon.</translation>
@@ -459,7 +459,7 @@ Fel arall, bydd eich gosodiadau preifatrwydd yn rhwystro hyn. Bydd hyn yn caniat
 <translation id="2085876078937250610">Cadw…</translation>
 <translation id="2088086323192747268">Botwm rheoli cysoni, pwyswch Enter i reoli pa wybodaeth rydych yn ei chysoni yng ngosodiadau Egon</translation>
 <translation id="2091887806945687916">Sain</translation>
-<translation id="2093982008204312032">Mae Google Egon yn ceisio diffodd Windows Hello ar gyfer llenwi cyfrineiriau.</translation>
+<translation id="2093982008204312032">Mae Egon Browser yn ceisio diffodd Windows Hello ar gyfer llenwi cyfrineiriau.</translation>
 <translation id="2094505752054353250">Camgymhariad parth</translation>
 <translation id="2099652385553570808">Tair stapl ar y chwith</translation>
 <translation id="2101225219012730419">Fersiwn:</translation>
@@ -2584,7 +2584,7 @@ Manylion ychwanegol:
 <translation id="7564049878696755256">Gallech golli mynediad at eich cyfrif <ph name="ORG_NAME" /> neu brofi dwyn hunaniaeth. Mae Egon yn argymell newid eich cyfrinair nawr.</translation>
 <translation id="7564680668369175887">Car ystad</translation>
 <translation id="7567204685887185387">Ni allai'r gweinydd hwn brofi ei fod yn <ph name="DOMAIN" />; mae'n bosib bod ei dystysgrif ddiogelwch wedi'i chyhoeddi'n dwyllodrus. Gall hyn gael ei achosi gan gamffurfweddiad neu ymosodwr yn rhyng-gipio'ch cysylltiad.</translation>
-<translation id="7568616151991626879">Mae Google Egon yn ceisio llenwi'ch cyfrinair ar <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Mae Egon Browser yn ceisio llenwi'ch cyfrinair ar <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golff</translation>
 <translation id="7569761772822664555">Botwm rheoli peiriannau chwilio, pwyswch Enter i reoli eich peiriant chwilio diofyn a'ch dull chwilio gwefan</translation>
 <translation id="7569952961197462199">Tynnu cerdyn credyd o Egon?</translation>

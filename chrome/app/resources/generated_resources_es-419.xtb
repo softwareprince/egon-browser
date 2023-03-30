@@ -1187,7 +1187,7 @@ Para administrar la configuración de esta cuenta, instala la app de Family Lin
 <translation id="2088092308059522196">Solo se permite la inscripción después de instalar <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Menos</translation>
 <translation id="208928984520943006">Si quieres acceder a la pantalla principal en cualquier momento, desliza el dedo hacia arriba desde la parte inferior.</translation>
-<translation id="2089566709556890888">Navega de forma segura con Google Egon</translation>
+<translation id="2089566709556890888">Navega de forma segura con Egon Browser</translation>
 <translation id="2089795179672254991">Preguntarme cuando un sitio desee ver el texto y las imágenes copiados en el portapapeles (recomendado)</translation>
 <translation id="2089925163047119068">O</translation>
 <translation id="2090165459409185032">Para recuperar la información de la cuenta, accede a google.com/accounts/recovery.</translation>
@@ -3065,7 +3065,7 @@ Para administrar la configuración de esta cuenta, instala la app de Family Lin
 <translation id="3810973564298564668">Administrar</translation>
 <translation id="381202950560906753">Agregar otra</translation>
 <translation id="3812525830114410218">Certificado incorrecto</translation>
-<translation id="3813296892522778813">Consulta la <ph name="BEGIN_LINK_CHROMIUM" />Ayuda de Google Egon<ph name="END_LINK_CHROMIUM" /> si no encuentras lo que estás buscando</translation>
+<translation id="3813296892522778813">Consulta la <ph name="BEGIN_LINK_CHROMIUM" />Ayuda de Egon Browser<ph name="END_LINK_CHROMIUM" /> si no encuentras lo que estás buscando</translation>
 <translation id="3813358687923336574">Idioma utilizado para traducir páginas y Respuestas rápidas</translation>
 <translation id="3814529970604306954">Cuenta de una institución educativa</translation>
 <translation id="3816118180265633665">Colores de Egon</translation>
@@ -3840,7 +3840,7 @@ Para administrar la configuración de esta cuenta, instala la app de Family Lin
 <translation id="4544174279960331769">Avatar azul predeterminado</translation>
 <translation id="4545028762441890696">Para volver a habilitarla, acepta los permisos nuevos:</translation>
 <translation id="4545759655004063573">No es posible guardar porque no tienes los permisos adecuados. Guarda en otra ubicación.</translation>
-<translation id="4546308221697447294">Navega de forma rápida con Google Egon</translation>
+<translation id="4546308221697447294">Navega de forma rápida con Egon Browser</translation>
 <translation id="4546345569117159016">Botón derecho</translation>
 <translation id="4546692474302123343">Entrada de voz del Asistente de Google</translation>
 <translation id="4547659257713117923">No hay pestañas de otros dispositivos</translation>
@@ -5899,7 +5899,7 @@ Puedes asignar varios interruptores a esta acción.</translation>
 <translation id="6509207748479174212">Licencia de medios</translation>
 <translation id="6511827214781912955">Considera borrar <ph name="FILENAME" /> para que las otras personas que usan este dispositivo no puedan ver tus contraseñas</translation>
 <translation id="6512808201725371249">Ya se guardó una contraseña para esta cuenta en el Administrador de contraseñas de Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon utilizará los datos para celulares si no te conectas a otra red.</translation>
+<translation id="6513247462497316522">Egon Browser utilizará los datos para celulares si no te conectas a otra red.</translation>
 <translation id="6514010653036109809">Dispositivo disponible:</translation>
 <translation id="6514565641373682518">Esta página ha inhabilitado el cursor del mouse.</translation>
 <translation id="6517709704288360414">Es posible que el dispositivo ya no funcione de manera adecuada y que tengas problemas de seguridad y rendimiento. Desactivar las actualizaciones puede afectar tu derecho a realizar demandas legales si tienes un problema.</translation>

@@ -1195,7 +1195,7 @@
 <translation id="2088092308059522196"><ph name="DEVICE_OS" /> ಅನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ ನಂತರ ನೋಂದಣಿಯನ್ನು ಮಾತ್ರ ಬೆಂಬಲಿಸಲಾಗುತ್ತದೆ.</translation>
 <translation id="2089090684895656482">ಕಡಿಮೆ</translation>
 <translation id="208928984520943006">ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಹೋಮ್ ಸ್ಕ್ರೀನ್‌ಗೆ ಹೋಗಲು, ಕೆಳಗಿನಿಂದ ಮೇಲಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ.</translation>
-<translation id="2089566709556890888">Google Egon ಮೂಲಕ ಸುರಕ್ಷಿತವಾಗಿ ಬ್ರೌಸ್ ಮಾಡಿ</translation>
+<translation id="2089566709556890888">Egon Browser ಮೂಲಕ ಸುರಕ್ಷಿತವಾಗಿ ಬ್ರೌಸ್ ಮಾಡಿ</translation>
 <translation id="2089795179672254991">ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಿರುವ ಪಠ್ಯ ಮತ್ತು ಚಿತ್ರಗಳನ್ನು ನೋಡಲು ಸೈಟ್ ಬಯಸಿದರೆ, ಅನುಮತಿ ಕೇಳಿ (ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ)</translation>
 <translation id="2089925163047119068">ಅಥವಾ</translation>
 <translation id="2090165459409185032">ನಿಮ್ಮ ಖಾತೆಯ ಮಾಹಿತಿಯನ್ನು ಮರುಪಡೆಯಲು, ಇಲ್ಲಿಗೆ ಹೋಗಿ: google.com/accounts/recovery</translation>
@@ -1607,7 +1607,7 @@
 <translation id="2434449159125086437">ಪ್ರಿಂಟರ್ ಅನ್ನು ಸೆಟಪ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ. ಕಾನ್ಫಿಗರೇಶನ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ ಹಾಗೂ ಪುನಃ ಪ್ರಯತ್ನಿಸಿ.</translation>
 <translation id="2434758125294431199">ನಿಮ್ಮ ಜೊತೆಗೆ ಯಾರು ಹಂಚಿಕೊಳ್ಳಬಹುದು ಎಂಬುದನ್ನು ಆಯ್ಕೆಮಾಡಿ</translation>
 <translation id="2434915728183570229">ನೀವು ಈಗ ನಿಮ್ಮ ಫೋನ್‌ನ ಆ್ಯಪ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಬಹುದು</translation>
-<translation id="2435137177546457207">Google Egon ಹಾಗೂ ChromeOS Flex ನ ಹೆಚ್ಚುವರಿ ನಿಯಮಗಳು</translation>
+<translation id="2435137177546457207">Egon Browser ಹಾಗೂ ChromeOS Flex ನ ಹೆಚ್ಚುವರಿ ನಿಯಮಗಳು</translation>
 <translation id="2435248616906486374">ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕ ಕಡಿತಗೊಳಿಸಲಾಗಿದೆ</translation>
 <translation id="2435457462613246316">ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ತೋರಿಸಿ</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> ಅನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</translation>
@@ -3061,7 +3061,7 @@
 <translation id="3798632811625902122"><ph name="DEVICE" /> ಬ್ಲೂಟೂತ್ ಸಾಧನವು ಜೋಡಣೆಗಾಗಿ ಅನುಮತಿಯನ್ನು ಬಯಸುತ್ತಿದೆ.</translation>
 <translation id="3799128412641261490">ಪ್ರವೇಶದ ವಿಧಾನವನ್ನು ಬದಲಿಸುವ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</translation>
 <translation id="3800806661949714323">ಎಲ್ಲಾ ತೋರಿಸು (ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ)</translation>
-<translation id="3800828618615365228">Google Egon ಹಾಗೂ Egon OS ಹೆಚ್ಚುವರಿ ನಿಯಮಗಳು</translation>
+<translation id="3800828618615365228">Egon Browser ಹಾಗೂ Egon OS ಹೆಚ್ಚುವರಿ ನಿಯಮಗಳು</translation>
 <translation id="3802486193901166966">ಈ ವಿಸ್ತರಣೆಗೆ ಯಾವುದೇ ವಿಶೇಷ ಅನುಮತಿಗಳ ಅಗತ್ಯವಿಲ್ಲ ಮತ್ತು ಇದಕ್ಕೆ ಹೆಚ್ಚುವರಿ ಸೈಟ್ ಪ್ರವೇಶವಿಲ್ಲ</translation>
 <translation id="380329542618494757">ಹೆಸರು</translation>
 <translation id="3803345858388753269">ವೀಡಿಯೊ ಗುಣಮಟ್ಟ</translation>
@@ -3077,7 +3077,7 @@
 <translation id="3810973564298564668">ನಿರ್ವಹಿಸಿ</translation>
 <translation id="381202950560906753">ಇನ್ನೊಂದನ್ನು ಸೇರಿಸಿ</translation>
 <translation id="3812525830114410218">ತಪ್ಪು ಪ್ರಮಾಣಪತ್ರ</translation>
-<translation id="3813296892522778813">ನೀವು ಹುಡುಕುತ್ತಿರುವುದು ದೊರೆಯದೇ ಇದ್ದರೆ <ph name="BEGIN_LINK_CHROMIUM" />Google Egon ಸಹಾಯ<ph name="END_LINK_CHROMIUM" />ಕ್ಕೆ ಹೋಗಿ</translation>
+<translation id="3813296892522778813">ನೀವು ಹುಡುಕುತ್ತಿರುವುದು ದೊರೆಯದೇ ಇದ್ದರೆ <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser ಸಹಾಯ<ph name="END_LINK_CHROMIUM" />ಕ್ಕೆ ಹೋಗಿ</translation>
 <translation id="3813358687923336574">ಪುಟಗಳು ಮತ್ತು ತ್ವರಿತ ಉತ್ತರಗಳನ್ನು ಭಾಷಾಂತರಿಸಲು ಬಳಸುವ ಭಾಷೆ</translation>
 <translation id="3814529970604306954">ಶಾಲೆಯ ಖಾತೆ</translation>
 <translation id="3816118180265633665">Egon ಬಣ್ಣಗಳು</translation>
@@ -3433,7 +3433,7 @@
 <translation id="4132364317545104286">eSIM ಪ್ರೊಫೈಲ್ ಅನ್ನು ಮರುಹೆಸರಿಸಿ</translation>
 <translation id="4133076602192971179">ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಬದಲಾಯಿಸಲು ಆ್ಯಪ್ ಅನ್ನು ತೆರೆಯಿರಿ</translation>
 <translation id="4134818201340504801">ಸೆಟಪ್ ಅನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಸಾಕಷ್ಟು ಸಂಗ್ರಹಣಾ ಸ್ಥಳ ಲಭ್ಯವಿಲ್ಲ. ಸಂಗ್ರಹಣಾ ಸ್ಥಳವನ್ನು ಮುಕ್ತಗೊಳಿಸಿ, ಪುನಃ ಪ್ರಯತ್ನಿಸಿ</translation>
-<translation id="4135746311382563554">Google Egon ಮತ್ತು ChromeOS ಹೆಚ್ಚುವರಿ ಸೇವಾ ನಿಯಮಗಳು</translation>
+<translation id="4135746311382563554">Egon Browser ಮತ್ತು ChromeOS ಹೆಚ್ಚುವರಿ ಸೇವಾ ನಿಯಮಗಳು</translation>
 <translation id="4136203100490971508">ನೈಟ್ ಲೈಟ್ ಸೂರ್ಯೋದಯದ ಸಮಯದಲ್ಲಿ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಆಫ್ ಆಗುತ್ತದೆ</translation>
 <translation id="41365691917097717">ಮುಂದುವರಿಸಿದರೆ, Android ಆ್ಯಪ್‌ಗಳನ್ನು ರಚಿಸಲು ಮತ್ತು ಪರೀಕ್ಷಿಸಲು ADB ಡೀಬಗ್ ಮಾಡುವಿಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗುತ್ತದೆ. ಇದು Google ನಿಂದ ದೃಢೀಕರಿಸದ Android ಆ್ಯಪ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಅನುಮತಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ ಹಾಗೂ ಇದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲು ಫ್ಯಾಕ್ಟರಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಮರುಹೊಂದಿಸುವ ಅಗತ್ಯವಿದೆ.</translation>
 <translation id="4138267921960073861">ಬಳಕೆದಾರಹೆಸರುಗಳು ಮತ್ತು ಫೋಟೋಗಳನ್ನು ಸೈನ್-ಇನ್ ಪರದೆಯಲ್ಲಿ ತೋರಿಸು</translation>
@@ -3852,7 +3852,7 @@
 <translation id="4544174279960331769">ಡಿಫಾಲ್ಟ್ ನೀಲಿ ಅವತಾರ್</translation>
 <translation id="4545028762441890696">ಇದನ್ನು ಮರು-ಸಕ್ರಿಯಗೊಳಿಸಲು, ಹೊಸ ಅನುಮತಿಗಳನ್ನು ಸ್ವೀಕರಿಸಿ:</translation>
 <translation id="4545759655004063573">ಸಾಕಷ್ಟು ಅನುಮತಿಗಳು ಇಲ್ಲದ ಕಾರಣ ಉಳಿಸಲಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೊಂದು ಸ್ಥಾನದಲ್ಲಿ ಉಳಿಸಿ.</translation>
-<translation id="4546308221697447294">Google Egon ಮೂಲಕ ವೇಗವಾಗಿ ಬ್ರೌಸ್ ಮಾಡಿ</translation>
+<translation id="4546308221697447294">Egon Browser ಮೂಲಕ ವೇಗವಾಗಿ ಬ್ರೌಸ್ ಮಾಡಿ</translation>
 <translation id="4546345569117159016">ಬಲ ಬಟನ್</translation>
 <translation id="4546692474302123343">Google Assistant ಧ್ವನಿ ಇನ್‌ಪುಟ್‌</translation>
 <translation id="4547659257713117923">ಇತರ ಸಾಧನಗಳಿಂದ ಯಾವುದೇ ಟ್ಯಾಬ್‌ಗಳಿಲ್ಲ</translation>
@@ -5913,7 +5913,7 @@
 <translation id="6509207748479174212">ಮಾಧ್ಯಮ ಪರವಾನಗಿ</translation>
 <translation id="6511827214781912955"><ph name="FILENAME" /> ಅನ್ನು ಅಳಿಸಲು ಪರಿಗಣಿಸಿ, ಆದ್ದರಿಂದ ಈ ಸಾಧನವನ್ನು ಬಳಸುವ ಇತರರು ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ನೋಡಲಾಗುವುದಿಲ್ಲ</translation>
 <translation id="6512808201725371249">ಈ ಖಾತೆಗಾಗಿ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಈಗಾಗಲೇ ನಿಮ್ಮ Google Password Manager ನಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">ನೀವು ಇನ್ನೊಂದು ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕವನ್ನು ಹೊಂದಿರದಿದ್ದರೆ Google Egon ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸುತ್ತದೆ.</translation>
+<translation id="6513247462497316522">ನೀವು ಇನ್ನೊಂದು ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕವನ್ನು ಹೊಂದಿರದಿದ್ದರೆ Egon Browser ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸುತ್ತದೆ.</translation>
 <translation id="6514010653036109809">ಲಭ್ಯವಿರುವ ಸಾಧನ:</translation>
 <translation id="6514565641373682518">ಈ ಪುಟವು ನಿಮ್ಮ ಮೌಸ್ ಕರ್ಸರ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿದೆ.</translation>
 <translation id="6517709704288360414">ನಿಮ್ಮ ಸಾಧನವು ಇನ್ನು ಮುಂದೆ ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸದೇ ಇರಬಹುದು ಮತ್ತು ನೀವು ಭದ್ರತೆ ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆಯ ಸಮಸ್ಯೆಗಳನ್ನು ಅನುಭವಿಸಬಹುದು. ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಆಫ್ ಮಾಡುವುದರಿಂದ, ನಿಮಗೆ ಯಾವುದೇ ಸಮಸ್ಯೆಗಳು ಎದುರಾದರೆ ಕಾನೂನಾತ್ಮಕ ಕ್ಲೈಮ್‌ಗಳನ್ನು ಮಾಡುವ ನಿಮ್ಮ ಹಕ್ಕಿನ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು.</translation>
@@ -8097,7 +8097,7 @@
 <translation id="8554899698005018844">ಭಾಷೆ ನಮೂದಿಸಿಲ್ಲ</translation>
 <translation id="855604308879080518">ಈ Chromebook ನಲ್ಲಿ USB ಸಾಧನಗಳನ್ನು ಪ್ರವೇಶಿಸಲು Android ಆ್ಯಪ್‌ಗಳಿಗೆ ಅನುಮತಿಸಿ. ಪ್ರತಿ ಬಾರಿ ನೀವು USB ಸಾಧನವನ್ನು ಪ್ಲಗ್ ಇನ್ ಮಾಡಿದಾಗಲೆಲ್ಲಾ ಅನುಮತಿಯನ್ನು ವಿನಂತಿಸಲಾಗುತ್ತದೆ. ಪ್ರತ್ಯೇಕ Android ಆ್ಯಪ್‌ಗಳು ಹೆಚ್ಚುವರಿ ಅನುಮತಿಗಳನ್ನು ಕೇಳುತ್ತವೆ.</translation>
 <translation id="8557022314818157177">ನಿಮ್ಮ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಅನ್ನು ಕ್ಯಾಪ್ಚರ್ ಮಾಡುವವರೆಗೆ ಸುರಕ್ಷತಾ ಕೀಯನ್ನು ಸ್ಪರ್ಶಿಸುತ್ತಾ ಇರಿ.</translation>
-<translation id="8557180006508471423">ನಿಮ್ಮ Mac ನಲ್ಲಿ ಸ್ಥಾನ ಸೇವೆಗಳು ಎಂಬಲ್ಲಿರುವ "Google Egon" ಅನ್ನು ಆನ್ ಮಾಡಿ</translation>
+<translation id="8557180006508471423">ನಿಮ್ಮ Mac ನಲ್ಲಿ ಸ್ಥಾನ ಸೇವೆಗಳು ಎಂಬಲ್ಲಿರುವ "Egon Browser" ಅನ್ನು ಆನ್ ಮಾಡಿ</translation>
 <translation id="8557856025359704738">ಮುಂದಿನ ಡೌನ್‌ಲೋಡ್ ದಿನಾಂಕ <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">ಪಾಸ್‌ಕೀಗಳು</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{&amp;ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ಎಲ್ಲವನ್ನೂ ತೆರೆಯಿರಿ}=1{&amp;ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ತೆರೆಯಿರಿ}one{&amp;ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ಎಲ್ಲಾ ({COUNT}) ಗಳನ್ನು ತೆರೆಯಿರಿ}other{&amp;ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ಎಲ್ಲಾ ({COUNT}) ಗಳನ್ನು ತೆರೆಯಿರಿ}}</translation>

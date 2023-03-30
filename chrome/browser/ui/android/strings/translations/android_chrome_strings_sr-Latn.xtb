@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Izbrišite postojeće podatke</translation>
 <translation id="1146678959555564648">Uđi u VR</translation>
 <translation id="1149401351239820326">Mesec isteka</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> će se otvoriti u Egon-u. Ako nastavite, prihvatate <ph name="BEGIN_LINK1" />Google uslove korišćenja usluge<ph name="END_LINK1" /> i <ph name="BEGIN_LINK2" />dodatne uslove korišćenja usluge za Google Egon i Egon OS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> će se otvoriti u Egon-u. Ako nastavite, prihvatate <ph name="BEGIN_LINK1" />Google uslove korišćenja usluge<ph name="END_LINK1" /> i <ph name="BEGIN_LINK2" />dodatne uslove korišćenja usluge za Egon Browser i Egon OS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Stranica nije dostupna oflajn: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Dodirnite dugme „Najpopularniji veb-sajtovi“ i vidite te veb-sajtove</translation>
 <translation id="1173894706177603556">Preimenuj</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Merenje oglasa omogućava sajtovima koje posećujete da od Egon-a zatraže informacije koje sajtu pomažu da meri učinak oglasa. Merenje oglasa ograničava praćenje na više sajtova tako što prenosi što manje informacija između sajtova.
 
 Kada izbrišete istoriju pregledanja – svu ili za određeni sajt – brišete i povezane informacije o merenju. Pogledajte <ph name="BEGIN_LINK" />istoriju pregledanja<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Prečice za Google Egon funkcije</translation>
+<translation id="1332501820983677155">Prečice za Egon Browser funkcije</translation>
 <translation id="1344653310988386453">Uvrstite link do istaknutog teksta</translation>
 <translation id="1347468774581902829">Upravljajte aktivnostima</translation>
 <translation id="1360432990279830238">Odjavljujete se i isključujete sinhroniz?</translation>
@@ -213,7 +213,7 @@ Kada izbrišete istoriju pregledanja – svu ili za određeni sajt – brišete 
 <translation id="2122601567107267586">Otvaranje aplikacije nije uspelo</translation>
 <translation id="2132122640199389833">Ukloni sve povezane uređaje</translation>
 <translation id="213279576345780926">Zatvorili ste karticu <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">Ako koristite Egon, prihvatate <ph name="BEGIN_TOS_LINK" />Google uslove korišćenja usluge<ph name="END_TOS_LINK" /> i <ph name="BEGIN_ATOS_LINK" />dodatne uslove korišćenja usluge za Google Egon i Egon OS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Ako koristite Egon, prihvatate <ph name="BEGIN_TOS_LINK" />Google uslove korišćenja usluge<ph name="END_TOS_LINK" /> i <ph name="BEGIN_ATOS_LINK" />dodatne uslove korišćenja usluge za Egon Browser i Egon OS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Dodaj na početni ekran</translation>
 <translation id="2141396931810938595">Na osnovu korišćenja</translation>
 <translation id="214888715418183969">Izaberite šta želite da delite sa Egon-om. Pokazatelje koje delite koristimo za poboljšanje funkcija, performansi i stabilnosti Egon-a.</translation>
@@ -391,7 +391,7 @@ Kada izbrišete istoriju pregledanja – svu ili za određeni sajt – brišete 
 <translation id="3062802207422175757">Članci o vašim interesovanjima u Egon-u</translation>
 <translation id="3066573403916685335">Pomeri nadole</translation>
 <translation id="3070005020161560471">Automatski prevodi</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> će se otvoriti u Egon-u. Ako nastavite, prihvatate <ph name="BEGIN_LINK1" />Google uslove korišćenja usluge<ph name="END_LINK1" /> i <ph name="BEGIN_LINK2" />dodatne uslove korišćenja usluge za Google Egon i Egon OS<ph name="END_LINK2" />. Primenjuje se i <ph name="BEGIN_LINK3" />politika privatnosti<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> će se otvoriti u Egon-u. Ako nastavite, prihvatate <ph name="BEGIN_LINK1" />Google uslove korišćenja usluge<ph name="END_LINK1" /> i <ph name="BEGIN_LINK2" />dodatne uslove korišćenja usluge za Egon Browser i Egon OS<ph name="END_LINK2" />. Primenjuje se i <ph name="BEGIN_LINK3" />politika privatnosti<ph name="END_LINK3" />.</translation>
 <translation id="3091010850649238832">Prikaži sadržaj privremene memorije</translation>
 <translation id="3098745985164956033">Neke slike se šalju Google-u radi poboljšanja opisa</translation>
 <translation id="3114507951000454849">Čitajte današnje vesti <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Kada izbrišete istoriju pregledanja – svu ili za određeni sajt – brišete 
 <translation id="321773570071367578">Ako ste zaboravili pristupnu frazu ili želite da promenite ovo podešavanje, <ph name="BEGIN_LINK" />resetujte sinhronizaciju<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Da biste sinhronizovali lozinke, potvrdite svoj identitet</translation>
 <translation id="3223522355830797639">Banka želi da potvrdi da ste to vi.</translation>
-<translation id="3227557059438308877">Google Egon kao bezbednosni ključ</translation>
+<translation id="3227557059438308877">Egon Browser kao bezbednosni ključ</translation>
 <translation id="3232754137068452469">Veb-aplikacija</translation>
 <translation id="3234978181857588512">Sačuvaj na uređaju</translation>
 <translation id="3236059992281584593">Još 1 min</translation>
@@ -596,7 +596,7 @@ Kada izbrišete istoriju pregledanja – svu ili za određeni sajt – brišete 
 <translation id="4269820728363426813">Kopiraj adresu linka</translation>
 <translation id="4283102315569707115">Želite li da podrazumevano zahtevate verziju sajtova za računar?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Uključite zaključavanje ekrana u Android podešavanjima<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Ako koristite Egon, prihvatate <ph name="BEGIN_TOS_LINK" />Google uslove korišćenja usluge<ph name="END_TOS_LINK" /> i <ph name="BEGIN_ATOS_LINK" />dodatne uslove korišćenja usluge za Google Egon i Egon OS<ph name="END_ATOS_LINK" />. Primenjuje se i <ph name="BEGIN_PRIVACY_LINK" />politika privatnosti<ph name="END_PRIVACY_LINK" />.</translation>
+<translation id="4293476595220860475">Ako koristite Egon, prihvatate <ph name="BEGIN_TOS_LINK" />Google uslove korišćenja usluge<ph name="END_TOS_LINK" /> i <ph name="BEGIN_ATOS_LINK" />dodatne uslove korišćenja usluge za Egon Browser i Egon OS<ph name="END_ATOS_LINK" />. Primenjuje se i <ph name="BEGIN_PRIVACY_LINK" />politika privatnosti<ph name="END_PRIVACY_LINK" />.</translation>
 <translation id="4296252229500326964">Nova kart. bez arhiviranja</translation>
 <translation id="4298388696830689168">Povezani sajtovi</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@ Pouzdani tokeni poboljšavaju privatnost na vebu i ne mogu da se koriste za otkr
 <translation id="9219582468404818260">Pomozite nam da napravimo bolji veb</translation>
 <translation id="92381315203627188">Kada sajt zatraži da privatno predučitava linkove na stranici, Egon šifruje i predučitava stranice preko Google servera bez kolačića. Na taj način se vaš identitet krije od predučitanog sajta.</translation>
 <translation id="926205370408745186">Uklonite Egon aktivnosti iz Digitalnog blagostanja</translation>
-<translation id="927968626442779827">Koristite Lite režim u Google Egon-u</translation>
+<translation id="927968626442779827">Koristite Lite režim u Egon Browser-u</translation>
 <translation id="928550791203542716">Pratite <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Početna</translation>
 <translation id="938850635132480979">Greška: <ph name="ERROR_CODE" /></translation>

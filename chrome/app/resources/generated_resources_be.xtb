@@ -1193,7 +1193,7 @@
 <translation id="2088092308059522196">Зарэгістравацца можна толькі пасля ўсталявання аперацыйнай сістэмы <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Менш</translation>
 <translation id="208928984520943006">Каб у любы момант перайсці на галоўны экран, правядзіце знізу ўверх.</translation>
-<translation id="2089566709556890888">Бяспечны прагляд старонак у браўзеры Google Egon</translation>
+<translation id="2089566709556890888">Бяспечны прагляд старонак у браўзеры Egon Browser</translation>
 <translation id="2089795179672254991">Пытацца, калі сайт запытвае доступ на прагляд тэксту і відарысаў, скапіраваных у буфер абмену (рэкамендуецца)</translation>
 <translation id="2089925163047119068">АБО</translation>
 <translation id="2090165459409185032">Каб аднавіць даныя ўліковага запісу, перайдзіце па спасылцы: google.com/accounts/recovery</translation>
@@ -1568,7 +1568,7 @@
 <translation id="2391419135980381625">Стандартны шрыфт</translation>
 <translation id="2392369802118427583">Уключыць</translation>
 <translation id="2393136602862631930">Усталюйце <ph name="APP_NAME" /> на свой Chromebook</translation>
-<translation id="2393313392064891208">Змест умоў выкарыстання АС Google Egon OS Flex</translation>
+<translation id="2393313392064891208">Змест умоў выкарыстання АС Egon Browser OS Flex</translation>
 <translation id="2395616325548404795">Ваша прылада <ph name="DEVICE_TYPE" /> паспяхова зарэгістравана для карпаратыўнага кіравання, але не адправіла інфармацыю аб аб'екце ўласнасці і месцазнаходжанні. Увядзіце гэту інфармацыю пра прыладу ўручную на кансолі адміністратара.</translation>
 <translation id="2396783860772170191">Увядзіце 4-значны PIN-код (0000–9999)</translation>
 <translation id="2398546389094871088">Пры выкарыстанні функцыі Powerwash для скіду налад профілі eSIM-карты не выдаляюцца. Іх можна выдаліць уручную ў <ph name="LINK_BEGIN" />наладах мабільнай прылады<ph name="LINK_END" />.</translation>
@@ -1602,7 +1602,7 @@
 <translation id="2434449159125086437">Не ўдаецца наладзіць прынтар. Праверце параметры канфігурацыі і паўтарыце спробу.</translation>
 <translation id="2434758125294431199">Выберыце, хто можа ажыццяўляць абагульванне з вамі</translation>
 <translation id="2434915728183570229">Цяпер вы можаце праглядаць нядаўнія праграмы з тэлефона</translation>
-<translation id="2435137177546457207">Дадатковыя ўмовы Google Egon і Egon OS Flex</translation>
+<translation id="2435137177546457207">Дадатковыя ўмовы Egon Browser і Egon OS Flex</translation>
 <translation id="2435248616906486374">Сетка адключана</translation>
 <translation id="2435457462613246316">Паказаць пароль</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" />: ідзе загрузка</translation>
@@ -3020,7 +3020,7 @@
 <translation id="3771290962915251154">Гэта налада выключана, бо ўключаны бацькоўскі кантроль</translation>
 <translation id="3771294271822695279">Відэафайлы</translation>
 <translation id="3771851622616482156">Будзе выкананы выхад з гэтага сайта, у тым ліку на адкрытых укладках</translation>
-<translation id="3772046291955677288">Мною былі прачытаны <ph name="BEGIN_LINK1" />Умовы выкарыстання Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Дадатковыя ўмовы выкарыстання Google Egon і Egon OS<ph name="END_LINK2" />, і я згаджаюся з імі.</translation>
+<translation id="3772046291955677288">Мною былі прачытаны <ph name="BEGIN_LINK1" />Умовы выкарыстання Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Дадатковыя ўмовы выкарыстання Egon Browser і Egon OS<ph name="END_LINK2" />, і я згаджаюся з імі.</translation>
 <translation id="3774166835015494435">Нядаўнія фота і апавяшчэнні</translation>
 <translation id="3775432569830822555">Сертыфікат сервера SSL</translation>
 <translation id="3775705724665058594">Адпраўка на вашы прылады</translation>
@@ -3055,7 +3055,7 @@
 <translation id="3798632811625902122">Прылада з Bluetooth "<ph name="DEVICE" />" запытвае дазвол на спалучэнне.</translation>
 <translation id="3799128412641261490">Налады доступу праз пераключальнікі</translation>
 <translation id="3800806661949714323">Паказваць усе (рэкамендуецца)</translation>
-<translation id="3800828618615365228">Дадатковыя ўмовы Google Egon і Egon OS</translation>
+<translation id="3800828618615365228">Дадатковыя ўмовы Egon Browser і Egon OS</translation>
 <translation id="3802486193901166966">Пашырэнне не патрабуе спецыяльных дазволаў, і ў яго няма дадатковага доступу да сайтаў</translation>
 <translation id="380329542618494757">Імя</translation>
 <translation id="3803345858388753269">Якасць відэа</translation>
@@ -3071,7 +3071,7 @@
 <translation id="3810973564298564668">Кіраваць</translation>
 <translation id="381202950560906753">Дадаць яшчэ</translation>
 <translation id="3812525830114410218">Недапушчальны сертыфікат</translation>
-<translation id="3813296892522778813">Калі вы не знайшлі тое, што шукалі, адкрыйце<ph name="BEGIN_LINK_CHROMIUM" />Даведку Google Egon<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">Калі вы не знайшлі тое, што шукалі, адкрыйце<ph name="BEGIN_LINK_CHROMIUM" />Даведку Egon Browser<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">Мова для перакладу старонак і для Хуткіх адказаў</translation>
 <translation id="3814529970604306954">Навучальны ўліковы запіс</translation>
 <translation id="3816118180265633665">Колеры Egon</translation>
@@ -3093,7 +3093,7 @@
 <translation id="3826440694796503677">Адміністратар выключыў дадаванне іншых Уліковых запісаў Google</translation>
 <translation id="3827774300009121996">&amp;Поўнаэкранны рэжым</translation>
 <translation id="3828029223314399057">Шукаць у закладках</translation>
-<translation id="3828953470056652895">Мною былі прачытаны <ph name="BEGIN_LINK1" />Умовы выкарыстання Google<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Дадатковыя ўмовы выкарыстання Google Egon і Egon OS<ph name="END_LINK2" /> і <ph name="BEGIN_LINK3" />Умовы выкарыстання Play<ph name="END_LINK3" />, і я згаджаюся з імі.</translation>
+<translation id="3828953470056652895">Мною былі прачытаны <ph name="BEGIN_LINK1" />Умовы выкарыстання Google<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Дадатковыя ўмовы выкарыстання Egon Browser і Egon OS<ph name="END_LINK2" /> і <ph name="BEGIN_LINK3" />Умовы выкарыстання Play<ph name="END_LINK3" />, і я згаджаюся з імі.</translation>
 <translation id="3829765597456725595">Абагульванне файлаў праз SMB</translation>
 <translation id="3830654885961023588">{NUM_EXTENSIONS,plural, =1{Адміністратар зноў уключыў адно патэнцыйна шкоднае пашырэнне}one{Адміністратар зноў уключыў {NUM_EXTENSIONS} патэнцыйна шкоднае пашырэнне}few{Адміністратар зноў уключыў {NUM_EXTENSIONS} патэнцыйна шкодныя пашырэнні}many{Адміністратар зноў уключыў {NUM_EXTENSIONS} патэнцыйна шкодных пашырэнняў}other{Адміністратар зноў уключыў {NUM_EXTENSIONS} патэнцыйна шкоднага пашырэння}}</translation>
 <translation id="3831436149286513437">Прапановы пошуку на Google Дыску</translation>
@@ -3427,7 +3427,7 @@
 <translation id="4132364317545104286">Перайменаваць профіль eSIM-карты</translation>
 <translation id="4133076602192971179">Каб змяніць пароль, адкрыйце праграму</translation>
 <translation id="4134818201340504801">Даступнага месца ў сховішчы недастаткова, каб завяршыць наладжванне. Вызваліце месца ў сховішчы і паўтарыце спробу.</translation>
-<translation id="4135746311382563554">Дадатковыя ўмовы выкарыстання Google Egon і Egon OS</translation>
+<translation id="4135746311382563554">Дадатковыя ўмовы выкарыстання Egon Browser і Egon OS</translation>
 <translation id="4136203100490971508">Начная падсветка выключыцца аўтаматычна пасля ўзыходу сонца</translation>
 <translation id="41365691917097717">Калі працягнуць, будзе ўключана адладка ADB для стварэння і тэсціравання праграм для Android. Звярніце ўвагу, што, уключыўшы ADB, вы дазваляеце ўсталёўваць праграмы для Android, якія не былі спраўджаны Google, а для выключэння ADB патрабуецца скід налад да заводскіх значэнняў.</translation>
 <translation id="4138267921960073861">Паказваць фота і імёны карыстальнікаў на экране ўваходу</translation>
@@ -3846,7 +3846,7 @@
 <translation id="4544174279960331769">Стандартны сіні аватар</translation>
 <translation id="4545028762441890696">Каб уключыць пашырэнне зноў, прыміце новыя дазволы:</translation>
 <translation id="4545759655004063573">Захаваць не ўдалося: недастаткова дазволаў. Выберыце іншае месцазнаходжанне.</translation>
-<translation id="4546308221697447294">Хуткі прагляд з Google Egon</translation>
+<translation id="4546308221697447294">Хуткі прагляд з Egon Browser</translation>
 <translation id="4546345569117159016">Правая кнопка</translation>
 <translation id="4546692474302123343">Галасавы ўвод з дапамогай Памочніка Google</translation>
 <translation id="4547659257713117923">Няма ўкладак з іншых прылад</translation>
@@ -5712,7 +5712,7 @@
 <translation id="6313950457058510656">Выключыць Імгненны рэжым мадэма</translation>
 <translation id="6314819609899340042">Функцыі адладкі на гэтай прыладзе <ph name="IDS_SHORT_PRODUCT_NAME" /> уключаны.</translation>
 <translation id="6315493146179903667">Усё на пярэдні план</translation>
-<translation id="6316432269411143858">Тэкст Умоў выкарыстання Google Egon OS</translation>
+<translation id="6316432269411143858">Тэкст Умоў выкарыстання Egon Browser OS</translation>
 <translation id="6317369057005134371">Чакаецца акно праграмы...</translation>
 <translation id="6318125393809743217">Уключыць файл policies.json з канфігурацыямі палітык.</translation>
 <translation id="6318407754858604988">Спампоўванне пачалося</translation>
@@ -5905,7 +5905,7 @@
 <translation id="6509207748479174212">Мультымедыйная ліцэнзія</translation>
 <translation id="6511827214781912955">Рэкамендуем выдаліць файл "<ph name="FILENAME" />", каб іншыя карыстальнікі прылады не змаглі пабачыць вашы паролі</translation>
 <translation id="6512808201725371249">Пароль для гэтага ўліковага запісу ўжо захаваны ў Менеджары пароляў Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon будзе выкарыстоўваць мабільную перадачу даных, калі вы не падключаны да іншай сеткі.</translation>
+<translation id="6513247462497316522">Egon Browser будзе выкарыстоўваць мабільную перадачу даных, калі вы не падключаны да іншай сеткі.</translation>
 <translation id="6514010653036109809">Даступная прылада:</translation>
 <translation id="6514565641373682518">Гэта старонка выключыла вам курсор мышы.</translation>
 <translation id="6517709704288360414">Ваша прылада можа перастаць працаваць належным чынам. Магчымыя праблемы з прадукцыйнасцю і бяспекай. Выключэнне абнаўленняў таксама можа паўплываць на ваша права заяўляць законныя прэтэнзіі ў выпадку ўзнікнення праблем.</translation>
@@ -6161,7 +6161,7 @@
 <translation id="6746124502594467657">Перамясціць ніжэй</translation>
 <translation id="674632704103926902">Уключыць перацягванне дотыкам</translation>
 <translation id="6748465660675848252">Вы можаце працягнуць, але будуць адноўлены толькі сінхранізаваныя даныя і налады. Усе лакальныя даныя будуць страчаны.</translation>
-<translation id="6748980958975836188">Мною былі прачытаны <ph name="BEGIN_LINK1" />Умовы выкарыстання Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Дадатковыя ўмовы выкарыстання Google Egon і Egon OS<ph name="END_LINK2" />, і я згаджаюся з імі.</translation>
+<translation id="6748980958975836188">Мною былі прачытаны <ph name="BEGIN_LINK1" />Умовы выкарыстання Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Дадатковыя ўмовы выкарыстання Egon Browser і Egon OS<ph name="END_LINK2" />, і я згаджаюся з імі.</translation>
 <translation id="6750757184909117990">Выключыць сотавую сетку</translation>
 <translation id="6751344591405861699"><ph name="WINDOW_TITLE" /> (інкогніта)</translation>
 <translation id="6756157672127672536">Праграма "Файлы" дазваляе хутка адкрываць файлы, захаваныя на Google Дыску, знешніх сховішчах і прыладах Egon OS.</translation>
@@ -8095,7 +8095,7 @@
 <translation id="8554899698005018844">Мова не выбрана</translation>
 <translation id="855604308879080518">Дайце праграмам Android доступ да прылад USB на гэтай прыладзе Chromebook. Запыт дазволу будзе з'яўляцца пры кожным падключэнні прылады USB. Асобныя праграмы Android будуць запытваць дадатковыя дазволы.</translation>
 <translation id="8557022314818157177">Каб дадаць адбітак пальца, націскайце на ключ бяспекі</translation>
-<translation id="8557180006508471423">Уключыце параметр "Google Egon" у раздзеле Location Services ("Службы геалакацыі") на камп'ютары Mac</translation>
+<translation id="8557180006508471423">Уключыце параметр "Egon Browser" у раздзеле Location Services ("Службы геалакацыі") на камп'ютары Mac</translation>
 <translation id="8557856025359704738">Наступнае спампоўванне: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Ключы доступу</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Адкрыць усе ў &amp;новым акне}=1{Адкрыць у &amp;новым акне}one{Адкрыць усе ({COUNT}) у &amp;новым акне}few{Адкрыць усе ({COUNT}) у &amp;новым акне}many{Адкрыць усе ({COUNT}) у &amp;новым акне}other{Адкрыць усе ({COUNT}) у &amp;новым акне}}</translation>

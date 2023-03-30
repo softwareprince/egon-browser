@@ -5721,7 +5721,7 @@ Julkinen eksponentti (<ph name="PUBLIC_EXPONENT_NUM_BITS" /> bittiä):
 <translation id="6313950457058510656">Laita yhteyden pikajakaminen pois päältä</translation>
 <translation id="6314819609899340042"><ph name="IDS_SHORT_PRODUCT_NAME" />-laitteen virheenkorjausominaisuuksien käyttöönotto onnistui.</translation>
 <translation id="6315493146179903667">Siirrä kaikki etualalle</translation>
-<translation id="6316432269411143858">Google Egon ‑käyttöjärjestelmän käyttöehtojen sisältö</translation>
+<translation id="6316432269411143858">Egon Browser ‑käyttöjärjestelmän käyttöehtojen sisältö</translation>
 <translation id="6317369057005134371">Odotetaan sovellusikkunaa…</translation>
 <translation id="6318125393809743217">Sisällytä käytäntömäärityksiin policies.json-tiedosto.</translation>
 <translation id="6318407754858604988">Lataus aloitettu</translation>
@@ -5914,7 +5914,7 @@ Julkinen eksponentti (<ph name="PUBLIC_EXPONENT_NUM_BITS" /> bittiä):
 <translation id="6509207748479174212">Medialisenssi</translation>
 <translation id="6511827214781912955">Sinun kannattaa poistaa <ph name="FILENAME" />, jotta laitteen muut käyttäjät eivät näe salasanojasi</translation>
 <translation id="6512808201725371249">Tämän tilin salasana on jo tallennettu Google Salasanoihin (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon käyttää mobiilitiedonsiirtoa, jos et ole yhteydessä toiseen verkkoon.</translation>
+<translation id="6513247462497316522">Egon Browser käyttää mobiilitiedonsiirtoa, jos et ole yhteydessä toiseen verkkoon.</translation>
 <translation id="6514010653036109809">Käytettävissä oleva laite:</translation>
 <translation id="6514565641373682518">Tämä sivu on poistanut hiiren osoittimen käytöstä.</translation>
 <translation id="6517709704288360414">Laite ei välttämättä toimi kunnolla, ja saatat kokea turvallisuuteen ja suorituskykyyn liittyviä ongelmia. Päivitysten laittaminen pois päältä saattaa myös vaikuttaa oikeudellisten vaatimusten tekemiseen, jos havaitset ongelmia.</translation>
@@ -8098,7 +8098,7 @@ Tallenna avaintiedosto suojattuun sijaintiin. Tarvitset sitä, jos haluat luoda 
 <translation id="8554899698005018844">Ei kieltä</translation>
 <translation id="855604308879080518">Salli Android-sovellusten pääsy tämän Chromebookin USB-laitteisiin. Lupaa pyydetään aina, kun liität uuden USB-laitteen. Yksittäiset Android-sovellukset pyytävät lisälupia.</translation>
 <translation id="8557022314818157177">Jatka suojausavaimen koskettamista, kunnes sormenjälki tallennetaan</translation>
-<translation id="8557180006508471423">Salli "Google Egon" Macin sijaintipalveluissa</translation>
+<translation id="8557180006508471423">Salli "Egon Browser" Macin sijaintipalveluissa</translation>
 <translation id="8557856025359704738">Seuraava lataus tehdään <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Avainkoodit</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Avaa kaikki uudessa ikku&amp;nassa}=1{Avaa uudessa ikku&amp;nassa}other{Avaa kaikki ({COUNT}) uudessa ikku&amp;nassa}}</translation>

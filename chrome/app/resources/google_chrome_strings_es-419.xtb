@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="es-419">
-<translation id="1001534784610492198">El instalador está dañado o no es válido. Descargue Google Egon nuevamente.</translation>
+<translation id="1001534784610492198">El instalador está dañado o no es válido. Descargue Egon Browser nuevamente.</translation>
 <translation id="1026101648481255140">Reanudar la instalación</translation>
 <translation id="102763973188675173">Personalizar y controlar Google Egon. Hay una actualización disponible.</translation>
 <translation id="1051826050538111504">Tu computadora tiene software dañino. Egon puede quitarlo, inhabilitar las extensiones y restablecer la configuración para que el navegador vuelva a funcionar correctamente.</translation>
@@ -18,8 +18,8 @@
 <translation id="1302523850133262269">Espera mientras Egon instala las últimas actualizaciones del sistema.</translation>
 <translation id="1335640173511558774"><ph name="MANAGER" /> requiere que leas y aceptes las siguientes Condiciones del Servicio antes de usar este dispositivo. Estas condiciones no amplían, modifican ni limitan las Condiciones de Egon OS Flex.</translation>
 <translation id="1363996462118479832">Egon OS no pudo sincronizar los datos porque se produjo un error de acceso.</translation>
-<translation id="137466361146087520">Google Egon Beta</translation>
-<translation id="1399397803214730675">Este equipo ya cuenta con una versión más reciente de Google Egon. Si el software no funciona, desinstala Google Egon y descárgalo nuevamente.</translation>
+<translation id="137466361146087520">Egon Browser Beta</translation>
+<translation id="1399397803214730675">Este equipo ya cuenta con una versión más reciente de Egon Browser. Si el software no funciona, desinstala Egon Browser y descárgalo nuevamente.</translation>
 <translation id="139993653570221430">Puedes cambiar de opinión en cualquier momento en la configuración de Egon. Las pruebas se ejecutan junto a la publicación actual de anuncios, por lo que no verás cambios de inmediato.</translation>
 <translation id="1434626383986940139">Aplicaciones de Egon Canary</translation>
 <translation id="1507198376417198979">Personaliza tu nuevo perfil de Egon.</translation>
@@ -28,7 +28,7 @@
 <translation id="1547295885616600893">Egon OS es posible gracias al <ph name="BEGIN_LINK_CROS_OSS" />software de código abierto<ph name="END_LINK_CROS_OSS" /> adicional.</translation>
 <translation id="1553358976309200471">Actualizar Egon</translation>
 <translation id="1583073672411044740"><ph name="EXISTING_USER" /> ya accedió a este perfil de Egon. Se creará un nuevo perfil de Egon para <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="1587223624401073077">Google Egon está usando tu cámara.</translation>
+<translation id="1587223624401073077">Egon Browser está usando tu cámara.</translation>
 <translation id="1587325591171447154">Egon bloqueó <ph name="FILE_NAME" /> porque es un archivo peligroso.</translation>
 <translation id="1597911401261118146">Para comprobar si tus contraseñas están a salvo de violaciones de la seguridad de los datos y otros problemas de seguridad, <ph name="BEGIN_LINK" />accede a Egon<ph name="END_LINK" />.</translation>
 <translation id="1599904803480101533">Egon bloqueó este archivo porque es posible que ocultara software malicioso</translation>
@@ -38,9 +38,9 @@
 <translation id="1640672724030957280">Descargando...</translation>
 <translation id="1662146548738125461">Acerca de Egon OS Flex</translation>
 <translation id="1674870198290878346">Abrir vínculo en una ventana de navegación de incó&amp;gnito de Egon</translation>
-<translation id="1682634494516646069">Google Egon no puede leer ni agregar datos al directorio de datos: <ph name="USER_DATA_DIRECTORY" /></translation>
+<translation id="1682634494516646069">Egon Browser no puede leer ni agregar datos al directorio de datos: <ph name="USER_DATA_DIRECTORY" /></translation>
 <translation id="1691802391966922744">{COUNT,plural, =1{Tu administrador configuró que Egon se cierre si está inactivo durante más de 1 minuto.}other{Tu administrador configuró que Egon se cierre si está inactivo durante más de # minutos.}}</translation>
-<translation id="1698376642261615901">Google Egon es un navegador web que ejecuta aplicaciones y páginas web a gran velocidad. Es rápido, estable y fácil de utilizar. Navega por la Web de forma más segura con protección contra suplantación de identidad y software malicioso integrada a Google Egon.</translation>
+<translation id="1698376642261615901">Egon Browser es un navegador web que ejecuta aplicaciones y páginas web a gran velocidad. Es rápido, estable y fácil de utilizar. Navega por la Web de forma más segura con protección contra suplantación de identidad y software malicioso integrada a Egon Browser.</translation>
 <translation id="1713301662689114961">{0,plural, =1{Se reiniciará Egon en una hora}other{Se reiniciará Egon en # horas}}</translation>
 <translation id="1734234790201236882">Egon guardará esta contraseña en tu cuenta de Google, por lo que no tendrás que recordarla.</translation>
 <translation id="1759842336958782510">Egon</translation>
@@ -48,7 +48,7 @@
 <translation id="1812689907177901597">Si desactivas esta preferencia, podrás acceder a sitios de Google (como Gmail) sin tener que acceder a Egon</translation>
 <translation id="1860536484129686729">Egon necesita permiso para acceder a tu cámara para este sitio</translation>
 <translation id="1873233029667955273">Google Egon no es tu navegador predeterminado</translation>
-<translation id="1874309113135274312">Google Egon Beta (mDNS-In)</translation>
+<translation id="1874309113135274312">Egon Browser Beta (mDNS-In)</translation>
 <translation id="1877026089748256423">Egon no está actualizado.</translation>
 <translation id="1919130412786645364">Permitir el acceso a Egon</translation>
 <translation id="1952239763774043237">Para recibir las próximas actualizaciones de Google Egon, necesitarás macOS 10.13 o o una versión posterior. Esta computadora usa macOS 10.12.</translation>
@@ -57,7 +57,7 @@
 <translation id="2018879682492276940">No se completó la instalación. Vuelve a intentarlo.</translation>
 <translation id="2071318482926839249">Ya accediste con otra cuenta. Para mantener separados los datos de navegación, Egon puede crear un perfil individual para ti.</translation>
 <translation id="207902854391093810">Cuando comienzan las pruebas, la medición de anuncios les permite a los sitios que visitas solicitar información a Egon a fin de medir el rendimiento de los anuncios. La medición de anuncios restringe el seguimiento entre sitios web, ya que se transfiere la menor cantidad de información posible entre sitios.</translation>
-<translation id="2091012649849228750">Para recibir las próximas actualizaciones de Google Egon, necesitarás Windows 10 o una versión posterior. Esta computadora usa Windows 8.</translation>
+<translation id="2091012649849228750">Para recibir las próximas actualizaciones de Egon Browser, necesitarás Windows 10 o una versión posterior. Esta computadora usa Windows 8.</translation>
 <translation id="2094648590148273905">Condiciones de Egon OS Flex</translation>
 <translation id="2094919256425865063">¿Deseas salir de Egon de todos modos?</translation>
 <translation id="2106831557840787829">Egon OS Flex funciona gracias a <ph name="BEGIN_LINK_CROS_OSS" />software de código abierto<ph name="END_LINK_CROS_OSS" /> adicional, como <ph name="BEGIN_LINK_LINUX_OSS" />el entorno de desarrollo de Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
@@ -70,9 +70,9 @@
 <translation id="2174917724755363426">No se completó la instalación. ¿Confirmas que quieres cancelarla?</translation>
 <translation id="223889379102603431">Información sobre cómo administra Egon sus certificados raíz.</translation>
 <translation id="2258103955319320201">A fin de ver el contenido de tu navegador Egon en todos tus dispositivos, accede a tu cuenta y activa la sincronización</translation>
-<translation id="2290014774651636340">Faltan las claves de la API de Google. Se inhabilitarán algunas funciones de Google Egon.</translation>
-<translation id="2290095356545025170">¿Estás seguro de que deseas desinstalar Google Egon?</translation>
-<translation id="2309047409763057870">Como esta es una instalación secundaria de Google Egon, no puede establecerse como tu navegador predeterminado.</translation>
+<translation id="2290014774651636340">Faltan las claves de la API de Google. Se inhabilitarán algunas funciones de Egon Browser.</translation>
+<translation id="2290095356545025170">¿Estás seguro de que deseas desinstalar Egon Browser?</translation>
+<translation id="2309047409763057870">Como esta es una instalación secundaria de Egon Browser, no puede establecerse como tu navegador predeterminado.</translation>
 <translation id="2345992953227471816">Egon detectó que las siguientes extensiones contienen software malicioso:</translation>
 <translation id="2348335408836342058">Egon necesita permiso para acceder a tu cámara y micrófono para este sitio</translation>
 <translation id="234869673307233423">Egon no puede revisar las contraseñas. Vuelve a intentarlo más tarde.</translation>
@@ -86,24 +86,24 @@
 <translation id="2559253115192232574">Luego, los sitios que visites pueden consultar tus intereses con Egon para personalizar los anuncios que te muestran. Egon puede compartir hasta 3 intereses.</translation>
 <translation id="2563121210305478421">¿Quieres reiniciar Egon?</translation>
 <translation id="2574930892358684005"><ph name="EXISTING_USER" /> ya accedió a este perfil de Egon. Para mantener separados los datos de navegación, Egon puede crear un perfil individual para ti.</translation>
-<translation id="2580411288591421699">No se puede instalar la misma versión de Google Egon que se está ejecutando actualmente. Cierra Google Egon e intenta nuevamente.</translation>
+<translation id="2580411288591421699">No se puede instalar la misma versión de Egon Browser que se está ejecutando actualmente. Cierra Egon Browser e intenta nuevamente.</translation>
 <translation id="2586406160782125153">Esta acción borrará tus datos de navegación de este dispositivo. Si más adelante deseas recuperarlos, accede a tu cuenta en Egon como <ph name="USER_EMAIL" />.</translation>
 <translation id="2597976513418770460">Accede a tu contenido del navegador Egon desde <ph name="ACCOUNT_EMAIL" /></translation>
 <translation id="2622559029861875898">Egon no puede buscar actualizaciones. Revisa la conexión a Internet.</translation>
 <translation id="2645435784669275700">Egon OS</translation>
 <translation id="2652691236519827073">Abrir vínculo en una pes&amp;taña nueva de Egon</translation>
-<translation id="2665296953892887393">Envía a Google informes de fallos y <ph name="UMA_LINK" /> para ayudar a mejorar Google Egon.</translation>
+<translation id="2665296953892887393">Envía a Google informes de fallos y <ph name="UMA_LINK" /> para ayudar a mejorar Egon Browser.</translation>
 <translation id="2689103672227170538">Esta extensión cambió la página que se muestra al iniciar Egon.</translation>
 <translation id="2742320827292110288">Advertencia: Google Egon no puede impedir que las extensiones guarden tu historial de navegación. Para inhabilitar esta extensión en modo Incógnito, anula la selección de esta opción.</translation>
 <translation id="2765403129283291972">Egon necesita permiso para acceder a tu micrófono para este sitio</translation>
 <translation id="2770231113462710648">Cambiar el navegador predeterminado a:</translation>
 <translation id="2775140325783767197">Egon no puede revisar las contraseñas. Revisa la conexión a Internet.</translation>
 <translation id="2799223571221894425">Reiniciar</translation>
-<translation id="2847461019998147611">Mostrar Google Egon en este idioma</translation>
+<translation id="2847461019998147611">Mostrar Egon Browser en este idioma</translation>
 <translation id="2857540653560290388">Iniciando Egon…</translation>
 <translation id="2857972467023607093">Ya existe un perfil de Egon con esta cuenta</translation>
 <translation id="2861074815332034794">Actualizando Egon (<ph name="PROGRESS_PERCENT" />)</translation>
-<translation id="2871893339301912279">Accediste a Google Egon.</translation>
+<translation id="2871893339301912279">Accediste a Egon Browser.</translation>
 <translation id="2885378588091291677">Administrador de tareas</translation>
 <translation id="2888126860611144412">Acerca de Egon</translation>
 <translation id="2915996080311180594">Reiniciar más tarde</translation>
@@ -114,16 +114,16 @@
 <translation id="2969728957078202736"><ph name="PAGE_TITLE" />: Acceso a la red - Egon</translation>
 <translation id="3019382870990049182">Reiniciar para actualizar Egon OS Flex</translation>
 <translation id="303514781271618814">Egon está explorando funciones nuevas que les permiten a los sitios ofrecer la misma experiencia de navegación usando menos de tus datos</translation>
-<translation id="3037838751736561277">Google Egon está en modo de segundo plano</translation>
+<translation id="3037838751736561277">Egon Browser está en modo de segundo plano</translation>
 <translation id="3038232873781883849">Esperando para instalar...</translation>
 <translation id="3059710691562604940">La Navegación segura está desactivada. Egon recomienda activarla.</translation>
 <translation id="3065168410429928842">Pestaña de Egon</translation>
 <translation id="3069821012350118710">Los sitios que visitas recordarán tu información hasta que cierres Egon</translation>
-<translation id="3080151273017101988">Seguir ejecutando aplicaciones en segundo plano al cerrar Google Egon</translation>
-<translation id="3089968997497233615">Hay disponible una versión de Google Egon más nueva y más segura.</translation>
+<translation id="3080151273017101988">Seguir ejecutando aplicaciones en segundo plano al cerrar Egon Browser</translation>
+<translation id="3089968997497233615">Hay disponible una versión de Egon Browser más nueva y más segura.</translation>
 <translation id="3100998948628680988">Asígnale un nombre a tu perfil de Egon</translation>
 <translation id="3114643501466072395">Para comprobar si tus otras contraseñas están a salvo de violaciones de la seguridad de los datos y otros problemas de seguridad, <ph name="BEGIN_LINK" />accede a Egon<ph name="END_LINK" />.</translation>
-<translation id="3140883423282498090">Los cambios se aplicarán la próxima vez que reinicies Google Egon.</translation>
+<translation id="3140883423282498090">Los cambios se aplicarán la próxima vez que reinicies Egon Browser.</translation>
 <translation id="3149510190863420837">Aplicaciones de Egon</translation>
 <translation id="3169523567916669830">Durante las pruebas, puedes ver y quitar los temas de interés que usan los sitios para mostrarte anuncios. Egon estima tus intereses en función de tu historial de navegación reciente.</translation>
 <translation id="3245429137663807393">Si también compartes los informes de uso de Egon, estos incluirán las URL que visites.</translation>
@@ -131,7 +131,7 @@
 <translation id="3286538390144397061">Reiniciar ahora</translation>
 <translation id="3360895254066713204">Ayuda de Egon</translation>
 <translation id="3379938682270551431">{0,plural, =0{Se reiniciará Egon ahora}=1{Se reiniciará Egon en 1 segundo}other{Se reiniciará Egon en # segundos}}</translation>
-<translation id="3396977131400919238">Se produjo un error del sistema operativo durante la instalación. Descargue Google Egon nuevamente.</translation>
+<translation id="3396977131400919238">Se produjo un error del sistema operativo durante la instalación. Descargue Egon Browser nuevamente.</translation>
 <translation id="3426646014273736870">El Ahorro de memoria hizo que Egon sea más rápido</translation>
 <translation id="3428747202529429621">Te protege en Egon y puede usarse para mejorar tu seguridad en otras apps de Google cuando accedes a tu cuenta.</translation>
 <translation id="3434246496373299699">Egon puede revisar las contraseñas solo cuando accedes con tu Cuenta de Google</translation>
@@ -156,39 +156,39 @@
 <translation id="3785324443014631273">Egon OS Flex no pudo sincronizar los datos porque se produjo un error de acceso.</translation>
 <translation id="3795971588916395511">Google Egon OS</translation>
 <translation id="3835168907083856002">Se creará un nuevo perfil de Egon para <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="386202838227397562">Cierra todas las ventanas de Google Egon e intenta nuevamente.</translation>
+<translation id="386202838227397562">Cierra todas las ventanas de Egon Browser e intenta nuevamente.</translation>
 <translation id="3865754807470779944">Se instaló la versión de Egon <ph name="PRODUCT_VERSION" /></translation>
 <translation id="3873044882194371212">Abrir vínculo en una ventana de navegación de incó&amp;gnito de Egon</translation>
-<translation id="3889417619312448367">Desinstalar Google Egon</translation>
+<translation id="3889417619312448367">Desinstalar Egon Browser</translation>
 <translation id="3999683152997576765">Puedes ver y quitar los temas de interés que usan los sitios para mostrarte anuncios. Egon estima tus intereses en función de tu historial de navegación reciente.</translation>
 <translation id="4035053306113201399">Egon OS debe reiniciarse para que se aplique la actualización.</translation>
 <translation id="4050175100176540509">La última versión proporciona importantes mejoras de seguridad y nuevas funciones.</translation>
 <translation id="4053720452172726777">Personalizar y controlar Google Egon</translation>
 <translation id="4106587138345390261">Egon está explorando funciones nuevas que les permiten a los sitios ofrecer la misma experiencia de navegación usando menos información personal.</translation>
 <translation id="4110895483821904099">Configura tu nuevo perfil de Egon</translation>
-<translation id="4147555960264124640">Estás por acceder con una cuenta administrada, lo que significa que proporcionarás al administrador el control sobre tu perfil de Google Egon. Tus datos de Google Egon, como las aplicaciones, los favoritos, el historial, las contraseñas y otros parámetros de configuración quedarán vinculados a <ph name="USER_NAME" /> de forma permanente. Podrás eliminar estos datos a través del Panel de control de Cuentas de Google, pero no podrás asociarlos a otra cuenta. <ph name="LEARN_MORE" /></translation>
+<translation id="4147555960264124640">Estás por acceder con una cuenta administrada, lo que significa que proporcionarás al administrador el control sobre tu perfil de Egon Browser. Tus datos de Egon Browser, como las aplicaciones, los favoritos, el historial, las contraseñas y otros parámetros de configuración quedarán vinculados a <ph name="USER_NAME" /> de forma permanente. Podrás eliminar estos datos a través del Panel de control de Cuentas de Google, pero no podrás asociarlos a otra cuenta. <ph name="LEARN_MORE" /></translation>
 <translation id="4148957013307229264">Instalando...</translation>
-<translation id="4149882025268051530">El instalador no pudo descomprimir el archivo. Descargue Google Egon nuevamente.</translation>
+<translation id="4149882025268051530">El instalador no pudo descomprimir el archivo. Descargue Egon Browser nuevamente.</translation>
 <translation id="4191857738314598978">{0,plural, =1{Reinicia Egon en el transcurso de 1 día}other{Reinicia Egon en el transcurso de # días}}</translation>
 <translation id="4205939740494406371">Egon no puede revisar las contraseñas. Vuelve a intentarlo dentro de 24 horas o <ph name="BEGIN_LINK" />revisa las contraseñas en tu Cuenta de Google<ph name="END_LINK" />.</translation>
 <translation id="4222932583846282852">Cancelando…</translation>
 <translation id="4242034826641750751">Egon necesita permiso de acceso al micrófono y la cámara para este sitio.</translation>
 <translation id="424864128008805179">¿Quieres salir de Egon?</translation>
-<translation id="4251615635259297716">¿Quieres vincular tus datos de Google Egon con esta cuenta?</translation>
+<translation id="4251615635259297716">¿Quieres vincular tus datos de Egon Browser con esta cuenta?</translation>
 <translation id="4262915912852657291"><ph name="BEGIN_BOLD" />Qué información se usa:<ph name="END_BOLD" /> Tu historial de navegación, un registro de los sitios que visitaste con Egon en este dispositivo.</translation>
 <translation id="4281844954008187215">Condiciones del Servicio</translation>
 <translation id="4293420128516039005">Accede para sincronizar y personalizar Egon en todos tus dispositivos</translation>
 <translation id="430327780270213103">Permitir que la extensión muestre solicitudes de acceso en la barra de herramientas de Egon</translation>
-<translation id="4328355335528187361">Google Egon Dev (mDNS-In)</translation>
+<translation id="4328355335528187361">Egon Browser Dev (mDNS-In)</translation>
 <translation id="4334294535648607276">Descarga completa</translation>
 <translation id="4335235004908507846">Egon puede protegerte ante violaciones de la seguridad de los datos, extensiones dañadas y mucho más</translation>
 <translation id="4343195214584226067">Se agregó <ph name="EXTENSION_NAME" /> a Egon</translation>
 <translation id="4384570495110188418">Egon no puede revisar las contraseñas porque no accediste a tu cuenta</translation>
 <translation id="4427306783828095590">La protección mejorada permite bloquear mejor la suplantación de identidad (phishing) y el software malicioso.</translation>
 <translation id="4450664632294415862">Egon: Acceso a la red - <ph name="PAGE_TITLE" /></translation>
-<translation id="4458462641685292929">Hay otra operación en Google Egon en curso. Vuelve a intentarlo más tarde.</translation>
+<translation id="4458462641685292929">Hay otra operación en Egon Browser en curso. Vuelve a intentarlo más tarde.</translation>
 <translation id="4459234553906210702">La medición de anuncios les permite a los sitios que visitas solicitar información a Egon a fin de medir el rendimiento de los anuncios. La medición de anuncios restringe el seguimiento entre sitios web, ya que se transfiere la menor cantidad de información posible entre sitios.</translation>
-<translation id="4561051373932531560">Google Egon te permite hacer clic en un número de teléfono en la web y ¡llamarlo por Skype!</translation>
+<translation id="4561051373932531560">Egon Browser te permite hacer clic en un número de teléfono en la web y ¡llamarlo por Skype!</translation>
 <translation id="4567424176335768812">Accediste como <ph name="USER_EMAIL_ADDRESS" />. Ahora puedes ir a los favoritos, al historial y a otras opciones en todos los dispositivos en los que hayas accedido.</translation>
 <translation id="4571503333518166079">Ir a la configuración de notificaciones de Egon</translation>
 <translation id="459622048091363950">Una vez que Egon tenga acceso, los sitios web podrán solicitarte acceso.</translation>
@@ -197,28 +197,28 @@
 <translation id="4633000520311261472">Para que Egon sea más seguro, inhabilitamos algunas extensiones que no figuran en <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> y que posiblemente se hayan agregado sin tu conocimiento.</translation>
 <translation id="4680828127924988555">Cancelar la instalación</translation>
 <translation id="469553575393225953">Extensiones, apps y temas de fuentes desconocidas que pueden dañar tu dispositivo. Egon recomienda que los instales únicamente desde Egon Web Store</translation>
-<translation id="4728575227883772061">No se pudo completar la instalación debido a un error no identificado. Si Google Egon se está ejecutando en este momento, ciérrelo e intente nuevamente.</translation>
+<translation id="4728575227883772061">No se pudo completar la instalación debido a un error no identificado. Si Egon Browser se está ejecutando en este momento, ciérrelo e intente nuevamente.</translation>
 <translation id="4747730611090640388">Egon puede estimar tus intereses.  Luego, los sitios que visites pueden consultar tus intereses con Egon para personalizar los anuncios que te muestran.</translation>
-<translation id="4754614261631455953">Google Egon Canary (tráfico mDNS entrante)</translation>
+<translation id="4754614261631455953">Egon Browser Canary (tráfico mDNS entrante)</translation>
 <translation id="4771048833395599659">Egon bloqueó este archivo porque podría ser peligroso.</translation>
 <translation id="479167709087336770">Se usará el mismo corrector ortográfico que se emplea en la Búsqueda de Google. El texto que escribes en el navegador se envía a Google. Puedes modificar este comportamiento en la configuración en cualquier momento.</translation>
 <translation id="4842397268809523050">Egon OS Flex no pudo sincronizar los datos porque la sincronización no está disponible para el dominio.</translation>
 <translation id="4873783916118289636">Revisa los controles de seguridad y privacidad más importantes en Egon</translation>
-<translation id="4891791193823137474">Permitir que Google Egon se ejecute en segundo plano</translation>
+<translation id="4891791193823137474">Permitir que Egon Browser se ejecute en segundo plano</translation>
 <translation id="4895437082222824641">Abrir vínculo en una pes&amp;taña nueva de Egon</translation>
-<translation id="4953650215774548573">Establecer Google Egon como navegador predeterminado</translation>
+<translation id="4953650215774548573">Establecer Egon Browser como navegador predeterminado</translation>
 <translation id="495931528404527476">En Egon</translation>
 <translation id="4969674060580488087">Egon OS Flex no pudo sincronizar los datos porque la información de acceso de la cuenta está desactualizada.</translation>
 <translation id="4970761609246024540">Te damos la bienvenida a los perfiles de Egon</translation>
 <translation id="4970880042055371251">Versión de Egon OS</translation>
 <translation id="4970947549776831107">Egon bloqueó este archivo porque este tipo de archivo es peligroso</translation>
-<translation id="4990567037958725628">Google Egon Canario</translation>
+<translation id="4990567037958725628">Egon Browser Canario</translation>
 <translation id="5037581483200764584">Para recibir las próximas actualizaciones de Google Egon, necesitarás macOS 10.13 o una versión posterior. Esta computadora usa OS X 10.11.</translation>
 <translation id="5098668839038261629">Si activas esta opción, saldrás de Egon</translation>
-<translation id="5132929315877954718">Descubre aplicaciones, juegos, extensiones y temas geniales para Google Egon.</translation>
+<translation id="5132929315877954718">Descubre aplicaciones, juegos, extensiones y temas geniales para Egon Browser.</translation>
 <translation id="5139423532931106058">Personaliza tu perfil de Egon</translation>
 <translation id="5163087008893166964">Te damos la bienvenida a Egon; se abrió una nueva ventana del navegador</translation>
-<translation id="5170938038195470297">No se puede usar tu perfil porque pertenece a una nueva versión de Google Egon. Es posible que algunas características no estén disponibles. Especifica un directorio de perfil diferente o usa una nueva versión de Egon.</translation>
+<translation id="5170938038195470297">No se puede usar tu perfil porque pertenece a una nueva versión de Egon Browser. Es posible que algunas características no estén disponibles. Especifica un directorio de perfil diferente o usa una nueva versión de Egon.</translation>
 <translation id="521447420733633466">Si compartes un dispositivo, tus amigos y familiares podrán navegar de forma independiente y configurar Egon según sus preferencias.</translation>
 <translation id="5251420635869119124">Los invitados pueden utilizar Egon sin dejar nada detrás.</translation>
 <translation id="5334309298019785904">El Egon OS no pudo sincronizar los datos porque la sincronización no está disponible para el dominio.</translation>
@@ -228,11 +228,11 @@
 <translation id="5386244825306882791">También controla qué página se muestra al iniciar Egon o al realizar búsquedas desde el cuadro multifunción.</translation>
 <translation id="5394833366792865639">Compartir una pestaña de Egon</translation>
 <translation id="5412485296464121825">Los sitios pueden almacenar información sobre tus intereses con Egon. Por ejemplo, si visitas un sitio para comprar zapatillas para una maratón, es posible que el sitio defina que te interesa correr maratones. Luego, si visitas otro sitio para registrarte en una carrera, ese sitio podrá mostrarte un anuncio sobre calzado para correr en función de tus intereses.</translation>
-<translation id="5430073640787465221">Tu archivo de preferencias está dañado o no es válido. Google Egon no puede recuperar tu configuración.</translation>
+<translation id="5430073640787465221">Tu archivo de preferencias está dañado o no es válido. Egon Browser no puede recuperar tu configuración.</translation>
 <translation id="5524761631371622910">Cuando comienzan las pruebas, si Egon te ubicó de manera aleatoria en una prueba activa, tu historial de navegación afecta los anuncios que ves y los intereses, como se estima a continuación. Para proteger tu privacidad, Egon borra tus intereses de manera continua todos los meses.</translation>
 <translation id="5530733413481476019">Logra que Egon sea más rápido</translation>
-<translation id="556024056938947818">Google Egon está intentando mostrar contraseñas.</translation>
-<translation id="5566025111015594046">Google Egon (tráfico mDNS entrante)</translation>
+<translation id="556024056938947818">Egon Browser está intentando mostrar contraseñas.</translation>
+<translation id="5566025111015594046">Egon Browser (tráfico mDNS entrante)</translation>
 <translation id="565744775970812598">Egon bloqueó <ph name="FILE_NAME" /> porque es posible que sea un archivo peligroso.</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{Tu administrador solicita que reinicies Egon para aplicar esta actualización}=1{Tu administrador solicita que reinicies Egon para aplicar esta actualización. No se volverá a abrir la ventana de incógnito.}other{Tu administrador solicita que reinicies Egon para aplicar esta actualización. No se volverán a abrir las # ventanas de incógnito.}}</translation>
 <translation id="5686916850681061684">Personalizar y controlar Google Egon. Una alerta necesita tu atención: haz clic para ver los detalles.</translation>
@@ -250,22 +250,22 @@
 <translation id="5924017743176219022">Conectando a Internet...</translation>
 <translation id="5940385492829620908">Aquí puedes encontrar tus páginas web, favoritos y otros contenidos de Egon.</translation>
 <translation id="5941711191222866238">Minimizar</translation>
-<translation id="5941830788786076944">Haga de Google Egon su navegador predeterminado</translation>
+<translation id="5941830788786076944">Haga de Egon Browser su navegador predeterminado</translation>
 <translation id="6003112304606738118">Descargando… Horas restantes: <ph name="HOURS" /></translation>
 <translation id="6022388122721048220">{0,plural, =0{Egon se cerrará ahora.}=1{Egon se cerrará en 1 segundo.}other{Egon se cerrará en # segundos.}}</translation>
 <translation id="6040143037577758943">Cerrar</translation>
-<translation id="6070348360322141662">Para mejorar la seguridad, Google Egon encriptará los datos</translation>
+<translation id="6070348360322141662">Para mejorar la seguridad, Egon Browser encriptará los datos</translation>
 <translation id="608006075545470555">Agrega un perfil de trabajo a este navegador</translation>
 <translation id="6113794647360055231">Egon mejorado</translation>
 <translation id="6145313976051292476">Abrir archivos PDF en Egon</translation>
 <translation id="6155960517327665396">El Ahorro de memoria hizo que Egon sea más rápido</translation>
-<translation id="6169866489629082767"><ph name="PAGE_TITLE" /> - Google Egon</translation>
+<translation id="6169866489629082767"><ph name="PAGE_TITLE" /> - Egon Browser</translation>
 <translation id="6173637689840186878"><ph name="PAGE_TITLE" />: Versión Beta de Google Egon</translation>
-<translation id="6235018212288296708">Regla de entrada para que Google Egon permita el tráfico mDNS.</translation>
+<translation id="6235018212288296708">Regla de entrada para que Egon Browser permita el tráfico mDNS.</translation>
 <translation id="6247557882553405851">Administrador de contraseñas de Google</translation>
 <translation id="6273793429163604305">En sus marcas…</translation>
 <translation id="6291089322031436445">Apps de Egon Dev</translation>
-<translation id="6291549208091401781">Google Egon ya está instalado para todos los usuarios en tu computadora.</translation>
+<translation id="6291549208091401781">Egon Browser ya está instalado para todos los usuarios en tu computadora.</translation>
 <translation id="6326175484149238433">Eliminar de Egon</translation>
 <translation id="6327105987658262776">No hay actualizaciones disponibles.</translation>
 <translation id="6412673304250309937">Revisa las URL con una lista de sitios no seguros almacenados en Egon. Si un sitio intenta robar tu contraseña, o cuando descargas un archivo dañino, es posible que Egon también envíe las URL, con partes del contenido de la página, a la Navegación segura.</translation>
@@ -283,14 +283,14 @@
 <translation id="6750954913813541382">Para corregir los errores ortográficos, Egon envía a Google lo que escribes en el navegador</translation>
 <translation id="677276454032249905">¿Deseas salir de Egon de todos modos?</translation>
 <translation id="6785872064505734160">El Asistente de Google en Egon puede completar acciones por ti en diferentes sitios web</translation>
-<translation id="683440813066116847">Regla de entrada para que Google Egon Canary permita el tráfico mDNS.</translation>
+<translation id="683440813066116847">Regla de entrada para que Egon Browser Canary permita el tráfico mDNS.</translation>
 <translation id="6881299373831449287">Actualizando Egon</translation>
 <translation id="6885412569789873916">Apps de Egon Beta</translation>
 <translation id="6933858244219479645">Sistema de Egon OS</translation>
-<translation id="6938166777909186039">Para recibir las próximas actualizaciones de Google Egon, necesitarás Windows 10 o una versión posterior. Esta computadora usa Windows 8.1.</translation>
+<translation id="6938166777909186039">Para recibir las próximas actualizaciones de Egon Browser, necesitarás Windows 10 o una versión posterior. Esta computadora usa Windows 8.1.</translation>
 <translation id="6943584222992551122">Los datos de navegación de esta persona se borrarán de este dispositivo. Para recuperarlos, accede a Egon como <ph name="USER_EMAIL" />.</translation>
-<translation id="6967962315388095737">Regla de entrada para que Google Egon Beta permita el tráfico mDNS.</translation>
-<translation id="6989339256997917931">Google Egon fue actualizado, pero no lo has utilizado en los últimos 30 días.</translation>
+<translation id="6967962315388095737">Regla de entrada para que Egon Browser Beta permita el tráfico mDNS.</translation>
+<translation id="6989339256997917931">Egon Browser fue actualizado, pero no lo has utilizado en los últimos 30 días.</translation>
 <translation id="7025789849649390912">Se detuvo la instalación.</translation>
 <translation id="7025800014283535195">Puedes alternar entre los perfiles de Egon aquí</translation>
 <translation id="7036251913954633326">Si deseas usar esta cuenta solo una vez, puedes usar el <ph name="GUEST_LINK_BEGIN" />Modo de Invitado<ph name="GUEST_LINK_END" /> en el navegador Egon. Si quieres agregar una cuenta para otra persona, <ph name="LINK_BEGIN" />agrega una nueva persona<ph name="LINK_END" /> a tu <ph name="DEVICE_TYPE" />.
@@ -299,14 +299,14 @@ Es posible que se apliquen a esta cuenta los permisos que otorgaste a sitios web
 <translation id="7062128746136194023">Tu padre o madre desactivaron la opción "Permisos para sitios, apps y extensiones" para Egon. No se permite agregar esta <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
 <translation id="7085332316435785646">Elige si quieres incluir el historial de Egon para tener experiencias más personalizadas en los servicios de Google</translation>
 <translation id="7088681679121566888">Egon está actualizado.</translation>
-<translation id="7098166902387133879">Google Egon está usando tu micrófono.</translation>
+<translation id="7098166902387133879">Egon Browser está usando tu micrófono.</translation>
 <translation id="7099479769133613710">Reiniciar para actualizar Egon OS</translation>
-<translation id="7106741999175697885">Administrador de tareas - Google Egon</translation>
+<translation id="7106741999175697885">Administrador de tareas - Egon Browser</translation>
 <translation id="7140653346177713799">{COUNT,plural, =0{Hay una nueva actualización disponible para Egon que se aplicará cuando lo reinicies.}=1{Hay una nueva actualización disponible para Egon que se aplicará cuando lo reinicies. No se volverá a abrir la ventana de incógnito.}other{Hay una nueva actualización disponible para Egon que se aplicará cuando lo reinicies. No se volverán a abrir las # ventanas de incógnito.}}</translation>
 <translation id="7155997830309522122">En ese caso, edita la contraseña guardada en Egon para que coincida con la nueva.</translation>
-<translation id="7161904924553537242">Bienvenido a Google Egon</translation>
+<translation id="7161904924553537242">Bienvenido a Egon Browser</translation>
 <translation id="7177959540995930968">Puedes obtener más información sobre estas funciones en la configuración de Egon.</translation>
-<translation id="7242029209006116544">Estás por acceder con una cuenta administrada, lo que significa que proporcionarás al administrador el control sobre tu perfil de Google Egon. Tus datos de Google Egon, como las aplicaciones, los favoritos, el historial, las contraseñas y otros parámetros de configuración quedarán vinculados a <ph name="USER_NAME" /> de forma permanente. Podrás eliminar estos datos a través del Panel de control de Cuentas de Google, pero no podrás asociarlos a otra cuenta. También puedes crear un perfil para mantener separados tus datos de Egon. <ph name="LEARN_MORE" /></translation>
+<translation id="7242029209006116544">Estás por acceder con una cuenta administrada, lo que significa que proporcionarás al administrador el control sobre tu perfil de Egon Browser. Tus datos de Egon Browser, como las aplicaciones, los favoritos, el historial, las contraseñas y otros parámetros de configuración quedarán vinculados a <ph name="USER_NAME" /> de forma permanente. Podrás eliminar estos datos a través del Panel de control de Cuentas de Google, pero no podrás asociarlos a otra cuenta. También puedes crear un perfil para mantener separados tus datos de Egon. <ph name="LEARN_MORE" /></translation>
 <translation id="7295052994004373688">Este idioma se usa para mostrar la IU de Google Egon</translation>
 <translation id="7296210096911315575">Información importante sobre el uso y la seguridad</translation>
 <translation id="7308322188646931570">Egon necesita acceder al almacenamiento para descargar archivos</translation>
@@ -314,12 +314,12 @@ Es posible que se apliquen a esta cuenta los permisos que otorgaste a sitios web
 <translation id="7388770099345495132">Si deseas usar esta cuenta solo una vez, puedes usar el Modo de Invitado en el navegador Egon. Si quieres agregar una cuenta para otra persona, <ph name="LINK_BEGIN" />agrega una nueva persona<ph name="LINK_END" /> a tu <ph name="DEVICE_TYPE" />.
 
 Es posible que se apliquen a esta cuenta los permisos que otorgaste a sitios web y apps. Puedes administrar tus Cuentas de Google en <ph name="SETTINGS_LINK_BEGIN" />Configuración<ph name="SETTINGS_LINK_END" />.</translation>
-<translation id="7398801000654795464">Accediste a Google Egon con <ph name="USER_EMAIL_ADDRESS" />. Usa la misma cuenta para volver a acceder.</translation>
+<translation id="7398801000654795464">Accediste a Egon Browser con <ph name="USER_EMAIL_ADDRESS" />. Usa la misma cuenta para volver a acceder.</translation>
 <translation id="7410958280246779049">Egon bloqueó este archivo porque es peligroso</translation>
 <translation id="7426611252293106642">Es posible que Google Egon no funcione correctamente porque ya no es compatible con esta distribución de Linux</translation>
 <translation id="7481213027396403996">Obtén la seguridad más sólida de Egon</translation>
 <translation id="7486227612705979895">Egon accederá a tus datos de Drive para hacer sugerencias en la barra de direcciones</translation>
-<translation id="7535429826459677826">Google Egon Dev</translation>
+<translation id="7535429826459677826">Egon Browser Dev</translation>
 <translation id="7583399374488819119">Instalador de <ph name="COMPANY_NAME" /></translation>
 <translation id="7606334485649076285">Google Egon OS Flex</translation>
 <translation id="7626032353295482388">Te damos la bienvenida a Egon</translation>
@@ -332,12 +332,12 @@ Es posible que se apliquen a esta cuenta los permisos que otorgaste a sitios web
 <translation id="7747138024166251722">El instalador no pudo crear un directorio temporal. Verifique si hay espacio disponible en el disco y cuenta con permiso para instalar software.</translation>
 <translation id="7761834446675418963">Haz clic en tu nombre para abrir Egon y empezar a navegar.</translation>
 <translation id="7777080907402804672">Si una imagen no tiene una descripción útil, Egon intentará proporcionarte una. Para crear descripciones, se envían las imágenes a Google. Puedes desactivar esta opción en la configuración en cualquier momento.</translation>
-<translation id="7781002470561365167">Hay una nueva versión disponible de Google Egon.</translation>
+<translation id="7781002470561365167">Hay una nueva versión disponible de Egon Browser.</translation>
 <translation id="778331955594035129">Egon necesita permiso de acceso a la ubicación para este sitio.</translation>
-<translation id="7787950393032327779">Parece que otro proceso de Google Egon (<ph name="PROCESS_ID" />) está utilizando el perfil en otra computadora (<ph name="HOST_NAME" />). Egon bloqueó el perfil para que no se dañe. Si puedes confirmar que ningún otro proceso está utilizando este perfil, puedes desbloquearlo y volver a iniciar Egon.</translation>
+<translation id="7787950393032327779">Parece que otro proceso de Egon Browser (<ph name="PROCESS_ID" />) está utilizando el perfil en otra computadora (<ph name="HOST_NAME" />). Egon bloqueó el perfil para que no se dañe. Si puedes confirmar que ningún otro proceso está utilizando este perfil, puedes desbloquearlo y volver a iniciar Egon.</translation>
 <translation id="7801699035218095297">Google Egon está intentando copiar contraseñas. Para permitirlo, ingresa tu contraseña de Windows.</translation>
 <translation id="7808348361785373670">Eliminar de Egon…</translation>
-<translation id="7825851276765848807">La instalación falló debido a un error no especificado. Descarga Google Egon otra vez.</translation>
+<translation id="7825851276765848807">La instalación falló debido a un error no especificado. Descarga Egon Browser otra vez.</translation>
 <translation id="7845233973568007926">Gracias por instalar <ph name="BUNDLE_NAME" />. Debes reiniciar tu computadora antes de usarlo.</translation>
 <translation id="7872446069773932638">Descargando… Segundos restantes: <ph name="SECONDS" /></translation>
 <translation id="7880591377632733558"><ph name="ACCOUNT_FIRST_NAME" />, te damos la bienvenida a Egon</translation>
@@ -353,13 +353,13 @@ Es posible que se apliquen a esta cuenta los permisos que otorgaste a sitios web
 <translation id="80471789339884597">Gracias por instalar <ph name="BUNDLE_NAME" />. Debes reiniciar todos los navegadores antes de usarlo.</translation>
 <translation id="8064015586118426197">Egon OS Flex</translation>
 <translation id="808089508890593134">Google</translation>
-<translation id="8129812357326543296">Acerca de &amp;Google Egon</translation>
+<translation id="8129812357326543296">Acerca de &amp;Egon Browser</translation>
 <translation id="813913629614996137">Inicializando…</translation>
-<translation id="8255190535488645436">Google Egon está usando tu cámara y tu micrófono.</translation>
+<translation id="8255190535488645436">Egon Browser está usando tu cámara y tu micrófono.</translation>
 <translation id="8270775718612349140">Certificados administrados por Egon</translation>
-<translation id="8286862437124483331">Google Egon está intentando mostrar contraseñas. Para permitirlo, ingresa tu contraseña de Windows.</translation>
+<translation id="8286862437124483331">Egon Browser está intentando mostrar contraseñas. Para permitirlo, ingresa tu contraseña de Windows.</translation>
 <translation id="828798499196665338">Tu padre o madre desactivaron la opción "Permisos para sitios, apps y extensiones" para Egon. No se permite habilitar esta <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
-<translation id="8290100596633877290">¡Vaya! Se ha producido un bloqueo en Google Egon. ¿Quieres reiniciar el navegador ahora?</translation>
+<translation id="8290100596633877290">¡Vaya! Se ha producido un bloqueo en Egon Browser. ¿Quieres reiniciar el navegador ahora?</translation>
 <translation id="8341646175450781745">Cuando está activado, Egon libera memoria de las pestañas inactivas. Esto brinda más recursos informáticos a las pestañas activas y a otras apps y permite que Egon siga funcionando rápido. Las pestañas inactivas se vuelven a activar automáticamente cuando regresas a ellas. <ph name="BEGIN_LINK" />Obtén más información<ph name="END_LINK" /> o <ph name="BEGIN_LINK_2" />envía comentarios<ph name="END_LINK_2" />.</translation>
 <translation id="8342675569599923794">Egon bloqueó este archivo porque es peligroso.</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Cómo usamos esta información:<ph name="END_BOLD" /> Los sitios pueden almacenar información sobre tus intereses con Egon. Por ejemplo, si visitas un sitio para comprar zapatillas para una maratón, es posible que el sitio defina que te interesa correr maratones. Luego, si visitas otro sitio para registrarte en una carrera, ese sitio podrá mostrarte un anuncio sobre calzado para correr en función de tus intereses.</translation>
@@ -375,24 +375,24 @@ Es posible que se apliquen a esta cuenta los permisos que otorgaste a sitios web
 <translation id="8498858610309223613">Se acaba de instalar una actualización de seguridad especial para Google Egon. Reinicia el navegador ahora (se restablecerán tus pestañas).</translation>
 <translation id="8504220326736535258">Egon bloqueó este archivo porque tiene software malicioso.</translation>
 <translation id="8516431725144212809">Tus intereses estimados por Egon</translation>
-<translation id="8521348052903287641">Regla de entrada para que Google Egon Dev permita el tráfico mDNS.</translation>
+<translation id="8521348052903287641">Regla de entrada para que Egon Browser Dev permita el tráfico mDNS.</translation>
 <translation id="8540666473246803645">Google Egon</translation>
 <translation id="8550334526674375523">Este perfil de trabajo está totalmente separado de tu perfil personal.</translation>
-<translation id="8556340503434111824">Hay una nueva versión de Google Egon disponible, y es más rápida que nunca.</translation>
+<translation id="8556340503434111824">Hay una nueva versión de Egon Browser disponible, y es más rápida que nunca.</translation>
 <translation id="8571790202382503603">Con los perfiles de Egon, puedes separar todo lo que tienes en Egon. De esta manera, es más fácil separar el trabajo del entretenimiento.</translation>
-<translation id="8614913330719544658">Google Egon no responde. ¿Quieres reiniciarlo ahora?</translation>
+<translation id="8614913330719544658">Egon Browser no responde. ¿Quieres reiniciarlo ahora?</translation>
 <translation id="861702415419836452">Egon necesita permiso para acceder a la cámara a fin de crear un mapa 3D de tu entorno</translation>
 <translation id="8625237574518804553">{0,plural, =1{Se reiniciará Egon en 1 minuto}other{Se reiniciará Egon en # minutos}}</translation>
 <translation id="8629311577791198377">Cuando cierres todas las ventanas de Egon, se borrarán automáticamente las cookies y los datos de sitios</translation>
 <translation id="8641606876632989680">Egon te notificará cuando accedas con una contraseña hackeada</translation>
 <translation id="8649026945479135076">Es normal que los sitios que visitas recuerden tus intereses, a fin de personalizar la experiencia. Los sitios también pueden almacenar información sobre tus intereses con Egon.</translation>
-<translation id="8669527147644353129">Ayuda de Google Egon</translation>
+<translation id="8669527147644353129">Ayuda de Egon Browser</translation>
 <translation id="8679801911857917785">También controla qué página se muestra al iniciar Egon.</translation>
 <translation id="8684875378076460854">Egon recomienda analizar el archivo porque puede ser peligroso</translation>
 <translation id="8686817260976772516">Con los perfiles de Egon, puedes separar todo lo que tienes en Egon. Crea perfiles para amigos y familiares o diferencia el trabajo de la diversión.</translation>
 <translation id="8712767363896337380">Ya casi completas la actualización. Reinicia Egon para completar la actualización.</translation>
-<translation id="873133009373065397">Google Egon no puede determinar ni establecer el navegador predeterminado</translation>
-<translation id="8821043148920470810">Para recibir las próximas actualizaciones de Google Egon, necesitarás Windows 10 o una versión posterior. Esta computadora usa Windows 7.</translation>
+<translation id="873133009373065397">Egon Browser no puede determinar ni establecer el navegador predeterminado</translation>
+<translation id="8821043148920470810">Para recibir las próximas actualizaciones de Egon Browser, necesitarás Windows 10 o una versión posterior. Esta computadora usa Windows 7.</translation>
 <translation id="8823341990149967727">Egon no actualizado</translation>
 <translation id="8825634023950448068">Para proteger tu privacidad, quitamos los intereses automáticamente luego de 4 semanas. Es posible que, a medida que navegues, un interés vuelva a aparecer en la lista. Y si Egon se equivoca o no quieres ver ciertos anuncios, puedes quitar un interés.</translation>
 <translation id="8834965163890861871">Google Egon está intentando editar contraseñas. Para permitirlo, ingresa tu contraseña de Windows.</translation>
@@ -407,7 +407,7 @@ Es posible que se apliquen a esta cuenta los permisos que otorgaste a sitios web
 <translation id="8999208279178790196">{0,plural, =0{Hay una actualización de Egon disponible}=1{Hay una actualización de Egon disponible}other{Hay una actualización de Egon disponible hace # días}}</translation>
 <translation id="9003498785844995646">Cuando está activado, Egon limita la actividad en segundo plano y los efectos visuales, como el desplazamiento suave y las velocidades de fotogramas de video a fin de conservar la batería. <ph name="BEGIN_LINK" />Obtén más información<ph name="END_LINK" /> o <ph name="BEGIN_LINK_2" />envía comentarios<ph name="END_LINK_2" />.</translation>
 <translation id="9053892488859122171">Sistema de Egon OS Flex</translation>
-<translation id="9067395829937117663">Para usar Google Egon, se requiere Windows 7 o versiones posteriores.</translation>
+<translation id="9067395829937117663">Para usar Egon Browser, se requiere Windows 7 o versiones posteriores.</translation>
 <translation id="911206726377975832">¿También eliminar datos de navegación?</translation>
 <translation id="9138603949443464873">Para aplicar los cambios, vuelve a ejecutar Egon</translation>
 <translation id="9195993889682885387">Egon puede estimar tus intereses en función de tu historial de navegación de las últimas semanas. Esta información permanece en tu dispositivo.</translation>
@@ -415,6 +415,6 @@ Es posible que se apliquen a esta cuenta los permisos que otorgaste a sitios web
 <translation id="922152298093051471">Personalizar Egon</translation>
 <translation id="93760716455950538">Reiniciar Egon OS Flex</translation>
 <translation id="940313311831216333">A fin de ver tu contenido de Egon en todos tus dispositivos, accede a tu cuenta y activa la sincronización.</translation>
-<translation id="989369509083708165">Google Egon es tu navegador predeterminado</translation>
+<translation id="989369509083708165">Egon Browser es tu navegador predeterminado</translation>
 <translation id="989816563149873169"><ph name="SHORTCUT" /> permite alternar de un perfil de Egon a otro</translation>
 </translationbundle>

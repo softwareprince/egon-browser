@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">ବିଦ୍ୟମାନ ଥିବା ଡାଟାକୁ ଡିଲିଟ୍ କରନ୍ତୁ।</translation>
 <translation id="1146678959555564648">VR ଲେଖନ୍ତୁ</translation>
 <translation id="1149401351239820326">ମିଆଦ ଶେଷ ହେଉଥିବା ମାସ</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> Chromeରେ ଖୋଲିବ। ଜାରି ରଖି, ଆପଣ <ph name="BEGIN_LINK1" />Google ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_LINK1" /> ଏବଂ <ph name="BEGIN_LINK2" />Google Egon ଏବଂ ChromeOSର ଅତିରିକ୍ତ ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_LINK2" />ରେ ସମ୍ମତ ହୁଅନ୍ତି।</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> Chromeରେ ଖୋଲିବ। ଜାରି ରଖି, ଆପଣ <ph name="BEGIN_LINK1" />Google ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_LINK1" /> ଏବଂ <ph name="BEGIN_LINK2" />Egon Browser ଏବଂ ChromeOSର ଅତିରିକ୍ତ ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_LINK2" />ରେ ସମ୍ମତ ହୁଅନ୍ତି।</translation>
 <translation id="1154704303112745282">ପୃଷ୍ଠାଟି ଅଫଲାଇନରେ ଉପଲବ୍ଧ ନାହିଁ: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"ଶ୍ରେଷ୍ଠ ସାଇଟ୍‍ଗୁଡ଼ିକ" ବଟନ୍ ଟାପ୍ କରି ଲୋକପ୍ରିୟ ୱେବ୍‌ସାଇଟ୍‌ଗୁଡ଼ିକ ଦେଖନ୍ତୁ</translation>
 <translation id="1173894706177603556">ରିନେମ୍ କରନ୍ତୁ</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">ବିଜ୍ଞାପନର ପରିମାପ ଆପଣ ଭିଜିଟ କରୁଥିବା ସାଇଟଗୁଡ଼ିକୁ Chromeରୁ ସୂଚନା ପାଇଁ ଅନୁରୋଧ କରିବାକୁ ଅନୁମତି ଦିଏ, ଯାହା ସାଇଟକୁ ତାହାର ବିଜ୍ଞାପନଗୁଡ଼ିକର ପରଫରମାନ୍ସ ମାପିବାରେ ସାହାଯ୍ୟ କରେ। ସାଇଟଗୁଡ଼ିକ ମଧ୍ୟରେ ଯଥା ସମ୍ଭବ କମ୍ ସୂଚନା ଟ୍ରାନ୍ସଫର କରି ବିଜ୍ଞାପନର ପରିମାପ କ୍ରସ-ସାଇଟ ଟ୍ରାକିଂକୁ ପ୍ରତିବନ୍ଧିତ କରେ।
 
 ଯେତେବେଳେ ଆପଣ ଆପଣଙ୍କ ବ୍ରାଉଜିଂ ଇତିହାସକୁ ଡିଲିଟ କରନ୍ତି — ସବୁଗୁଡ଼ିକ କିମ୍ବା ଏକ ନିର୍ଦ୍ଦିଷ୍ଟ ସାଇଟ ପାଇଁ — ସେତେବେଳେ ଆପଣ ସମ୍ବନ୍ଧିତ ପରିମାପ ସୂଚନାକୁ ମଧ୍ୟ ଡିଲିଟ କରନ୍ତି। <ph name="BEGIN_LINK" />ଆପଣଙ୍କ ବ୍ରାଉଜିଂ ଇତିହାସ<ph name="END_LINK" /> ଦେଖନ୍ତୁ।</translation>
-<translation id="1332501820983677155">Google Egon ବୈଶିଷ୍ଟ୍ୟ ସର୍ଟକଟ୍</translation>
+<translation id="1332501820983677155">Egon Browser ବୈଶିଷ୍ଟ୍ୟ ସର୍ଟକଟ୍</translation>
 <translation id="1344653310988386453">ହାଇଲାଇଟ୍ କରାଯାଇଥିବା ଟେକ୍ସଟର ଲିଙ୍କକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରନ୍ତୁ</translation>
 <translation id="1347468774581902829">କାର୍ଯ୍ୟକଳାପ ପରିଚାଳନା କରନ୍ତୁ</translation>
 <translation id="1360432990279830238">ସିଙ୍କ ସାଇନ୍‌ ଆଉଟ୍‍ ଏବଂ ବନ୍ଦ କରିବେ?</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">ଆପ୍‌କୁ ଖୋଲି ହେଲା ନାହିଁ</translation>
 <translation id="2132122640199389833">ସମସ୍ତ ଲିଙ୍କ କରାଯାଇଥିବା ଡିଭାଇସକୁ କାଢ଼ି ଦିଅନ୍ତୁ</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" />ବନ୍ଦ ହୋଇଯାଇଛି</translation>
-<translation id="2134927169889348449">Egon ବ୍ୟବହାର କରି, ଆପଣ <ph name="BEGIN_TOS_LINK" />Google ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_TOS_LINK" /> ଏବଂ <ph name="BEGIN_ATOS_LINK" />Google Egon ଏବଂ ChromeOSର ଅତିରିକ୍ତ ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_ATOS_LINK" />ରେ ସମ୍ମତ ହୁଅନ୍ତି।</translation>
+<translation id="2134927169889348449">Egon ବ୍ୟବହାର କରି, ଆପଣ <ph name="BEGIN_TOS_LINK" />Google ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_TOS_LINK" /> ଏବଂ <ph name="BEGIN_ATOS_LINK" />Egon Browser ଏବଂ ChromeOSର ଅତିରିକ୍ତ ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_ATOS_LINK" />ରେ ସମ୍ମତ ହୁଅନ୍ତି।</translation>
 <translation id="2139186145475833000">ହୋମ୍ ସ୍କ୍ରିନରେ ଯୋଗ କରନ୍ତୁ</translation>
 <translation id="2141396931810938595">ଆପଣଙ୍କ ବ୍ୟବହାର ଉପରେ ଆଧାର କରି</translation>
 <translation id="214888715418183969">ଆପଣ Egon ସହିତ କଣ ସହଜରେ ସେୟାର୍ କରିପାରିବେ ତାହା ବାଛନ୍ତୁ। Chromeର ଫିଚର୍, କାର୍ଯ୍ୟଦକ୍ଷତା ଏବଂ ସ୍ଥିରତା ଉନ୍ନତ କରିବାରେ ସାହାଯ୍ୟ କରିବାକୁ ଆପଣ ସେୟାର୍ କରିଥିବା ମେଟ୍ରିକ୍ସ ବ୍ୟବହାର କରାଯିବ।</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Chromeରେ ଆପଣଙ୍କ ଆଗ୍ରହଗୁଡ଼ିକ ବିଷୟରେ ଆର୍ଟିକିଲ୍</translation>
 <translation id="3066573403916685335">ତଳକୁ ମୁଭ୍‍ କରନ୍ତୁ</translation>
 <translation id="3070005020161560471">ସ୍ୱଚାଳିତ ଭାବେ ଅନୁବାଦ କରନ୍ତୁ</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> Chromeରେ ଖୋଲିବ। ଜାରି ରଖି, ଆପଣ <ph name="BEGIN_LINK1" />Google ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_LINK1" /> ଏବଂ <ph name="BEGIN_LINK2" />Google Egon ଏବଂ ChromeOSର ଅତିରିକ୍ତ ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_LINK2" />ରେ ସମ୍ମତ ହୁଅନ୍ତି। <ph name="BEGIN_LINK3" />ଗୋପନୀୟତା ନୀତି<ph name="END_LINK3" /> ମଧ୍ୟ ଲାଗୁ ହୁଏ।</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> Chromeରେ ଖୋଲିବ। ଜାରି ରଖି, ଆପଣ <ph name="BEGIN_LINK1" />Google ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_LINK1" /> ଏବଂ <ph name="BEGIN_LINK2" />Egon Browser ଏବଂ ChromeOSର ଅତିରିକ୍ତ ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_LINK2" />ରେ ସମ୍ମତ ହୁଅନ୍ତି। <ph name="BEGIN_LINK3" />ଗୋପନୀୟତା ନୀତି<ph name="END_LINK3" /> ମଧ୍ୟ ଲାଗୁ ହୁଏ।</translation>
 <translation id="3091010850649238832">କ୍ଲିପବୋର୍ଡର ବିଷୟବସ୍ତୁଗୁଡ଼ିକୁ ଦେଖାନ୍ତୁ</translation>
 <translation id="3098745985164956033">ଆପଣଙ୍କ ପାଇଁ ବର୍ଣ୍ଣନାକୁ ଉନ୍ନତ କରିବା ନିମନ୍ତେ କିଛି ଛବି Googleକୁ ପଠାଯାଇଛି</translation>
 <translation id="3114507951000454849">ଆଜିର ସମାଚାର ପଢ଼ନ୍ତୁ <ph name="NEWS_ICON" /></translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">ଲିଙ୍କ୍ ଠିକଣା କପି କରନ୍ତୁ</translation>
 <translation id="4283102315569707115">ଡେସ୍କଟପ ସାଇଟଗୁଡ଼ିକୁ ଡିଫଲ୍ଟ ଭାବେ ଅନୁରୋଧ କରିବେ?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android ସେଟିଂସରେ ସ୍କ୍ରିନ ଲକ ଚାଲୁ କରନ୍ତୁ<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Egon ବ୍ୟବହାର କରି, ଆପଣ <ph name="BEGIN_TOS_LINK" />Google ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_TOS_LINK" /> ଏବଂ <ph name="BEGIN_ATOS_LINK" />Google Egon ଏବଂ ChromeOSର ଅତିରିକ୍ତ ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_ATOS_LINK" />ରେ ସମ୍ମତ ହୁଅନ୍ତି। <ph name="BEGIN_PRIVACY_LINK" />ଗୋପନୀୟତା ନୀତି<ph name="END_PRIVACY_LINK" /> ମଧ୍ୟ ଲାଗୁ ହୁଏ।</translation>
+<translation id="4293476595220860475">Egon ବ୍ୟବହାର କରି, ଆପଣ <ph name="BEGIN_TOS_LINK" />Google ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_TOS_LINK" /> ଏବଂ <ph name="BEGIN_ATOS_LINK" />Egon Browser ଏବଂ ChromeOSର ଅତିରିକ୍ତ ସେବାର ସର୍ତ୍ତାବଳୀ<ph name="END_ATOS_LINK" />ରେ ସମ୍ମତ ହୁଅନ୍ତି। <ph name="BEGIN_PRIVACY_LINK" />ଗୋପନୀୟତା ନୀତି<ph name="END_PRIVACY_LINK" /> ମଧ୍ୟ ଲାଗୁ ହୁଏ।</translation>
 <translation id="4296252229500326964">ନୂଆ ଇନକଗ୍ନିଟୋ ଟାବ୍</translation>
 <translation id="4298388696830689168">ଲିଙ୍କ୍‌ ହୋ‍ଇଥିବା ସାଇଟ୍‍ଗୁଡ଼ିକ</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>

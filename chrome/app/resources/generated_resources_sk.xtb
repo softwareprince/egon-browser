@@ -1192,7 +1192,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2088092308059522196">Registrácia je podporovaná až po inštalácii operačného systému <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Menej</translation>
 <translation id="208928984520943006">Na domovskú obrazovku môžete kedykoľvek prejsť potiahnutím zdola nahor.</translation>
-<translation id="2089566709556890888">Prehliadajte v bezpečí pomocou prehliadača Google Egon</translation>
+<translation id="2089566709556890888">Prehliadajte v bezpečí pomocou prehliadača Egon Browser</translation>
 <translation id="2089795179672254991">Opýtať sa, keď chce web získať prístup k textu a obrázkom skopírovaným do schránky (odporúča sa)</translation>
 <translation id="2089925163047119068">ALEBO</translation>
 <translation id="2090165459409185032">Ak chcete obnoviť informácie o svojom účte, prejdite na stránku google.com/accounts/recovery</translation>
@@ -1567,7 +1567,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2391419135980381625">Štandardné písmo</translation>
 <translation id="2392369802118427583">Aktivovať</translation>
 <translation id="2393136602862631930">Nastavte aplikáciu <ph name="APP_NAME" /> vo svojom Chromebooku</translation>
-<translation id="2393313392064891208">Obsah zmluvných podmienok systému Google Egon OS Flex</translation>
+<translation id="2393313392064891208">Obsah zmluvných podmienok systému Egon Browser OS Flex</translation>
 <translation id="2395616325548404795">Zariadenie <ph name="DEVICE_TYPE" /> bolo úspešne zaregistrované na podnikovú správu. Nepodarilo sa však odoslať informácie o obsahu a polohe. Zadajte tieto informácie ručne v Správcovskej konzole pre toto zariadenie.</translation>
 <translation id="2396783860772170191">Zadajte štvorciferný PIN (0000 – 9999)</translation>
 <translation id="2398546389094871088">Obnovením zariadenia pomocou funkcie Powerwash neodstránite profily eSIM karty. Ak chcete tieto profily odstrániť ručne, prejdite do <ph name="LINK_BEGIN" />Nastavení mobilného zariadenia<ph name="LINK_END" />.</translation>
@@ -1601,7 +1601,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="2434449159125086437">Tlačiareň sa nepodarilo nastaviť. Skontrolujte konfiguráciu a skúste to znova.</translation>
 <translation id="2434758125294431199">Vyberte, kto s vami môže zdieľať obsah</translation>
 <translation id="2434915728183570229">Teraz si môžete zobraziť aplikácie svojho telefónu</translation>
-<translation id="2435137177546457207">Dodatočné zmluvné podmienky prehliadača Google Egon a systému Egon OS Flex</translation>
+<translation id="2435137177546457207">Dodatočné zmluvné podmienky prehliadača Egon Browser a systému Egon OS Flex</translation>
 <translation id="2435248616906486374">Sieť je odpojená</translation>
 <translation id="2435457462613246316">Zobraziť heslo</translation>
 <translation id="2439626940657133600">Načíta sa <ph name="WINDOW_TITLE" /></translation>
@@ -3054,7 +3054,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3798632811625902122">Zariadenie s rozhraním Bluetooth <ph name="DEVICE" /> žiada o povolenie párovať.</translation>
 <translation id="3799128412641261490">Nastavenia ovládania prepínačmi</translation>
 <translation id="3800806661949714323">Zobraziť všetko (odporúčané)</translation>
-<translation id="3800828618615365228">Dodatočné zmluvné podmienky prehliadača Google Egon a systému Egon OS</translation>
+<translation id="3800828618615365228">Dodatočné zmluvné podmienky prehliadača Egon Browser a systému Egon OS</translation>
 <translation id="3802486193901166966">Toto rozšírenie nevyžaduje žiadne špeciálne povolenia ani nemá žiadny ďalší prístup k webu</translation>
 <translation id="380329542618494757">Meno</translation>
 <translation id="3803345858388753269">Kvalita videa</translation>
@@ -3070,7 +3070,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="3810973564298564668">Spravovať</translation>
 <translation id="381202950560906753">Pridať ďalší</translation>
 <translation id="3812525830114410218">Nesprávny certifikát</translation>
-<translation id="3813296892522778813">Ak neviete nájsť požadovaný obsah, prejdite do <ph name="BEGIN_LINK_CHROMIUM" />pomocníka Google Egon<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">Ak neviete nájsť požadovaný obsah, prejdite do <ph name="BEGIN_LINK_CHROMIUM" />pomocníka Egon Browser<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">Jazyk, do ktorého boli preložené stránky a rýchle odpovede</translation>
 <translation id="3814529970604306954">Školský účet</translation>
 <translation id="3816118180265633665">Farby Chromu</translation>
@@ -3426,7 +3426,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="4132364317545104286">Premenovať profil eSIM</translation>
 <translation id="4133076602192971179">Otvoriť aplikáciu a zmeniť heslo</translation>
 <translation id="4134818201340504801">Na dokončenie nastavenia nie je k dispozícii dostatok priestoru. Uvoľnite priestor a skúste to znova.</translation>
-<translation id="4135746311382563554">Dodatočné zmluvné podmienky prehliadača Google Egon a systému Egon OS</translation>
+<translation id="4135746311382563554">Dodatočné zmluvné podmienky prehliadača Egon Browser a systému Egon OS</translation>
 <translation id="4136203100490971508">Nočný režim sa automaticky vypne pri východe slnka</translation>
 <translation id="41365691917097717">Pokračovaním aktivujete ladenie ADB na vytváranie a testovanie aplikácií pre Android. Upozorňujeme, že touto akciou umožníte inštalácie aplikácií pre Android, ktoré Google neoveril, a deaktivácia vyžaduje obnovenie výrobných nastavení.</translation>
 <translation id="4138267921960073861">Zobraziť používateľské mená a fotografie na prihlasovacej obrazovke</translation>
@@ -3845,7 +3845,7 @@ Ak chcete spravovať nastavenia tohto účtu, nainštalujte si do zariadenia apl
 <translation id="4544174279960331769">Predvolený modrý avatar</translation>
 <translation id="4545028762441890696">Ak ju chcete znova povoliť, prijmite nové povolenia:</translation>
 <translation id="4545759655004063573">Uloženie nie je možné z dôvodu nedostatočných oprávnení. Uložte položku inde.</translation>
-<translation id="4546308221697447294">Prehliadajte rýchlejšie pomocou prehliadača Google Egon</translation>
+<translation id="4546308221697447294">Prehliadajte rýchlejšie pomocou prehliadača Egon Browser</translation>
 <translation id="4546345569117159016">Pravé tlačidlo</translation>
 <translation id="4546692474302123343">Hlasový vstup Asistenta Google</translation>
 <translation id="4547659257713117923">Žiadne karty z iných zariadení</translation>
@@ -5711,7 +5711,7 @@ Tejto akcii môžete prideliť viacero prepínačov.</translation>
 <translation id="6313950457058510656">Vypnúť dynamický tethering</translation>
 <translation id="6314819609899340042">Na tomto zariadení <ph name="IDS_SHORT_PRODUCT_NAME" /> ste úspešne aktivovali funkcie ladenia.</translation>
 <translation id="6315493146179903667">Zobraziť všetko navrchu</translation>
-<translation id="6316432269411143858">Obsah zmluvných podmienok systému Google Egon OS</translation>
+<translation id="6316432269411143858">Obsah zmluvných podmienok systému Egon Browser OS</translation>
 <translation id="6317369057005134371">Čaká sa na okno aplikácie...</translation>
 <translation id="6318125393809743217">Zahŕňať súbor policies.json s konfiguráciami pravidiel</translation>
 <translation id="6318407754858604988">Sťahovanie sa začalo</translation>
@@ -5904,7 +5904,7 @@ Tejto akcii môžete prideliť viacero prepínačov.</translation>
 <translation id="6509207748479174212">Licencia pre médiá</translation>
 <translation id="6511827214781912955">Zvážte odstránenie súboru <ph name="FILENAME" />, aby si ostatní používatelia tohto zariadenia nemohli zobraziť vaše heslá</translation>
 <translation id="6512808201725371249">Heslo tohto účtu je už uložené v Správcovi hesiel Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Ak nebudete mať pripojenie k inej sieti, prehliadač Google Egon použije mobilné dáta.</translation>
+<translation id="6513247462497316522">Ak nebudete mať pripojenie k inej sieti, prehliadač Egon Browser použije mobilné dáta.</translation>
 <translation id="6514010653036109809">Dostupné zariadenie:</translation>
 <translation id="6514565641373682518">Táto stránka zakázala kurzor myši.</translation>
 <translation id="6517709704288360414">Vaše zariadenie už nemusí fungovať správne a môže dochádzať k problémom so zabezpečením a výkonnosťou. Vypnutie aktualizácií môže mať vplyv aj na vaše právo podávať v prípade problémov právne nároky.</translation>
@@ -8093,7 +8093,7 @@ Súbor kľúča uložte na bezpečné miesto. Budete ho potrebovať na vytvoreni
 <translation id="8554899698005018844">Žiadny jazyk</translation>
 <translation id="855604308879080518">Povoľte aplikáciám pre Android prístup k zariadeniam USB v tomto Chromebooku. Povolenie sa bude požadovať pri každom pripojení zariadenia USB. Jednotlivé aplikácie pre Android budú požadovať ďalšie povolenia.</translation>
 <translation id="8557022314818157177">Klepte na bezpečnostný kľúč, dokým sa odtlačok prsta nenasníma</translation>
-<translation id="8557180006508471423">V sekcii Lokalizačné služby v Macu zapnite Google Egon</translation>
+<translation id="8557180006508471423">V sekcii Lokalizačné služby v Macu zapnite Egon Browser</translation>
 <translation id="8557856025359704738">Ďalšie stiahnutie nastane o <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Prístupové kľúče</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Otvoriť všetky v novom okne}=1{Otvoriť v novom okne}few{Otvoriť všetky ({COUNT}) v novom okne}many{Otvoriť všetky ({COUNT}) v novom okne}other{Otvoriť všetky ({COUNT}) v novom okne}}</translation>

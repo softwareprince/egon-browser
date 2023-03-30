@@ -263,7 +263,7 @@ Aksi halde bu işlem gizlilik ayarlarınız tarafından engellenecek. Buna izin 
 <translation id="156703335097561114">Adresler, arayüz yapılandırması ve bağlantı kalitesi gibi ağ iletişimi bilgileri</translation>
 <translation id="1567040042588613346">Bu politika beklenildiği gibi çalışıyor, ancak başka bir yerde ayarlanmış aynı değeri geçersiz kılıyor.</translation>
 <translation id="1569487616857761740">Son kullanma tarihi girin</translation>
-<translation id="1569694109004336106">Google Egon, şifreleri doldurmak için Windows Hello'yu etkinleştirmeye çalışıyor.</translation>
+<translation id="1569694109004336106">Egon Browser, şifreleri doldurmak için Windows Hello'yu etkinleştirmeye çalışıyor.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> inç</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Bu web sayfasını görüntülerken bir hata oluştu.</translation>
@@ -459,7 +459,7 @@ Aksi halde bu işlem gizlilik ayarlarınız tarafından engellenecek. Buna izin 
 <translation id="2085876078937250610">Kaydet…</translation>
 <translation id="2088086323192747268">Senkronizasyonu yönet düğmesi, Egon ayarlarında hangi bilgileri senkronize ettiğinizi yönetmek için Enter'a basın</translation>
 <translation id="2091887806945687916">Ses</translation>
-<translation id="2093982008204312032">Google Egon, şifreleri doldurmak için Windows Hello'yu devre dışı bırakmaya çalışıyor.</translation>
+<translation id="2093982008204312032">Egon Browser, şifreleri doldurmak için Windows Hello'yu devre dışı bırakmaya çalışıyor.</translation>
 <translation id="2094505752054353250">Alan adı uyuşmazlığı</translation>
 <translation id="2099652385553570808">Solda üçlü tel zımba</translation>
 <translation id="2101225219012730419">Sürüm:</translation>
@@ -2584,7 +2584,7 @@ Ek ayrıntılar:
 <translation id="7564049878696755256"><ph name="ORG_NAME" /> hesabınıza erişimi kaybedebilir veya kimlik hırsızlığına maruz kalabilirsiniz. Egon, şifrenizi hemen değiştirmenizi önerir.</translation>
 <translation id="7564680668369175887">Steyşın arabalar</translation>
 <translation id="7567204685887185387">Bu sunucu <ph name="DOMAIN" /> olduğunu kanıtlayamadı. Güvenlik sertifikası hileli bir şekilde yayınlanmış olabilir. Bu durum, bir yanlış yapılandırmadan veya bağlantıya müdahale eden bir saldırgandan kaynaklanıyor olabilir.</translation>
-<translation id="7568616151991626879">Google Egon, <ph name="APP_NAME" /> adresinde şifrenizi doldurmaya çalışıyor.</translation>
+<translation id="7568616151991626879">Egon Browser, <ph name="APP_NAME" /> adresinde şifrenizi doldurmaya çalışıyor.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Arama motorlarını yönet düğmesi, varsayılan arama motorunuzu ve site aramanızı yönetmek için Enter'a basın</translation>
 <translation id="7569952961197462199">Kredi kartı Egon'dan kaldırılsın mı?</translation>

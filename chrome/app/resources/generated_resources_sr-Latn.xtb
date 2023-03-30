@@ -1189,7 +1189,7 @@ Možete da upravljate podešavanjima ovog naloga ako instalirate aplikaciju Fami
 <translation id="2088092308059522196">Registrovanje je podržano samo kada instalirate <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Manje</translation>
 <translation id="208928984520943006">Da biste došli na početni ekran u bilo kom trenutku, prevucite nagore od dna.</translation>
-<translation id="2089566709556890888">Pregledajte bezbedno uz Google Egon</translation>
+<translation id="2089566709556890888">Pregledajte bezbedno uz Egon Browser</translation>
 <translation id="2089795179672254991">Pitaj kada sajt želi da vidi tekst i slike koji su kopirani u privremenu memoriju (preporučeno)</translation>
 <translation id="2089925163047119068">ILI</translation>
 <translation id="2090165459409185032">Da biste vratili informacije o nalogu, idite na: google.com/accounts/recovery</translation>
@@ -1564,7 +1564,7 @@ Možete da upravljate podešavanjima ovog naloga ako instalirate aplikaciju Fami
 <translation id="2391419135980381625">Standardni font</translation>
 <translation id="2392369802118427583">Aktiviraj</translation>
 <translation id="2393136602862631930">Podesite aplikaciju <ph name="APP_NAME" /> na Chromebook-u</translation>
-<translation id="2393313392064891208">Sadržaj Google Egon OS Flex uslova</translation>
+<translation id="2393313392064891208">Sadržaj Egon Browser OS Flex uslova</translation>
 <translation id="2395616325548404795"><ph name="DEVICE_TYPE" /> je registrovan za upravljanje preduzećem, ali nije poslao informacije o elementu i lokaciji. Unesite te informacije ručno na Admin console-u za ovaj uređaj.</translation>
 <translation id="2396783860772170191">Unesite 4-cifreni PIN (0000–9999)</translation>
 <translation id="2398546389094871088">Ako obavite Powerwash na uređaju, nećete ukloniti eSIM profile. Idite u <ph name="LINK_BEGIN" />podešavanja za mobilne uređaja<ph name="LINK_END" /> da biste ručno uklonili te profile.</translation>
@@ -1598,7 +1598,7 @@ Možete da upravljate podešavanjima ovog naloga ako instalirate aplikaciju Fami
 <translation id="2434449159125086437">Podešavanje štampača nije uspelo. Proverite konfiguraciju, pa probajte ponovo.</translation>
 <translation id="2434758125294431199">Izaberite ko može da deli sa vama</translation>
 <translation id="2434915728183570229">Sada možete da pregledate aplikacije na telefonu</translation>
-<translation id="2435137177546457207">Dodatni uslovi za Google Egon i Egon OS Flex</translation>
+<translation id="2435137177546457207">Dodatni uslovi za Egon Browser i Egon OS Flex</translation>
 <translation id="2435248616906486374">Veza sa mrežom je prekinuta</translation>
 <translation id="2435457462613246316">Prikaži lozinku</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> se učitava</translation>
@@ -3051,7 +3051,7 @@ Možete da upravljate podešavanjima ovog naloga ako instalirate aplikaciju Fami
 <translation id="3798632811625902122">Bluetooth uređaj <ph name="DEVICE" /> traži dozvolu za uparivanje.</translation>
 <translation id="3799128412641261490">Podešavanja pristupa pomoću prekidača</translation>
 <translation id="3800806661949714323">Prikaži sve (preporučeno)</translation>
-<translation id="3800828618615365228">Dodatni uslovi za Google Egon i Egon OS</translation>
+<translation id="3800828618615365228">Dodatni uslovi za Egon Browser i Egon OS</translation>
 <translation id="3802486193901166966">Ovaj dodatak ne zahteva nikakve specijalne dozvole i nema nikakav dodatan pristup sajtu</translation>
 <translation id="380329542618494757">Ime</translation>
 <translation id="3803345858388753269">Kvalitet video snimka</translation>
@@ -3067,7 +3067,7 @@ Možete da upravljate podešavanjima ovog naloga ako instalirate aplikaciju Fami
 <translation id="3810973564298564668">Upravljaj</translation>
 <translation id="381202950560906753">Dodaj drugi</translation>
 <translation id="3812525830114410218">Neispravan sertifikat</translation>
-<translation id="3813296892522778813">Idite na <ph name="BEGIN_LINK_CHROMIUM" />stranicu pomoći za Google Egon<ph name="END_LINK_CHROMIUM" /> ako ne možete da pronađete ono što tražite</translation>
+<translation id="3813296892522778813">Idite na <ph name="BEGIN_LINK_CHROMIUM" />stranicu pomoći za Egon Browser<ph name="END_LINK_CHROMIUM" /> ako ne možete da pronađete ono što tražite</translation>
 <translation id="3813358687923336574">Jezik koji se koristi za prevođenje stranica i brze odgovore</translation>
 <translation id="3814529970604306954">Školski nalog</translation>
 <translation id="3816118180265633665">Egon boje</translation>
@@ -3423,7 +3423,7 @@ Možete da upravljate podešavanjima ovog naloga ako instalirate aplikaciju Fami
 <translation id="4132364317545104286">Preimenujte eSIM profil</translation>
 <translation id="4133076602192971179">Otvorite aplikaciju da biste promenili lozinku</translation>
 <translation id="4134818201340504801">Nema dovoljno dostupnog memorijskog prostora da biste dovršili podešavanje. Oslobodite memorijski prostor i probajte ponovo</translation>
-<translation id="4135746311382563554">Dodatni uslovi korišćenja usluge za Google Egon i Egon OS</translation>
+<translation id="4135746311382563554">Dodatni uslovi korišćenja usluge za Egon Browser i Egon OS</translation>
 <translation id="4136203100490971508">Noćno svetlo se automatski isključuje kada sunce izađe</translation>
 <translation id="41365691917097717">Ako nastavite, omogućićete ADB otklanjanje grešaka za pravljenje i testiranje Android aplikacija. Imajte u vidu da ova radnja omogućava instaliranje Android aplikacija koje Google nije verifikovao i zahteva resetovanje na fabrička podešavanja da bi se onemogućila.</translation>
 <translation id="4138267921960073861">Prikazuj korisnička imena i slike na ekranu za prijavljivanje</translation>
@@ -3842,7 +3842,7 @@ Možete da upravljate podešavanjima ovog naloga ako instalirate aplikaciju Fami
 <translation id="4544174279960331769">Podrazumevani plavi avatar</translation>
 <translation id="4545028762441890696">Da biste ga ponovo omogućili, prihvatite nove dozvole:</translation>
 <translation id="4545759655004063573">Nije moguće sačuvati zbog nedovoljnog broja dozvola. Sačuvajte na drugu lokaciju.</translation>
-<translation id="4546308221697447294">Pregledajte brzo uz Google Egon</translation>
+<translation id="4546308221697447294">Pregledajte brzo uz Egon Browser</translation>
 <translation id="4546345569117159016">Desno dugme</translation>
 <translation id="4546692474302123343">Glasovni unos u Google pomoćniku</translation>
 <translation id="4547659257713117923">Nema kartica sa drugih uređaja</translation>
@@ -5708,7 +5708,7 @@ Vodite računa da ne otkrijete nikakve osetljive informacije.</translation>
 <translation id="6313950457058510656">Isključi trenutno privezivanje</translation>
 <translation id="6314819609899340042">Omogućili ste funkcije za otklanjanje grešaka na ovom <ph name="IDS_SHORT_PRODUCT_NAME" /> uređaju.</translation>
 <translation id="6315493146179903667">Premesti sve napred</translation>
-<translation id="6316432269411143858">Sadržaj uslova za Google Egon OS</translation>
+<translation id="6316432269411143858">Sadržaj uslova za Egon Browser OS</translation>
 <translation id="6317369057005134371">Čeka se prozor aplikacije...</translation>
 <translation id="6318125393809743217">Uvrsti datoteku policies.json uz konfiguracije smernica.</translation>
 <translation id="6318407754858604988">Preuzimanje je započeto</translation>
@@ -5901,7 +5901,7 @@ Vodite računa da ne otkrijete nikakve osetljive informacije.</translation>
 <translation id="6509207748479174212">Licenca za medije</translation>
 <translation id="6511827214781912955">Razmislite o tome da izbrišete <ph name="FILENAME" /> da drugi koji koriste ovaj uređaj ne bi mogli da vide vaše lozinke</translation>
 <translation id="6512808201725371249">Lozinka za ovaj nalog je već sačuvana u Google menadžeru lozinki (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon će koristiti mobilne podatke ako niste povezani sa drugom mrežom.</translation>
+<translation id="6513247462497316522">Egon Browser će koristiti mobilne podatke ako niste povezani sa drugom mrežom.</translation>
 <translation id="6514010653036109809">Dostupan uređaj:</translation>
 <translation id="6514565641373682518">Ova stranica je onemogućila kursor.</translation>
 <translation id="6517709704288360414">Uređaj možda više neće raditi kako treba, a vi ćete možda imati problema sa bezbednošću i performansama. Isključivanje ažuriranja može da utiče i na vaše pravo na pravne tužbe ako naiđete na probleme.</translation>
@@ -8090,7 +8090,7 @@ Datoteka ključa: <ph name="KEY_FILE" />
 <translation id="8554899698005018844">Bez jezika</translation>
 <translation id="855604308879080518">Omogućite Android aplikacijama da pristupaju USB uređajima na ovom Chromebook-u. One će tražiti dozvolu svaki put kada uključite USB uređaj. Pojedinačne Android aplikacije će tražiti dodatne dozvole.</translation>
 <translation id="8557022314818157177">Nastavite da dodirujete bezbednosni ključ dok ne snimimo otisak prsta</translation>
-<translation id="8557180006508471423">Uključite Google Egon u uslugama lokacije na Mac-u</translation>
+<translation id="8557180006508471423">Uključite Egon Browser u uslugama lokacije na Mac-u</translation>
 <translation id="8557856025359704738">Sledeće preuzimanje je: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Pristupni kodovi</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Otvori sve u &amp;novom prozoru}=1{Otvori u &amp;novom prozoru}one{Otvori sve ({COUNT}) u &amp;novom prozoru}few{Otvori sve ({COUNT}) u &amp;novom prozoru}other{Otvori sve ({COUNT}) u &amp;novom prozoru}}</translation>

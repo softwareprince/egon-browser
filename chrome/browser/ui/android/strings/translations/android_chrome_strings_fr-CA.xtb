@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Supprimer toutes les données existantes.</translation>
 <translation id="1146678959555564648">Activer la réalité virtuelle</translation>
 <translation id="1149401351239820326">Mois d'expiration</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> s'ouvrira dans Egon. En continuant, vous acceptez les <ph name="BEGIN_LINK1" />conditions d'utilisation de Google<ph name="END_LINK1" /> et les <ph name="BEGIN_LINK2" />conditions d'utilisation supplémentaires de Google Egon et de Egon OS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> s'ouvrira dans Egon. En continuant, vous acceptez les <ph name="BEGIN_LINK1" />conditions d'utilisation de Google<ph name="END_LINK1" /> et les <ph name="BEGIN_LINK2" />conditions d'utilisation supplémentaires de Egon Browser et de Egon OS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Cette page n'est pas accessible hors ligne : <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Affichez des sites Web populaires en touchant le bouton « Sites populaires »</translation>
 <translation id="1173894706177603556">Renommer</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">La mesure des annonces permet aux sites que vous visitez de demander des informations à Egon afin de leur permettre de mesurer la performance de leurs annonces. La mesure des annonces limite les suivis intersites en transférant le moins d'informations possible entre les sites.
 
 Lorsque vous supprimez votre historique de navigation (pour un site en particulier ou pour tous les sites), vous supprimez également les informations de mesure associées. Consultez <ph name="BEGIN_LINK" />votre historique de navigation<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Raccourcis relatifs aux fonctionnalités Google Egon</translation>
+<translation id="1332501820983677155">Raccourcis relatifs aux fonctionnalités Egon Browser</translation>
 <translation id="1344653310988386453">Inclure le lien vers l'élément en surbrillance</translation>
 <translation id="1347468774581902829">Gérer l'activité</translation>
 <translation id="1360432990279830238">Se déconnecter et désactiver la synchro?</translation>
@@ -164,14 +164,14 @@ Les jetons de confiance améliorent la confidentialité sur le Web et ne peuvent
 <translation id="1854311313115643875">Pendant les essais, la mesure des annonces permet aux sites que vous visitez de demander des informations à Egon afin de leur permettre de mesurer la performance de leurs annonces. La mesure des annonces limite les suivis intersites en transférant le moins d'informations possible entre les sites.
 
 Lorsque vous supprimez votre historique de navigation (pour un site en particulier ou pour tous les sites), vous supprimez également les informations de mesure associées. Consultez <ph name="BEGIN_LINK" />votre historique de navigation<ph name="END_LINK" />.</translation>
-<translation id="1877026089748256423">Google Egon n'est pas à jour</translation>
+<translation id="1877026089748256423">Egon Browser n'est pas à jour</translation>
 <translation id="1883903952484604915">Mes fichiers</translation>
 <translation id="189358972401248634">Autres langues</translation>
 <translation id="1900260903084164610">En continuant, vous acceptez les <ph name="BEGIN_TOS_LINK" />conditions d'utilisation<ph name="END_TOS_LINK" />.</translation>
 <translation id="1904580727789512086">Les adresses URL que vous visitez sont enregistrées dans votre compte Google</translation>
 <translation id="1910950723001426294">La liste d'options de partage est fermée.</translation>
 <translation id="1918175104945982129">Fenêtre d'IU de consentement pour la recherche vocale avec l'Assistant, ouverte à mi-hauteur</translation>
-<translation id="1919130412786645364">Autoriser la connexion à Google Egon</translation>
+<translation id="1919130412786645364">Autoriser la connexion à Egon Browser</translation>
 <translation id="1922362554271624559">Langues suggérées</translation>
 <translation id="1925021887439448749">Entrer une adresse Web personnalisée</translation>
 <translation id="1928696683969751773">Mises à jour</translation>
@@ -213,7 +213,7 @@ Lorsque vous supprimez votre historique de navigation (pour un site en particuli
 <translation id="2122601567107267586">Impossible d'ouvrir l'application</translation>
 <translation id="2132122640199389833">Retirer tous les appareils associés</translation>
 <translation id="213279576345780926">Onglet <ph name="TAB_TITLE" /> fermé</translation>
-<translation id="2134927169889348449">Par votre utilisation de Egon, vous acceptez les <ph name="BEGIN_TOS_LINK" />conditions d'utilisation de Google<ph name="END_TOS_LINK" /> et les <ph name="BEGIN_ATOS_LINK" />conditions d'utilisation supplémentaires de Google Egon et de Egon OS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Par votre utilisation de Egon, vous acceptez les <ph name="BEGIN_TOS_LINK" />conditions d'utilisation de Google<ph name="END_TOS_LINK" /> et les <ph name="BEGIN_ATOS_LINK" />conditions d'utilisation supplémentaires de Egon Browser et de Egon OS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Ajouter à l'écran d'accueil</translation>
 <translation id="2141396931810938595">En fonction de votre utilisation</translation>
 <translation id="214888715418183969">Choisissez les données que vous souhaitez partager avec Egon. Les données partagées seront utilisées pour contribuer à l'amélioration des fonctionnalités, des performances et de la stabilité de Egon.</translation>
@@ -342,7 +342,7 @@ Lorsque vous supprimez votre historique de navigation (pour un site en particuli
 <translation id="2871733351037274014">Précharger les pages</translation>
 <translation id="2876136027428473467"><ph name="CHILD_NAME" /> souhaite obtenir votre approbation pour ce site Web :</translation>
 <translation id="2886836735871983413">Une liste de sites sera affichée ici au fur et à mesure que vous naviguez sur le Web</translation>
-<translation id="2888126860611144412">À propos de Google Egon</translation>
+<translation id="2888126860611144412">À propos de Egon Browser</translation>
 <translation id="2891154217021530873">Arrêter le chargement de la page</translation>
 <translation id="2893180576842394309">Google peut utiliser votre historique pour personnaliser la recherche et d'autres services Google</translation>
 <translation id="2900528713135656174">Créer un événement</translation>
@@ -391,7 +391,7 @@ Lorsque vous supprimez votre historique de navigation (pour un site en particuli
 <translation id="3062802207422175757">Articles portant sur vos centres d'intérêt dans Egon</translation>
 <translation id="3066573403916685335">Déplacer vers le bas</translation>
 <translation id="3070005020161560471">Traduire automatiquement les pages rédigées en</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> s'ouvrira dans Egon. En continuant, vous acceptez les <ph name="BEGIN_LINK1" />conditions d'utilisation de Google<ph name="END_LINK1" /> et les <ph name="BEGIN_LINK2" />conditions d'utilisation supplémentaires de Google Egon et de Egon OS<ph name="END_LINK2" />. La <ph name="BEGIN_LINK3" />politique de confidentialité<ph name="END_LINK3" /> s'applique également.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> s'ouvrira dans Egon. En continuant, vous acceptez les <ph name="BEGIN_LINK1" />conditions d'utilisation de Google<ph name="END_LINK1" /> et les <ph name="BEGIN_LINK2" />conditions d'utilisation supplémentaires de Egon Browser et de Egon OS<ph name="END_LINK2" />. La <ph name="BEGIN_LINK3" />politique de confidentialité<ph name="END_LINK3" /> s'applique également.</translation>
 <translation id="3091010850649238832">Afficher le contenu du presse-papier</translation>
 <translation id="3098745985164956033">Certaines images sont envoyées à Google afin d'améliorer les descriptions pour vous</translation>
 <translation id="3114507951000454849">Actualités du jour <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Lorsque vous supprimez votre historique de navigation (pour un site en particuli
 <translation id="321773570071367578">Si vous avez oublié votre phrase de passe ou souhaitez modifier ce paramètre, veuillez <ph name="BEGIN_LINK" />réinitialiser la synchronisation<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Confirmez votre identité pour synchroniser vos mots de passe</translation>
 <translation id="3223522355830797639">Votre banque veut confirmer votre identité.</translation>
-<translation id="3227557059438308877">Google Egon comme clé de sécurité</translation>
+<translation id="3227557059438308877">Egon Browser comme clé de sécurité</translation>
 <translation id="3232754137068452469">Application Web</translation>
 <translation id="3234978181857588512">Enregistrer sur l'appareil</translation>
 <translation id="3236059992281584593">Il reste 1 min</translation>
@@ -596,7 +596,7 @@ Lorsque vous supprimez votre historique de navigation (pour un site en particuli
 <translation id="4269820728363426813">Copier l'adresse du lien</translation>
 <translation id="4283102315569707115">Demander des sites pour ordinateurs par défaut?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Activez le verrouillage d'écran dans les paramètres Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Par votre utilisation de Egon, vous acceptez les <ph name="BEGIN_TOS_LINK" />conditions d'utilisation de Google<ph name="END_TOS_LINK" /> et les <ph name="BEGIN_ATOS_LINK" />conditions d'utilisation supplémentaires de Google Egon et de Egon OS<ph name="END_ATOS_LINK" />. La <ph name="BEGIN_PRIVACY_LINK" />politique de confidentialité<ph name="END_PRIVACY_LINK" /> s'applique également.</translation>
+<translation id="4293476595220860475">Par votre utilisation de Egon, vous acceptez les <ph name="BEGIN_TOS_LINK" />conditions d'utilisation de Google<ph name="END_TOS_LINK" /> et les <ph name="BEGIN_ATOS_LINK" />conditions d'utilisation supplémentaires de Egon Browser et de Egon OS<ph name="END_ATOS_LINK" />. La <ph name="BEGIN_PRIVACY_LINK" />politique de confidentialité<ph name="END_PRIVACY_LINK" /> s'applique également.</translation>
 <translation id="4296252229500326964">Nouvel onglet navig. privée</translation>
 <translation id="4298388696830689168">Sites associés</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -711,7 +711,7 @@ Pour modifier ce paramètre, <ph name="BEGIN_LINK" />réinitialisez la synchroni
 <translation id="4880127995492972015">Traduire…</translation>
 <translation id="4881695831933465202">Ouvrir</translation>
 <translation id="488187801263602086">Renommer le fichier</translation>
-<translation id="4885273946141277891">Trop d'exécutions simultanées de Google Egon.</translation>
+<translation id="4885273946141277891">Trop d'exécutions simultanées de Egon Browser.</translation>
 <translation id="4905823827770127520">Comprend un lien vers la page</translation>
 <translation id="4908869848243824489">Découvertes par Google</translation>
 <translation id="4909709702739934280">Votre navigateur est géré par votre administrateur</translation>
@@ -1015,7 +1015,7 @@ Les jetons de confiance améliorent la confidentialité sur le Web et ne peuvent
 <translation id="6482749332252372425">Échec du téléchargement de <ph name="FILE_NAME" /> en raison d'un manque d'espace de stockage.</translation>
 <translation id="6496823230996795692">Pour utiliser <ph name="APP_NAME" /> pour la première fois, veuillez vous connecter à Internet.</translation>
 <translation id="650224091954855786">{FILE_COUNT,plural, =1{Fichier téléchargé}one{# téléchargement terminé}other{# téléchargements terminés}}</translation>
-<translation id="6508722015517270189">Redémarrer Google Egon</translation>
+<translation id="6508722015517270189">Redémarrer Egon Browser</translation>
 <translation id="6527303717912515753">Partager</translation>
 <translation id="6532866250404780454">Les sites que vous visitez dans Egon ne s'afficheront pas. Toutes les minuteries de site seront supprimées.</translation>
 <translation id="6534565668554028783">Google a pris trop de temps à répondre</translation>
@@ -1076,7 +1076,7 @@ Les jetons de confiance améliorent la confidentialité sur le Web et ne peuvent
 <translation id="6767294960381293877">La liste d'appareils avec lesquels partager un onglet est ouverte à la mi-hauteur.</translation>
 <translation id="6770042910635026163">Sites que vous visitez et qui définissent vos centres d'intérêt</translation>
 <translation id="6770602306803890733">Il renforce votre sécurité et celle de tous les utilisateurs sur le Web</translation>
-<translation id="6785476624617658922">Conditions d'utilisation supplémentaires de Google Egon et de Egon OS</translation>
+<translation id="6785476624617658922">Conditions d'utilisation supplémentaires de Egon Browser et de Egon OS</translation>
 <translation id="6795633245022906657">Ouvrez rapidement un nouvel onglet. Pour modifier ce raccourci, accédez à Paramètres.</translation>
 <translation id="6802555630140434547">La fenêtre sera fermée</translation>
 <translation id="6811034713472274749">La page est prête pour consultation</translation>
@@ -1226,7 +1226,7 @@ Les jetons de confiance améliorent la confidentialité sur le Web et ne peuvent
 <translation id="7612619742409846846">Connecté(e) à Google en tant que</translation>
 <translation id="7616551326690708776">Sélectionnez un modèle pour votre mise en évidence.</translation>
 <translation id="7619072057915878432">Échec du téléchargement de <ph name="FILE_NAME" /> en raison de défaillances du réseau.</translation>
-<translation id="7626032353295482388">Bienvenue dans Google Egon</translation>
+<translation id="7626032353295482388">Bienvenue dans Egon Browser</translation>
 <translation id="7630202231528827509">URL du fournisseur</translation>
 <translation id="7634280112532283638">Réduction des pourriels et de la fraude</translation>
 <translation id="7638584964844754484">Mot de passe multiterme incorrect</translation>
@@ -1547,12 +1547,12 @@ Les jetons de confiance améliorent la confidentialité sur le Web et ne peuvent
 <translation id="9219582468404818260">Aidez-nous à améliorer le Web</translation>
 <translation id="92381315203627188">Lorsqu'un site propose de précharger en privé des liens sur sa page, Egon chiffre et précharge les pages par les serveurs de Google sans témoins. Cette opération permet de masquer votre identité sur le site préchargé.</translation>
 <translation id="926205370408745186">Supprimer votre activité Egon de Bien-être numérique</translation>
-<translation id="927968626442779827">Utilisez le mode simplifié dans Google Egon</translation>
+<translation id="927968626442779827">Utilisez le mode simplifié dans Egon Browser</translation>
 <translation id="928550791203542716">Vous suivez <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Accueil</translation>
 <translation id="938850635132480979">Erreur : <ph name="ERROR_CODE" /></translation>
 <translation id="939598580284253335">Entrer la phrase de passe</translation>
-<translation id="95817756606698420">Google Egon peut faire appel à <ph name="BEGIN_BOLD" />Sogou<ph name="END_BOLD" /> pour effectuer des recherches en Chine. Vous pouvez modifier cette option dans les <ph name="BEGIN_LINK" />Paramètres<ph name="END_LINK" />.</translation>
+<translation id="95817756606698420">Egon Browser peut faire appel à <ph name="BEGIN_BOLD" />Sogou<ph name="END_BOLD" /> pour effectuer des recherches en Chine. Vous pouvez modifier cette option dans les <ph name="BEGIN_LINK" />Paramètres<ph name="END_LINK" />.</translation>
 <translation id="962979164594783469">Installer cette application</translation>
 <translation id="96681097142096641">Affichez la page simplifiée?</translation>
 <translation id="968900484120156207">Les pages que vous visitez s'affichent ici</translation>

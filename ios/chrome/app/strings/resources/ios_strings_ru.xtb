@@ -355,7 +355,7 @@
 <translation id="3709582977625132201">Отметить как непрочитанное</translation>
 <translation id="371230970611282515">Предсказывает опасные события и предупреждает вас до того, как они происходят.</translation>
 <translation id="37207012422556617">Популярные запросы</translation>
-<translation id="3740397331642243698">Введенные URL будут открываться в Google Egon в режиме инкогнито.</translation>
+<translation id="3740397331642243698">Введенные URL будут открываться в Egon Browser в режиме инкогнито.</translation>
 <translation id="3762232513783804601">Создан специально для iPad</translation>
 <translation id="3768725474733206671">Открыть последнюю закрытую вкладку</translation>
 <translation id="3771033907050503522">Вкладки инкогнито</translation>
@@ -746,7 +746,7 @@
 <translation id="6524918542306337007">Режим инкогнито недоступен</translation>
 <translation id="6530992499366869131">Сообщать, если пароли были раскрыты в результате утечки данных</translation>
 <translation id="6537746030088321027">example.com</translation>
-<translation id="6540120577248033958">Откройте сайт и выберите "Подписаться" в меню Google Egon.</translation>
+<translation id="6540120577248033958">Откройте сайт и выберите "Подписаться" в меню Egon Browser.</translation>
 <translation id="6561262006871132942">Увеличить</translation>
 <translation id="6583087784430677195">Чтобы отключить автозаполнение, выберите <ph name="BEGIN_LINK" />Настройки<ph name="END_LINK" /> и перейдите в раздел "Автозаполнение паролей".</translation>
 <translation id="6585618849026997638">Добавьте страницу с важными сведениями в закладки, и вы всегда сможете вернуться к ней.</translation>
@@ -933,7 +933,7 @@
 <translation id="7982789257301363584">Сеть</translation>
 <translation id="7987685713885608670">В целях повышения безопасности шифруйте пароли на устройстве, прежде чем они будут сохраняться в Google Менеджере паролей.</translation>
 <translation id="7993619969781047893">Некоторые функции на сайтах могут работать некорректно</translation>
-<translation id="800361585186029508">Введенные URL будут открываться в Google Egon.</translation>
+<translation id="800361585186029508">Введенные URL будут открываться в Egon Browser.</translation>
 <translation id="8016714545083187120">Всегда использовать безопасные подключения</translation>
 <translation id="802154636333426148">Ошибка скачивания</translation>
 <translation id="8023878949384262191">Разворачивает раздел.</translation>

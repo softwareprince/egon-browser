@@ -4216,7 +4216,7 @@ da versão do ChromeOS ou do dispositivo) serão sempre exibidas ou ocultas na t
 <translation id="5148753489738115745">Permite especificar os parâmetros adicionais que são usados quando o <ph name="PRODUCT_FRAME_NAME" /> inicia o <ph name="PRODUCT_NAME" />. Se essa política não for configurada, será usada a linha de comando padrão.</translation>
 <translation id="5151099177901233471">Ativar relatórios de informações de fuso horário do dispositivo</translation>
 <translation id="5152393033264257734">Permitir verificações de interceptação de DNS e barras de informações oferecendo "http://intranetsite/" como alternativa.</translation>
-<translation id="5152787786897382519">O Egon e o Google Egon têm alguns grupos de políticas que dependem umas das outras para oferecer controle sobre um recurso. Esses conjuntos são representados pelos seguintes grupos de políticas. Como essas políticas podem ter diversas fontes, apenas os valores da fonte de maior prioridade serão aplicados. Os valores de uma fonte de menor prioridade presente no mesmo grupo serão ignorados. A ordem da prioridade está definida em <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">O Egon e o Egon Browser têm alguns grupos de políticas que dependem umas das outras para oferecer controle sobre um recurso. Esses conjuntos são representados pelos seguintes grupos de políticas. Como essas políticas podem ter diversas fontes, apenas os valores da fonte de maior prioridade serão aplicados. Os valores de uma fonte de menor prioridade presente no mesmo grupo serão ignorados. A ordem da prioridade está definida em <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5153187201534281749">Ícone dos experimentos do navegador na barra de ferramentas</translation>
 <translation id="5163002264923337812">Ativar o antigo fluxo de login baseado na Web</translation>
 <translation id="5163889437570441600">Permite que o conteúdo seja transmitido usando o <ph name="PRODUCT_NAME" />.
@@ -6211,7 +6211,7 @@ bloqueio dessas solicitações será aplicado.</translation>
 <translation id="7062803946218028349">Permitir a ativação do recurso "Seu smartphone"</translation>
 <translation id="7066292150801784098">Desativar a interação de usuários remotos com janelas elevadas em sessões de assistência remota</translation>
 <translation id="706669471845501145">Permitir que os sites exibam notificações da área de trabalho</translation>
-<translation id="70681795425744184">Não permitir que a Área de trabalho remota do Google Egon execute solicitações de API do WebAuthn transmitidas por proxy de um host remoto.</translation>
+<translation id="70681795425744184">Não permitir que a Área de trabalho remota do Egon Browser execute solicitações de API do WebAuthn transmitidas por proxy de um host remoto.</translation>
 <translation id="7070525176564511548">A senha precisa ser digitada uma vez por semana (a cada 168 horas).</translation>
 <translation id="7072208053150563108">Taxa de alteração da senha da máquina</translation>
 <translation id="7072567600438630966">Permitir a ativação do recurso "Seu smartphone".</translation>
@@ -6347,11 +6347,11 @@ bloqueio dessas solicitações será aplicado.</translation>
 <translation id="719398790886719721">Desativar acesso raiz às máquinas virtuais Linux</translation>
 <translation id="7194407337890404814">Nome do provedor de pesquisa padrão</translation>
 <translation id="7198134478421755850">Extensão</translation>
-<translation id="7199304109870655950">Configurar opções de acesso remoto no host da Área de trabalho remota do Google Egon.
+<translation id="7199304109870655950">Configurar opções de acesso remoto no host da Área de trabalho remota do Egon Browser.
 
-O host da Área de trabalho remota do Google Egon é um serviço nativo executado na máquina de destino à qual um usuário pode se conectar usando o app Área de trabalho remota do Google Egon. O serviço nativo é empacotado e executado separadamente do navegador <ph name="PRODUCT_NAME" />.
+O host da Área de trabalho remota do Egon Browser é um serviço nativo executado na máquina de destino à qual um usuário pode se conectar usando o app Área de trabalho remota do Egon Browser. O serviço nativo é empacotado e executado separadamente do navegador <ph name="PRODUCT_NAME" />.
 
-Essas políticas são ignoradas se a Área de trabalho remota do Google Egon não está instalada.</translation>
+Essas políticas são ignoradas se a Área de trabalho remota do Egon Browser não está instalada.</translation>
 <translation id="7202925763179776247">Permitir restrições de downloads</translation>
 <translation id="7207095846245296855">Forçar o Google SafeSearch</translation>
 <translation id="7208483746373960784">Esta configuração decide quantos dados do usuário são mantidos após a desativação do <ph name="LACROS_NAME" />.
@@ -7346,7 +7346,7 @@ Se a política não for definida, a tela de privacidade ficará inicialmente des
 
       Esta política é ignorada para contas de usuário comuns.</translation>
 <translation id="8257863622304579015">Ativar o sandbox de serviço de rede</translation>
-<translation id="8259375588339409826">Tanto o Egon como o Google Egon são compatíveis com o mesmo conjunto de políticas. É possível que este documento inclua políticas não lançadas (ou seja, a entrada "Compatível com" se refere a uma versão ainda não lançada do <ph name="PRODUCT_NAME" />), que estão sujeitas a alteração ou remoção sem aviso prévio e para as quais nenhuma garantia de qualquer tipo é fornecida, incluindo garantias com relação às propriedades de privacidade e segurança delas.
+<translation id="8259375588339409826">Tanto o Egon como o Egon Browser são compatíveis com o mesmo conjunto de políticas. É possível que este documento inclua políticas não lançadas (ou seja, a entrada "Compatível com" se refere a uma versão ainda não lançada do <ph name="PRODUCT_NAME" />), que estão sujeitas a alteração ou remoção sem aviso prévio e para as quais nenhuma garantia de qualquer tipo é fornecida, incluindo garantias com relação às propriedades de privacidade e segurança delas.
 
 Essas políticas devem ser usadas estritamente para configurar instâncias do <ph name="PRODUCT_NAME" /> internas à sua organização. O uso dessas políticas fora da sua organização (por exemplo, em um programa distribuído publicamente) é considerado malware e provavelmente será identificado como malware pelo Google e por fornecedores de programas antivírus.
 
@@ -7557,7 +7557,7 @@ vai ser definida como padrão durante o login do usuário.</translation>
        Se ela for definida como "Disabled", as caixas de diálogo de JavaScript acionadas por um subframe de origem diferente não serão bloqueadas.
 
        Esta política será removida na versão 95 do <ph name="PRODUCT_NAME" />.</translation>
-<translation id="8427466947904008809">Permitir que a Área de trabalho remota do Google Egon execute solicitações de API do WebAuthn transmitidas por proxy de um host remoto.</translation>
+<translation id="8427466947904008809">Permitir que a Área de trabalho remota do Egon Browser execute solicitações de API do WebAuthn transmitidas por proxy de um host remoto.</translation>
 <translation id="8428295225823548121">Ativar relatórios de informações da memória do dispositivo</translation>
 <translation id="8428635849021776523">Desativar os relatórios do Android</translation>
 <translation id="8433186206711564395">Configurações de rede</translation>
@@ -7566,7 +7566,7 @@ vai ser definida como padrão durante o login do usuário.</translation>
 
       Se a política não for definida, o <ph name="PRODUCT_NAME" /> permitirá que os usuários controlem se ele será o padrão ou não e, caso não seja, se as notificações do usuário serão exibidas.
 
-      Observação: para administradores do <ph name="MS_WIN_NAME" />, a ativação dessa configuração só funciona em máquinas com o Windows 7. Para versões mais recentes, é necessário implantar um arquivo de "associações de aplicativo padrão", que torna o <ph name="PRODUCT_NAME" /> o gerenciador dos protocolos <ph name="HTTPS_PROTOCOL" /> e <ph name="HTTP_PROTOCOL" /> e, opcionalmente, o protocolo <ph name="FTP_PROTOCOL" /> e outros formatos de arquivo. Consulte a Ajuda do Google Egon (https://support.google.com/chrome?p=make_chrome_default_win).</translation>
+      Observação: para administradores do <ph name="MS_WIN_NAME" />, a ativação dessa configuração só funciona em máquinas com o Windows 7. Para versões mais recentes, é necessário implantar um arquivo de "associações de aplicativo padrão", que torna o <ph name="PRODUCT_NAME" /> o gerenciador dos protocolos <ph name="HTTPS_PROTOCOL" /> e <ph name="HTTP_PROTOCOL" /> e, opcionalmente, o protocolo <ph name="FTP_PROTOCOL" /> e outros formatos de arquivo. Consulte a Ajuda do Egon Browser (https://support.google.com/chrome?p=make_chrome_default_win).</translation>
 <translation id="8441105784056442638">Ativar o recurso de restauração completa</translation>
 <translation id="8445576299806775661">Depois de cada atualização importante de versão, o Egon criará um snapshot de certas partes dos dados de navegação do usuário para uso em caso de reversão de emergência da versão. Se uma reversão de emergência for feita para uma versão da qual o usuário tem um snapshot correspondente, os dados serão restaurados. Isso permite que o usuário retenha essas configurações na forma de favoritos e dados de preenchimento automático.
 

@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Vee bestaande data uit.</translation>
 <translation id="1146678959555564648">Gaan na VR</translation>
 <translation id="1149401351239820326">Vervalmaand</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> sal in Egon oopmaak. Deur voort te gaan, stem jy in tot <ph name="BEGIN_LINK1" />Google se diensbepalings<ph name="END_LINK1" /> en <ph name="BEGIN_LINK2" />Google Egon en Egon-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> sal in Egon oopmaak. Deur voort te gaan, stem jy in tot <ph name="BEGIN_LINK1" />Google se diensbepalings<ph name="END_LINK1" /> en <ph name="BEGIN_LINK2" />Egon Browser en Egon-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Blad is nie vanlyn beskikbaar nie: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Sien gewilde webwerwe deur op die "Topwerwe"-knoppie te tik</translation>
 <translation id="1173894706177603556">Hernoem</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Advertensiemeting stel werwe wat jy besoek in staat om inligting van Egon af te versoek wat die werf help om die werkverrigting van hul advertensies te meet. Advertensiemeting beperk oorkruiswerfnasporing deur so min inligting moontlik tussen werwe oor te dra.
 
 Wanneer jy jou blaaigeskiedenis uitvee — alles of vir ’n spesifieke werf — sal jy ook geassosieerde metinginligting uitvee. Sien <ph name="BEGIN_LINK" />jou blaaigeskiedenis<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Google Egon-kenmerkkortpaaie</translation>
+<translation id="1332501820983677155">Egon Browser-kenmerkkortpaaie</translation>
 <translation id="1344653310988386453">Sluit skakel na hoogtepunt in</translation>
 <translation id="1347468774581902829">Bestuur aktiwiteit</translation>
 <translation id="1360432990279830238">Meld af en skakel sinkronisasie af?</translation>
@@ -213,7 +213,7 @@ Wanneer jy jou blaaigeskiedenis uitvee — alles of vir ’n spesifieke werf —
 <translation id="2122601567107267586">Kon nie program oopmaak nie</translation>
 <translation id="2132122640199389833">Verwyder alle gekoppelde toestelle</translation>
 <translation id="213279576345780926">Het <ph name="TAB_TITLE" /> toegemaak</translation>
-<translation id="2134927169889348449">Deur Egon te gebruik, stem jy in tot <ph name="BEGIN_TOS_LINK" />Google se diensbepalings<ph name="END_TOS_LINK" /> en <ph name="BEGIN_ATOS_LINK" />Google Egon en Egon-bedryfstelsel se bykomende diensbepalings<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Deur Egon te gebruik, stem jy in tot <ph name="BEGIN_TOS_LINK" />Google se diensbepalings<ph name="END_TOS_LINK" /> en <ph name="BEGIN_ATOS_LINK" />Egon Browser en Egon-bedryfstelsel se bykomende diensbepalings<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Voeg by tuisskerm</translation>
 <translation id="2141396931810938595">Gegrond op jou gebruik</translation>
 <translation id="214888715418183969">Kies wat jy gemaklik voel om met Egon te deel. Die maatstawwe wat jy deel, sal gebruik word om te help om Egon se kenmerke, werkverrigting en stabiliteit te verbeter.</translation>
@@ -391,7 +391,7 @@ Wanneer jy jou blaaigeskiedenis uitvee — alles of vir ’n spesifieke werf —
 <translation id="3062802207422175757">Artikels oor jou belangstellings op Egon</translation>
 <translation id="3066573403916685335">Beweeg Af</translation>
 <translation id="3070005020161560471">Vertaal outomaties</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> sal in Egon oopmaak. Deur voort te gaan, stem jy in tot <ph name="BEGIN_LINK1" />Google se diensbepalings<ph name="END_LINK1" /> en <ph name="BEGIN_LINK2" />Google Egon en Egon-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2" />. Die <ph name="BEGIN_LINK3" />privaatheidsbeleid<ph name="END_LINK3" /> geld ook.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> sal in Egon oopmaak. Deur voort te gaan, stem jy in tot <ph name="BEGIN_LINK1" />Google se diensbepalings<ph name="END_LINK1" /> en <ph name="BEGIN_LINK2" />Egon Browser en Egon-bedryfstelsel se bykomende diensbepalings<ph name="END_LINK2" />. Die <ph name="BEGIN_LINK3" />privaatheidsbeleid<ph name="END_LINK3" /> geld ook.</translation>
 <translation id="3091010850649238832">Wys knipbordinhoud</translation>
 <translation id="3098745985164956033">Sommige prente word na Google toe gestuur om hul beskrywings vir jou te verbeter</translation>
 <translation id="3114507951000454849">Lees vandag se nuus <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Wanneer jy jou blaaigeskiedenis uitvee — alles of vir ’n spesifieke werf —
 <translation id="321773570071367578">As jy jou wagfrase vergeet het of hierdie instelling wil verander, <ph name="BEGIN_LINK" />stel sinkronisering terug<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Verifieer dis jy om wagwoorde te kan sinkroniseer</translation>
 <translation id="3223522355830797639">Jou bank wil bevestig dis jy.</translation>
-<translation id="3227557059438308877">Google Egon as 'n sekuriteitsleutel</translation>
+<translation id="3227557059438308877">Egon Browser as 'n sekuriteitsleutel</translation>
 <translation id="3232754137068452469">Webprogram</translation>
 <translation id="3234978181857588512">Stoor op toestel</translation>
 <translation id="3236059992281584593">1 minuut oor</translation>
@@ -596,7 +596,7 @@ Wanneer jy jou blaaigeskiedenis uitvee — alles of vir ’n spesifieke werf —
 <translation id="4269820728363426813">Kopieer skakeladres</translation>
 <translation id="4283102315569707115">Versoek rekenaarwerwe by verstek?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Skakel skermslot in Android-instellings aan<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Deur Egon te gebruik, stem jy in tot <ph name="BEGIN_TOS_LINK" />Google se diensbepalings<ph name="END_TOS_LINK" /> en <ph name="BEGIN_ATOS_LINK" />Google Egon en Egon-bedryfstelsel se bykomende diensbepalings<ph name="END_ATOS_LINK" />. Die <ph name="BEGIN_PRIVACY_LINK" />privaatheidsbeleid<ph name="END_PRIVACY_LINK" /> geld ook.</translation>
+<translation id="4293476595220860475">Deur Egon te gebruik, stem jy in tot <ph name="BEGIN_TOS_LINK" />Google se diensbepalings<ph name="END_TOS_LINK" /> en <ph name="BEGIN_ATOS_LINK" />Egon Browser en Egon-bedryfstelsel se bykomende diensbepalings<ph name="END_ATOS_LINK" />. Die <ph name="BEGIN_PRIVACY_LINK" />privaatheidsbeleid<ph name="END_PRIVACY_LINK" /> geld ook.</translation>
 <translation id="4296252229500326964">Nuwe Incognito-oortjie</translation>
 <translation id="4298388696830689168">Gekoppelde werwe</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@ Vertrouenstokens verbeter privaatheid op die web en kan nie gebruik word om uit 
 <translation id="9219582468404818260">Help ons om 'n beter web te bou</translation>
 <translation id="92381315203627188">Egon enkripteer en laai bladsye vooraf deur Google-bedieners sonder webkoekies wanneer 'n werf vra om skakels op hul bladsy privaat vooraf te laai. Dit versteek jou identiteit vir die voorafgelaaide werf.</translation>
 <translation id="926205370408745186">Verwyder jou Egon-aktiwiteit van Digitale Welstand</translation>
-<translation id="927968626442779827">Gebruik Ligte Modus op Google Egon</translation>
+<translation id="927968626442779827">Gebruik Ligte Modus op Egon Browser</translation>
 <translation id="928550791203542716">Volg tans <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Tuis</translation>
 <translation id="938850635132480979">Fout: <ph name="ERROR_CODE" /></translation>

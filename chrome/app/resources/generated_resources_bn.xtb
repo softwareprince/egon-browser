@@ -1203,7 +1203,7 @@
 <translation id="2088092308059522196">আপনি <ph name="DEVICE_OS" /> ইনস্টল করার পরেই শুধুমাত্র এনরোল করা যাবে।</translation>
 <translation id="2089090684895656482">কম</translation>
 <translation id="208928984520943006">যেকোনও সময় হোম স্ক্রিনে যেতে স্ক্রিনের নিচের দিক থেকে উপরে সোয়াইপ করুন।</translation>
-<translation id="2089566709556890888">Google Egon দিয়ে নিরাপদে ব্রাউজ করুন</translation>
+<translation id="2089566709556890888">Egon Browser দিয়ে নিরাপদে ব্রাউজ করুন</translation>
 <translation id="2089795179672254991">ক্লিপবোর্ডে কপি করা টেক্সট এবং ছবি কোনও সাইট দেখতে চাইলে আপনাকে জিজ্ঞেস করা হবে (আমরা এটি সুপারিশ করছি)</translation>
 <translation id="2089925163047119068">বা</translation>
 <translation id="2090165459409185032">আপনার অ্যাকাউন্ট তথ্য পুনরুদ্ধার করতে, google.com/accounts/recovery-তে যান</translation>
@@ -1615,7 +1615,7 @@
 <translation id="2434449159125086437">প্রিন্টার সেট-আপ করা যাচ্ছে না। কনফিগারেশন চেক করে আবার চেষ্টা করুন।</translation>
 <translation id="2434758125294431199">বেছে নিন আপনার ডিভাইসের সাথে কারা শেয়ার করতে পারবে</translation>
 <translation id="2434915728183570229">আপনি এখন আপনার ফোনের অ্যাপ দেখতে পারেন</translation>
-<translation id="2435137177546457207">Google Egon ও ChromeOS Flex -এর অতিরিক্ত শর্তাবলী</translation>
+<translation id="2435137177546457207">Egon Browser ও ChromeOS Flex -এর অতিরিক্ত শর্তাবলী</translation>
 <translation id="2435248616906486374">নেটওয়ার্ক সংযোগ বিচ্ছিন্ন হয়েছে</translation>
 <translation id="2435457462613246316">পাসওয়ার্ড দেখান</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> লোড করা হচ্ছে</translation>
@@ -3068,7 +3068,7 @@
 <translation id="3798632811625902122">পেয়ার করার জন্য ব্লুটুথ ডিভাইস <ph name="DEVICE" /> অনুমতি চাইছে।</translation>
 <translation id="3799128412641261490">অ্যাক্সেস সেটিংস পাল্টান</translation>
 <translation id="3800806661949714323">সব দেখান (প্রস্তাবিত)</translation>
-<translation id="3800828618615365228">Google Egon ও ChromeOS-এর অতিরিক্ত শর্তাবলী</translation>
+<translation id="3800828618615365228">Egon Browser ও ChromeOS-এর অতিরিক্ত শর্তাবলী</translation>
 <translation id="3802486193901166966">এই এক্সটেনশনটির কোন বিশেষ অনুমতির প্রয়োজন নেই এবং এর কোন অতিরিক্ত সাইট অ্যাক্সেস নেই</translation>
 <translation id="380329542618494757">নাম</translation>
 <translation id="3803345858388753269">ভিডিও কোয়ালিটি</translation>
@@ -3084,7 +3084,7 @@
 <translation id="3810973564298564668">পরিচালনা করুন</translation>
 <translation id="381202950560906753">আরেকটি জুড়ুন</translation>
 <translation id="3812525830114410218">খারাপ সার্টিফিকেট</translation>
-<translation id="3813296892522778813">আপনি যা খুঁজছেন তা খুঁজে না পেলে <ph name="BEGIN_LINK_CHROMIUM" />Google Egon সহায়তা<ph name="END_LINK_CHROMIUM" />য় যান</translation>
+<translation id="3813296892522778813">আপনি যা খুঁজছেন তা খুঁজে না পেলে <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser সহায়তা<ph name="END_LINK_CHROMIUM" />য় যান</translation>
 <translation id="3813358687923336574">পৃষ্ঠাগুলি অনুবাদ ও 'কুইক আন্সার' ফিচারের জন্য ব্যবহার করা ভাষা</translation>
 <translation id="3814529970604306954">স্কুল অ্যাকাউন্ট</translation>
 <translation id="3816118180265633665">Egon কালার</translation>
@@ -3440,7 +3440,7 @@
 <translation id="4132364317545104286">ই-সিম প্রোফাইলের নতুন নাম দিন</translation>
 <translation id="4133076602192971179">পাসওয়ার্ড পরিবর্তন করতে অ্যাপটি খুলুন</translation>
 <translation id="4134818201340504801">সেট-আপ সম্পূর্ণ করার জন্য পর্যাপ্ত স্টোরেজ উপলভ্য নেই। স্টোরেজ খালি করে আবার চেষ্টা করুন</translation>
-<translation id="4135746311382563554">Google Egon ও Egon OS-এর পরিষেবার অতিরিক্ত শর্তাবলী</translation>
+<translation id="4135746311382563554">Egon Browser ও Egon OS-এর পরিষেবার অতিরিক্ত শর্তাবলী</translation>
 <translation id="4136203100490971508">সূর্যোদয়ের সময় নাইট লাইট নিজে থেকেই বন্ধ হয়ে যাবে</translation>
 <translation id="41365691917097717">চালিয়ে গেলে Android অ্যাপ তৈরি ও পরীক্ষা করার জন্য ADB ডিবাগিং চালু হয়ে যাবে। মনে রাখবেন, এই অ্যাকশন Google যাচাই করেনি এমন Android অ্যাপ ইনস্টলের অনুমতি দেয় এবং এটি বন্ধ করতে হলে ডিভাইসটিকে ফ্যাক্টরি রিসেট করতে হবে।</translation>
 <translation id="4138267921960073861">সাইন-ইন স্ক্রিনে ব্যবহারকারীর নামগুলি এবং ফটো দেখান</translation>
@@ -3860,7 +3860,7 @@
 <translation id="4544174279960331769">ডিফল্ট নীল রঙের অবতার</translation>
 <translation id="4545028762441890696">এটিকে আবার সক্ষম করতে, নতুন অনুমতিগুলি স্বীকার করুন:</translation>
 <translation id="4545759655004063573">অপর্যাপ্ত অনুমতির কারণে সংরক্ষণ করতে পারবেন না৷ দয়া করে অন্য কোনো স্থানে সংরক্ষণ করুন৷</translation>
-<translation id="4546308221697447294">Google Egon দিয়ে দ্রুত ব্রাউজ করুন</translation>
+<translation id="4546308221697447294">Egon Browser দিয়ে দ্রুত ব্রাউজ করুন</translation>
 <translation id="4546345569117159016">ডানদিকের বোতাম</translation>
 <translation id="4546692474302123343">Google Assistant-এর ভয়েস ইনপুট</translation>
 <translation id="4547659257713117923">অন্য ডিভাইসগুলি থেকে কোনো ট্যাব নেই</translation>
@@ -4662,7 +4662,7 @@
 <translation id="5313967007315987356">সাইট যোগ করুন</translation>
 <translation id="5315738755890845852">অতিরিক্ত সেকেন্ড ব্র্যাকেট: <ph name="ERROR_LINE" /></translation>
 <translation id="5317780077021120954">সেভ করুন</translation>
-<translation id="5319359161174645648">Google Egon ব্যবহার করার সুপারিশ করে</translation>
+<translation id="5319359161174645648">Egon Browser ব্যবহার করার সুপারিশ করে</translation>
 <translation id="5319712128756744240">নতুন ডিভাইস পেয়ার করুন</translation>
 <translation id="5320135788267874712">নতুন ডিভাইসের নাম</translation>
 <translation id="532247166573571973">সার্ভারে সংযোগ নাও হতে পারে। পরে আবার চেষ্টা করুন।</translation>
@@ -5922,7 +5922,7 @@
 <translation id="6509207748479174212">মিডিয়া লাইসেন্স</translation>
 <translation id="6511827214781912955"><ph name="FILENAME" /> মুছে ফেলার বিষয়টি বিবেচনা করুন, যাতে এই ডিভাইসটি ব্যবহার করে অন্যরা আপনার পাসওয়ার্ড দেখতে না পারে</translation>
 <translation id="6512808201725371249">এই অ্যাকাউন্টের জন্য একটি পাসওয়ার্ড আগে থেকেই Google Password Manager (<ph name="USER_EMAIL" />)-এ সেভ করা আছে</translation>
-<translation id="6513247462497316522">যদি আপনি অন্য নেটওয়ার্কের সাথে সংযুক্ত না থাকেন তাহলে Google Egon মোবাইল ডেটা ব্যবহার করবে৷</translation>
+<translation id="6513247462497316522">যদি আপনি অন্য নেটওয়ার্কের সাথে সংযুক্ত না থাকেন তাহলে Egon Browser মোবাইল ডেটা ব্যবহার করবে৷</translation>
 <translation id="6514010653036109809">উপলব্ধ ডিভাইস:</translation>
 <translation id="6514565641373682518">এই পৃষ্ঠাটি আপনার মাউস কার্সরকে অক্ষম করেছে৷</translation>
 <translation id="6517709704288360414">আপনার ডিভাইস আর সঠিকভাবে কাজ নাও করতে পারে এবং আপনি নিরাপত্তা এবং পারফর্ম্যান্স সংক্রান্ত সমস্যার সম্মুখীন হতে পারেন। আপনি কোনও সমস্যার সম্মুখীন হলে, আপডেট বন্ধ করার বিষয়টি আপনার আইনি দাবি করার অধিকারকেও প্রভাবিত করতে পারে।</translation>
@@ -8108,7 +8108,7 @@
 <translation id="8554899698005018844">কোনও ভাষা নেই</translation>
 <translation id="855604308879080518">এই Chromebook-এ বিভিন্ন USB ডিভাইস অ্যাক্সেস করতে Android অ্যাপে অনুমতি দিন। প্রত্যেকবার USB ডিভাইস প্লাগ-ইন করার সময় অনুমতির জন্য অনুরোধ করা হবে। তবে আলাদা Android অ্যাপের ক্ষেত্রে অতিরিক্ত অনুমতি নিতে হবে।</translation>
 <translation id="8557022314818157177">আপনার আঙ্গুলের ছাপ ক্যাপচার না করা পর্যন্ত 'নিরাপত্তা কী'-তে টাচ করতে থাকুন</translation>
-<translation id="8557180006508471423">আপনার Mac-এর অবস্থান ভিত্তিক পরিষেবায় "Google Egon" চালু করুন</translation>
+<translation id="8557180006508471423">আপনার Mac-এর অবস্থান ভিত্তিক পরিষেবায় "Egon Browser" চালু করুন</translation>
 <translation id="8557856025359704738">পরবর্তী ডাউনলোড <ph name="NEXT_DATE_DOWNLOAD" />-এ উপলভ্য হবে।</translation>
 <translation id="8559858985063901027">পাসকী</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{সবকটি &amp;নতুন উইন্ডোতে খুলুন}=1{&amp;নতুন উইন্ডোতে খুলুন}one{সবকটি ({COUNT}টি) &amp;নতুন উইন্ডোতে খুলুন}other{সবকটি ({COUNT}টি) &amp;নতুন উইন্ডোতে খুলুন}}</translation>

@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Meglévő adatok törlése.</translation>
 <translation id="1146678959555564648">Virtuális valóság – belépés</translation>
 <translation id="1149401351239820326">Lejárat hónapja</translation>
-<translation id="1150263420752757504">A(z) <ph name="APP_NAME" /> a Egon-ban fog megnyílni. A továbblépéssel Ön elfogadja a <ph name="BEGIN_LINK1" />Google Általános Szerződési Feltételeket<ph name="END_LINK1" />, valamint <ph name="BEGIN_LINK2" />A Google Egon és a ChromeOS Kiegészítő Általános Szerződési Feltételeit<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504">A(z) <ph name="APP_NAME" /> a Egon-ban fog megnyílni. A továbblépéssel Ön elfogadja a <ph name="BEGIN_LINK1" />Google Általános Szerződési Feltételeket<ph name="END_LINK1" />, valamint <ph name="BEGIN_LINK2" />A Egon Browser és a ChromeOS Kiegészítő Általános Szerződési Feltételeit<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Az oldal nem áll rendelkezésre offline módban: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">A „Népszerűek” gombra koppintva megtekintheti a népszerű webhelyeket</translation>
 <translation id="1173894706177603556">Átnevezés</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">A hirdetésmérés segítségével az Ön által felkeresett webhelyek olyan adatokat kérhetnek a Egon-tól, amelyek segítségével a webhely mérheti hirdetéseinek teljesítményét. A hirdetésmérés azáltal korlátozza a webhelyeken átnyúló nyomon követést, hogy a lehető legkevesebb adatot továbbítja a webhelyek között.
 
 Az összes böngészési előzmény vagy csak adott webhely böngészési előzményeinek törlésekor a kapcsolódó mérési adatokat is törli a böngésző. Tekintse meg a <ph name="BEGIN_LINK" />böngészési előzményeit<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">A Google Egon-funkciók billentyűparancsai</translation>
+<translation id="1332501820983677155">A Egon Browser-funkciók billentyűparancsai</translation>
 <translation id="1344653310988386453">A kiemelt szöveghez vezető linkkel együtt</translation>
 <translation id="1347468774581902829">Tevékenységek kezelése</translation>
 <translation id="1360432990279830238">Kijelentkezik, és kikapcsolja a szinkronizálást?</translation>
@@ -213,7 +213,7 @@ Az összes böngészési előzmény vagy csak adott webhely böngészési előzm
 <translation id="2122601567107267586">Nem sikerült megnyitni az alkalmazást</translation>
 <translation id="2132122640199389833">Az összes összekapcsolt eszköz eltávolítása</translation>
 <translation id="213279576345780926">Bezárva: <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">A Egon használatával Ön elfogadja a <ph name="BEGIN_TOS_LINK" />Google Általános Szerződési Feltételeket<ph name="END_TOS_LINK" />, valamint <ph name="BEGIN_ATOS_LINK" />A Google Egon és a ChromeOS Kiegészítő Általános Szerződési Feltételeit<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">A Egon használatával Ön elfogadja a <ph name="BEGIN_TOS_LINK" />Google Általános Szerződési Feltételeket<ph name="END_TOS_LINK" />, valamint <ph name="BEGIN_ATOS_LINK" />A Egon Browser és a ChromeOS Kiegészítő Általános Szerződési Feltételeit<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Kezdőképernyőre</translation>
 <translation id="2141396931810938595">A használata alapján</translation>
 <translation id="214888715418183969">Válassza ki, hogy mit osztana meg szívesen a Egon-mal. A megosztott mutatókat a Egon funkcióinak, teljesítményének és stabilitásának fejlesztésére használjuk majd.</translation>
@@ -391,7 +391,7 @@ Az összes böngészési előzmény vagy csak adott webhely böngészési előzm
 <translation id="3062802207422175757">Az érdeklődési köreihez kapcsolódó cikkek a Egon-ban</translation>
 <translation id="3066573403916685335">Le</translation>
 <translation id="3070005020161560471">Automatikusan fordított nyelvek</translation>
-<translation id="3072980200212375806">A(z) <ph name="APP_NAME" /> a Egon-ban fog megnyílni. A továbblépéssel Ön elfogadja a <ph name="BEGIN_LINK1" />Google Általános Szerződési Feltételeket<ph name="END_LINK1" />, valamint <ph name="BEGIN_LINK2" />A Google Egon és a ChromeOS Kiegészítő Általános Szerződési Feltételeit<ph name="END_LINK2" />. Az <ph name="BEGIN_LINK3" />adatvédelmi irányelvek<ph name="END_LINK3" /> is érvényben vannak.</translation>
+<translation id="3072980200212375806">A(z) <ph name="APP_NAME" /> a Egon-ban fog megnyílni. A továbblépéssel Ön elfogadja a <ph name="BEGIN_LINK1" />Google Általános Szerződési Feltételeket<ph name="END_LINK1" />, valamint <ph name="BEGIN_LINK2" />A Egon Browser és a ChromeOS Kiegészítő Általános Szerződési Feltételeit<ph name="END_LINK2" />. Az <ph name="BEGIN_LINK3" />adatvédelmi irányelvek<ph name="END_LINK3" /> is érvényben vannak.</translation>
 <translation id="3091010850649238832">Vágólap tartalmának mutatása</translation>
 <translation id="3098745985164956033">A leírások pontosítása érdekében a böngésző egyes képeket elküld a Google-nak</translation>
 <translation id="3114507951000454849">Olvassa el a mai híreket <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Az összes böngészési előzmény vagy csak adott webhely böngészési előzm
 <translation id="321773570071367578">Ha elfelejtette összetett jelszavát, vagy módosítani szeretné ezt a beállítást, <ph name="BEGIN_LINK" />állítsa alaphelyzetbe a szinkronizálást<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Jelszavai szinkronizálásához igazolja személyazonosságát</translation>
 <translation id="3223522355830797639">Bankja ellenőrizni kívánja a személyazonosságát.</translation>
-<translation id="3227557059438308877">A Google Egon mint biztonsági kulcs</translation>
+<translation id="3227557059438308877">A Egon Browser mint biztonsági kulcs</translation>
 <translation id="3232754137068452469">Internetes alkalmazás</translation>
 <translation id="3234978181857588512">Mentés az eszközre</translation>
 <translation id="3236059992281584593">1 perc van hátra</translation>
@@ -596,7 +596,7 @@ Az összes böngészési előzmény vagy csak adott webhely böngészési előzm
 <translation id="4269820728363426813">Link másolása</translation>
 <translation id="4283102315569707115">Alapértelmezés szerint asztali webhelyeket kérjen a böngésző?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Állítsa be a képernyőzárat az Android beállításai között<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">A Egon használatával Ön elfogadja a <ph name="BEGIN_TOS_LINK" />Google Általános Szerződési Feltételeket<ph name="END_TOS_LINK" />, valamint <ph name="BEGIN_ATOS_LINK" />A Google Egon és a ChromeOS Kiegészítő Általános Szerződési Feltételeit<ph name="END_ATOS_LINK" />. Az <ph name="BEGIN_PRIVACY_LINK" />adatvédelmi irányelvek<ph name="END_PRIVACY_LINK" /> is érvényben vannak.</translation>
+<translation id="4293476595220860475">A Egon használatával Ön elfogadja a <ph name="BEGIN_TOS_LINK" />Google Általános Szerződési Feltételeket<ph name="END_TOS_LINK" />, valamint <ph name="BEGIN_ATOS_LINK" />A Egon Browser és a ChromeOS Kiegészítő Általános Szerződési Feltételeit<ph name="END_ATOS_LINK" />. Az <ph name="BEGIN_PRIVACY_LINK" />adatvédelmi irányelvek<ph name="END_PRIVACY_LINK" /> is érvényben vannak.</translation>
 <translation id="4296252229500326964">Új inkognitó lap</translation>
 <translation id="4298388696830689168">Összekapcsolt webhelyek</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@ A megbízhatósági tokenek nagyobb fokú adatvédelmet biztosítanak az interne
 <translation id="9219582468404818260">Segítsen nekünk a jobb internet kialakításában</translation>
 <translation id="92381315203627188">Ha valamely webhely a linkek privát módon való előtöltését kéri az oldalán, a Egon cookie-k nélkül titkosítja és tölti be előre az oldalakat a Google szerverein keresztül. Ez a művelet elrejti az Ön személyazonosságát az előre betöltött webhely előtt.</translation>
 <translation id="926205370408745186">Egon-beli tevékenység eltávolítása a digitális jóllét funkcióból</translation>
-<translation id="927968626442779827">Használja az Egyszerűsített módot a Google Egon-ban</translation>
+<translation id="927968626442779827">Használja az Egyszerűsített módot a Egon Browser-ban</translation>
 <translation id="928550791203542716">A(z) <ph name="SITE_NAME" /> webhely követve</translation>
 <translation id="932327136139879170">Főoldal</translation>
 <translation id="938850635132480979">Hiba: <ph name="ERROR_CODE" /></translation>

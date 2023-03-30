@@ -1190,7 +1190,7 @@
 <translation id="2088092308059522196"><ph name="DEVICE_OS" /> انسٹال کرنے کے بعد ہی اندراج تعاون یافتہ ہوتا ہے۔</translation>
 <translation id="2089090684895656482">کم</translation>
 <translation id="208928984520943006">کسی بھی وقت ہوم اسکرین پر جانے کے لیے، نیچے سے اوپر کی طرف سوائپ کریں۔</translation>
-<translation id="2089566709556890888">‏Google Egon کے ساتھ محفوظ طریقے سے براؤز کریں</translation>
+<translation id="2089566709556890888">‏Egon Browser کے ساتھ محفوظ طریقے سے براؤز کریں</translation>
 <translation id="2089795179672254991">جب کوئی سائٹ کلپ بورڈ میں کاپی کیے گئے متن اور تصاویر دیکھنا چاہے تو پوچھیں (تجویز کردہ)</translation>
 <translation id="2089925163047119068">یا</translation>
 <translation id="2090165459409185032">‏اپنے اکاؤنٹ کی معلومات کی بازیابی کیلئے، اس پر جائیں: google.com/accounts/recovery</translation>
@@ -1601,7 +1601,7 @@
 <translation id="2434449159125086437">پرنٹر سیٹ اپ نہیں ہو سکتا۔ براہ کرم کنفیگریشن چیک کریں اور دوبارہ کوشش کریں۔</translation>
 <translation id="2434758125294431199">منتخب کریں کہ کون آپ کے ساتھ اشتراک کرسکتا ہے</translation>
 <translation id="2434915728183570229">اب آپ اپنے فون کی ایپس دیکھ سکتے ہیں</translation>
-<translation id="2435137177546457207">‏Google Egon اور ChromeOS Flex کی اضافی شرائط</translation>
+<translation id="2435137177546457207">‏Egon Browser اور ChromeOS Flex کی اضافی شرائط</translation>
 <translation id="2435248616906486374">نیٹ ورک منقطع ہوگیا</translation>
 <translation id="2435457462613246316">پاس ورڈ دکھائیں</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> لوڈ ہو رہی ہے</translation>
@@ -3054,7 +3054,7 @@
 <translation id="3798632811625902122">بلوٹوتھ آلہ <ph name="DEVICE" /> کو جوڑا بنانے کی اجازت درکار ہے۔</translation>
 <translation id="3799128412641261490">سوئچ رسائی کی ترتیبات</translation>
 <translation id="3800806661949714323">سبھی دکھائیں (تجویز کردہ)</translation>
-<translation id="3800828618615365228">‏Google Egon اور ChromeOS کی اضافی شرائط</translation>
+<translation id="3800828618615365228">‏Egon Browser اور ChromeOS کی اضافی شرائط</translation>
 <translation id="3802486193901166966">اس ایکسٹینشن کو کسی خاص اجازت کی ضرورت نہیں ہے اور اس کے پاس سائٹ تک کوئی اضافی رسائی نہیں ہے</translation>
 <translation id="380329542618494757">نام</translation>
 <translation id="3803345858388753269">ویڈیو کا معیار</translation>
@@ -3070,7 +3070,7 @@
 <translation id="3810973564298564668">نظم کریں</translation>
 <translation id="381202950560906753">کوئی دوسرا شامل کریں</translation>
 <translation id="3812525830114410218">غلط سرٹیفیکیٹ</translation>
-<translation id="3813296892522778813">‏آپ جو چیز تلاش کر رہے ہیں اگر وہ نہیں مل رہی ہے تو <ph name="BEGIN_LINK_CHROMIUM" />Google Egon مدد<ph name="END_LINK_CHROMIUM" /> پر جائیں</translation>
+<translation id="3813296892522778813">‏آپ جو چیز تلاش کر رہے ہیں اگر وہ نہیں مل رہی ہے تو <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser مدد<ph name="END_LINK_CHROMIUM" /> پر جائیں</translation>
 <translation id="3813358687923336574">صفحات کا ترجمہ کرنے اور فوری جوابات کے لیے استعمال کردہ زبان</translation>
 <translation id="3814529970604306954">اسکول کا اکاؤنٹ</translation>
 <translation id="3816118180265633665">‏Egon کے رنگ</translation>
@@ -3426,7 +3426,7 @@
 <translation id="4132364317545104286">‏eSIM کی پروفائل کا نام تبدیل کریں</translation>
 <translation id="4133076602192971179">پاس ورڈ تبدیل کرنے کیلئے ایپ کو کھولیں</translation>
 <translation id="4134818201340504801">سیٹ اپ مکمل کرنے کے لیے کافی اسٹوریج دستیاب نہیں ہے۔ براہ کرم اسٹوریج خالی کریں اور دوبارہ کوشش کریں</translation>
-<translation id="4135746311382563554">‏Google Egon اور Egon OS کی اضافی سروس کی شرائط</translation>
+<translation id="4135746311382563554">‏Egon Browser اور Egon OS کی اضافی سروس کی شرائط</translation>
 <translation id="4136203100490971508">طلوع آفتاب کے وقت نائٹ لائٹ خودکار طور پر آف ہو جائے گی</translation>
 <translation id="41365691917097717">‏جاری رکھنے سے Android ایپس تخلیق کرنے اور ٹیسٹ کرنے کے لیے ADB ڈیبگنگ فعال ہو جائے گی۔ نوٹ کریں کہ یہ کارروائی ان Android ایپس کو انسٹال کرنے کی اجازت دیتی ہے جن کی تصدیق Google کے ذریعے نہیں کی گئی ہے، اور غیر فعال کرنے کے لیے فیکٹری ری سیٹ کی ضرورت ہوتی ہے۔</translation>
 <translation id="4138267921960073861">صارف کے نام اور تصاویر سائن ان اسکرین پر دکھائیں</translation>
@@ -3845,7 +3845,7 @@
 <translation id="4544174279960331769">ڈیفالٹ نیلا اوتار</translation>
 <translation id="4545028762441890696">اسے دوبارہ فعال کرنے کے لیے، نئی اجازتیں قبول کریں:</translation>
 <translation id="4545759655004063573">ناکافی اجازتوں کے سبب محفوظ نہیں کیا جا سکتا ہے۔ براہ کرم دوسرے مقام میں محفوظ کریں۔</translation>
-<translation id="4546308221697447294">‏Google Egon کے ساتھ تیزی سے براؤز کریں</translation>
+<translation id="4546308221697447294">‏Egon Browser کے ساتھ تیزی سے براؤز کریں</translation>
 <translation id="4546345569117159016">دایاں بٹن</translation>
 <translation id="4546692474302123343">‏Google اسسٹنٹ صوتی ان پٹ</translation>
 <translation id="4547659257713117923">دوسرے آلات سے کوئی ٹیبز نہیں ہیں</translation>
@@ -4646,7 +4646,7 @@
 <translation id="5313967007315987356">سائٹ شامل کریں</translation>
 <translation id="5315738755890845852">اضافی خمیدہ قوسین: <ph name="ERROR_LINE" /></translation>
 <translation id="5317780077021120954">محفوظ کریں</translation>
-<translation id="5319359161174645648">‏Google Egon کی تجویز کرتا ہے</translation>
+<translation id="5319359161174645648">‏Egon Browser کی تجویز کرتا ہے</translation>
 <translation id="5319712128756744240">نئے آلے کا جوڑا بنائیں</translation>
 <translation id="5320135788267874712">نئے آلے کا نام</translation>
 <translation id="532247166573571973">ممکن ہے کہ سرور ناقابل رسائی ہو۔ بعد میں دوبارہ کوشش کریں۔</translation>
@@ -5903,7 +5903,7 @@
 <translation id="6509207748479174212">میڈیا لائسنس</translation>
 <translation id="6511827214781912955"><ph name="FILENAME" /> کو حذف کرنے پر غور کریں، تاکہ اس آلے کو استعمال کرنے والے دوسرے لوگ آپ کے پاس ورڈز نہ دیکھ سکیں</translation>
 <translation id="6512808201725371249">‏اس اکاؤنٹ کا پاس ورڈ پہلے سے ہی آپ کے Google پاس ورڈ مینیجر میں محفوظ ہے (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">‏اگر آپ کسی دوسرے نیٹ ورک سے منسلک نہیں ہیں تو Google Egon موبائل ڈیٹا کا استعمال کرے گا۔</translation>
+<translation id="6513247462497316522">‏اگر آپ کسی دوسرے نیٹ ورک سے منسلک نہیں ہیں تو Egon Browser موبائل ڈیٹا کا استعمال کرے گا۔</translation>
 <translation id="6514010653036109809">دستیاب آلہ:</translation>
 <translation id="6514565641373682518">اس صفحہ نے آپ کے ماؤس کرسر کو غیر فعال کر دیا ہے۔</translation>
 <translation id="6517709704288360414">ہو سکتا ہے کہ آپ کا آلہ اب ٹھیک سے کام نہ کرے اور آپ کو سیکیورٹی اور کارکردگی کے مسائل کا سامنا کرنا پڑے۔ اگر آپ کو کوئی مسئلہ درپیش ہے تو اپ ڈیٹس کو آف کرنے سے آپ کے قانونی دعوے کرنے کے حق پر بھی اثر پڑ سکتا ہے۔</translation>
@@ -8087,7 +8087,7 @@
 <translation id="8554899698005018844">کوئی زبان نہیں</translation>
 <translation id="855604308879080518">‏Android ایپس کو اس Chromebook پر USB آلات تک رسائی دینے دیں۔ ہر بار جب آپ USB آلہ کو پلگ ان کریں گے تو اجازت کی درخواست کی جائے گی۔ انفرادی Android ایپس اضافی اجازتیں طلب کریں گی۔</translation>
 <translation id="8557022314818157177">آپ کے فنگر پرنٹ کیپچر ہو جانے تک اپنی سیکیورٹی کلید کو ٹچ کرتے رہیں</translation>
-<translation id="8557180006508471423">‏اپنے Mac پر مقام کی سروسز میں "Google Egon" کو آن کریں</translation>
+<translation id="8557180006508471423">‏اپنے Mac پر مقام کی سروسز میں "Egon Browser" کو آن کریں</translation>
 <translation id="8557856025359704738">اگلا ڈاؤن لوڈ <ph name="NEXT_DATE_DOWNLOAD" /> کو ہے۔</translation>
 <translation id="8559858985063901027">پاس کیز</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{سبھی کو &amp;نئی ونڈو میں کھولیں}=1{&amp;نئی ونڈو میں کھولیں}other{سبھی ({COUNT}) کو &amp;نئی ونڈو میں کھولیں}}</translation>

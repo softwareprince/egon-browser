@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Одоо байгаа өгөгдлийг устгана уу.</translation>
 <translation id="1146678959555564648">VR-г оруулна уу</translation>
 <translation id="1149401351239820326">Хугацаа дуусах сар</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" />-г Egon-д нээнэ. Үргэлжлүүлснээр та <ph name="BEGIN_LINK1" />Google-н үйлчилгээний нөхцөл<ph name="END_LINK1" /> болон <ph name="BEGIN_LINK2" />Google Egon, ChromeOS-н үйлчилгээний нэмэлт нөхцөлийг<ph name="END_LINK2" /> зөвшөөрч байна.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" />-г Egon-д нээнэ. Үргэлжлүүлснээр та <ph name="BEGIN_LINK1" />Google-н үйлчилгээний нөхцөл<ph name="END_LINK1" /> болон <ph name="BEGIN_LINK2" />Egon Browser, ChromeOS-н үйлчилгээний нэмэлт нөхцөлийг<ph name="END_LINK2" /> зөвшөөрч байна.</translation>
 <translation id="1154704303112745282">Хуудас офлайн үед боломжгүй: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"Шилдэг сайтууд" товчлуурыг товшин, түгээмэл хэрэглэгддэг веб сайтыг харна уу</translation>
 <translation id="1173894706177603556">Нэр солих</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Зарын хэмжилт нь таны зочилсон сайтуудад зарынхаа гүйцэтгэлийг хэмжихэд туслах мэдээллийг Egon-с хүсэх боломжийг олгоно. Зарын хэмжилт нь сайт хооронд аль болох бага мэдээлэл шилжүүлснээр сайт хоорондын хяналтыг хязгаарлана.
 
 Та бүх эсвэл тодорхой сайтын — хөтчийн түүхээ устгах үед — холбоотой хэмжилтийн мэдээллийг мөн устгана. <ph name="BEGIN_LINK" />Хөтчийн түүхээ<ph name="END_LINK" /> харна уу.</translation>
-<translation id="1332501820983677155">Google Egon онцлогийн товчлол</translation>
+<translation id="1332501820983677155">Egon Browser онцлогийн товчлол</translation>
 <translation id="1344653310988386453">Тодруулсан текстийн холбоосыг багтаах</translation>
 <translation id="1347468774581902829">Үйл ажиллагааг удирдах</translation>
 <translation id="1360432990279830238">Гараад синк хийхийг унтраах уу?</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">Аппыг нээж чадсангүй</translation>
 <translation id="2132122640199389833">Бүх холбосон төхөөрөмжийг хасах</translation>
 <translation id="213279576345780926">Хаалттай <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">Egon-г ашигласнаар та <ph name="BEGIN_TOS_LINK" />Google-н үйлчилгээний нөхцөл<ph name="END_TOS_LINK" /> болон <ph name="BEGIN_ATOS_LINK" />Google Egon, ChromeOS-н нэмэлт нөхцөлийг<ph name="END_ATOS_LINK" /> зөвшөөрч байна.</translation>
+<translation id="2134927169889348449">Egon-г ашигласнаар та <ph name="BEGIN_TOS_LINK" />Google-н үйлчилгээний нөхцөл<ph name="END_TOS_LINK" /> болон <ph name="BEGIN_ATOS_LINK" />Egon Browser, ChromeOS-н нэмэлт нөхцөлийг<ph name="END_ATOS_LINK" /> зөвшөөрч байна.</translation>
 <translation id="2139186145475833000">Нүүр хуудсын дэлгэц рүү нэмэх</translation>
 <translation id="2141396931810938595">Таны ашиглалтад тулгуурласан</translation>
 <translation id="214888715418183969">Egon-тай хуваалцахдаа тухтай байх зүйлээ сонгоно уу. Таны хуваалцсан хэмжигдэхүүнүүдийг Egon-н онцлог, гүйцэтгэл болон тогтвортой байдлыг сайжруулахад туслах зорилгоор ашиглана.</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Таны сонирхолтой холбоотой Egon дээрх нийтлэлүүд</translation>
 <translation id="3066573403916685335">Доош нь болгох</translation>
 <translation id="3070005020161560471">Автоматаар орчуул</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" />-г Egon-д нээнэ. Үргэлжлүүлснээр та <ph name="BEGIN_LINK1" />Google-н үйлчилгээний нөхцөл<ph name="END_LINK1" /> болон <ph name="BEGIN_LINK2" />Google Egon, ChromeOS-н үйлчилгээний нэмэлт нөхцөлийг<ph name="END_LINK2" /> зөвшөөрч байна. <ph name="BEGIN_LINK3" />Нууцлалын бодлого<ph name="END_LINK3" /> мөн хэрэгжинэ.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" />-г Egon-д нээнэ. Үргэлжлүүлснээр та <ph name="BEGIN_LINK1" />Google-н үйлчилгээний нөхцөл<ph name="END_LINK1" /> болон <ph name="BEGIN_LINK2" />Egon Browser, ChromeOS-н үйлчилгээний нэмэлт нөхцөлийг<ph name="END_LINK2" /> зөвшөөрч байна. <ph name="BEGIN_LINK3" />Нууцлалын бодлого<ph name="END_LINK3" /> мөн хэрэгжинэ.</translation>
 <translation id="3091010850649238832">Түр санах ойн контентыг харуулах</translation>
 <translation id="3098745985164956033">Танд зориулан тайлбарыг сайжруулахын тулд зарим зургийг Google-д илгээдэг.</translation>
 <translation id="3114507951000454849">Өнөөдрийн мэдээг уншаарай <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">Хэрэв та нэвтрэх үгээ мартсан, эсвэл тохиргоог нь өөрчлөхийг хүсвэл <ph name="BEGIN_LINK" />синкийг дахин тохируулна уу<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Нууц үгнүүдээ синк хийхийн тулд өөрийгөө мөн болохыг бататгана уу</translation>
 <translation id="3223522355830797639">Таны банк таныг мөн болохыг баталгаажуулахыг хүсэж байна.</translation>
-<translation id="3227557059438308877">Google Egon-г аюулгүй байдлын түлхүүр болгох</translation>
+<translation id="3227557059438308877">Egon Browser-г аюулгүй байдлын түлхүүр болгох</translation>
 <translation id="3232754137068452469">Веб Апп</translation>
 <translation id="3234978181857588512">Төхөөрөмжид хадгалах</translation>
 <translation id="3236059992281584593">1 минут үлдсэн</translation>
@@ -562,7 +562,7 @@
 <translation id="409109920254068737">Та энэ QR кодыг үзүүлж буй төхөөрөмжид нэвтрэхийн тулд энэ таблетыг ашиглах боломжтой.</translation>
 <translation id="4095146165863963773">Апп-н өгөгдлийг устгах уу?</translation>
 <translation id="4096227151372679484">Хавчуурганы хадгалах урсгалыг тал өндөртэйгээр нээсэн</translation>
-<translation id="4099578267706723511">Хэрэглээний статистик мэдээ болон алдаа ослын тайланг автоматаар Google рүү илгээх замаар Google Egon-ийг улам сайжруулахад тусална уу.</translation>
+<translation id="4099578267706723511">Хэрэглээний статистик мэдээ болон алдаа ослын тайланг автоматаар Google рүү илгээх замаар Egon Browser-ийг улам сайжруулахад тусална уу.</translation>
 <translation id="4101475238162928417">Нууц үгнүүд, хавчуурга болон илүү ихийг бусад төхөөрөмжөөсөө авахын тулд синк хийнэ үү</translation>
 <translation id="410351446219883937">Автоматаар тоглуулах</translation>
 <translation id="4106587138345390261">Egon нь сайтуудад таны өгөгдлийг бага хэмжээгээр ашиглан ижил үзэх туршлагыг хүргэх боломжийг олгох шинэ онцлогуудыг судалж байна</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">Холбоосын хаягийг хуулах</translation>
 <translation id="4283102315569707115">Өгөгдмөлөөр компьютерын сайтын хүсэлт тавих уу?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android-н тохиргоонд дэлгэцийн түгжээг асаана уу<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Egon-г ашигласнаар та <ph name="BEGIN_TOS_LINK" />Google-н үйлчилгээний нөхцөл<ph name="END_TOS_LINK" /> болон <ph name="BEGIN_ATOS_LINK" />Google Egon, ChromeOS-н нэмэлт нөхцөлийг<ph name="END_ATOS_LINK" /> зөвшөөрч байна. <ph name="BEGIN_PRIVACY_LINK" />Нууцлалын бодлого<ph name="END_PRIVACY_LINK" /> мөн хэрэгжинэ.</translation>
+<translation id="4293476595220860475">Egon-г ашигласнаар та <ph name="BEGIN_TOS_LINK" />Google-н үйлчилгээний нөхцөл<ph name="END_TOS_LINK" /> болон <ph name="BEGIN_ATOS_LINK" />Egon Browser, ChromeOS-н нэмэлт нөхцөлийг<ph name="END_ATOS_LINK" /> зөвшөөрч байна. <ph name="BEGIN_PRIVACY_LINK" />Нууцлалын бодлого<ph name="END_PRIVACY_LINK" /> мөн хэрэгжинэ.</translation>
 <translation id="4296252229500326964">Шинэ Нууцлалтай таб</translation>
 <translation id="4298388696830689168">Холбоотой сайтууд</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1546,7 +1546,7 @@ Privacy Sandbox-н туршилт нь идэвхтэй хөгжүүлэлтэд
 <translation id="9219582468404818260">Бидэнд илүү сайн веб бүтээхэд тусална уу</translation>
 <translation id="92381315203627188">Сайт өөрийн хуудсан дээр холбооснуудыг нууцлалтайгаар урьдчилан ачаалахыг хүсэх үед Egon нь хуудаснуудыг күүкигүйгээр Google-н серверүүдээр шифрлэж, урьдчилан ачаална. Энэ нь таны таниулбарыг урьдчилан ачаалсан сайтаас нууна.</translation>
 <translation id="926205370408745186">Egon-н үйл ажиллагаагаа Дижитал хэрэглээнээс устгах</translation>
-<translation id="927968626442779827">Google Egon дээр Lite горимыг ашиглаарай</translation>
+<translation id="927968626442779827">Egon Browser дээр Lite горимыг ашиглаарай</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" />-г дагаж байна</translation>
 <translation id="932327136139879170">Нүүр хуудас</translation>
 <translation id="938850635132480979">Алдаа: <ph name="ERROR_CODE" /></translation>

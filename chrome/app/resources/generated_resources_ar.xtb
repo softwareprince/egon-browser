@@ -1193,7 +1193,7 @@
 <translation id="2088092308059522196">لن يُتاح التسجيل إلا بعد تثبيت نظام التشغيل <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">أقل</translation>
 <translation id="208928984520943006">للوصول إلى الشاشة الرئيسية في أي وقت، مرّر سريعًا بإصبعك من أسفل الشاشة إلى أعلاها.</translation>
-<translation id="2089566709556890888">‏التصفح بأمان باستخدام Google Egon</translation>
+<translation id="2089566709556890888">‏التصفح بأمان باستخدام Egon Browser</translation>
 <translation id="2089795179672254991">طلب الإذن عند محاولة أحد المواقع الاطلاع على النصوص والصور التي تم نسخها إلى الحافظة (موصى به)</translation>
 <translation id="2089925163047119068">أو</translation>
 <translation id="2090165459409185032">‏لاسترداد معلومات حسابك، انتقل إلى: google.com/accounts/recovery</translation>
@@ -1602,7 +1602,7 @@
 <translation id="2434449159125086437">تعذّر إعداد الطابعة. يُرجى التحقّق من الإعداد وإعادة المحاولة.</translation>
 <translation id="2434758125294431199">اختَر من يمكنه مشاركة الملفات مع جهازك.</translation>
 <translation id="2434915728183570229">يمكنك الآن الاطّلاع على تطبيقات هاتفك</translation>
-<translation id="2435137177546457207">‏الأحكام الإضافية لكلٍّ من متصفِّح Google Egon ونظام التشغيل ChromeOS Flex</translation>
+<translation id="2435137177546457207">‏الأحكام الإضافية لكلٍّ من متصفِّح Egon Browser ونظام التشغيل ChromeOS Flex</translation>
 <translation id="2435248616906486374">تم قطع الاتصال بالشبكة</translation>
 <translation id="2435457462613246316">عرض كلمة المرور</translation>
 <translation id="2439626940657133600">جارٍ تحميل <ph name="WINDOW_TITLE" /></translation>
@@ -3023,7 +3023,7 @@
 <translation id="3771290962915251154">لقد تم إيقاف هذا الإعداد بسبب تفعيل "أدوات الرقابة الأبوية".</translation>
 <translation id="3771294271822695279">ملفات فيديو</translation>
 <translation id="3771851622616482156">سيتم تسجيل خروجك من هذا الموقع الإلكتروني، بما في ذلك المواقع الإلكترونية في علامات التبويب المفتوحة.</translation>
-<translation id="3772046291955677288">‏لقد قرأت <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكلٍّ من متصفّح Google Egon ونظام التشغيل Egon<ph name="END_LINK2" /> وأوافق عليها.</translation>
+<translation id="3772046291955677288">‏لقد قرأت <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكلٍّ من متصفّح Egon Browser ونظام التشغيل Egon<ph name="END_LINK2" /> وأوافق عليها.</translation>
 <translation id="3774166835015494435">الصور والإشعارات الحديثة</translation>
 <translation id="3775432569830822555">‏شهادة خادم بروتوكول SSL (طبقة المقابس الآمنة)</translation>
 <translation id="3775705724665058594">إرسال إلى أجهزتك</translation>
@@ -3058,7 +3058,7 @@
 <translation id="3798632811625902122">يطلب جهاز البلوتوث "<ph name="DEVICE" />" الحصول على إذن للإقران.</translation>
 <translation id="3799128412641261490">إعدادات "الوصول عبر مفتاح التحويل"</translation>
 <translation id="3800806661949714323">عرض الكل (مستحسن)</translation>
-<translation id="3800828618615365228">‏بنود الخدمة الإضافية لكلٍّ من متصفّح Google Egon ونظام التشغيل Egon</translation>
+<translation id="3800828618615365228">‏بنود الخدمة الإضافية لكلٍّ من متصفّح Egon Browser ونظام التشغيل Egon</translation>
 <translation id="3802486193901166966">لا تتطلّب هذه الإضافة أذونات خاصة ولا تمتلك أذونات إضافية للوصول إلى المواقع الإلكترونية.</translation>
 <translation id="380329542618494757">الاسم</translation>
 <translation id="3803345858388753269">جودة الفيديو</translation>
@@ -3074,7 +3074,7 @@
 <translation id="3810973564298564668">إدارة</translation>
 <translation id="381202950560906753">إضافة بصمة إصبع أخرى</translation>
 <translation id="3812525830114410218">شهادة سيئة</translation>
-<translation id="3813296892522778813">‏يمكنك الانتقال إلى <ph name="BEGIN_LINK_CHROMIUM" />مساعدة Google Egon<ph name="END_LINK_CHROMIUM" /> إذا لم تتمكن من العثور عما تبحث عنه</translation>
+<translation id="3813296892522778813">‏يمكنك الانتقال إلى <ph name="BEGIN_LINK_CHROMIUM" />مساعدة Egon Browser<ph name="END_LINK_CHROMIUM" /> إذا لم تتمكن من العثور عما تبحث عنه</translation>
 <translation id="3813358687923336574">اللغة المستخدمة لترجمة الصفحات وميزة "معلومات سريعة"</translation>
 <translation id="3814529970604306954">حساب المؤسسة التعليمية</translation>
 <translation id="3816118180265633665">‏ألوان Egon</translation>
@@ -3096,7 +3096,7 @@
 <translation id="3826440694796503677">‏لقد أوقف المشرف إمكانية إضافة المزيد من حسابات Google.</translation>
 <translation id="3827774300009121996">&amp;ملء الشاشة</translation>
 <translation id="3828029223314399057">بحث في الإشارات المرجعية</translation>
-<translation id="3828953470056652895">‏لقد قرأت <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكلٍّ من متصفّح Google Egon ونظام التشغيل Egon<ph name="END_LINK2" /> و<ph name="BEGIN_LINK3" />بنود خدمة Google Play<ph name="END_LINK3" /> وأوافق عليها.</translation>
+<translation id="3828953470056652895">‏لقد قرأت <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكلٍّ من متصفّح Egon Browser ونظام التشغيل Egon<ph name="END_LINK2" /> و<ph name="BEGIN_LINK3" />بنود خدمة Google Play<ph name="END_LINK3" /> وأوافق عليها.</translation>
 <translation id="3829765597456725595">‏خادم مشاركة الملفات عبر بروتوكول SMB</translation>
 <translation id="3830654885961023588">{NUM_EXTENSIONS,plural, =1{أعاد مشرفك تفعيل إضافة واحدة يُحتمل أن تكون ضارة.}zero{أعاد مشرفك تفعيل {NUM_EXTENSIONS} إضافة يُحتمل أن تكون ضارة.}two{أعاد مشرفك تفعيل إضافتَين ({NUM_EXTENSIONS}) يُحتمل أن تكونا ضارتَين.}few{أعاد مشرفك تفعيل {NUM_EXTENSIONS} إضافات يُحتمل أن تكون ضارة.}many{أعاد مشرفك تفعيل {NUM_EXTENSIONS} إضافة يُحتمل أن تكون ضارة.}other{أعاد مشرفك تفعيل {NUM_EXTENSIONS} إضافة يُحتمل أن تكون ضارة.}}</translation>
 <translation id="3831436149286513437">‏إقتراحات بحث Google Drive</translation>
@@ -3427,7 +3427,7 @@
 <translation id="4132364317545104286">‏إعادة تسمية الملف الشخصي لشريحة eSIM</translation>
 <translation id="4133076602192971179">فتح التطبيق لتغيير كلمة المرور</translation>
 <translation id="4134818201340504801">لا تتوفّر مساحة تخزين كافية لإكمال عملية الإعداد. يُرجى إخلاء بعض مساحة التخزين وإعادة المحاولة.</translation>
-<translation id="4135746311382563554">‏بنود الخدمة الإضافية لكلٍ من متصفِّح Google Egon ونظام التشغيل Egon</translation>
+<translation id="4135746311382563554">‏بنود الخدمة الإضافية لكلٍ من متصفِّح Egon Browser ونظام التشغيل Egon</translation>
 <translation id="4136203100490971508">سيتم إيقاف الإضاءة الليلية تلقائيًا عند شروق الشمس.</translation>
 <translation id="41365691917097717">‏ستؤدي المواصلة إلى تفعيل خيار "تصحيح الأخطاء عبر ADB" لإنشاء تطبيقات متوافقة مع Android واختبارها. ويُرجى ملاحظة أن هذا الإجراء يتيح تثبيت تطبيقات متوافقة مع Android لم تتحقَّق منها Google، ويتطلب أيضًا إعادة ضبط على الإعدادات الأصلية لإيقافه.</translation>
 <translation id="4138267921960073861">عرض أسماء المستخدمين والصور على شاشة تسجيل الدخول</translation>
@@ -3846,7 +3846,7 @@
 <translation id="4544174279960331769">الصورة الرمزية التلقائية الزرقاء</translation>
 <translation id="4545028762441890696">لإعادة تفعليها ، اقبل الأذونات الجديدة:</translation>
 <translation id="4545759655004063573">لا يمكن الحفظ نظرًا لأن الأذونات غير كافية. يُرجى الحفظ في مكان آخر.</translation>
-<translation id="4546308221697447294">‏استمتع بالتصفح السريع باستخدام Google Egon</translation>
+<translation id="4546308221697447294">‏استمتع بالتصفح السريع باستخدام Egon Browser</translation>
 <translation id="4546345569117159016">زر الماوس الأيمن</translation>
 <translation id="4546692474302123343">‏الإدخال الصوتي في "مساعد Google"</translation>
 <translation id="4547659257713117923">ليست هناك علامات تبويب من أجهزة أخرى</translation>
@@ -5905,7 +5905,7 @@
 <translation id="6509207748479174212">ترخيص الوسائط</translation>
 <translation id="6511827214781912955">ننصحك بحذف الملف "<ph name="FILENAME" />"، حتى لا يتمكّن مستخدمو هذا الجهاز الآخرون من الاطّلاع على كلمات مرورك.</translation>
 <translation id="6512808201725371249">‏هناك كلمة مرور لهذا الحساب محفوظة حاليًا في "مدير كلمات المرور في Google" (<ph name="USER_EMAIL" />).</translation>
-<translation id="6513247462497316522">‏سيستخدم Google Egon بيانات الجوال إذا لم تكن متصلاً بشبكة أخرى.</translation>
+<translation id="6513247462497316522">‏سيستخدم Egon Browser بيانات الجوال إذا لم تكن متصلاً بشبكة أخرى.</translation>
 <translation id="6514010653036109809">الجهاز المتاح:</translation>
 <translation id="6514565641373682518">أوقفت هذه الصفحة مؤشر الماوس.</translation>
 <translation id="6517709704288360414">من المحتمَل أن يتوقف جهازك عن العمل بشكل صحيح، وقد تواجه مشاكل تتعلّق بالأمان والأداء. عند إيقاف التحديثات، قد يتأثّر أيضًا حقك في تقديم دعاوى قانونية في حال واجهتك أي مشاكل.</translation>
@@ -8100,7 +8100,7 @@
 <translation id="8554899698005018844">بدون لغة</translation>
 <translation id="855604308879080518">‏يسمح هذا الإعداد لتطبيقات Android بالوصول إلى أجهزة USB على جهاز Chromebook هذا. سيتم طلب إذن الوصول إلى أجهزة USB في كل مرة توصِّل فيها جهاز USB. ستطلب تطبيقات Android كلٌ على حدة الحصول على أذونات إضافية.</translation>
 <translation id="8557022314818157177">يُرجى الاستمرار في لمس مفتاح الأمان إلى أن يتم حِفظ بصمة الإصبع.</translation>
-<translation id="8557180006508471423">‏تفعيل "Google Egon" في "خدمات الموقع الجغرافي" على جهاز يعمل بنظام التشغيل Mac</translation>
+<translation id="8557180006508471423">‏تفعيل "Egon Browser" في "خدمات الموقع الجغرافي" على جهاز يعمل بنظام التشغيل Mac</translation>
 <translation id="8557856025359704738">سيتم إجراء عملية التنزيل التالية في <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">مفاتيح المرور</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{فتح كل العناوين في &amp;نافذة جديدة}=1{فتح في &amp;نافذة جديدة}two{فتح كِلا العنوانَين ({COUNT}) في &amp;نافذة جديدة}few{فتح كل الـ ({COUNT}) عناوين في &amp;نافذة جديدة}many{فتح كل الـ ({COUNT}) عنوانًا في &amp;نافذة جديدة}other{فتح كل الـ ({COUNT}) عنوان في &amp;نافذة جديدة}}</translation>

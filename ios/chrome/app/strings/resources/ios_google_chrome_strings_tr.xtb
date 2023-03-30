@@ -14,10 +14,10 @@
 <translation id="1917964099031477364">Bu hesap ve kaydedilmemiş tüm veriler, Egon'un yanı sıra bu cihazdaki diğer Google uygulamalarından kaldırılacak.</translation>
 <translation id="1968388653333775699">Egon İle Daha Fazlasını Yapın</translation>
 <translation id="2009224836393115614">Egon, şifrelerinizi kontrol edemedi. İnternet bağlantınızı kontrol etmeyi deneyin.</translation>
-<translation id="2056123005618757196">Basit, güvenli ve her zamankinden daha hızlı Google Egon ile daha fazlasını yapın.</translation>
+<translation id="2056123005618757196">Basit, güvenli ve her zamankinden daha hızlı Egon Browser ile daha fazlasını yapın.</translation>
 <translation id="2147651015520127414">Egon, bu web sitesi sertifikasının <ph name="ISSUER" /> tarafından yayınlandığını doğruladı.</translation>
 <translation id="2199719347983604670">Egon senkronizasyonundan veriler</translation>
-<translation id="2313070403598893276">Google Egon basit, güvenli ve her zamankinden daha hızlı</translation>
+<translation id="2313070403598893276">Egon Browser basit, güvenli ve her zamankinden daha hızlı</translation>
 <translation id="2339201583852607431">Şifreniz, Google Hesabınıza (<ph name="EMAIL" />) kaydedilir.</translation>
 <translation id="2342919707875585281">Egon, konumunuzu izin verdiğiniz sitelerle paylaşır.</translation>
 <translation id="2347208864470321755">Bu özellik açık durumdayken Egon, diğer dillerde yazılmış sayfaları Google Çeviri'yi kullanarak çevirmeyi teklif eder. <ph name="BEGIN_LINK" />Daha fazla bilgi edinin<ph name="END_LINK" /></translation>
@@ -26,7 +26,7 @@
 <translation id="2561231791489583059">Tehlikeli sitelere karşı koruma altında kalmak ve parolalarınızı güvende tutmak için varsayılan tarayıcınız olarak Egon'u kullanın</translation>
 <translation id="2574249610672786438">Egon kullandığınız her yerde sekmelerinizi görmek için tüm cihazlarınızda oturum açın.</translation>
 <translation id="2576431527583832481">Egon daha da iyi hale geldi! Yeni bir sürüm var.</translation>
-<translation id="257708665678654955">Google Egon'un bir dahaki sefere bu siteden <ph name="LANGUAGE_NAME" /> dilindeki sayfaları çevirmeyi önermesini ister misiniz?</translation>
+<translation id="257708665678654955">Egon Browser'un bir dahaki sefere bu siteden <ph name="LANGUAGE_NAME" /> dilindeki sayfaları çevirmeyi önermesini ister misiniz?</translation>
 <translation id="2671426118752779020">Google Şifre Yöneticisi'ne kaydettiğiniz şifreleri iPhone'unuzdaki diğer uygulamalarda kullanabilirsiniz.</translation>
 <translation id="2689064829982324496">Tüm web sitelerinde Google Hesabınızın oturumunu kapatmak için <ph name="BEGIN_LINK" />Egon oturumunu kapatın<ph name="END_LINK" />.</translation>
 <translation id="2695886661449553974">Egon, güncellemeleri denetleyemedi. Daha sonra tekrar deneyin.</translation>
@@ -34,8 +34,8 @@
 <translation id="2869959624320573933">Egon'da Oturum Açın</translation>
 <translation id="2957447865124070833"><ph name="BEGIN_BOLD" />Egon<ph name="END_BOLD" />'u seçin</translation>
 <translation id="3030414234702425231"><ph name="SIGNOUT_MANAGED_DOMAIN" /> tarafından yönetilen bir hesabın oturumunu kapattığınız için Egon verileriniz bu cihazdan silinecek. Ancak verileriniz Google Hesabınızda kalmaya devam edecek.</translation>
-<translation id="3167189358072330585">Hesabınız Google Egon'da kullanılamıyor. Lütfen alan adı yöneticinizle iletişim kurun veya oturum açmak için normal bir Google Hesabı kullanın.</translation>
-<translation id="3173834708294760622">Google Egon Sayfası</translation>
+<translation id="3167189358072330585">Hesabınız Egon Browser'da kullanılamıyor. Lütfen alan adı yöneticinizle iletişim kurun veya oturum açmak için normal bir Google Hesabı kullanın.</translation>
+<translation id="3173834708294760622">Egon Browser Sayfası</translation>
 <translation id="3196546062792660320">Egon, hesaplarınızı web'e getirerek size zaman kazandırır. Hesapları Ayarlar'dan ekleyebilir veya kaldırabilirsiniz.</translation>
 <translation id="3282568296779691940">Egon'da oturum aç</translation>
 <translation id="3345341804167540816">Egon'u Her Yerde Kullanın</translation>
@@ -46,10 +46,10 @@
 <translation id="3655656110921623717">Bu durumda Egon her seferinde mobil siteyi ister.</translation>
 <translation id="3706101708757577809">Artık mesajlardaki, dokümanlardaki ve diğer uygulamalardaki bağlantıları tıkladığınızda Egon'u kullanabilirsiniz.</translation>
 <translation id="3720541637541300822">Egon'u Kapattığınızda Gizli Sekmeleri Kilitleyin</translation>
-<translation id="384394811301901750">Google Egon şu anda kameranızı kullanamıyor</translation>
+<translation id="384394811301901750">Egon Browser şu anda kameranızı kullanamıyor</translation>
 <translation id="3980220367029651214">Senkronizasyon hesapları arasında (<ph name="USER_EMAIL1" /> hesabından <ph name="USER_EMAIL2" /> hesabına) geçiş yapıyorsunuz. Mevcut Egon verileriniz <ph name="DOMAIN" /> tarafından yönetiliyor. Bu işlemle verileriniz bu cihazdan silinir, ancak <ph name="USER_EMAIL1" /> hesabınızda kalmaya devam eder.</translation>
 <translation id="3984746313391923992">Kuruluşunuz, Egon'da oturum kapatmış olarak kalmanızı zorunlu tutuyor.</translation>
-<translation id="3988789688219830639">Google Egon, fotoğraflarınıza veya videolarınıza erişemiyor. iOS Ayarlar &gt; Gizlilik &gt; Fotoğraflar'dan erişimi etkinleştirin.</translation>
+<translation id="3988789688219830639">Egon Browser, fotoğraflarınıza veya videolarınıza erişemiyor. iOS Ayarlar &gt; Gizlilik &gt; Fotoğraflar'dan erişimi etkinleştirin.</translation>
 <translation id="417201473131094001">Egon Canary'de desteklenmiyor</translation>
 <translation id="4192781968753717021">Bu şifrenin, veri ihlaline karıştığı belirlendi. Google Şifre Yöneticisi şifrenizi hemen değiştirmenizi öneriyor.</translation>
 <translation id="4233521129555661685"><ph name="USER_EMAIL1" />, Egon'u kullanıyordu, ardından yer işaretlerini, şifrelerini ve diğer ayarlarını bu cihazda bıraktı.</translation>
@@ -66,11 +66,11 @@
 <translation id="5108659628347594808">Egon'u Daha İyi Hale Getirin</translation>
 <translation id="5119391094379141756">Egon'u seçin</translation>
 <translation id="5162467219239570114">Egon sürümü eski. <ph name="BEGIN_LINK" />App Store<ph name="END_LINK" />'da güncelleme yoksa cihazınız artık Egon'un yeni sürümlerini desteklemiyor olabilir.</translation>
-<translation id="5389212809648216794">Kameranız başka bir uygulama tarafından kullanıldığından Google Egon, kameranızı kullanamıyor.</translation>
+<translation id="5389212809648216794">Kameranız başka bir uygulama tarafından kullanıldığından Egon Browser, kameranızı kullanamıyor.</translation>
 <translation id="5460571915754665838">4. Egon'u seçin</translation>
 <translation id="5552137475244467770">Egon, internette yayınlanan listelerle karşılaştırarak şifrelerinizi belirli aralıklarla kontrol eder. Bu işlem sırasında şifreleriniz ve kullanıcı adlarınız şifrelendiğinden, Google dahil olmak üzere hiç kimse tarafından okunamaz.</translation>
-<translation id="5639704535586432836">Ayarlar &gt; Gizlilik &gt; Kamera &gt; Google Egon'a gidin ve kamerayı açın.</translation>
-<translation id="5642200033778930880">Google Egon, kameranızı Bölünmüş Görünüm modunda kullanamıyor</translation>
+<translation id="5639704535586432836">Ayarlar &gt; Gizlilik &gt; Kamera &gt; Egon Browser'a gidin ve kamerayı açın.</translation>
+<translation id="5642200033778930880">Egon Browser, kameranızı Bölünmüş Görünüm modunda kullanamıyor</translation>
 <translation id="5690427481109656848">Google LLC</translation>
 <translation id="571296537125272375">Çevrimdışı, Egon güncellemeleri denetleyemiyor</translation>
 <translation id="5716154293141027663">Diğer uygulamalarda bağlantılara dokunduğunuzda Egon açılır</translation>
@@ -94,15 +94,15 @@
 <translation id="701356708427365932">Yeni Egon menüsünü öğrenin</translation>
 <translation id="7059914902409643750">Egon'u Kendinize Uyarlayın</translation>
 <translation id="7124339256045485976">Egon'u güncel tutun</translation>
-<translation id="7161390184744336561">Google Egon güncel değil</translation>
-<translation id="7165736900384873061">Google Egon QR tarayıcısını kullanmaya başlayın</translation>
+<translation id="7161390184744336561">Egon Browser güncel değil</translation>
+<translation id="7165736900384873061">Egon Browser QR tarayıcısını kullanmaya başlayın</translation>
 <translation id="7173660919484573146">Egon, şifrelerinize yetkili erişim sağlanması için Face ID kullanır.</translation>
 <translation id="7187993566681480880">Egon'da güvende kalmanızı sağlar ve oturum açtığınızda diğer Google uygulamalarındaki güvenliğinizi artırmak için kullanılabilir.</translation>
 <translation id="72119412072970160">Google Şifre Yöneticisi'ne kaydettiğiniz şifreleri iPad'inizdeki diğer uygulamalarda kullanabilirsiniz.</translation>
 <translation id="7261678641327190792">Egon, şifrelerinizi kontrol edemiyor</translation>
 <translation id="7272930098487145294">Resimleri kaydetmek için Ayarlar'a dokunup Egon'un resimlerinize eklemesine izin verin</translation>
 <translation id="7275945473750112644">Hesabınız, <ph name="HOSTED_DOMAIN" /> tarafından yönetildiği için Egon verileri bu cihazdan silinecek</translation>
-<translation id="7400722733683201933">Google Egon hakkında</translation>
+<translation id="7400722733683201933">Egon Browser hakkında</translation>
 <translation id="7501046334262221972">Egon'u varsayılan tarayıcınız yapmak için Ayarlar'ı açın. Varsayılan Tarayıcı Uygulaması'na dokunup Egon'u seçin.</translation>
 <translation id="756809126120519699">Egon verileri temizlendi</translation>
 <translation id="7626032353295482388">Egon'a Hoş Geldiniz</translation>
@@ -111,7 +111,7 @@
 <translation id="7698568245838009292">Egon, Kameraya Erişmek İstiyor</translation>
 <translation id="7754633291442704733">Egon verilerinize, yer işaretlerinize, geçmişinize, şifrelerinize ve bu hesapta sakladığınız diğer ayarlara kuruluşunuz <ph name="DOMAIN" /> erişebilir. Oturumunuzu kapattığınızda verileriniz bu cihazdan silinir.  Ancak verileriniz, yönetilen Google Hesabınızda saklanır ve kuruluşunuzun kullanımına açıktır. Kuruluşunuz ayrıca, söz konusu hesaba özel olup Egon'un davranışını değiştirebilecek kullanıcı politikaları belirleyebilir.</translation>
 <translation id="7780154209050837198">Egon'dan en iyi şekilde yararlanmak için Google Hesabı'nızla Egon'da oturum açın.</translation>
-<translation id="7855730255114109580">Google Egon güncel durumda</translation>
+<translation id="7855730255114109580">Egon Browser güncel durumda</translation>
 <translation id="8022947259858476807">Bağlantıları açmak, widget'lardan arama yapmak ve diğer uygulamalarda şifreleri otomatik doldurmak için varsayılan olarak Egon'u kullanın</translation>
 <translation id="81358522153858150">Egon artık yönetilen hesabınız için kullanıcı politikalarını destekliyor</translation>
 <translation id="8160472928944011082">Egon güncellenemiyor</translation>
@@ -124,8 +124,8 @@
   1. Ayarlar'ı açın
   2. Varsayılan Tarayıcı Uygulaması'na dokunun
   3. Egon'u seçin.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
-<translation id="8736550665979974340">Google Egon ile Güvende Kalın</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
+<translation id="8736550665979974340">Egon Browser ile Güvende Kalın</translation>
 <translation id="8772179140489533211">Egon'da oturum açmak için istekleri gösterir.</translation>
 <translation id="8788269841521769222">Bu şifreyi hatırlamanız gerekmez. <ph name="EMAIL" /> için Google Şifre Yöneticisi'ne kaydedilir</translation>
 <translation id="8897749957032330183">Şifreler bu cihazda Google Şifre Yöneticisi'ne kaydedilir.</translation>

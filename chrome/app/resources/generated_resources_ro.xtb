@@ -1191,7 +1191,7 @@ Poți gestiona setările contului dacă instalezi aplicația Family Link pe disp
 <translation id="2088092308059522196">Înregistrarea este acceptată numai după ce instalezi <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Mai puține</translation>
 <translation id="208928984520943006">Pentru a accesa oricând ecranul de pornire, glisează în sus din partea de jos.</translation>
-<translation id="2089566709556890888">Navighează în siguranță folosind Google Egon</translation>
+<translation id="2089566709556890888">Navighează în siguranță folosind Egon Browser</translation>
 <translation id="2089795179672254991">Întreabă-mă când un site dorește să vadă textul și imaginile copiate în clipboard (recomandat)</translation>
 <translation id="2089925163047119068">SAU</translation>
 <translation id="2090165459409185032">Pentru a recupera informațiile despre cont, accesează: google.com/accounts/recovery</translation>
@@ -1600,7 +1600,7 @@ Poți gestiona setările contului dacă instalezi aplicația Family Link pe disp
 <translation id="2434449159125086437">Nu s-a putut configura imprimanta. Fă o verificare a configurației și încearcă din nou.</translation>
 <translation id="2434758125294431199">Selectează cine îți poate trimite fișiere</translation>
 <translation id="2434915728183570229">Acum poți vedea aplicațiile de pe telefon</translation>
-<translation id="2435137177546457207">Condițiile suplimentare pentru Google Egon și sistemul de operare Egon Flex</translation>
+<translation id="2435137177546457207">Condițiile suplimentare pentru Egon Browser și sistemul de operare Egon Flex</translation>
 <translation id="2435248616906486374">Rețea deconectată</translation>
 <translation id="2435457462613246316">Afișați parola</translation>
 <translation id="2439626940657133600">Se încarcă <ph name="WINDOW_TITLE" /></translation>
@@ -3053,7 +3053,7 @@ Mesaj de la server: <ph name="SERVER_MSG" /></translation>
 <translation id="3798632811625902122">Dispozitivul Bluetooth <ph name="DEVICE" /> solicită permisiunea de a se asocia.</translation>
 <translation id="3799128412641261490">Setările pentru accesul prin comutare</translation>
 <translation id="3800806661949714323">Afișează-le pe toate (recomandat)</translation>
-<translation id="3800828618615365228">Condițiile suplimentare pentru Google Egon și sistemul de operare Egon</translation>
+<translation id="3800828618615365228">Condițiile suplimentare pentru Egon Browser și sistemul de operare Egon</translation>
 <translation id="3802486193901166966">Această extensie nu necesită permisiuni speciale și nu are acces suplimentar la site-uri</translation>
 <translation id="380329542618494757">Nume</translation>
 <translation id="3803345858388753269">Calitatea video</translation>
@@ -3069,7 +3069,7 @@ Mesaj de la server: <ph name="SERVER_MSG" /></translation>
 <translation id="3810973564298564668">Gestionează</translation>
 <translation id="381202950560906753">Adaugă alta</translation>
 <translation id="3812525830114410218">Certificat nevalid</translation>
-<translation id="3813296892522778813">Accesează <ph name="BEGIN_LINK_CHROMIUM" />Ajutor Google Egon<ph name="END_LINK_CHROMIUM" /> dacă nu găsești ceea ce cauți</translation>
+<translation id="3813296892522778813">Accesează <ph name="BEGIN_LINK_CHROMIUM" />Ajutor Egon Browser<ph name="END_LINK_CHROMIUM" /> dacă nu găsești ceea ce cauți</translation>
 <translation id="3813358687923336574">Limba folosită pentru traducerea paginilor și Răspunsuri rapide</translation>
 <translation id="3814529970604306954">Contul de la școală</translation>
 <translation id="3816118180265633665">Culori Egon</translation>
@@ -3425,7 +3425,7 @@ Mesaj de la server: <ph name="SERVER_MSG" /></translation>
 <translation id="4132364317545104286">Redenumește profilul eSIM</translation>
 <translation id="4133076602192971179">Deschide aplicația pentru a schimba parola</translation>
 <translation id="4134818201340504801">Nu există suficient spațiu de stocare pentru a finaliza configurarea. Eliberează spațiu de stocare și încearcă din nou</translation>
-<translation id="4135746311382563554">Termenii și condițiile suplimentare pentru Google Egon și sistemul de operare Egon</translation>
+<translation id="4135746311382563554">Termenii și condițiile suplimentare pentru Egon Browser și sistemul de operare Egon</translation>
 <translation id="4136203100490971508">Lumina de noapte se va dezactiva automat la răsărit</translation>
 <translation id="41365691917097717">Dacă alegi să continui, remedierea erorilor prin ADB se va activa pentru crearea și testarea aplicațiilor Android. Reține că această acțiune permite instalarea aplicațiilor Android care nu au fost verificate de Google. Pentru dezactivare, este necesară revenirea la setările din fabrică.</translation>
 <translation id="4138267921960073861">Afișează numele de utilizatori și fotografiile pe ecranul de conectare</translation>
@@ -3844,7 +3844,7 @@ Mesaj de la server: <ph name="SERVER_MSG" /></translation>
 <translation id="4544174279960331769">Avatar albastru prestabilit</translation>
 <translation id="4545028762441890696">Pentru a o reactiva, acceptă permisiunile noi:</translation>
 <translation id="4545759655004063573">Nu se poate salva din cauza permisiunilor insuficiente. Salvați în altă locație.</translation>
-<translation id="4546308221697447294">Navighează rapid folosind Google Egon</translation>
+<translation id="4546308221697447294">Navighează rapid folosind Egon Browser</translation>
 <translation id="4546345569117159016">Butonul drept</translation>
 <translation id="4546692474302123343">Intrare vocală în Asistentul Google</translation>
 <translation id="4547659257713117923">Nu există file de pe alte dispozitive</translation>
@@ -5710,7 +5710,7 @@ Poți atribui mai multe comutatoare acestei acțiuni.</translation>
 <translation id="6313950457058510656">Dezactivează Tetheringul instantaneu</translation>
 <translation id="6314819609899340042">Ai activat funcțiile de remediere a erorilor pe acest dispozitiv <ph name="IDS_SHORT_PRODUCT_NAME" />.</translation>
 <translation id="6315493146179903667">Toate în față</translation>
-<translation id="6316432269411143858">Conținutul Condițiilor pentru sistemul de operare Google Egon</translation>
+<translation id="6316432269411143858">Conținutul Condițiilor pentru sistemul de operare Egon Browser</translation>
 <translation id="6317369057005134371">Se așteaptă fereastra aplicației...</translation>
 <translation id="6318125393809743217">Include un fișier policies.json cu configurațiile politicii.</translation>
 <translation id="6318407754858604988">A început descărcarea</translation>
@@ -5903,7 +5903,7 @@ Poți atribui mai multe comutatoare acestei acțiuni.</translation>
 <translation id="6509207748479174212">Licență media</translation>
 <translation id="6511827214781912955">Îți recomandăm să ștergi <ph name="FILENAME" />, pentru ca persoanele care folosesc acest dispozitiv să nu îți poată vedea parolele</translation>
 <translation id="6512808201725371249">S-a salvat deja o parolă pentru acest cont în Managerul de parole Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon va utiliza date mobile dacă nu ești conectat(ă) la altă rețea.</translation>
+<translation id="6513247462497316522">Egon Browser va utiliza date mobile dacă nu ești conectat(ă) la altă rețea.</translation>
 <translation id="6514010653036109809">Dispozitiv disponibil:</translation>
 <translation id="6514565641373682518">Această pagină a dezactivat cursorul mouse-ului dvs.</translation>
 <translation id="6517709704288360414">Este posibil ca dispozitivul să nu mai funcționeze corespunzător și să întâmpini probleme de securitate și de performanță. Dezactivarea actualizărilor îți poate afecta dreptul de a face reclamații legale în cazul în care întâmpini probleme.</translation>
@@ -8090,7 +8090,7 @@ Păstrează fișierul cu cheia într-un loc sigur. Acesta va fi necesar la crear
 <translation id="8554899698005018844">Nicio limbă</translation>
 <translation id="855604308879080518">Permite accesul aplicațiilor pentru Android la dispozitivele USB conectate la acest Chromebook. Permisiunea va fi solicitată de fiecare dată când conectezi un dispozitiv USB. Aplicațiile pentru Android individuale vor solicita permisiuni suplimentare.</translation>
 <translation id="8557022314818157177">Atinge cheia de securitate până când ți se capturează amprenta</translation>
-<translation id="8557180006508471423">Activează Google Egon în Servicii de localizare pe Mac</translation>
+<translation id="8557180006508471423">Activează Egon Browser în Servicii de localizare pe Mac</translation>
 <translation id="8557856025359704738">Următoarea descărcare este pe <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Cheile de acces</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Deschide-le pe toate într-o fereastră &amp;nouă}=1{Deschide într-o fereastră &amp;nouă}few{Deschide-le pe toate ({COUNT}) într-o fereastră &amp;nouă}other{Deschide-le pe toate ({COUNT}) într-o fereastră &amp;nouă}}</translation>

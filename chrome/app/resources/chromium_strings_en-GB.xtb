@@ -147,7 +147,7 @@ Permissions that you've already given to websites and apps may apply to this acc
 <translation id="4222932583846282852">Cancelling...</translation>
 <translation id="4230135487732243613">Link my Egon data to this account</translation>
 <translation id="4271805377592243930">Get help with Egon</translation>
-<translation id="4285930937574705105">Installation failed due to unspecified error. If Google Egon is currently running, please close it and try again.</translation>
+<translation id="4285930937574705105">Installation failed due to unspecified error. If Egon Browser is currently running, please close it and try again.</translation>
 <translation id="4304713468139749426">Password Manager</translation>
 <translation id="4334294535648607276">Download complete.</translation>
 <translation id="439358628917130594"><ph name="MANAGER" /> requires that you read and accept the following Terms of Service before using this device. These terms do not expand, modify or limit the Egon OS terms.</translation>
@@ -213,7 +213,7 @@ Permissions that you've already given to websites and apps may apply to this acc
 <translation id="5988505247484123880">It's common for sites that you visit to remember things that you're interested in, to personalise your experience. Sites can also store information with Egon about your interests.</translation>
 <translation id="6003112304606738118">Downloading… <ph name="HOURS" /> hour(s) remaining</translation>
 <translation id="6040143037577758943">Close</translation>
-<translation id="6055895534982063517">There's a new version of Google Egon available and it's faster than ever.</translation>
+<translation id="6055895534982063517">There's a new version of Egon Browser available and it's faster than ever.</translation>
 <translation id="6063093106622310249">&amp;Open in Egon</translation>
 <translation id="6072279588547424923"><ph name="EXTENSION_NAME" /> has been added to Egon</translation>
 <translation id="6072463441809498330">Make Egon Faster</translation>
@@ -292,7 +292,7 @@ Some features may be unavailable. Please specify a different profile directory o
 <translation id="731795002583552498">Updating Egon</translation>
 <translation id="7318036098707714271">Your preferences file is corrupt or invalid.
 
-Google Egon is unable to recover your settings.</translation>
+Egon Browser is unable to recover your settings.</translation>
 <translation id="7337881442233988129">Egon</translation>
 <translation id="7339898014177206373">New window</translation>
 <translation id="734373864078049451">Your web, bookmarks and other Egon stuff live here.</translation>

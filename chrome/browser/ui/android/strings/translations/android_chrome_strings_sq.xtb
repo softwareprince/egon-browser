@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Ad measurement lejon që sajtet që ti viziton të kërkojnë informacione nga Egon të cilat ndihmojnë sajtin të masë cilësinë e funksionimit të reklamave të tij. Ad measurement kufizon gjurmimin nëpër sajte duke transferuar sa më pak informacion të jetë e mundur ndërmjet sajteve.
 
 Kur ti fshin historikun tënd të shfletimit — të gjithë ose për një sajt specifik — mund të fshish gjithashtu informacionet e lidhura me matjet. Shiko <ph name="BEGIN_LINK" />historikun tënd të shfletimit<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Shkurtoret e funksioneve të Google Egon</translation>
+<translation id="1332501820983677155">Shkurtoret e funksioneve të Egon Browser</translation>
 <translation id="1344653310988386453">Përfshi lidhjen për te teksti i theksuar</translation>
 <translation id="1347468774581902829">Menaxho aktivitetin</translation>
 <translation id="1360432990279830238">Do të dalësh dhe çaktivizosh sinkronizimin?</translation>
@@ -411,7 +411,7 @@ Kur ti fshin historikun tënd të shfletimit — të gjithë ose për një sajt 
 <translation id="321773570071367578">Nëse e ke harruar frazën e kalimit apo dëshiron të ndryshosh këtë cilësim, <ph name="BEGIN_LINK" />rivendos sinkronizimin<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Për të sinkronizuar fjalëkalimet e tua, verifiko që je ti</translation>
 <translation id="3223522355830797639">Banka jote dëshiron të konfirmojë që je ti.</translation>
-<translation id="3227557059438308877">Google Egon si çelës sigurie</translation>
+<translation id="3227557059438308877">Egon Browser si çelës sigurie</translation>
 <translation id="3232754137068452469">Aplikacioni i uebit</translation>
 <translation id="3234978181857588512">Ruaj te pajisja</translation>
 <translation id="3236059992281584593">1 minutë e mbetur</translation>
@@ -1547,7 +1547,7 @@ Kodet e besimit përmirësojnë privatësinë në ueb dhe nuk mund të përdoren
 <translation id="9219582468404818260">Na ndihmo të ndërtojmë një ueb më të mirë</translation>
 <translation id="92381315203627188">Kur një sajt kërkon të ngarkojë paraprakisht lidhje në mënyrë private në faqen e tij, Egon i enkripton dhe i ngarkon paraprakisht faqet nëpërmjet serverëve të Google pa kuki. Kjo e fsheh identitetin tënd nga sajti i ngarkuar paraprakisht.</translation>
 <translation id="926205370408745186">Hiq aktivitetin tënd të Egon nga "Mirëqenia dixhitale"</translation>
-<translation id="927968626442779827">Përdor "Modalitetin e lehtë" në Google Egon</translation>
+<translation id="927968626442779827">Përdor "Modalitetin e lehtë" në Egon Browser</translation>
 <translation id="928550791203542716">Po ndjek <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Faqja kryesore</translation>
 <translation id="938850635132480979">Gabim: <ph name="ERROR_CODE" /></translation>

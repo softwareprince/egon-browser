@@ -263,7 +263,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="156703335097561114">Netwerkinformatie zoals adressen, interfaceconfiguratie en verbindingskwaliteit</translation>
 <translation id="1567040042588613346">Dit beleid werkt zoals bedoeld, maar ergens anders is dezelfde waarde ingesteld die wordt vervangen door dit beleid.</translation>
 <translation id="1569487616857761740">Vervaldatum invoeren</translation>
-<translation id="1569694109004336106">Google Egon probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
+<translation id="1569694109004336106">Egon Browser probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> in</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Er is iets misgegaan met het bekijken van deze webpagina.</translation>
@@ -459,7 +459,7 @@ Anders wordt dit geblokkeerd door je privacyinstellingen. Hierdoor werkt de cont
 <translation id="2085876078937250610">Opslaan…</translation>
 <translation id="2088086323192747268">Knop Synchronisatie beheren, druk op Enter om de informatie die je synchroniseert te beheren in de Egon-instellingen</translation>
 <translation id="2091887806945687916">Geluid</translation>
-<translation id="2093982008204312032">Google Egon probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
+<translation id="2093982008204312032">Egon Browser probeert Windows Hello aan te zetten voor het invullen van wachtwoorden.</translation>
 <translation id="2094505752054353250">Domeinen komen niet overeen</translation>
 <translation id="2099652385553570808">Drie nietjes links</translation>
 <translation id="2101225219012730419">Versie:</translation>
@@ -2578,7 +2578,7 @@ Aanvullende informatie:
 <translation id="7564049878696755256">Je kunt de toegang tot je account van <ph name="ORG_NAME" /> kwijtraken of slachtoffer worden van identiteitsdiefstal. Egon raadt je aan je wachtwoord nu te wijzigen.</translation>
 <translation id="7564680668369175887">Stationcars</translation>
 <translation id="7567204685887185387">De server kan niet bewijzen dat dit <ph name="DOMAIN" /> is. Het beveiligingscertificaat van de server is mogelijk frauduleus verstrekt. Dit kan worden veroorzaakt door een verkeerde configuratie of een aanvaller die je verbinding onderschept.</translation>
-<translation id="7568616151991626879">Google Egon probeert je wachtwoord in te vullen in <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Egon Browser probeert je wachtwoord in te vullen in <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">De knop Zoekmachines beheren, druk op Enter om je standaard zoekmachine en Site Search te beheren</translation>
 <translation id="7569952961197462199">Creditcard verwijderen uit Egon?</translation>

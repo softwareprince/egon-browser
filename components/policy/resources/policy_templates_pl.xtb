@@ -422,7 +422,7 @@ Każdy element na liście tej zasady jest ciągiem zawierającym identyfikator r
 
       Jeśli ta zasada nie jest skonfigurowana, funkcja aktualizacji oprogramowania <ph name="TPM_FIRMWARE_UPDATE_TPM" /> będzie niedostępna.</translation>
 <translation id="1708496595873025510">Ustaw ograniczenie pobierania odmian</translation>
-<translation id="1717817358640580294">Gdy ta zasada jest nieskonfigurowana, po wykryciu niechcianego oprogramowania Czyszczenie Egon może przekazać do Google metadane o skanowaniu zgodnie z ustawieniem zasady SafeBrowsingExtendedReportingEnabled. Następnie Czyszczenie Egon zapyta użytkownika, czy chce usunąć niechciane oprogramowanie. Użytkownik może zgodzić się na udostępnienie Google wyników czyszczenia, by pomóc w wykrywaniu niechcianego oprogramowania. Wyniki te zawierają metadane plików, informacje o rozszerzeniach zainstalowanych automatycznie i klucze rejestru – zgodnie z opisem w Dokumencie na temat ochrony prywatności w Google Egon.
+<translation id="1717817358640580294">Gdy ta zasada jest nieskonfigurowana, po wykryciu niechcianego oprogramowania Czyszczenie Egon może przekazać do Google metadane o skanowaniu zgodnie z ustawieniem zasady SafeBrowsingExtendedReportingEnabled. Następnie Czyszczenie Egon zapyta użytkownika, czy chce usunąć niechciane oprogramowanie. Użytkownik może zgodzić się na udostępnienie Google wyników czyszczenia, by pomóc w wykrywaniu niechcianego oprogramowania. Wyniki te zawierają metadane plików, informacje o rozszerzeniach zainstalowanych automatycznie i klucze rejestru – zgodnie z opisem w Dokumencie na temat ochrony prywatności w Egon Browser.
 
       Jeśli ta zasada jest wyłączona, po wykryciu niechcianego oprogramowania Czyszczenie Egon nie przekaże do Google metadanych skanowania, ignorując ustawienie zasady SafeBrowsingExtendedReportingEnabled. Następnie Czyszczenie Egon zapyta użytkownika, czy chce usunąć niechciane oprogramowanie.  Wyniki czyszczenia nie będą przekazywane do Google, a użytkownik nie będzie pytany, czy chce to zrobić.
 
@@ -2162,7 +2162,7 @@ Jeśli włączysz tę zasadę, wartości z zasad platformy komputera, zasad chm
 <translation id="5148753489738115745">Pozwala określić dodatkowe parametry używane, gdy <ph name="PRODUCT_FRAME_NAME" /> uruchamia <ph name="PRODUCT_NAME" />.
 
           Jeśli ta zasada nie jest ustawiona, używany jest domyślny wiersz polecenia.</translation>
-<translation id="5152787786897382519">Egon i Google Egon mają grupy zależnych od siebie zasad, które umożliwiają sterowanie funkcjami. Te zestawy są reprezentowane przez następujące grupy zasad. Ponieważ zasady mogą mieć wiele źródeł, stosowane są tylko wartości ze źródła o najwyższym priorytecie. Wartości ze źródła o niższych priorytetach są ignorowane. Priorytety są zdefiniowane tutaj: <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Egon i Egon Browser mają grupy zależnych od siebie zasad, które umożliwiają sterowanie funkcjami. Te zestawy są reprezentowane przez następujące grupy zasad. Ponieważ zasady mogą mieć wiele źródeł, stosowane są tylko wartości ze źródła o najwyższym priorytecie. Wartości ze źródła o niższych priorytetach są ignorowane. Priorytety są zdefiniowane tutaj: <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5159469559091666409">Częstotliwość wysyłania pakietów sieciowych monitorowania (w milisekundach).
 
       Jeśli ta zasada nie jest skonfigurowana, domyślny odstęp czasu wynosi trzy minuty.
@@ -3430,7 +3430,7 @@ Jeśli ta zasada nie zostanie skonfigurowana, nie będą obowiązywały żadne o
       </translation>
 <translation id="7506269062143646163">Włącz obsługę Signed HTTP Exchange (SXG).
 
-          Kiedy ta zasada jest nieskonfigurowana lub włączona, Google Egon akceptuje zawartość sieciową typu Signed HTTP Exchange.
+          Kiedy ta zasada jest nieskonfigurowana lub włączona, Egon Browser akceptuje zawartość sieciową typu Signed HTTP Exchange.
 
           Kiedy ta zasada jest wyłączona, nie można wczytać zawartości Signed HTTP Exchange.</translation>
 <translation id="7511361072385293666">Jeśli ta zasada jest włączona lub nieustawiona, użycie protokołu QUIC w <ph name="PRODUCT_NAME" /> jest dozwolone.
@@ -3808,7 +3808,7 @@ Zakładki są umieszczane w folderze, którego użytkownik nie może modyfikowa
       Jeśli ta opcja nie zostanie ustawiona, <ph name="PRODUCT_OS_NAME" /> użyje identyfikatora konta e-mail lokalnego konta na urządzeniu jako nazwy wyświetlanej na ekranie logowania.
 
       Ta zasada jest ignorowana w przypadku zwykłych kont użytkownika.</translation>
-<translation id="8259375588339409826">Zarówno Egon, jak i Google Egon obsługują jednakowy zestaw zasad. Ten dokument może zawierać nieopublikowane zasady (tzn. wpis „Obsługiwana przez” odnosi się do jeszcze nieopublikowanej wersji <ph name="PRODUCT_NAME" />), które mogą zostać zmienione lub usunięte bez powiadomienia i nie podlegają żadnej gwarancji. Między innymi nie ma żadnych gwarancji dotyczących ich zabezpieczeń i właściwości związanych z prywatnością.
+<translation id="8259375588339409826">Zarówno Egon, jak i Egon Browser obsługują jednakowy zestaw zasad. Ten dokument może zawierać nieopublikowane zasady (tzn. wpis „Obsługiwana przez” odnosi się do jeszcze nieopublikowanej wersji <ph name="PRODUCT_NAME" />), które mogą zostać zmienione lub usunięte bez powiadomienia i nie podlegają żadnej gwarancji. Między innymi nie ma żadnych gwarancji dotyczących ich zabezpieczeń i właściwości związanych z prywatnością.
 
 Zasady te są przeznaczone do konfigurowania <ph name="PRODUCT_NAME" /> tylko na wewnętrzny użytek Twojej organizacji. Użycie ich poza nią (np. w programie rozpowszechnianym publicznie) spowoduje uznanie oprogramowania za złośliwe – prawdopodobnie tak zostanie ono oznaczone przez Google i programy antywirusowe.
 

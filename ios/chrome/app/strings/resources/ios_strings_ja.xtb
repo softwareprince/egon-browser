@@ -149,7 +149,7 @@
 <translation id="2139867232736819575">コピーしたテキストを検索</translation>
 <translation id="214201757571129614">ログイン…</translation>
 <translation id="2149973817440762519">ブックマークを編集</translation>
-<translation id="2150175299852799498">モバイル版 Google Egon</translation>
+<translation id="2150175299852799498">モバイル版 Egon Browser</translation>
 <translation id="2155145621546387786">Egon を共有</translation>
 <translation id="2175927920773552910">QR コード</translation>
 <translation id="2178545675770638239">パスワードの選択</translation>
@@ -355,7 +355,7 @@
 <translation id="3709582977625132201">未読にする</translation>
 <translation id="371230970611282515">危険なイベントの発生を予測して警告します。</translation>
 <translation id="37207012422556617">急上昇ワード</translation>
-<translation id="3740397331642243698">入力された URL を Google Egon のシークレット モードで開きます。</translation>
+<translation id="3740397331642243698">入力された URL を Egon Browser のシークレット モードで開きます。</translation>
 <translation id="3762232513783804601">iPad 向けの設計</translation>
 <translation id="3768725474733206671">最後に閉じたタブを開く</translation>
 <translation id="3771033907050503522">シークレットタブ</translation>
@@ -933,7 +933,7 @@
 <translation id="7982789257301363584">ネットワーク</translation>
 <translation id="7987685713885608670">セキュリティ強化のため、Google パスワード マネージャーに保存する前にデバイス上でパスワードを暗号化します。</translation>
 <translation id="7993619969781047893">一部のサイトで機能を使用できなくなる可能性があります</translation>
-<translation id="800361585186029508">入力された URL を Google Egon で開きます。</translation>
+<translation id="800361585186029508">入力された URL を Egon Browser で開きます。</translation>
 <translation id="8016714545083187120">常に安全な接続を使用する</translation>
 <translation id="802154636333426148">ダウンロード エラー</translation>
 <translation id="8023878949384262191">セクションを展開します。</translation>

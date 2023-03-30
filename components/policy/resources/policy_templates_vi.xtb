@@ -4191,7 +4191,7 @@ Chúng tôi dự định loại bỏ chính sách này khỏi <ph name="PRODUCT_
           Nếu chính sách này không được đặt, dòng lệnh mặc định sẽ được sử dụng.</translation>
 <translation id="5151099177901233471">Bật tính năng báo cáo thông tin múi giờ của thiết bị</translation>
 <translation id="5152393033264257734">Cho phép các tùy chọn kiểm tra chặn hệ thống tên miền (DNS) và thanh thông tin "Ý của bạn là http://intranetsite/".</translation>
-<translation id="5152787786897382519">Cả Egon và Google Egon đều có một số nhóm chính sách dựa vào nhau để cho phép kiểm soát một tính năng. Các nhóm này được biểu thị qua các nhóm chính sách sau đây. Nếu các chính sách có thể chứa nhiều nguồn, thì chỉ áp dụng những giá trị thuộc nguồn có mức ưu tiên cao nhất. Các giá trị thuộc một nguồn có mức ưu tiên thấp hơn trong cùng một nhóm sẽ bị bỏ qua. Thứ tự ưu tiên được xác định trong <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Cả Egon và Egon Browser đều có một số nhóm chính sách dựa vào nhau để cho phép kiểm soát một tính năng. Các nhóm này được biểu thị qua các nhóm chính sách sau đây. Nếu các chính sách có thể chứa nhiều nguồn, thì chỉ áp dụng những giá trị thuộc nguồn có mức ưu tiên cao nhất. Các giá trị thuộc một nguồn có mức ưu tiên thấp hơn trong cùng một nhóm sẽ bị bỏ qua. Thứ tự ưu tiên được xác định trong <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5153187201534281749">Biểu tượng các tính năng thử nghiệm của trình duyệt trên thanh công cụ</translation>
 <translation id="5163002264923337812">Cho phép quy trình đăng nhập dựa trên web cũ</translation>
 <translation id="5163889437570441600">Có thể truyền nội dung tới thiết bị này bằng cách sử dụng <ph name="PRODUCT_NAME" />.
@@ -7325,7 +7325,7 @@ Nếu bạn không đặt chính sách này, thì màn hình bảo vệ quyền 
 
       Chính sách này bị bỏ qua đối với các tài khoản người dùng thông thường.</translation>
 <translation id="8257863622304579015">Bật hộp cát dịch vụ mạng</translation>
-<translation id="8259375588339409826">Cả Egon và Google Egon đều hỗ trợ nhóm chính sách giống nhau. Xin lưu ý rằng tài liệu này có thể bao gồm các chính sách chưa được ban hành (nghĩa là mục 'Được hỗ trợ trên' của các chính sách này đề cập đến một phiên bản <ph name="PRODUCT_NAME" /> chưa phát hành). Những chính sách này có thể bị thay đổi hoặc xóa bỏ mà không thông báo trước. Chúng tôi không bảo đảm bất kỳ điều gì, kể cả bảo đảm cho các thuộc tính bảo mật và quyền riêng tư.
+<translation id="8259375588339409826">Cả Egon và Egon Browser đều hỗ trợ nhóm chính sách giống nhau. Xin lưu ý rằng tài liệu này có thể bao gồm các chính sách chưa được ban hành (nghĩa là mục 'Được hỗ trợ trên' của các chính sách này đề cập đến một phiên bản <ph name="PRODUCT_NAME" /> chưa phát hành). Những chính sách này có thể bị thay đổi hoặc xóa bỏ mà không thông báo trước. Chúng tôi không bảo đảm bất kỳ điều gì, kể cả bảo đảm cho các thuộc tính bảo mật và quyền riêng tư.
 
 Những chính sách này chỉ dùng cho mục đích định cấu hình các phiên bản <ph name="PRODUCT_NAME" /> nội bộ trong tổ chức của bạn. Việc sử dụng các chính sách này bên ngoài tổ chức (ví dụ: trong một chương trình được phân phối công khai) sẽ bị coi là phần mềm độc hại và có thể bị Google và các nhà cung cấp phần mềm diệt vi-rút gắn nhãn là phần mềm độc hại.
 

@@ -1192,7 +1192,7 @@
 <translation id="2088092308059522196">Зарегистрироваться можно только после установки <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Свернуть</translation>
 <translation id="208928984520943006">Чтобы вернуться на главный экран, проведите вверх от нижнего края экрана.</translation>
-<translation id="2089566709556890888">Безопасный браузер Google Egon</translation>
+<translation id="2089566709556890888">Безопасный браузер Egon Browser</translation>
 <translation id="2089795179672254991">Запрашивать мое разрешение на доступ сайтов к тексту и изображениям, скопированным в буфер обмена (рекомендуется)</translation>
 <translation id="2089925163047119068">ИЛИ</translation>
 <translation id="2090165459409185032">Чтобы восстановить данные аккаунта, перейдите на страницу google.com/accounts/recovery</translation>
@@ -1567,7 +1567,7 @@
 <translation id="2391419135980381625">Стандартный шрифт</translation>
 <translation id="2392369802118427583">Активировать</translation>
 <translation id="2393136602862631930">Установка <ph name="APP_NAME" /> на Chromebook</translation>
-<translation id="2393313392064891208">Текст Условий использования Google Egon OS Flex</translation>
+<translation id="2393313392064891208">Текст Условий использования Egon Browser OS Flex</translation>
 <translation id="2395616325548404795">Устройство <ph name="DEVICE_TYPE" /> зарегистрировано в организации, но при передаче данных об объекте и местоположении произошла ошибка. Введите эту информацию вручную в консоли администратора.</translation>
 <translation id="2396783860772170191">Введите четырехзначный PIN-код (0000–9999)</translation>
 <translation id="2398546389094871088">При использовании функции Powerwash профили eSIM не удаляются. Это можно сделать вручную в разделе <ph name="LINK_BEGIN" />настроек для мобильных устройств<ph name="LINK_END" />.</translation>
@@ -1601,7 +1601,7 @@
 <translation id="2434449159125086437">Не удалось настроить принтер. Проверьте конфигурацию и повторите попытку.</translation>
 <translation id="2434758125294431199">Укажите, кто может делиться файлами и ссылками с вами</translation>
 <translation id="2434915728183570229">Теперь вы можете просматривать приложения с телефона</translation>
-<translation id="2435137177546457207">Дополнительные условия использования Google Egon и Egon OS Flex</translation>
+<translation id="2435137177546457207">Дополнительные условия использования Egon Browser и Egon OS Flex</translation>
 <translation id="2435248616906486374">Подключение отсутствует</translation>
 <translation id="2435457462613246316">Показать пароль</translation>
 <translation id="2439626940657133600">Загрузка страницы <ph name="WINDOW_TITLE" />…</translation>
@@ -3054,7 +3054,7 @@
 <translation id="3798632811625902122">Устройству <ph name="DEVICE" /> требуется разрешение на подключение через Bluetooth.</translation>
 <translation id="3799128412641261490">Настройки функции Switch Access</translation>
 <translation id="3800806661949714323">Показать все (рекомендуется)</translation>
-<translation id="3800828618615365228">Дополнительные условия использования Google Egon и Egon OS</translation>
+<translation id="3800828618615365228">Дополнительные условия использования Egon Browser и Egon OS</translation>
 <translation id="3802486193901166966">Расширению не требуются особые разрешения и у него нет дополнительного доступа к сайтам</translation>
 <translation id="380329542618494757">Имя</translation>
 <translation id="3803345858388753269">Качество видео</translation>
@@ -3845,7 +3845,7 @@
 <translation id="4544174279960331769">Аватар по умолчанию (синий)</translation>
 <translation id="4545028762441890696">Чтобы снова включить его, предоставьте новые разрешения:</translation>
 <translation id="4545759655004063573">Не удается сохранить файл: нет прав. Выберите другой каталог.</translation>
-<translation id="4546308221697447294">Быстрый и удобный браузер Google Egon</translation>
+<translation id="4546308221697447294">Быстрый и удобный браузер Egon Browser</translation>
 <translation id="4546345569117159016">Правая кнопка</translation>
 <translation id="4546692474302123343">Голосовой ввод в Google Ассистенте</translation>
 <translation id="4547659257713117923">Нет вкладок с других устройств</translation>
@@ -5060,7 +5060,7 @@
 <translation id="5705882733397021510">Назад</translation>
 <translation id="5707185214361380026">Не удалось загрузить расширение из:</translation>
 <translation id="5708171344853220004">Имя участника Microsoft</translation>
-<translation id="5709557627224531708">Сделайте Google Egon браузером по умолчанию</translation>
+<translation id="5709557627224531708">Сделайте Egon Browser браузером по умолчанию</translation>
 <translation id="5711010025974903573">Служебные журналы</translation>
 <translation id="5711983031544731014">Невозможно разблокировать. Введите пароль.</translation>
 <translation id="5712153969432126546">Иногда на сайтах публикуются файлы в формате PDF, например документы, договоры или формы.</translation>
@@ -5711,7 +5711,7 @@
 <translation id="6313950457058510656">Отключить мгновенную точку доступа</translation>
 <translation id="6314819609899340042">Функции отладки на устройстве <ph name="IDS_SHORT_PRODUCT_NAME" /> включены.</translation>
 <translation id="6315493146179903667">Переместить все на передний план</translation>
-<translation id="6316432269411143858">Полный текст Условий использования Google Egon OS</translation>
+<translation id="6316432269411143858">Полный текст Условий использования Egon Browser OS</translation>
 <translation id="6317369057005134371">Запуск приложения…</translation>
 <translation id="6318125393809743217">Включить файл policies.json в правила</translation>
 <translation id="6318407754858604988">Скачивание началось</translation>
@@ -5904,7 +5904,7 @@
 <translation id="6509207748479174212">Лицензии</translation>
 <translation id="6511827214781912955">Рекомендуем удалить файл <ph name="FILENAME" />, чтобы другие пользователи, которые работают с этим устройством, не могли видеть ваши пароли.</translation>
 <translation id="6512808201725371249">Пароль этого аккаунта уже сохранен в Google Менеджере паролей (<ph name="USER_EMAIL" />).</translation>
-<translation id="6513247462497316522">При отсутствии подключения к другой сети Google Egon будет использовать мобильную сеть передачи данных.</translation>
+<translation id="6513247462497316522">При отсутствии подключения к другой сети Egon Browser будет использовать мобильную сеть передачи данных.</translation>
 <translation id="6514010653036109809">Доступное устройство:</translation>
 <translation id="6514565641373682518">Эта страница скрыла курсор.</translation>
 <translation id="6517709704288360414">Возможны сбои в работе устройства, а также проблемы с производительностью и безопасностью. После отключения обновлений вы можете утратить право на подачу судебных исков в случае возникновения проблем.</translation>
@@ -6738,7 +6738,7 @@
 <translation id="7299337219131431707">Разрешить просмотр в гостевом режиме</translation>
 <translation id="7299515639584427954">Изменить приложение по умолчанию для поддерживаемых ссылок?</translation>
 <translation id="7301470816294041580">Вы можете спросить "Окей, Google, что это за песня?" или "Окей, Google, что у меня на экране?".</translation>
-<translation id="730289542559375723">{NUM_APPLICATIONS,plural, =1{Это приложение может помешать работе Google Egon.}one{Эти приложения могут помешать работе Google Egon.}few{Эти приложения могут помешать работе Google Egon.}many{Эти приложения могут помешать работе Google Egon.}other{Эти приложения могут помешать работе Google Egon.}}</translation>
+<translation id="730289542559375723">{NUM_APPLICATIONS,plural, =1{Это приложение может помешать работе Egon Browser.}one{Эти приложения могут помешать работе Egon Browser.}few{Эти приложения могут помешать работе Egon Browser.}many{Эти приложения могут помешать работе Egon Browser.}other{Эти приложения могут помешать работе Egon Browser.}}</translation>
 <translation id="7303281435234579599">Не удалось настроить демонстрационный режим.</translation>
 <translation id="7303900363563182677">У этого сайта нет доступа к тексту и изображениям, скопированным в буфер обмена</translation>
 <translation id="7304030187361489308">Высокий</translation>
@@ -8095,7 +8095,7 @@
 <translation id="8554899698005018844">Язык не указан</translation>
 <translation id="855604308879080518">Приложения Android смогут получать доступ к USB-устройствам на этом Chromebook. Разрешение нужно будет предоставлять при каждом подключении USB-устройства. Некоторым приложениям для Android понадобятся дополнительные разрешения.</translation>
 <translation id="8557022314818157177">Продолжайте прикасаться к сканеру отпечатков пальцев на электронном ключе, пока отпечаток не будет сохранен.</translation>
-<translation id="8557180006508471423">Включите Google Egon в службах геолокации на устройстве Mac</translation>
+<translation id="8557180006508471423">Включите Egon Browser в службах геолокации на устройстве Mac</translation>
 <translation id="8557856025359704738">Следующее скачивание запланировано <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Ключи доступа</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Открыть все URL в &amp;новом окне}=1{Открыть URL в &amp;новом окне}one{Открыть все URL ({COUNT}) в &amp;новом окне}few{Открыть все URL ({COUNT}) в &amp;новом окне}many{Открыть все URL ({COUNT}) в &amp;новом окне}other{Открыть все URL ({COUNT}) в &amp;новом окне}}</translation>

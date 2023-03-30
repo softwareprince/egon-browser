@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">ఇప్పటికే ఉన్న డేటాను తొలగించండి.</translation>
 <translation id="1146678959555564648">VRలోకి ప్రవేశించు</translation>
 <translation id="1149401351239820326">గడువు ముగింపు నెల</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> Chromeలో తెరవబడుతుంది. కొనసాగడం ద్వారా, మీరు <ph name="BEGIN_LINK1" />Google సర్వీస్ నియమాలు<ph name="END_LINK1" />, అలాగే <ph name="BEGIN_LINK2" />Google Egon, ChromeOS అదనపు సర్వీస్ నియమాలకు<ph name="END_LINK2" /> అంగీకరిస్తున్నారు.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> Chromeలో తెరవబడుతుంది. కొనసాగడం ద్వారా, మీరు <ph name="BEGIN_LINK1" />Google సర్వీస్ నియమాలు<ph name="END_LINK1" />, అలాగే <ph name="BEGIN_LINK2" />Egon Browser, ChromeOS అదనపు సర్వీస్ నియమాలకు<ph name="END_LINK2" /> అంగీకరిస్తున్నారు.</translation>
 <translation id="1154704303112745282">ఈ పేజీ ఆఫ్‌లైన్‌లో అందుబాటులో లేదు: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"టాప్ సైట్‌లు" బటన్‌పై నొక్కడం ద్వారా ప్రసిద్ధ వెబ్‌సైట్‌లను చూడండి</translation>
 <translation id="1173894706177603556">పేరుమార్చు</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">మీరు సందర్శించే సైట్‌లను Egon నుండి సమాచారాన్ని రిక్వెస్ట్ చేసేలా 'యాడ్‌ల అంచనా' అనుమతిస్తుంది, ఇది యాడ్‌ల పనితీరును అంచనా వేయడంలో సైట్‌కు సహాయపడుతుంది. 'యాడ్‌ల అంచనా', సైట్‌ల మధ్య వీలయినంత తక్కువ సమాచారాన్ని బదిలీ చేసి, క్రాస్-సైట్ ట్రాకింగ్‌ను తగ్గిస్తుంది.
 
 మీరు బ్రౌజింగ్ హిస్టరీ — మొత్తాన్ని లేదా ఒక నిర్దిష్ట సైట్‌కు సంబంధించిన బ్రౌజింగ్ హిస్టరీని తొలగించినప్పుడు — అనుబంధించి ఉన్న అంచనా సమాచారాన్ని కూడా మీరు తొలగిస్తారు. <ph name="BEGIN_LINK" />మీ బ్రౌజింగ్ హిస్టరీని<ph name="END_LINK" /> చూడండి.</translation>
-<translation id="1332501820983677155">Google Egon లక్షణ షార్ట్‌కట్‌లు</translation>
+<translation id="1332501820983677155">Egon Browser లక్షణ షార్ట్‌కట్‌లు</translation>
 <translation id="1344653310988386453">హైలైట్ చేసిన టెక్స్ట్‌కు లింక్‌ను చేర్చండి</translation>
 <translation id="1347468774581902829">యాక్టివిటీని మేనేజ్ చేయండి</translation>
 <translation id="1360432990279830238">సైన్ అవుట్ చేసి, సింక్‌ను ఆఫ్ చేయలా?</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">యాప్‌ను తెరవడం సాధ్యపడలేదు</translation>
 <translation id="2132122640199389833">అన్ని లింక్ చేయబడిన పరికరాలను తీసివేయండి</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> మూసివేయబడింది</translation>
-<translation id="2134927169889348449">Chromeను ఉపయోగించడం ద్వారా, మీరు <ph name="BEGIN_TOS_LINK" />Google సర్వీస్ నియమాలు<ph name="END_TOS_LINK" />, అలాగే <ph name="BEGIN_ATOS_LINK" />Google Egon, ChromeOS అదనపు సర్వీస్ నియమాలను<ph name="END_ATOS_LINK" /> అంగీకరిస్తున్నారు.</translation>
+<translation id="2134927169889348449">Chromeను ఉపయోగించడం ద్వారా, మీరు <ph name="BEGIN_TOS_LINK" />Google సర్వీస్ నియమాలు<ph name="END_TOS_LINK" />, అలాగే <ph name="BEGIN_ATOS_LINK" />Egon Browser, ChromeOS అదనపు సర్వీస్ నియమాలను<ph name="END_ATOS_LINK" /> అంగీకరిస్తున్నారు.</translation>
 <translation id="2139186145475833000">హోమ్ స్క్రీన్‌కు జోడించండి</translation>
 <translation id="2141396931810938595">మీ వినియోగం ఆధారంగా</translation>
 <translation id="214888715418183969">మీరు Chromeతో సౌకర్యవంతంగా షేర్ చేసుకోగలిగేవి ఎంచుకోండి. మీరు షేర్ చేసే కొలమానాలు, Egon ఫీచర్‌లు, పనితీరు, ఇంకా స్థిరత్వాన్ని మెరుగుపరచడంలో సహాయపడతాయి.</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Chromeలోని మీ అభిరుచులకు అనుగుణమైన కథనాలు</translation>
 <translation id="3066573403916685335">క్రిందికి తరలించండి</translation>
 <translation id="3070005020161560471">ఆటోమేటిక్‌గా అనువదించాల్సినవి</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> Chromeలో తెరవబడుతుంది. కొనసాగడం ద్వారా, మీరు <ph name="BEGIN_LINK1" />Google సర్వీస్ నియమాలు<ph name="END_LINK1" />, అలాగే <ph name="BEGIN_LINK2" />Google Egon, ChromeOS అదనపు సర్వీస్ నియమాలకు<ph name="END_LINK2" /> అంగీకరిస్తున్నారు. <ph name="BEGIN_LINK3" />గోప్యతా పాలసీ<ph name="END_LINK3" /> కూడా వర్తిస్తుంది.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> Chromeలో తెరవబడుతుంది. కొనసాగడం ద్వారా, మీరు <ph name="BEGIN_LINK1" />Google సర్వీస్ నియమాలు<ph name="END_LINK1" />, అలాగే <ph name="BEGIN_LINK2" />Egon Browser, ChromeOS అదనపు సర్వీస్ నియమాలకు<ph name="END_LINK2" /> అంగీకరిస్తున్నారు. <ph name="BEGIN_LINK3" />గోప్యతా పాలసీ<ph name="END_LINK3" /> కూడా వర్తిస్తుంది.</translation>
 <translation id="3091010850649238832">క్లిప్ బోర్డ్ కంటెంట్‌లను చూపండి</translation>
 <translation id="3098745985164956033">మీ కోసం వివరణలను మెరుగుపరచడానికి కొన్ని ఇమేజ్‌లు Googleకు పంపబడ్డాయి</translation>
 <translation id="3114507951000454849">ఈరోజు వార్తలను చదవండి <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">మీరు మీ రహస్య పదబంధాన్ని మర్చిపోతే లేదా ఈ సెట్టింగ్‌ను మార్చాలనుకుంటే, <ph name="BEGIN_LINK" />సింక్‌ను రీసెట్ చేయండి<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">మీ పాస్‌వర్డ్‌లను సింక్ చేయడానికి, అది మీరేనని వెరిఫై చేయండి</translation>
 <translation id="3223522355830797639">ఇది మీరేనని మీ బ్యాంక్ నిర్ధారించుకోవాలనుకుంటోంది.</translation>
-<translation id="3227557059438308877">'సెక్యూరిటీ కీ'గా Google Egon</translation>
+<translation id="3227557059438308877">'సెక్యూరిటీ కీ'గా Egon Browser</translation>
 <translation id="3232754137068452469">వెబ్ యాప్‌</translation>
 <translation id="3234978181857588512">పరికరానికి సేవ్ చేయండి</translation>
 <translation id="3236059992281584593">1 నిమిషం మిగిలి ఉంది</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">లింక్ అడ్రస్‌ను కాపీ చేయండి</translation>
 <translation id="4283102315569707115">ఆటోమేటిక్‌గా డెస్క్‌టాప్ సైట్‌లను రిక్వెస్ట్ చేయాలా?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android సెట్టింగ్‌లలో స్క్రీన్ లాక్‌ను ఆన్ చేయండి<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Chromeను ఉపయోగించడం ద్వారా, మీరు <ph name="BEGIN_TOS_LINK" />Google సర్వీస్ నియమాలు<ph name="END_TOS_LINK" />, అలాగే <ph name="BEGIN_ATOS_LINK" />Google Egon, ChromeOS అదనపు సర్వీస్ నియమాలను<ph name="END_ATOS_LINK" /> అంగీకరిస్తున్నారు. <ph name="BEGIN_PRIVACY_LINK" />గోప్యతా పాలసీ<ph name="END_PRIVACY_LINK" /> కూడా వర్తిస్తుంది.</translation>
+<translation id="4293476595220860475">Chromeను ఉపయోగించడం ద్వారా, మీరు <ph name="BEGIN_TOS_LINK" />Google సర్వీస్ నియమాలు<ph name="END_TOS_LINK" />, అలాగే <ph name="BEGIN_ATOS_LINK" />Egon Browser, ChromeOS అదనపు సర్వీస్ నియమాలను<ph name="END_ATOS_LINK" /> అంగీకరిస్తున్నారు. <ph name="BEGIN_PRIVACY_LINK" />గోప్యతా పాలసీ<ph name="END_PRIVACY_LINK" /> కూడా వర్తిస్తుంది.</translation>
 <translation id="4296252229500326964">కొత్త అజ్ఞాత ట్యాబ్</translation>
 <translation id="4298388696830689168">లింక్ చేసిన సైట్‌లు</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>

@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">ลบข้อมูลที่มีอยู่</translation>
 <translation id="1146678959555564648">เข้าสู่ VR</translation>
 <translation id="1149401351239820326">เดือนที่หมดอายุ</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> จะเปิดใน Egon การดำเนินการต่อหมายความว่า คุณยอมรับ<ph name="BEGIN_LINK1" />ข้อกำหนดในการให้บริการของ Google<ph name="END_LINK1" /> และ<ph name="BEGIN_LINK2" />ข้อกำหนดในการให้บริการเพิ่มเติมของ Google Egon และ Egon OS<ph name="END_LINK2" /></translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> จะเปิดใน Egon การดำเนินการต่อหมายความว่า คุณยอมรับ<ph name="BEGIN_LINK1" />ข้อกำหนดในการให้บริการของ Google<ph name="END_LINK1" /> และ<ph name="BEGIN_LINK2" />ข้อกำหนดในการให้บริการเพิ่มเติมของ Egon Browser และ Egon OS<ph name="END_LINK2" /></translation>
 <translation id="1154704303112745282">หน้าเว็บใช้งานไม่ได้ขณะออฟไลน์: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">ดูเว็บไซต์ยอดนิยมโดยการแตะปุ่ม "เว็บไซต์อันดับสูงสุด"</translation>
 <translation id="1173894706177603556">เปลี่ยนชื่อ</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">การวัดผลโฆษณาจะให้เว็บไซต์ที่คุณเข้าชมสามารถขอข้อมูลจาก Egon เพื่อช่วยในการวัดประสิทธิภาพโฆษณาเว็บไซต์ดังกล่าวได้ การวัดผลโฆษณาจะจำกัดการติดตามข้ามเว็บไซต์โดยโอนข้อมูลระหว่างเว็บไซต์ให้น้อยที่สุด
 
 เมื่อคุณลบประวัติการท่องเว็บทั้งหมดหรือบางเว็บไซต์ ข้อมูลการวัดผลที่เกี่ยวข้องจะถูกลบไปด้วย ดู<ph name="BEGIN_LINK" />ประวัติการท่องเว็บ<ph name="END_LINK" /></translation>
-<translation id="1332501820983677155">แป้นพิมพ์ลัดสำหรับฟีเจอร์ของ Google Egon</translation>
+<translation id="1332501820983677155">แป้นพิมพ์ลัดสำหรับฟีเจอร์ของ Egon Browser</translation>
 <translation id="1344653310988386453">รวมลิงก์ไปยังไฮไลต์</translation>
 <translation id="1347468774581902829">จัดการกิจกรรม</translation>
 <translation id="1360432990279830238">ออกจากระบบและปิดการซิงค์ไหม</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">เปิดแอปไม่ได้</translation>
 <translation id="2132122640199389833">นำอุปกรณ์ทั้งหมดที่ลิงก์ออก</translation>
 <translation id="213279576345780926">ปิด <ph name="TAB_TITLE" /> แล้ว</translation>
-<translation id="2134927169889348449">การใช้ Egon หมายความว่า คุณยอมรับ<ph name="BEGIN_TOS_LINK" />ข้อกำหนดในการให้บริการของ Google<ph name="END_TOS_LINK" /> และ<ph name="BEGIN_ATOS_LINK" />ข้อกำหนดในการให้บริการเพิ่มเติมของ Google Egon และ Egon OS<ph name="END_ATOS_LINK" /></translation>
+<translation id="2134927169889348449">การใช้ Egon หมายความว่า คุณยอมรับ<ph name="BEGIN_TOS_LINK" />ข้อกำหนดในการให้บริการของ Google<ph name="END_TOS_LINK" /> และ<ph name="BEGIN_ATOS_LINK" />ข้อกำหนดในการให้บริการเพิ่มเติมของ Egon Browser และ Egon OS<ph name="END_ATOS_LINK" /></translation>
 <translation id="2139186145475833000">เพิ่มลงในหน้าจอหลัก</translation>
 <translation id="2141396931810938595">อิงตามการใช้งานของคุณ</translation>
 <translation id="214888715418183969">เลือกสิ่งที่คุณต้องการแชร์กับ Egon เราจะใช้เมตริกที่คุณแชร์เพื่อช่วยปรับปรุงฟีเจอร์ ประสิทธิภาพ และความเสถียรของ Egon</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">บทความที่เกี่ยวข้องกับความสนใจของคุณใน Egon</translation>
 <translation id="3066573403916685335">เลื่อนลง</translation>
 <translation id="3070005020161560471">แปลโดยอัตโนมัติ</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> จะเปิดใน Egon การดำเนินการต่อหมายความว่า คุณยอมรับ<ph name="BEGIN_LINK1" />ข้อกำหนดในการให้บริการของ Google<ph name="END_LINK1" /> และ<ph name="BEGIN_LINK2" />ข้อกำหนดในการให้บริการเพิ่มเติมของ Google Egon และ Egon OS<ph name="END_LINK2" /> <ph name="BEGIN_LINK3" />นโยบายความเป็นส่วนตัว<ph name="END_LINK3" />จะมีผลด้วย</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> จะเปิดใน Egon การดำเนินการต่อหมายความว่า คุณยอมรับ<ph name="BEGIN_LINK1" />ข้อกำหนดในการให้บริการของ Google<ph name="END_LINK1" /> และ<ph name="BEGIN_LINK2" />ข้อกำหนดในการให้บริการเพิ่มเติมของ Egon Browser และ Egon OS<ph name="END_LINK2" /> <ph name="BEGIN_LINK3" />นโยบายความเป็นส่วนตัว<ph name="END_LINK3" />จะมีผลด้วย</translation>
 <translation id="3091010850649238832">แสดงเนื้อหาในคลิปบอร์ด</translation>
 <translation id="3098745985164956033">ระบบจะส่งรูปภาพบางส่วนไปยัง Google เพื่อปรับปรุงคำอธิบายสำหรับคุณ</translation>
 <translation id="3114507951000454849">อ่านข่าววันนี้ <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">หากคุณลืมรหัสผ่านหรือต้องการเปลี่ยนการตั้งค่านี้ ให้<ph name="BEGIN_LINK" />รีเซ็ตการซิงค์<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">หากต้องการซิงค์รหัสผ่าน โปรดยืนยันว่าเป็นคุณ</translation>
 <translation id="3223522355830797639">ธนาคารต้องการยืนยันว่าเป็นคุณ</translation>
-<translation id="3227557059438308877">ใช้ Google Egon เป็นคีย์ความปลอดภัย</translation>
+<translation id="3227557059438308877">ใช้ Egon Browser เป็นคีย์ความปลอดภัย</translation>
 <translation id="3232754137068452469">เว็บแอป</translation>
 <translation id="3234978181857588512">บันทึกลงในอุปกรณ์</translation>
 <translation id="3236059992281584593">เหลือ 1 นาที</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">คัดลอกที่อยู่ลิงก์</translation>
 <translation id="4283102315569707115">ขอใช้เว็บไซต์เวอร์ชันเดสก์ท็อปโดยค่าเริ่มต้นไหม</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />เปิดการล็อกหน้าจอในการตั้งค่า Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">การใช้ Egon หมายความว่า คุณยอมรับ<ph name="BEGIN_TOS_LINK" />ข้อกำหนดในการให้บริการของ Google<ph name="END_TOS_LINK" /> และ<ph name="BEGIN_ATOS_LINK" />ข้อกำหนดในการให้บริการเพิ่มเติมของ Google Egon และ Egon OS<ph name="END_ATOS_LINK" /> <ph name="BEGIN_PRIVACY_LINK" />นโยบายความเป็นส่วนตัว<ph name="END_PRIVACY_LINK" />จะมีผลด้วย</translation>
+<translation id="4293476595220860475">การใช้ Egon หมายความว่า คุณยอมรับ<ph name="BEGIN_TOS_LINK" />ข้อกำหนดในการให้บริการของ Google<ph name="END_TOS_LINK" /> และ<ph name="BEGIN_ATOS_LINK" />ข้อกำหนดในการให้บริการเพิ่มเติมของ Egon Browser และ Egon OS<ph name="END_ATOS_LINK" /> <ph name="BEGIN_PRIVACY_LINK" />นโยบายความเป็นส่วนตัว<ph name="END_PRIVACY_LINK" />จะมีผลด้วย</translation>
 <translation id="4296252229500326964">แท็บใหม่ที่ไม่ระบุตัวตน</translation>
 <translation id="4298388696830689168">เว็บไซต์ที่ลิงก์</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@
 <translation id="9219582468404818260">ช่วยเราสร้างเว็บที่ดียิ่งขึ้น</translation>
 <translation id="92381315203627188">เมื่อเว็บไซต์ขอโหลดลิงก์ล่วงหน้าแบบส่วนตัว Egon จะเข้ารหัสและโหลดหน้าเว็บล่วงหน้าผ่านเซิร์ฟเวอร์ของ Google โดยไม่มีคุกกี้ การดำเนินการนี้จะซ่อนตัวตนของคุณจากเว็บไซต์ที่โหลดล่วงหน้า</translation>
 <translation id="926205370408745186">นำกิจกรรม Egon ออกจากไลฟ์สไตล์ดิจิทัล</translation>
-<translation id="927968626442779827">ใช้โหมด Lite ใน Google Egon</translation>
+<translation id="927968626442779827">ใช้โหมด Lite ใน Egon Browser</translation>
 <translation id="928550791203542716">กำลังติดตาม <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">หน้าแรก</translation>
 <translation id="938850635132480979">ข้อผิดพลาด: <ph name="ERROR_CODE" /></translation>

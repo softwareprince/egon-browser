@@ -1189,7 +1189,7 @@ Oʻz qurilmangizda Family Link ilovasini oʻrnatib, bu hisob sozlamalarini boshq
 <translation id="2088092308059522196"><ph name="DEVICE_OS" /> oʻrnatilgandan keyin roʻyxatdan oʻtish mumkin.</translation>
 <translation id="2089090684895656482">Kamroq</translation>
 <translation id="208928984520943006">Istalgan vaqtda bosh ekranga qaytish uchun pastdan tepaga suring.</translation>
-<translation id="2089566709556890888">Google Egon yordamida internetda xavfsiz ishlaysiz</translation>
+<translation id="2089566709556890888">Egon Browser yordamida internetda xavfsiz ishlaysiz</translation>
 <translation id="2089795179672254991">Saytlar klipbordga nusxalangan matn va rasmlarni ko‘rmoqchi bo‘lganda xabar berilsin (tavsiya etiladi)</translation>
 <translation id="2089925163047119068">YOKI</translation>
 <translation id="2090165459409185032">Hisob ma’lumotini tiklash uchun bu yerga o‘ting: google.com/accounts/recovery</translation>
@@ -1601,7 +1601,7 @@ Oʻz qurilmangizda Family Link ilovasini oʻrnatib, bu hisob sozlamalarini boshq
 <translation id="2434449159125086437">Printer sozlanmadi. Sozlamalarni tekshiring va qaytadan urining.</translation>
 <translation id="2434758125294431199">Sizga kim fayl yubora olishini tanlang</translation>
 <translation id="2434915728183570229">Endi siz telefoningizdagi ilovalarni koʻra olasiz</translation>
-<translation id="2435137177546457207">Google Egon va ChromeOS Flex qoʻshimcha shartlari</translation>
+<translation id="2435137177546457207">Egon Browser va ChromeOS Flex qoʻshimcha shartlari</translation>
 <translation id="2435248616906486374">Tarmoqqa ulanish yo‘q</translation>
 <translation id="2435457462613246316">Parolni ko‘rsatish</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> yuklanmoqda</translation>
@@ -3054,7 +3054,7 @@ Oʻz qurilmangizda Family Link ilovasini oʻrnatib, bu hisob sozlamalarini boshq
 <translation id="3798632811625902122"><ph name="DEVICE" /> qurilmasiga Bluetooth orqali ulanish uchun ruxsat berish kerak.</translation>
 <translation id="3799128412641261490">Switch Access sozlamalari</translation>
 <translation id="3800806661949714323">Hammasini ko‘rsatish (tavsiya etiladi)</translation>
-<translation id="3800828618615365228">Google Egon va ChromeOS qoʻshimcha shartlari</translation>
+<translation id="3800828618615365228">Egon Browser va ChromeOS qoʻshimcha shartlari</translation>
 <translation id="3802486193901166966">Bu kengaytma hech qanday maxsus ruxsat talab qilmaydi va saytlarga qoʻshimcha ruxsati yoʻq</translation>
 <translation id="380329542618494757">Ism</translation>
 <translation id="3803345858388753269">Video sifati</translation>
@@ -3070,7 +3070,7 @@ Oʻz qurilmangizda Family Link ilovasini oʻrnatib, bu hisob sozlamalarini boshq
 <translation id="3810973564298564668">Sozlash</translation>
 <translation id="381202950560906753">Yana qo‘shish</translation>
 <translation id="3812525830114410218">Sertifikat buzilgan</translation>
-<translation id="3813296892522778813">Agar qidirayotgan narsangiz topilmagan bo‘lsa, <ph name="BEGIN_LINK_CHROMIUM" />Google Egon yordam markazi<ph name="END_LINK_CHROMIUM" /> sahifasiga o‘ting</translation>
+<translation id="3813296892522778813">Agar qidirayotgan narsangiz topilmagan bo‘lsa, <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser yordam markazi<ph name="END_LINK_CHROMIUM" /> sahifasiga o‘ting</translation>
 <translation id="3813358687923336574">Tildan sahifalarni tarjima qilish va tezkor javoblar uchun foydalaniladi</translation>
 <translation id="3814529970604306954">Maktab hisobi</translation>
 <translation id="3816118180265633665">Egon ranglari</translation>
@@ -3426,7 +3426,7 @@ Oʻz qurilmangizda Family Link ilovasini oʻrnatib, bu hisob sozlamalarini boshq
 <translation id="4132364317545104286">eSIM profilini qayta nomlash</translation>
 <translation id="4133076602192971179">Parolni almashtirish uchun ilovani oching</translation>
 <translation id="4134818201340504801">Oxirigacha sozlash uchun xotiradagi joy yetarli emas. Xotiradan joy oching va qaytadan urining</translation>
-<translation id="4135746311382563554">Google Egon va Egon OS qoʻshimcha xizmat shartlari</translation>
+<translation id="4135746311382563554">Egon Browser va Egon OS qoʻshimcha xizmat shartlari</translation>
 <translation id="4136203100490971508">Tungi rejim quyosh chiqishi bilan avtomatik faolsizlantiriladi</translation>
 <translation id="41365691917097717">Davom etsangiz, Android ilovalarni yaratish va sinash uchun ADB tuzatish vositasi yoqiladi. Eslatma: bunda Google tomonidan tekshirilmagan Android ilovalar ham oʻrnatilishi mumkin va zavod sozlamalariga tiklash yoqilmasligi kerak.</translation>
 <translation id="4138267921960073861">Kirish ekranida foydalanuvchilar nomlari va rasmlarini ko‘rsatish</translation>
@@ -3846,7 +3846,7 @@ Oʻz qurilmangizda Family Link ilovasini oʻrnatib, bu hisob sozlamalarini boshq
 <translation id="4544174279960331769">Standart ko‘k avatar</translation>
 <translation id="4545028762441890696">Uni qayta ishga tushirish uchun yangi ruxsatlarga rozi bo‘lishingiz lozim:</translation>
 <translation id="4545759655004063573">Ruxsat yo‘qligi tufayli saqlab bo‘lmadi. Boshqa jildni tanlang.</translation>
-<translation id="4546308221697447294">Google Egon yordamida internet tezligi oshadi</translation>
+<translation id="4546308221697447294">Egon Browser yordamida internet tezligi oshadi</translation>
 <translation id="4546345569117159016">Oʻng tugma</translation>
 <translation id="4546692474302123343">Google Assistentda ovoz bilan yozish</translation>
 <translation id="4547659257713117923">Boshqa qurilmalarda ochilgan tablar yo‘q</translation>
@@ -4647,7 +4647,7 @@ Kichiklashtirish uchun Ctrl+Alt+Yorqinlikni pasaytirish tugmalarini bosing.</tra
 <translation id="5313967007315987356">Sayt qo‘shish</translation>
 <translation id="5315738755890845852">Oʻng figurali qavs ortiqcha: <ph name="ERROR_LINE" /></translation>
 <translation id="5317780077021120954">Saqlash</translation>
-<translation id="5319359161174645648">Google Egon brauzerini  tavsiya qiladi</translation>
+<translation id="5319359161174645648">Egon Browser brauzerini  tavsiya qiladi</translation>
 <translation id="5319712128756744240">Yangi qurilmani juftlash</translation>
 <translation id="5320135788267874712">Yangi qurilma nomi</translation>
 <translation id="532247166573571973">Server bilan aloqa o‘rnatib bo‘lmadi. Keyinroq qayta urinib ko‘ring.</translation>
@@ -5905,7 +5905,7 @@ Ochiq eksponenta (<ph name="PUBLIC_EXPONENT_NUM_BITS" /> bit):
 <translation id="6509207748479174212">Litsenziyalar</translation>
 <translation id="6511827214781912955">Bu qurilmaning boshqa foydalanuvchilari parollaringizni koʻrmasligi uchun <ph name="FILENAME" /> faylini oʻchirib tashlang</translation>
 <translation id="6512808201725371249">Makzur hisob paroli Google parollar menejeriga (<ph name="USER_EMAIL" />) allaqachon saqlangan</translation>
-<translation id="6513247462497316522">Boshqa tarmoqqa ulanish yo‘qligida, Google Egon mobil internet tarmog‘idan foydalanadi.</translation>
+<translation id="6513247462497316522">Boshqa tarmoqqa ulanish yo‘qligida, Egon Browser mobil internet tarmog‘idan foydalanadi.</translation>
 <translation id="6514010653036109809">Mavjud qurilma:</translation>
 <translation id="6514565641373682518">Ushbu sahifa sichqoncha kursorini o‘chirib qo‘ydi.</translation>
 <translation id="6517709704288360414">Endi qurilmangiz ishlashi, xavfsizlik va unumdorlikda muammolar yuz berishi mumkin. Yangilanishlar faolsizlantirilganda foydalanishdagi muammolar yuzasida yuridik shikoyat qila olmaysiz.</translation>
@@ -7511,7 +7511,7 @@ Kalit faylini ishonchli joyda saqlang. U kengaytmaning yangi versiyalarini yarat
 <translation id="8011372169388649948">“<ph name="BOOKMARK_TITLE" />” boshqa joyga olindi.</translation>
 <translation id="8011875486979733097">Steam oʻrnatilmaydi</translation>
 <translation id="8012647001091218357">Aynan hozir ota-onangiz bilan bog‘lanib bo‘lmadi. Qayta urinib ko‘ring.</translation>
-<translation id="8013993649590906847">Agar rasmga foydali tavsif berilmagan boʻlsa, Google Egon uni sizga tavsiflaydi. Tavsif yaratish uchun rasmlar Googlega yuboriladi.</translation>
+<translation id="8013993649590906847">Agar rasmga foydali tavsif berilmagan boʻlsa, Egon Browser uni sizga tavsiflaydi. Tavsif yaratish uchun rasmlar Googlega yuboriladi.</translation>
 <translation id="8014154204619229810">Yangilash vositasi ishlamoqda. Bir necha daqiqadan so‘ng qayta urinib ko‘ring.</translation>
 <translation id="8014206674403687691"><ph name="IDS_SHORT_PRODUCT_NAME" />‘ni avval o‘rnatilgan versiyaga qaytarish imkoniyati yo‘q. Powerwash funksiyasidan foydalanib ko‘ring.</translation>
 <translation id="8016266267177410919">Vaqtinchalik saqlash jildi</translation>
@@ -8088,7 +8088,7 @@ Kalit faylini ishonchli joyda saqlang. U kengaytmaning yangi versiyalarini yarat
 <translation id="8554899698005018844">Til tanlanmagan</translation>
 <translation id="855604308879080518">Android ilovalarga bu Chromebook USB qurilmalaridan foydalanishiga ruxsat berish. Har safar USB qurilma ulanganda ruxsat soʻraladi. Ayrim Android ilovalar qoʻshimcha ruxsatlar soʻrashi ham mumkin.</translation>
 <translation id="8557022314818157177">Barmoq izi yozib olinguncha elektron kalitga teginib turing</translation>
-<translation id="8557180006508471423">Mac qurilmangizda “﻿Location Services” orqali “Google Egon” brauzerini yoqing</translation>
+<translation id="8557180006508471423">Mac qurilmangizda “﻿Location Services” orqali “Egon Browser” brauzerini yoqing</translation>
 <translation id="8557856025359704738">Keyingi yuklab olish sanasi: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Kodlar</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Barchasini &amp;yangi oynada ochish}=1{&amp;Yangi oynada ochish}other{Barchasini ({COUNT}) &amp;yangi oynada ochish}}</translation>

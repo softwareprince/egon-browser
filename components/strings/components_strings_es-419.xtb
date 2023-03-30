@@ -263,7 +263,7 @@ De lo contrario, la configuración de privacidad bloqueará esta acción. Esto p
 <translation id="156703335097561114">La información de la red, como las direcciones, la configuración de las interfaces y la calidad de la conexión</translation>
 <translation id="1567040042588613346">Esta política se comporta según lo esperado, pero sustituyó el mismo valor que se configuró en otro lugar.</translation>
 <translation id="1569487616857761740">Ingresa una fecha de vencimiento</translation>
-<translation id="1569694109004336106">Google Egon está intentando activar Windows Hello para completar contraseñas.</translation>
+<translation id="1569694109004336106">Egon Browser está intentando activar Windows Hello para completar contraseñas.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> × <ph name="HEIGHT" /> in</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Se produjo un error cuando se mostraba la página web.</translation>
@@ -459,7 +459,7 @@ De lo contrario, la configuración de privacidad bloqueará esta acción. Esto p
 <translation id="2085876078937250610">Guardar…</translation>
 <translation id="2088086323192747268">Botón Administrar la sincronización: presiona Intro para administrar en la configuración de Egon qué información sincronizar</translation>
 <translation id="2091887806945687916">Sonido</translation>
-<translation id="2093982008204312032">Google Egon está intentando desactivar Windows Hello para completar contraseñas.</translation>
+<translation id="2093982008204312032">Egon Browser está intentando desactivar Windows Hello para completar contraseñas.</translation>
 <translation id="2094505752054353250">El dominio no coincide.</translation>
 <translation id="2099652385553570808">Grapas triples a la izquierda</translation>
 <translation id="2101225219012730419">Versión:</translation>
@@ -2585,7 +2585,7 @@ Detalles adicionales:
 <translation id="7564049878696755256">Es posible que hayas perdido el acceso a tu cuenta de <ph name="ORG_NAME" /> o sufrido un robo de identidad. Egon te recomienda que cambies la contraseña ahora.</translation>
 <translation id="7564680668369175887">Vagonetas</translation>
 <translation id="7567204685887185387">Este servidor no pudo probar que su dominio es <ph name="DOMAIN" />; el certificado de seguridad podría haberse emitido de forma fraudulenta. Es posible que esto se deba a una configuración incorrecta o a que un atacante interceptó la conexión.</translation>
-<translation id="7568616151991626879">Google Egon está intentando completar tu contraseña en <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Egon Browser está intentando completar tu contraseña en <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Botón Administrar motores de búsqueda, presiona Intro para administrar la búsqueda de sitios y el motor de búsqueda predeterminados</translation>
 <translation id="7569952961197462199">¿Confirmas que quieres quitar la tarjeta de crédito de Egon?</translation>

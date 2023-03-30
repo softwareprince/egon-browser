@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Hapus data yang sudah ada.</translation>
 <translation id="1146678959555564648">Masuki VR</translation>
 <translation id="1149401351239820326">Bulan akhir masa berlaku</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> akan dibuka di Egon. Dengan melanjutkan, Anda menyetujui <ph name="BEGIN_LINK1" />Persyaratan Layanan Google<ph name="END_LINK1" /> serta <ph name="BEGIN_LINK2" />Persyaratan Layanan Tambahan Google Egon dan ChromeOS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> akan dibuka di Egon. Dengan melanjutkan, Anda menyetujui <ph name="BEGIN_LINK1" />Persyaratan Layanan Google<ph name="END_LINK1" /> serta <ph name="BEGIN_LINK2" />Persyaratan Layanan Tambahan Egon Browser dan ChromeOS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Halaman tidak tersedia saat offline: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Lihat situs populer dengan mengetuk tombol "Situs populer"</translation>
 <translation id="1173894706177603556">Ganti nama</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Pengukuran iklan memungkinkan situs yang Anda buka untuk meminta informasi dari Egon yang membantu situs mengukur performa iklannya. Pengukuran iklan membatasi pelacakan lintas situs dengan mentransfer sesedikit mungkin informasi antar-situs.
 
 Jika Anda menghapus histori penjelajahan, baik semua histori maupun histori untuk situs tertentu, berarti Anda juga menghapus informasi pengukuran terkait. Lihat <ph name="BEGIN_LINK" />histori penjelajahan Anda<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Pintasan fitur Google Egon</translation>
+<translation id="1332501820983677155">Pintasan fitur Egon Browser</translation>
 <translation id="1344653310988386453">Sertakan link ke sorotan</translation>
 <translation id="1347468774581902829">Kelola aktivitas</translation>
 <translation id="1360432990279830238">Logout dan nonaktifkan sinkronisasi?</translation>
@@ -213,7 +213,7 @@ Jika Anda menghapus histori penjelajahan, baik semua histori maupun histori untu
 <translation id="2122601567107267586">Tidak dapat membuka aplikasi</translation>
 <translation id="2132122640199389833">Hapus semua perangkat tertaut</translation>
 <translation id="213279576345780926">Menutup <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">Dengan menggunakan Egon, Anda menyetujui <ph name="BEGIN_TOS_LINK" />Persyaratan Layanan Google<ph name="END_TOS_LINK" /> serta <ph name="BEGIN_ATOS_LINK" />Persyaratan Layanan Tambahan Google Egon dan ChromeOS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Dengan menggunakan Egon, Anda menyetujui <ph name="BEGIN_TOS_LINK" />Persyaratan Layanan Google<ph name="END_TOS_LINK" /> serta <ph name="BEGIN_ATOS_LINK" />Persyaratan Layanan Tambahan Egon Browser dan ChromeOS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Tambahkan ke Layar Utama</translation>
 <translation id="2141396931810938595">Berdasarkan penggunaan Anda</translation>
 <translation id="214888715418183969">Pilih metrik yang ingin dibagikan ke Egon. Metrik yang Anda bagikan akan digunakan untuk membantu menyempurnakan fitur, performa, dan stabilitas Egon.</translation>
@@ -391,7 +391,7 @@ Jika Anda menghapus histori penjelajahan, baik semua histori maupun histori untu
 <translation id="3062802207422175757">Artikel di Egon terkait minat Anda</translation>
 <translation id="3066573403916685335">Turunkan</translation>
 <translation id="3070005020161560471">Otomatis terjemahkan</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> akan dibuka di Egon. Dengan melanjutkan, Anda menyetujui <ph name="BEGIN_LINK1" />Persyaratan Layanan Google<ph name="END_LINK1" /> serta <ph name="BEGIN_LINK2" />Persyaratan Layanan Tambahan Google Egon dan ChromeOS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Kebijakan Privasi<ph name="END_LINK3" /> juga akan berlaku.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> akan dibuka di Egon. Dengan melanjutkan, Anda menyetujui <ph name="BEGIN_LINK1" />Persyaratan Layanan Google<ph name="END_LINK1" /> serta <ph name="BEGIN_LINK2" />Persyaratan Layanan Tambahan Egon Browser dan ChromeOS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Kebijakan Privasi<ph name="END_LINK3" /> juga akan berlaku.</translation>
 <translation id="3091010850649238832">Tampilkan konten papan klip</translation>
 <translation id="3098745985164956033">Beberapa gambar dikirim ke Google guna menyempurnakan deskripsi untuk Anda</translation>
 <translation id="3114507951000454849">Baca berita hari ini <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Jika Anda menghapus histori penjelajahan, baik semua histori maupun histori untu
 <translation id="321773570071367578">Jika lupa frasa sandi atau ingin mengubah setelan ini, <ph name="BEGIN_LINK" />reset sinkronisasi<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Untuk menyinkronkan sandi, verifikasi diri Anda</translation>
 <translation id="3223522355830797639">Bank Anda ingin memastikan bahwa ini memang Anda.</translation>
-<translation id="3227557059438308877">Google Egon sebagai Kunci Keamanan</translation>
+<translation id="3227557059438308877">Egon Browser sebagai Kunci Keamanan</translation>
 <translation id="3232754137068452469">Aplikasi Web</translation>
 <translation id="3234978181857588512">Simpan ke perangkat</translation>
 <translation id="3236059992281584593">1 menit lagi</translation>
@@ -596,7 +596,7 @@ Jika Anda menghapus histori penjelajahan, baik semua histori maupun histori untu
 <translation id="4269820728363426813">Salin URL</translation>
 <translation id="4283102315569707115">Minta situs desktop secara default?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Aktifkan kunci layar di setelan Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Dengan menggunakan Egon, Anda menyetujui <ph name="BEGIN_TOS_LINK" />Persyaratan Layanan Google<ph name="END_TOS_LINK" /> serta <ph name="BEGIN_ATOS_LINK" />Persyaratan Layanan Tambahan Google Egon dan ChromeOS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Kebijakan Privasi<ph name="END_PRIVACY_LINK" /> juga akan berlaku.</translation>
+<translation id="4293476595220860475">Dengan menggunakan Egon, Anda menyetujui <ph name="BEGIN_TOS_LINK" />Persyaratan Layanan Google<ph name="END_TOS_LINK" /> serta <ph name="BEGIN_ATOS_LINK" />Persyaratan Layanan Tambahan Egon Browser dan ChromeOS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Kebijakan Privasi<ph name="END_PRIVACY_LINK" /> juga akan berlaku.</translation>
 <translation id="4296252229500326964">Tab Samaran baru</translation>
 <translation id="4298388696830689168">Situs tertaut</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@ Trust token meningkatkan privasi di web dan tidak dapat digunakan untuk menemuka
 <translation id="9219582468404818260">Bantu kami membuat web yang lebih baik</translation>
 <translation id="92381315203627188">Saat sebuah situs meminta untuk melakukan pramuat link yang ada di halamannya secara pribadi, Egon akan mengenkripsi dan melakukan pramuat halaman melalui server Google tanpa cookie. Hal ini akan menyembunyikan identitas Anda dari situs yang dipramuat.</translation>
 <translation id="926205370408745186">Hapus aktivitas Egon Anda dari Kesehatan Digital</translation>
-<translation id="927968626442779827">Gunakan Mode Ringan di Google Egon</translation>
+<translation id="927968626442779827">Gunakan Mode Ringan di Egon Browser</translation>
 <translation id="928550791203542716">Mengikuti <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Beranda</translation>
 <translation id="938850635132480979">Kesalahan: <ph name="ERROR_CODE" /></translation>

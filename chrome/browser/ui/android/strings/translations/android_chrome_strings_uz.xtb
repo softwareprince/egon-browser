@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Mavjud ma’lumotlarni o‘chirish.</translation>
 <translation id="1146678959555564648">Virtual reallikka kirish</translation>
 <translation id="1149401351239820326">Muddati tugaydigan oy</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> ilovasi Egon ichida ochiladi. Davom etish bilan siz <ph name="BEGIN_LINK1" />Google xizmat shartlari<ph name="END_LINK1" /> bilan <ph name="BEGIN_LINK2" />Google Egon va ChromeOS qoʻshimcha xizmat shartlariga<ph name="END_LINK2" /> rozilik bildirgan hisoblanasiz.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> ilovasi Egon ichida ochiladi. Davom etish bilan siz <ph name="BEGIN_LINK1" />Google xizmat shartlari<ph name="END_LINK1" /> bilan <ph name="BEGIN_LINK2" />Egon Browser va ChromeOS qoʻshimcha xizmat shartlariga<ph name="END_LINK2" /> rozilik bildirgan hisoblanasiz.</translation>
 <translation id="1154704303112745282">Sahifa oflaynda ishlamaydi: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Mashhur saytlarni chiqarish uchun “Top saytlar” tugmasini bosing</translation>
 <translation id="1173894706177603556">Qayta nomlash</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Reklama statistikasi siz kiradigan saytlarga ulardagi reklama unumdorligini hisoblashga yordam beradigan maʼlumotlarni Egon ilovasidan olish imkonini beradi. Reklama statistikasi imkon qadar kam axborotni saytlararo ulashish orqali saytlardagi kuzatuv mexanizmlarini taqiqlaydi.
 
 Barcha yoki ayrim saytlar uchun — ochilgan sahifalar tarixi oʻchirilganida — saytga tegishli oʻlchov maʼlumotlari ham tozalanadi. <ph name="BEGIN_LINK" />Siz ochgan sahifalar tarixi<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Google Egon funksiyalari</translation>
+<translation id="1332501820983677155">Egon Browser funksiyalari</translation>
 <translation id="1344653310988386453">Tanlangan matnga havola kiriting</translation>
 <translation id="1347468774581902829">Tarixni boshqarish</translation>
 <translation id="1360432990279830238">Chiqilsin va sinxronizatsiya uzilsinmi?</translation>
@@ -213,7 +213,7 @@ Barcha yoki ayrim saytlar uchun — ochilgan sahifalar tarixi oʻchirilganida �
 <translation id="2122601567107267586">Dastur ochilmadi</translation>
 <translation id="2132122640199389833">Ulangan barcha qurilmalarni olib tashlash</translation>
 <translation id="213279576345780926">Yopildi: <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">Siz Egon brauzeridan foydalanish orqali <ph name="BEGIN_TOS_LINK" />Google Xizmat shartlari<ph name="END_TOS_LINK" /> hamda <ph name="BEGIN_ATOS_LINK" />Google Egon va ChromeOS Qoʻshimcha xizmat shartlari<ph name="END_ATOS_LINK" /> uchun rozilik berasiz.</translation>
+<translation id="2134927169889348449">Siz Egon brauzeridan foydalanish orqali <ph name="BEGIN_TOS_LINK" />Google Xizmat shartlari<ph name="END_TOS_LINK" /> hamda <ph name="BEGIN_ATOS_LINK" />Egon Browser va ChromeOS Qoʻshimcha xizmat shartlari<ph name="END_ATOS_LINK" /> uchun rozilik berasiz.</translation>
 <translation id="2139186145475833000">Bosh ekranga qo‘shish</translation>
 <translation id="2141396931810938595">Sarfingiz asosida</translation>
 <translation id="214888715418183969">Chromega qaysi maʼlumotlarni ulashish mumkinligini tanlang. Siz taqdim qiladigan statistik maʼlumotlar Egon funksiyalari, unumdorligi va barqarorligini yaxshilashga yordam beradi.</translation>
@@ -391,7 +391,7 @@ Barcha yoki ayrim saytlar uchun — ochilgan sahifalar tarixi oʻchirilganida �
 <translation id="3062802207422175757">Egon brauzerida qiziqishlaringizga oid maqolalar</translation>
 <translation id="3066573403916685335">Pastga tushish</translation>
 <translation id="3070005020161560471">Avtomatik tarjima qilinsin</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> ilovasi Egon ichida ochiladi. Davom etish bilan siz <ph name="BEGIN_LINK1" />Google xizmat shartlari<ph name="END_LINK1" /> bilan <ph name="BEGIN_LINK2" />Google Egon va ChromeOS qoʻshimcha xizmat shartlariga<ph name="END_LINK2" /> rozilik bildirgan hisoblanasiz. <ph name="BEGIN_LINK3" />Maxfiylik siyosati<ph name="END_LINK3" /> ham tatbiq etiladi.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> ilovasi Egon ichida ochiladi. Davom etish bilan siz <ph name="BEGIN_LINK1" />Google xizmat shartlari<ph name="END_LINK1" /> bilan <ph name="BEGIN_LINK2" />Egon Browser va ChromeOS qoʻshimcha xizmat shartlariga<ph name="END_LINK2" /> rozilik bildirgan hisoblanasiz. <ph name="BEGIN_LINK3" />Maxfiylik siyosati<ph name="END_LINK3" /> ham tatbiq etiladi.</translation>
 <translation id="3091010850649238832">Vaqtincha xotira kontentini chiqarish</translation>
 <translation id="3098745985164956033">Tavsiflarini yaxshilash uchun ayrim rasmlar Googlega yuborildi</translation>
 <translation id="3114507951000454849">Bugungi yangiliklar bilan tanishing <ph name="NEWS_ICON" /></translation>
@@ -596,7 +596,7 @@ Barcha yoki ayrim saytlar uchun — ochilgan sahifalar tarixi oʻchirilganida �
 <translation id="4269820728363426813">Havola manzilini nusxalash</translation>
 <translation id="4283102315569707115">Standart holatda saytning kompyuter versiyasini ochish soʻralsinmi?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android sozlamalari orqali ekran qulfini yoqing<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Siz Egon brauzeridan foydalanish orqali <ph name="BEGIN_TOS_LINK" />Google Xizmat shartlari<ph name="END_TOS_LINK" /> hamda <ph name="BEGIN_ATOS_LINK" />Google Egon va ChromeOS Qoʻshimcha xizmat shartlari<ph name="END_ATOS_LINK" /> uchun rozilik berasiz. <ph name="BEGIN_PRIVACY_LINK" />Maxfiylik siyosati<ph name="END_PRIVACY_LINK" /> ham tatbiq etiladi.</translation>
+<translation id="4293476595220860475">Siz Egon brauzeridan foydalanish orqali <ph name="BEGIN_TOS_LINK" />Google Xizmat shartlari<ph name="END_TOS_LINK" /> hamda <ph name="BEGIN_ATOS_LINK" />Egon Browser va ChromeOS Qoʻshimcha xizmat shartlari<ph name="END_ATOS_LINK" /> uchun rozilik berasiz. <ph name="BEGIN_PRIVACY_LINK" />Maxfiylik siyosati<ph name="END_PRIVACY_LINK" /> ham tatbiq etiladi.</translation>
 <translation id="4296252229500326964">Yangi inkognito varaq</translation>
 <translation id="4298388696830689168">Aloqador saytlar</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -722,7 +722,7 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK" />sinxronizatsiyani tiklan
 <translation id="492284538114688557">Narx pasayishi aniqlandi</translation>
 <translation id="4925120120285606924">Skrinshot: <ph name="CURRENT_DATE_ISO" /></translation>
 <translation id="49268022542405662">Parolingiz eksport qilinadi va matn fayli sifatida yuklab olinadi. Ularni hamma koʻra oladi va har qanday ilova u joylashgan jildga kira oladi.</translation>
-<translation id="4932247056774066048">Chunki siz <ph name="DOMAIN_NAME" /> tomonidan boshqariladigan hisobingizdan chiqish arafasidasiz. Barcha axborotlar Google Egon brauzeridan tozalab tashlanadi, lekin Google hisobingizda saqlanib qoladi.</translation>
+<translation id="4932247056774066048">Chunki siz <ph name="DOMAIN_NAME" /> tomonidan boshqariladigan hisobingizdan chiqish arafasidasiz. Barcha axborotlar Egon Browser brauzeridan tozalab tashlanadi, lekin Google hisobingizda saqlanib qoladi.</translation>
 <translation id="4943703118917034429">Virtual reallik</translation>
 <translation id="4943872375798546930">Hech narsa topilmadi</translation>
 <translation id="4950924971025849764">Bir xil Google hisobidan kirilganda boshqa qurilmalar bu telefonni elektron kalit sifatida ishlatishi mumkin.</translation>
@@ -787,7 +787,7 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK" />sinxronizatsiyani tiklan
 <translation id="5304593522240415983">Bu maydon kiritilishi shart</translation>
 <translation id="5308380583665731573">Ulanish</translation>
 <translation id="5317780077021120954">Saqlash</translation>
-<translation id="5319359161174645648">Google Egon brauzerini  tavsiya qiladi</translation>
+<translation id="5319359161174645648">Egon Browser brauzerini  tavsiya qiladi</translation>
 <translation id="5321849971085220133">Egon brauzerdagi harakatlaringiz kuzatuvini kamaytirishning yangi usullarini ishlab chiqadi. Shuningdek, Egon <ph name="BEGIN_LINK" />qiziqishlaringizni taxmin qiladi<ph name="END_LINK" /> va ularni boshqarish imkonini beradi. Keyin siz kiradigan saytlar reklama chiqarish uchun Chromedan qiziqishlaringizni koʻrishga ruxsat soʻrashi mumkin.</translation>
 <translation id="5324858694974489420">Ota-onalar sozlamalari</translation>
 <translation id="5326921373682845375">Oldindan yuklanadigan sahifalar shifrlangani va sahifalarga ulovchi sayt Google sayti boʻlgani bois, bunday sahifalar maxfiy tarzda oldindan yuklansa, Google serverlari yangi maʼlumotlarni qabul qila olmaydi.</translation>
@@ -1076,7 +1076,7 @@ Ishonch tokenlari Internetdagi maxfiylikni oshiradi va shaxsiy maʼlumotlaringiz
 <translation id="6767294960381293877">Yarim hajmda ochilgan varaq uzatiladigan qurilmalar roʻyxati.</translation>
 <translation id="6770042910635026163">Qiziqishlarni ifodalovchi siz kiradigan saytlar</translation>
 <translation id="6770602306803890733">Siz va yaqinlaringizni internetdan yaxshiroq himoyalaydi</translation>
-<translation id="6785476624617658922">Google Egon va ChromeOS qoʻshimcha shartlari</translation>
+<translation id="6785476624617658922">Egon Browser va ChromeOS qoʻshimcha shartlari</translation>
 <translation id="6795633245022906657">Tezda yangi varaqda ochish. Bu yorliqni tahrirlash uchun Sozlamalarga kiring.</translation>
 <translation id="6802555630140434547">Oyna yopiladi</translation>
 <translation id="6811034713472274749">Sahifani koʻrish mumkin</translation>
@@ -1547,7 +1547,7 @@ Ishonch tokenlari Internetdagi maxfiylikni oshiradi va shaxsiy maʼlumotlaringiz
 <translation id="9219582468404818260">Internetni yaxshilashimizga yordam bering</translation>
 <translation id="92381315203627188">Birorta sayt havolalarni maxfiy tarzda sahifalarida oldindan yuklashni soʻrasa, Egon sahifalarni Google serverlari orqali cookie fayllarisiz shifrlaydi va oldindan yuklaydi. Bunda, oldindan yuklangan saytda shaxsingiz berkitiladi.</translation>
 <translation id="926205370408745186">Egon amallarini Raqamli qulaylikdan olib tashlash</translation>
-<translation id="927968626442779827">Google Egon brauzerida Lite rejimidan foydalanish</translation>
+<translation id="927968626442779827">Egon Browser brauzerida Lite rejimidan foydalanish</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> endi kuzatuvingizda</translation>
 <translation id="932327136139879170">Bosh sahifa</translation>
 <translation id="938850635132480979">Xato: <ph name="ERROR_CODE" /></translation>

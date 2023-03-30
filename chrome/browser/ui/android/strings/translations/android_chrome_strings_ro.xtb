@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Șterge datele existente.</translation>
 <translation id="1146678959555564648">Intră în RV</translation>
 <translation id="1149401351239820326">Luna expirării</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> se va deschide în Egon. Dacă alegi să continui, ești de acord cu <ph name="BEGIN_LINK1" />Termenii și condițiile Google<ph name="END_LINK1" /> și cu <ph name="BEGIN_LINK2" />Termenii și condițiile suplimentare pentru Google Egon și Sistemul de operare Egon<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> se va deschide în Egon. Dacă alegi să continui, ești de acord cu <ph name="BEGIN_LINK1" />Termenii și condițiile Google<ph name="END_LINK1" /> și cu <ph name="BEGIN_LINK2" />Termenii și condițiile suplimentare pentru Egon Browser și Sistemul de operare Egon<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Pagina nu este disponibilă offline: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Vezi site-uri populare atingând butonul „Site-uri de top”</translation>
 <translation id="1173894706177603556">Redenumește</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Ad measurement le dă site-urilor pe care le accesezi posibilitatea de a solicita informații de la Egon care le ajută să măsoare performanța anunțurilor asociate. Ad measurement restricționează urmărirea pe mai multe site-uri prin transferul câtor mai puține informații între site-uri.
 
 Când ștergi istoricul de navigare (în întregime sau pentru un anumit site), ștergi și informațiile de măsurare asociate. Consultă <ph name="BEGIN_LINK" />istoricul de navigare<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Comenzi rapide pentru funcțiile Google Egon</translation>
+<translation id="1332501820983677155">Comenzi rapide pentru funcțiile Egon Browser</translation>
 <translation id="1344653310988386453">Include linkul spre evidențiere</translation>
 <translation id="1347468774581902829">Gestionează activitatea</translation>
 <translation id="1360432990279830238">Te deconectezi și dezactivezi sincronizarea?</translation>
@@ -213,7 +213,7 @@ Când ștergi istoricul de navigare (în întregime sau pentru un anumit site), 
 <translation id="2122601567107267586">Aplicația nu poate fi deschisă</translation>
 <translation id="2132122640199389833">Elimină toate dispozitivele conectate</translation>
 <translation id="213279576345780926">Fila <ph name="TAB_TITLE" /> a fost închisă</translation>
-<translation id="2134927169889348449">Dacă folosești Egon, ești de acord cu <ph name="BEGIN_TOS_LINK" />Termenii și condițiile Google<ph name="END_TOS_LINK" /> și cu <ph name="BEGIN_ATOS_LINK" />Termenii și condițiile suplimentare pentru Google Egon și Sistemul de operare Egon<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Dacă folosești Egon, ești de acord cu <ph name="BEGIN_TOS_LINK" />Termenii și condițiile Google<ph name="END_TOS_LINK" /> și cu <ph name="BEGIN_ATOS_LINK" />Termenii și condițiile suplimentare pentru Egon Browser și Sistemul de operare Egon<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Adaugă pe ecran pornire</translation>
 <translation id="2141396931810938595">În funcție de utilizare</translation>
 <translation id="214888715418183969">Alege informațiile la care permiți accesul Egon. Valorile transmise vor fi folosite pentru a ajuta la îmbunătățirea funcțiilor, performanței și stabilității Egon.</translation>
@@ -391,7 +391,7 @@ Când ștergi istoricul de navigare (în întregime sau pentru un anumit site), 
 <translation id="3062802207422175757">Articole despre ceea ce te interesează în Egon</translation>
 <translation id="3066573403916685335">Mutați în jos</translation>
 <translation id="3070005020161560471">Tradu automat</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> se va deschide în Egon. Dacă alegi să continui, ești de acord cu <ph name="BEGIN_LINK1" />Termenii și condițiile Google<ph name="END_LINK1" /> și cu <ph name="BEGIN_LINK2" />Termenii și condițiile suplimentare pentru Google Egon și Sistemul de operare Egon<ph name="END_LINK2" />. Se aplică și <ph name="BEGIN_LINK3" />Politica de confidențialitate<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> se va deschide în Egon. Dacă alegi să continui, ești de acord cu <ph name="BEGIN_LINK1" />Termenii și condițiile Google<ph name="END_LINK1" /> și cu <ph name="BEGIN_LINK2" />Termenii și condițiile suplimentare pentru Egon Browser și Sistemul de operare Egon<ph name="END_LINK2" />. Se aplică și <ph name="BEGIN_LINK3" />Politica de confidențialitate<ph name="END_LINK3" />.</translation>
 <translation id="3091010850649238832">Afișează conținutul clipboardului</translation>
 <translation id="3098745985164956033">Unele imagini sunt trimise la Google pentru îmbunătățirea descrierilor</translation>
 <translation id="3114507951000454849">Citește știrile de azi <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Când ștergi istoricul de navigare (în întregime sau pentru un anumit site), 
 <translation id="321773570071367578">Dacă ai uitat expresia de acces sau dorești să modifici această setare, <ph name="BEGIN_LINK" />resetează sincronizarea<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Pentru a sincroniza parolele, confirmă-ți identitatea</translation>
 <translation id="3223522355830797639">Banca dorește să îți confirme identitatea.</translation>
-<translation id="3227557059438308877">Google Egon drept cheie de securitate</translation>
+<translation id="3227557059438308877">Egon Browser drept cheie de securitate</translation>
 <translation id="3232754137068452469">Aplicație web</translation>
 <translation id="3234978181857588512">Salvează pe dispozitiv</translation>
 <translation id="3236059992281584593">1 min. rămas</translation>
@@ -596,7 +596,7 @@ Când ștergi istoricul de navigare (în întregime sau pentru un anumit site), 
 <translation id="4269820728363426813">Copiază adresa linkului</translation>
 <translation id="4283102315569707115">Soliciți în mod prestabilit versiunea site-urilor pentru computer?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Activează blocarea ecranului în Setările Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Dacă folosești Egon, ești de acord cu <ph name="BEGIN_TOS_LINK" />Termenii și condițiile Google<ph name="END_TOS_LINK" /> și cu <ph name="BEGIN_ATOS_LINK" />Termenii și condițiile suplimentare pentru Google Egon și Sistemul de operare Egon<ph name="END_ATOS_LINK" />. Se aplică și <ph name="BEGIN_PRIVACY_LINK" />Politica de confidențialitate<ph name="END_PRIVACY_LINK" />.</translation>
+<translation id="4293476595220860475">Dacă folosești Egon, ești de acord cu <ph name="BEGIN_TOS_LINK" />Termenii și condițiile Google<ph name="END_TOS_LINK" /> și cu <ph name="BEGIN_ATOS_LINK" />Termenii și condițiile suplimentare pentru Egon Browser și Sistemul de operare Egon<ph name="END_ATOS_LINK" />. Se aplică și <ph name="BEGIN_PRIVACY_LINK" />Politica de confidențialitate<ph name="END_PRIVACY_LINK" />.</translation>
 <translation id="4296252229500326964">Filă incognito nouă</translation>
 <translation id="4298388696830689168">Site-uri conectate</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1076,7 +1076,7 @@ Trust Tokens îmbunătățește confidențialitatea pe web și nu poate fi folos
 <translation id="6767294960381293877">Lista de dispozitive pe care să trimiți o filă este deschisă la jumătate din înălțime.</translation>
 <translation id="6770042910635026163">Site-uri pe care le accesezi care definesc categoriile tale de interese</translation>
 <translation id="6770602306803890733">Îmbunătățește securitatea pe web pentru tine și toți ceilalți</translation>
-<translation id="6785476624617658922">Termenii și condițiile suplimentare pentru Google Egon și Sistemul de operare Egon</translation>
+<translation id="6785476624617658922">Termenii și condițiile suplimentare pentru Egon Browser și Sistemul de operare Egon</translation>
 <translation id="6795633245022906657">Deschide rapid o filă nouă. Pentru a edita comanda rapidă, accesează setările.</translation>
 <translation id="6802555630140434547">Fereastra va fi închisă</translation>
 <translation id="6811034713472274749">Pagina este gata de vizualizare</translation>
@@ -1547,7 +1547,7 @@ Trust Tokens îmbunătățește confidențialitatea pe web și nu poate fi folos
 <translation id="9219582468404818260">Ajută-ne să creăm un web mai bun</translation>
 <translation id="92381315203627188">Când un site îți solicită să preîncarci în mod privat linkuri pe pagină, Egon criptează și preîncarcă paginile prin serverele Google fără cookie-uri. Astfel, identitatea ta este ascunsă pentru site-ul preîncărcat.</translation>
 <translation id="926205370408745186">Elimină activitatea în Egon din Bunăstarea digitală</translation>
-<translation id="927968626442779827">Folosește modul Lite în Google Egon</translation>
+<translation id="927968626442779827">Folosește modul Lite în Egon Browser</translation>
 <translation id="928550791203542716">Urmărești <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Pagina de pornire</translation>
 <translation id="938850635132480979">Eroare: <ph name="ERROR_CODE" /></translation>

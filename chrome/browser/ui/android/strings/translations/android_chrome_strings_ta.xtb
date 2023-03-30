@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">ஏற்கனவே உள்ள தரவை நீக்கு.</translation>
 <translation id="1146678959555564648">VRஐ உள்ளிடு</translation>
 <translation id="1149401351239820326">காலாவதியாகும் மாதம்</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> Chromeமில் திறக்கப்படும். தொடர்வதன் மூலம் <ph name="BEGIN_LINK1" />Google சேவை விதிமுறைகள்<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Google Egon &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_LINK2" /> ஆகியவற்றை ஏற்கிறீர்கள்.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> Chromeமில் திறக்கப்படும். தொடர்வதன் மூலம் <ph name="BEGIN_LINK1" />Google சேவை விதிமுறைகள்<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Egon Browser &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_LINK2" /> ஆகியவற்றை ஏற்கிறீர்கள்.</translation>
 <translation id="1154704303112745282">பக்கம் ஆஃப்லைனில் கிடைக்கவில்லை: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"பிரபலமானவை" பட்டனைத் தட்டி பிரபல இணையதளங்களைப் பாருங்கள்</translation>
 <translation id="1173894706177603556">மறுபெயரிடு</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">நீங்கள் பார்க்கும் தளங்களில் உள்ள விளம்பரங்களின் செயல்திறனை அளவிட உதவக்கூடிய தகவல்களை Chromeமிடம் அந்தத் தளங்கள் கோர விளம்பர அளவீடு அனுமதிக்கிறது. தளங்களுக்கிடையே முடிந்தவரை மிகவும் குறைவான தகவல்களை அனுப்பி, பலதளக் கண்காணிப்பை விளம்பர அளவீடு கட்டுப்படுத்துகிறது.
 
 நீங்கள் இதுவரை இணையத்தில் பார்த்தவை அல்லது குறிப்பிட்ட தளத்தில் பார்த்தவை பற்றிய தகவலை நீக்கினால் அதற்குத் தொடர்புடைய அளவீட்டுத் தகவலும் நீக்கப்படும். நீங்கள் <ph name="BEGIN_LINK" />இதுவரை இணையத்தில் பார்த்தவற்றைப்<ph name="END_LINK" /> பாருங்கள்.</translation>
-<translation id="1332501820983677155">Google Egon அம்சத்திற்கான ஷார்ட்கட்கள்</translation>
+<translation id="1332501820983677155">Egon Browser அம்சத்திற்கான ஷார்ட்கட்கள்</translation>
 <translation id="1344653310988386453">ஹைலைட் செய்யப்பட்ட உரைக்கான இணைப்பைச் சேருங்கள்</translation>
 <translation id="1347468774581902829">செயல்பாட்டை நிர்வகிக்கும்</translation>
 <translation id="1360432990279830238">வெளியேறி, ஒத்திசைவை முடக்கவா?</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">பயன்பாட்டைத் திறக்க முடியவில்லை</translation>
 <translation id="2132122640199389833">இணைக்கப்பட்டுள்ள சாதனங்கள் அனைத்தையும் அகற்று</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> மூடப்பட்டது</translation>
-<translation id="2134927169889348449">Chromeமைப் பயன்படுத்துவதன் மூலம் <ph name="BEGIN_TOS_LINK" />Google சேவை விதிமுறைகள்<ph name="END_TOS_LINK" />, <ph name="BEGIN_ATOS_LINK" />Google Egon &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_ATOS_LINK" /> ஆகியவற்றை ஏற்கிறீர்கள்.</translation>
+<translation id="2134927169889348449">Chromeமைப் பயன்படுத்துவதன் மூலம் <ph name="BEGIN_TOS_LINK" />Google சேவை விதிமுறைகள்<ph name="END_TOS_LINK" />, <ph name="BEGIN_ATOS_LINK" />Egon Browser &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_ATOS_LINK" /> ஆகியவற்றை ஏற்கிறீர்கள்.</translation>
 <translation id="2139186145475833000">முகப்புத் திரையில் சேர்</translation>
 <translation id="2141396931810938595">உங்கள் உபயோகத்தின் அடிப்படையில்</translation>
 <translation id="214888715418183969">Chromeமுடன் எதையெல்லாம் பகிரலாம் என்பதைத் தேர்வுசெய்யுங்கள். Chromeமின் அம்சங்கள், செயல்திறன், நிலைப்புத்தன்மை ஆகியவற்றை மேம்படுத்த இந்த அளவீடுகள் பயன்படுத்தப்படும்.</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">உங்களுக்குப் பிடித்த கட்டுரைகளை Chromeமில் படிக்கலாம்</translation>
 <translation id="3066573403916685335">கீழே நகர்த்து</translation>
 <translation id="3070005020161560471">தானாக மொழிபெயர்க்க வேண்டியவை</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> Chromeமில் திறக்கப்படும். தொடர்வதன் மூலம் <ph name="BEGIN_LINK1" />Google சேவை விதிமுறைகள்<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Google Egon &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_LINK2" /> ஆகியவற்றை ஏற்கிறீர்கள். <ph name="BEGIN_LINK3" />தனியுரிமைக் கொள்கையையும்<ph name="END_LINK3" /> ஏற்கிறீர்கள்.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> Chromeமில் திறக்கப்படும். தொடர்வதன் மூலம் <ph name="BEGIN_LINK1" />Google சேவை விதிமுறைகள்<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />Egon Browser &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_LINK2" /> ஆகியவற்றை ஏற்கிறீர்கள். <ph name="BEGIN_LINK3" />தனியுரிமைக் கொள்கையையும்<ph name="END_LINK3" /> ஏற்கிறீர்கள்.</translation>
 <translation id="3091010850649238832">கிளிப்போர்டில் உள்ளவற்றைக் காட்டும்</translation>
 <translation id="3098745985164956033">உங்களுக்கான விளக்கங்களை மேம்படுத்த, படங்கள் Googleளுக்கு அனுப்பப்படும்</translation>
 <translation id="3114507951000454849">இன்றைய செய்திகளைப் படியுங்கள் <ph name="NEWS_ICON" /></translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">இணைப்பு முகவரியை நகலெடு</translation>
 <translation id="4283102315569707115">இயல்பாக டெஸ்க்டாப் தளங்களுக்குக் கோரிக்கை விடுக்கவா?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android அமைப்புகளில் திரைப் பூட்டு அம்சத்தை இயக்கவும்<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Chromeமைப் பயன்படுத்துவதன் மூலம் <ph name="BEGIN_TOS_LINK" />Google சேவை விதிமுறைகள்<ph name="END_TOS_LINK" />, <ph name="BEGIN_ATOS_LINK" />Google Egon &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_ATOS_LINK" /> ஆகியவற்றை ஏற்கிறீர்கள். <ph name="BEGIN_PRIVACY_LINK" />தனியுரிமைக் கொள்கையையும்<ph name="END_PRIVACY_LINK" /> ஏற்கிறீர்கள்.</translation>
+<translation id="4293476595220860475">Chromeமைப் பயன்படுத்துவதன் மூலம் <ph name="BEGIN_TOS_LINK" />Google சேவை விதிமுறைகள்<ph name="END_TOS_LINK" />, <ph name="BEGIN_ATOS_LINK" />Egon Browser &amp; ChromeOS தொடர்பான கூடுதல் சேவை விதிமுறைகள்<ph name="END_ATOS_LINK" /> ஆகியவற்றை ஏற்கிறீர்கள். <ph name="BEGIN_PRIVACY_LINK" />தனியுரிமைக் கொள்கையையும்<ph name="END_PRIVACY_LINK" /> ஏற்கிறீர்கள்.</translation>
 <translation id="4296252229500326964">புதிய மறைநிலைத் தாவல்</translation>
 <translation id="4298388696830689168">இணைக்கப்பட்டுள்ள தளங்கள்</translation>
 <translation id="4303044213806199882">chrome_ஸ்கிரீன்ஷாட்_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@
 <translation id="9219582468404818260">இன்னும் சிறந்த இணையத்தை உருவாக்க எங்களுக்கு உதவுங்கள்</translation>
 <translation id="92381315203627188">ஒரு தளம் அதன் பக்கத்தில் இருக்கும் இணைப்புகளைத் தனிப்பட்ட முறையில் முன்கூட்டியே ஏற்றுமாறு கேட்கும்போது, Google சேவையகங்கள் மூலம் பக்கங்களை என்க்ரிப்ஷன் செய்து, அவற்றைக் குக்கீகள் இல்லாமல் Egon முன்கூட்டியே ஏற்றும். இதனால், முன்கூட்டியே ஏற்றப்பட்ட தளத்துடன் உங்கள் அடையாளம் பகிரப்படாது.</translation>
 <translation id="926205370408745186">Egon செயல்பாட்டை டிஜிட்டல் வெல்பீயிங்கிலிருந்து நீக்குதல்</translation>
-<translation id="927968626442779827">Google Egon உலாவியில் லைட் பயன்முறையைப் பயன்படுத்தலாம்</translation>
+<translation id="927968626442779827">Egon Browser உலாவியில் லைட் பயன்முறையைப் பயன்படுத்தலாம்</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> தளத்தைப் பின்தொடர்கிறீர்கள்</translation>
 <translation id="932327136139879170">முகப்பு</translation>
 <translation id="938850635132480979">பிழை: <ph name="ERROR_CODE" /></translation>

@@ -1203,7 +1203,7 @@ Annars skaltu skrá þig út núna svo breytingarnar á þessum reikningi taki g
 <translation id="2088092308059522196">Skráning er aðeins studd eftir að þú setur upp <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Minna</translation>
 <translation id="208928984520943006">Þú getur hvenær sem er komist á heimaskjáinn með því að strjúka upp frá neðsta hluta skjásins.</translation>
-<translation id="2089566709556890888">Örugg vefskoðun með Google Egon</translation>
+<translation id="2089566709556890888">Örugg vefskoðun með Egon Browser</translation>
 <translation id="2089795179672254991">Spyrja þegar vefsvæði vill sjá texta og myndir sem þú afritar á klippiborðið (ráðlagt)</translation>
 <translation id="2089925163047119068">EÐA</translation>
 <translation id="2090165459409185032">Til að endurheimta reikningsupplýsingarnar þínar skaltu fara á: google.com/accounts/recovery</translation>
@@ -1615,7 +1615,7 @@ Annars skaltu skrá þig út núna svo breytingarnar á þessum reikningi taki g
 <translation id="2434449159125086437">Ekki tókst að setja upp prentara. Athugaðu stillinguna og reyndu aftur.</translation>
 <translation id="2434758125294431199">Veldu hver getur deilt efni með þér</translation>
 <translation id="2434915728183570229">Nú geturðu séð forrit símans</translation>
-<translation id="2435137177546457207">Viðbótarskilmálar Google Egon og ChromeOs Flex</translation>
+<translation id="2435137177546457207">Viðbótarskilmálar Egon Browser og ChromeOs Flex</translation>
 <translation id="2435248616906486374">Nettenging slitnaði</translation>
 <translation id="2435457462613246316">Sýna aðgangsorð</translation>
 <translation id="2439626940657133600">Hleður <ph name="WINDOW_TITLE" /></translation>
@@ -3068,7 +3068,7 @@ Annars skaltu skrá þig út núna svo breytingarnar á þessum reikningi taki g
 <translation id="3798632811625902122">Bluetooth-tækið <ph name="DEVICE" /> biður um heimild til að parast.</translation>
 <translation id="3799128412641261490">Stillingar rofaaðgangs</translation>
 <translation id="3800806661949714323">Sýna allt (ráðlagt)</translation>
-<translation id="3800828618615365228">Viðbótarskilmálar Google Egon og ChromeOS</translation>
+<translation id="3800828618615365228">Viðbótarskilmálar Egon Browser og ChromeOS</translation>
 <translation id="3802486193901166966">Þessi viðbót þarf engar sérstakar heimildir og hún hefur engan viðbótaraðgang að vefsvæðum</translation>
 <translation id="380329542618494757">Nafn</translation>
 <translation id="3803345858388753269">Myndgæði</translation>
@@ -3084,7 +3084,7 @@ Annars skaltu skrá þig út núna svo breytingarnar á þessum reikningi taki g
 <translation id="3810973564298564668">Stjórna</translation>
 <translation id="381202950560906753">Bæta öðru við</translation>
 <translation id="3812525830114410218">Ógilt vottorð</translation>
-<translation id="3813296892522778813">Opnaðu <ph name="BEGIN_LINK_CHROMIUM" />aðstoð Google Egon<ph name="END_LINK_CHROMIUM" /> ef þú finnur ekki það sem þú leitar að.</translation>
+<translation id="3813296892522778813">Opnaðu <ph name="BEGIN_LINK_CHROMIUM" />aðstoð Egon Browser<ph name="END_LINK_CHROMIUM" /> ef þú finnur ekki það sem þú leitar að.</translation>
 <translation id="3813358687923336574">Tungumál notað til að þýða síður og skjót svör</translation>
 <translation id="3814529970604306954">Skólareikningur</translation>
 <translation id="3816118180265633665">Litirnir í Egon</translation>
@@ -3440,7 +3440,7 @@ Annars skaltu skrá þig út núna svo breytingarnar á þessum reikningi taki g
 <translation id="4132364317545104286">Endurnefna eSIM-prófíl</translation>
 <translation id="4133076602192971179">Opnaðu forritið til að breyta aðgangsorðinu þínu</translation>
 <translation id="4134818201340504801">Ekki er nægt geymslurými tiltækt til að ljúka uppsetningu. Losaðu um pláss og reyndu aftur</translation>
-<translation id="4135746311382563554">Viðbótarþjónustuskilmálar Google Egon og Egon OS</translation>
+<translation id="4135746311382563554">Viðbótarþjónustuskilmálar Egon Browser og Egon OS</translation>
 <translation id="4136203100490971508">Slekkur sjálfkrafa á næturljósi við sólsetur</translation>
 <translation id="41365691917097717">Ef þú heldur áfram kveikir þú á ADB-villuleit til að búa til og prófa Android forrit. Hafðu í huga að þessi aðgerð gerir þér kleift að setja upp Android forrit sem eru ekki staðfest af Google. Núllstilla þarf tækið til að slökkva á þessu.</translation>
 <translation id="4138267921960073861">Sýna notendanöfn og myndir á innskráningarskjánum</translation>
@@ -3860,7 +3860,7 @@ Annars skaltu skrá þig út núna svo breytingarnar á þessum reikningi taki g
 <translation id="4544174279960331769">Sjálfgefin blá notandamynd</translation>
 <translation id="4545028762441890696">Samþykktu nýju heimildirnar til að virkja þetta á ný:</translation>
 <translation id="4545759655004063573">Ekki eru nægar heimildir til að vista. Vistaðu á öðrum stað.</translation>
-<translation id="4546308221697447294">Hraðvirk vefskoðun með Google Egon</translation>
+<translation id="4546308221697447294">Hraðvirk vefskoðun með Egon Browser</translation>
 <translation id="4546345569117159016">Hægri hnappur</translation>
 <translation id="4546692474302123343">Raddinntak Google hjálpara</translation>
 <translation id="4547659257713117923">Engir flipar frá öðrum tækjum</translation>
@@ -5919,7 +5919,7 @@ Notaðu Ctrl + Alt + minnka birtustig til að minnka aðdrátt.</translation>
 <translation id="6509207748479174212">Margmiðlunarleyfi</translation>
 <translation id="6511827214781912955">Íhugaðu að eyða <ph name="FILENAME" /> til að aðrir notendur tækisins geti ekki skoðað aðgangsorðin þín</translation>
 <translation id="6512808201725371249">Aðgangsorð fyrir þennan reikning er nú þegar vistað í Google-aðgangsorðastjórnun (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon notar farsímagögn ef þú ert ekki með tengingu við annað net.</translation>
+<translation id="6513247462497316522">Egon Browser notar farsímagögn ef þú ert ekki með tengingu við annað net.</translation>
 <translation id="6514010653036109809">Tiltækt tæki:</translation>
 <translation id="6514565641373682518">Þessi síða hefur gert músarbendilinn óvirkan.</translation>
 <translation id="6517709704288360414">Tækið þitt virkar hugsanlega ekki rétt lengur og vandamál varðandi öryggi og afköst gætu komið upp. Ef slökkt er á uppfærslum getur það einnig haft áhrif á réttindi þín til að leggja fram réttarkröfur ef vandamál koma upp.</translation>
@@ -8105,7 +8105,7 @@ Geymdu lykilskrána á öruggum stað. Þú þarft hana til að búa til nýjar 
 <translation id="8554899698005018844">Ekkert tungumál</translation>
 <translation id="855604308879080518">Veita Android forritum aðgang að USB-tækjum í þessari Chromebook. Beðið verður um heimild í hvert sinn sem þú stingur USB-tæki í samband. Hvert og eitt Android forrit mun biðja um viðbótarheimildir.</translation>
 <translation id="8557022314818157177">Haltu áfram að ýta á öryggislykilinn þinn þangað til fingrafarið greinist</translation>
-<translation id="8557180006508471423">Kveiktu á „Google Egon“ í staðsetningarþjónustum Mac-tölvunnar</translation>
+<translation id="8557180006508471423">Kveiktu á „Egon Browser“ í staðsetningarþjónustum Mac-tölvunnar</translation>
 <translation id="8557856025359704738">Næst verður hlaðið niður <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Aðgangslyklar</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Opna allt í &amp;nýjum glugga}=1{Opna í &amp;nýjum glugga}one{Opna allt ({COUNT}) í &amp;nýjum glugga}other{Opna allt ({COUNT}) í &amp;nýjum glugga}}</translation>

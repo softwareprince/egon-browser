@@ -1198,7 +1198,7 @@ Unaweza kudhibiti mipangilio ya akaunti hii kwa kusakinisha programu ya Family L
 <translation id="2088092308059522196">Kipengele cha kuandikisha kinaweza tu kutumiwa baada ya kusakinisha <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Chache</translation>
 <translation id="208928984520943006">Ili ufungue Skrini ya kwanza wakati wowote, telezesha kidole juu kutoka chini.</translation>
-<translation id="2089566709556890888">Vinjari kwa usalama kwa kutumia Google Egon</translation>
+<translation id="2089566709556890888">Vinjari kwa usalama kwa kutumia Egon Browser</translation>
 <translation id="2089795179672254991">Iulize wakati tovuti ingependa kuona maandishi na picha zilizonakiliwa kwenye ubao wa kunakili (inapendekezwa)</translation>
 <translation id="2089925163047119068">AU</translation>
 <translation id="2090165459409185032">Ili kurejesha maelezo ya akaunti yako, nenda kwenye: google.com/accounts/recovery</translation>
@@ -1611,7 +1611,7 @@ Unaweza kudhibiti mipangilio ya akaunti hii kwa kusakinisha programu ya Family L
 <translation id="2434449159125086437">Imeshindwa kuweka mipangilio ya printa. Tafadhali angalia mipangilio kisha ujaribu tena.</translation>
 <translation id="2434758125294431199">Chagua wanaoweza kushiriki nawe</translation>
 <translation id="2434915728183570229">Sasa unaweza kuangalia programu za simu yako</translation>
-<translation id="2435137177546457207">Sheria na Masharti ya Ziada ya Google Egon na ChromeOS Flex</translation>
+<translation id="2435137177546457207">Sheria na Masharti ya Ziada ya Egon Browser na ChromeOS Flex</translation>
 <translation id="2435248616906486374">Mtandao Umekatizwa</translation>
 <translation id="2435457462613246316">Onyesha nenosiri</translation>
 <translation id="2439626940657133600">Inapakia <ph name="WINDOW_TITLE" /></translation>
@@ -3064,7 +3064,7 @@ Unaweza kudhibiti mipangilio ya akaunti hii kwa kusakinisha programu ya Family L
 <translation id="3798632811625902122">Kifaa chenye Bluetooth <ph name="DEVICE" /> kinaomba idhini ya kuoanisha.</translation>
 <translation id="3799128412641261490">Mipangilio ya kufikia kupitia swichi</translation>
 <translation id="3800806661949714323">Onyeza zote (inapendekezwa)</translation>
-<translation id="3800828618615365228">Sheria na Masharti ya Ziada ya Google Egon na Mfumo wa Uendeshaji wa Egon</translation>
+<translation id="3800828618615365228">Sheria na Masharti ya Ziada ya Egon Browser na Mfumo wa Uendeshaji wa Egon</translation>
 <translation id="3802486193901166966">Kiendelezi hiki hakihitaji ruhusa maalum na hakina idhini ya ziada ya kufikia tovuti</translation>
 <translation id="380329542618494757">Jina</translation>
 <translation id="3803345858388753269">Ubora wa Video</translation>
@@ -3080,7 +3080,7 @@ Unaweza kudhibiti mipangilio ya akaunti hii kwa kusakinisha programu ya Family L
 <translation id="3810973564298564668">Dhibiti</translation>
 <translation id="381202950560906753">Ongeza kingine</translation>
 <translation id="3812525830114410218">Cheti kina tatizo</translation>
-<translation id="3813296892522778813">Nenda kwenye <ph name="BEGIN_LINK_CHROMIUM" />Usaidizi wa Google Egon<ph name="END_LINK_CHROMIUM" /> ikiwa hupati unachotafuta</translation>
+<translation id="3813296892522778813">Nenda kwenye <ph name="BEGIN_LINK_CHROMIUM" />Usaidizi wa Egon Browser<ph name="END_LINK_CHROMIUM" /> ikiwa hupati unachotafuta</translation>
 <translation id="3813358687923336574">Lugha inayotumiwa kutafsiri kurasa na kwenye Majibu ya haraka</translation>
 <translation id="3814529970604306954">Akaunti ya Shuleni</translation>
 <translation id="3816118180265633665">Rangi za Egon</translation>
@@ -3434,7 +3434,7 @@ Ungependa kuanza <ph name="CONTROL_PANEL_APPLET_NAME" />?</translation>
 <translation id="4132364317545104286">Badilisha jina la wasifu wa eSIM</translation>
 <translation id="4133076602192971179">Fungua programu ili ubadilishe nenosiri lako</translation>
 <translation id="4134818201340504801">Hakuna nafasi ya hifadhi ya kutosha ili kukamilisha kuweka mipangilio. Tafadhali futa ili uongeze nafasi ya hifadhi na ujaribu tena</translation>
-<translation id="4135746311382563554">Sheria na masharti ya ziada ya Google Egon na mfumo wa uendeshaji wa Egon</translation>
+<translation id="4135746311382563554">Sheria na masharti ya ziada ya Egon Browser na mfumo wa uendeshaji wa Egon</translation>
 <translation id="4136203100490971508">Kipengele cha Mwanga wa Usiku kitazimwa kiotomatiki wakati wa macheo</translation>
 <translation id="41365691917097717">Hatua ya kuendelea itawasha utatuzi wa ADB wa kusanidi na kujaribu programu za Android. Kumbuka kwamba hatua hii inaruhusu usakinishaji wa programu za Android ambazo hazijathibitishwa na Google na zinahitaji urejeshe mipangilio ambayo kifaa ilitoka nayo kiwandani ili kuzima.</translation>
 <translation id="4138267921960073861">Onyesha majina ya watumiaji na picha kwenye skrini ya kuingia</translation>
@@ -3854,7 +3854,7 @@ Ungependa kuanza <ph name="CONTROL_PANEL_APPLET_NAME" />?</translation>
 <translation id="4544174279960331769">Ishara chaguomsingi ya samawati</translation>
 <translation id="4545028762441890696">Ili ukiwashe upya, kubali ruhusa mpya:</translation>
 <translation id="4545759655004063573">Haiwezi kuhifadhi kwa sababu ya idhini isiyotosha. Tafadhali hifadhi katika eneo jingine.</translation>
-<translation id="4546308221697447294">Vinjari kwa kasi kwa kutumia Google Egon</translation>
+<translation id="4546308221697447294">Vinjari kwa kasi kwa kutumia Egon Browser</translation>
 <translation id="4546345569117159016">Kitufe cha kulia</translation>
 <translation id="4546692474302123343">Kuweka data kwa kutamka ukitumia programu ya Mratibu wa Google</translation>
 <translation id="4547659257713117923">Hakuna Vichupo Kutoka Kwenye Vifaa Vingine</translation>
@@ -5913,7 +5913,7 @@ Unaweza kukabidhi kitendo hiki swichi nyingi.</translation>
 <translation id="6509207748479174212">Leseni ya maudhui</translation>
 <translation id="6511827214781912955">Hakikisha unafuta <ph name="FILENAME" />, ili watu wengine wanaotumia kifaa hiki wasione manenosiri yako</translation>
 <translation id="6512808201725371249">Nenosiri la akaunti hii limeshahifadhiwa kwenye Kidhibiti chako cha Manenosiri cha Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon itatumia data ya simu ya mkononi ukiwa hujaunganishwa kwenye mtandao mwingine.</translation>
+<translation id="6513247462497316522">Egon Browser itatumia data ya simu ya mkononi ukiwa hujaunganishwa kwenye mtandao mwingine.</translation>
 <translation id="6514010653036109809">Kifaa kinachopatikana:</translation>
 <translation id="6514565641373682518">Ukurasa huu umekilemza kiteuzi chako cha kipanya.</translation>
 <translation id="6517709704288360414">Huenda kifaa chako kisifanye kazi ipasavyo na unaweza kukumbwa na hitilafu za kiusalama na kiutendaji. Kuzima masasisho kunaweza kuathiri haki yako ya kufanya madai ya kisheria iwapo utagundua hitilafu zozote.</translation>
@@ -8099,7 +8099,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="8554899698005018844">Hakuna lugha</translation>
 <translation id="855604308879080518">Ruhusu programu za Android zifikie vifaa vya USB kwenye Chromebook hii. Utaombwa ruhusa kila wakati unapochomeka kifaa cha USB. Programu mahususi za Android zitaomba ruhusa za ziada.</translation>
 <translation id="8557022314818157177">Endelea kugusa ufunguo wako wa usalama hadi alama yako ya kidole inaswe</translation>
-<translation id="8557180006508471423">Washa "Google Egon" katika Huduma za Mahali kwenye Mac yako</translation>
+<translation id="8557180006508471423">Washa "Egon Browser" katika Huduma za Mahali kwenye Mac yako</translation>
 <translation id="8557856025359704738">Upakuaji unaofuata utafanyika <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Manenosiri</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Fungua Zote katika &amp;Dirisha Jipya}=1{Fungua katika &amp;Dirisha Jipya}other{Fungua Zote ({COUNT}) katika &amp;Dirisha Jipya}}</translation>

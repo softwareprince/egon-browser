@@ -1190,7 +1190,7 @@ Je kunt de instellingen van dit account beheren door de Family Link-app op je ap
 <translation id="2088092308059522196">Inschrijving wordt alleen ondersteund nadat je <ph name="DEVICE_OS" /> hebt geïnstalleerd.</translation>
 <translation id="2089090684895656482">Minder</translation>
 <translation id="208928984520943006">Je kunt het startscherm op elk moment openen door vanaf de onderkant omhoog te swipen.</translation>
-<translation id="2089566709556890888">Beveiligd browsen met Google Egon</translation>
+<translation id="2089566709556890888">Beveiligd browsen met Egon Browser</translation>
 <translation id="2089795179672254991">Vragen wanneer een site de tekst en afbeeldingen wil bekijken die naar het klembord zijn gekopieerd (aanbevolen)</translation>
 <translation id="2089925163047119068">OF</translation>
 <translation id="2090165459409185032">Als je je accountgegevens wilt herstellen, ga je naar: google.com/accounts/recovery</translation>
@@ -1565,7 +1565,7 @@ Als je later besluit dat je niet wilt dat je kind Voice Match gebruikt, verwijde
 <translation id="2391419135980381625">Standaard lettertype</translation>
 <translation id="2392369802118427583">Activeren</translation>
 <translation id="2393136602862631930"><ph name="APP_NAME" /> instellen op je Chromebook</translation>
-<translation id="2393313392064891208">Content van Voorwaarden van Google Egon OS Flex</translation>
+<translation id="2393313392064891208">Content van Voorwaarden van Egon Browser OS Flex</translation>
 <translation id="2395616325548404795">Je <ph name="DEVICE_TYPE" /> is aangemeld voor bedrijfsbeheer, maar kan de item- en locatiegegevens niet verzenden. Voer deze gegevens handmatig in via je Beheerdersconsole voor dit apparaat.</translation>
 <translation id="2396783860772170191">Voer een viercijferige pincode in (0000-9999)</translation>
 <translation id="2398546389094871088">Als je de Powerwash-functie op je apparaat gebruikt, worden je e-simkaartprofielen niet verwijderd. Ga naar <ph name="LINK_BEGIN" />Mobiele instellingen<ph name="LINK_END" /> om deze profielen handmatig te verwijderen.</translation>
@@ -1599,7 +1599,7 @@ Als je later besluit dat je niet wilt dat je kind Voice Match gebruikt, verwijde
 <translation id="2434449159125086437">Kan de printer niet instellen. Controleer de configuratie en probeer het opnieuw.</translation>
 <translation id="2434758125294431199">Selecteer wie content met jou kan delen</translation>
 <translation id="2434915728183570229">Je kunt nu de apps van je telefoon bekijken</translation>
-<translation id="2435137177546457207">Aanvullende voorwaarden van Google Egon en Egon OS Flex</translation>
+<translation id="2435137177546457207">Aanvullende voorwaarden van Egon Browser en Egon OS Flex</translation>
 <translation id="2435248616906486374">Geen verbinding met netwerk</translation>
 <translation id="2435457462613246316">Wachtwoord bekijken</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> laden</translation>
@@ -3052,7 +3052,7 @@ Als je later besluit dat je niet wilt dat je kind Voice Match gebruikt, verwijde
 <translation id="3798632811625902122">Bluetooth-apparaat <ph name="DEVICE" /> wil rechten om te koppelen.</translation>
 <translation id="3799128412641261490">Instellingen voor 'Toegang via schakelaar'</translation>
 <translation id="3800806661949714323">Alles bekijken (aanbevolen)</translation>
-<translation id="3800828618615365228">Aanvullende voorwaarden van Google Egon en Egon OS</translation>
+<translation id="3800828618615365228">Aanvullende voorwaarden van Egon Browser en Egon OS</translation>
 <translation id="3802486193901166966">Deze extensie vereist geen speciale rechten en heeft geen aanvullende sitetoegang nodig</translation>
 <translation id="380329542618494757">Naam</translation>
 <translation id="3803345858388753269">Videokwaliteit</translation>
@@ -3068,7 +3068,7 @@ Als je later besluit dat je niet wilt dat je kind Voice Match gebruikt, verwijde
 <translation id="3810973564298564668">Beheren</translation>
 <translation id="381202950560906753">Nog een toevoegen</translation>
 <translation id="3812525830114410218">Verkeerd certificaat</translation>
-<translation id="3813296892522778813">Ga naar de <ph name="BEGIN_LINK_CHROMIUM" />Hulp van Google Egon<ph name="END_LINK_CHROMIUM" /> als je niet kunt vinden wat je zoekt</translation>
+<translation id="3813296892522778813">Ga naar de <ph name="BEGIN_LINK_CHROMIUM" />Hulp van Egon Browser<ph name="END_LINK_CHROMIUM" /> als je niet kunt vinden wat je zoekt</translation>
 <translation id="3813358687923336574">Gebruikte taal om pagina's te vertalen en voor snelle antwoorden</translation>
 <translation id="3814529970604306954">Schoolaccount</translation>
 <translation id="3816118180265633665">Kleuren van Egon</translation>
@@ -3423,7 +3423,7 @@ Je kunt instellingen beheren via het kaartmenu of meer opties bekijken in het ge
 <translation id="4132364317545104286">Naam van profiel voor e-simkaart wijzigen</translation>
 <translation id="4133076602192971179">Open de app om je wachtwoord te wijzigen</translation>
 <translation id="4134818201340504801">Er is onvoldoende opslagruimte beschikbaar om het instellen af te ronden. Maak opslagruimte vrij en probeer het opnieuw.</translation>
-<translation id="4135746311382563554">Aanvullende servicevoorwaarden van Google Egon en Egon OS</translation>
+<translation id="4135746311382563554">Aanvullende servicevoorwaarden van Egon Browser en Egon OS</translation>
 <translation id="4136203100490971508">Nachtverlichting wordt automatisch uitgezet bij zonsopkomst</translation>
 <translation id="41365691917097717">Als je doorgaat, wordt ADB-foutopsporing aangezet om Android-apps te maken en te testen. Let op: Met deze actie sta je toe dat Android-apps worden geïnstalleerd die niet door Google zijn geverifieerd. Als je deze functie wilt uitzetten, moeten de fabrieksinstellingen van je apparaat worden hersteld.</translation>
 <translation id="4138267921960073861">Gebruikersnamen en foto's in het inlogscherm bekijken</translation>
@@ -3842,7 +3842,7 @@ Je kunt instellingen beheren via het kaartmenu of meer opties bekijken in het ge
 <translation id="4544174279960331769">Standaard blauwe avatar</translation>
 <translation id="4545028762441890696">Accepteer de nieuwe rechten om de extensie weer aan te zetten:</translation>
 <translation id="4545759655004063573">Kan niet opslaan vanwege onvoldoende rechten. Sla op een andere locatie op.</translation>
-<translation id="4546308221697447294">Snel browsen met Google Egon</translation>
+<translation id="4546308221697447294">Snel browsen met Egon Browser</translation>
 <translation id="4546345569117159016">Rechterknop</translation>
 <translation id="4546692474302123343">Google Assistent-spraakinvoer</translation>
 <translation id="4547659257713117923">Geen tabbladen van andere apparaten</translation>
@@ -5703,7 +5703,7 @@ Je kunt instellingen beheren via het kaartmenu of meer opties bekijken in het ge
 <translation id="6313950457058510656">Instant-tethering uitzetten</translation>
 <translation id="6314819609899340042">Je hebt foutopsporingsfuncties aangezet voor dit <ph name="IDS_SHORT_PRODUCT_NAME" />-apparaat.</translation>
 <translation id="6315493146179903667">Alles op voorgrond</translation>
-<translation id="6316432269411143858">Content van Voorwaarden van Google Egon OS</translation>
+<translation id="6316432269411143858">Content van Voorwaarden van Egon Browser OS</translation>
 <translation id="6317369057005134371">Wachten op appvenster...</translation>
 <translation id="6318125393809743217">Een bestand policies.json opnemen bij beleidsconfiguraties.</translation>
 <translation id="6318407754858604988">Download gestart</translation>
@@ -5896,7 +5896,7 @@ Je kunt instellingen beheren via het kaartmenu of meer opties bekijken in het ge
 <translation id="6509207748479174212">Medialicentie</translation>
 <translation id="6511827214781912955">Overweeg <ph name="FILENAME" /> te verwijderen, zodat anderen die dit apparaat gebruiken je wachtwoorden niet kunnen zien.</translation>
 <translation id="6512808201725371249">Er is al een wachtwoord voor dit account opgeslagen in je Google Wachtwoordmanager (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon maakt gebruik van mobiele data als je geen verbinding hebt met een ander netwerk.</translation>
+<translation id="6513247462497316522">Egon Browser maakt gebruik van mobiele data als je geen verbinding hebt met een ander netwerk.</translation>
 <translation id="6514010653036109809">Beschikbaar apparaat:</translation>
 <translation id="6514565641373682518">Deze pagina heeft je muisaanwijzer uitgezet.</translation>
 <translation id="6517709704288360414">Je apparaat werkt misschien niet meer goed en je kunt beveiligings- en prestatieproblemen ondervinden. Als je updates uitzet, kan dit ook van invloed zijn op je recht op juridische eisen als je problemen ondervindt.</translation>
@@ -8078,7 +8078,7 @@ Bewaar je sleutelbestand op een veilige plaats. Je hebt het bestand nodig om nie
 <translation id="8554899698005018844">Geen taal</translation>
 <translation id="855604308879080518">Geef Android-apps toegang tot USB-apparaten op deze Chromebook. Telkens als je een USB-apparaat aansluit, wordt er toestemming gevraagd. Afzonderlijke Android-apps vragen om aanvullende rechten.</translation>
 <translation id="8557022314818157177">Blijf je beveiligingssleutel aanraken totdat je vingerafdruk is geregistreerd</translation>
-<translation id="8557180006508471423">Zet Google Egon aan in Locatievoorzieningen op je Mac</translation>
+<translation id="8557180006508471423">Zet Egon Browser aan in Locatievoorzieningen op je Mac</translation>
 <translation id="8557856025359704738">De volgende download is op <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Toegangscodes</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Alles openen in &amp;nieuw venster}=1{Openen in &amp;nieuw venster}other{Alles ({COUNT}) openen in &amp;nieuw venster}}</translation>

@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">လက်ရှိဒေတာများကို ဖျက်ပါ</translation>
 <translation id="1146678959555564648">VR သို့ ဝင်ပါ</translation>
 <translation id="1149401351239820326">သက်တမ်းကုန်ဆုံးမည့်လ</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> ကို Egon တွင် ဖွင့်ပါမည်။ ရှေ့ဆက်ခြင်းဖြင့် သင်သည် <ph name="BEGIN_LINK1" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK1" /> နှင့် <ph name="BEGIN_LINK2" />Google Egon နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK2" /> ကို သဘောတူရာရောက်သည်။</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> ကို Egon တွင် ဖွင့်ပါမည်။ ရှေ့ဆက်ခြင်းဖြင့် သင်သည် <ph name="BEGIN_LINK1" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK1" /> နှင့် <ph name="BEGIN_LINK2" />Egon Browser နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK2" /> ကို သဘောတူရာရောက်သည်။</translation>
 <translation id="1154704303112745282">အော့ဖ်လိုင်းတွင် စာမျက်နှာကိုမရနိုင်ပါ - <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"ထိပ်တန်း ဝဘ်ဆိုက်များ" ခလုတ်ကို တို့ခြင်းဖြင့် လူကြိုက်များသော ဝဘ်ဆိုက်များ ကြည့်ရန်</translation>
 <translation id="1173894706177603556">အမည်ပြောင်းရန်</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Ad measurement က သင်ဝင်ကြည့်သည့်ဝဘ်ဆိုက်များကို Egon ထံမှ အချက်အလက်တောင်းဆိုခွင့်ပြုပြီး ၎င်းက ဝဘ်ဆိုက်များ၏ ကြော်ငြာစွမ်းဆောင်ရည် တိုင်းတာရာတွင် ကူညီပေးသည်။ Ad measurement သည် ဝဘ်ဆိုက်တစ်ခုနှင့်တစ်ခု အချက်အလက်အနည်းဆုံး လွှဲပြောင်းခြင်းဖြင့် ဝဘ်ဆိုက်များကြားစောင့်ကြည့်ခြင်းကို ကန့်သတ်သည်။
 
 သက်ဆိုင်ရာဝဘ်ဆိုက် (သို့) အားလုံးအတွက် — သင်၏ကြည့်ရှုခြင်းမှတ်တမ်း ဖျက်လိုက်သောအခါ — ဆက်စပ်သော တိုင်းတာမှုအချက်အလက်ကိုပါ ဖျက်လိုက်မည်။ <ph name="BEGIN_LINK" />သင်၏ကြည့်ရှုခြင်းမှတ်တမ်း<ph name="END_LINK" /> ကြည့်ရန်။</translation>
-<translation id="1332501820983677155">Google Egon ဝန်ဆောင်မှု ဖြတ်လမ်းလင့်ခ်များ</translation>
+<translation id="1332501820983677155">Egon Browser ဝန်ဆောင်မှု ဖြတ်လမ်းလင့်ခ်များ</translation>
 <translation id="1344653310988386453">မြင်သာအောင်လုပ်ထားသော စာသားသို့ လင့်ခ်ကို ထည့်သွင်းပါ</translation>
 <translation id="1347468774581902829">လုပ်ဆောင်ချက်ကို စီမံခန့်ခွဲရန်</translation>
 <translation id="1360432990279830238">ထွက်ပြီး စင့်ခ်လုပ်ခြင်းကို ပိတ်လိုသလား။</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">အက်ပ်ကို ဖွင့်၍မရပါ</translation>
 <translation id="2132122640199389833">လင့်ခ်ချိတ်ထားသည့် စက်အားလုံး ဖယ်ရှားရန်</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> ပိတ်ထား၏</translation>
-<translation id="2134927169889348449">Egon အသုံးပြုခြင်းဖြင့် သင်သည် <ph name="BEGIN_TOS_LINK" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_TOS_LINK" /> နှင့် <ph name="BEGIN_ATOS_LINK" />Google Egon နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_ATOS_LINK" /> ကို သဘောတူရာရောက်သည်။</translation>
+<translation id="2134927169889348449">Egon အသုံးပြုခြင်းဖြင့် သင်သည် <ph name="BEGIN_TOS_LINK" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_TOS_LINK" /> နှင့် <ph name="BEGIN_ATOS_LINK" />Egon Browser နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_ATOS_LINK" /> ကို သဘောတူရာရောက်သည်။</translation>
 <translation id="2139186145475833000">ပင်မမျက်နှာပြင်သို့ ထည့်ရန်</translation>
 <translation id="2141396931810938595">သင့်အသုံးပြုမှုကို အခြေခံသည်</translation>
 <translation id="214888715418183969">Egon အားမျှဝေရန် အဆင်ပြေသောအရာများကို ရွေးပါ။ Egon ၏ ဝန်ဆောင်မှုများ၊ စွမ်းဆောင်ရည်နှင့် တည်ငြိမ်မှုတို့ ပိုကောင်းမွန်စေရန် သင်မျှဝေသောမက်ထရစ်ကို အသုံးပြုပါမည်။</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Egon ရှိ သင်စိတ်ဝင်စားသော ဆောင်းပါးများ</translation>
 <translation id="3066573403916685335">အောက်သို့ရွှေ့</translation>
 <translation id="3070005020161560471">အလိုအလျောက် ဘာသာပြန်ပါ</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> ကို Egon တွင် ဖွင့်ပါမည်။ ရှေ့ဆက်ခြင်းဖြင့် သင်သည် <ph name="BEGIN_LINK1" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK1" /> နှင့် <ph name="BEGIN_LINK2" />Google Egon နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK2" /> ကို သဘောတူရာရောက်သည်။ <ph name="BEGIN_LINK3" />ကိုယ်ရေးအချက်အလက်လုံခြုံမှုဆိုင်ရာ မူဝါဒ<ph name="END_LINK3" /> အတွက်လည်း အကျုံးဝင်သည်။</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> ကို Egon တွင် ဖွင့်ပါမည်။ ရှေ့ဆက်ခြင်းဖြင့် သင်သည် <ph name="BEGIN_LINK1" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK1" /> နှင့် <ph name="BEGIN_LINK2" />Egon Browser နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_LINK2" /> ကို သဘောတူရာရောက်သည်။ <ph name="BEGIN_LINK3" />ကိုယ်ရေးအချက်အလက်လုံခြုံမှုဆိုင်ရာ မူဝါဒ<ph name="END_LINK3" /> အတွက်လည်း အကျုံးဝင်သည်။</translation>
 <translation id="3091010850649238832">ကလစ်ဘုတ်အကြောင်းအရာများကို ပြရန်</translation>
 <translation id="3098745985164956033">သင့်အတွက် ရှင်းလင်းချက်များ ပိုကောင်းမွန်စေရန် ပုံအချို့ကို Google သို့ ပို့သည်</translation>
 <translation id="3114507951000454849">ယနေ့သတင်းများကို ဖတ်ရန် <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">သင့်စကားဝှက်ကိုမေ့သွားလျှင် သို့မဟုတ် ဤဆက်တင်ကိုပြောင်းလဲလိုလျှင်၊ <ph name="BEGIN_LINK" />စင့်ခ်ပြုလုပ်ခြင်းကို ပြန်လည်သတ်မှတ်ပါ<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">သင့်စကားဝှက်များကို စင့်ခ်လုပ်ရန် သင်ဖြစ်ကြောင်း အတည်ပြုပါ</translation>
 <translation id="3223522355830797639">သင့်ဘဏ်က သင်ဖြစ်ကြောင်း သေချာလိုပါသည်။</translation>
-<translation id="3227557059438308877">Google Egon ကို 'လုံခြုံရေးကီး' အဖြစ်</translation>
+<translation id="3227557059438308877">Egon Browser ကို 'လုံခြုံရေးကီး' အဖြစ်</translation>
 <translation id="3232754137068452469">ဝဘ် အက်ပ်</translation>
 <translation id="3234978181857588512">စက်တွင်သိမ်းရန်</translation>
 <translation id="3236059992281584593">၁ မိနစ် ကျန်သည်</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">လင့် လိပ်စာ ကူးယူရန်</translation>
 <translation id="4283102315569707115">ဒက်စ်တော့ဝဘ်ဆိုက်များကို မူရင်းသတ်မှတ်ချက်အနေဖြင့် တောင်းဆိုမလား။</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android ဆက်တင်များတွင် ဖန်သားပြင်လော့ခ်ဖွင့်ရန်<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Egon အသုံးပြုခြင်းဖြင့် သင်သည် <ph name="BEGIN_TOS_LINK" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_TOS_LINK" /> နှင့် <ph name="BEGIN_ATOS_LINK" />Google Egon နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_ATOS_LINK" /> ကို သဘောတူရာရောက်သည်။ <ph name="BEGIN_PRIVACY_LINK" />ကိုယ်ရေးအချက်အလက်လုံခြုံမှုဆိုင်ရာ မူဝါဒ<ph name="END_PRIVACY_LINK" /> အတွက်လည်း အကျုံးဝင်သည်။</translation>
+<translation id="4293476595220860475">Egon အသုံးပြုခြင်းဖြင့် သင်သည် <ph name="BEGIN_TOS_LINK" />Google ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_TOS_LINK" /> နှင့် <ph name="BEGIN_ATOS_LINK" />Egon Browser နှင့် ChromeOS ထပ်တိုး ဝန်ဆောင်မှုစည်းမျဉ်းများ<ph name="END_ATOS_LINK" /> ကို သဘောတူရာရောက်သည်။ <ph name="BEGIN_PRIVACY_LINK" />ကိုယ်ရေးအချက်အလက်လုံခြုံမှုဆိုင်ရာ မူဝါဒ<ph name="END_PRIVACY_LINK" /> အတွက်လည်း အကျုံးဝင်သည်။</translation>
 <translation id="4296252229500326964">ရုပ်ဖျက်တဘ် အသစ်</translation>
 <translation id="4298388696830689168">လင့်ခ်ချိတ်ထားသော ဝဘ်ဆိုက်များ</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1546,7 +1546,7 @@
 <translation id="9219582468404818260">ပိုကောင်းသည့် ဝဘ်တစ်ခုတည်ဆောက်ရန် ကူညီပါ</translation>
 <translation id="92381315203627188">ဝဘ်ဆိုက်က ၎င်းတို့၏ စာမျက်နှာတွင် လင့်ခ်များကို သီးသန့် ကြိုဖွင့်ရန် မေးပါက Egon သည် Google ဆာဗာများမှတစ်ဆင့် ကွတ်ကီးများ မပါဘဲ စာမျက်နှာများကို အသွင်ဝှက်ပြီး ကြိုဖွင့်ပေးပါသည်။ ၎င်းက ကြိုဖွင့်ထားသော ဝဘ်ဆိုက်မှ သင့်အထောက်အထားကို ဖျောက်ပေးသည်။</translation>
 <translation id="926205370408745186">'ဒစ်ဂျစ်တယ် အာရောဂျံ' မှနေ၍ သင်၏ Egon လုပ်ဆောင်ချက်ကို ဖယ်ရှားခြင်း</translation>
-<translation id="927968626442779827">Google Egon တွင် အပေါ့စားမုဒ် သုံးရန်</translation>
+<translation id="927968626442779827">Egon Browser တွင် အပေါ့စားမုဒ် သုံးရန်</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> ကို လိုက်ကြည့်နေသည်</translation>
 <translation id="932327136139879170">ပင်မ</translation>
 <translation id="938850635132480979">အမှား- <ph name="ERROR_CODE" /></translation>

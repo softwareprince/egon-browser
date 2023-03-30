@@ -1198,7 +1198,7 @@
 <translation id="2088092308059522196">Регистрирането се поддържа само след като инсталирате <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">По-малко</translation>
 <translation id="208928984520943006">Можете по всяко време да преминете към началния екран, като прекарате пръст нагоре от долната част на екрана.</translation>
-<translation id="2089566709556890888">Сърфирайте безопасно с Google Egon</translation>
+<translation id="2089566709556890888">Сърфирайте безопасно с Egon Browser</translation>
 <translation id="2089795179672254991">Извеждане на запитване, когато сайт иска да преглежда текста и изображенията, копирани в буферната памет (препоръчително)</translation>
 <translation id="2089925163047119068">ИЛИ</translation>
 <translation id="2090165459409185032">За да възстановите информацията за профила си, отворете google.bg/accounts/recovery</translation>
@@ -1610,7 +1610,7 @@ https://www.chromium.org/chromium-os/how-tos-and-troubleshooting/debugging-featu
 <translation id="2434449159125086437">Принтерът не може да бъде настроен. Моля, проверете конфигурацията и опитайте отново.</translation>
 <translation id="2434758125294431199">Изберете кой може да споделя с вас</translation>
 <translation id="2434915728183570229">Вече можете да преглеждате приложенията, които имате на телефона си</translation>
-<translation id="2435137177546457207">Допълнителни общи условия на Google Egon и ChromeOS Flex</translation>
+<translation id="2435137177546457207">Допълнителни общи условия на Egon Browser и ChromeOS Flex</translation>
 <translation id="2435248616906486374">Няма връзка с мрежата</translation>
 <translation id="2435457462613246316">Показване на паролата</translation>
 <translation id="2439626940657133600">Зарежда се <ph name="WINDOW_TITLE" /></translation>
@@ -3063,7 +3063,7 @@ https://www.chromium.org/chromium-os/how-tos-and-troubleshooting/debugging-featu
 <translation id="3798632811625902122">Устройството с Bluetooth „<ph name="DEVICE" />“ иска разрешение за сдвояване.</translation>
 <translation id="3799128412641261490">Настройки на достъпа с превключване</translation>
 <translation id="3800806661949714323">Показване на всички (препоръчително)</translation>
-<translation id="3800828618615365228">Допълнителни общи условия на Google Egon и Egon OS</translation>
+<translation id="3800828618615365228">Допълнителни общи условия на Egon Browser и Egon OS</translation>
 <translation id="3802486193901166966">Това разширение не изисква специални разрешения и няма допълнителен достъп до сайтовете</translation>
 <translation id="380329542618494757">Име</translation>
 <translation id="3803345858388753269">Качество на картината</translation>
@@ -3079,7 +3079,7 @@ https://www.chromium.org/chromium-os/how-tos-and-troubleshooting/debugging-featu
 <translation id="3810973564298564668">Управление</translation>
 <translation id="381202950560906753">Добавяне на друг</translation>
 <translation id="3812525830114410218">Невалиден сертификат</translation>
-<translation id="3813296892522778813">Прегледайте <ph name="BEGIN_LINK_CHROMIUM" />помощното съдържание за Google Egon<ph name="END_LINK_CHROMIUM" />, ако не можете да намерите търсеното</translation>
+<translation id="3813296892522778813">Прегледайте <ph name="BEGIN_LINK_CHROMIUM" />помощното съдържание за Egon Browser<ph name="END_LINK_CHROMIUM" />, ако не можете да намерите търсеното</translation>
 <translation id="3813358687923336574">Езикът за превеждане на страници и „Бързи отговори“</translation>
 <translation id="3814529970604306954">Училищен профил</translation>
 <translation id="3816118180265633665">Цветове на Egon</translation>
@@ -3436,7 +3436,7 @@ https://www.chromium.org/chromium-os/how-tos-and-troubleshooting/debugging-featu
 <translation id="4132364317545104286">Преименуване на потребителския профил на електронната SIM карта</translation>
 <translation id="4133076602192971179">Отворете приложението, за да промените паролата си</translation>
 <translation id="4134818201340504801">В хранилището няма достатъчно място за завършване на настройването. Освободете място и опитайте отново</translation>
-<translation id="4135746311382563554">Допълнителни общи условия на Google Egon и Egon OS</translation>
+<translation id="4135746311382563554">Допълнителни общи условия на Egon Browser и Egon OS</translation>
 <translation id="4136203100490971508">Нощното осветление ще се изключи автоматично по изгрев</translation>
 <translation id="41365691917097717">Ако продължите, отстраняването на грешки през ADB ще бъде активирано, за да създавате и тествате приложения за Android. Обърнете внимание, че това действие позволява инсталирането на приложения за Android, които не са удостоверени от Google. За деактивирането на ADB е необходимо да бъдат възстановени фабричните настройки.</translation>
 <translation id="4138267921960073861">Потребителските имена и снимките да се показват на екрана за вход</translation>
@@ -3856,7 +3856,7 @@ https://www.chromium.org/chromium-os/how-tos-and-troubleshooting/debugging-featu
 <translation id="4544174279960331769">Стандартен син аватар</translation>
 <translation id="4545028762441890696">За да го активирате, приемете новите разрешения:</translation>
 <translation id="4545759655004063573">Не може да се запази поради недостатъчни разрешения. Моля, запазете на друго място.</translation>
-<translation id="4546308221697447294">Сърфирайте бързо с Google Egon</translation>
+<translation id="4546308221697447294">Сърфирайте бързо с Egon Browser</translation>
 <translation id="4546345569117159016">Десен бутон</translation>
 <translation id="4546692474302123343">Гласово въвеждане с Google Асистент</translation>
 <translation id="4547659257713117923">Няма раздели от други устройства</translation>
@@ -5723,7 +5723,7 @@ https://www.chromium.org/chromium-os/how-tos-and-troubleshooting/debugging-featu
 <translation id="6313950457058510656">Изключване на функцията за незабавен тетъринг</translation>
 <translation id="6314819609899340042">Успешно активирахте функциите за отстраняване на грешки на това устройство <ph name="IDS_SHORT_PRODUCT_NAME" />.</translation>
 <translation id="6315493146179903667">Изнасяне на всичко на преден план</translation>
-<translation id="6316432269411143858">Съдържание на Общите условия на Google Egon OS</translation>
+<translation id="6316432269411143858">Съдържание на Общите условия на Egon Browser OS</translation>
 <translation id="6317369057005134371">Прозорецът на приложението се изчаква...</translation>
 <translation id="6318125393809743217">Запазване на файл policies.json с конфигурациите на правилата.</translation>
 <translation id="6318407754858604988">Изтеглянето започна</translation>
@@ -5916,7 +5916,7 @@ https://www.chromium.org/chromium-os/how-tos-and-troubleshooting/debugging-featu
 <translation id="6509207748479174212">Лиценз за мултимедия</translation>
 <translation id="6511827214781912955">Добре е да изтриете „<ph name="FILENAME" />“, така че другите хора, които използват това устройство, да не могат да видят паролите ви</translation>
 <translation id="6512808201725371249">В Google Мениджър на пароли (<ph name="USER_EMAIL" />) вече е запазена парола за този профил</translation>
-<translation id="6513247462497316522">Google Egon ще използва мобилни данни, ако не сте свързани с друга мрежа.</translation>
+<translation id="6513247462497316522">Egon Browser ще използва мобилни данни, ако не сте свързани с друга мрежа.</translation>
 <translation id="6514010653036109809">Налично устройство:</translation>
 <translation id="6514565641373682518">Тази страница е деактивирала курсора на мишката ви.</translation>
 <translation id="6517709704288360414">Възможно е устройството ви вече да не работи правилно и може да имате проблеми със сигурността и производителността. Изключването на актуализациите може също да засегне правото ви да предявявате правни искове, ако имате проблеми.</translation>
@@ -8101,7 +8101,7 @@ https://www.chromium.org/chromium-os/how-tos-and-troubleshooting/debugging-featu
 <translation id="8554899698005018844">Без език</translation>
 <translation id="855604308879080518">Разрешете на приложенията за Android да осъществяват достъп до USB устройствата на този Chromebook. Ще се изисква разрешение при всяко включване на USB устройство. Отделните приложения за Android ще искат допълнителни разрешения.</translation>
 <translation id="8557022314818157177">Продължете да докосвате ключа за сигурност, докато отпечатъкът ви бъде записан</translation>
-<translation id="8557180006508471423">Включете Google Egon в услугите за местоположение на своя Mac</translation>
+<translation id="8557180006508471423">Включете Egon Browser в услугите за местоположение на своя Mac</translation>
 <translation id="8557856025359704738">Следващото изтегляне е на <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Кодове за достъп</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Отваряне на всички в &amp;нов прозорец}=1{Отваряне в &amp;нов прозорец}other{Отваряне на всички ({COUNT}) в &amp;нов прозорец}}</translation>

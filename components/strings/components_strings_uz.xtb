@@ -262,7 +262,7 @@ Aks holda bu maxfiylik sozlamalaringiz tomonidan bloklanadi. Bunda siz ochgan sa
 <translation id="156703335097561114">Manzillar, interfeys konfiguratsiyasi hamda ulanish sifati kabi tarmoqga oid axborot</translation>
 <translation id="1567040042588613346">Bu parametr xatosiz ishlayapti, lekin boshqa qaysidir parametr qiymati bilan almashtirildi.</translation>
 <translation id="1569487616857761740">Amal qilish muddatini kiriting</translation>
-<translation id="1569694109004336106">Google Egon parollarni kiritishda Windows Hello himoyasini yoqishga urinmoqda.</translation>
+<translation id="1569694109004336106">Egon Browser parollarni kiritishda Windows Hello himoyasini yoqishga urinmoqda.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /></translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Veb-sahifani ochish vaqtida kutilmagan xatolik yuz berdi.</translation>
@@ -458,7 +458,7 @@ Aks holda bu maxfiylik sozlamalaringiz tomonidan bloklanadi. Bunda siz ochgan sa
 <translation id="2085876078937250610">Saqlash…</translation>
 <translation id="2088086323192747268">Sinxronizatsiyani boshqarish tugmasi, Egon sozlamalari orqali sinxronlanadigan maʼlumotlarni boshqarish uchun Enter tugmasini bosing</translation>
 <translation id="2091887806945687916">Tovush</translation>
-<translation id="2093982008204312032">Google Egon parollarni kiritishda Windows Hello himoyasini faolsizlantirishga urinmoqda.</translation>
+<translation id="2093982008204312032">Egon Browser parollarni kiritishda Windows Hello himoyasini faolsizlantirishga urinmoqda.</translation>
 <translation id="2094505752054353250">Domen noto‘g‘ri kiritildi</translation>
 <translation id="2099652385553570808">Chapdan 3 marta steplerlash</translation>
 <translation id="2101225219012730419">Versiya:</translation>
@@ -2578,7 +2578,7 @@ Batafsil axborot:
 <translation id="7564049878696755256"><ph name="ORG_NAME" /> hisobingiz xavf ostida va shaxsiy ma’lumotlaringizni kimdir ko‘rishi mumkin. Parolingizni hoziroq o‘zgartirishni tavsiya etamiz.</translation>
 <translation id="7564680668369175887">Ulama vagonlar</translation>
 <translation id="7567204685887185387">Bu <ph name="DOMAIN" /> serveri ekanligini tasdiqlab bo‘lmadi. Uning havfsizlik sertifikati ishonchli tuyulmayapti. Server noto‘g‘ri sozlangan yoki kimdir ma’lumotlaringizni o‘g‘rilashga urinayotgan bo‘lishi mumkin.</translation>
-<translation id="7568616151991626879">Google Egon parollarni kiritishda <ph name="APP_NAME" /> himoyasini yoqishga urinmoqda.</translation>
+<translation id="7568616151991626879">Egon Browser parollarni kiritishda <ph name="APP_NAME" /> himoyasini yoqishga urinmoqda.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Qidiruv tizimlarini boshqarish tugmasi, birlamchi qidiruv tizimi va qidiruv saytini boshqarish uchun Enter tugmasini bosing</translation>
 <translation id="7569952961197462199">Bu kredit karta Egon’dan o‘chirib tashlansinmi?</translation>

@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Měření reklam umožňuje navštíveným webům žádat Egon o informace, na základě kterých mohou měřit výkonnost svých reklam. Měření reklam zabraňuje sledování mezi weby, protože se při něm mezi weby přenáší co možná nejméně informací.
 
 Když smažete historii prohlížení (celou nebo na určitém webu), smažou se i související informace o měření. Viz <ph name="BEGIN_LINK" />historie prohlížení<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Zkratky funkcí prohlížeče Google Egon</translation>
+<translation id="1332501820983677155">Zkratky funkcí prohlížeče Egon Browser</translation>
 <translation id="1344653310988386453">Zahrnout odkaz na zvýraznění</translation>
 <translation id="1347468774581902829">Spravovat aktivitu</translation>
 <translation id="1360432990279830238">Odhlásit se a vypnout synchronizaci?</translation>
@@ -213,7 +213,7 @@ Když smažete historii prohlížení (celou nebo na určitém webu), smažou se
 <translation id="2122601567107267586">Aplikaci nelze otevřít</translation>
 <translation id="2132122640199389833">Odstranit všechna propojená zařízení</translation>
 <translation id="213279576345780926">Karta <ph name="TAB_TITLE" /> byla zavřena.</translation>
-<translation id="2134927169889348449">Používáním Chromu vyjadřujete souhlas se <ph name="BEGIN_TOS_LINK" />smluvními podmínkami společnosti Google<ph name="END_TOS_LINK" /> a <ph name="BEGIN_ATOS_LINK" />dodatečnými smluvními podmínkami prohlížeče Google Egon a systému ChromeOS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Používáním Chromu vyjadřujete souhlas se <ph name="BEGIN_TOS_LINK" />smluvními podmínkami společnosti Google<ph name="END_TOS_LINK" /> a <ph name="BEGIN_ATOS_LINK" />dodatečnými smluvními podmínkami prohlížeče Egon Browser a systému ChromeOS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Přidat na plochu</translation>
 <translation id="2141396931810938595">Podle vašeho používání</translation>
 <translation id="214888715418183969">Vyberte, co chcete sdílet s Chromem. Sdílené metriky budou použity k vylepšení funkcí, výkonu a stability Chromu.</translation>
@@ -411,7 +411,7 @@ Když smažete historii prohlížení (celou nebo na určitém webu), smažou se
 <translation id="321773570071367578">Pokud jste heslovou frázi zapomněli nebo toto nastavení chcete změnit, <ph name="BEGIN_LINK" />resetujte synchronizaci<ph name="END_LINK" />.</translation>
 <translation id="3220943972464248773">Pokud chcete synchronizovat hesla, ověřte svou totožnost</translation>
 <translation id="3223522355830797639">Banka chce potvrdit vaši totožnost.</translation>
-<translation id="3227557059438308877">Google Egon jako bezpečnostní klíč</translation>
+<translation id="3227557059438308877">Egon Browser jako bezpečnostní klíč</translation>
 <translation id="3232754137068452469">Webová aplikace</translation>
 <translation id="3234978181857588512">Uložit do zařízení</translation>
 <translation id="3236059992281584593">Zbývá: 1 min</translation>
@@ -596,7 +596,7 @@ Když smažete historii prohlížení (celou nebo na určitém webu), smažou se
 <translation id="4269820728363426813">Zkopírovat adresu odkazu</translation>
 <translation id="4283102315569707115">Požadovat ve výchozím nastavení weby pro počítače?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Zapněte v nastavení systému Android zámek obrazovky<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Používáním Chromu vyjadřujete souhlas se <ph name="BEGIN_TOS_LINK" />smluvními podmínkami společnosti Google<ph name="END_TOS_LINK" /> a <ph name="BEGIN_ATOS_LINK" />dodatečnými smluvními podmínkami prohlížeče Google Egon a systému ChromeOS<ph name="END_ATOS_LINK" />. Platí také <ph name="BEGIN_PRIVACY_LINK" />zásady ochrany soukromí<ph name="END_PRIVACY_LINK" />.</translation>
+<translation id="4293476595220860475">Používáním Chromu vyjadřujete souhlas se <ph name="BEGIN_TOS_LINK" />smluvními podmínkami společnosti Google<ph name="END_TOS_LINK" /> a <ph name="BEGIN_ATOS_LINK" />dodatečnými smluvními podmínkami prohlížeče Egon Browser a systému ChromeOS<ph name="END_ATOS_LINK" />. Platí také <ph name="BEGIN_PRIVACY_LINK" />zásady ochrany soukromí<ph name="END_PRIVACY_LINK" />.</translation>
 <translation id="4296252229500326964">Nová anonymní karta</translation>
 <translation id="4298388696830689168">Propojené weby</translation>
 <translation id="4303044213806199882">snimek_obrazovky_chrome_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1076,7 +1076,7 @@ Tokeny důvěry zvyšují ochranu soukromí na webu a nelze pomocí nich zjisti
 <translation id="6767294960381293877">Seznam zařízení, se kterými se má karta sdílet, otevřený na poloviční výšku.</translation>
 <translation id="6770042910635026163">Navštívené weby, které stanovují vaše zájmy</translation>
 <translation id="6770602306803890733">Zlepšuje bezpečnost pro vás i všechny ostatní uživatele internetu</translation>
-<translation id="6785476624617658922">Dodatečné smluvní podmínky prohlížeče Google Egon a systému ChromeOS</translation>
+<translation id="6785476624617658922">Dodatečné smluvní podmínky prohlížeče Egon Browser a systému ChromeOS</translation>
 <translation id="6795633245022906657">Rychle otevřít novou kartu. Tuto zkratku můžete upravit v Nastavení.</translation>
 <translation id="6802555630140434547">Okno se zavře</translation>
 <translation id="6811034713472274749">Stránka je připravená k zobrazení</translation>
@@ -1547,7 +1547,7 @@ Tokeny důvěry zvyšují ochranu soukromí na webu a nelze pomocí nich zjisti
 <translation id="9219582468404818260">Pomozte nám vytvořit lepší web</translation>
 <translation id="92381315203627188">Když web požádá o soukromé předběžné načtení odkazů na stránce, Egon stránky zašifruje a předběžně načte prostřednictvím serverů Google bez souborů cookie. To před předběžně načítaným webem skryje vaši identitu.</translation>
 <translation id="926205370408745186">Odstranit vaši aktivitu v Chromu z digitální rovnováhy</translation>
-<translation id="927968626442779827">Používejte v prohlížeči Google Egon zjednodušený režim</translation>
+<translation id="927968626442779827">Používejte v prohlížeči Egon Browser zjednodušený režim</translation>
 <translation id="928550791203542716">Sledujete <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Domovská stránka</translation>
 <translation id="938850635132480979">Chyba: <ph name="ERROR_CODE" /></translation>

@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Brisanje postojećih podataka.</translation>
 <translation id="1146678959555564648">Pokreni VR</translation>
 <translation id="1149401351239820326">Mjesec isteka</translation>
-<translation id="1150263420752757504">Aplikacija <ph name="APP_NAME" /> otvorit će se u Chromeu. Nastavljanjem prihvaćate <ph name="BEGIN_LINK1" />Googleove uvjete pružanja usluge<ph name="END_LINK1" /> i <ph name="BEGIN_LINK2" />dodatne uvjete pružanja usluge za Google Egon i Egon OS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504">Aplikacija <ph name="APP_NAME" /> otvorit će se u Chromeu. Nastavljanjem prihvaćate <ph name="BEGIN_LINK1" />Googleove uvjete pružanja usluge<ph name="END_LINK1" /> i <ph name="BEGIN_LINK2" />dodatne uvjete pružanja usluge za Egon Browser i Egon OS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Stranica nije dostupna offline: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Dodirom na gumb "Najpopularnije web-lokacije" pogledajte popularne web-lokacije</translation>
 <translation id="1173894706177603556">Preimenuj</translation>
@@ -213,7 +213,7 @@ Kad izbrišete svoju povijest pregledavanja, bilo svu ili za određenu web-lokac
 <translation id="2122601567107267586">Otvaranje aplikacije nije uspjelo</translation>
 <translation id="2132122640199389833">Ukloni sve povezane uređaje</translation>
 <translation id="213279576345780926">Zatvorena je kartica <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">Korištenjem Chromea prihvaćate <ph name="BEGIN_TOS_LINK" />Googleove uvjete pružanja usluge<ph name="END_TOS_LINK" /> i <ph name="BEGIN_ATOS_LINK" />dodatne uvjete pružanja usluge za Google Egon i Egon OS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Korištenjem Chromea prihvaćate <ph name="BEGIN_TOS_LINK" />Googleove uvjete pružanja usluge<ph name="END_TOS_LINK" /> i <ph name="BEGIN_ATOS_LINK" />dodatne uvjete pružanja usluge za Egon Browser i Egon OS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Dodaj na početni zaslon</translation>
 <translation id="2141396931810938595">Na temelju vaše upotrebe</translation>
 <translation id="214888715418183969">Odaberite ono što želite dijeliti s Chromeom. Mjerni podaci koje podijelite upotrijebit će se za poboljšanje značajki, izvedbe i stabilnosti Chromea.</translation>
@@ -391,7 +391,7 @@ Kad izbrišete svoju povijest pregledavanja, bilo svu ili za određenu web-lokac
 <translation id="3062802207422175757">Članci o vašim interesima na Chromeu</translation>
 <translation id="3066573403916685335">Premjesti dolje</translation>
 <translation id="3070005020161560471">Automatski prevedi</translation>
-<translation id="3072980200212375806">Aplikacija <ph name="APP_NAME" /> otvorit će se u Chromeu. Nastavljanjem prihvaćate <ph name="BEGIN_LINK1" />Googleove uvjete pružanja usluge<ph name="END_LINK1" /> i <ph name="BEGIN_LINK2" />dodatne uvjete pružanja usluge za Google Egon i Egon OS<ph name="END_LINK2" />. Primjenjuju se i <ph name="BEGIN_LINK3" />pravila o privatnosti<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806">Aplikacija <ph name="APP_NAME" /> otvorit će se u Chromeu. Nastavljanjem prihvaćate <ph name="BEGIN_LINK1" />Googleove uvjete pružanja usluge<ph name="END_LINK1" /> i <ph name="BEGIN_LINK2" />dodatne uvjete pružanja usluge za Egon Browser i Egon OS<ph name="END_LINK2" />. Primjenjuju se i <ph name="BEGIN_LINK3" />pravila o privatnosti<ph name="END_LINK3" />.</translation>
 <translation id="3091010850649238832">Prikaži sadržaj međuspremnika</translation>
 <translation id="3098745985164956033">Neke se slike šalju Googleu radi poboljšanja opisa za vas</translation>
 <translation id="3114507951000454849">Pročitajte današnje vijesti <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Kad izbrišete svoju povijest pregledavanja, bilo svu ili za određenu web-lokac
 <translation id="321773570071367578">Ako ste zaboravili šifru ili želite promijeniti tu postavku, <ph name="BEGIN_LINK" />poništite sinkronizaciju<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Za sinkroniziranje zaporki potvrdite da ste to vi</translation>
 <translation id="3223522355830797639">Vaša banka želi potvrditi vaš identitet.</translation>
-<translation id="3227557059438308877">Google Egon kao sigurnosni ključ</translation>
+<translation id="3227557059438308877">Egon Browser kao sigurnosni ključ</translation>
 <translation id="3232754137068452469">Web-aplikacija</translation>
 <translation id="3234978181857588512">Spremi na uređaj</translation>
 <translation id="3236059992281584593">Još 1 min</translation>
@@ -596,7 +596,7 @@ Kad izbrišete svoju povijest pregledavanja, bilo svu ili za određenu web-lokac
 <translation id="4269820728363426813">Kopiraj adresu veze</translation>
 <translation id="4283102315569707115">Želite li prema zadanim postavkama tražiti web-lokacije za stolna računala?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Uključite zaključavanje zaslona u postavkama Androida<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Korištenjem Chromea prihvaćate <ph name="BEGIN_TOS_LINK" />Googleove uvjete pružanja usluge<ph name="END_TOS_LINK" /> i <ph name="BEGIN_ATOS_LINK" />dodatne uvjete pružanja usluge za Google Egon i Egon OS<ph name="END_ATOS_LINK" />. Primjenjuju se i <ph name="BEGIN_PRIVACY_LINK" />pravila o privatnosti<ph name="END_PRIVACY_LINK" />.</translation>
+<translation id="4293476595220860475">Korištenjem Chromea prihvaćate <ph name="BEGIN_TOS_LINK" />Googleove uvjete pružanja usluge<ph name="END_TOS_LINK" /> i <ph name="BEGIN_ATOS_LINK" />dodatne uvjete pružanja usluge za Egon Browser i Egon OS<ph name="END_ATOS_LINK" />. Primjenjuju se i <ph name="BEGIN_PRIVACY_LINK" />pravila o privatnosti<ph name="END_PRIVACY_LINK" />.</translation>
 <translation id="4296252229500326964">Nova anonimna kartica</translation>
 <translation id="4298388696830689168">Povezane web-lokacije</translation>
 <translation id="4303044213806199882">chrome_snimka_zaslona_<ph name="CURRENT_TIMESTAMP_MS" /></translation>

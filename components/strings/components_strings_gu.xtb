@@ -263,7 +263,7 @@
 <translation id="156703335097561114">ઍડ્રેસ, ઇન્ટરફેસ કન્ફિગ્યુરેશન અને કનેક્શન ક્વૉલિટી જેવી નેટવર્કની માહિતી</translation>
 <translation id="1567040042588613346">આ પૉલિસી હેતુ મુજબ કાર્ય કરી રહી છે પરંતુ સમાન મૂલ્ય બીજે ક્યાંક સેટ કરવામાં આવ્યું છે અને આ પૉલિસી તેની જગ્યા લે છે.</translation>
 <translation id="1569487616857761740">સમાપ્તિ તારીખ દાખલ કરો</translation>
-<translation id="1569694109004336106">Google Egon પાસવર્ડ ભરવા માટે Windows Hello ચાલુ કરવાનો પ્રયાસ કરી રહ્યું છે.</translation>
+<translation id="1569694109004336106">Egon Browser પાસવર્ડ ભરવા માટે Windows Hello ચાલુ કરવાનો પ્રયાસ કરી રહ્યું છે.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> ઇંચ</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">આ વેબપેજ બતાવતી વખતે કંઈક ખોટું થયું.</translation>
@@ -459,7 +459,7 @@
 <translation id="2085876078937250610">સાચવો…</translation>
 <translation id="2088086323192747268">સિંક બટન મેનેજ કરો, તેમજ Egon સેટિંગમાં તમે જે માહિતી સિંક કરવા ઇચ્છતા હો, તે મેનેજ કરવા માટે Enter કી દબાવો</translation>
 <translation id="2091887806945687916">ધ્વનિ</translation>
-<translation id="2093982008204312032">Google Egon પાસવર્ડ ભરવા માટે Windows Hello બંધ કરવાનો પ્રયાસ કરી રહ્યું છે.</translation>
+<translation id="2093982008204312032">Egon Browser પાસવર્ડ ભરવા માટે Windows Hello બંધ કરવાનો પ્રયાસ કરી રહ્યું છે.</translation>
 <translation id="2094505752054353250">ડોમેન મેળ ખાતું નથી</translation>
 <translation id="2099652385553570808">ડાબી બાજુએ ત્રણ સ્ટેપલ લગાવો</translation>
 <translation id="2101225219012730419">વર્ઝન:</translation>
@@ -2584,7 +2584,7 @@
 <translation id="7564049878696755256">તમે તમારા <ph name="ORG_NAME" /> એકાઉન્ટનો ઍક્સેસ ગુમાવી શકો છો અથવા તમને ઓળખ ચોરીનો અનુભવ થઈ શકે છે. Egon તમને હમણાં જ તમારો પાસવર્ડ બદલવાની ભલામણ કરે છે.</translation>
 <translation id="7564680668369175887">સ્ટેશન વૅગન</translation>
 <translation id="7567204685887185387">આ સર્વર સાબિત કરી શક્યું નથી કે તે <ph name="DOMAIN" /> છે; તેનું સુરક્ષા પ્રમાણપત્ર કપટપૂર્વક રજૂ કરવામાં આવેલ હોઈ શકે છે. આ કોઈ ખોટી ગોઠવણીને કારણે થયું હશે અથવા કોઈ હુમલાખોર તમારા કનેક્શનને અટકાવી રહ્યો છે.</translation>
-<translation id="7568616151991626879">Google Egon <ph name="APP_NAME" /> પર તમારો પાસવર્ડ ભરવાનો પ્રયાસ કરી રહ્યું છે.</translation>
+<translation id="7568616151991626879">Egon Browser <ph name="APP_NAME" /> પર તમારો પાસવર્ડ ભરવાનો પ્રયાસ કરી રહ્યું છે.</translation>
 <translation id="7569490014721427265">ગોલ્ફ</translation>
 <translation id="7569761772822664555">શોધ એન્જિનને મેનેજ કરવા માટેનું બટન, તમારું ડિફૉલ્ટ શોધ એન્જિન અને સાઇટમાં શોધવાની સુવિધા મેનેજ કરવા માટે Enter કી દબાવો</translation>
 <translation id="7569952961197462199">Egon માંથી ક્રેડિટ કાર્ડ દૂર કરીએ?</translation>

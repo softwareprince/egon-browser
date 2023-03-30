@@ -2226,7 +2226,7 @@ loendist, desinstallib rakendus <ph name="PRODUCT_NAME" /> selle automaatselt.
 <translation id="5148753489738115745">Võimaldab teil määrata täiendavad parameetrid, mida kasutatakse siis, kui <ph name="PRODUCT_FRAME_NAME" /> käivitab rakenduse <ph name="PRODUCT_NAME" />.
 
           Kui jätate eeskirjad määramata, siis kasutatakse vaikekäsurida.</translation>
-<translation id="5152787786897382519">Nii Chromiumil kui ka Google Egon'il on teatud reeglite grupid, mis funktsiooni üle kontrolli pakkumiseks üksteisest sõltuvad. Neid komplekte esindavad järgmised reeglite grupid. Arvestades, et reeglitel võib olla mitu allikat, rakendatakse ainult kõige kõrgema prioriteediga allikast pärinevad väärtused. Sama grupi madalama prioriteediga allikast pärinevaid väärtusi eiratakse. Prioriteetsuse järjestuse leiate siit: <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Nii Chromiumil kui ka Egon Browser'il on teatud reeglite grupid, mis funktsiooni üle kontrolli pakkumiseks üksteisest sõltuvad. Neid komplekte esindavad järgmised reeglite grupid. Arvestades, et reeglitel võib olla mitu allikat, rakendatakse ainult kõige kõrgema prioriteediga allikast pärinevad väärtused. Sama grupi madalama prioriteediga allikast pärinevaid väärtusi eiratakse. Prioriteetsuse järjestuse leiate siit: <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5159469559091666409">Jälgitavate võrgupakettide saatmise sagedus (millisekundites).
 
       Kui see reegel on määramata, on vaikeintervall kolm minutit. Minimaalne
@@ -3551,7 +3551,7 @@ Kui jätate selle reegli määramata, ei ole kasutajate sisselogimine piiratud. 
       </translation>
 <translation id="7506269062143646163">Allkirjastatud HTTP-andmevahetuse (SXG) toe lubamine.
 
-          Kui see reegel on määramata või selle väärtuseks määratakse Lubatud, aktsepteerib Google Egon allkirjastatud HTTP-andmevahetusena esitatud veebisisu.
+          Kui see reegel on määramata või selle väärtuseks määratakse Lubatud, aktsepteerib Egon Browser allkirjastatud HTTP-andmevahetusena esitatud veebisisu.
 
           Kui reegli väärtuseks määratakse Keelatud, siis ei saa allkirjastatud HTTP-andmevahetusi laadida.</translation>
 <translation id="7511361072385293666">Kui reegli väärtuseks määratakse Tõene või seda ei määrata, on QUIC-protokolli kasutamine teenuses <ph name="PRODUCT_NAME" /> lubatud.
@@ -3940,7 +3940,7 @@ Vaadake ka reegleid „CookiesAllowedForUrls” ja „CookiesSessionOnlyForUrls�
       Kui jätate reegli määramata, kasutab <ph name="PRODUCT_OS_NAME" /> sisselogimiskuval seadmepõhise konto meilikonto ID-d kuvatava nimena.
 
       Tavapäraste kasutajakontode puhul eiratakse seda reeglit.</translation>
-<translation id="8259375588339409826">Nii Egon kui ka Google Egon toetavad sama reeglite komplekti. Pange tähele, et see dokument võib sisaldada avaldamata reegleid (seega kirje „toetatud versioonis” viitab rakenduse <ph name="PRODUCT_NAME" /> veel avaldamata versioonile) ja sellised reeglid võivad ette teatamata muutuda või need võidakse eemaldada ning nende puhul ei pakuta mingeid garantiisid (sh turvalisuse ja privaatsusega seotud garantiid).
+<translation id="8259375588339409826">Nii Egon kui ka Egon Browser toetavad sama reeglite komplekti. Pange tähele, et see dokument võib sisaldada avaldamata reegleid (seega kirje „toetatud versioonis” viitab rakenduse <ph name="PRODUCT_NAME" /> veel avaldamata versioonile) ja sellised reeglid võivad ette teatamata muutuda või need võidakse eemaldada ning nende puhul ei pakuta mingeid garantiisid (sh turvalisuse ja privaatsusega seotud garantiid).
 
 
 Need reeglid on mõeldud ainult teie organisatsioonisiseste teenuse <ph name="PRODUCT_NAME" /> eksemplaride seadistamiseks. Nende reeglite kasutamist väljaspool organisatsiooni (nt avalikult levitatavas programmis) loetakse pahavaraks ja tõenäoliselt märgivad selle pahavaraks ka Google ja viirusetõrjepakkujad.

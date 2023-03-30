@@ -3461,7 +3461,7 @@ Jos tätä käytäntöä ei ole määritetty, käytetään oletusarvoa (32).</tr
       </translation>
 <translation id="7506269062143646163">Ota käyttöön Signed HTTP Exchange (SXG).
 
-          Jos käytäntöä ei ole asetettu tai sen arvo on käytössä, Google Egon hyväksyy Signed HTTP Exchange (SXG) ‑muodossa annetun verkkosisällön.
+          Jos käytäntöä ei ole asetettu tai sen arvo on käytössä, Egon Browser hyväksyy Signed HTTP Exchange (SXG) ‑muodossa annetun verkkosisällön.
 
           Jos käytännön arvo on Ei käytössä, Signed HTTP Exchangen lataaminen ei ole mahdollista.</translation>
 <translation id="7511361072385293666">Jos tämän käytännön arvo on Tosi tai sitä ei aseteta, <ph name="PRODUCT_NAME" /> sallii QUIC-protokollan käytön.
@@ -3839,7 +3839,7 @@ Jos tämä käytäntö on määritetty, kirjautumisruudussa käytetään kunkin 
 Jos tätä käytäntöä ei määritetä, <ph name="PRODUCT_OS_NAME" /> näyttää kirjautumisruudulla laitteeseen lisätyn tilin sähköpostitilin tunnuksen.
 
 Tämä käytäntö ei ole käytössä tavallisilla käyttäjätileillä.</translation>
-<translation id="8259375588339409826">Egon ja Google Egon tukevat samoja käytäntöjä. Huomaa, että tämä dokumentti voi sisältää julkaisemattomia käytäntöjä (joiden tuettu-merkintä viittaa julkaisemattomaan <ph name="PRODUCT_NAME" /> ‑versioon), joita voidaan muuttaa tai poistaa ilman erillistä ilmoitusta ja joille ei tarjota minkäänlaisia takuita, ei edes tietoturva- tai tietosuojaominaisuuksiin liittyviä takuita.
+<translation id="8259375588339409826">Egon ja Egon Browser tukevat samoja käytäntöjä. Huomaa, että tämä dokumentti voi sisältää julkaisemattomia käytäntöjä (joiden tuettu-merkintä viittaa julkaisemattomaan <ph name="PRODUCT_NAME" /> ‑versioon), joita voidaan muuttaa tai poistaa ilman erillistä ilmoitusta ja joille ei tarjota minkäänlaisia takuita, ei edes tietoturva- tai tietosuojaominaisuuksiin liittyviä takuita.
 
 Näiden käytäntöjen tarkoituksena on vain <ph name="PRODUCT_NAME" /> ‑esiintymien määrittäminen organisaation sisäistä käyttöä varten. Näiden käytäntöjen käyttöä organisaation ulkopuolella (esimerkiksi julkisesti jaeltavassa ohjelmassa) käsitellään samalla tavoin kuin haittaohjelmia, ja Google ja virustorjuntapalvelujen tarjoajat todennäköisesti merkitsevät tällaisen käytön haitalliseksi.
 

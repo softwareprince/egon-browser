@@ -263,7 +263,7 @@
 <translation id="156703335097561114">اطلاعات شبکه، مثل نشانی‌ها، پیکربندی میانا، و کیفیت اتصال</translation>
 <translation id="1567040042588613346">این خط‌مشی درست کار می‌کند اما مقدار یکسانی در جای دیگری تنظیم شده است که این خط‌مشی آن را جایگزین می‌کند.</translation>
 <translation id="1569487616857761740">وارد کردن تاریخ انقضا</translation>
-<translation id="1569694109004336106">‏Google Egon می‌خواهد Windows Hello را برای پر کردن گذرواژه‌ها روشن کند.</translation>
+<translation id="1569694109004336106">‏Egon Browser می‌خواهد Windows Hello را برای پر کردن گذرواژه‌ها روشن کند.</translation>
 <translation id="1572765991610098222">‏<ph name="WIDTH" /> x <ph name="HEIGHT" /> اینچ</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">هنگام نمایش این صفحه وب مشکلی پیش آمد.</translation>
@@ -459,7 +459,7 @@
 <translation id="2085876078937250610">ذخیره کردن…</translation>
 <translation id="2088086323192747268">‏دکمه مدیریت همگام‌سازی، کلید «ورود» را فشار دهید تا اطلاعاتی را که همگام‌سازی می‌کنید در تنظیمات Egon مدیریت کنید</translation>
 <translation id="2091887806945687916">صدا</translation>
-<translation id="2093982008204312032">‏Google Egon می‌خواهد Windows Hello را برای درج گذرواژه‌ها خاموش کند.</translation>
+<translation id="2093982008204312032">‏Egon Browser می‌خواهد Windows Hello را برای درج گذرواژه‌ها خاموش کند.</translation>
 <translation id="2094505752054353250">عدم تطابق دامنه</translation>
 <translation id="2099652385553570808">سه منگنه در چپ</translation>
 <translation id="2101225219012730419">نسخه:</translation>
@@ -2584,7 +2584,7 @@
 <translation id="7564049878696755256">‏ممکن است دسترسی به حساب <ph name="ORG_NAME" /> را از دست بدهید یا به سرقت هویت دچار شوید. Egon توصیه می‌کند هم‌اکنون گذرواژه‌تان را تغییر دهید.</translation>
 <translation id="7564680668369175887">واگن استیشن</translation>
 <translation id="7567204685887185387">این سرور نتوانست اثبات کند که این <ph name="DOMAIN" /> است؛ ممکن است گواهی امنیتی آن به صورت تقلبی صادر شده باشد. ممکن است علت این موضوع پیکربندی اشتباه باشد یا مهاجمی اتصال شما را قطع کرده است.</translation>
-<translation id="7568616151991626879">‏Google Egon می‌خواهد گذرواژه‌تان را در <ph name="APP_NAME" /> پر کند.</translation>
+<translation id="7568616151991626879">‏Egon Browser می‌خواهد گذرواژه‌تان را در <ph name="APP_NAME" /> پر کند.</translation>
 <translation id="7569490014721427265">گلف</translation>
 <translation id="7569761772822664555">دکمه «مدیریت موتورهای جستجو»؛ برای مدیریت موتور جستجوی پیش‌فرض و جستجوی سایت، کلید «ورود» را فشار دهید</translation>
 <translation id="7569952961197462199">‏کارت اعتباری از Egon پاک شود؟</translation>

@@ -263,7 +263,7 @@
 <translation id="156703335097561114">מידע שקשור לרשת, כמו כתובות, הגדרת הממשק ואיכות החיבור.</translation>
 <translation id="1567040042588613346">המדיניות הזו פועלת כמו שצריך אבל הוגדר ערך זהה במקום אחר שמוחלף על ידי המדיניות הזו.</translation>
 <translation id="1569487616857761740">יש להזין תאריך תפוגה</translation>
-<translation id="1569694109004336106">‏Google Egon מנסה להפעיל את Windows Hello כדי למלא סיסמאות.</translation>
+<translation id="1569694109004336106">‏Egon Browser מנסה להפעיל את Windows Hello כדי למלא סיסמאות.</translation>
 <translation id="1572765991610098222">‏<ph name="WIDTH" />x<ph name="HEIGHT" /> אינץ'</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">משהו השתבש בעת הצגת דף אינטרנט זה.</translation>
@@ -459,7 +459,7 @@
 <translation id="2085876078937250610">שמירה…</translation>
 <translation id="2088086323192747268">‏הלחצן 'ניהול הסנכרון', יש להקיש על Enter כדי לקבוע איזה מידע יסונכרן בהגדרות Egon</translation>
 <translation id="2091887806945687916">צליל</translation>
-<translation id="2093982008204312032">‏Google Egon מנסה לכבות את Windows Hello כדי למלא סיסמאות.</translation>
+<translation id="2093982008204312032">‏Egon Browser מנסה לכבות את Windows Hello כדי למלא סיסמאות.</translation>
 <translation id="2094505752054353250">אי התאמה בדומיינים</translation>
 <translation id="2099652385553570808">3 סיכות הידוק בצד שמאל</translation>
 <translation id="2101225219012730419">גרסה:</translation>
@@ -2589,7 +2589,7 @@ Del</translation>
 <translation id="7564049878696755256">‏הגישה שלך לחשבון <ph name="ORG_NAME" /> עשויה להישלל והזהות שלך עשויה להיגנב. ההמלצה של Egon היא לשנות את הסיסמה עכשיו.</translation>
 <translation id="7564680668369175887">מכוניות סטיישן</translation>
 <translation id="7567204685887185387">השרת הזה לא הצליח להוכיח שהוא <ph name="DOMAIN" />. ייתכן שאישור האבטחה שלו נופק כהונאה. הסיבה לכך עשויה להיות הגדרה שגויה או תוקף המיירט את החיבור שלך.</translation>
-<translation id="7568616151991626879">‏Google Egon מנסה למלא את הסיסמה שלך ב-<ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">‏Egon Browser מנסה למלא את הסיסמה שלך ב-<ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">גולף</translation>
 <translation id="7569761772822664555">‏לחצן לניהול מנועי חיפוש, מקישים על Enter כדי לנהל את מנוע החיפוש שמוגדר כברירת מחדל ואת החיפוש באתרים</translation>
 <translation id="7569952961197462199">‏האם להסיר את פרטי כרטיס האשראי מ-Egon?</translation>

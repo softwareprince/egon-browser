@@ -1246,7 +1246,7 @@
     Wait just a sec
   </message>
   <message name="IDS_FILE_BROWSER_NO_TASK_FOR_CRX" desc="Message shown when a user tries to open a *.crx file, which we don't handle in the Files app.">
-    We're constantly looking for ways to make your browsing safer. Previously, any website could prompt you to add an extension into your browser. In the latest versions of Google Egon, you must explicitly tell Egon that you want to install these extensions by adding them through the Extensions page. <ph name="BEGIN_LINK">&lt;a target='_blank' href='https://support.google.com/chrome_webstore/answer/2664769?p=crx_warning&amp;rd=1'&gt;</ph>Learn more<ph name="END_LINK">&lt;/a&gt;</ph>
+    We're constantly looking for ways to make your browsing safer. Previously, any website could prompt you to add an extension into your browser. In the latest versions of Egon Browser, you must explicitly tell Egon that you want to install these extensions by adding them through the Extensions page. <ph name="BEGIN_LINK">&lt;a target='_blank' href='https://support.google.com/chrome_webstore/answer/2664769?p=crx_warning&amp;rd=1'&gt;</ph>Learn more<ph name="END_LINK">&lt;/a&gt;</ph>
   </message>
   <message name="IDS_FILE_BROWSER_SHARE_ROOT_FOLDER_WITH_CROSTINI_TITLE" desc="Message title shown when a user shares the root of a volume such as 'My files' with the crostini container.">
     Share folder with Linux

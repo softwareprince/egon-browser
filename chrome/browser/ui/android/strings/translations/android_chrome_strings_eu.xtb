@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Ezabatu lehendik dauden datuak.</translation>
 <translation id="1146678959555564648">Sartu EB moduan</translation>
 <translation id="1149401351239820326">Iraungitze-hilabetea</translation>
-<translation id="1150263420752757504">Egon-n irekiko da <ph name="APP_NAME" />. Aurrera egiten baduzu, onartu egingo dituzu <ph name="BEGIN_LINK1" />Google-ren Zerbitzu-baldintzak<ph name="END_LINK1" /> eta <ph name="BEGIN_LINK2" />Google Egon-ren eta Egon OS-ren Zerbitzu-baldintza gehigarriak<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504">Egon-n irekiko da <ph name="APP_NAME" />. Aurrera egiten baduzu, onartu egingo dituzu <ph name="BEGIN_LINK1" />Google-ren Zerbitzu-baldintzak<ph name="END_LINK1" /> eta <ph name="BEGIN_LINK2" />Egon Browser-ren eta Egon OS-ren Zerbitzu-baldintza gehigarriak<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Orria ez dago erabilgarri konexiorik gabe: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Sakatu "Webgune nagusiak" botoia webgune ezagunak ikusteko</translation>
 <translation id="1173894706177603556">Aldatu izena</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Iragarkien neurketari esker, bisitatzen dituzun webguneek Egon-ri informazioa eska diezaiokete. Informazio horren bidez, webguneek beren iragarkien errendimendua neur dezakete. Webguneen artean ahalik eta informazio gutxien transferituta mugatzen du iragarkien neurketak webguneen arteko jarraipena.
 
 Arakatze-historia ezabatzen duzunean (osorik nahiz webgune zehatz bat), neurketari buruzko informazio erlazionatua ere ezabatuko duzu. Ikusi <ph name="BEGIN_LINK" />arakatze-historia<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Google Egon eginbideetarako lasterbideak</translation>
+<translation id="1332501820983677155">Egon Browser eginbideetarako lasterbideak</translation>
 <translation id="1344653310988386453">Gehitu nabarmendutako testurako esteka bat</translation>
 <translation id="1347468774581902829">Kudeatu jarduerak</translation>
 <translation id="1360432990279830238">Saioa amaitu eta sinkronizazioa desaktibatu nahi duzu?</translation>
@@ -213,7 +213,7 @@ Arakatze-historia ezabatzen duzunean (osorik nahiz webgune zehatz bat), neurketa
 <translation id="2122601567107267586">Ezin izan da ireki aplikazioa</translation>
 <translation id="2132122640199389833">Kendu lotutako gailu guztiak</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> itxi da</translation>
-<translation id="2134927169889348449">Egon erabiltzen baduzu, onartu egingo dituzu <ph name="BEGIN_TOS_LINK" />Google-ren Zerbitzu-baldintzak<ph name="END_TOS_LINK" /> eta <ph name="BEGIN_ATOS_LINK" />Google Egon-ren eta Egon OS-ren Zerbitzu-baldintza gehigarriak<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Egon erabiltzen baduzu, onartu egingo dituzu <ph name="BEGIN_TOS_LINK" />Google-ren Zerbitzu-baldintzak<ph name="END_TOS_LINK" /> eta <ph name="BEGIN_ATOS_LINK" />Egon Browser-ren eta Egon OS-ren Zerbitzu-baldintza gehigarriak<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Gehitu hasierako pantailan</translation>
 <translation id="2141396931810938595">Zure erabileran oinarrituta</translation>
 <translation id="214888715418183969">Aukeratu zer partekatu nahi duzun Egon-rekin. Egon-ren eginbideak, funtzionamendua eta egonkortasuna hobetzen laguntzeko erabiliko dira partekatzen dituzun neurketak.</translation>
@@ -391,7 +391,7 @@ Arakatze-historia ezabatzen duzunean (osorik nahiz webgune zehatz bat), neurketa
 <translation id="3062802207422175757">Interesatzen zaizkizun gaiei buruzko artikuluak Egon-n</translation>
 <translation id="3066573403916685335">Eraman behera</translation>
 <translation id="3070005020161560471">Itzuli automatikoki edukia hizkuntza hauetako batean badago:</translation>
-<translation id="3072980200212375806">Egon-n irekiko da <ph name="APP_NAME" />. Aurrera egiten baduzu, onartu egingo dituzu <ph name="BEGIN_LINK1" />Google-ren Zerbitzu-baldintzak<ph name="END_LINK1" /> eta <ph name="BEGIN_LINK2" />Google Egon-ren eta Egon OS-ren Zerbitzu-baldintza gehigarriak<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Pribatutasun-gidalerroak<ph name="END_LINK3" /> ere aplikatuko dira.</translation>
+<translation id="3072980200212375806">Egon-n irekiko da <ph name="APP_NAME" />. Aurrera egiten baduzu, onartu egingo dituzu <ph name="BEGIN_LINK1" />Google-ren Zerbitzu-baldintzak<ph name="END_LINK1" /> eta <ph name="BEGIN_LINK2" />Egon Browser-ren eta Egon OS-ren Zerbitzu-baldintza gehigarriak<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Pribatutasun-gidalerroak<ph name="END_LINK3" /> ere aplikatuko dira.</translation>
 <translation id="3091010850649238832">Erakutsi arbeleko edukia</translation>
 <translation id="3098745985164956033">Jasotzen dituzun deskribapenak hobetzeko bidaltzen zaizkio irudi batzuk Google-ri</translation>
 <translation id="3114507951000454849">Irakurri gaurko albisteak <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Arakatze-historia ezabatzen duzunean (osorik nahiz webgune zehatz bat), neurketa
 <translation id="321773570071367578">Pasaesaldia ahaztu bazaizu edo ezarpena aldatu nahi baduzu, <ph name="BEGIN_LINK" />berrezarri sinkronizazioa<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Pasahitzak sinkronizatzeko, egiaztatu zeu zarela</translation>
 <translation id="3223522355830797639">Bankuak zeu zarela berretsi nahi du.</translation>
-<translation id="3227557059438308877">Erabili Google Egon segurtasun-giltza gisa</translation>
+<translation id="3227557059438308877">Erabili Egon Browser segurtasun-giltza gisa</translation>
 <translation id="3232754137068452469">Sareko aplikazioa</translation>
 <translation id="3234978181857588512">Gorde gailuan</translation>
 <translation id="3236059992281584593">1 min gelditzen da</translation>
@@ -596,7 +596,7 @@ Arakatze-historia ezabatzen duzunean (osorik nahiz webgune zehatz bat), neurketa
 <translation id="4269820728363426813">Kopiatu estekaren helbidea</translation>
 <translation id="4283102315569707115">Modu lehenetsian ordenagailuetarako webguneak eskatu nahi dituzu?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Aktibatu pantailaren blokeoa Android-en ezarpenetan<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Egon erabiltzen baduzu, onartu egingo dituzu <ph name="BEGIN_TOS_LINK" />Google-ren Zerbitzu-baldintzak<ph name="END_TOS_LINK" /> eta <ph name="BEGIN_ATOS_LINK" />Google Egon-ren eta Egon OS-ren Zerbitzu-baldintza gehigarriak<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Pribatutasun-gidalerroak<ph name="END_PRIVACY_LINK" /> ere aplikatuko dira.</translation>
+<translation id="4293476595220860475">Egon erabiltzen baduzu, onartu egingo dituzu <ph name="BEGIN_TOS_LINK" />Google-ren Zerbitzu-baldintzak<ph name="END_TOS_LINK" /> eta <ph name="BEGIN_ATOS_LINK" />Egon Browser-ren eta Egon OS-ren Zerbitzu-baldintza gehigarriak<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Pribatutasun-gidalerroak<ph name="END_PRIVACY_LINK" /> ere aplikatuko dira.</translation>
 <translation id="4296252229500326964">Sortu ezkutuko moduko fitxa bat</translation>
 <translation id="4298388696830689168">Estekatutako webguneak</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@ Fidagarritasun-tokenek sareko pribatutasuna hobetzen dute eta ezin dira erabili 
 <translation id="9219582468404818260">Lagun iezaguzu sare hobeagoa sortzen</translation>
 <translation id="92381315203627188">Webgune batek orriko estekak modu pribatuan aurrez kargatzeko eskatzen duenean, Egon-k Google-ren zerbitzarien bidez enkriptatzen eta aurrez kargatzen ditu orri horiek, cookierik gabe. Horrela, zure identitatea ezkutatzen zaio aurrez kargatutako webguneari.</translation>
 <translation id="926205370408745186">Kendu Egon-ko jarduerak Ongizate digitala programatik</translation>
-<translation id="927968626442779827">Erabili oinarrizko modua Google Egon-n</translation>
+<translation id="927968626442779827">Erabili oinarrizko modua Egon Browser-n</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> webguneari jarraitzen</translation>
 <translation id="932327136139879170">Hasiera</translation>
 <translation id="938850635132480979">Errorea: <ph name="ERROR_CODE" /></translation>

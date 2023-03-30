@@ -1205,7 +1205,7 @@ Gallwch reoli gosodiadau'r cyfrif hwn drwy osod yr ap Family Link ar eich dyfais
 <translation id="2088092308059522196">Dim ond ar ôl gosod <ph name="DEVICE_OS" /> y cefnogir cofrestru.</translation>
 <translation id="2089090684895656482">Llai</translation>
 <translation id="208928984520943006">I gyrraedd y sgrîn Hafan ar unrhyw adeg, sweipiwch i fyny o'r gwaelod.</translation>
-<translation id="2089566709556890888">Pori'n ddiogel gyda Google Egon</translation>
+<translation id="2089566709556890888">Pori'n ddiogel gyda Egon Browser</translation>
 <translation id="2089795179672254991">Gofyn pan fydd gwefan eisiau gweld testun a lluniau sydd wedi'u copïo i'r clipfwrdd (argymhellir)</translation>
 <translation id="2089925163047119068">NEU</translation>
 <translation id="2090165459409185032">I adfer gwybodaeth eich cyfrif, ewch i: google.com/accounts/recovery</translation>
@@ -1617,7 +1617,7 @@ Mae Voice Match yn helpu Google Assistant i adnabod llais <ph name="SUPERVISED_U
 <translation id="2434449159125086437">Dim modd gosod yr argraffydd. Gwiriwch y ffurfweddiad a rhowch gynnig arall arni.</translation>
 <translation id="2434758125294431199">Dewiswch pwy all rannu gyda chi</translation>
 <translation id="2434915728183570229">Gallwch bellach weld apiau eich ffôn</translation>
-<translation id="2435137177546457207">Telerau Ychwanegol Google Egon a ChromeOS Flex</translation>
+<translation id="2435137177546457207">Telerau Ychwanegol Egon Browser a ChromeOS Flex</translation>
 <translation id="2435248616906486374">Mae'r rhwydwaith wedi'i ddatgysylltu</translation>
 <translation id="2435457462613246316">Dangos y cyfrinair</translation>
 <translation id="2439626940657133600">Wrthi'n llwytho <ph name="WINDOW_TITLE" /></translation>
@@ -3070,7 +3070,7 @@ Mae <ph name="DOMAIN" /> yn gofyn i chi gadw'ch cerdyn smart wedi'i fewnosod.</t
 <translation id="3798632811625902122">Hoffai'r ddyfais Bluetooth <ph name="DEVICE" /> gael caniatâd i baru.</translation>
 <translation id="3799128412641261490">Gosodiadau switsh mynediad</translation>
 <translation id="3800806661949714323">Dangos y cyfan (argymhellir)</translation>
-<translation id="3800828618615365228">Telerau Ychwanegol Google Egon a ChromeOS</translation>
+<translation id="3800828618615365228">Telerau Ychwanegol Egon Browser a ChromeOS</translation>
 <translation id="3802486193901166966">Nid oes angen caniatadau arbennig ar gyfer yr estyniad hwn ac nid oes ganddo fynediad ychwanegol at y wefan</translation>
 <translation id="380329542618494757">Enw</translation>
 <translation id="3803345858388753269">Ansawdd Fideo</translation>
@@ -3086,7 +3086,7 @@ Mae <ph name="DOMAIN" /> yn gofyn i chi gadw'ch cerdyn smart wedi'i fewnosod.</t
 <translation id="3810973564298564668">Rheoli</translation>
 <translation id="381202950560906753">Ychwanegu un arall</translation>
 <translation id="3812525830114410218">Tystysgrif wael</translation>
-<translation id="3813296892522778813">Ewch i <ph name="BEGIN_LINK_CHROMIUM" />Help Google Egon<ph name="END_LINK_CHROMIUM" /> os na allwch ddod o hyd i'r hyn rydych yn chwilio amdano</translation>
+<translation id="3813296892522778813">Ewch i <ph name="BEGIN_LINK_CHROMIUM" />Help Egon Browser<ph name="END_LINK_CHROMIUM" /> os na allwch ddod o hyd i'r hyn rydych yn chwilio amdano</translation>
 <translation id="3813358687923336574">Yr iaith a ddefnyddir ar gyfer cyfieithu tudalennau ac Atebion cyflym</translation>
 <translation id="3814529970604306954">Cyfrif Ysgol</translation>
 <translation id="3816118180265633665">Lliwiau Egon</translation>
@@ -3442,7 +3442,7 @@ Mae <ph name="DOMAIN" /> yn gofyn i chi gadw'ch cerdyn smart wedi'i fewnosod.</t
 <translation id="4132364317545104286">Ail-enwi proffil eSIM</translation>
 <translation id="4133076602192971179">Agorwch yr ap i newid eich cyfrinair</translation>
 <translation id="4134818201340504801">Nid oes digon o le storio ar gael i gwblhau'r gosodiad. Rhyddhewch storfa a rhowch gynnig arall arni</translation>
-<translation id="4135746311382563554">Telerau Gwasanaeth ychwanegol Google Egon a Egon OS</translation>
+<translation id="4135746311382563554">Telerau Gwasanaeth ychwanegol Egon Browser a Egon OS</translation>
 <translation id="4136203100490971508">Bydd Golau Nos yn diffodd yn awtomatig wrth i'r haul godi</translation>
 <translation id="41365691917097717">Bydd parhau yn galluogi dadfygio ADB ar gyfer creu a phrofi apiau Android. Sylwer bod y weithred hon yn caniatáu gosod apiau Android nad ydynt wedi'u dilysu gan Google, ac mae angen ailosod i'r gosodiadau ffatri i'w hanalluogi.</translation>
 <translation id="4138267921960073861">Dangos enwau defnyddwyr a lluniau ar y sgrîn mewngofnodi</translation>
@@ -3862,7 +3862,7 @@ Mae <ph name="DOMAIN" /> yn gofyn i chi gadw'ch cerdyn smart wedi'i fewnosod.</t
 <translation id="4544174279960331769">Rhithffurf glas diofyn</translation>
 <translation id="4545028762441890696">Er mwyn ei ail-alluogi, derbyniwch y caniatadau newydd:</translation>
 <translation id="4545759655004063573">Ni ellir cadw oherwydd diffyg caniatadau. Cadwch i leoliad arall.</translation>
-<translation id="4546308221697447294">Pori'n gyflym gyda Google Egon</translation>
+<translation id="4546308221697447294">Pori'n gyflym gyda Egon Browser</translation>
 <translation id="4546345569117159016">Botwm de</translation>
 <translation id="4546692474302123343">Mewnbwn llais Google Assistant</translation>
 <translation id="4547659257713117923">Dim Tabiau o Ddyfeisiau Eraill</translation>
@@ -5921,7 +5921,7 @@ Mae <ph name="DOMAIN" /> yn gofyn i chi gadw'ch cerdyn smart wedi'i fewnosod.</t
 <translation id="6509207748479174212">Trwydded cyfryngau</translation>
 <translation id="6511827214781912955">Ystyriwch ddileu <ph name="FILENAME" />, fel na all eraill sy'n defnyddio'r ddyfais hon weld eich cyfrineiriau</translation>
 <translation id="6512808201725371249">Mae cyfrinair ar gyfer y cyfrif hwn eisoes wedi'i gadw i'ch Rheolwr Cyfrineiriau Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Bydd Google Egon yn defnyddio data symudol os nad ydych wedi'ch cysylltu â rhwydwaith arall.</translation>
+<translation id="6513247462497316522">Bydd Egon Browser yn defnyddio data symudol os nad ydych wedi'ch cysylltu â rhwydwaith arall.</translation>
 <translation id="6514010653036109809">Dyfais sydd ar gael:</translation>
 <translation id="6514565641373682518">Mae'r dudalen hon wedi analluogi cyrchwr eich llygoden.</translation>
 <translation id="6517709704288360414">Mae'n bosib na fydd eich dyfais yn gweithio'n iawn mwyach, ac mae'n bosib y byddwch yn profi problemau diogelwch a pherfformiad. Mae'n bosib y bydd diffodd diweddariadau hefyd effeithio ar eich hawl i wneud hawliadau cyfreithiol os cewch unrhyw broblemau.</translation>
@@ -8113,7 +8113,7 @@ Cadwch eich ffeil allwedd mewn man diogel. Bydd ei hangen arnoch i greu fersiyna
 <translation id="8554899698005018844">Dim iaith</translation>
 <translation id="855604308879080518">Gadewch i apiau Android gyrchu dyfeisiau USB ar y Chromebook hwn. Gofynnir am ganiatâd bob tro y byddwch yn plygio dyfais USB i mewn. Bydd apiau Android unigol yn gofyn am ganiatâd ychwanegol.</translation>
 <translation id="8557022314818157177">Parhewch i gyffwrdd â'ch allwedd ddiogelwch nes bod eich olion bysedd wedi'i dynnu</translation>
-<translation id="8557180006508471423">Trowch "Google Egon" ymlaen yn y Gwasanaethau Lleoliad ar eich Mac</translation>
+<translation id="8557180006508471423">Trowch "Egon Browser" ymlaen yn y Gwasanaethau Lleoliad ar eich Mac</translation>
 <translation id="8557856025359704738">Mae'r lawrlwythiad nesaf am <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Codau pas</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Agor Pob Un mewn &amp;Ffenestr Newydd}=1{Agor mewn &amp;Ffenestr Newydd}two{Agor Pob Un ({COUNT}) mewn &amp;Ffenestr Newydd}few{Agor Pob Un ({COUNT}) mewn &amp;Ffenestr Newydd}many{Agor Pob Un ({COUNT}) mewn &amp;Ffenestr Newydd}other{Agor Pob Un ({COUNT}) mewn &amp;Ffenestr Newydd}}</translation>

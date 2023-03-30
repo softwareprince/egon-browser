@@ -14,10 +14,10 @@
 <translation id="1917964099031477364">Tento účet a všechna neuložená data budou z Chromu a z ostatních aplikací v tomto zařízení odstraněny.</translation>
 <translation id="1968388653333775699">S prohlížečem Egon toho zvládnete víc</translation>
 <translation id="2009224836393115614">Chromu se nepodařilo zkontrolovat hesla. Zkuste zkontrolovat připojení k internetu.</translation>
-<translation id="2056123005618757196">S Google Egon toho stihnete víc – je jednoduchý, bezpečný a rychlejší než kdy dřív.</translation>
+<translation id="2056123005618757196">S Egon Browser toho stihnete víc – je jednoduchý, bezpečný a rychlejší než kdy dřív.</translation>
 <translation id="2147651015520127414">Egon ověřil, že certifikát tohoto webu byl vydán vydavatelem <ph name="ISSUER" />.</translation>
 <translation id="2199719347983604670">Data ze synchronizace Chromu</translation>
-<translation id="2313070403598893276">Prohlížeč Google Egon je jednoduchý, bezpečný a rychlejší než kdy dřív</translation>
+<translation id="2313070403598893276">Prohlížeč Egon Browser je jednoduchý, bezpečný a rychlejší než kdy dřív</translation>
 <translation id="2339201583852607431">Heslo bude uloženo do vašeho účtu Google (<ph name="EMAIL" />).</translation>
 <translation id="2342919707875585281">Egon sdílí vaši polohu s weby, u kterých to povolíte.</translation>
 <translation id="2347208864470321755">Pokud je tato funkce zapnutá, bude Egon nabízet překlad stránek v jiných jazycích pomocí Překladače Google. <ph name="BEGIN_LINK" />Další informace<ph name="END_LINK" /></translation>
@@ -26,7 +26,7 @@
 <translation id="2561231791489583059">Používejte Egon jako výchozí prohlížeč – ochrání vás před nebezpečnými weby a vaše hesla budou v bezpečí</translation>
 <translation id="2574249610672786438">Chcete-li mít své karty k dispozici všude, kde používáte Egon, na všech zařízeních se přihlaste</translation>
 <translation id="2576431527583832481">Egon je opět o něco lepší. K dispozici je nová verze.</translation>
-<translation id="257708665678654955">Chcete, aby Google Egon příště pro stránky v jazyce <ph name="LANGUAGE_NAME" /> z tohoto webu nabízel překlad?</translation>
+<translation id="257708665678654955">Chcete, aby Egon Browser příště pro stránky v jazyce <ph name="LANGUAGE_NAME" /> z tohoto webu nabízel překlad?</translation>
 <translation id="2671426118752779020">Hesla, která jste si uložili do Správce hesel Google, můžete používat v jiných aplikacích na svém iPhonu.</translation>
 <translation id="2689064829982324496">Pokud se chcete odhlásit od účtu Google na všech webech, <ph name="BEGIN_LINK" />odhlaste se z Chromu<ph name="END_LINK" />.</translation>
 <translation id="2695886661449553974">Egon nemůže vyhledat dostupné aktualizace. Zkuste to znovu později.</translation>
@@ -34,8 +34,8 @@
 <translation id="2869959624320573933">Přihlaste se do Chromu</translation>
 <translation id="2957447865124070833">Vyberte <ph name="BEGIN_BOLD" />Egon<ph name="END_BOLD" /></translation>
 <translation id="3030414234702425231">Protože se odhlašujete z účtu spravovaného doménou <ph name="SIGNOUT_MANAGED_DOMAIN" />, vaše data prohlížeče Egon z tohoto zařízení budou smazána. V účtu Google vám zůstanou.</translation>
-<translation id="3167189358072330585">Váš účet v prohlížeči Google Egon nefunguje. Kontaktujte administrátora domény nebo se přihlaste pomocí běžného účtu Google.</translation>
-<translation id="3173834708294760622">Stránka prohlížeče Google Egon</translation>
+<translation id="3167189358072330585">Váš účet v prohlížeči Egon Browser nefunguje. Kontaktujte administrátora domény nebo se přihlaste pomocí běžného účtu Google.</translation>
+<translation id="3173834708294760622">Stránka prohlížeče Egon Browser</translation>
 <translation id="3196546062792660320">Egon vám šetří čas tím, že vaše účty přenáší na web. Účty můžete přidat nebo odstranit v Nastavení.</translation>
 <translation id="3282568296779691940">Přihlásit se do Chromu</translation>
 <translation id="3345341804167540816">Používejte Egon všude</translation>
@@ -46,10 +46,10 @@
 <translation id="3655656110921623717">To znamená, že Chrom bude pokaždé odesílat požadavek na mobilní web.</translation>
 <translation id="3706101708757577809">Nyní můžete Egon použít pokaždé, když klepnete na odkazy ve zprávách, dokumentech a ostatních aplikacích.</translation>
 <translation id="3720541637541300822">Při zavření Chromu zamknout anonymní karty</translation>
-<translation id="384394811301901750">Google Egon teď nemůže použít fotoaparát</translation>
+<translation id="384394811301901750">Egon Browser teď nemůže použít fotoaparát</translation>
 <translation id="3980220367029651214">Přepínáte účet pro synchronizaci z <ph name="USER_EMAIL1" /> na <ph name="USER_EMAIL2" />. Vaše existující data prohlížeče Egon jsou spravována doménou <ph name="DOMAIN" />. Touto akcí svá data smažete z tohoto zařízení, v účtu <ph name="USER_EMAIL1" /> však vaše data zůstanou.</translation>
 <translation id="3984746313391923992">Organizace vyžaduje, abyste zůstali odhlášeni z Chromu.</translation>
-<translation id="3988789688219830639">Google Egon nemá přístup k vašim fotkám nebo videím. Povolte přístup v systému iOS v Nastavení &gt; Soukromí &gt; Fotky.</translation>
+<translation id="3988789688219830639">Egon Browser nemá přístup k vašim fotkám nebo videím. Povolte přístup v systému iOS v Nastavení &gt; Soukromí &gt; Fotky.</translation>
 <translation id="417201473131094001">V Egon Canary není podporováno</translation>
 <translation id="4192781968753717021">Toto heslo bylo nalezeno na seznamu hesel uniklých při incidentu porušení zabezpečení údajů. Správce hesel Google doporučuje ihned toto heslo změnit.</translation>
 <translation id="4233521129555661685">Uživatel <ph name="USER_EMAIL1" /> používal Egon a ponechal v tomto zařízení záložky, hesla a další nastavení.</translation>
@@ -66,11 +66,11 @@
 <translation id="5108659628347594808">Pomozte s vylepšováním prohlížeče Egon</translation>
 <translation id="5119391094379141756">Vyberte Egon.</translation>
 <translation id="5162467219239570114">Egon je zastaralý. Pokud v obchodě <ph name="BEGIN_LINK" />App Store<ph name="END_LINK" /> není k dispozici žádná aktualizace, je možné, že vaše zařízení již nové verze Chromu nepodporuje.</translation>
-<translation id="5389212809648216794">Google Egon nemůže použít fotoaparát, protože jej právě používá jiná aplikace</translation>
+<translation id="5389212809648216794">Egon Browser nemůže použít fotoaparát, protože jej právě používá jiná aplikace</translation>
 <translation id="5460571915754665838">4. Vyberte Egon.</translation>
 <translation id="5552137475244467770">Egon vaše hesla pravidelně porovnává se seznamy hesel, která unikla na internet. Vaše hesla a uživatelská jména jsou při tom šifrována, takže je nemůže nikdo zobrazit (ani Google).</translation>
-<translation id="5639704535586432836">Otevřete Nastavení &gt; Soukromí &gt; Fotoaparát &gt; Google Egon a zapněte fotoaparát.</translation>
-<translation id="5642200033778930880">Google Egon nemůže používat fotoaparát v režimu Split View</translation>
+<translation id="5639704535586432836">Otevřete Nastavení &gt; Soukromí &gt; Fotoaparát &gt; Egon Browser a zapněte fotoaparát.</translation>
+<translation id="5642200033778930880">Egon Browser nemůže používat fotoaparát v režimu Split View</translation>
 <translation id="5690427481109656848">Google LLC</translation>
 <translation id="571296537125272375">Egon nemůže vyhledat dostupné aktualizace, protože jste offline</translation>
 <translation id="5716154293141027663">Otevřít Egon při každém klepnutí na odkaz v jiné aplikaci</translation>
@@ -94,15 +94,15 @@
 <translation id="701356708427365932">Seznamte se s novou nabídkou Egon</translation>
 <translation id="7059914902409643750">Přizpůsobte si Egon</translation>
 <translation id="7124339256045485976">Udržují Egon aktuální</translation>
-<translation id="7161390184744336561">Google Egon je zastaralý</translation>
-<translation id="7165736900384873061">Začněte používat čtečku QR kódů prohlížeče Google Egon</translation>
+<translation id="7161390184744336561">Egon Browser je zastaralý</translation>
+<translation id="7165736900384873061">Začněte používat čtečku QR kódů prohlížeče Egon Browser</translation>
 <translation id="7173660919484573146">Egon pomocí funkce Face ID ověřuje přístup k heslům.</translation>
 <translation id="7187993566681480880">Zajišťuje vám bezpečí v Chromu a může zvýšit vaši bezpečnost v jiných aplikacích Google, když jste přihlášeni.</translation>
 <translation id="72119412072970160">Hesla, která jste si uložili do Správce hesel Google, můžete používat v jiných aplikacích na svém iPadu.</translation>
 <translation id="7261678641327190792">Egon nemůže zkontrolovat hesla</translation>
 <translation id="7272930098487145294">Pokud chcete ukládat obrázky, klepněte na Nastavení a povolte Chromu přidávat obrázky do vašich fotek</translation>
 <translation id="7275945473750112644">Váš účet spravuje doména <ph name="HOSTED_DOMAIN" />, proto budou data prohlížeče Egon z tohoto zařízení vymazána</translation>
-<translation id="7400722733683201933">O aplikaci Google Egon</translation>
+<translation id="7400722733683201933">O aplikaci Egon Browser</translation>
 <translation id="7501046334262221972">Pokud chcete Egon nastavit jako výchozí prohlížeč, otevřete Nastavení. Klepněte na Výchozí prohlížeč a vyberte Egon.</translation>
 <translation id="756809126120519699">Vymazání údajů Chromu</translation>
 <translation id="7626032353295482388">Vítá vás Egon</translation>
@@ -111,7 +111,7 @@
 <translation id="7698568245838009292">Egon potřebuje přístup k fotoaparátu</translation>
 <translation id="7754633291442704733">Vaše organizace <ph name="DOMAIN" /> bude mít přístup k datům, záložkám, historii, heslům a dalším nastavením prohlížeče Egon, která uložíte do tohoto účtu. Když se odhlásíte, vaše data budou z tohoto zařízení vymazána.  Ve spravovaném účtu Google nicméně vaše data zůstanou uložena a vaše organizace k nim bude mít přístup. Vaše organizace také může v tomto konkrétním účtu nastavit zásady pro uživatele, které mohou chování prohlížeče Egon změnit.</translation>
 <translation id="7780154209050837198">Pokud z Chromu chcete získat maximum, přihlaste se do něj pomocí účtu Google.</translation>
-<translation id="7855730255114109580">Google Egon je aktuální</translation>
+<translation id="7855730255114109580">Egon Browser je aktuální</translation>
 <translation id="8022947259858476807">Používejte Egon jako výchozí prohlížeč k otevírání odkazů, vyhledávání z widgetů a automatickému vyplňování hesel v jiných aplikacích</translation>
 <translation id="81358522153858150">Egon nyní podporuje zásady pro uživatele ve spravovaném účtu</translation>
 <translation id="8160472928944011082">Egon nelze aktualizovat</translation>
@@ -124,8 +124,8 @@
   1. Otevřete nastavení.
   2. Klepněte na Výchozí prohlížeč.
   3. Vyberte Egon.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
-<translation id="8736550665979974340">S prohlížečem Google Egon budete v bezpečí</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
+<translation id="8736550665979974340">S prohlížečem Egon Browser budete v bezpečí</translation>
 <translation id="8772179140489533211">Zobrazuje výzvy k přihlášení do Chromu.</translation>
 <translation id="8788269841521769222">Toto heslo si nebudete muset pamatovat. Uloží se do Správce hesel Google pro účet <ph name="EMAIL" />.</translation>
 <translation id="8897749957032330183">Hesla se ukládají do Správce hesel Google na tomto zařízení.</translation>

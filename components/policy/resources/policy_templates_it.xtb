@@ -4160,7 +4160,7 @@ Se il criterio viene disattivato, <ph name="PRODUCT_OS_NAME" /> disattiva il Blu
 Se questa norma non viene impostata viene utilizzata la riga di comando predefinita.</translation>
 <translation id="5151099177901233471">Attiva i report sulle informazioni relative al fuso orario del dispositivo</translation>
 <translation id="5152393033264257734">Consenti controlli dell'intercettazione DNS e barre di informazioni "http://intranetsite/" alternative</translation>
-<translation id="5152787786897382519">Egon e Google Egon hanno alcuni gruppi di criteri che dipendono gli uni dagli altri per fornire il controllo di una funzionalità. Questi insiemi sono rappresentati dai seguenti gruppi di criteri. Dato che i criteri possono avere diverse origini, vengono applicati soltanto i valori provenienti dall'origine con la priorità massima. I valori dello stesso gruppo provenienti da un'origine con priorità inferiore vengono ignorati. L'ordine di priorità è definito in <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Egon e Egon Browser hanno alcuni gruppi di criteri che dipendono gli uni dagli altri per fornire il controllo di una funzionalità. Questi insiemi sono rappresentati dai seguenti gruppi di criteri. Dato che i criteri possono avere diverse origini, vengono applicati soltanto i valori provenienti dall'origine con la priorità massima. I valori dello stesso gruppo provenienti da un'origine con priorità inferiore vengono ignorati. L'ordine di priorità è definito in <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5153187201534281749">Icona degli esperimenti del browser nella barra degli strumenti</translation>
 <translation id="5163002264923337812">Attiva il flusso di accesso basato sul Web precedente</translation>
 <translation id="5163889437570441600">Consenti la trasmissione di contenuti al dispositivo usando <ph name="PRODUCT_NAME" />.
@@ -7270,7 +7270,7 @@ Se questo criterio non viene impostato, verrà applicato il comportamento predef
 
       Questo criterio viene ignorato per gli account utente standard.</translation>
 <translation id="8257863622304579015">Attiva la sandbox del servizio di rete</translation>
-<translation id="8259375588339409826">Egon e Google Egon supportano lo stesso insieme di norme. Questo documento potrebbe includere norme riferite a versioni non ancora introdotte (la relativa voce "Supported on" si riferisce a una versione non rilasciata di <ph name="PRODUCT_NAME" />). Tali norme sono soggette a modifica o rimozione senza preavviso e non viene fornita alcuna garanzia in merito, neanche in relazione alle proprietà di privacy e sicurezza.
+<translation id="8259375588339409826">Egon e Egon Browser supportano lo stesso insieme di norme. Questo documento potrebbe includere norme riferite a versioni non ancora introdotte (la relativa voce "Supported on" si riferisce a una versione non rilasciata di <ph name="PRODUCT_NAME" />). Tali norme sono soggette a modifica o rimozione senza preavviso e non viene fornita alcuna garanzia in merito, neanche in relazione alle proprietà di privacy e sicurezza.
 
 Queste norme devono essere utilizzate esclusivamente per la configurazione delle istanze di <ph name="PRODUCT_NAME" /> interne all'organizzazione. L'utilizzo di queste norme al di fuori dell'organizzazione (ad esempio in un programma distribuito pubblicamente) viene considerato malware e potrebbe essere contrassegnato come malware da Google e dai fornitori di programmi antivirus.
 

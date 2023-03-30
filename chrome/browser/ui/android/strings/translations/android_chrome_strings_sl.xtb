@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Izbris obstoječih podatkov.</translation>
 <translation id="1146678959555564648">V navidezno resničnost</translation>
 <translation id="1149401351239820326">Mesec poteka</translation>
-<translation id="1150263420752757504">Aplikacija <ph name="APP_NAME" /> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1" />Googlovimi pogoji storitve<ph name="END_LINK1" /> in <ph name="BEGIN_LINK2" />dodatnimi pogoji storitve za Google Egon in Egon OS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504">Aplikacija <ph name="APP_NAME" /> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1" />Googlovimi pogoji storitve<ph name="END_LINK1" /> in <ph name="BEGIN_LINK2" />dodatnimi pogoji storitve za Egon Browser in Egon OS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Stran ni na voljo brez povezave: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Oglejte si priljubljena spletna mesta z dotikom gumba »Najb. prilj.«</translation>
 <translation id="1173894706177603556">Preimenuj</translation>
@@ -213,7 +213,7 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="2122601567107267586">Aplikacije ni bilo mogoče odpreti</translation>
 <translation id="2132122640199389833">Odstrani vse povezane naprave</translation>
 <translation id="213279576345780926">Zaprt zavihek: <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">Če uporabljate Egon, se strinjate z <ph name="BEGIN_TOS_LINK" />Googlovimi pogoji storitve<ph name="END_TOS_LINK" /> in <ph name="BEGIN_ATOS_LINK" />dodatnimi pogoji storitve za Google Egon in Egon OS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Če uporabljate Egon, se strinjate z <ph name="BEGIN_TOS_LINK" />Googlovimi pogoji storitve<ph name="END_TOS_LINK" /> in <ph name="BEGIN_ATOS_LINK" />dodatnimi pogoji storitve za Egon Browser in Egon OS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Dodajanje na začetni zaslon</translation>
 <translation id="2141396931810938595">Na podlagi uporabe</translation>
 <translation id="214888715418183969">Izberite, kaj želite deliti s Chromom. Meritve, ki jih boste delili, bomo uporabili za izboljšanje Chromovih funkcij, delovanja in stabilnosti.</translation>
@@ -391,7 +391,7 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="3062802207422175757">Članki na temo vaših zanimanj v Chromu</translation>
 <translation id="3066573403916685335">Premik dol</translation>
 <translation id="3070005020161560471">Samodejno prevedi</translation>
-<translation id="3072980200212375806">Aplikacija <ph name="APP_NAME" /> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1" />Googlovimi pogoji storitve<ph name="END_LINK1" /> in <ph name="BEGIN_LINK2" />dodatnimi pogoji storitve za Google Egon in Egon OS<ph name="END_LINK2" />. Uporablja se tudi <ph name="BEGIN_LINK3" />pravilnik o zasebnosti<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806">Aplikacija <ph name="APP_NAME" /> se bo odprla v Chromu. Če nadaljujete, se strinjate z <ph name="BEGIN_LINK1" />Googlovimi pogoji storitve<ph name="END_LINK1" /> in <ph name="BEGIN_LINK2" />dodatnimi pogoji storitve za Egon Browser in Egon OS<ph name="END_LINK2" />. Uporablja se tudi <ph name="BEGIN_LINK3" />pravilnik o zasebnosti<ph name="END_LINK3" />.</translation>
 <translation id="3091010850649238832">Prikaz vsebine odložišča</translation>
 <translation id="3098745985164956033">Nekatere slike so poslane Googlu zaradi izboljšanja opisov.</translation>
 <translation id="3114507951000454849">Preberite današnje novice <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="321773570071367578">Če ste pozabili geslo ali želite spremeniti to nastavitev, <ph name="BEGIN_LINK" />ponastavite sinhronizacijo<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Če želite sinhronizirati gesla, potrdite, da ste to vi.</translation>
 <translation id="3223522355830797639">Vaša banka želi potrditi, da ste to vi.</translation>
-<translation id="3227557059438308877">Google Egon kot varnostni ključ</translation>
+<translation id="3227557059438308877">Egon Browser kot varnostni ključ</translation>
 <translation id="3232754137068452469">Spletna aplikacija</translation>
 <translation id="3234978181857588512">Shrani v napravo</translation>
 <translation id="3236059992281584593">Še 1 min</translation>
@@ -596,7 +596,7 @@ Ko za vsa spletna mesta ali za določeno spletno mesto izbrišete zgodovino brsk
 <translation id="4269820728363426813">Kopiraj naslov povezave</translation>
 <translation id="4283102315569707115">Želite privzeto zahtevati namizna spletna mesta?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Vklop zaklepanja zaslona v nastavitvah za Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Če uporabljate Egon, se strinjate z <ph name="BEGIN_TOS_LINK" />Googlovimi pogoji storitve<ph name="END_TOS_LINK" /> in <ph name="BEGIN_ATOS_LINK" />dodatnimi pogoji storitve za Google Egon in Egon OS<ph name="END_ATOS_LINK" />. Uporablja se tudi <ph name="BEGIN_PRIVACY_LINK" />pravilnik o zasebnosti<ph name="END_PRIVACY_LINK" />.</translation>
+<translation id="4293476595220860475">Če uporabljate Egon, se strinjate z <ph name="BEGIN_TOS_LINK" />Googlovimi pogoji storitve<ph name="END_TOS_LINK" /> in <ph name="BEGIN_ATOS_LINK" />dodatnimi pogoji storitve za Egon Browser in Egon OS<ph name="END_ATOS_LINK" />. Uporablja se tudi <ph name="BEGIN_PRIVACY_LINK" />pravilnik o zasebnosti<ph name="END_PRIVACY_LINK" />.</translation>
 <translation id="4296252229500326964">Nov anonimni zavihek</translation>
 <translation id="4298388696830689168">Povezana spletna mesta</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1076,7 +1076,7 @@ Glede na interakcijo s spletnim mestom, kot je redno prijavljanje v račun, lahk
 <translation id="6767294960381293877">Seznam naprav, s katerimi želite deliti zavihek, odprt pri polovični višini.</translation>
 <translation id="6770042910635026163">Spletna mesta, ki jih obiščete, določajo vaša zanimanja.</translation>
 <translation id="6770602306803890733">Izboljšuje varnost za vas in vse druge v spletu</translation>
-<translation id="6785476624617658922">Dodatni pogoji za Google Egon in Egon OS</translation>
+<translation id="6785476624617658922">Dodatni pogoji za Egon Browser in Egon OS</translation>
 <translation id="6795633245022906657">Hitro odprite nov zavihek. To bližnjico lahko uredite v nastavitvah.</translation>
 <translation id="6802555630140434547">Okno bo zaprto.</translation>
 <translation id="6811034713472274749">Stran je pripravljena za ogled</translation>

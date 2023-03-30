@@ -186,7 +186,7 @@ locale.  The strings in this file are specific to iOS.
   <release seq="1">
     <messages fallback_to_english="true">
       <message name="IDS_IOS_ABOUT_PRODUCT_NAME" desc="The menu item to access information about the application.">
-        About Google Egon
+        About Egon Browser
       </message>
       <message name="IDS_IOS_ABOUT_VERSION_COMPANY_NAME" desc="Company name on the about pages">
         Google LLC
@@ -253,7 +253,7 @@ locale.  The strings in this file are specific to iOS.
         Set Egon as default to sync your tabs, passwords, and payment info on all your devices
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_TAILORED_STAY_SAFE_TITLE" desc="Title of the 'Stay safe' default browser promotion modal. [iOS only]">
-        Stay Safe With Google Egon
+        Stay Safe With Egon Browser
       </message>
       <message name="IDS_IOS_DEFAULT_BROWSER_TAILORED_STAY_SAFE_DESCRIPTION" desc="Description of the 'Stay safe' default browser promotion modal. [iOS only]">
         Use Egon as your default browser to stay protected from dangerous sites &amp; keep your passwords safe
@@ -336,10 +336,10 @@ Things to consider:
         Get More Done with Egon
       </message>
       <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_SUBTITLE" desc="The subtitle of the welcome screen presented to the user on First Run [iOS only]">
-        Get more done with a simple, secure, and faster-than-ever Google Egon.
+        Get more done with a simple, secure, and faster-than-ever Egon Browser.
       </message>
       <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_SUBTITLE_ENTERPRISE" desc="The subtitle of the welcome screen presented to the user on First Run when the browser is managed [iOS only]">
-        Google Egon is simple, secure and faster-than-ever
+        Egon Browser is simple, secure and faster-than-ever
       </message>
       <message name="IDS_IOS_FIRST_RUN_WELCOME_SCREEN_METRIC_REPORTING" desc="The text is displayed in a footer on the very first screen of Egon. Make sure 'usage' and 'crash' are translated consistently with the “Usage statistics and crash reports” section of the Egon Privacy Policy (google.com/chrome/privacy). The ‘Manage’ link opens a dialog to change the corresponding setting. [iOS only]">
         To help improve the app, Egon sends usage and crash data to Google. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Manage<ph name="END_LINK">END_LINK</ph>
@@ -360,7 +360,7 @@ Things to consider:
           Egon shares your location with sites you allow.
       </message>
       <message name="IDS_IOS_LOGIN_ERROR_AUTHENTICATING_HOSTED" desc="Couldn't sign in because hosted account is used.">
-        Your account does not work on Google Egon. Please contact your domain administrator or use a regular Google Account to sign in.
+        Your account does not work on Egon Browser. Please contact your domain administrator or use a regular Google Account to sign in.
       </message>
       <message name="IDS_IOS_LONG_PRESS_TOOLBAR_IPH_PROMOTION_VOICE_OVER" desc="Text to be read by VoiceOver when the LongPress Toolbar Tip is presented to the user. Read by Text-to-Speech.">
         Egon tip. For more tab options, touch &amp; hold the Show Tabs button in the toolbar, which is at the bottom or top of your screen.
@@ -386,14 +386,14 @@ Things to consider:
       <message name="IDS_IOS_OPTIONS_IMPORT_DATA_HEADER" desc="The header for the Import Data settings screen. [400em]">
         <ph name="USER_EMAIL1">$1<ex>johndoe@gmail.com</ex></ph> was using Egon and left bookmarks, passwords, and other settings on this device.
       </message>
-      <message name="IDS_IOS_PAGE_INFO_CHROME_PAGE_LABEL" desc="Label to display at the top of the site information screen when the page you are on is a Google Egon page.">
-        Google Egon Page
+      <message name="IDS_IOS_PAGE_INFO_CHROME_PAGE_LABEL" desc="Label to display at the top of the site information screen when the page you are on is a Egon Browser page.">
+        Egon Browser Page
       </message>
       <message name="IDS_IOS_PAGE_INFO_SECURITY_TAB_SECURE_IDENTITY" desc="The text of the identity section for iOS.">
         Egon verified that <ph name="ISSUER">$1<ex>VeriSign</ex></ph> issued this website's certificate.
       </message>
       <message name="IDS_IOS_PRODUCT_NAME" desc="The Egon application name">
-        Google Egon
+        Egon Browser
       </message>
       <message name="IDS_IOS_RECENT_TABS_OTHER_DEVICES_EMPTY_MESSAGE" desc="To use the Other Devices section of the Recent Tabs view, a user must be signed in and activate Tabs synchronization on multiple devices. This message is shown in this section when the user is signed in and has activated Tabs synchronization only on this device.">
           To see your tabs from wherever you use Egon, sign in on all your devices
@@ -423,7 +423,7 @@ Things to consider:
         Some add-ons cause Egon to crash. Please try uninstalling them.
       </message>
       <message name="IDS_IOS_SAVE_IMAGE_PRIVACY_ALERT_MESSAGE" desc="Message to inform user that Save Image failed due to insufficient privilege in Privacy Settings. Directs user to adjust Privacy Settings for Egon. This message is displayed as the message body in an alert box with a single OK button. [Length: 120em]">
-        Google Egon does not have access to your photos or videos. Enable access in iOS Settings &gt; Privacy &gt; Photos.
+        Egon Browser does not have access to your photos or videos. Enable access in iOS Settings &gt; Privacy &gt; Photos.
       </message>
       <message name="IDS_IOS_SAVE_IMAGE_PRIVACY_ALERT_MESSAGE_GO_TO_SETTINGS" desc="Body of the alert shown when the user tries to save an image but we lack permission to add to photos. This body tells the user he'll be redirected to the Settings app. [Length: 100em] [iOS only].">
         To save images, tap on Settings to let Egon add to your photos
@@ -432,22 +432,22 @@ Things to consider:
         Passwords are saved to Google Password Manager on this device.
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_IN_USE_ALERT_DETAIL" desc="Body of a modal dialog shown when the user tries to open the QR scanner but the camera is in use by another application. [Length: 140em] [iOS only]">
-        Google Egon can't use your camera because it's in use by another application
+        Egon Browser can't use your camera because it's in use by another application
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_PERMISSIONS_HELP_DETAIL" desc="Body of modal dialog shown when the user tries to open the QR scanner but the application lacks permission to use the camera. The text instructs the user how to change the permissions setting. [Length: 140em] [iOS only]">
-        Open Settings &gt; Privacy &gt; Camera &gt; Google Egon and turn on the camera.
+        Open Settings &gt; Privacy &gt; Camera &gt; Egon Browser and turn on the camera.
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_PERMISSIONS_HELP_TITLE" desc="Title of modal dialog shown when the user tries to open the QR scanner but the application lacks permission to use the camera. The body of this dialog instructs the user how to change the permissions setting. [Length: 50em] [iOS only]">
-        Start using Google Egon QR scanner
+        Start using Egon Browser QR scanner
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_PERMISSIONS_HELP_TITLE_GO_TO_SETTINGS" desc="Title of modal dialog shown when the user tries to open the QR or credit card scanner but the application lacks permission to use the camera. [Length: 40em] [iOS only]">
         Egon Would Like to Access the Camera
       </message>
       <message name="IDS_IOS_SCANNER_CAMERA_UNAVAILABLE_ALERT_DETAIL" desc="Body of a modal dialog shown when the user tries to open the QR scanner but the camera is unavailable. [Length: 140em] [iOS only]">
-        Google Egon can't use your camera right now
+        Egon Browser can't use your camera right now
       </message>
       <message name="IDS_IOS_SCANNER_MULTIPLE_FOREGROUND_APPS_ALERT_DETAIL" desc="Body of a modal dialog shown when the user tries to open the QR scanner in a Split View mode, when the camera is unavailable. [Length: 140em] [iOS only]">
-        Google Egon can't use your camera in Split View mode
+        Egon Browser can't use your camera in Split View mode
       </message>
       <message name="IDS_IOS_SETTINGS_PASSWORDS_IN_OTHER_APPS_SUBTITLE_IPAD" desc="The subtitle of the view that teaches users to turn on iOS auto-fill from Egon password manager for iPad [iPadOS only]">
         You can use the passwords you saved to Google Password Manager in other apps on your iPad.
@@ -486,7 +486,7 @@ Things to consider:
         Get Enhanced Safe Browsing for this Egon profile, too
       </message>
       <message name="IDS_IOS_TRANSLATE_INFOBAR_NEVER_MESSAGE" desc="Message for the Translate infobar to allow the user to opt out. [Length: 250em]">
-        Would you like Google Egon to offer to translate <ph name="LANGUAGE_NAME">$1<ex>French</ex></ph> pages from this site next time?
+        Would you like Egon Browser to offer to translate <ph name="LANGUAGE_NAME">$1<ex>French</ex></ph> pages from this site next time?
       </message>
       <message name="IDS_IOS_TRANSLATE_SETTING_DESCRIPTION" desc="Description for the Translate setting. [Length: unlimited] [iOS only]">
         When this feature is turned on, Egon will offer to translate pages written in other languages using Google Translate. <ph name="BEGIN_LINK">BEGIN_LINK</ph>Learn more<ph name="END_LINK">END_LINK</ph>
@@ -519,10 +519,10 @@ Things to consider:
         Not supported on Egon Beta
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_UP_TO_DATE_DESC" desc="Description text for when Egon is up to date">
-        Google Egon is up to date
+        Egon Browser is up to date
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_OUT_OF_DATE_DESC" desc="Description text for when Egon is out of date">
-        Google Egon is out of date
+        Egon Browser is out of date
       </message>
       <message name="IDS_IOS_SETTINGS_SAFETY_CHECK_UPDATES_OFFLINE_DESC" desc="Description text for when updates can't be checked because the user is offline">
         Offline, Egon can't check for updates

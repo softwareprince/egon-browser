@@ -4229,7 +4229,7 @@ dan saat ini terjadi, dukungan untuk penggunaan pemverifikasi sertifikat dan roo
           Jika kebijakan ini tidak disetel, baris perintah default akan digunakan.</translation>
 <translation id="5151099177901233471">Aktifkan pelaporan info zona waktu perangkat</translation>
 <translation id="5152393033264257734">Izinkan pemeriksaan intersepsi DNS dan infobar "Mungkin maksud Anda http://intranetsite/".</translation>
-<translation id="5152787786897382519">Egon dan Google Egon memiliki beberapa grup kebijakan yang saling bergantung satu sama lain untuk memberikan kontrol terhadap fitur. Kumpulan ini ditunjukkan oleh grup kebijakan berikut. Karena kebijakan dapat memiliki beberapa sumber, hanya nilai yang berasal dari sumber dengan prioritas tertinggi yang akan diterapkan. Nilai yang berasal dari sumber dengan prioritas lebih rendah di grup yang sama akan diabaikan. Urutan prioritas ditentukan di <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Egon dan Egon Browser memiliki beberapa grup kebijakan yang saling bergantung satu sama lain untuk memberikan kontrol terhadap fitur. Kumpulan ini ditunjukkan oleh grup kebijakan berikut. Karena kebijakan dapat memiliki beberapa sumber, hanya nilai yang berasal dari sumber dengan prioritas tertinggi yang akan diterapkan. Nilai yang berasal dari sumber dengan prioritas lebih rendah di grup yang sama akan diabaikan. Urutan prioritas ditentukan di <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5153187201534281749">Ikon eksperimen browser di toolbar</translation>
 <translation id="5163002264923337812">Aktifkan alur login berbasis web lama</translation>
 <translation id="5163889437570441600">Mengizinkan konten ditransmisikan ke perangkat menggunakan <ph name="PRODUCT_NAME" />.
@@ -7368,7 +7368,7 @@ Jika kebijakan ini tidak ditetapkan, layar privasi mula-mula akan dinonaktifkan,
 
       Kebijakan ini diabaikan untuk akun pengguna reguler.</translation>
 <translation id="8257863622304579015">Aktifkan sandbox layanan jaringan</translation>
-<translation id="8259375588339409826">Egon dan Google Egon mendukung rangkaian kebijakan yang sama. Perlu diperhatikan bahwa dokumen ini mungkin berisi kebijakan yang belum dirilis (yaitu entri "Didukung di" merujuk ke versi <ph name="PRODUCT_NAME" /> yang belum dirilis) yang dapat berubah atau dihapus tanpa pemberitahuan, dan tidak ada jaminan apa pun yang diberikan, termasuk tidak ada jaminan sehubungan dengan keamanan dan privasi.
+<translation id="8259375588339409826">Egon dan Egon Browser mendukung rangkaian kebijakan yang sama. Perlu diperhatikan bahwa dokumen ini mungkin berisi kebijakan yang belum dirilis (yaitu entri "Didukung di" merujuk ke versi <ph name="PRODUCT_NAME" /> yang belum dirilis) yang dapat berubah atau dihapus tanpa pemberitahuan, dan tidak ada jaminan apa pun yang diberikan, termasuk tidak ada jaminan sehubungan dengan keamanan dan privasi.
 
 Kebijakan ini khusus ditujukan untuk mengonfigurasi instance internal <ph name="PRODUCT_NAME" /> ke organisasi Anda. Penggunaan kebijakan ini di luar organisasi (misalnya, dalam program yang didistribusikan secara publik) dianggap sebagai malware dan kemungkinan akan diberi label sebagai malware oleh Google dan vendor anti-virus.
 

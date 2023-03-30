@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="cy">
-<translation id="1001534784610492198">Mae'r archif gosodwr wedi'i lygru neu'n annilys. Lawrlwythwch Google Egon eto.</translation>
+<translation id="1001534784610492198">Mae'r archif gosodwr wedi'i lygru neu'n annilys. Lawrlwythwch Egon Browser eto.</translation>
 <translation id="1026101648481255140">Parhau i Osod</translation>
-<translation id="102763973188675173">Personoleiddio a rheoli Google Egon. Mae diweddariad ar gael.</translation>
+<translation id="102763973188675173">Personoleiddio a rheoli Egon Browser. Mae diweddariad ar gael.</translation>
 <translation id="1051826050538111504">Mae meddalwedd niweidiol ar eich cyfrifiadur. Gall Egon ei dynnu, adfer eich gosodiadau, ac analluogi estyniadau i wneud i'ch porwr weithio fel arfer eto.</translation>
 <translation id="1065672644894730302">Ni ellir darllen eich dewisiadau.
 
@@ -20,17 +20,17 @@ Mae'n bosib na fydd rhai nodweddion ar gael ac ni fydd newidiadau o ran dewisiad
 <translation id="1302523850133262269">Arhoswch dra bod Egon yn gosod y diweddariadau system diweddaraf.</translation>
 <translation id="1335640173511558774">Mae <ph name="MANAGER" /> yn gofyn i chi ddarllen a derbyn y Telerau Gwasanaeth canlynol cyn defnyddio'r ddyfais hon. Nid yw'r telerau hyn yn ehangu, addasu na chyfyngu ar Delerau Google ChromeOS Flex.</translation>
 <translation id="1363996462118479832">Ni allai ChromeOS gysoni'ch data oherwydd gwall wrth fewngofnodi.</translation>
-<translation id="137466361146087520">Beta Google Egon</translation>
-<translation id="1399397803214730675">Mae gan y cyfrifiadur hwn fersiwn mwy diweddar o Google Egon. Os nad yw'r feddalwedd yn gweithio, dadosodwch Google Egon a rhowch gynnig arall arni.</translation>
+<translation id="137466361146087520">Beta Egon Browser</translation>
+<translation id="1399397803214730675">Mae gan y cyfrifiadur hwn fersiwn mwy diweddar o Egon Browser. Os nad yw'r feddalwedd yn gweithio, dadosodwch Egon Browser a rhowch gynnig arall arni.</translation>
 <translation id="139993653570221430">Gallwch newid eich meddwl ar unrhyw bryd yng ngosodiadau Egon. Mae'r profion yn rhedeg ochr yn ochr â'r ffordd bresennol o gyflwyno hysbysebion, felly ni fyddwch yn gweld newidiadau ar unwaith.</translation>
 <translation id="1434626383986940139">Apiau Egon Canary</translation>
 <translation id="1507198376417198979">Personoleiddio eich proffil Egon newydd</translation>
-<translation id="1516530951338665275">Mae angen mynediad Bluetooth ar Google Egon i barhau i 
+<translation id="1516530951338665275">Mae angen mynediad Bluetooth ar Egon Browser i barhau i 
 baru <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
 <translation id="1547295885616600893">Mae ChromeOS yn bosib oherwydd <ph name="BEGIN_LINK_CROS_OSS" />meddalwedd ffynhonnell agored<ph name="END_LINK_CROS_OSS" /> ychwanegol.</translation>
 <translation id="1553358976309200471">Diweddarwch Egon</translation>
 <translation id="1583073672411044740">Mae <ph name="EXISTING_USER" /> eisoes wedi mewngofnodi i'r proffil Egon hwn. Bydd hyn yn creu proffil Egon newydd ar gyfer <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="1587223624401073077">Mae Google Egon yn defnyddio'ch camera.</translation>
+<translation id="1587223624401073077">Mae Egon Browser yn defnyddio'ch camera.</translation>
 <translation id="1587325591171447154">Mae <ph name="FILE_NAME" /> yn beryglus, felly mae Egon wedi ei rhwystro.</translation>
 <translation id="1597911401261118146">I wirio a yw'ch cyfrineiriau'n ddiogel rhag toriadau data a phroblemau diogelwch eraill, <ph name="BEGIN_LINK" />mewngofnodwch i Egon<ph name="END_LINK" />.</translation>
 <translation id="1599904803480101533">Gwnaeth Egon rwysto'r ffeil archif hon oherwydd mae'n bosib ei bod yn cuddio drwgwedd</translation>
@@ -40,28 +40,28 @@ baru <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></transl
 <translation id="1640672724030957280">Wrthi'n lawrlwytho...</translation>
 <translation id="1662146548738125461">Ynghylch ChromeOS Flex</translation>
 <translation id="1674870198290878346">Agor y Ddolen mewn Ffenestr Anhy&amp;sbys Egon</translation>
-<translation id="1682634494516646069">Ni all Google Egon ddarllen nac ysgrifennu i'w gyfeiriadur data:
+<translation id="1682634494516646069">Ni all Egon Browser ddarllen nac ysgrifennu i'w gyfeiriadur data:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
 <translation id="1691802391966922744">{COUNT,plural, =1{Mae eich gweinyddwr wedi ffurfweddu Egon i gau os yw'n segur am fwy nag 1 funud.}zero{Mae eich gweinyddwr wedi ffurfweddu Egon i gau os yw'n segur am fwy na # munud.}two{Mae eich gweinyddwr wedi ffurfweddu Egon i gau os yw'n segur am fwy na # funud.}few{Mae eich gweinyddwr wedi ffurfweddu Egon i gau os yw'n segur am fwy na # munud.}many{Mae eich gweinyddwr wedi ffurfweddu Egon i gau os yw'n segur am fwy na # munud.}other{Mae eich gweinyddwr wedi ffurfweddu Egon i gau os yw'n segur am fwy na # munud.}}</translation>
-<translation id="1698376642261615901">Porwr gwe yw Google Egon sy'n rhedeg tudalennau gwe a rhaglenni mewn chwinciad. Mae'n gyflym, sefydlog ac yn hawdd ei ddefnyddio. Porwch y we'n fwy diogel gyda diogelwch rhag maleiswedd a gwe-rwydo pwrpasol yn Google Egon.</translation>
+<translation id="1698376642261615901">Porwr gwe yw Egon Browser sy'n rhedeg tudalennau gwe a rhaglenni mewn chwinciad. Mae'n gyflym, sefydlog ac yn hawdd ei ddefnyddio. Porwch y we'n fwy diogel gyda diogelwch rhag maleiswedd a gwe-rwydo pwrpasol yn Egon Browser.</translation>
 <translation id="1713301662689114961">{0,plural, =1{Bydd Egon yn ail-lansio mewn awr}zero{Bydd Egon yn ail-lansio mewn # awr}two{Bydd Egon yn ail-lansio mewn # awr}few{Bydd Egon yn ail-lansio mewn # awr}many{Bydd Egon yn ail-lansio mewn # awr}other{Bydd Egon yn ail-lansio mewn # awr}}</translation>
 <translation id="1734234790201236882">Bydd Egon yn cadw'r cyfrinair hwn yn eich Cyfrif Google. Ni fydd yn rhaid i chi ei gofio.</translation>
 <translation id="1759842336958782510">Egon</translation>
 <translation id="1786003790898721085">Gwnewch yn siŵr eich bod wedi mewngofnodi i Egon ar eich <ph name="TARGET_DEVICE_NAME" /> a rhowch gynnig arall arni.</translation>
 <translation id="1812689907177901597">Drwy ddiffodd hyn, gallwch fewngofnodi i wefannau Google megis Gmail heb fewngofnodi i Egon</translation>
 <translation id="1860536484129686729">Mae angen caniatâd ar Egon i gael mynediad at eich camera ar gyfer y wefan hon</translation>
-<translation id="1873233029667955273">Nid Google Egon yw eich porwr diofyn</translation>
-<translation id="1874309113135274312">Beta Google Egon (mDNS-In)</translation>
+<translation id="1873233029667955273">Nid Egon Browser yw eich porwr diofyn</translation>
+<translation id="1874309113135274312">Beta Egon Browser (mDNS-In)</translation>
 <translation id="1877026089748256423">Rydych yn defnyddio hen fersiwn o Egon</translation>
 <translation id="1919130412786645364">Caniatáu mewngofnodi i Egon</translation>
-<translation id="1952239763774043237">I gael diweddariadau Google Egon yn y dyfodol, bydd angen macOS 10.13 neu'n hwyrach arnoch. Mae'r cyfrifiadur hwn yn defnyddio macOS 10.12.</translation>
+<translation id="1952239763774043237">I gael diweddariadau Egon Browser yn y dyfodol, bydd angen macOS 10.13 neu'n hwyrach arnoch. Mae'r cyfrifiadur hwn yn defnyddio macOS 10.12.</translation>
 <translation id="1953553007165777902">Wrthi'n lawrlwytho... Mae <ph name="MINUTE" /> o funudau ar ôl</translation>
 <translation id="2018528049276128029">Mae gan bob proffil ei wybodaeth Egon ei hun megis nodau tudalen, hanes, cyfrineiriau, a rhagor</translation>
 <translation id="2018879682492276940">Methwyd â gosod. Rhowch gynnig arall arni.</translation>
 <translation id="2071318482926839249">Mae cyfrif arall eisoes wedi mewngofnodi. I gadw'ch pori ar wahân, gall Egon greu proffil eich hun ar eich cyfer.</translation>
 <translation id="207902854391093810">Pan fydd treialon ymlaen, mae Mesur hysbysebion yn caniatáu i wefannau rydych yn ymweld â nhw i ofyn am wybodaeth gan Egon sy'n helpu'r wefan i fesur perfformiad eu hysbysebion. Mae Mesur hysbysebion yn cyfyngu ar olrhain traws-wefan drwy drosglwyddo cyn lleied o wybodaeth â phosib rhwng gwefannau.</translation>
-<translation id="2091012649849228750">I gael diweddariadau Google Egon yn y dyfodol, bydd angen Windows 10 neu ddiweddarach arnoch. Mae'r cyfrifiadur hwn yn defnyddio Windows 8.</translation>
+<translation id="2091012649849228750">I gael diweddariadau Egon Browser yn y dyfodol, bydd angen Windows 10 neu ddiweddarach arnoch. Mae'r cyfrifiadur hwn yn defnyddio Windows 8.</translation>
 <translation id="2094648590148273905">Termau ChromeOS Flex</translation>
 <translation id="2094919256425865063">Gadael Egon beth bynnag?</translation>
 <translation id="2106831557840787829">Mae ChromeOS Flex yn bosib oherwydd <ph name="BEGIN_LINK_CROS_OSS" />meddalwedd ffynhonnell agored<ph name="END_LINK_CROS_OSS" /> ychwanegol, fel y mae <ph name="BEGIN_LINK_LINUX_OSS" />amgylchedd datblygu Linux<ph name="END_LINK_LINUX_OSS" />.</translation>
@@ -74,36 +74,36 @@ baru <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></transl
 <translation id="2174917724755363426">Gosod heb ei gwblhau. Ydych chi'n siŵr eich bod am ganslo?</translation>
 <translation id="223889379102603431">Gwybodaeth am sut mae Egon yn rheoli ei dystysgrifau gwraidd</translation>
 <translation id="2258103955319320201">I gael mynediad at eich holl bethau porwr Egon ar draws eich holl ddyfeisiau, mewngofnodwch, yna trowch gysoni ymlaen</translation>
-<translation id="2290014774651636340">Mae allweddi API Google ar goll. Bydd rhywfaint o swyddogaeth Google Egon wedi'i hanalluogi.</translation>
-<translation id="2290095356545025170">Ydych chi'n siŵr eich bod eisiau dadosod Google Egon?</translation>
-<translation id="2309047409763057870">Mae hwn yn osodiad eilaidd o Google Egon, ac ni ellir ei wneud eich porwr diofyn.</translation>
+<translation id="2290014774651636340">Mae allweddi API Google ar goll. Bydd rhywfaint o swyddogaeth Egon Browser wedi'i hanalluogi.</translation>
+<translation id="2290095356545025170">Ydych chi'n siŵr eich bod eisiau dadosod Egon Browser?</translation>
+<translation id="2309047409763057870">Mae hwn yn osodiad eilaidd o Egon Browser, ac ni ellir ei wneud eich porwr diofyn.</translation>
 <translation id="2345992953227471816">Gwnaeth Egon ganfod bod yr estyniadau hyn yn cynnwys drwgwedd:</translation>
 <translation id="2348335408836342058">Mae angen caniatâd ar Egon i gael mynediad at eich camera a'ch meicroffon ar gyfer y wefan hon</translation>
 <translation id="234869673307233423">Ni all Egon wirio'ch cyfrineiriau. Rhowch gynnig arall arni'n nes ymlaen.</translation>
 <translation id="235650106824528204">Gall unrhyw ddata Egon a gynhyrchir wrth ddefnyddio'r proffil hwn (megis creu nodau tudalen, hanes, cyfrineiriau, a gosodiadau eraill) gael eu tynnu gan weinyddwr y proffil gwaith. <ph name="LEARN_MORE" /></translation>
 <translation id="2359808026110333948">Parhau</translation>
 <translation id="2401189691232800402">System ChromeOS</translation>
-<translation id="2467438592969358367">Mae Google Egon eisiau allforio'ch cyfrineiriau. Teipiwch eich cyfrinair Windows i ganiatáu hyn.</translation>
+<translation id="2467438592969358367">Mae Egon Browser eisiau allforio'ch cyfrineiriau. Teipiwch eich cyfrinair Windows i ganiatáu hyn.</translation>
 <translation id="2485422356828889247">Dadosod</translation>
 <translation id="2494974097748878569">Google Assistant yn Egon</translation>
 <translation id="2534507159460261402">Google Pay (copïwyd i Egon)</translation>
 <translation id="2559253115192232574">Yn nes ymlaen, gall gwefan rydych yn ymweld â hi ofyn i Egon weld eich diddordebau er mwyn personoleiddio'r hysbysebion rydych yn eu gweld. Gall Egon rannu hyd at 3 diddordeb.</translation>
 <translation id="2563121210305478421">Ail-lansio Egon?</translation>
 <translation id="2574930892358684005">Mae <ph name="EXISTING_USER" /> eisoes wedi'i fewngofnodi i'r proffil Egon hwn. I gadw'ch pori ar wahân, gall Egon greu proffil eich hun ar eich cyfer.</translation>
-<translation id="2580411288591421699">Methu â gosod yr un fersiwn Google Egon sy'n rhedeg ar hyn o bryd. Caewch Google Egon a rhowch gynnig arall arni.</translation>
+<translation id="2580411288591421699">Methu â gosod yr un fersiwn Egon Browser sy'n rhedeg ar hyn o bryd. Caewch Egon Browser a rhowch gynnig arall arni.</translation>
 <translation id="2586406160782125153">Bydd hyn yn dileu eich data pori o'r ddyfais hon. I adfer eich data yn nes ymlaen, mewngofnodwch i Egon fel <ph name="USER_EMAIL" />.</translation>
 <translation id="2597976513418770460">Cael eich stwff porwr Egon o <ph name="ACCOUNT_EMAIL" /></translation>
 <translation id="2622559029861875898">Ni all Egon wirio am ddiweddariadau. Rhowch gynnig ar wirio'ch cysylltiad rhyngrwyd.</translation>
 <translation id="2645435784669275700">ChromeOS</translation>
 <translation id="2652691236519827073">Agor Dolen mewn Tab Egon Newydd</translation>
-<translation id="2665296953892887393">Helpwch i wneud Google Egon yn well drwy anfon adroddiadau toriadau a <ph name="UMA_LINK" /> at Google</translation>
+<translation id="2665296953892887393">Helpwch i wneud Egon Browser yn well drwy anfon adroddiadau toriadau a <ph name="UMA_LINK" /> at Google</translation>
 <translation id="2689103672227170538">Mae'r estyniad hwn wedi newid y dudalen a ddangosir pan fyddwch yn dechrau Egon.</translation>
-<translation id="2742320827292110288">Rhybudd: Ni all Google Egon atal estyniadau rhag cofnodi eich hanes pori. I ddiffodd yr estyniad hwn yn y modd Anhysbys, dad-ddewiswch yr opsiwn hwn.</translation>
+<translation id="2742320827292110288">Rhybudd: Ni all Egon Browser atal estyniadau rhag cofnodi eich hanes pori. I ddiffodd yr estyniad hwn yn y modd Anhysbys, dad-ddewiswch yr opsiwn hwn.</translation>
 <translation id="2765403129283291972">Mae angen caniatâd ar Egon i gael mynediad at eich meicroffon ar gyfer y wefan hon</translation>
 <translation id="2770231113462710648">Newid y porwr diofyn i:</translation>
 <translation id="2775140325783767197">Ni all Egon wirio'ch cyfrineiriau. Rhowch gynnig ar wirio'ch cysylltiad rhyngrwyd.</translation>
 <translation id="2799223571221894425">Ail-lansio</translation>
-<translation id="2847461019998147611">Dangos Google Egon yn yr iaith hon</translation>
+<translation id="2847461019998147611">Dangos Egon Browser yn yr iaith hon</translation>
 <translation id="2857540653560290388">Wrthi'n lansio Egon...</translation>
 <translation id="2857972467023607093">Mae proffil Egon â'r cyfrif hwn eisoes yn bodoli</translation>
 <translation id="2861074815332034794">Wrthi'n diweddaru Egon (<ph name="PROGRESS_PERCENT" />)</translation>
@@ -118,16 +118,16 @@ baru <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></transl
 <translation id="2969728957078202736"><ph name="PAGE_TITLE" /> - Mewngofnodi Rhwydwaith - Egon</translation>
 <translation id="3019382870990049182">Ail-lansiwch i ddiweddaru &amp;ChromeOS Flex</translation>
 <translation id="303514781271618814">Mae Egon yn archwilio nodweddion newydd sy'n caniatáu i wefannau ddarparu'r un profiad pori drwy ddefnyddio llai o'ch data</translation>
-<translation id="3037838751736561277">Mae Google Egon yn y modd cefndir.</translation>
+<translation id="3037838751736561277">Mae Egon Browser yn y modd cefndir.</translation>
 <translation id="3038232873781883849">Wrthi'n aros i osod...</translation>
 <translation id="3059710691562604940">Mae Pori'n Ddiogel wedi'i ddiffodd. Mae Egon yn argymell ei droi ymlaen.</translation>
 <translation id="3065168410429928842">Tab Egon</translation>
 <translation id="3069821012350118710">Mae gwefannau rydych yn ymweld â nhw yn cofio'ch gwybodaeth nes i chi gau Egon</translation>
-<translation id="3080151273017101988">Parhau i redeg apiau cefndir pan fydd Google Egon ar gau</translation>
-<translation id="3089968997497233615">Mae fersiwn newydd, fwy diogel o Google Egon ar gael.</translation>
+<translation id="3080151273017101988">Parhau i redeg apiau cefndir pan fydd Egon Browser ar gau</translation>
+<translation id="3089968997497233615">Mae fersiwn newydd, fwy diogel o Egon Browser ar gael.</translation>
 <translation id="3100998948628680988">Enwch eich proffil Egon</translation>
 <translation id="3114643501466072395">I wirio a yw'ch cyfrineiriau eraill yn ddiogel rhag toriadau data a phroblemau diogelwch eraill, <ph name="BEGIN_LINK" />mewngofnodwch i Egon<ph name="END_LINK" />.</translation>
-<translation id="3140883423282498090">Bydd eich newidiadau yn dod i rym y tro nesaf y byddwch yn ail-lansio Google Egon.</translation>
+<translation id="3140883423282498090">Bydd eich newidiadau yn dod i rym y tro nesaf y byddwch yn ail-lansio Egon Browser.</translation>
 <translation id="3149510190863420837">Apiau Egon</translation>
 <translation id="3169523567916669830">Yn ystod y profion, gallwch weld a chael gwared ar bynciau sydd o ddiddordeb y mae gwefannau yn eu defnyddio i ddangos hysbysebion i chi. Mae Egon yn amcangyfrif eich diddordebau yn seiliedig ar eich hanes pori diweddar.</translation>
 <translation id="3245429137663807393">Os ydych hefyd yn rhannu adroddiadau defnydd Egon, mae'r adroddiadau hynny'n cynnwys y cyfeiriadau URL rydych yn ymweld â nhw</translation>
@@ -135,7 +135,7 @@ baru <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></transl
 <translation id="3286538390144397061">Ailddechrau Nawr</translation>
 <translation id="3360895254066713204">Helpwr Egon</translation>
 <translation id="3379938682270551431">{0,plural, =0{Bydd Egon yn ail-lansio nawr}=1{Bydd Egon yn ail-lansio mewn 1 eiliad}two{Bydd Egon yn ail-lansio mewn # eiliad}few{Bydd Egon yn ail-lansio mewn # eiliad}many{Bydd Egon yn ail-lansio mewn # eiliad}other{Bydd Egon yn ail-lansio mewn # eiliad}}</translation>
-<translation id="3396977131400919238">Bu gwall system weithredu wrth osod. Lawrlwythwch Google Egon eto.</translation>
+<translation id="3396977131400919238">Bu gwall system weithredu wrth osod. Lawrlwythwch Egon Browser eto.</translation>
 <translation id="3426646014273736870">Mae Arbedwr Cof wedi gwneud Egon yn Gyflymach</translation>
 <translation id="3428747202529429621">Yn eich cadw'n ddiogel ar Egon a gellir ei ddefnyddio i wella'ch diogelwch mewn apiau Google eraill pan fyddwch wedi'ch mewngofnodi</translation>
 <translation id="3434246496373299699">Gall Egon wirio'ch cyfrineiriau pan fyddwch yn mewngofnodi gyda'ch Cyfrif Google</translation>
@@ -146,7 +146,7 @@ baru <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></transl
 <translation id="3503306920980160878">Mae angen mynediad at eich lleoliad ar Egon i rannu'ch lleoliad gyda'r wefan hon</translation>
 <translation id="3533694711092285624">Nid oes unrhyw gyfrineiriau sydd wedi'u cadw. Gall Egon wirio'ch cyfrineiriau pan fyddwch yn eu cadw.</translation>
 <translation id="3541482654983822893">Ni all Egon wirio'ch cyfrineiriau. Rhowch gynnig arall arni ar ôl 24 awr.</translation>
-<translation id="3576528680708590453">Mae'ch gweinyddwr system wedi ffurfweddu Google Egon i agor porwr gwahanol i fynd i mewn i <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="3576528680708590453">Mae'ch gweinyddwr system wedi ffurfweddu Egon Browser i agor porwr gwahanol i fynd i mewn i <ph name="TARGET_URL_HOSTNAME" />.</translation>
 <translation id="3582972582564653026">Cysoni â phersonoleiddio Egon ar draws eich dyfeisiau</translation>
 <translation id="3596080736082218006">{COUNT,plural, =0{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso diweddariad}=1{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso diweddariad. Ni fydd eich ffenestr Anhysbys yn ailagor.}two{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso diweddariad. Ni fydd eich # ffenestr Anhysbys yn ailagor.}few{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso diweddariad. Ni fydd eich # ffenestr Anhysbys yn ailagor.}many{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso diweddariad. Ni fydd eich # ffenestr Anhysbys yn ailagor.}other{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso diweddariad. Ni fydd eich # ffenestr Anhysbys yn ailagor.}}</translation>
 <translation id="3622797965165704966">Mae'n bellach yn haws defnyddio Egon gyda'ch Cyfrif Google ac ar gyfrifiaduron a rennir.</translation>
@@ -160,19 +160,19 @@ baru <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></transl
 <translation id="3785324443014631273">Ni allai ChromeOS Flex gysoni'ch data oherwydd gwall wrth fewngofnodi.</translation>
 <translation id="3795971588916395511">Google ChromeOS</translation>
 <translation id="3835168907083856002">Bydd hyn yn creu proffil Egon newydd ar gyfer <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="386202838227397562">Caewch holl ffenestri Google Egon a rhowch gynnig arall arni.</translation>
+<translation id="386202838227397562">Caewch holl ffenestri Egon Browser a rhowch gynnig arall arni.</translation>
 <translation id="3865754807470779944">Mae fersiwn <ph name="PRODUCT_VERSION" /> o Egon wedi'i osod</translation>
 <translation id="3873044882194371212">Agor y Ddolen mewn ffenestr anhy&amp;sbys Egon</translation>
-<translation id="3889417619312448367">Dadosod Google Egon</translation>
+<translation id="3889417619312448367">Dadosod Egon Browser</translation>
 <translation id="3999683152997576765">Gallwch weld a dileu pynciau o ddiddordeb y mae gwefannau'n eu defnyddio i ddangos hysbysebion i chi. Mae Egon yn amcangyfrif eich diddordebau yn seiliedig ar eich hanes pori diweddar.</translation>
 <translation id="4035053306113201399">Mae angen ailgychwyn ChromeOS i gymhwyso'r diweddariad.</translation>
 <translation id="4050175100176540509">Mae gwelliannau diogelwch pwysig a nodweddion newydd ar gael yn y fersiwn ddiweddaraf.</translation>
-<translation id="4053720452172726777">Personoleiddio a rheoli Google Egon</translation>
+<translation id="4053720452172726777">Personoleiddio a rheoli Egon Browser</translation>
 <translation id="4106587138345390261">Mae Egon yn archwilio nodweddion newydd sy'n caniatáu i wefannau roi'r un profiad pori gan ddefnyddio llai o'ch gwybodaeth</translation>
 <translation id="4110895483821904099">Gosodwch eich proffil Egon newydd</translation>
-<translation id="4147555960264124640">Rydych yn mewngofnodi gyda chyfrif a reolir ac yn rhoi rheolaeth dros eich proffil Google Egon i'w weinyddwr. Bydd eich data Egon, megis eich apiau, eich nodau tudalen, eich hanes, eich cyfrineiriau, a'ch gosodiadau eraill wedi'u cysylltu'n barhaol â <ph name="USER_NAME" />. Byddwch yn gallu dileu'r data hyn drwy'r Dangosfwrdd Cyfrifon Google, ond ni fyddwch yn gallu cysylltu'r data hyn â chyfrif arall. <ph name="LEARN_MORE" /></translation>
+<translation id="4147555960264124640">Rydych yn mewngofnodi gyda chyfrif a reolir ac yn rhoi rheolaeth dros eich proffil Egon Browser i'w weinyddwr. Bydd eich data Egon, megis eich apiau, eich nodau tudalen, eich hanes, eich cyfrineiriau, a'ch gosodiadau eraill wedi'u cysylltu'n barhaol â <ph name="USER_NAME" />. Byddwch yn gallu dileu'r data hyn drwy'r Dangosfwrdd Cyfrifon Google, ond ni fyddwch yn gallu cysylltu'r data hyn â chyfrif arall. <ph name="LEARN_MORE" /></translation>
 <translation id="4148957013307229264">Wrthi’n gosod...</translation>
-<translation id="4149882025268051530">Methodd y gosodwr ag anghywasgu archif. Lawrlwythwch Google Egon eto.</translation>
+<translation id="4149882025268051530">Methodd y gosodwr ag anghywasgu archif. Lawrlwythwch Egon Browser eto.</translation>
 <translation id="4191857738314598978">{0,plural, =1{Ail-lansiwch Egon o fewn diwrnod}zero{Ail-lansiwch Egon o fewn # diwrnod}two{Ail-lansiwch Egon o fewn # ddiwrnod}few{Ail-lansiwch Egon o fewn # diwrnod}many{Ail-lansiwch Egon o fewn # diwrnod}other{Ail-lansiwch Egon o fewn # diwrnod}}</translation>
 <translation id="4205939740494406371">Ni all Egon wirio'ch cyfrineiriau. Rhowch gynnig arall arni ar ôl 24 awr neu <ph name="BEGIN_LINK" />gwiriwch gyfrineiriau yn eich Cyfrif Google<ph name="END_LINK" />.</translation>
 <translation id="4222932583846282852">Wrthi'n canslo...</translation>
@@ -183,16 +183,16 @@ baru <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></transl
 <translation id="4281844954008187215">Telerau Gwasanaeth</translation>
 <translation id="4293420128516039005">Mewngofnodwch i gysoni a phersonoleiddio Egon ar draws eich dyfeisiau</translation>
 <translation id="430327780270213103">Caniatáu i estyniad ddangos ceisiadau am fynediad ym mar offer Egon</translation>
-<translation id="4328355335528187361">Datblygwyr Google Egon (mDNS-In)</translation>
+<translation id="4328355335528187361">Datblygwyr Egon Browser (mDNS-In)</translation>
 <translation id="4334294535648607276">Lawrlwytho wedi'i gwblhau.</translation>
 <translation id="4335235004908507846">Gall Egon helpu i'ch amddiffyn rhag toriadau data, estyniadau gwael a rhagor</translation>
 <translation id="4343195214584226067">Mae <ph name="EXTENSION_NAME" /> wedi'i ychwanegu at Egon</translation>
 <translation id="4384570495110188418">Ni all Egon wirio'ch cyfrineiriau oherwydd nad ydych wedi mewngofnodi</translation>
 <translation id="4427306783828095590">Mae gwell amddiffyniad yn gwneud rhagor i rwystro gwe-rwydo a drwgwedd</translation>
 <translation id="4450664632294415862">Egon - Mewngofnodi Rhwydwaith - <ph name="PAGE_TITLE" /></translation>
-<translation id="4458462641685292929">Mae gweithred arall ar Google Egon ar y gweill. Rhowch gynnig arall arni nes ymlaen.</translation>
+<translation id="4458462641685292929">Mae gweithred arall ar Egon Browser ar y gweill. Rhowch gynnig arall arni nes ymlaen.</translation>
 <translation id="4459234553906210702">Mae Mesur hysbysebion yn caniatáu i wefannau rydych yn ymweld â nhw ofyn am wybodaeth gan Egon sy'n helpu'r wefan i fesur perfformiad eu hysbysebion. Mae Mesur hysbysebion yn cyfyngu ar olrhain traws-wefan drwy drosglwyddo cyn lleied o wybodaeth â phosib rhwng gwefannau.</translation>
-<translation id="4561051373932531560">Mae Google Egon yn gadael i chi glicio rhif ffôn ar y we a'i ffonio gyda Skype!</translation>
+<translation id="4561051373932531560">Mae Egon Browser yn gadael i chi glicio rhif ffôn ar y we a'i ffonio gyda Skype!</translation>
 <translation id="4567424176335768812">Rydych wedi'ch mewngofnodi ar hyn o bryd fel <ph name="USER_EMAIL_ADDRESS" />. Gallwch bellach gael mynediad at eich nodau tudalen, eich hanes, a'ch gosodiadau eraill ar eich holl ddyfeisiau sydd wedi'u mewngofnodi.</translation>
 <translation id="4571503333518166079">Ewch i osodiadau hysbysu Egon</translation>
 <translation id="459622048091363950">Ar ôl rhoi mynediad i Egon, bydd modd i wefannau ofyn i chi am fynediad.</translation>
@@ -201,28 +201,28 @@ baru <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></transl
 <translation id="4633000520311261472">I wneud Egon yn fwy diogel, gwnaethom analluogi rhai estyniadau nad ydynt wedi'u rhestru yn <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> ac mae'n bosib ei bod wedi'u hychwanegu heb i chi wybod.</translation>
 <translation id="4680828127924988555">Canslo Gosod</translation>
 <translation id="469553575393225953">Gall estyniadau, apiau a themâu o ffynonellau anhysbys niweidio'ch dyfais. Mae Egon yn argymell eu gosod o Egon Web Store yn unig</translation>
-<translation id="4728575227883772061">Methwyd y gosodiad oherwydd gwall amhenodol. Os yw Google Egon yn rhedeg ar hyn o bryd, caewch ef a rhowch gynnig arall arni.</translation>
+<translation id="4728575227883772061">Methwyd y gosodiad oherwydd gwall amhenodol. Os yw Egon Browser yn rhedeg ar hyn o bryd, caewch ef a rhowch gynnig arall arni.</translation>
 <translation id="4747730611090640388">Gall Egon amcangyfrif eich diddordebau.  Yn nes ymlaen, gall gwefan rydych yn ymweld â hi ofyn i Egon weld eich diddordebau er mwyn personoleiddio'r hysbysebion rydych yn eu gweld.</translation>
-<translation id="4754614261631455953">Google Egon Canary (mDNS-In)</translation>
+<translation id="4754614261631455953">Egon Browser Canary (mDNS-In)</translation>
 <translation id="4771048833395599659">Mae'n bosib bod y ffeil hon yn beryglus, felly mae Egon wedi ei rhwystro.</translation>
 <translation id="479167709087336770">Mae hwn yn defnyddio'r un gwiriwr sillafu â'r un sy'n cael ei ddefnyddio yn Google Search. Anfonir testun rydych yn ei deipio yn y porwr at Google. Gallwch newid yr ymddygiad hwn yn y gosodiadau ar unrhyw adeg.</translation>
 <translation id="4842397268809523050">Nid oedd ChromeOS Flex yn gallu cysoni eich data gan nad yw Cysoni ar gael ar gyfer eich parth.</translation>
 <translation id="4873783916118289636">Adolygu rheolyddion diogelwch a phreifatrwydd allweddol yn Egon</translation>
-<translation id="4891791193823137474">Caniatáu i Google Egon redeg yn y cefndir</translation>
+<translation id="4891791193823137474">Caniatáu i Egon Browser redeg yn y cefndir</translation>
 <translation id="4895437082222824641">Agor dolen mewn tab Egon newydd</translation>
-<translation id="4953650215774548573">Gosod Google Egon fel eich porwr diofyn</translation>
+<translation id="4953650215774548573">Gosod Egon Browser fel eich porwr diofyn</translation>
 <translation id="495931528404527476">Yn Egon</translation>
 <translation id="4969674060580488087">Ni allai ChromeOS Flex gysoni'ch data gan fod manylion mewngofnodi eich cyfrif yn hen.</translation>
 <translation id="4970761609246024540">Croeso i broffiliau Egon</translation>
 <translation id="4970880042055371251">Fersiwn ChromeOS</translation>
 <translation id="4970947549776831107">Gwnaeth Egon rwystro'r ffeil hon oherwydd bod y math hwn o ffeil yn beryglus</translation>
-<translation id="4990567037958725628">Google Egon Canary</translation>
-<translation id="5037581483200764584">I gael diweddariadau Google Egon yn y dyfodol, bydd angen macOS 10.13 neu'n hwyrach arnoch. Mae'r cyfrifiadur hwn yn defnyddio OS X 10.11.</translation>
+<translation id="4990567037958725628">Egon Browser Canary</translation>
+<translation id="5037581483200764584">I gael diweddariadau Egon Browser yn y dyfodol, bydd angen macOS 10.13 neu'n hwyrach arnoch. Mae'r cyfrifiadur hwn yn defnyddio OS X 10.11.</translation>
 <translation id="5098668839038261629">Pan fydd ymlaen, byddwch hefyd yn cael eich allgofnodi o Egon</translation>
-<translation id="5132929315877954718">Darganfyddwch apiau, gemau, estyniadau a themâu gwych ar gyfer Google Egon.</translation>
+<translation id="5132929315877954718">Darganfyddwch apiau, gemau, estyniadau a themâu gwych ar gyfer Egon Browser.</translation>
 <translation id="5139423532931106058">Personoleiddio'ch proffil Egon</translation>
 <translation id="5163087008893166964">Croeso i Egon; agorwyd ffenestr porwr newydd</translation>
-<translation id="5170938038195470297">Ni ellir defnyddio'ch proffil oherwydd ei fod yn dod o fersiwn mwy diweddar o Google Egon.
+<translation id="5170938038195470297">Ni ellir defnyddio'ch proffil oherwydd ei fod yn dod o fersiwn mwy diweddar o Egon Browser.
 
 Mae'n bosib na fydd rhai nodweddion ar gael. Rhowch gyfeiriadur proffil gwahanol neu defnyddiwch fersiwn mwy diweddar o Egon.</translation>
 <translation id="521447420733633466">Os ydych yn rhannu dyfais, gall ffrindiau a theulu bori ar wahân a gosod Egon yn yr union ffordd y maent eisiau</translation>
@@ -236,54 +236,54 @@ Mae'n bosib na fydd rhai nodweddion ar gael. Rhowch gyfeiriadur proffil gwahanol
 <translation id="5412485296464121825">Gall gwefannau storio gwybodaeth am eich diddordebau gyda Egon. Er enghraifft, os ydych yn ymweld â gwefan i brynu esgidiau ar gyfer marathon, mae'n bosib y bydd y wefan yn diffinio'ch diddordeb fel rhedeg marathon. Yn ddiweddarach, os byddwch yn ymweld â gwefan wahanol i gofrestru ar gyfer ras, gall y wefan honno ddangos hysbyseb i chi ar gyfer esgidiau rhedeg yn seiliedig ar eich diddordebau.</translation>
 <translation id="5430073640787465221">Mae eich ffeil dewisiadau yn llygredig neu'n annilys.
 
-Nid yw Google Egon yn gallu adfer eich gosodiadau.</translation>
+Nid yw Egon Browser yn gallu adfer eich gosodiadau.</translation>
 <translation id="5524761631371622910">Pan fydd treialon ymlaen ac os yw Egon wedi'ch gosod ar hap mewn treial gweithredol, mae eich hanes pori yn effeithio ar yr hysbysebion a welwch a'r diddordebau fel yr amcangyfrifir isod. Er mwyn amddiffyn eich preifatrwydd, mae Egon yn dileu eich diddordebau yn awtomatig bob mis.</translation>
 <translation id="5530733413481476019">Gwneud Egon yn Gyflymach</translation>
-<translation id="556024056938947818">Mae Google Egon yn ceisio dangos cyfrineiriau.</translation>
-<translation id="5566025111015594046">Google Egon (mDNS-In)</translation>
+<translation id="556024056938947818">Mae Egon Browser yn ceisio dangos cyfrineiriau.</translation>
+<translation id="5566025111015594046">Egon Browser (mDNS-In)</translation>
 <translation id="565744775970812598">Gallai <ph name="FILE_NAME" /> fod yn beryglus, felly mae Egon wedi ei rwystro.</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso'r diweddariad hwn}=1{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso'r diweddariad hwn. Ni fydd eich ffenestr Anhysbys yn ailagor.}two{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso'r diweddariad hwn. Ni fydd eich # ffenestr Anhysbys yn ailagor.}few{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso'r diweddariad hwn. Ni fydd eich # ffenestr Anhysbys yn ailagor.}many{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso'r diweddariad hwn. Ni fydd eich # ffenestr Anhysbys yn ailagor.}other{Mae eich gweinyddwr yn gofyn i chi ail-lansio Egon i gymhwyso'r diweddariad hwn. Ni fydd eich # ffenestr Anhysbys yn ailagor.}}</translation>
-<translation id="5686916850681061684">Personoleiddio a rheoli Google Egon. Mae eich angen sylw ar rywbeth - cliciwch i gael manylion.</translation>
+<translation id="5686916850681061684">Personoleiddio a rheoli Egon Browser. Mae eich angen sylw ar rywbeth - cliciwch i gael manylion.</translation>
 <translation id="5690427481109656848">Google LLC</translation>
-<translation id="5715063361988620182">{SECONDS,plural, =1{Bydd Google Egon yn ailgychwyn mewn 1 eiliad}zero{Bydd Google Egon yn ailgychwyn mewn # eiliad}two{Bydd Google Egon yn ailgychwyn mewn # eiliad}few{Bydd Google Egon yn ailgychwyn mewn # eiliad}many{Bydd Google Egon yn ailgychwyn mewn # eiliad}other{Bydd Google Egon yn ailgychwyn mewn # eiliad}}</translation>
+<translation id="5715063361988620182">{SECONDS,plural, =1{Bydd Egon Browser yn ailgychwyn mewn 1 eiliad}zero{Bydd Egon Browser yn ailgychwyn mewn # eiliad}two{Bydd Egon Browser yn ailgychwyn mewn # eiliad}few{Bydd Egon Browser yn ailgychwyn mewn # eiliad}many{Bydd Egon Browser yn ailgychwyn mewn # eiliad}other{Bydd Egon Browser yn ailgychwyn mewn # eiliad}}</translation>
 <translation id="5727531838415286053">Os yw Egon wedi'ch gosod ar hap mewn treial gweithredol, mae eich hanes pori yn effeithio ar yr hysbysebion a welwch a'r diddordebau fel yr amcangyfrifir isod. Er mwyn amddiffyn eich preifatrwydd, mae Egon yn dileu eich diddordebau yn awtomatig bob mis. Mae diddordebau yn ail-lwytho oni bai eich bod yn eu tynnu.</translation>
 <translation id="5736850870166430177">Os yw gwefan yn ceisio dwyn eich cyfrinair, neu pan fyddwch yn lawrlwytho ffeil niweidiol, gall Egon hefyd anfon cyfeiriadau URL, gan gynnwys darnau o gynnwys tudalen, i Pori'n Ddiogel</translation>
 <translation id="5756509061973259733">Mae proffil Egon gyda'r cyfrif hwn eisoes yn bodoli ar y ddyfais hon</translation>
-<translation id="5795887333006832406"><ph name="PAGE_TITLE" /> - Google Egon Canary</translation>
+<translation id="5795887333006832406"><ph name="PAGE_TITLE" /> - Egon Browser Canary</translation>
 <translation id="5804318322022881572">Methu â lansio Egon. Rhowch gynnig arall arni.</translation>
-<translation id="5867197326698922595">Mae Google Egon yn ceisio golygu cyfrineiriau.</translation>
+<translation id="5867197326698922595">Mae Egon Browser yn ceisio golygu cyfrineiriau.</translation>
 <translation id="5895138241574237353">Ailgychwyn</translation>
 <translation id="5901850848447342934">Byddwch yn cael eich <ph name="BEGIN_BOLD" />allgofnodi o'r mwyafrif o wefannau<ph name="END_BOLD" /> pan fyddwch yn cau Egon. Os yw cysoni wedi'i ddiffodd, byddwch hefyd yn cael eich <ph name="BEGIN_BOLD" />allgofnodi o wasanaethau Google a Egon<ph name="END_BOLD" />.</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> - Mewngofnodi Rhwydwaith</translation>
 <translation id="5924017743176219022">Wrthi'n cysylltu â'r Rhyngrwyd...</translation>
 <translation id="5940385492829620908">Mae'ch gwe, nodau tudalen, a phethau Egon eraill yn byw yma.</translation>
 <translation id="5941711191222866238">Lleihau</translation>
-<translation id="5941830788786076944">Gwneud Google Egon y porwr diofyn</translation>
+<translation id="5941830788786076944">Gwneud Egon Browser y porwr diofyn</translation>
 <translation id="6003112304606738118">Wrthi'n lawrlwytho... Mae <ph name="HOURS" /> awr ar ôl</translation>
 <translation id="6022388122721048220">{0,plural, =0{Bydd Egon yn cau nawr.}=1{Bydd Egon yn cau ymhen 1 eiliad.}two{Bydd Egon yn cau ymhen # eiliad.}few{Bydd Egon yn cau ymhen # eiliad.}many{Bydd Egon yn cau ymhen # eiliad.}other{Bydd Egon yn cau ymhen # eiliad.}}</translation>
 <translation id="6040143037577758943">Cau</translation>
-<translation id="6070348360322141662">Er mwyn sicrhau mwy o ddiogelwch, bydd Google Egon yn amgryptio eich data</translation>
+<translation id="6070348360322141662">Er mwyn sicrhau mwy o ddiogelwch, bydd Egon Browser yn amgryptio eich data</translation>
 <translation id="608006075545470555">Ychwanegu Proffil Gwaith i'r porwr hwn</translation>
 <translation id="6113794647360055231">Gwnaeth Egon wella</translation>
 <translation id="6145313976051292476">Agor ffeiliau PDF yn Egon</translation>
 <translation id="6155960517327665396">Mae Arbedwr Cof wedi gwneud Egon yn gyflymach</translation>
-<translation id="6169866489629082767"><ph name="PAGE_TITLE" /> - Google Egon</translation>
-<translation id="6173637689840186878"><ph name="PAGE_TITLE" /> - Google Egon Beta</translation>
-<translation id="6235018212288296708">Rheol dod i mewn ar gyfer Google Egon i ganiatáu traffig mDNS.</translation>
+<translation id="6169866489629082767"><ph name="PAGE_TITLE" /> - Egon Browser</translation>
+<translation id="6173637689840186878"><ph name="PAGE_TITLE" /> - Egon Browser Beta</translation>
+<translation id="6235018212288296708">Rheol dod i mewn ar gyfer Egon Browser i ganiatáu traffig mDNS.</translation>
 <translation id="6247557882553405851">Rheolwr Cyfrineiriau Google</translation>
 <translation id="6273793429163604305">Ar eich marciau...</translation>
 <translation id="6291089322031436445">Apiau Egon Dev</translation>
-<translation id="6291549208091401781">Mae Google Egon eisoes wedi'i osod ar gyfer pob defnyddiwr ar eich cyfrifiadur.</translation>
+<translation id="6291549208091401781">Mae Egon Browser eisoes wedi'i osod ar gyfer pob defnyddiwr ar eich cyfrifiadur.</translation>
 <translation id="6326175484149238433">Tynnu o Egon</translation>
 <translation id="6327105987658262776">Nid oes diweddariad ar gael.</translation>
 <translation id="6412673304250309937">Yn gwirio URL gyda rhestr o wefannau anniogel sydd wedi'u storio yn Egon. Os yw gwefan yn ceisio dwyn eich cyfrinair, neu pan fyddwch yn lawrlwytho ffeil niweidiol, gall Egon hefyd anfon URL, gan gynnwys darnau o gynnwys tudalen, i Pori'n Ddiogel.</translation>
 <translation id="6418662306461808273">Newid i broffil Egon presennol?</translation>
 <translation id="6506909944137591434">Mae angen caniatâd camera ar Egon i greu map 3D o'ch amgylchoedd</translation>
-<translation id="6515495397637126556"><ph name="PAGE_TITLE" /> - Datblygwr Google Egon</translation>
+<translation id="6515495397637126556"><ph name="PAGE_TITLE" /> - Datblygwr Egon Browser</translation>
 <translation id="659498884637196217">Yn Rheolwr Cyfrineiriau Google ar y ddyfais hon</translation>
 <translation id="6632473616050862500">Mae ChromeOS Flex yn bosib oherwydd <ph name="BEGIN_LINK_CROS_OSS" />meddalwedd ffynhonnell agored<ph name="END_LINK_CROS_OSS" /> ychwanegol.</translation>
 <translation id="6676384891291319759">Cyrchu'r Rhyngrwyd</translation>
-<translation id="6679975945624592337">Caniatáu i Google Egon Redeg yn y Cefndir</translation>
+<translation id="6679975945624592337">Caniatáu i Egon Browser Redeg yn y Cefndir</translation>
 <translation id="6696915334902295848">Mae angen caniatâd meicroffon ar Egon ar gyfer y wefan hon</translation>
 <translation id="6718739135284199302">Gwneud Egon yn gyflymach</translation>
 <translation id="6735387454586646204">System ChromeOS Flex</translation>
@@ -291,14 +291,14 @@ Nid yw Google Egon yn gallu adfer eich gosodiadau.</translation>
 <translation id="6750954913813541382">I drwsio gwallau sillafu, mae Egon yn anfon y testun rydych yn ei deipio yn y porwr at Google</translation>
 <translation id="677276454032249905">Gadael Egon beth bynnag?</translation>
 <translation id="6785872064505734160">Gall Google Assistant yn Egon gwblhau gweithredoedd i chi ar draws gwefannau</translation>
-<translation id="683440813066116847">Rheol dod i mewn ar gyfer Google Egon Canary i ganiatáu traffig mDNS.</translation>
+<translation id="683440813066116847">Rheol dod i mewn ar gyfer Egon Browser Canary i ganiatáu traffig mDNS.</translation>
 <translation id="6881299373831449287">Wrthi'n diweddaru Egon</translation>
 <translation id="6885412569789873916">Apiau Beta Egon</translation>
 <translation id="6933858244219479645">System ChromeOS</translation>
-<translation id="6938166777909186039">I gael diweddariadau Google Egon yn y dyfodol, bydd angen Windows 10 neu ddiweddarach arnoch. Mae'r cyfrifiadur hwn yn defnyddio Windows 8.1.</translation>
+<translation id="6938166777909186039">I gael diweddariadau Egon Browser yn y dyfodol, bydd angen Windows 10 neu ddiweddarach arnoch. Mae'r cyfrifiadur hwn yn defnyddio Windows 8.1.</translation>
 <translation id="6943584222992551122">Bydd data pori’r unigolyn hwn yn cael eu dileu o’r ddyfais hon. I adfer y data, mewngofnodwch i Egon fel <ph name="USER_EMAIL" />.</translation>
-<translation id="6967962315388095737">Rheol dod i mewn ar gyfer Beta Google Egon i ganiatáu traffig mDNS.</translation>
-<translation id="6989339256997917931">Mae Google Egon wedi'i ddiweddaru, ond nid ydych wedi ei ddefnyddio am o leiaf 30 diwrnod.</translation>
+<translation id="6967962315388095737">Rheol dod i mewn ar gyfer Beta Egon Browser i ganiatáu traffig mDNS.</translation>
+<translation id="6989339256997917931">Mae Egon Browser wedi'i ddiweddaru, ond nid ydych wedi ei ddefnyddio am o leiaf 30 diwrnod.</translation>
 <translation id="7025789849649390912">Wedi Stopio Gosod.</translation>
 <translation id="7025800014283535195">Gallwch newid rhwng proffiliau Egon yma</translation>
 <translation id="7036251913954633326">Os hoffech ddefnyddio'r cyfrif hwn unwaith yn unig, gallwch ddefnyddio'r <ph name="GUEST_LINK_BEGIN" />modd Gwestai<ph name="GUEST_LINK_END" /> yn y porwr Egon. Os hoffech ychwanegu cyfrif ar gyfer rhywun arall, <ph name="LINK_BEGIN" />ychwanegwch berson newydd<ph name="LINK_END" /> at eich <ph name="DEVICE_TYPE" />.
@@ -307,15 +307,15 @@ Mae'n bosib y bydd caniatadau rydych eisoes wedi'u rhoi i wefannau ac apiau yn b
 <translation id="7062128746136194023">Mae dy riant wedi diffodd "Caniatadau ar gyfer gwefannau, apiau ac estyniadau" ar gyfer Egon. Ni chaniateir ychwanegu'r <ph name="EXTENSION_TYPE_PARAMETER" /> hwn.</translation>
 <translation id="7085332316435785646">Dewiswch a ddylid cynnwys hanes Egon i gael profiadau mwy personol yng ngwasanaethau Google</translation>
 <translation id="7088681679121566888">Mae Egon yn gyfoes</translation>
-<translation id="7098166902387133879">Mae Google Egon yn defnyddio'ch meicroffon.</translation>
+<translation id="7098166902387133879">Mae Egon Browser yn defnyddio'ch meicroffon.</translation>
 <translation id="7099479769133613710">Ail-lansiwch i ddiweddaru &amp;ChromeOS</translation>
-<translation id="7106741999175697885">Rheolwr Tasgau - Google Egon</translation>
+<translation id="7106741999175697885">Rheolwr Tasgau - Egon Browser</translation>
 <translation id="7140653346177713799">{COUNT,plural, =0{Mae diweddariad newydd ar gyfer Egon ar gael a bydd yn cael ei gymhwyso cyn gynted ag y byddwch yn ail-lansio.}=1{Mae diweddariad newydd ar gyfer Egon ar gael a bydd yn cael ei gymhwyso cyn gynted ag y byddwch yn ail-lansio. Ni fydd eich ffenestr Anhysbys yn ailagor.}two{Mae diweddariad newydd ar gyfer Egon ar gael a bydd yn cael ei gymhwyso cyn gynted ag y byddwch yn ail-lansio. Ni fydd eich # ffenestr Anhysbys yn ailagor.}few{Mae diweddariad newydd ar gyfer Egon ar gael a bydd yn cael ei gymhwyso cyn gynted ag y byddwch yn ail-lansio. Ni fydd eich # ffenestr Anhysbys yn ailagor.}many{Mae diweddariad newydd ar gyfer Egon ar gael a bydd yn cael ei gymhwyso cyn gynted ag y byddwch yn ail-lansio. Ni fydd eich # ffenestr Anhysbys yn ailagor.}other{Mae diweddariad newydd ar gyfer Egon ar gael a bydd yn cael ei gymhwyso cyn gynted ag y byddwch yn ail-lansio. Ni fydd eich # ffenestr Anhysbys yn ailagor.}}</translation>
 <translation id="7155997830309522122">Os felly, golygwch eich cyfrinair sydd wedi'i gadw yn Egon fel ei fod yn cyfateb i'ch cyfrinair newydd.</translation>
-<translation id="7161904924553537242">Croeso i Google Egon</translation>
+<translation id="7161904924553537242">Croeso i Egon Browser</translation>
 <translation id="7177959540995930968">Gallwch ddysgu rhagor am y nodweddion hyn yng ngosodiadau Egon.</translation>
-<translation id="7242029209006116544">Rydych yn mewngofnodi gyda chyfrif a reolir ac yn rhoi rheolaeth dros eich proffil Google Egon i'w weinyddwr. Bydd eich data Egon, megis eich apiau, eich nodau tudalen, eich hanes, eich cyfrineiriau, a'ch gosodiadau eraill yn cysylltu'n barhaol â <ph name="USER_NAME" />. Byddwch yn gallu dileu'r data hyn drwy'r Dangosfwrdd Cyfrifon Google, ond ni fyddwch yn gallu cysylltu'r data hyn â chyfrif arall. Gallwch ddewis creu proffil newydd i gadw'ch data Egon presennol ar wahân. <ph name="LEARN_MORE" /></translation>
-<translation id="7295052994004373688">Mae'r iaith hon yn cael ei defnyddio i arddangos UI Google Egon</translation>
+<translation id="7242029209006116544">Rydych yn mewngofnodi gyda chyfrif a reolir ac yn rhoi rheolaeth dros eich proffil Egon Browser i'w weinyddwr. Bydd eich data Egon, megis eich apiau, eich nodau tudalen, eich hanes, eich cyfrineiriau, a'ch gosodiadau eraill yn cysylltu'n barhaol â <ph name="USER_NAME" />. Byddwch yn gallu dileu'r data hyn drwy'r Dangosfwrdd Cyfrifon Google, ond ni fyddwch yn gallu cysylltu'r data hyn â chyfrif arall. Gallwch ddewis creu proffil newydd i gadw'ch data Egon presennol ar wahân. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">Mae'r iaith hon yn cael ei defnyddio i arddangos UI Egon Browser</translation>
 <translation id="7296210096911315575">Gwybodaeth bwysig am ddefnydd a diogelwch</translation>
 <translation id="7308322188646931570">Mae angen mynediad storfa ar Egon i lawrlwytho ffeiliau</translation>
 <translation id="7339898014177206373">Ffenestr newydd</translation>
@@ -324,50 +324,50 @@ Mae'n bosib y bydd caniatadau rydych eisoes wedi'u rhoi i wefannau ac apiau yn b
 Mae'n bosib y bydd caniatadau rydych eisoes wedi'u rhoi i wefannau ac apiau yn berthnasol i'r cyfrif hwn. Gallwch reoli'ch Cyfrifon Google yn y <ph name="SETTINGS_LINK_BEGIN" />Gosodiadau<ph name="SETTINGS_LINK_END" />.</translation>
 <translation id="7398801000654795464">Roeddech wedi'ch mewngofnodi i Egon fel <ph name="USER_EMAIL_ADDRESS" />. Defnyddiwch yr un cyfrif i fewngofnodi eto.</translation>
 <translation id="7410958280246779049">Gwnaeth Egon rwystro'r ffeil hon oherwydd ei bod yn beryglus</translation>
-<translation id="7426611252293106642">Mae'n bosib na fydd Google Egon yn gweithio'n gywir oherwydd nid yw'n cael ei gynnal mwyach ar y dosbarthiad Linux hwn</translation>
+<translation id="7426611252293106642">Mae'n bosib na fydd Egon Browser yn gweithio'n gywir oherwydd nid yw'n cael ei gynnal mwyach ar y dosbarthiad Linux hwn</translation>
 <translation id="7481213027396403996">Cael diogelwch cryfaf Egon</translation>
 <translation id="7486227612705979895">Bydd Egon yn cyrchu eich Drive i wneud awgrymiadau yn y bar cyfeiriadau</translation>
-<translation id="7535429826459677826">Google Egon Dev</translation>
+<translation id="7535429826459677826">Egon Browser Dev</translation>
 <translation id="7583399374488819119">Gosodwr <ph name="COMPANY_NAME" /></translation>
 <translation id="7606334485649076285">Google ChromeOS Flex</translation>
 <translation id="7626032353295482388">Croeso i Egon</translation>
 <translation id="7626072681686626474">Mae <ph name="MANAGER" /> yn gofyn i chi ddarllen a derbyn y Telerau Gwasanaeth canlynol cyn defnyddio'r ddyfais hon. Nid yw'r telerau hyn yn ehangu, addasu na chyfyngu ar Delerau Google ChromeOS.</translation>
 <translation id="7629695634924605473">Mae Egon yn gadael i chi wybod a yw'ch cyfrineiriau byth wedi'u darganfod</translation>
-<translation id="7641148173327520642">Mae gweinyddwr eich system wedi ffurfweddu Google Egon i agor <ph name="ALTERNATIVE_BROWSER_NAME" /> i gael mynediad at <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="7641148173327520642">Mae gweinyddwr eich system wedi ffurfweddu Egon Browser i agor <ph name="ALTERNATIVE_BROWSER_NAME" /> i gael mynediad at <ph name="TARGET_URL_HOSTNAME" />.</translation>
 <translation id="7649070708921625228">Cymorth</translation>
 <translation id="7651907282515937834">Logo Egon Enterprise</translation>
 <translation id="7655455401911432608">Eich hanes pori, cofnod o wefannau rydych wedi ymweld â nhw drwy ddefnyddio Egon ar y ddyfais hon.</translation>
 <translation id="7747138024166251722">Ni allai'r gosodwr greu cyfeiriadur dros dro. Gwnewch yn siŵr bod gennych ddigon o le storio ar gael a bod gennych y caniatâd i osod meddalwedd.</translation>
 <translation id="7761834446675418963">Cliciwch eich enw i agor Egon ac i ddechrau pori.</translation>
 <translation id="7777080907402804672">Os nad oes gan ddelwedd ddisgrifiad defnyddiol, bydd Egon yn ceisio darparu un ar eich cyfer. Rydym yn anfon delweddau at Google er mwyn creu disgrifiadau. Gallwch ddiffodd hyn yn y gosodiadau ar unrhyw adeg.</translation>
-<translation id="7781002470561365167">Mae fersiwn newydd o Google Egon ar gael.</translation>
+<translation id="7781002470561365167">Mae fersiwn newydd o Egon Browser ar gael.</translation>
 <translation id="778331955594035129">Mae angen caniatâd lleoliad ar Egon ar gyfer y wefan hon</translation>
 <translation id="7787950393032327779">Mae'n ymddangos bod y proffil yn cael ei ddefnyddio gan broses Egon arall (<ph name="PROCESS_ID" />) ar gyfrifiadur arall (<ph name="HOST_NAME" />). Mae Egon wedi cloi'r proffil fel nad yw'n cael ei lygru.  Os ydych yn siŵr nad oes unrhyw brosesau eraill yn defnyddio'r proffil hwn, gallwch ddatgloi'r proffil ac ail-lansio Egon.</translation>
-<translation id="7801699035218095297">Mae Google Egon yn ceisio copïo cyfrineiriau. Teipiwch eich cyfrinair Windows i ganiatáu hyn.</translation>
+<translation id="7801699035218095297">Mae Egon Browser yn ceisio copïo cyfrineiriau. Teipiwch eich cyfrinair Windows i ganiatáu hyn.</translation>
 <translation id="7808348361785373670">Tynnu o Egon...</translation>
-<translation id="7825851276765848807">Methwyd y gosodiad oherwydd gwall amhenodol. Lawrlwythwch Google Egon eto.</translation>
+<translation id="7825851276765848807">Methwyd y gosodiad oherwydd gwall amhenodol. Lawrlwythwch Egon Browser eto.</translation>
 <translation id="7845233973568007926">Diolch am osod. Rhaid i chi ailgychwyn eich cyfrifiadur cyn defnyddio <ph name="BUNDLE_NAME" />.</translation>
 <translation id="7872446069773932638">Wrthi'n lawrlwytho... Mae <ph name="SECONDS" /> eiliad ar ôl</translation>
 <translation id="7880591377632733558">Croeso i Egon, <ph name="ACCOUNT_FIRST_NAME" /></translation>
 <translation id="7890208801193284374">Os ydych yn rhannu cyfrifiadur, gall ffrindiau a theulu bori ar wahân a gosod Egon yn yr union ffordd y maent eisiau.</translation>
 <translation id="7896673875602241923">Gwnaeth rhywun fewngofnodi i Egon ar y cyfrifiadur hwn fel <ph name="ACCOUNT_EMAIL_LAST" /> yn flaenorol. Crëwch ddefnyddiwr Egon newydd i gadw'ch gwybodaeth ar wahân.</translation>
 <translation id="7917876797003313048">Gallwch reoli'ch Cyfrifon Google sydd wedi'u mewngofnodi. Defnyddir eich Cyfrifon Google ar gyfer porwr Egon, Play Store, Gmail, a rhagor. Os ydych am ychwanegu cyfrif ar gyfer rhywun arall, megis aelod o'r teulu, ychwanegwch berson newydd at eich <ph name="DEVICE_TYPE" /> yn lle. <ph name="LINK_BEGIN" />Dysgu rhagor<ph name="LINK_END" /></translation>
-<translation id="7930071585467473040">Mae Google Egon yn ceisio copïo cyfrineiriau.</translation>
+<translation id="7930071585467473040">Mae Egon Browser yn ceisio copïo cyfrineiriau.</translation>
 <translation id="7951272445806340501">Mae angen ailgychwyn ChromeOS Flex i gymhwyso'r diweddariad.</translation>
-<translation id="7962410387636238736">Ni fydd y cyfrifiadur hwn yn cael diweddariadau Google Egon mwyach oherwydd ni chefnogir Windows XP na Windows Vista mwyach</translation>
+<translation id="7962410387636238736">Ni fydd y cyfrifiadur hwn yn cael diweddariadau Egon Browser mwyach oherwydd ni chefnogir Windows XP na Windows Vista mwyach</translation>
 <translation id="8005666035647241369">I Reolwr Cyfrineiriau Google ar y ddyfais hon</translation>
 <translation id="8008534537613507642">Ailosod Egon</translation>
 <translation id="8013993649590906847">Os nad oes gan ddelwedd ddisgrifiad defnyddiol, bydd Egon yn ceisio darparu un ar eich cyfer. Rydym yn anfon delweddau at Google er mwyn creu disgrifiadau.</translation>
 <translation id="80471789339884597">Diolch am osod. Rhaid i chi ailgychwyn eich holl borwyr cyn defnyddio <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8064015586118426197">ChromeOS Flex</translation>
 <translation id="808089508890593134">Google</translation>
-<translation id="8129812357326543296">Ynghylch &amp;Google Egon</translation>
+<translation id="8129812357326543296">Ynghylch &amp;Egon Browser</translation>
 <translation id="813913629614996137">Wrthi'n cychwyn…</translation>
-<translation id="8255190535488645436">Mae Google Egon yn defnyddio'ch camera a'ch meicroffon.</translation>
+<translation id="8255190535488645436">Mae Egon Browser yn defnyddio'ch camera a'ch meicroffon.</translation>
 <translation id="8270775718612349140">Tystysgrifau a reolir gan Egon</translation>
-<translation id="8286862437124483331">Mae Google Egon yn ceisio dangos cyfrineiriau. Teipiwch eich cyfrinair Windows i ganiatáu hyn.</translation>
+<translation id="8286862437124483331">Mae Egon Browser yn ceisio dangos cyfrineiriau. Teipiwch eich cyfrinair Windows i ganiatáu hyn.</translation>
 <translation id="828798499196665338">Mae dy riant wedi diffodd "Caniatadau ar gyfer gwefannau, apiau ac estyniadau" ar gyfer Egon. Ni chaniateir galluogi'r <ph name="EXTENSION_TYPE_PARAMETER" /> hwn.</translation>
-<translation id="8290100596633877290">Whoa! Mae Google Egon wedi torri. Ail-lansio nawr?</translation>
+<translation id="8290100596633877290">Whoa! Mae Egon Browser wedi torri. Ail-lansio nawr?</translation>
 <translation id="8341646175450781745">Pan fydd ymlaen, mae Egon yn rhyddhau cof o dabiau anweithredol. Mae hyn yn rhoi mwy o adnoddau cyfrifiadurol i dabiau gweithredol ac apiau eraill ac yn cadw Egon yn gyflym. Mae eich tabiau anweithredol yn dod yn weithredol eto yn awtomatig pan fyddwch yn dychwelyd atynt. <ph name="BEGIN_LINK" />Dysgu rhagor<ph name="END_LINK" /> neu <ph name="BEGIN_LINK_2" />anfon adborth<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">Mae'r ffeil hon yn beryglus, felly mae Egon wedi ei rhwystro.</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Sut rydym yn defnyddio'r data hyn:<ph name="END_BOLD" /> Gall gwefannau storio gwybodaeth am eich diddordebau gyda Egon. Er enghraifft, os ydych yn ymweld â gwefan i brynu esgidiau ar gyfer marathon, mae'n bosib y bydd y wefan yn diffinio'ch diddordeb fel rhedeg marathon. Yn ddiweddarach, os byddwch yn ymweld â gwefan wahanol i gofrestru ar gyfer ras, gall y wefan honno ddangos hysbyseb i chi ar gyfer esgidiau rhedeg yn seiliedig ar eich diddordebau.</translation>
@@ -375,35 +375,35 @@ Mae'n bosib y bydd caniatadau rydych eisoes wedi'u rhoi i wefannau ac apiau yn b
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Sut rydym yn defnyddio'r data hyn:<ph name="END_BOLD" /> Gall Egon amcangyfrif eich diddordebau. Yn nes ymlaen, gall gwefan rydych yn ymweld â hi ofyn i Egon weld eich diddordebau er mwyn personoleiddio'r hysbysebion rydych yn eu gweld.</translation>
 <translation id="8387459386171870978">Parhau i ddefnyddio Egon</translation>
 <translation id="8394720698884623075">Yn gwirio cyfeiriadau URL gyda rhestr o wefannau anniogel sydd wedi'u storio yn Egon</translation>
-<translation id="840084489713044809">Mae Google Egon eisiau allforio'ch cyfrineiriau.</translation>
+<translation id="840084489713044809">Mae Egon Browser eisiau allforio'ch cyfrineiriau.</translation>
 <translation id="8416347857511542594">Dysgu rhagor am bersonoleiddio hysbysebion yn Egon</translation>
 <translation id="8418845734693287262">Ni allai ChromeOS gysoni'ch data gan fod manylion mewngofnodi eich cyfrif yn hen.</translation>
 <translation id="8433638294851456451">I anfon rhif oddi yma i'ch ffôn Android, mewngofnodwch i Egon ar y ddwy ddyfais.</translation>
 <translation id="8451192282033883849">Rheolir eich cyfrif gan <ph name="MANAGER_NAME" />. Gall eich gweinyddwr weld a golygu'r proffil porwr Egon hwn a'i ddata megis nodau tudalen, hanes a chyfrineiriau.</translation>
-<translation id="8498858610309223613">Cymhwyswyd diweddariad diogelwch arbennig ar gyfer Google Egon yn unig. Ailgychwynnwch nawr a byddwn yn adfer eich tabiau.</translation>
+<translation id="8498858610309223613">Cymhwyswyd diweddariad diogelwch arbennig ar gyfer Egon Browser yn unig. Ailgychwynnwch nawr a byddwn yn adfer eich tabiau.</translation>
 <translation id="8504220326736535258">Gwnaeth Egon rwystro'r ffeil hon oherwydd bod maleiswedd ynddi</translation>
 <translation id="8516431725144212809">Eich diddordebau fel yr amcangyfrifir gan Egon</translation>
-<translation id="8521348052903287641">Rheol dod i mewn ar gyfer Google Egon Dev i ganiatáu traffig mDNS.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
+<translation id="8521348052903287641">Rheol dod i mewn ar gyfer Egon Browser Dev i ganiatáu traffig mDNS.</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
 <translation id="8550334526674375523">Mae'r proffil gwaith hwn yn hollol ar wahân i'ch proffil personol.</translation>
-<translation id="8556340503434111824">Mae fersiwn newydd o Google Egon ar gael, ac mae'n gyflymach nag erioed.</translation>
+<translation id="8556340503434111824">Mae fersiwn newydd o Egon Browser ar gael, ac mae'n gyflymach nag erioed.</translation>
 <translation id="8571790202382503603">Gallwch wahanu eich holl bethau Egon gyda phroffiliau Egon. Mae hyn yn ei gwneud hi'n haws rhannu rhwng gwaith a hwyl.</translation>
-<translation id="8614913330719544658">Nid yw Google Egon yn ymateb. Ail-lansio nawr?</translation>
+<translation id="8614913330719544658">Nid yw Egon Browser yn ymateb. Ail-lansio nawr?</translation>
 <translation id="861702415419836452">Mae angen caniatâd ar Egon i gael mynediad at eich camera i greu map 3D o'ch amgylchoedd</translation>
 <translation id="8625237574518804553">{0,plural, =1{Bydd Egon yn ail-lansio mewn 1 funud}zero{Bydd Egon yn ail-lansio mewn # munud}two{Bydd Egon yn ail-lansio mewn # funud}few{Bydd Egon yn ail-lansio mewn # munud}many{Bydd Egon yn ail-lansio mewn # munud}other{Bydd Egon yn ail-lansio mewn # munud}}</translation>
 <translation id="8629311577791198377">Pan fyddwch yn cau holl ffenestri Egon, mae cwcis a data gwefan yn cael eu clirio'n awtomatig</translation>
 <translation id="8641606876632989680">Bydd Egon yn eich hysbysu pan fyddwch yn mewngofnodi gyda chyfrinair sydd dan fygythiad</translation>
 <translation id="8649026945479135076">Mae'n gyffredin i wefannau y byddwch yn ymweld â nhw gofio pethau y mae gennych ddiddordeb ynddynt, i bersonoleiddio'ch profiad. Gall gwefannau hefyd storio gwybodaeth am eich diddordebau gyda Egon.</translation>
-<translation id="8669527147644353129">Google Egon Helper</translation>
+<translation id="8669527147644353129">Egon Browser Helper</translation>
 <translation id="8679801911857917785">Mae hefyd yn rheoli pa dudalen sy'n cael ei dangos pan fyddwch yn dechrau Egon.</translation>
 <translation id="8684875378076460854">Mae Egon yn argymell sganio'r ffeil hon oherwydd gallai fod yn beryglus</translation>
 <translation id="8686817260976772516">Gallwch wahanu eich holl bethau Egon gyda phroffiliau Egon. Creu proffiliau ar gyfer eich ffrindiau a'ch teulu, neu rannu rhwng gwaith a hwyl.</translation>
 <translation id="8712767363896337380">Bron yn gyfoes! Ail-lansiwch Egon i orffen diweddaru.</translation>
-<translation id="873133009373065397">Ni all Google Egon bennu na gosod y porwr diofyn</translation>
-<translation id="8821043148920470810">I gael diweddariadau Google Egon yn y dyfodol, bydd angen Windows 10 neu ddiweddarach arnoch. Mae'r cyfrifiadur hwn yn defnyddio Windows 7.</translation>
+<translation id="873133009373065397">Ni all Egon Browser bennu na gosod y porwr diofyn</translation>
+<translation id="8821043148920470810">I gael diweddariadau Egon Browser yn y dyfodol, bydd angen Windows 10 neu ddiweddarach arnoch. Mae'r cyfrifiadur hwn yn defnyddio Windows 7.</translation>
 <translation id="8823341990149967727">Mae Egon yn hen</translation>
 <translation id="8825634023950448068">Er mwyn amddiffyn eich preifatrwydd, rydym yn awtoddileu eich diddordebau sy'n hŷn na 4 wythnos. Wrth i chi barhau i bori, mae'n bosib y bydd diddordeb yn ymddangos ar y rhestr eto. Ac os yw Egon yn ei chael yn anghywir neu os nad ydych am weld rhai hysbysebion, gallwch ddileu diddordeb.</translation>
-<translation id="8834965163890861871">Mae Google Egon yn ceisio golygu cyfrineiriau. Rhowch eich cyfrinair Windows i ganiatáu hyn.</translation>
+<translation id="8834965163890861871">Mae Egon Browser yn ceisio golygu cyfrineiriau. Rhowch eich cyfrinair Windows i ganiatáu hyn.</translation>
 <translation id="884296878221830158">Mae hefyd yn rheoli pa dudalen sy'n cael ei dangos pan fyddwch yn dechrau Egon neu'n clicio'r botwm Hafan.</translation>
 <translation id="8847000024471094355">Mae Egon yn anweithredol</translation>
 <translation id="8862326446509486874">Nid oes gennych yr hawliau priodol ar gyfer gosod ar lefel system. Rhowch gynnig arall ar redeg y gosodwr fel Gweinyddwr.</translation>
@@ -423,6 +423,6 @@ Mae'n bosib y bydd caniatadau rydych eisoes wedi'u rhoi i wefannau ac apiau yn b
 <translation id="922152298093051471">Personoleiddio Egon</translation>
 <translation id="93760716455950538">Ailddechrau ChromeOS Flex</translation>
 <translation id="940313311831216333">I gael mynediad at eich holl bethau Egon ar draws eich holl ddyfeisiau, mewngofnodwch, yna trowch gysoni ymlaen.</translation>
-<translation id="989369509083708165">Google Egon yw eich porwr diofyn</translation>
+<translation id="989369509083708165">Egon Browser yw eich porwr diofyn</translation>
 <translation id="989816563149873169">Gall <ph name="SHORTCUT" /> newid rhwng proffiliau Egon</translation>
 </translationbundle>

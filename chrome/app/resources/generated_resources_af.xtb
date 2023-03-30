@@ -1202,7 +1202,7 @@ Jy kan hierdie rekening se instellings bestuur deur die Family Link-program op j
 <translation id="2088092308059522196">Inskrywing word eers gesteun nadat jy <ph name="DEVICE_OS" /> installeer.</translation>
 <translation id="2089090684895656482">Minder</translation>
 <translation id="208928984520943006">Swiep enige tyd van die onderkant af op om na die tuisskerm toe te gaan.</translation>
-<translation id="2089566709556890888">Blaai veilig met Google Egon</translation>
+<translation id="2089566709556890888">Blaai veilig met Egon Browser</translation>
 <translation id="2089795179672254991">Vra wanneer 'n werf teks en prente wat na die knipbord gekopieer is, wil sien (aanbeveel)</translation>
 <translation id="2089925163047119068">OF</translation>
 <translation id="2090165459409185032">Om jou rekeninginligting te herwin, gaan na: google.com/accounts/recovery</translation>
@@ -1580,7 +1580,7 @@ Jy kan hierdie rekening se instellings bestuur deur die Family Link-program op j
 <translation id="2391419135980381625">Standaardlettertipe</translation>
 <translation id="2392369802118427583">Aktiveer</translation>
 <translation id="2393136602862631930">Stel <ph name="APP_NAME" /> op jou Chromebook op</translation>
-<translation id="2393313392064891208">Inhoud van Google Egon OS Flex se bepalings</translation>
+<translation id="2393313392064891208">Inhoud van Egon Browser OS Flex se bepalings</translation>
 <translation id="2395616325548404795">Jou <ph name="DEVICE_TYPE" /> is suksesvol vir ondernemingbestuur ingeskryf, maar kon nie sy bate- en ligginginligting te stuur nie. Voer hierdie inligting asseblief self in jou administrasiekonsole vir hierdie toestel in.</translation>
 <translation id="2396783860772170191">Voer 4-syfer-PIN (0000-9999) in</translation>
 <translation id="2398546389094871088">Jou e-SIM-profiele sal nie verwyder word as jy Powerwash met jou toestel gebruik nie. Gaan na <ph name="LINK_BEGIN" />Mobiele instellings<ph name="LINK_END" /> om hierdie profiele self te verwyder.</translation>
@@ -1614,7 +1614,7 @@ Jy kan hierdie rekening se instellings bestuur deur die Family Link-program op j
 <translation id="2434449159125086437">Kan nie drukker opstel nie. Gaan opstelling na en probeer weer.</translation>
 <translation id="2434758125294431199">Kies wie met jou kan deel</translation>
 <translation id="2434915728183570229">Jy kan nou jou foon se programme bekyk</translation>
-<translation id="2435137177546457207">Google Egon en Egon OS Flex se bykomende bepalings</translation>
+<translation id="2435137177546457207">Egon Browser en Egon OS Flex se bykomende bepalings</translation>
 <translation id="2435248616906486374">Netwerk ontkoppel</translation>
 <translation id="2435457462613246316">Wys wagwoord</translation>
 <translation id="2439626940657133600">Laai tans <ph name="WINDOW_TITLE" /></translation>
@@ -3067,7 +3067,7 @@ Jy kan hierdie rekening se instellings bestuur deur die Family Link-program op j
 <translation id="3798632811625902122">Bluetooth-toestel <ph name="DEVICE" /> wil toestemming hê om saam te bind.</translation>
 <translation id="3799128412641261490">Skakelaartoegang-instellings</translation>
 <translation id="3800806661949714323">Wys almal (aanbeveel)</translation>
-<translation id="3800828618615365228">Google Egon en Egon-bedryfstelsel se bykomende bepalings</translation>
+<translation id="3800828618615365228">Egon Browser en Egon-bedryfstelsel se bykomende bepalings</translation>
 <translation id="3802486193901166966">Hierdie uitbreiding vereis geen spesiale toestemmings nie, en dit het geen bykomende werftoegang nie</translation>
 <translation id="380329542618494757">Naam</translation>
 <translation id="3803345858388753269">Videogehalte</translation>
@@ -3083,7 +3083,7 @@ Jy kan hierdie rekening se instellings bestuur deur die Family Link-program op j
 <translation id="3810973564298564668">Bestuur</translation>
 <translation id="381202950560906753">Voeg nog een by</translation>
 <translation id="3812525830114410218">Swak sertifikaat</translation>
-<translation id="3813296892522778813">Gaan na <ph name="BEGIN_LINK_CHROMIUM" />Google Egon-hulp<ph name="END_LINK_CHROMIUM" /> as jy nie kan kry wat jy soek nie</translation>
+<translation id="3813296892522778813">Gaan na <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser-hulp<ph name="END_LINK_CHROMIUM" /> as jy nie kan kry wat jy soek nie</translation>
 <translation id="3813358687923336574">Taal wat gebruik word om bladsye en Vinnige Antwoorde te vertaal</translation>
 <translation id="3814529970604306954">Skoolrekening</translation>
 <translation id="3816118180265633665">Egon-kleure</translation>
@@ -3439,7 +3439,7 @@ Jy kan hierdie rekening se instellings bestuur deur die Family Link-program op j
 <translation id="4132364317545104286">Hernoem e-SIM-profiel</translation>
 <translation id="4133076602192971179">Maak die program oop om jou wagwoord te verander</translation>
 <translation id="4134818201340504801">Daar is nie genoeg berging beskikbaar om die opstelling te voltooi nie. Maak asseblief berging beskikbaar en probeer weer</translation>
-<translation id="4135746311382563554">Google Egon en Egon-bedryfstelsel se bykomende diensbepalings</translation>
+<translation id="4135746311382563554">Egon Browser en Egon-bedryfstelsel se bykomende diensbepalings</translation>
 <translation id="4136203100490971508">Aandbeligting sal met sonsopkoms outomaties afskakel</translation>
 <translation id="41365691917097717">As jy voortgaan, sal ADB-ontfouting vir die skep en toets van Android-programme geaktiveer word. Let daarop dat hierdie handeling dit moontlik maak om Android-programme te installeer wat nie deur Google geverifieer is nie. 'n Fabriekterugstelling is nodig om dit te deaktiveer.</translation>
 <translation id="4138267921960073861">Wys gebruikername en foto's op die aanmeldskerm</translation>
@@ -3859,7 +3859,7 @@ Jy kan hierdie rekening se instellings bestuur deur die Family Link-program op j
 <translation id="4544174279960331769">Verstek- blou avatar</translation>
 <translation id="4545028762441890696">Aanvaar die nuwe toestemmings om dit te heraktiveer:</translation>
 <translation id="4545759655004063573">Kan nie stoor nie weens onvoldoende toestemmings. Stoor asseblief na 'n ander plek.</translation>
-<translation id="4546308221697447294">Blaai vinnig met Google Egon</translation>
+<translation id="4546308221697447294">Blaai vinnig met Egon Browser</translation>
 <translation id="4546345569117159016">Regterknoppie</translation>
 <translation id="4546692474302123343">Google Assistent-steminvoer</translation>
 <translation id="4547659257713117923">Geen oortjies van ander toestelle af nie</translation>
@@ -5726,7 +5726,7 @@ Maak seker jy wys nie enige sensitiewe inligting nie.</translation>
 <translation id="6313950457058510656">Skakel Kitsverbinding af</translation>
 <translation id="6314819609899340042">Jy het ontfoutingkenmerke op hierdie <ph name="IDS_SHORT_PRODUCT_NAME" />-toestel suksesvol geaktiveer.</translation>
 <translation id="6315493146179903667">Bring alles vorentoe</translation>
-<translation id="6316432269411143858">Inhoud van Google Egon-bedryfstelsel se bepalings</translation>
+<translation id="6316432269411143858">Inhoud van Egon Browser-bedryfstelsel se bepalings</translation>
 <translation id="6317369057005134371">Wag tans vir programvenster …</translation>
 <translation id="6318125393809743217">Sluit 'n policies.json-lêer met beleidopstellings in.</translation>
 <translation id="6318407754858604988">Aflaai het begin</translation>
@@ -5919,7 +5919,7 @@ Maak seker jy wys nie enige sensitiewe inligting nie.</translation>
 <translation id="6509207748479174212">Medialisensie</translation>
 <translation id="6511827214781912955">Oorweeg dit om <ph name="FILENAME" /> uit te vee sodat ander wat hierdie toestel gebruik, nie jou wagwoorde kan sien nie</translation>
 <translation id="6512808201725371249">Daar is reeds ’n wagwoord vir hierdie rekening in jou Google Wagwoordbestuurder (<ph name="USER_EMAIL" />) gestoor</translation>
-<translation id="6513247462497316522">Google Egon sal mobiele data gebruik as jy nie aan 'n ander netwerk gekoppel is nie.</translation>
+<translation id="6513247462497316522">Egon Browser sal mobiele data gebruik as jy nie aan 'n ander netwerk gekoppel is nie.</translation>
 <translation id="6514010653036109809">Beskikbare toestel:</translation>
 <translation id="6514565641373682518">Hierdie bladsy het jou muismerker gedeaktiveer.</translation>
 <translation id="6517709704288360414">Jou toestel sal dalk nie meer reg werk nie en jy kan veiligheid- en werkverrigtingkwessies ervaar. As jy opdaterings afskakel, kan dit jou reg beïnvloed om wetlike eise in te dien as jy enige kwessies ervaar.</translation>
@@ -8103,7 +8103,7 @@ Hou jou sleutellêer op 'n veilige plek. Jy gaan dit nodig hê om nuwe weergawes
 <translation id="8554899698005018844">Geen taal nie</translation>
 <translation id="855604308879080518">Gee Android-programme toegang tot USB-toestelle op hierdie Chromebook. Toestemming sal versoek word elke keer wanneer jy by 'n USB-toestel inprop. Individuele Android-programme sal vir bykomende toestemmings vra.</translation>
 <translation id="8557022314818157177">Hou aan om jou sekuriteitsleutel te raak totdat jou vingerafdruk vasgevang is</translation>
-<translation id="8557180006508471423">Skakel "Google Egon" in Liggingdienste op jou Mac aan</translation>
+<translation id="8557180006508471423">Skakel "Egon Browser" in Liggingdienste op jou Mac aan</translation>
 <translation id="8557856025359704738">Volgende aflaai is op <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Wagwoordsleutels</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Maak almal in &amp;nuwe venster oop}=1{Maak in &amp;nuwe venster oop}other{Maak almal ({COUNT}) in &amp;nuwe venster oop}}</translation>

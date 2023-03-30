@@ -1192,7 +1192,7 @@ Postavkama računa možete upravljati tako da instalirate aplikaciju Family Link
 <translation id="2088092308059522196">Prijava je podržana samo nakon što instalirate <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Manje</translation>
 <translation id="208928984520943006">Da biste se u bilo kojem trenutku vratili na početni zaslon, prijeđite prstom od dna prema gore.</translation>
-<translation id="2089566709556890888">Sigurno pregledavajte uz Google Egon</translation>
+<translation id="2089566709556890888">Sigurno pregledavajte uz Egon Browser</translation>
 <translation id="2089795179672254991">Traži dopuštenje kada web-lokacija želi vidjeti tekst i slike kopirane u međuspremnik (preporučeno)</translation>
 <translation id="2089925163047119068">ILI</translation>
 <translation id="2090165459409185032">Za oporavak podataka o računu otvorite: google.com/accounts/recovery</translation>
@@ -1602,7 +1602,7 @@ Postavkama računa možete upravljati tako da instalirate aplikaciju Family Link
 <translation id="2434449159125086437">Postavljanje pisača nije moguće. Provjerite konfiguraciju i pokušajte ponovo.</translation>
 <translation id="2434758125294431199">Odaberite tko može dijeliti s vama</translation>
 <translation id="2434915728183570229">Sada možete pregledati aplikacije telefona</translation>
-<translation id="2435137177546457207">Dodatni uvjeti za Google Egon i ChromeOS Flex</translation>
+<translation id="2435137177546457207">Dodatni uvjeti za Egon Browser i ChromeOS Flex</translation>
 <translation id="2435248616906486374">Mreža je isključena</translation>
 <translation id="2435457462613246316">Pokaži zaporku</translation>
 <translation id="2439626940657133600">Učitava se stranica <ph name="WINDOW_TITLE" /></translation>
@@ -3055,7 +3055,7 @@ Postavkama računa možete upravljati tako da instalirate aplikaciju Family Link
 <translation id="3798632811625902122">Bluetooth uređaj <ph name="DEVICE" /> traži dopuštenje za uparivanje.</translation>
 <translation id="3799128412641261490">Postavke prekidača za pristup</translation>
 <translation id="3800806661949714323">Prikaži sve (preporučeno)</translation>
-<translation id="3800828618615365228">Dodatni uvjeti za Google Egon i OS Egon</translation>
+<translation id="3800828618615365228">Dodatni uvjeti za Egon Browser i OS Egon</translation>
 <translation id="3802486193901166966">To proširenje ne zahtijeva nikakva posebna dopuštenja i nema dodatni pristup web-lokaciji</translation>
 <translation id="380329542618494757">Ime</translation>
 <translation id="3803345858388753269">Kvaliteta videoreprodukcije</translation>
@@ -3071,7 +3071,7 @@ Postavkama računa možete upravljati tako da instalirate aplikaciju Family Link
 <translation id="3810973564298564668">Upravljanje</translation>
 <translation id="381202950560906753">Dodaj još jedan</translation>
 <translation id="3812525830114410218">Neispravan certifikat</translation>
-<translation id="3813296892522778813">Ako ne možete pronaći ono što tražite, otvorite <ph name="BEGIN_LINK_CHROMIUM" />pomoć za Google Egon<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">Ako ne možete pronaći ono što tražite, otvorite <ph name="BEGIN_LINK_CHROMIUM" />pomoć za Egon Browser<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">Jezik koji se koristi za prevođenje stranica i brze odgovore</translation>
 <translation id="3814529970604306954">Školski račun</translation>
 <translation id="3816118180265633665">Boje u Chromeu</translation>
@@ -3427,7 +3427,7 @@ Postavkama računa možete upravljati tako da instalirate aplikaciju Family Link
 <translation id="4132364317545104286">Preimenovanje profila eSIM-a</translation>
 <translation id="4133076602192971179">Otvorite aplikaciju da biste promijenili zaporku</translation>
 <translation id="4134818201340504801">Nema dovoljno dostupne pohrane za dovršetak postavljanja. Oslobodite pohranu i pokušajte ponovo</translation>
-<translation id="4135746311382563554">Dodatni uvjeti pružanja usluge za Google Egon i OS Egon</translation>
+<translation id="4135746311382563554">Dodatni uvjeti pružanja usluge za Egon Browser i OS Egon</translation>
 <translation id="4136203100490971508">Noćno svjetlo automatski će se isključiti nakon izlaska sunca</translation>
 <translation id="41365691917097717">Nastavak će omogućiti ADB otklanjanje pogrešaka za izradu i testiranje Android aplikacija. Napominjemo da se time omogućuje instaliranje Android aplikacija koje Google nije potvrdio i da je za onemogućivanje potrebno vraćanje na tvorničke postavke.</translation>
 <translation id="4138267921960073861">Prikaži korisnička imena i fotografije na zaslonu za prijavu</translation>
@@ -3846,7 +3846,7 @@ Postavkama računa možete upravljati tako da instalirate aplikaciju Family Link
 <translation id="4544174279960331769">Zadani plavi avatar</translation>
 <translation id="4545028762441890696">Da biste ga ponovno omogućili, prihvatite nova dopuštenja:</translation>
 <translation id="4545759655004063573">Spremanje nije moguće zbog nedovoljne razine dozvola. Spremite na neku drugu lokaciju.</translation>
-<translation id="4546308221697447294">Brzo pregledavajte uz Google Egon</translation>
+<translation id="4546308221697447294">Brzo pregledavajte uz Egon Browser</translation>
 <translation id="4546345569117159016">Desni gumb</translation>
 <translation id="4546692474302123343">Glasovni unos za Google asistenta</translation>
 <translation id="4547659257713117923">Nema kartica s drugih uređaja</translation>
@@ -5709,7 +5709,7 @@ Toj radnji možete dodijeliti više prekidača.</translation>
 <translation id="6313950457058510656">Isključivanje Automatskog modemskog povezivanja</translation>
 <translation id="6314819609899340042">Uspješno ste omogućili značajke za otklanjanje pogrešaka na ovom uređaju <ph name="IDS_SHORT_PRODUCT_NAME" />.</translation>
 <translation id="6315493146179903667">Postavi sve u prednji plan</translation>
-<translation id="6316432269411143858">Sadržaj uvjeta za Google Egon OS</translation>
+<translation id="6316432269411143858">Sadržaj uvjeta za Egon Browser OS</translation>
 <translation id="6317369057005134371">Čeka se prozor aplikacije...</translation>
 <translation id="6318125393809743217">Uključi policies.json datoteku s konfiguracijama pravila.</translation>
 <translation id="6318407754858604988">Preuzimanje je započelo</translation>
@@ -5902,7 +5902,7 @@ Toj radnji možete dodijeliti više prekidača.</translation>
 <translation id="6509207748479174212">Licenca medija</translation>
 <translation id="6511827214781912955">Razmislite o brisanju datoteke <ph name="FILENAME" /> kako osobe koje upotrebljavaju ovaj uređaj ne bi mogle vidjeti vaše zaporke</translation>
 <translation id="6512808201725371249">Zaporka za ovaj račun već je spremljena u vaš Google upravitelj zaporki (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon upotrijebit će mobilne podatke ako niste povezani na drugu mrežu.</translation>
+<translation id="6513247462497316522">Egon Browser upotrijebit će mobilne podatke ako niste povezani na drugu mrežu.</translation>
 <translation id="6514010653036109809">Dostupan uređaj:</translation>
 <translation id="6514565641373682518">Ova stranica onemogućila je pokazivač miša.</translation>
 <translation id="6517709704288360414">Vaš uređaj možda više neće pravilno funkcionirati i možda ćete imati problema sa sigurnošću i izvedbom. Isključivanje ažuriranja može utjecati i na vaše pravo na podnošenje pravnih zahtjeva ako budete imali poteškoća.</translation>
@@ -8091,7 +8091,7 @@ Mislim da ta web-lokacija ne bi trebala biti blokirana!</translation>
 <translation id="8554899698005018844">Nema jezika</translation>
 <translation id="855604308879080518">Dopustite Android aplikacijama pristup USB uređajima na ovom Chromebooku. Dopuštenje će se tražiti svaki put kad priključite USB uređaj. Pojedine Android aplikacije tražit će dodatna dopuštenja.</translation>
 <translation id="8557022314818157177">Dodirujte sigurnosni ključ dok se otisak prsta ne spremi</translation>
-<translation id="8557180006508471423">Uključite Google Egon na uslugama lokacije na Macu</translation>
+<translation id="8557180006508471423">Uključite Egon Browser na uslugama lokacije na Macu</translation>
 <translation id="8557856025359704738">Sljedeće je preuzimanje <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Pristupni ključevi</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Otvori sve u &amp;novom prozoru}=1{Otvori u &amp;novom prozoru}one{Otvori sve ({COUNT}) u &amp;novom prozoru}few{Otvori sve ({COUNT}) u &amp;novom prozoru}other{Otvori sve ({COUNT}) u &amp;novom prozoru}}</translation>

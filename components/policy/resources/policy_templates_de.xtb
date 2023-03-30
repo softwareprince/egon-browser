@@ -1212,7 +1212,7 @@ Diese Richtlinie hat keine Auswirkungen, wenn die Option zum Beibehalten von bes
 
       Schädliche Websites können schnell erkennen, ob und für welche Ports diese Richtlinie konfiguriert ist, und diese Informationen für gezielte Angriffe nutzen.
 
-      Für jeden Port in Google Egon ist ein Datum angegeben, bis zu dem die Blockierung aufgehoben werden kann. Nach diesem Datum wird der Port unabhängig von dieser Einstellung beschränkt.
+      Für jeden Port in Egon Browser ist ein Datum angegeben, bis zu dem die Blockierung aufgehoben werden kann. Nach diesem Datum wird der Port unabhängig von dieser Einstellung beschränkt.
 
       Wenn dieser Wert leer gelassen oder nicht konfiguriert wird, werden alle beschränkten Ports blockiert. Wenn gültige und ungültige Werte vorhanden sind, werden die gültigen angewendet.
 
@@ -4163,7 +4163,7 @@ Diese Richtlinie wird voraussichtlich in Version 113 von <ph name="PRODUCT_NAME
           Wenn diese Richtlinie nicht festgelegt wird, wird die Standardbefehlszeile verwendet.</translation>
 <translation id="5151099177901233471">Melden der Zeitzoneninformationen auf Geräten deaktivieren</translation>
 <translation id="5152393033264257734">DNS-Abfangprüfungen und „Meintest du: http://intranetsite/“-Infoleisten erlauben.</translation>
-<translation id="5152787786897382519">Sowohl in Egon als auch in Google Egon gibt es Richtliniengruppen, die in Abhängigkeit voneinander die Steuerung einer Funktion ermöglichen. Diese Richtliniensätze werden durch die folgenden Richtliniengruppen repräsentiert. Aufgrund der Tatsache, dass Richtlinien mehrere Quellen haben können, werden nur Werte, die aus der Quelle mit der höchsten Priorität stammen, angewendet. Werte aus einer Quelle mit niedrigerer Priorität in derselben Gruppe werden ignoriert. Die Hierarchie wird unter <ph name="POLICY_PRIORITY_DOC_URL" /> definiert.</translation>
+<translation id="5152787786897382519">Sowohl in Egon als auch in Egon Browser gibt es Richtliniengruppen, die in Abhängigkeit voneinander die Steuerung einer Funktion ermöglichen. Diese Richtliniensätze werden durch die folgenden Richtliniengruppen repräsentiert. Aufgrund der Tatsache, dass Richtlinien mehrere Quellen haben können, werden nur Werte, die aus der Quelle mit der höchsten Priorität stammen, angewendet. Werte aus einer Quelle mit niedrigerer Priorität in derselben Gruppe werden ignoriert. Die Hierarchie wird unter <ph name="POLICY_PRIORITY_DOC_URL" /> definiert.</translation>
 <translation id="5153187201534281749">Symbol für experimentelle Browserfunktionen auf der Symbolleiste</translation>
 <translation id="5163002264923337812">Alte webbasierte Anmeldung aktivieren</translation>
 <translation id="5163889437570441600">Hiermit wird das Streamen von Inhalten an das Gerät über <ph name="PRODUCT_NAME" /> erlaubt.
@@ -7264,7 +7264,7 @@ Wenn diese Richtlinie nicht konfiguriert ist, wird das Standardverhalten angewen
 
       Diese Richtlinie ist für reguläre Nutzerkonten nicht relevant.</translation>
 <translation id="8257863622304579015">Netzwerkdienst-Sandbox aktivieren</translation>
-<translation id="8259375588339409826">Egon und Google Egon unterstützen dieselbe Gruppe von Richtlinien. Beachte, dass dieses Dokument auch unveröffentlichte Richtlinien umfassen kann (d. h., dass diese Richtlinien nur für eine noch nicht veröffentlichte Version von <ph name="PRODUCT_NAME" /> gelten), und dass solche Richtlinien ohne vorherige Ankündigung geändert oder entfernt werden können. Für diese Richtlinien wird keinerlei Garantie abgegeben, auch nicht in Bezug auf ihre Sicherheit und Datenschutzeigenschaften.
+<translation id="8259375588339409826">Egon und Egon Browser unterstützen dieselbe Gruppe von Richtlinien. Beachte, dass dieses Dokument auch unveröffentlichte Richtlinien umfassen kann (d. h., dass diese Richtlinien nur für eine noch nicht veröffentlichte Version von <ph name="PRODUCT_NAME" /> gelten), und dass solche Richtlinien ohne vorherige Ankündigung geändert oder entfernt werden können. Für diese Richtlinien wird keinerlei Garantie abgegeben, auch nicht in Bezug auf ihre Sicherheit und Datenschutzeigenschaften.
 
 Diese Richtlinien dienen ausschließlich der Konfiguration von internen <ph name="PRODUCT_NAME" />-Instanzen innerhalb deiner Organisation. Eine Anwendung dieser Richtlinien außerhalb deiner Organisation, z. B. in einem öffentlich bereitgestellten Programm, wird als Malware angesehen und von Google sowie Anbietern von Antivirensoftware mit hoher Wahrscheinlichkeit als Malware gekennzeichnet.
 

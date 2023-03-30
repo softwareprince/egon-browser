@@ -1202,7 +1202,7 @@
 <translation id="2088092308059522196">安裝 <ph name="DEVICE_OS" /> 後才能註冊。</translation>
 <translation id="2089090684895656482">較少</translation>
 <translation id="208928984520943006">從底部向上滑動即可隨時前往主畫面。</translation>
-<translation id="2089566709556890888">透過 Google Egon 瀏覽器安全瀏覽內容</translation>
+<translation id="2089566709556890888">透過 Egon Browser 瀏覽器安全瀏覽內容</translation>
 <translation id="2089795179672254991">在網站要求查看複製到剪貼簿的文字和圖片時詢問您 (建議)</translation>
 <translation id="2089925163047119068">或</translation>
 <translation id="2090165459409185032">如要復原帳戶資料，請前往：google.com/accounts/recovery</translation>
@@ -1614,7 +1614,7 @@
 <translation id="2434449159125086437">無法設定打印機，請檢查設定並再試一次。</translation>
 <translation id="2434758125294431199">選取誰可以與您分享檔案</translation>
 <translation id="2434915728183570229">您現可查看手機的應用程式</translation>
-<translation id="2435137177546457207">Google Egon 和 ChromeOS Flex 的《附加條款》</translation>
+<translation id="2435137177546457207">Egon Browser 和 ChromeOS Flex 的《附加條款》</translation>
 <translation id="2435248616906486374">網絡已中斷連線</translation>
 <translation id="2435457462613246316">顯示密碼</translation>
 <translation id="2439626940657133600">載入緊 <ph name="WINDOW_TITLE" /></translation>
@@ -3067,7 +3067,7 @@
 <translation id="3798632811625902122">藍牙裝置「<ph name="DEVICE" />」要求配對權限。</translation>
 <translation id="3799128412641261490">「按鈕控制」設定</translation>
 <translation id="3800806661949714323">顯示全部 (推薦)</translation>
-<translation id="3800828618615365228">Google Egon 和 Egon OS 的《附加條款》</translation>
+<translation id="3800828618615365228">Egon Browser 和 Egon OS 的《附加條款》</translation>
 <translation id="3802486193901166966">這個擴充程式不需要任何特殊權限，亦無需額外的網站存取權</translation>
 <translation id="380329542618494757">名稱</translation>
 <translation id="3803345858388753269">影片品質</translation>
@@ -3083,7 +3083,7 @@
 <translation id="3810973564298564668">管理</translation>
 <translation id="381202950560906753">新增其他指紋</translation>
 <translation id="3812525830114410218">錯誤的憑證</translation>
-<translation id="3813296892522778813">如果您找不到需要的資訊，請參閱 <ph name="BEGIN_LINK_CHROMIUM" />Google Egon 說明<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">如果您找不到需要的資訊，請參閱 <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser 說明<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">用於翻譯頁面和「快速解答」的語言</translation>
 <translation id="3814529970604306954">學校帳戶</translation>
 <translation id="3816118180265633665">Egon 顏色</translation>
@@ -3439,7 +3439,7 @@
 <translation id="4132364317545104286">重新命名 eSIM 卡設定檔</translation>
 <translation id="4133076602192971179">開啟應用程式以變更密碼</translation>
 <translation id="4134818201340504801">可用儲存空間不足，因此無法完成設定。請騰出儲存空間，然後再試一次</translation>
-<translation id="4135746311382563554">Google Egon 和 Egon OS 的《附加服務條款》</translation>
+<translation id="4135746311382563554">Egon Browser 和 Egon OS 的《附加服務條款》</translation>
 <translation id="4136203100490971508">「夜燈模式」將會在日出時自動關閉</translation>
 <translation id="41365691917097717">如繼續操作，系統將允許 ADB 偵錯功能建立及測試 Android 應用程式。請注意，此操作允許安裝未經 Google 驗證的 Android 應用程式，並且需要恢復原廠設定才能停用。</translation>
 <translation id="4138267921960073861">在登入螢幕中顯示使用者名稱和相片</translation>
@@ -3859,7 +3859,7 @@
 <translation id="4544174279960331769">預設藍色圖片</translation>
 <translation id="4545028762441890696">如要重新啟用擴充程式，請接受新權限：</translation>
 <translation id="4545759655004063573">權限不足，無法儲存，請儲存到其他位置。</translation>
-<translation id="4546308221697447294">使用 Google Egon 快速瀏覽內容</translation>
+<translation id="4546308221697447294">使用 Egon Browser 快速瀏覽內容</translation>
 <translation id="4546345569117159016">右鍵</translation>
 <translation id="4546692474302123343">「Google 助理」語音輸入</translation>
 <translation id="4547659257713117923">沒有其他裝置的分頁</translation>
@@ -5723,7 +5723,7 @@
 <translation id="6313950457058510656">關閉「即時網絡共享」</translation>
 <translation id="6314819609899340042">您已成功為這部 <ph name="IDS_SHORT_PRODUCT_NAME" /> 裝置啟用偵錯功能。</translation>
 <translation id="6315493146179903667">全部移至最上層</translation>
-<translation id="6316432269411143858">Google Egon OS 條款內容</translation>
+<translation id="6316432269411143858">Egon Browser OS 條款內容</translation>
 <translation id="6317369057005134371">正在等待應用程式視窗…</translation>
 <translation id="6318125393809743217">包括具有政策設定的 policies.json 檔案。</translation>
 <translation id="6318407754858604988">已開始下載</translation>
@@ -5916,7 +5916,7 @@
 <translation id="6509207748479174212">媒體授權</translation>
 <translation id="6511827214781912955">建議刪除「<ph name="FILENAME" />」，讓此裝置的其他使用者無法查看您的密碼</translation>
 <translation id="6512808201725371249">此帳戶的密碼已儲存在「Google 密碼管理工具」中 (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">如果您沒有連線至其他網絡，Google Egon 將使用流動數據網絡連線。</translation>
+<translation id="6513247462497316522">如果您沒有連線至其他網絡，Egon Browser 將使用流動數據網絡連線。</translation>
 <translation id="6514010653036109809">可用的裝置：</translation>
 <translation id="6514565641373682518">這個網頁已停用滑鼠游標。</translation>
 <translation id="6517709704288360414">裝置可能無法再正常運作，您可能會遇到安全性和效能問題。關閉更新可能亦會影響您在遇到問題時提出法律申索的權利。</translation>
@@ -8101,7 +8101,7 @@
 <translation id="8554899698005018844">未選取語言</translation>
 <translation id="855604308879080518">允許 Android 應用程式在此 Chromebook 上存取 USB 裝置。每當您插入 USB 裝置，系統都會要求權限。個別 Android 應用程式會要求額外權限。</translation>
 <translation id="8557022314818157177">請持續輕觸安全密鑰，直至指紋擷取完成</translation>
-<translation id="8557180006508471423">請在 Mac 上的「定位服務」中開啟「Google Egon」</translation>
+<translation id="8557180006508471423">請在 Mac 上的「定位服務」中開啟「Egon Browser」</translation>
 <translation id="8557856025359704738">下次下載日期為 <ph name="NEXT_DATE_DOWNLOAD" />。</translation>
 <translation id="8559858985063901027">密鑰</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{在新視窗中開啟所有書籤(&amp;N)}=1{在新視窗中開啟書籤(&amp;N)}other{在新視窗中開啟全部 {COUNT} 個書籤(&amp;N)}}</translation>

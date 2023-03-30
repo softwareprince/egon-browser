@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">I-delete ang kasalukuyang data.</translation>
 <translation id="1146678959555564648">Pumasok sa VR</translation>
 <translation id="1149401351239820326">Buwan ng pag-expire</translation>
-<translation id="1150263420752757504">Bubukas ang <ph name="APP_NAME" /> sa Egon. Sa pamamagitan ng pagpapatuloy, sumasang-ayon ka sa <ph name="BEGIN_LINK1" />Mga Tuntunin ng Serbisyo ng Google<ph name="END_LINK1" />, at sa <ph name="BEGIN_LINK2" />Mga Karagdagang Tuntunin ng Serbisyo ng Google Egon at ChromeOS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504">Bubukas ang <ph name="APP_NAME" /> sa Egon. Sa pamamagitan ng pagpapatuloy, sumasang-ayon ka sa <ph name="BEGIN_LINK1" />Mga Tuntunin ng Serbisyo ng Google<ph name="END_LINK1" />, at sa <ph name="BEGIN_LINK2" />Mga Karagdagang Tuntunin ng Serbisyo ng Egon Browser at ChromeOS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Hindi available ang page kapag offline: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Tingnan ang mga sikat na website sa pamamagitan ng pag-tap sa button na "Mga nangungunang site"</translation>
 <translation id="1173894706177603556">Pangalanang muli</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Nagbibigay-daan ang pagsukat ng ad sa mga site na binibisita mo na humiling ng impormasyon mula sa Egon na tumutulong sa site na sukatin ang performance ng mga ad ng mga ito. Pinaghihigpitan ng pagsukat ng ad ang cross-site na pagsubaybay sa pamamagitan ng paglilipat ng kaunting impormasyon hangga't posible sa pagitan ng mga site.
 
 Kapag na-delete mo ang iyong history ng pag-browse — lahat o para sa isang partikular na site — made-delete mo rin ang nauugnay na impormasyon ng pagsukat. Tingnan ang <ph name="BEGIN_LINK" />iyong history ng pag-browse<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Mga shortcut ng feature ng Google Egon</translation>
+<translation id="1332501820983677155">Mga shortcut ng feature ng Egon Browser</translation>
 <translation id="1344653310988386453">Isama ang link sa highlight</translation>
 <translation id="1347468774581902829">Pamahalaan ang aktibidad</translation>
 <translation id="1360432990279830238">Mag-sign out at i-off ang pag-sync?</translation>
@@ -213,7 +213,7 @@ Kapag na-delete mo ang iyong history ng pag-browse — lahat o para sa isang par
 <translation id="2122601567107267586">Hindi mabuksan ang app</translation>
 <translation id="2132122640199389833">Alisin ang lahat ng naka-link na device</translation>
 <translation id="213279576345780926">Isinarang <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">Sa pamamagitan ng paggamit sa Egon, sumasang-ayon ka sa <ph name="BEGIN_TOS_LINK" />Mga Tuntunin ng Serbisyo ng Google<ph name="END_TOS_LINK" />, at sa <ph name="BEGIN_ATOS_LINK" />Mga Karagdagang Tuntunin ng Serbisyo ng Google Egon at ChromeOS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Sa pamamagitan ng paggamit sa Egon, sumasang-ayon ka sa <ph name="BEGIN_TOS_LINK" />Mga Tuntunin ng Serbisyo ng Google<ph name="END_TOS_LINK" />, at sa <ph name="BEGIN_ATOS_LINK" />Mga Karagdagang Tuntunin ng Serbisyo ng Egon Browser at ChromeOS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Idagdag sa Home screen</translation>
 <translation id="2141396931810938595">Batay sa iyong paggamit</translation>
 <translation id="214888715418183969">Piliin kung ano ang kumportable kang ibahagi sa Egon. Gagamitin ang mga sukatang ibabahagi mo para makatulong sa pagpapahusay ng mga feature, performance, at stability ng Egon.</translation>
@@ -391,7 +391,7 @@ Kapag na-delete mo ang iyong history ng pag-browse — lahat o para sa isang par
 <translation id="3062802207422175757">Mga artikulo tungkol sa iyong mga interes sa Egon</translation>
 <translation id="3066573403916685335">Lumipat Pababa</translation>
 <translation id="3070005020161560471">Awtomatikong isalin</translation>
-<translation id="3072980200212375806">Bubukas ang <ph name="APP_NAME" /> sa Egon. Sa pamamagitan ng pagpapatuloy, sumasang-ayon ka sa <ph name="BEGIN_LINK1" />Mga Tuntunin ng Serbisyo ng Google<ph name="END_LINK1" />, at sa <ph name="BEGIN_LINK2" />Mga Karagdagang Tuntunin ng Serbisyo ng Google Egon at ChromeOS<ph name="END_LINK2" />. Nalalapat din ang <ph name="BEGIN_LINK3" />Patakaran sa Privacy<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806">Bubukas ang <ph name="APP_NAME" /> sa Egon. Sa pamamagitan ng pagpapatuloy, sumasang-ayon ka sa <ph name="BEGIN_LINK1" />Mga Tuntunin ng Serbisyo ng Google<ph name="END_LINK1" />, at sa <ph name="BEGIN_LINK2" />Mga Karagdagang Tuntunin ng Serbisyo ng Egon Browser at ChromeOS<ph name="END_LINK2" />. Nalalapat din ang <ph name="BEGIN_LINK3" />Patakaran sa Privacy<ph name="END_LINK3" />.</translation>
 <translation id="3091010850649238832">Ipakita ang mga content ng clipboard</translation>
 <translation id="3098745985164956033">Ipinapadala sa Google ang ilang larawan para mapahusay ang mga paglalarawan para sa iyo</translation>
 <translation id="3114507951000454849">Basahin ang balita ngayong araw <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Kapag na-delete mo ang iyong history ng pag-browse — lahat o para sa isang par
 <translation id="321773570071367578">Kung nakalimutan mo ang iyong passphrase o gusto mong baguhin ang setting na ito, <ph name="BEGIN_LINK" />i-reset ang pag-sync<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Para ma-sync ang iyong mga password, i-verify na ikaw ito</translation>
 <translation id="3223522355830797639">Gustong kumpirmahin ng bangko mo na ikaw nga ito.</translation>
-<translation id="3227557059438308877">Google Egon bilang Security Key</translation>
+<translation id="3227557059438308877">Egon Browser bilang Security Key</translation>
 <translation id="3232754137068452469">Web App</translation>
 <translation id="3234978181857588512">I-save sa device</translation>
 <translation id="3236059992281584593">1 minuto na lang ang natitira</translation>
@@ -596,7 +596,7 @@ Kapag na-delete mo ang iyong history ng pag-browse — lahat o para sa isang par
 <translation id="4269820728363426813">Kopyahin ang address ng link</translation>
 <translation id="4283102315569707115">Humiling ng mga pang-desktop na site bilang default?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />I-on ang lock ng screen sa mga setting ng Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Sa pamamagitan ng paggamit sa Egon, sumasang-ayon ka sa <ph name="BEGIN_TOS_LINK" />Mga Tuntunin ng Serbisyo ng Google<ph name="END_TOS_LINK" />, at sa <ph name="BEGIN_ATOS_LINK" />Mga Karagdagang Tuntunin ng Serbisyo ng Google Egon at ChromeOS<ph name="END_ATOS_LINK" />. Nalalapat din ang <ph name="BEGIN_PRIVACY_LINK" />Patakaran sa Privacy<ph name="END_PRIVACY_LINK" />.</translation>
+<translation id="4293476595220860475">Sa pamamagitan ng paggamit sa Egon, sumasang-ayon ka sa <ph name="BEGIN_TOS_LINK" />Mga Tuntunin ng Serbisyo ng Google<ph name="END_TOS_LINK" />, at sa <ph name="BEGIN_ATOS_LINK" />Mga Karagdagang Tuntunin ng Serbisyo ng Egon Browser at ChromeOS<ph name="END_ATOS_LINK" />. Nalalapat din ang <ph name="BEGIN_PRIVACY_LINK" />Patakaran sa Privacy<ph name="END_PRIVACY_LINK" />.</translation>
 <translation id="4296252229500326964">Bagong tab na Incognito</translation>
 <translation id="4298388696830689168">Mga naka-link na site</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@ Pinapahusay ng mga trust token ang privacy sa web at hindi magagamit ang mga ito
 <translation id="9219582468404818260">Tulungan kaming bumuo ng mas mahusay na web</translation>
 <translation id="92381315203627188">Kapag humiling ang isang site na pribadong mag-preload ng mga link sa page nito, mag-e-encrypt at magpi-preload ng mga page ang Egon sa pamamagitan ng mga server ng Google nang walang cookies. Maitatago nito ang iyong pagkakakilanlan sa na-preload na site.</translation>
 <translation id="926205370408745186">Alisin sa Digital Wellness ang iyong aktibidad sa Egon</translation>
-<translation id="927968626442779827">Gamitin ang Lite mode sa Google Egon</translation>
+<translation id="927968626442779827">Gamitin ang Lite mode sa Egon Browser</translation>
 <translation id="928550791203542716">Sinusubaybayan ang <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Home</translation>
 <translation id="938850635132480979">Error: <ph name="ERROR_CODE" /></translation>

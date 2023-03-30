@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">既存のデータを削除します。</translation>
 <translation id="1146678959555564648">VR を入力</translation>
 <translation id="1149401351239820326">有効期限（月）</translation>
-<translation id="1150263420752757504">Egon で <ph name="APP_NAME" /> を開きます。続行すると、<ph name="BEGIN_LINK1" />Google 利用規約<ph name="END_LINK1" />と <ph name="BEGIN_LINK2" />Google Egon および Egon OS 追加利用規約<ph name="END_LINK2" />に同意したものと見なされます。</translation>
+<translation id="1150263420752757504">Egon で <ph name="APP_NAME" /> を開きます。続行すると、<ph name="BEGIN_LINK1" />Google 利用規約<ph name="END_LINK1" />と <ph name="BEGIN_LINK2" />Egon Browser および Egon OS 追加利用規約<ph name="END_LINK2" />に同意したものと見なされます。</translation>
 <translation id="1154704303112745282">オフラインで使用できないページ: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">人気のウェブサイトを表示するには、[上位のサイト] ボタンをタップします</translation>
 <translation id="1173894706177603556">名前を変更</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">広告の測定により、アクセスしたサイトは、サイトが広告のパフォーマンスを測定する際に役立つ Egon の情報をリクエストできます。広告の測定は、サイト間で転送する情報をできるだけ少なくすることで、クロスサイト トラッキングを制限します。
 
 全サイトまたは特定のサイトの閲覧履歴を削除すると、関連する測定情報も削除されます。<ph name="BEGIN_LINK" />閲覧履歴<ph name="END_LINK" />をご覧ください。</translation>
-<translation id="1332501820983677155">Google Egon 機能のショートカット</translation>
+<translation id="1332501820983677155">Egon Browser 機能のショートカット</translation>
 <translation id="1344653310988386453">選択箇所へのリンクを含める</translation>
 <translation id="1347468774581902829">アクティビティを管理</translation>
 <translation id="1360432990279830238">ログアウトして同期をオフにしますか？</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">アプリを開けませんでした</translation>
 <translation id="2132122640199389833">リンクしたすべてのデバイスを削除</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> を閉じました</translation>
-<translation id="2134927169889348449">Egon を使用すると、<ph name="BEGIN_TOS_LINK" />Google 利用規約<ph name="END_TOS_LINK" />と <ph name="BEGIN_ATOS_LINK" />Google Egon および Egon OS 追加利用規約<ph name="END_ATOS_LINK" />に同意したものと見なされます。</translation>
+<translation id="2134927169889348449">Egon を使用すると、<ph name="BEGIN_TOS_LINK" />Google 利用規約<ph name="END_TOS_LINK" />と <ph name="BEGIN_ATOS_LINK" />Egon Browser および Egon OS 追加利用規約<ph name="END_ATOS_LINK" />に同意したものと見なされます。</translation>
 <translation id="2139186145475833000">ホーム画面に追加</translation>
 <translation id="2141396931810938595">使用状況を基に決定</translation>
 <translation id="214888715418183969">Egon と共有してもよいものを選択してください。ご提供いただいた指標は、Egon の機能、パフォーマンス、安定性の向上に利用させていただきます。</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Egon の履歴に基づくおすすめの記事を表示します</translation>
 <translation id="3066573403916685335">下に移動</translation>
 <translation id="3070005020161560471">自動的に翻訳する</translation>
-<translation id="3072980200212375806">Egon で <ph name="APP_NAME" /> を開きます。続行すると、<ph name="BEGIN_LINK1" />Google 利用規約<ph name="END_LINK1" />と <ph name="BEGIN_LINK2" />Google Egon および Egon OS 追加利用規約<ph name="END_LINK2" />に同意したものと見なされます。また、<ph name="BEGIN_LINK3" />プライバシー ポリシー<ph name="END_LINK3" />も適用されます。</translation>
+<translation id="3072980200212375806">Egon で <ph name="APP_NAME" /> を開きます。続行すると、<ph name="BEGIN_LINK1" />Google 利用規約<ph name="END_LINK1" />と <ph name="BEGIN_LINK2" />Egon Browser および Egon OS 追加利用規約<ph name="END_LINK2" />に同意したものと見なされます。また、<ph name="BEGIN_LINK3" />プライバシー ポリシー<ph name="END_LINK3" />も適用されます。</translation>
 <translation id="3091010850649238832">クリップボードの内容を表示</translation>
 <translation id="3098745985164956033">正確な説明を生成するため、画像が Google に送信される場合があります</translation>
 <translation id="3114507951000454849">今日のニュースをチェック <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">パスフレーズを忘れた場合や、この設定を変更する場合は、<ph name="BEGIN_LINK" />同期をリセット<ph name="END_LINK" />します</translation>
 <translation id="3220943972464248773">パスワードを同期するには、本人確認を行ってください</translation>
 <translation id="3223522355830797639">ご利用の銀行またはカード発行会社が本人確認をもとめています。</translation>
-<translation id="3227557059438308877">Google Egon をセキュリティ キーとして使用</translation>
+<translation id="3227557059438308877">Egon Browser をセキュリティ キーとして使用</translation>
 <translation id="3232754137068452469">ウェブアプリ</translation>
 <translation id="3234978181857588512">デバイスに保存</translation>
 <translation id="3236059992281584593">残り 1 分</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">リンクアドレスをコピー</translation>
 <translation id="4283102315569707115">デフォルトで PC 版サイトをリクエストしますか？</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android の設定で画面ロックをオンにする<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Egon を使用すると、<ph name="BEGIN_TOS_LINK" />Google 利用規約<ph name="END_TOS_LINK" />と <ph name="BEGIN_ATOS_LINK" />Google Egon および Egon OS 追加利用規約<ph name="END_ATOS_LINK" />に同意したものと見なされます。また、<ph name="BEGIN_PRIVACY_LINK" />プライバシー ポリシー<ph name="END_PRIVACY_LINK" />も適用されます。</translation>
+<translation id="4293476595220860475">Egon を使用すると、<ph name="BEGIN_TOS_LINK" />Google 利用規約<ph name="END_TOS_LINK" />と <ph name="BEGIN_ATOS_LINK" />Egon Browser および Egon OS 追加利用規約<ph name="END_ATOS_LINK" />に同意したものと見なされます。また、<ph name="BEGIN_PRIVACY_LINK" />プライバシー ポリシー<ph name="END_PRIVACY_LINK" />も適用されます。</translation>
 <translation id="4296252229500326964">新しいシークレット タブ</translation>
 <translation id="4298388696830689168">リンク済みのサイト</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@
 <translation id="9219582468404818260">ウェブの改善にご協力ください</translation>
 <translation id="92381315203627188">ページのリンクを非公開でプリロードするように求めるメッセージがサイトに表示された場合、Egon は Cookie を使用せずに Google サーバーを経由してページを暗号化し、プリロードします。その結果、プリロードされたサイトでユーザーの ID が非表示になります。</translation>
 <translation id="926205370408745186">Egon のアクティビティを Digital Wellbeing から削除</translation>
-<translation id="927968626442779827">Google Egon のライトモードをご活用ください</translation>
+<translation id="927968626442779827">Egon Browser のライトモードをご活用ください</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> をフォローしました</translation>
 <translation id="932327136139879170">ホーム</translation>
 <translation id="938850635132480979">エラー: <ph name="ERROR_CODE" /></translation>

@@ -263,7 +263,7 @@
 <translation id="156703335097561114">معلومات الشبكة، مثل العناوين وإعدادات الواجهة وجودة الاتصال</translation>
 <translation id="1567040042588613346">تعمل هذه السياسة على النحو المنشود، غير أنّ القيمة نفسها مُحدّدة في مكان آخر ومن ثمَّ تم استبدالها بموجب هذه السياسة.</translation>
 <translation id="1569487616857761740">إدخال تاريخ انتهاء الصلاحية</translation>
-<translation id="1569694109004336106">‏يحاول Google Egon تفعيل Windows Hello لملء كلمات المرور.</translation>
+<translation id="1569694109004336106">‏يحاول Egon Browser تفعيل Windows Hello لملء كلمات المرور.</translation>
 <translation id="1572765991610098222">‏<ph name="WIDTH" /> x <ph name="HEIGHT" /> بوصة</translation>
 <translation id="1581080074034554886">‏رمز التحقق من البطاقة (CVC)</translation>
 <translation id="1583429793053364125">حدث خطأ ما أثناء عرض صفحة الويب هذه.</translation>
@@ -459,7 +459,7 @@
 <translation id="2085876078937250610">حفظ…</translation>
 <translation id="2088086323192747268">‏زر "إدارة المزامنة"، اضغط على مفتاح Enter لإدارة نوع المعلومات التي تريد مزامنتها من خلال إعدادات Egon.</translation>
 <translation id="2091887806945687916">الصوت</translation>
-<translation id="2093982008204312032">‏يحاول Google Egon إيقاف استخدام Windows Hello لملء كلمات المرور.</translation>
+<translation id="2093982008204312032">‏يحاول Egon Browser إيقاف استخدام Windows Hello لملء كلمات المرور.</translation>
 <translation id="2094505752054353250">النطاق غير متطابق</translation>
 <translation id="2099652385553570808">وضع ثلاثة دبابيس يسارًا</translation>
 <translation id="2101225219012730419">الإصدار:</translation>
@@ -2587,7 +2587,7 @@
 <translation id="7564049878696755256">‏قد تفقد إمكانية الوصول إلى حسابك على <ph name="ORG_NAME" /> أو تتعرض لسرقة هويتك. لذا يوصي Egon بتغيير كلمة مرورك الآن.</translation>
 <translation id="7564680668369175887">سيارات ستيشن واغن</translation>
 <translation id="7567204685887185387">هذا الخادم لم يتمكن من إثبات أن ذلك <ph name="DOMAIN" />؛ بل إنه شهادة أمان تم إصدارها عن طريق الاحتيال. وربما يكون سبب ذلك خطأ في التكوين أو مهاجمًا يعترض اتصالك.</translation>
-<translation id="7568616151991626879">‏يحاول Google Egon إدخال كلمة مرورك في "<ph name="APP_NAME" />".</translation>
+<translation id="7568616151991626879">‏يحاول Egon Browser إدخال كلمة مرورك في "<ph name="APP_NAME" />".</translation>
 <translation id="7569490014721427265">غولف</translation>
 <translation id="7569761772822664555">‏زرّ إدارة محركات البحث: اضغط على مفتاح Enter لإدارة محرك البحث التلقائي وبحث الموقع التلقائي.</translation>
 <translation id="7569952961197462199">‏هل تريد إزالة بطاقة الائتمان من Egon؟</translation>

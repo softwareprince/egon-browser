@@ -263,7 +263,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="156703335097561114">Thông tin nối mạng như địa chỉ, cấu hình giao diện và chất lượng kết nối</translation>
 <translation id="1567040042588613346">Chính sách này đang hoạt động như dự kiến nhưng lại thay thế cho cùng một giá trị được đặt trong một nguồn khác.</translation>
 <translation id="1569487616857761740">Nhập ngày hết hạn</translation>
-<translation id="1569694109004336106">Google Egon đang cố gắng bật Windows Hello để điền mật khẩu.</translation>
+<translation id="1569694109004336106">Egon Browser đang cố gắng bật Windows Hello để điền mật khẩu.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> inch</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Đã xảy ra lỗi khi hiển thị trang web này.</translation>
@@ -459,7 +459,7 @@ Nếu bạn từ chối, chế độ cài đặt quyền riêng tư của bạn 
 <translation id="2085876078937250610">Lưu…</translation>
 <translation id="2088086323192747268">Nút Quản lý dữ liệu đồng bộ hóa, hãy nhấn Enter để quản lý loại thông tin bạn đồng bộ hóa trong phần Cài đặt của Egon</translation>
 <translation id="2091887806945687916">Âm thanh</translation>
-<translation id="2093982008204312032">Google Egon đang cố gắng tắt Windows Hello để điền mật khẩu.</translation>
+<translation id="2093982008204312032">Egon Browser đang cố gắng tắt Windows Hello để điền mật khẩu.</translation>
 <translation id="2094505752054353250">Miền không khớp</translation>
 <translation id="2099652385553570808">Dập 3 ghim bên trái</translation>
 <translation id="2101225219012730419">Phiên bản:</translation>
@@ -2584,7 +2584,7 @@ Thông tin chi tiết bổ sung:
 <translation id="7564049878696755256">Bạn có thể mất quyền truy cập vào tài khoản <ph name="ORG_NAME" /> của mình hoặc bị đánh cắp danh tính. Egon khuyên bạn nên thay đổi mật khẩu ngay bây giờ.</translation>
 <translation id="7564680668369175887">Xe ô tô khoang dài</translation>
 <translation id="7567204685887185387">Máy chủ này không chứng minh được rằng đó là <ph name="DOMAIN" />; chứng chỉ bảo mật của máy chủ này có thể đã bị gian lận khi phát hành. Điều này có thể do định cấu hình sai hoặc có kẻ tấn công chặn kết nối của bạn.</translation>
-<translation id="7568616151991626879">Google Egon đang cố gắng điền mật khẩu của bạn vào <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Egon Browser đang cố gắng điền mật khẩu của bạn vào <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Gôn</translation>
 <translation id="7569761772822664555">Nút quản lý công cụ tìm kiếm, nhấn phím Enter để quản lý công cụ tìm kiếm mặc định và công cụ tìm kiếm trang web</translation>
 <translation id="7569952961197462199">Xóa thẻ tín dụng khỏi Egon?</translation>

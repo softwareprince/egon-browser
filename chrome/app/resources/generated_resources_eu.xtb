@@ -1190,7 +1190,7 @@ Kontu honen ezarpenak kudeatzeko, instalatu Family Link aplikazioa zure gailuan.
 <translation id="2088092308059522196"><ph name="DEVICE_OS" /> instalatu behar da erregistratu ahal izateko.</translation>
 <translation id="2089090684895656482">Gutxiago</translation>
 <translation id="208928984520943006">Edozein unetan hasierako pantailara joateko, pasatu hatza pantailaren behealdetik gora.</translation>
-<translation id="2089566709556890888">Arakatu sarea segurtasun osoz Google Egon-rekin</translation>
+<translation id="2089566709556890888">Arakatu sarea segurtasun osoz Egon Browser-rekin</translation>
 <translation id="2089795179672254991">Eskatu nire baimena webguneren batek arbelean kopiatzen ditudan testuak eta irudiak ikusi nahi dituenean (gomendatua)</translation>
 <translation id="2089925163047119068">EDO</translation>
 <translation id="2090165459409185032">Kontuko informazioa berreskuratzeko, joan hona: google.com/accounts/recovery</translation>
@@ -1599,7 +1599,7 @@ Voice Match-ekin, Google-ren Laguntzailea zerbitzuak <ph name="SUPERVISED_USER_N
 <translation id="2434449159125086437">Ezin da konfiguratu inprimagailua. Egiaztatu konfigurazioa eta saiatu berriro.</translation>
 <translation id="2434758125294431199">Hautatu nork parteka dezakeen zurekin edukia</translation>
 <translation id="2434915728183570229">Orain, telefonoko aplikazioak ikus ditzakezu</translation>
-<translation id="2435137177546457207">Google Egon-ren eta ChromeOS Flex-en baldintza gehigarriak</translation>
+<translation id="2435137177546457207">Egon Browser-ren eta ChromeOS Flex-en baldintza gehigarriak</translation>
 <translation id="2435248616906486374">Sarea deskonektatu da</translation>
 <translation id="2435457462613246316">Erakutsi pasahitza</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> kargatzen</translation>
@@ -3068,7 +3068,7 @@ Txartel adimenduna sartuta edukitzea eskatzen du <ph name="DOMAIN" /> domeinuak.
 <translation id="3810973564298564668">Kudeatu</translation>
 <translation id="381202950560906753">Gehitu beste bat</translation>
 <translation id="3812525830114410218">Ziurtagiri txarra</translation>
-<translation id="3813296892522778813">Bila zabiltzana aurkitu ezin baduzu, joan <ph name="BEGIN_LINK_CHROMIUM" />Google Egon laguntzara<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">Bila zabiltzana aurkitu ezin baduzu, joan <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser laguntzara<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">Orriak itzultzeko eta Erantzun bizkorrak eginbiderako erabili den hizkuntza</translation>
 <translation id="3814529970604306954">Ikastetxeko kontua</translation>
 <translation id="3816118180265633665">Egon-ko koloreak</translation>
@@ -3424,7 +3424,7 @@ Txartel adimenduna sartuta edukitzea eskatzen du <ph name="DOMAIN" /> domeinuak.
 <translation id="4132364317545104286">Aldatu izena eSIMaren profilari</translation>
 <translation id="4133076602192971179">Ireki aplikazioa pasahitza aldatzeko</translation>
 <translation id="4134818201340504801">Ez dago behar adina toki konfiguratzen amaitzeko. Egin tokia eta saiatu berriro.</translation>
-<translation id="4135746311382563554">Google Egon eta Egon OS-ren zerbitzu-baldintza gehigarriak</translation>
+<translation id="4135746311382563554">Egon Browser eta Egon OS-ren zerbitzu-baldintza gehigarriak</translation>
 <translation id="4136203100490971508">Gaueko argia egunsentian desaktibatuko da automatikoki</translation>
 <translation id="41365691917097717">Aurrera eginez gero, ADB arazketa gaituko da Android-erako aplikazioak sortu eta probatzeko. Kontuan izan ekintza honekin baimendu egiten dela Google-k egiaztatu ez dituen Android-erako aplikazioak instalatzeko aukera eta, inoiz tresna hori desgaitu nahi izanez gero, jatorrizko datuak berrezarri beharko direla.</translation>
 <translation id="4138267921960073861">Erakutsi erabiltzaile-izenak eta -argazkiak saioa hasteko pantailan</translation>
@@ -3843,7 +3843,7 @@ Txartel adimenduna sartuta edukitzea eskatzen du <ph name="DOMAIN" /> domeinuak.
 <translation id="4544174279960331769">Abatar urdin lehenetsia</translation>
 <translation id="4545028762441890696">Berriro gaitzeko, eman beharrezko baimen berriak:</translation>
 <translation id="4545759655004063573">Ezin da gorde baimenak ez direlako nahiko. Gorde beste kokapen batean.</translation>
-<translation id="4546308221697447294">Arakatu sarea bizkor Google Egon-rekin</translation>
+<translation id="4546308221697447294">Arakatu sarea bizkor Egon Browser-rekin</translation>
 <translation id="4546345569117159016">Eskuineko botoia</translation>
 <translation id="4546692474302123343">Google-ren Laguntzailea zerbitzuaren ahozko idazketa</translation>
 <translation id="4547659257713117923">Ez dago beste gailuetako fitxarik</translation>
@@ -5706,7 +5706,7 @@ Txartel adimenduna sartuta edukitzea eskatzen du <ph name="DOMAIN" /> domeinuak.
 <translation id="6313950457058510656">Desaktibatu konexioa bizkor partekatzeko eginbidea</translation>
 <translation id="6314819609899340042">Behar bezala gaitu dituzu <ph name="IDS_SHORT_PRODUCT_NAME" /> gailuko arazketa-eginbideak.</translation>
 <translation id="6315493146179903667">Eraman guztiak aurrealdera</translation>
-<translation id="6316432269411143858">Google Egon OS-ren Baldintzen edukia</translation>
+<translation id="6316432269411143858">Egon Browser OS-ren Baldintzen edukia</translation>
 <translation id="6317369057005134371">Aplikazioaren leihoaren zain…</translation>
 <translation id="6318125393809743217">Gehitu policies.json fitxategi bat gidalerroen konfigurazioekin.</translation>
 <translation id="6318407754858604988">Hasi da deskargatzen</translation>
@@ -5899,7 +5899,7 @@ Txartel adimenduna sartuta edukitzea eskatzen du <ph name="DOMAIN" /> domeinuak.
 <translation id="6509207748479174212">Multimedia-edukia erabiltzeko lizentzia</translation>
 <translation id="6511827214781912955"><ph name="FILENAME" /> ezabatzea gomendatzen dugu, gailua darabilten gainerakoek zure pasahitzak ikus ez ditzaten</translation>
 <translation id="6512808201725371249">Dagoeneko gordeta dago Google-ren Pasahitz-kudeatzailea zerbitzuan (<ph name="USER_EMAIL" />) kontu honetarako pasahitz bat</translation>
-<translation id="6513247462497316522">Beste sare batera konektatuta egon ezean, Google Egon aplikazioak datu-konexioa erabiliko du.</translation>
+<translation id="6513247462497316522">Beste sare batera konektatuta egon ezean, Egon Browser aplikazioak datu-konexioa erabiliko du.</translation>
 <translation id="6514010653036109809">Gailu erabilgarria:</translation>
 <translation id="6514565641373682518">Orri honek kurtsorea desgaitu dizu.</translation>
 <translation id="6517709704288360414">Baliteke gailuak behar bezala funtzionatzeari uztea eta segurtasun- eta errendimendu-arazoak izatea. Gainera, litekeena da eguneratzeak desaktibatzearen ondorioz legezko erreklamazioak egiteko duzun eskubidea egikaritu ezin izatea gailuarekin arazorik izanez gero.</translation>
@@ -8083,7 +8083,7 @@ Gorde gakoen fitxategia leku seguru batean. Zure luzapenaren bertsio berriak sor
 <translation id="8554899698005018844">Ez da zehaztu hizkuntzarik</translation>
 <translation id="855604308879080518">Eman USB bidezko gailuak atzitzeko baimena Android-erako aplikazioei Chromebook honetan. USB bidezko gailu bat konektatzen duzun bakoitzean eskatuko da baimena. Android-erako aplikazio bakoitzak baimen gehigarriak eskatuko ditu.</translation>
 <translation id="8557022314818157177">Jarraitu segurtasun-giltza sakatzen, hatz-marka hauteman arte</translation>
-<translation id="8557180006508471423">Aktibatu "Google Egon" Mac-eko Kokapen-zerbitzuak ezarpenean</translation>
+<translation id="8557180006508471423">Aktibatu "Egon Browser" Mac-eko Kokapen-zerbitzuak ezarpenean</translation>
 <translation id="8557856025359704738">Hurrengo deskargaren ordua: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Sarbide-gakoak</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Ireki guztiak &amp;beste leiho batean}=1{Ireki &amp;beste leiho batean}other{Ireki guztiak ({COUNT}) &amp;beste leiho batean}}</translation>

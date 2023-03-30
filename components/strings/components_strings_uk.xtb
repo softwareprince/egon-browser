@@ -263,7 +263,7 @@
 <translation id="156703335097561114">Інформація про мережу, наприклад адреси, конфігурацію інтерфейсу та якість з’єднання</translation>
 <translation id="1567040042588613346">Це правило працює належним чином, але в іншому місці встановлюється таке ж значення й замінюється цим правилом.</translation>
 <translation id="1569487616857761740">Введіть дату закінчення терміну дії</translation>
-<translation id="1569694109004336106">Google Egon намагається ввімкнути Windows Hello для введення паролів.</translation>
+<translation id="1569694109004336106">Egon Browser намагається ввімкнути Windows Hello для введення паролів.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> дюйм.</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Під час завантаженння цієї сторінки сталася помилка.</translation>
@@ -459,7 +459,7 @@
 <translation id="2085876078937250610">Зберегти…</translation>
 <translation id="2088086323192747268">Кнопка "Керувати синхронізацією"; натисніть Enter, щоб вибрати в налаштуваннях Egon, яку інформацію синхронізувати</translation>
 <translation id="2091887806945687916">Звук</translation>
-<translation id="2093982008204312032">Google Egon намагається вимкнути Windows Hello для заповнення паролів.</translation>
+<translation id="2093982008204312032">Egon Browser намагається вимкнути Windows Hello для заповнення паролів.</translation>
 <translation id="2094505752054353250">Невідповідність домену</translation>
 <translation id="2099652385553570808">Скріпити тричі ліворуч</translation>
 <translation id="2101225219012730419">Версія:</translation>
@@ -2584,7 +2584,7 @@
 <translation id="7564049878696755256">Ви можете втратити доступ до облікового запису, який вам надає <ph name="ORG_NAME" />, або хтось може викрасти вашу особисту інформацію. Egon радить змінити пароль.</translation>
 <translation id="7564680668369175887">Універсали</translation>
 <translation id="7567204685887185387">Цей сервер не зміг довести, що він – домен <ph name="DOMAIN" />. Можливо, його сертифікат безпеки видали шахраї. Імовірні причини: неправильна конфігурація або хтось намагається перехопити ваше з’єднання.</translation>
-<translation id="7568616151991626879">Google Egon намагається автоматично заповнити пароль у додатку <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Egon Browser намагається автоматично заповнити пароль у додатку <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Гольф</translation>
 <translation id="7569761772822664555">Кнопка "Керувати пошуковими системами"; натисніть Enter, щоб керувати пошуковою системою за умовчанням і пошуком на сайті.</translation>
 <translation id="7569952961197462199">Видалити дані кредитної картки з Egon?</translation>

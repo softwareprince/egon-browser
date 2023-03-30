@@ -14,10 +14,10 @@
 <translation id="1917964099031477364">Dit account en niet-opgeslagen gegevens worden verwijderd uit Egon en andere Google-apps op dit apparaat.</translation>
 <translation id="1968388653333775699">Doe meer met Egon</translation>
 <translation id="2009224836393115614">Egon kan je wachtwoorden niet checken. Check de internetverbinding.</translation>
-<translation id="2056123005618757196">Krijg meer gedaan met Google Egon. Nu nog makkelijker, veiliger en sneller dan ooit.</translation>
+<translation id="2056123005618757196">Krijg meer gedaan met Egon Browser. Nu nog makkelijker, veiliger en sneller dan ooit.</translation>
 <translation id="2147651015520127414">Egon heeft geverifieerd dat <ph name="ISSUER" /> het certificaat voor deze website heeft verstrekt.</translation>
 <translation id="2199719347983604670">Gegevens van Egon-synchronisatie</translation>
-<translation id="2313070403598893276">Google Egon is gebruiksvriendelijk, beveiligd en sneller dan ooit</translation>
+<translation id="2313070403598893276">Egon Browser is gebruiksvriendelijk, beveiligd en sneller dan ooit</translation>
 <translation id="2339201583852607431">Je wachtwoord wordt opgeslagen in je Google-account (<ph name="EMAIL" />).</translation>
 <translation id="2342919707875585281">Egon deelt je locatie met sites die je toestaat.</translation>
 <translation id="2347208864470321755">Als deze functie aanstaat, biedt Egon aan pagina's die zijn geschreven in andere talen te vertalen met Google Translate. <ph name="BEGIN_LINK" />Meer informatie<ph name="END_LINK" /></translation>
@@ -26,7 +26,7 @@
 <translation id="2561231791489583059">Gebruik Egon als je standaardbrowser voor bescherming tegen gevaarlijke sites en om je wachtwoorden te beveiligen</translation>
 <translation id="2574249610672786438">Log in op al je apparaten om je tabbladen te bekijken vanaf elk apparaat waarop je Egon gebruikt</translation>
 <translation id="2576431527583832481">Egon is nu nog beter! Er is een nieuwe versie beschikbaar.</translation>
-<translation id="257708665678654955">Wil je dat Google Egon de volgende keer aanbiedt om pagina's in het <ph name="LANGUAGE_NAME" /> op deze site te vertalen?</translation>
+<translation id="257708665678654955">Wil je dat Egon Browser de volgende keer aanbiedt om pagina's in het <ph name="LANGUAGE_NAME" /> op deze site te vertalen?</translation>
 <translation id="2671426118752779020">Je kunt de wachtwoorden die je in Google Wachtwoordmanager hebt opgeslagen, gebruiken in andere apps op je iPhone.</translation>
 <translation id="2689064829982324496">Als je op alle websites wilt uitloggen van je Google-account, <ph name="BEGIN_LINK" />log je uit bij Egon<ph name="END_LINK" />.</translation>
 <translation id="2695886661449553974">Egon kan niet checken op updates. Probeer het later opnieuw.</translation>
@@ -34,8 +34,8 @@
 <translation id="2869959624320573933">Inloggen bij Egon</translation>
 <translation id="2957447865124070833">Selecteer <ph name="BEGIN_BOLD" />Egon<ph name="END_BOLD" />.</translation>
 <translation id="3030414234702425231">Omdat je uitlogt van een account dat wordt beheerd door <ph name="SIGNOUT_MANAGED_DOMAIN" />, worden je Egon-gegevens van dit apparaat verwijderd. Je gegevens blijven echter wel in je Google-account staan.</translation>
-<translation id="3167189358072330585">Je account werkt niet in Google Egon. Neem contact op met je domeinbeheerder of gebruik een gewoon Google-account om je aan te melden.</translation>
-<translation id="3173834708294760622">Google Egon-pagina</translation>
+<translation id="3167189358072330585">Je account werkt niet in Egon Browser. Neem contact op met je domeinbeheerder of gebruik een gewoon Google-account om je aan te melden.</translation>
+<translation id="3173834708294760622">Egon Browser-pagina</translation>
 <translation id="3196546062792660320">Egon bespaart je tijd door je accounts beschikbaar te maken op internet. Je kunt accounts toevoegen of verwijderen bij Instellingen.</translation>
 <translation id="3282568296779691940">Inloggen bij Egon</translation>
 <translation id="3345341804167540816">Egon overal gebruiken</translation>
@@ -46,10 +46,10 @@
 <translation id="3655656110921623717">Dit betekent dat Egon altijd de mobiele site opvraagt.</translation>
 <translation id="3706101708757577809">Je kunt Egon nu gebruiken als je op links in berichten, documenten en andere apps tikt.</translation>
 <translation id="3720541637541300822">Incognitotabbladen vergrendelen als je Egon sluit</translation>
-<translation id="384394811301901750">Google Egon kan je camera momenteel niet gebruiken</translation>
+<translation id="384394811301901750">Egon Browser kan je camera momenteel niet gebruiken</translation>
 <translation id="3980220367029651214">Je wijzigt het synchronisatieaccount van <ph name="USER_EMAIL1" /> in <ph name="USER_EMAIL2" />. Je bestaande Egon-gegevens worden beheerd door <ph name="DOMAIN" />. Hierdoor worden je gegevens van dit apparaat verwijderd. Je gegevens blijven echter opgeslagen in <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Je organisatie vereist dat je uitgelogd blijft bij Egon.</translation>
-<translation id="3988789688219830639">Google Egon heeft geen toegang tot je foto's of video's. Geef in iOS toegang via Instellingen &gt; Privacy &gt; Foto's.</translation>
+<translation id="3988789688219830639">Egon Browser heeft geen toegang tot je foto's of video's. Geef in iOS toegang via Instellingen &gt; Privacy &gt; Foto's.</translation>
 <translation id="417201473131094001">Niet ondersteund in Egon Canary</translation>
 <translation id="4192781968753717021">Dit wachtwoord is gevonden bij een gegevenslek. Google Wachtwoordmanager raadt je aan je wachtwoord nu te wijzigen.</translation>
 <translation id="4233521129555661685"><ph name="USER_EMAIL1" /> heeft Egon gebruikt en heeft bookmarks, wachtwoorden en andere instellingen op dit apparaat laten staan.</translation>
@@ -66,11 +66,11 @@
 <translation id="5108659628347594808">Egon verbeteren</translation>
 <translation id="5119391094379141756">Selecteer Egon</translation>
 <translation id="5162467219239570114">Egon is verouderd. Als er geen update beschikbaar is in de <ph name="BEGIN_LINK" />App Store<ph name="END_LINK" />, ondersteunt je apparaat nieuwe versies van Egon mogelijk niet.</translation>
-<translation id="5389212809648216794">Google Egon kan je camera niet gebruiken omdat deze wordt gebruikt door een andere app</translation>
+<translation id="5389212809648216794">Egon Browser kan je camera niet gebruiken omdat deze wordt gebruikt door een andere app</translation>
 <translation id="5460571915754665838">4. Selecteer Egon</translation>
 <translation id="5552137475244467770">Egon vergelijkt periodiek je wachtwoorden met lijsten die online zijn gepubliceerd. Als dit wordt gedaan, zijn je wachtwoorden en gebruikersnamen versleuteld, zodat ze door niemand (inclusief Google) kunnen worden gelezen.</translation>
-<translation id="5639704535586432836">Open Instellingen &gt; Privacy &gt; Camera &gt; Google Egon en zet de camera aan.</translation>
-<translation id="5642200033778930880">Google Egon kan je camera niet gebruiken in de modus 'Gesplitste weergave'</translation>
+<translation id="5639704535586432836">Open Instellingen &gt; Privacy &gt; Camera &gt; Egon Browser en zet de camera aan.</translation>
+<translation id="5642200033778930880">Egon Browser kan je camera niet gebruiken in de modus 'Gesplitste weergave'</translation>
 <translation id="5690427481109656848">Google LLC</translation>
 <translation id="571296537125272375">Offline. Egon kan niet checken op updates</translation>
 <translation id="5716154293141027663">Egon openen wanneer je op links in andere apps tikt</translation>
@@ -94,15 +94,15 @@
 <translation id="701356708427365932">Maak kennis met het nieuwe Egon-menu</translation>
 <translation id="7059914902409643750">Egon personaliseren</translation>
 <translation id="7124339256045485976">Houd Egon up-to-date</translation>
-<translation id="7161390184744336561">Google Egon is verouderd</translation>
-<translation id="7165736900384873061">QR-scanner van Google Egon gebruiken</translation>
+<translation id="7161390184744336561">Egon Browser is verouderd</translation>
+<translation id="7165736900384873061">QR-scanner van Egon Browser gebruiken</translation>
 <translation id="7173660919484573146">Egon gebruikt Face ID om geautoriseerde toegang tot je wachtwoorden mogelijk te maken.</translation>
 <translation id="7187993566681480880">Beschermt je op Egon en kan worden gebruikt om de beveiliging in andere Google-apps te verbeteren als je bent ingelogd.</translation>
 <translation id="72119412072970160">Je kunt de wachtwoorden die je in Google Wachtwoordmanager hebt opgeslagen, gebruiken in andere apps op je iPad.</translation>
 <translation id="7261678641327190792">Egon kan je wachtwoorden niet checken</translation>
 <translation id="7272930098487145294">Als je afbeeldingen wilt opslaan, tik je op Instellingen om deze door Egon aan je foto's te laten toevoegen</translation>
 <translation id="7275945473750112644">Je account wordt beheerd door <ph name="HOSTED_DOMAIN" />, dus je Egon-gegevens worden verwijderd van dit apparaat</translation>
-<translation id="7400722733683201933">Over Google Egon</translation>
+<translation id="7400722733683201933">Over Egon Browser</translation>
 <translation id="7501046334262221972">Open Instellingen om Egon in te stellen als standaardbrowser. Tik op 'Standaard browser-app' en selecteer Egon.</translation>
 <translation id="756809126120519699">Egon-gegevens gewist</translation>
 <translation id="7626032353295482388">Welkom bij Egon</translation>
@@ -111,7 +111,7 @@
 <translation id="7698568245838009292">Egon vraagt toegang tot de camera</translation>
 <translation id="7754633291442704733">Je organisatie <ph name="DOMAIN" /> heeft toegang tot je Egon-gegevens, bookmarks, geschiedenis, wachtwoorden en andere instellingen die je in dit account opslaat. Als je uitlogt, worden je gegevens van dit apparaat gewist.  De gegevens blijven wel opgeslagen in je beheerde Google-account en zijn nog steeds beschikbaar voor je organisatie. Je organisatie kan ook specifiek voor dat account gebruikersbeleid instellen waarmee het gedrag van Egon kan worden gewijzigd.</translation>
 <translation id="7780154209050837198">Log in bij Egon met je Google-account om het maximale uit Egon te halen.</translation>
-<translation id="7855730255114109580">Google Egon is up-to-date</translation>
+<translation id="7855730255114109580">Egon Browser is up-to-date</translation>
 <translation id="8022947259858476807">Gebruik standaard Egon om links te openen, te zoeken via widgets en om wachtwoorden in andere apps automatisch in te vullen</translation>
 <translation id="81358522153858150">Egon ondersteunt nu gebruikersbeleid voor je beheerde account</translation>
 <translation id="8160472928944011082">Egon kan niet updaten</translation>
@@ -124,8 +124,8 @@
 1. Open Instellingen.
 2. Tik op Standaard browser-app.
 3. Selecteer Egon.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
-<translation id="8736550665979974340">Blijf veilig met Google Egon</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
+<translation id="8736550665979974340">Blijf veilig met Egon Browser</translation>
 <translation id="8772179140489533211">Toont prompts om in te loggen bij Egon.</translation>
 <translation id="8788269841521769222">Je hoeft dit wachtwoord niet te onthouden. Het wordt opgeslagen in Google Wachtwoordmanager voor <ph name="EMAIL" />.</translation>
 <translation id="8897749957032330183">Wachtwoorden worden opgeslagen in Google Wachtwoordmanager op dit apparaat.</translation>

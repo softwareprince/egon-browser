@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Radera befintlig data.</translation>
 <translation id="1146678959555564648">Kliv in i VR</translation>
 <translation id="1149401351239820326">Utgångsmånad</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> öppnas i Egon. Genom att fortsätta godkänner du <ph name="BEGIN_LINK1" />Googles användarvillkor<ph name="END_LINK1" /> och <ph name="BEGIN_LINK2" />de ytterligare användarvillkoren för Google Egon och Egon OS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> öppnas i Egon. Genom att fortsätta godkänner du <ph name="BEGIN_LINK1" />Googles användarvillkor<ph name="END_LINK1" /> och <ph name="BEGIN_LINK2" />de ytterligare användarvillkoren för Egon Browser och Egon OS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Sidan är inte tillgänglig offline: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Visa populära webbplatser genom att trycka på Populärt</translation>
 <translation id="1173894706177603556">Ändra namn</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Genom annonsmätning kan webbplatser du besöker begära information från Egon som hjälper dem att mäta annonsernas resultat. Med annonsmätning begränsas spårningen från webbplats till webbplats genom att så lite information som möjligt överförs mellan webbplatserna.
 
 När du raderar webbhistoriken, oavsett om det är all historik eller bara för en viss webbplats, raderar du också alla tillhörande mätningsuppgifter. Se <ph name="BEGIN_LINK" />webbhistoriken<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Kortkommandon för funktioner i Google Egon</translation>
+<translation id="1332501820983677155">Kortkommandon för funktioner i Egon Browser</translation>
 <translation id="1344653310988386453">Ta med länk till markering</translation>
 <translation id="1347468774581902829">Hantera aktivitet</translation>
 <translation id="1360432990279830238">Logga ut och inaktivera synkronisering?</translation>
@@ -213,7 +213,7 @@ När du raderar webbhistoriken, oavsett om det är all historik eller bara för 
 <translation id="2122601567107267586">Det gick inte att öppna appen</translation>
 <translation id="2132122640199389833">Ta bort alla länkade enheter</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> har stängts</translation>
-<translation id="2134927169889348449">Genom att använda Egon godkänner du <ph name="BEGIN_TOS_LINK" />Googles användarvillkor<ph name="END_TOS_LINK" /> och <ph name="BEGIN_ATOS_LINK" />de Ytterligare användarvillkoren för Google Egon och Egon OS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Genom att använda Egon godkänner du <ph name="BEGIN_TOS_LINK" />Googles användarvillkor<ph name="END_TOS_LINK" /> och <ph name="BEGIN_ATOS_LINK" />de Ytterligare användarvillkoren för Egon Browser och Egon OS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Lägg till på startskärmen</translation>
 <translation id="2141396931810938595">Utifrån din användning</translation>
 <translation id="214888715418183969">Välj vad du vill dela med Egon. Den statistik du delar används för att förbättra Chromes funktioner, prestanda och stabilitet.</translation>
@@ -391,7 +391,7 @@ När du raderar webbhistoriken, oavsett om det är all historik eller bara för 
 <translation id="3062802207422175757">Artiklar om dina intressen i Egon</translation>
 <translation id="3066573403916685335">Flytta ner</translation>
 <translation id="3070005020161560471">Översätt automatiskt</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> öppnas i Egon. Genom att fortsätta godkänner du <ph name="BEGIN_LINK1" />Googles användarvillkor<ph name="END_LINK1" /> och <ph name="BEGIN_LINK2" />de ytterligare användarvillkoren för Google Egon och Egon OS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Integritetspolicyn<ph name="END_LINK3" /> gäller också.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> öppnas i Egon. Genom att fortsätta godkänner du <ph name="BEGIN_LINK1" />Googles användarvillkor<ph name="END_LINK1" /> och <ph name="BEGIN_LINK2" />de ytterligare användarvillkoren för Egon Browser och Egon OS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Integritetspolicyn<ph name="END_LINK3" /> gäller också.</translation>
 <translation id="3091010850649238832">Visa innehållet i Urklipp</translation>
 <translation id="3098745985164956033">Vissa bilder skickas till Google så att du får bättre beskrivningar</translation>
 <translation id="3114507951000454849">Läs dagens nyheter <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ När du raderar webbhistoriken, oavsett om det är all historik eller bara för 
 <translation id="321773570071367578">Om du har glömt lösenfrasen eller vill ändra inställningen <ph name="BEGIN_LINK" />återställer du synkroniseringen<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Verifiera din identitet för att synkronisera lösenord</translation>
 <translation id="3223522355830797639">Din bank vill bekräfta att det är du.</translation>
-<translation id="3227557059438308877">Google Egon som säkerhetsnyckel</translation>
+<translation id="3227557059438308877">Egon Browser som säkerhetsnyckel</translation>
 <translation id="3232754137068452469">Webbapp</translation>
 <translation id="3234978181857588512">Spara på enhet</translation>
 <translation id="3236059992281584593">1 minut kvar</translation>
@@ -597,7 +597,7 @@ När du raderar webbhistoriken, oavsett om det är all historik eller bara för 
 <translation id="4269820728363426813">Kopiera länkadress</translation>
 <translation id="4283102315569707115">Vill du begära webbplatser för dator som standard?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Aktivera skärmlåset i Android-inställningar<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Genom att använda Egon godkänner du <ph name="BEGIN_TOS_LINK" />Googles användarvillkor<ph name="END_TOS_LINK" /> och <ph name="BEGIN_ATOS_LINK" />de ytterligare användarvillkoren för Google Egon och Egon OS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Integritetspolicyn<ph name="END_PRIVACY_LINK" /> gäller också.</translation>
+<translation id="4293476595220860475">Genom att använda Egon godkänner du <ph name="BEGIN_TOS_LINK" />Googles användarvillkor<ph name="END_TOS_LINK" /> och <ph name="BEGIN_ATOS_LINK" />de ytterligare användarvillkoren för Egon Browser och Egon OS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Integritetspolicyn<ph name="END_PRIVACY_LINK" /> gäller också.</translation>
 <translation id="4296252229500326964">Ny inkognitoflik</translation>
 <translation id="4298388696830689168">Länkade webbplatser</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1548,7 +1548,7 @@ Med förtroendetoken förbättras integriteten på webben. De kan inte användas
 <translation id="9219582468404818260">Hjälp oss att bygga ett bättre internet</translation>
 <translation id="92381315203627188">När en webbplats frågar om dess länkar ska läsas in privat i förväg krypterar Egon sidorna och läser in dem i förväg via Googles servrar utan cookies. Det innebär att din identitet döljs från den förinlästa webbplatsen.</translation>
 <translation id="926205370408745186">Ta bort din aktivitet i Egon från Digitalt välmående</translation>
-<translation id="927968626442779827">Använd begränsat läge i Google Egon</translation>
+<translation id="927968626442779827">Använd begränsat läge i Egon Browser</translation>
 <translation id="928550791203542716">Följer <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Startsida</translation>
 <translation id="938850635132480979">Fel: <ph name="ERROR_CODE" /></translation>

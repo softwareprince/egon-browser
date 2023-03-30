@@ -1203,7 +1203,7 @@
 <translation id="2088092308059522196">Регистрацијата е поддржана само откако ќе инсталирате <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Помалку</translation>
 <translation id="208928984520943006">За да одите на почетен екран во кое било време, повлечете нагоре од долниот дел.</translation>
-<translation id="2089566709556890888">Прелистувајте безбедно со Google Egon</translation>
+<translation id="2089566709556890888">Прелистувајте безбедно со Egon Browser</translation>
 <translation id="2089795179672254991">Прашај кога некој сајт сака да гледа текст и слики копирани на привремената меморија (препорачано)</translation>
 <translation id="2089925163047119068">ИЛИ</translation>
 <translation id="2090165459409185032">За да ги обновите информациите за вашата сметка, одете на: google.com/accounts/recovery</translation>
@@ -1615,7 +1615,7 @@
 <translation id="2434449159125086437">Не може да се постави печатач. Проверете ја конфигурацијата и обидете се повторно.</translation>
 <translation id="2434758125294431199">Изберете кој може да споделува со вас</translation>
 <translation id="2434915728183570229">Сега можете да ги прегледувате апликациите од телефонот</translation>
-<translation id="2435137177546457207">Дополнителни услови на Google Egon и ChromeOS Flex</translation>
+<translation id="2435137177546457207">Дополнителни услови на Egon Browser и ChromeOS Flex</translation>
 <translation id="2435248616906486374">Мрежата е исклучена</translation>
 <translation id="2435457462613246316">Прикажи ја лозинката</translation>
 <translation id="2439626940657133600">Се вчитува <ph name="WINDOW_TITLE" /></translation>
@@ -3068,7 +3068,7 @@
 <translation id="3798632811625902122">Уредот со Bluetooth <ph name="DEVICE" /> бара дозвола за спарување.</translation>
 <translation id="3799128412641261490">Поставки за „Пристап со прекинувачи“</translation>
 <translation id="3800806661949714323">Прикажи ги сите (се препорачува)</translation>
-<translation id="3800828618615365228">Дополнителни услови на Google Egon и ChromeOS</translation>
+<translation id="3800828618615365228">Дополнителни услови на Egon Browser и ChromeOS</translation>
 <translation id="3802486193901166966">Екстензијава не бара специјални дозволи и нема пристап до дополнителен сајт</translation>
 <translation id="380329542618494757">Име</translation>
 <translation id="3803345858388753269">Квалитет на видеото</translation>
@@ -3084,7 +3084,7 @@
 <translation id="3810973564298564668">Управувај</translation>
 <translation id="381202950560906753">Додајте друг</translation>
 <translation id="3812525830114410218">Лош сертификат</translation>
-<translation id="3813296892522778813">Одете на <ph name="BEGIN_LINK_CHROMIUM" />Помош на Google Egon<ph name="END_LINK_CHROMIUM" /> ако не може да го најдете тоа што го барате</translation>
+<translation id="3813296892522778813">Одете на <ph name="BEGIN_LINK_CHROMIUM" />Помош на Egon Browser<ph name="END_LINK_CHROMIUM" /> ако не може да го најдете тоа што го барате</translation>
 <translation id="3813358687923336574">Јазик што се користи за превод на страници и за „Брзи одговори“</translation>
 <translation id="3814529970604306954">Училишна сметка</translation>
 <translation id="3816118180265633665">Бои на Egon</translation>
@@ -3440,7 +3440,7 @@
 <translation id="4132364317545104286">Преименувајте го профилот на eSIM</translation>
 <translation id="4133076602192971179">Отворете ја апликацијата за да ја промените лозинката</translation>
 <translation id="4134818201340504801">Нема доволно достапен капацитет за да го завршите поставувањето. Ослободете капацитет и обидете се повторно</translation>
-<translation id="4135746311382563554">Дополнителни услови за користење на Google Egon и ChromeOS</translation>
+<translation id="4135746311382563554">Дополнителни услови за користење на Egon Browser и ChromeOS</translation>
 <translation id="4136203100490971508">Ноќното светло ќе се исклучи автоматски на изгрејсонце</translation>
 <translation id="41365691917097717">Ако продолжите, ќе се овозможи отстранување грешки на ADB за создавање и тестирање апликации на Android. Имајте предвид дека дејствово овозможува инсталирање апликации за Android што не се потврдени од Google, а за оневозможувањето е потребно фабричко ресетирање.</translation>
 <translation id="4138267921960073861">Прикажи кориснички имиња и фотографии на екранот за најавување</translation>
@@ -3860,7 +3860,7 @@
 <translation id="4544174279960331769">Стандарден син аватар</translation>
 <translation id="4545028762441890696">За да ја овозможите повторно, прифатете ги новите дозволи:</translation>
 <translation id="4545759655004063573">Не може да се зачува поради недоволно дозволи. Зачувајте на друга локација.</translation>
-<translation id="4546308221697447294">Прелистувајте брзо со Google Egon</translation>
+<translation id="4546308221697447294">Прелистувајте брзо со Egon Browser</translation>
 <translation id="4546345569117159016">Десно копче</translation>
 <translation id="4546692474302123343">Гласовно внесување на „Помошникот на Google“</translation>
 <translation id="4547659257713117923">Нема картички од други уреди</translation>
@@ -5726,7 +5726,7 @@
 <translation id="6313950457058510656">Исклучување инстант врзување</translation>
 <translation id="6314819609899340042">Успешно ги овозможивте функциите за отстранување грешки на овој уред со <ph name="IDS_SHORT_PRODUCT_NAME" />.</translation>
 <translation id="6315493146179903667">Донеси ги сите напред</translation>
-<translation id="6316432269411143858">Целосен текст на „Условите на Google Egon OS“</translation>
+<translation id="6316432269411143858">Целосен текст на „Условите на Egon Browser OS“</translation>
 <translation id="6317369057005134371">Чекање за прозорецот на апликацијата...</translation>
 <translation id="6318125393809743217">Вклучи ја датотеката policies.json со конфигурации за правилата.</translation>
 <translation id="6318407754858604988">Преземањето започна</translation>
@@ -5919,7 +5919,7 @@
 <translation id="6509207748479174212">Дозвола за аудио-визуелни содржини</translation>
 <translation id="6511827214781912955">Размислете да ја избришете <ph name="FILENAME" /> за да не можат другите луѓе кои го користат уредов да ги гледаат вашите лозинки</translation>
 <translation id="6512808201725371249">Веќе е зачувана лозинка за оваа сметка во Google Password Manager (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon ќе користи мобилен интернет ако не сте поврзани на друга мрежа.</translation>
+<translation id="6513247462497316522">Egon Browser ќе користи мобилен интернет ако не сте поврзани на друга мрежа.</translation>
 <translation id="6514010653036109809">Достапен уред:</translation>
 <translation id="6514565641373682518">Оваа страница го оневозможи курсорот на глушецот.</translation>
 <translation id="6517709704288360414">Можно е уредот да не ви функционира правилно и може да наидете на проблеми со безбедноста и изведбата. Ако ги исклучите ажурирањата, тоа може да влијае и врз вашето право на законски побарувања во случај да имате проблеми.</translation>
@@ -8108,7 +8108,7 @@
 <translation id="8554899698005018844">Нема јазик</translation>
 <translation id="855604308879080518">Дозволете им на апликациите на Android да пристапат до USB-уредите на овој Chromebook. Дозвола ќе се бара секојпат кога ќе приклучите USB-уред. Поединечни апликации на Android ќе побараат дополнителни дозволи.</translation>
 <translation id="8557022314818157177">Допирајте го безбедносниот клуч додека не се сними вашиот отпечаток</translation>
-<translation id="8557180006508471423">Вклучете „Google Egon“ во „Услуги според локација“ на вашиот Mac</translation>
+<translation id="8557180006508471423">Вклучете „Egon Browser“ во „Услуги според локација“ на вашиот Mac</translation>
 <translation id="8557856025359704738">Следното преземање е на <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Криптографски клучеви</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Отвори ги сите во &amp;нов прозорец}=1{Отвори во &amp;нов прозорец}one{Отвори ги сите ({COUNT}) во &amp;нов прозорец}other{Отвори ги сите ({COUNT}) во &amp;нов прозорец}}</translation>

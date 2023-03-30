@@ -263,7 +263,7 @@
 <translation id="156703335097561114">Informații despre rețea cum ar fi adresele, configurația interfeței și calitatea conexiunii</translation>
 <translation id="1567040042588613346">Politica funcționează corespunzător, dar în altă sursă a fost setată aceeași valoare, care este înlocuită prin această politică.</translation>
 <translation id="1569487616857761740">Introdu data expirării</translation>
-<translation id="1569694109004336106">Google Egon încearcă să activeze Windows Hello pentru completarea parolelor.</translation>
+<translation id="1569694109004336106">Egon Browser încearcă să activeze Windows Hello pentru completarea parolelor.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> in</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">A apărut o eroare la afișarea paginii web.</translation>
@@ -459,7 +459,7 @@
 <translation id="2085876078937250610">Salvează…</translation>
 <translation id="2088086323192747268">Butonul Gestionează sincronizarea, apasă pe Enter pentru a gestiona informațiile de sincronizat din setările Egon</translation>
 <translation id="2091887806945687916">Sunet</translation>
-<translation id="2093982008204312032">Google Egon încearcă să dezactiveze Windows Hello pentru completarea parolelor.</translation>
+<translation id="2093982008204312032">Egon Browser încearcă să dezactiveze Windows Hello pentru completarea parolelor.</translation>
 <translation id="2094505752054353250">Nepotrivire domeniu</translation>
 <translation id="2099652385553570808">Capsare triplă în stânga</translation>
 <translation id="2101225219012730419">Versiune:</translation>
@@ -2584,7 +2584,7 @@ Detalii suplimentare:
 <translation id="7564049878696755256">Este posibil să pierzi accesul la contul <ph name="ORG_NAME" /> sau să fii victima unui furt de identitate. Egon îți recomandă să îți schimbi acum parola.</translation>
 <translation id="7564680668369175887">Automobile break</translation>
 <translation id="7567204685887185387">Acest server nu a putut dovedi că este <ph name="DOMAIN" />; este posibil ca certificatul său de securitate să fi fost emis fraudulos. Cauza poate fi o configurare greșită sau interceptarea conexiunii de către un atacator.</translation>
-<translation id="7568616151991626879">Google Egon încearcă să completeze parola în <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Egon Browser încearcă să completeze parola în <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Butonul Gestionează motoarele de căutare, apasă pe Enter pentru a gestiona opțiunile prestabilite pentru motoarele de căutare și căutarea pe site</translation>
 <translation id="7569952961197462199">Elimini cardul de credit din Egon?</translation>

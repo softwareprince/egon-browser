@@ -1190,7 +1190,7 @@ Pots gestionar la configuració d'aquest compte instal·lant l'aplicació Family
 <translation id="2088092308059522196">La inscripció només s'admet després que instal·lis <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Menys</translation>
 <translation id="208928984520943006">Per anar a la pantalla d'inici en qualsevol moment, llisca cap amunt des de la part inferior.</translation>
-<translation id="2089566709556890888">Navega de manera segura amb Google Egon</translation>
+<translation id="2089566709556890888">Navega de manera segura amb Egon Browser</translation>
 <translation id="2089795179672254991">Pregunta'm quan un lloc web vulgui veure el text i les imatges copiats al porta-retalls (opció recomanada)</translation>
 <translation id="2089925163047119068">O</translation>
 <translation id="2090165459409185032">Per recuperar la informació del compte, accediu a: google.com/accounts/recovery</translation>
@@ -1599,7 +1599,7 @@ Pots gestionar la configuració d'aquest compte instal·lant l'aplicació Family
 <translation id="2434449159125086437">La impressora no es pot configurar. Comprova'n la configuració i torna-ho a provar.</translation>
 <translation id="2434758125294431199">Selecciona qui pot compartir contingut amb tu</translation>
 <translation id="2434915728183570229">Ara pots consultar les aplicacions del telèfon</translation>
-<translation id="2435137177546457207">Condicions addicionals de Google Egon i ChromeOS Flex</translation>
+<translation id="2435137177546457207">Condicions addicionals de Egon Browser i ChromeOS Flex</translation>
 <translation id="2435248616906486374">S'ha desconnectat la xarxa</translation>
 <translation id="2435457462613246316">Mostra la contrasenya</translation>
 <translation id="2439626940657133600">S'està carregant <ph name="WINDOW_TITLE" /></translation>
@@ -3052,7 +3052,7 @@ Pots gestionar la configuració d'aquest compte instal·lant l'aplicació Family
 <translation id="3798632811625902122">El dispositiu Bluetooth <ph name="DEVICE" /> sol·licita permís per vincular-se.</translation>
 <translation id="3799128412641261490">Configuració d'Accés amb interruptors</translation>
 <translation id="3800806661949714323">Mostra-ho tot (opció recomanada)</translation>
-<translation id="3800828618615365228">Condicions addicionals de Google Egon i Egon OS</translation>
+<translation id="3800828618615365228">Condicions addicionals de Egon Browser i Egon OS</translation>
 <translation id="3802486193901166966">Aquesta extensió no requereix cap permís especial i no té accés a cap lloc web addicional</translation>
 <translation id="380329542618494757">Nom</translation>
 <translation id="3803345858388753269">Qualitat de vídeo</translation>
@@ -3068,7 +3068,7 @@ Pots gestionar la configuració d'aquest compte instal·lant l'aplicació Family
 <translation id="3810973564298564668">Gestiona</translation>
 <translation id="381202950560906753">Afegeix-ne una altra</translation>
 <translation id="3812525830114410218">Certificat incorrecte</translation>
-<translation id="3813296892522778813">Si no trobes el que busques, ves a l'<ph name="BEGIN_LINK_CHROMIUM" />ajuda de Google Egon<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">Si no trobes el que busques, ves a l'<ph name="BEGIN_LINK_CHROMIUM" />ajuda de Egon Browser<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">Idioma utilitzat per traduir pàgines i per a les Respostes ràpides</translation>
 <translation id="3814529970604306954">Compte de centre educatiu</translation>
 <translation id="3816118180265633665">Colors de Egon</translation>
@@ -3423,7 +3423,7 @@ Pots gestionar la configuració d'aquest compte instal·lant l'aplicació Family
 <translation id="4132364317545104286">Canvia el nom del perfil de l'eSIM</translation>
 <translation id="4133076602192971179">Obre l'aplicació per canviar la contrasenya</translation>
 <translation id="4134818201340504801">No hi ha prou emmagatzematge disponible per completar la configuració. Allibera emmagatzematge i torna-ho a provar.</translation>
-<translation id="4135746311382563554">Condicions del servei addicionals de Google Egon i Egon OS</translation>
+<translation id="4135746311382563554">Condicions del servei addicionals de Egon Browser i Egon OS</translation>
 <translation id="4136203100490971508">La funció Llum nocturna es desactivarà automàticament a l'alba</translation>
 <translation id="41365691917097717">Si continues, s'activarà la depuració d'ADB per crear i provar les aplicacions d'Android. Tingues en compte que aquesta acció permet instal·lar aplicacions d'Android que Google no ha verificat. Per desactivar ADB, hauràs de restablir les dades de fàbrica del dispositiu.</translation>
 <translation id="4138267921960073861">Mostra els noms d'usuari i les fotos a la pantalla d'inici de sessió</translation>
@@ -3842,7 +3842,7 @@ Pots gestionar la configuració d'aquest compte instal·lant l'aplicació Family
 <translation id="4544174279960331769">Avatar blau predeterminat</translation>
 <translation id="4545028762441890696">Per tornar-la a activar, accepta els permisos nous:</translation>
 <translation id="4545759655004063573">No es pot desar perquè no hi ha prou permisos. Deseu-ho en un altre lloc.</translation>
-<translation id="4546308221697447294">Navega ràpidament amb Google Egon</translation>
+<translation id="4546308221697447294">Navega ràpidament amb Egon Browser</translation>
 <translation id="4546345569117159016">Botó dret</translation>
 <translation id="4546692474302123343">Entrada de veu de l'Assistent de Google</translation>
 <translation id="4547659257713117923">Cap pestanya d'altres dispositius</translation>
@@ -5707,7 +5707,7 @@ Assegureu-vos que no es pugui accedir a informació sensible.</translation>
 <translation id="6313950457058510656">Desactiva la compartició de xarxa instantània</translation>
 <translation id="6314819609899340042">Heu activat correctament les funcions de depuració en aquest dispositiu <ph name="IDS_SHORT_PRODUCT_NAME" />.</translation>
 <translation id="6315493146179903667">Porta-ho tot al davant</translation>
-<translation id="6316432269411143858">Contingut de les condicions de Google Egon OS</translation>
+<translation id="6316432269411143858">Contingut de les condicions de Egon Browser OS</translation>
 <translation id="6317369057005134371">S'està esperant la finestra de l'aplicació...</translation>
 <translation id="6318125393809743217">Inclou un fitxer policies.json amb les configuracions de la política.</translation>
 <translation id="6318407754858604988">S'ha iniciat la baixada</translation>
@@ -5900,7 +5900,7 @@ Assegureu-vos que no es pugui accedir a informació sensible.</translation>
 <translation id="6509207748479174212">Llicència per a recursos multimèdia</translation>
 <translation id="6511827214781912955">Et recomanem que suprimeixis <ph name="FILENAME" /> perquè els altres usuaris que utilitzen aquest dispositiu no puguin veure les teves contrasenyes.</translation>
 <translation id="6512808201725371249">Ja hi ha una contrasenya d'aquest compte desada al teu gestor de contrasenyes de Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon utilitzarà dades mòbils si no esteu connectat a una altra xarxa.</translation>
+<translation id="6513247462497316522">Egon Browser utilitzarà dades mòbils si no esteu connectat a una altra xarxa.</translation>
 <translation id="6514010653036109809">Dispositiu disponible:</translation>
 <translation id="6514565641373682518">Aquesta pàgina ha desactivat el cursor del ratolí.</translation>
 <translation id="6517709704288360414">És possible que el dispositiu ja no funcioni correctament i que tinguis problemes de seguretat i de rendiment. La desactivació de les actualitzacions pot afectar el teu dret de presentar reclamacions legals si tens cap problema.</translation>
@@ -8086,7 +8086,7 @@ Deseu el fitxer de clau en una ubicació segura. El necessitareu per crear versi
 <translation id="8554899698005018844">Cap idioma</translation>
 <translation id="855604308879080518">Permet que les aplicacions d'Android accedeixin als dispositius USB en aquest Chromebook. El permís se sol·licitarà cada cop que endollis un dispositiu USB. Cada aplicació d'Android demanarà permisos addicionals.</translation>
 <translation id="8557022314818157177">Continua tocant la clau de seguretat fins que es capturi l'empremta digital</translation>
-<translation id="8557180006508471423">Activa Google Egon als serveis d'ubicació del Mac.</translation>
+<translation id="8557180006508471423">Activa Egon Browser als serveis d'ubicació del Mac.</translation>
 <translation id="8557856025359704738">La baixada següent serà a les <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Claus d'accés</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Obre-les totes en una finestra &amp;nova}=1{Obre en una finestra &amp;nova}other{Obre-les totes ({COUNT}) en una finestra &amp;nova}}</translation>

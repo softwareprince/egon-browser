@@ -263,7 +263,7 @@ Ef þú gerir það ekki loka persónuverndarstillingar þínar á þennan aðga
 <translation id="156703335097561114">Upplýsingar um netkerfi á borð við vefföng, stillingar viðmóts og gæði tengingar</translation>
 <translation id="1567040042588613346">Þessi regla virkar sem skyldi en sama gildi er stillt annars staðar og þessi regla leysir það af hólmi.</translation>
 <translation id="1569487616857761740">Sláðu inn lokadagsetningu</translation>
-<translation id="1569694109004336106">Google Egon er að reyna að kveikja á Windows Hello til að fylla út aðgangsorð.</translation>
+<translation id="1569694109004336106">Egon Browser er að reyna að kveikja á Windows Hello til að fylla út aðgangsorð.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> to.</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Eitthvað fór úrskeiðis við að birta þessa vefsíðu.</translation>
@@ -459,7 +459,7 @@ Ef þú gerir það ekki loka persónuverndarstillingar þínar á þennan aðga
 <translation id="2085876078937250610">Vista…</translation>
 <translation id="2088086323192747268">Hnappurinn „Stjórna samstillingu“, ýttu á „Enter“ til að opna stillingar Egon og stjórna því hvaða upplýsingar eru samstilltar</translation>
 <translation id="2091887806945687916">Hljóð</translation>
-<translation id="2093982008204312032">Google Egon er að reyna að slökkva á Windows Hello til að fylla út aðgangsorð.</translation>
+<translation id="2093982008204312032">Egon Browser er að reyna að slökkva á Windows Hello til að fylla út aðgangsorð.</translation>
 <translation id="2094505752054353250">Misræmi í léni</translation>
 <translation id="2099652385553570808">Þrjú hefti vinstra megin</translation>
 <translation id="2101225219012730419">Útgáfa:</translation>
@@ -2584,7 +2584,7 @@ Ef þú gerir það ekki loka persónuverndarstillingar þínar á þennan aðga
 <translation id="7564049878696755256">Þú gætir glatað aðganginum að <ph name="ORG_NAME" /> reikningnum þínum eða orðið fyrir auðkennisstuldi. Egon mælir með því að þú skiptir um aðgangsorð núna.</translation>
 <translation id="7564680668369175887">Skutbílar</translation>
 <translation id="7567204685887185387">Þessi þjónn gat ekki sannað að hann væri <ph name="DOMAIN" />; öryggisvottorð hans gæti hafa verið gefið út með sviksamlegum hætti. Þetta kann að orsakast af vanstillingu eða tölvuþrjóti sem komist hefur inn í tenginguna.</translation>
-<translation id="7568616151991626879">Google Egon er að reyna að fylla út aðgangsorðið þitt í <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Egon Browser er að reyna að fylla út aðgangsorðið þitt í <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Hnappur til að stjórna leitarvélum, ýttu á Enter til að stjórna leit fyrir vefsvæði og sjálfgefinni leitarvél</translation>
 <translation id="7569952961197462199">Fjarlægja kreditkort úr Egon?</translation>

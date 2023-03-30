@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Mövcud datanı silin.</translation>
 <translation id="1146678959555564648">VR daxil edin</translation>
 <translation id="1149401351239820326">Bitmə ayı</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> Egon'da açılacaq. Davam etməklə, <ph name="BEGIN_LINK1" />Google Xidmət Şərtləri<ph name="END_LINK1" /> və <ph name="BEGIN_LINK2" />Google Egon və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_LINK2" /> ilə razılaşırsınız.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> Egon'da açılacaq. Davam etməklə, <ph name="BEGIN_LINK1" />Google Xidmət Şərtləri<ph name="END_LINK1" /> və <ph name="BEGIN_LINK2" />Egon Browser və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_LINK2" /> ilə razılaşırsınız.</translation>
 <translation id="1154704303112745282">Səhifə oflayn əlçatan deyil: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"Popluyar saytlar" seçiminə klikləyin və məşhur saytlara baxın</translation>
 <translation id="1173894706177603556">Adını dəyişin</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Reklamın ölçülməsi ziyarət etdiyiniz saytlara Egon'dan sayta reklamlarının performansını ölçməyə kömək edən məlumat tələb etməyə imkan verir. Reklamın ölçülməsi saytlar arasında mümkün qədər az məlumat ötürməklə saytlararası izləməni məhdudlaşdırır.
 
 Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildiyiniz zaman əlaqədar ölçmə məlumatını da silirsiniz. <ph name="BEGIN_LINK" />Baxış tarixçənizə<ph name="END_LINK" /> baxın.</translation>
-<translation id="1332501820983677155">Google Egon funksiya qısayolları</translation>
+<translation id="1332501820983677155">Egon Browser funksiya qısayolları</translation>
 <translation id="1344653310988386453">Vurğulamaya keçidi daxil edin</translation>
 <translation id="1347468774581902829">Fəaliyyəti idarə edin</translation>
 <translation id="1360432990279830238">Sinxronizasiya deaktiv edilsin?</translation>
@@ -213,7 +213,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="2122601567107267586">Tətbiqi açmaq alınmadı</translation>
 <translation id="2132122640199389833">Bütün əlaqəli cihazları silin</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> qapadıldı</translation>
-<translation id="2134927169889348449">Egon'u istifadə etməklə, <ph name="BEGIN_TOS_LINK" />Google Xidmət Şərtləri<ph name="END_TOS_LINK" /> və <ph name="BEGIN_ATOS_LINK" />Google Egon və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_ATOS_LINK" /> ilə razılaşırsınız.</translation>
+<translation id="2134927169889348449">Egon'u istifadə etməklə, <ph name="BEGIN_TOS_LINK" />Google Xidmət Şərtləri<ph name="END_TOS_LINK" /> və <ph name="BEGIN_ATOS_LINK" />Egon Browser və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_ATOS_LINK" /> ilə razılaşırsınız.</translation>
 <translation id="2139186145475833000">Əsas ekrana əlavə edin</translation>
 <translation id="2141396931810938595">İstifadənizə əsasən</translation>
 <translation id="214888715418183969">Egon ilə nəyi paylaşmağa hazır olduğunuzu seçin. Paylaşdığınız göstəricilər Egon funksiyaları, məhsuldarlığı və stabilliyini yaxşılaşdırmaq üçün istifadə ediləcək.</translation>
@@ -391,7 +391,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="3062802207422175757">Egon'da maraqlarınıza dair məqalələr</translation>
 <translation id="3066573403916685335">Aşağıya</translation>
 <translation id="3070005020161560471">Avtomatik tərcümə edin</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> Egon'da açılacaq. Davam etməklə, <ph name="BEGIN_LINK1" />Google Xidmət Şərtləri<ph name="END_LINK1" /> və <ph name="BEGIN_LINK2" />Google Egon və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_LINK2" /> ilə razılaşırsınız. <ph name="BEGIN_LINK3" />Məxfilik Siyasəti<ph name="END_LINK3" /> də tətbiq edilir.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> Egon'da açılacaq. Davam etməklə, <ph name="BEGIN_LINK1" />Google Xidmət Şərtləri<ph name="END_LINK1" /> və <ph name="BEGIN_LINK2" />Egon Browser və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_LINK2" /> ilə razılaşırsınız. <ph name="BEGIN_LINK3" />Məxfilik Siyasəti<ph name="END_LINK3" /> də tətbiq edilir.</translation>
 <translation id="3091010850649238832">Mübadilə buferindəki kontenti göstərin</translation>
 <translation id="3098745985164956033">Sizin üçün təsvirləri yaxşılaşdırmaq üçün bəzi şəkillər Google'a göndərilir</translation>
 <translation id="3114507951000454849">Bugünün <ph name="NEWS_ICON" /> xəbərlərini oxuyun</translation>
@@ -411,7 +411,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="321773570071367578">Əgər parol sözü unutmusunuzsa və ya bu ayarı dəyişmək istəyirsinizsə,  <ph name="BEGIN_LINK" />sinxronizasiyanı sıfırlayın<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Parollarınızı sinxronlaşdırmaq üçün kimliyinizi doğrulayın</translation>
 <translation id="3223522355830797639">Bankınız bunun siz olduğunuzu təsdiq etmək istəyir.</translation>
-<translation id="3227557059438308877">Təhlükəsizlik Açarı olaraq Google Egon</translation>
+<translation id="3227557059438308877">Təhlükəsizlik Açarı olaraq Egon Browser</translation>
 <translation id="3232754137068452469">Veb Tətbiq</translation>
 <translation id="3234978181857588512">Cihazda yadda saxlayın</translation>
 <translation id="3236059992281584593">1 dəqiqə qaldı</translation>
@@ -596,7 +596,7 @@ Baxış tarixçənizi (bütün saytlar və ya müəyyən bir sayt üçün) sildi
 <translation id="4269820728363426813">Link ünvanını kopyalayın</translation>
 <translation id="4283102315569707115">Defolt olaraq masaüstü saytlar tələb olunsun?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android ayarlarında ekran kilidini aktiv edin<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Egon'u istifadə etməklə, <ph name="BEGIN_TOS_LINK" />Google Xidmət Şərtləri<ph name="END_TOS_LINK" /> və <ph name="BEGIN_ATOS_LINK" />Google Egon və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_ATOS_LINK" /> ilə razılaşırsınız. <ph name="BEGIN_PRIVACY_LINK" />Məxfilik Siyasəti<ph name="END_PRIVACY_LINK" /> də tətbiq edilir.</translation>
+<translation id="4293476595220860475">Egon'u istifadə etməklə, <ph name="BEGIN_TOS_LINK" />Google Xidmət Şərtləri<ph name="END_TOS_LINK" /> və <ph name="BEGIN_ATOS_LINK" />Egon Browser və ChromeOS Əlavə Xidmət Şərtləri<ph name="END_ATOS_LINK" /> ilə razılaşırsınız. <ph name="BEGIN_PRIVACY_LINK" />Məxfilik Siyasəti<ph name="END_PRIVACY_LINK" /> də tətbiq edilir.</translation>
 <translation id="4296252229500326964">Yeni Anonim tab</translation>
 <translation id="4298388696830689168">Əlaqədar saytlar</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1545,7 +1545,7 @@ Güvən nişanları internetdə məxfiliyi yaxşılaşdırır və kim olduğunuz
 <translation id="9219582468404818260">Daha yaxşı veb yaratmağımıza kömək edin</translation>
 <translation id="92381315203627188">Sayt öz səhifəsindəki keçidləri məxfi olaraq əvvəlcədən yükləməyi tələb etdikdə, Egon kukilər olmadan Google serverləri vasitəsilə səhifələri şifrələyir və əvvəlcədən yükləyir. Bu, kimliyinizi əvvəlcədən yüklənmiş saytdan gizlədir.</translation>
 <translation id="926205370408745186">Digital Sağlamlıqdan Egon fəaliyyətini silin</translation>
-<translation id="927968626442779827">Google Egon'da Lite rejimindən istifadə edin</translation>
+<translation id="927968626442779827">Egon Browser'da Lite rejimindən istifadə edin</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> izlənilir</translation>
 <translation id="932327136139879170">Ev</translation>
 <translation id="938850635132480979">Xəta: <ph name="ERROR_CODE" /></translation>

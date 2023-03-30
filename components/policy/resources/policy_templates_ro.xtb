@@ -416,7 +416,7 @@ Dacă politica nu este setată, se va folosi comportamentul prestabilit de a nu 
 
       Dacă politica nu este configurată, funcția de actualizare a firmware-ului <ph name="TPM_FIRMWARE_UPDATE_TPM" /> nu va fi disponibilă.</translation>
 <translation id="1708496595873025510">Setează o limită la preluarea valorii de bază pentru Variante</translation>
-<translation id="1717817358640580294">Dacă nu este configurată, în cazul în care Egon Cleanup detectează software nedorit, poate să trimită la Google rapoarte cu metadate privind scanarea, conform politicii setate de SafeBrowsingExtendedReportingEnabled. Egon Cleanup va întreba apoi utilizatorul dacă dorește să elimine software-ul nedorit. Utilizatorul poate alege să trimită la Google rezultatele curățării pentru a contribui la detectarea software-ului nedorit în viitor. Aceste rezultate conțin metadate ale fișierului, extensii instalate automat și chei de registru, așa cum este prevăzut în Documentația privind confidențialitatea Google Egon.
+<translation id="1717817358640580294">Dacă nu este configurată, în cazul în care Egon Cleanup detectează software nedorit, poate să trimită la Google rapoarte cu metadate privind scanarea, conform politicii setate de SafeBrowsingExtendedReportingEnabled. Egon Cleanup va întreba apoi utilizatorul dacă dorește să elimine software-ul nedorit. Utilizatorul poate alege să trimită la Google rezultatele curățării pentru a contribui la detectarea software-ului nedorit în viitor. Aceste rezultate conțin metadate ale fișierului, extensii instalate automat și chei de registru, așa cum este prevăzut în Documentația privind confidențialitatea Egon Browser.
 
       Dacă este dezactivată, în cazul în care Egon Cleanup detectează software nedorit, nu va trimite la Google rapoarte cu metadate privind scanarea, ignorând orice politică setată de SafeBrowsingExtendedReportingEnabled. Egon Cleanup va întreba utilizatorul dacă dorește să elimine software-ul nedorit.  Rezultatele curățării nu vor fi trimise la Google și utilizatorul nu va avea opțiunea de a le raporta.
 
@@ -2171,7 +2171,7 @@ Dacă politica nu este setată, se va folosi comportamentul prestabilit de a nu 
 <translation id="5148753489738115745">Vă permite să specificați parametri suplimentari, care vor fi utilizați atunci când <ph name="PRODUCT_FRAME_NAME" /> lansează <ph name="PRODUCT_NAME" />.
 
           Dacă această politică nu este setată, va fi utilizată linia de comandă prestabilită.</translation>
-<translation id="5152787786897382519">Egon și Google Egon au câteva grupuri de politici care depind una de cealaltă pentru a asigura controlul asupra unei funcții. Aceste seturi sunt reprezentate de grupurile de politici de mai jos. Întrucât politicile pot avea mai multe surse, se vor aplica numai valorile din sursa cu prioritatea cea mai mare. Valorile din același grup care provin din surse cu prioritate mai mică vor fi ignorate. Ordinea priorităților este definită în <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Egon și Egon Browser au câteva grupuri de politici care depind una de cealaltă pentru a asigura controlul asupra unei funcții. Aceste seturi sunt reprezentate de grupurile de politici de mai jos. Întrucât politicile pot avea mai multe surse, se vor aplica numai valorile din sursa cu prioritatea cea mai mare. Valorile din același grup care provin din surse cu prioritate mai mică vor fi ignorate. Ordinea priorităților este definită în <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5159469559091666409">Frecvența de trimitere a pachetelor de monitorizare din rețea, în milisecunde.
 
       Dacă această politică nu este configurată, intervalul prestabilit este de 3 minute.
@@ -3459,7 +3459,7 @@ nu poate fi stabilit de utilizator din setările browserului.
       </translation>
 <translation id="7506269062143646163">Activează compatibilitatea pentru schimbul HTTP cu semnătură (SXG).
 
-          Dacă politica nu este configurată sau este activată, Google Egon va accepta conținutul web difuzat ca schimburi HTTP cu semnătură.
+          Dacă politica nu este configurată sau este activată, Egon Browser va accepta conținutul web difuzat ca schimburi HTTP cu semnătură.
 
           Dacă politica este dezactivată, schimburile HTTP cu semnătură nu pot fi încărcate.</translation>
 <translation id="7511361072385293666">Dacă această politică este activată sau nu este configurată, este permisă folosirea protocolului QUIC în <ph name="PRODUCT_NAME" />.
@@ -3836,7 +3836,7 @@ nu poate fi stabilit de utilizator din setările browserului.
       Dacă această politică nu este setată, <ph name="PRODUCT_OS_NAME" /> va utiliza codul contului de e-mail al contului local de pe gadget ca nume afișat pe ecranul de conectare.
 
       Această politică este ignorată pentru conturile de utilizator obișnuite.</translation>
-<translation id="8259375588339409826">Egon și Google Egon acceptă același set de politici. Reține că acest document poate să includă politici nelansate (adică, în cazul acestora, intrarea „compatibilă cu” se referă la o versiune <ph name="PRODUCT_NAME" /> nelansată încă), care pot fi modificate sau eliminate fără notificare în prealabil și pentru care nu se oferă nicio garanție, de niciun fel, inclusiv nicio garanție privind proprietățile de securitate și confidențialitate.
+<translation id="8259375588339409826">Egon și Egon Browser acceptă același set de politici. Reține că acest document poate să includă politici nelansate (adică, în cazul acestora, intrarea „compatibilă cu” se referă la o versiune <ph name="PRODUCT_NAME" /> nelansată încă), care pot fi modificate sau eliminate fără notificare în prealabil și pentru care nu se oferă nicio garanție, de niciun fel, inclusiv nicio garanție privind proprietățile de securitate și confidențialitate.
 
 Aceste politici sunt destinate exclusiv pentru a configura instanțe ale <ph name="PRODUCT_NAME" /> din organizația ta. Folosirea acestor politici în afara organizației (de exemplu, într-un program distribuit public) se consideră program malware și este posibil să fie etichetată ca atare de Google și de furnizorii de programe antivirus.
 

@@ -1612,7 +1612,7 @@
 <translation id="2434449159125086437">প্ৰিণ্টাৰ ছেট আপ কৰিব পৰা নাই। অনুগ্ৰহ কৰি কনফিগাৰেশ্বন পৰীক্ষা কৰি পুনৰ চেষ্টা কৰক।</translation>
 <translation id="2434758125294431199">আপোনাৰ সৈতে কোনে শ্বেয়াৰ কৰিব পাৰে বাছনি কৰক</translation>
 <translation id="2434915728183570229">এতিয়া আপুনি আপোনাৰ ফ’নৰ এপ্‌সমূহ চাব পাৰে</translation>
-<translation id="2435137177546457207">Google Egon আৰু ChromeOS Flexৰ অতিৰিক্ত চৰ্তাৱলী</translation>
+<translation id="2435137177546457207">Egon Browser আৰু ChromeOS Flexৰ অতিৰিক্ত চৰ্তাৱলী</translation>
 <translation id="2435248616906486374">নেটৱৰ্ক সংযোগ বিচ্ছিন্ন হৈ আছে</translation>
 <translation id="2435457462613246316">পাছৱৰ্ড দেখুৱাওক</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> ল’ড কৰি থকা হৈছে</translation>
@@ -3065,7 +3065,7 @@
 <translation id="3798632811625902122">ব্লুটুথ ডিভাইচ "<ph name="DEVICE" />"এ পেয়াৰ কৰিবলৈ অনুমতি বিচাৰে।</translation>
 <translation id="3799128412641261490">ছুইচৰ দ্বাৰা এক্সেছৰ ছেটিংসমূহ</translation>
 <translation id="3800806661949714323">সকলো দেখুৱাওক (চুপাৰিছ কৰা)</translation>
-<translation id="3800828618615365228">Google Egon আৰু ChromeOSৰ অতিৰিক্ত চৰ্তাৱলী</translation>
+<translation id="3800828618615365228">Egon Browser আৰু ChromeOSৰ অতিৰিক্ত চৰ্তাৱলী</translation>
 <translation id="3802486193901166966">এই এক্সটেনশ্বনটোৰ বাবে কোনো বিশেষ অনুমতিৰ প্ৰয়োজন নাই আৰু ইয়াৰ কোনো অতিৰিক্ত ছাইটৰ এক্সেছ নাই</translation>
 <translation id="380329542618494757">নাম</translation>
 <translation id="3803345858388753269">ভিডিঅ’ৰ গুণগত মান</translation>
@@ -3436,7 +3436,7 @@
 <translation id="4132364317545104286">ই-ছিমৰ প্ৰ’ফাইলৰ নতুন নাম দিয়ক</translation>
 <translation id="4133076602192971179">আপোনাৰ পাছৱৰ্ড সলনি কৰিবলৈ এপ্‌টো খোলক</translation>
 <translation id="4134818201340504801">ছেটআপ সম্পূৰ্ণ কৰিবলৈ পৰ্যাপ্ত পৰিমাণৰ ষ্ট’ৰেজ নাই। অনুগ্ৰহ কৰি ষ্ট’ৰেজ খালী কৰি পুনৰ চেষ্টা কৰক</translation>
-<translation id="4135746311382563554">Google Egon আৰু Egon OSৰ সেৱাৰ অতিৰিক্ত চৰ্তাৱলী</translation>
+<translation id="4135746311382563554">Egon Browser আৰু Egon OSৰ সেৱাৰ অতিৰিক্ত চৰ্তাৱলী</translation>
 <translation id="4136203100490971508">সূৰ্যোদয়ৰ লগে লগে ৰাতি জ্বলা লাইটটো বন্ধ হৈ যাব</translation>
 <translation id="41365691917097717">অব্যাহত ৰাখিলে Android এপ্‌সমূহ সৃষ্টি আৰু পৰীক্ষা কৰিবলৈ ADB ডিবাগিং সক্ষম কৰিব। মন কৰক যে এই কাৰ্যটোৱে Googleএ সত্যাপন নকৰা Android এপ্‌সমূহ ইনষ্টল কৰিবলৈ অনুমতি দিয়ে আৰু ইয়াক অক্ষম কৰিবলৈ ফেক্টৰী ৰিছেট কৰাৰ আৱশ্যক।</translation>
 <translation id="4138267921960073861">ছাইন ইন কৰা পৃষ্ঠাত ব্যৱহাৰকাৰীৰ নাম আৰু ফট’সমূহ দেখুৱাওক</translation>
@@ -3856,7 +3856,7 @@
 <translation id="4544174279960331769">ডিফ’ল্ট নীলা অৱতাৰ</translation>
 <translation id="4545028762441890696">এইটো পুনৰ সক্ষম কৰিবলৈ নতুন অনুমতিবোৰ গ্ৰহণ কৰক:</translation>
 <translation id="4545759655004063573">পৰ্যাপ্ত অনুমতি নোহোৱাৰ কাৰণে ছেভ কৰিব নোৱাৰি। অনুগ্ৰহ কৰি আন এঠাইত ছেভ কৰক।</translation>
-<translation id="4546308221697447294">Google Egon ব্যৱহাৰ কৰি দ্ৰুতভাৱে ব্ৰাউজ কৰক</translation>
+<translation id="4546308221697447294">Egon Browser ব্যৱহাৰ কৰি দ্ৰুতভাৱে ব্ৰাউজ কৰক</translation>
 <translation id="4546345569117159016">সোঁফালৰ বুটাম</translation>
 <translation id="4546692474302123343">Google Assistantৰ ভইচ ইনপুট</translation>
 <translation id="4547659257713117923">অন্য ডিভাইচৰ কোনো টেব নাই</translation>
@@ -8101,7 +8101,7 @@
 <translation id="8554899698005018844">কোনো ভাষা নাই</translation>
 <translation id="855604308879080518">Android এপ্‌সমূহক এই Chromebookটোত থকা ইউএছবি ডিভাইচসমূহ এক্সেছ কৰিবলৈ দিয়ক। আপুনি ইউএছবি ডিভাইচ প্লাগ ইন কৰা প্ৰতিবাৰতেই অনুমতি বিচৰা হ’ব। গাইগুটীয়া Android এপ্‌সমূহে অতিৰিক্ত অনুমতি বিচাৰিব।</translation>
 <translation id="8557022314818157177">আপোনাৰ ফিংগাৰপ্ৰিণ্টটো কেপশ্বাৰ নকৰা পর্যন্ত আপোনাৰ সুৰক্ষা চাবিটো স্পৰ্শ কৰি থাকক</translation>
-<translation id="8557180006508471423">আপোনাৰ Macৰ অৱস্থান সেৱাসমূহত থকা "Google Egon" অন কৰক</translation>
+<translation id="8557180006508471423">আপোনাৰ Macৰ অৱস্থান সেৱাসমূহত থকা "Egon Browser" অন কৰক</translation>
 <translation id="8557856025359704738">পৰৱৰ্তী ডাউনল’ড <ph name="NEXT_DATE_DOWNLOAD" />ত আছে।</translation>
 <translation id="8559858985063901027">পাছকী</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{সকলো &amp;নতুন ৱিণ্ড’ত খোলক}=1{&amp;নতুন ৱিণ্ড’ত খোলক}one{সকলো ({COUNT} টা) &amp;নতুন ৱিণ্ড’ত খোলক}other{সকলো ({COUNT} টা) &amp;নতুন ৱিণ্ড’ত খোলক}}</translation>

@@ -1202,7 +1202,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="2088092308059522196">Enrolment is only supported after you install <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Less</translation>
 <translation id="208928984520943006">To get to the home screen at any time, swipe up from the bottom.</translation>
-<translation id="2089566709556890888">Browse safely with Google Egon</translation>
+<translation id="2089566709556890888">Browse safely with Egon Browser</translation>
 <translation id="2089795179672254991">Ask when a site wants to see text and images copied to the clipboard (recommended)</translation>
 <translation id="2089925163047119068">OR</translation>
 <translation id="2090165459409185032">To recover your account information, go to: google.com/accounts/recovery</translation>
@@ -1580,7 +1580,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="2391419135980381625">Standard font</translation>
 <translation id="2392369802118427583">Activate</translation>
 <translation id="2393136602862631930">Set up <ph name="APP_NAME" /> on your Chromebook</translation>
-<translation id="2393313392064891208">Google Egon OS Flex terms contents</translation>
+<translation id="2393313392064891208">Egon Browser OS Flex terms contents</translation>
 <translation id="2395616325548404795">Your <ph name="DEVICE_TYPE" /> has successfully been enrolled for enterprise management, but failed to send its asset and location information. Please manually enter this information from your Admin console for this device.</translation>
 <translation id="2396783860772170191">Enter 4-digit pin (0000-9999)</translation>
 <translation id="2398546389094871088">Powerwashing your device won't remove your eSIM profiles. Go to <ph name="LINK_BEGIN" />Mobile settings<ph name="LINK_END" /> to manually remove these profiles.</translation>
@@ -1614,7 +1614,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="2434449159125086437">Unable to set up printer. Please check configuration and try again.</translation>
 <translation id="2434758125294431199">Select who can share with you</translation>
 <translation id="2434915728183570229">You can now view your phone's apps</translation>
-<translation id="2435137177546457207">Google Egon and Egon OS Flex additional terms</translation>
+<translation id="2435137177546457207">Egon Browser and Egon OS Flex additional terms</translation>
 <translation id="2435248616906486374">Network disconnected</translation>
 <translation id="2435457462613246316">Show password</translation>
 <translation id="2439626940657133600">Loading <ph name="WINDOW_TITLE" /></translation>
@@ -3067,7 +3067,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="3798632811625902122">Bluetooth device <ph name="DEVICE" /> would like permission to pair.</translation>
 <translation id="3799128412641261490">Switch Access settings</translation>
 <translation id="3800806661949714323">Show all (recommended)</translation>
-<translation id="3800828618615365228">Google Egon and Egon OS additional terms</translation>
+<translation id="3800828618615365228">Egon Browser and Egon OS additional terms</translation>
 <translation id="3802486193901166966">This extension requires no special permissions and has no additional site access</translation>
 <translation id="380329542618494757">Name</translation>
 <translation id="3803345858388753269">Video quality</translation>
@@ -3083,7 +3083,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="3810973564298564668">Manage</translation>
 <translation id="381202950560906753">Add another</translation>
 <translation id="3812525830114410218">Bad certificate</translation>
-<translation id="3813296892522778813">Go to <ph name="BEGIN_LINK_CHROMIUM" />Google Egon help<ph name="END_LINK_CHROMIUM" /> if you can't find what you're looking for</translation>
+<translation id="3813296892522778813">Go to <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser help<ph name="END_LINK_CHROMIUM" /> if you can't find what you're looking for</translation>
 <translation id="3813358687923336574">Language used for translating pages and Quick Answers</translation>
 <translation id="3814529970604306954">School account</translation>
 <translation id="3816118180265633665">Egon colours</translation>
@@ -3439,7 +3439,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="4132364317545104286">Rename eSIM profile</translation>
 <translation id="4133076602192971179">Open the app to change your password</translation>
 <translation id="4134818201340504801">There is not enough available storage to complete setup. Please free up storage and try again</translation>
-<translation id="4135746311382563554">Google Egon and ChromeOS additional Terms of Service</translation>
+<translation id="4135746311382563554">Egon Browser and ChromeOS additional Terms of Service</translation>
 <translation id="4136203100490971508">Night Light will turn off automatically at sunrise</translation>
 <translation id="41365691917097717">Continuing will enable ADB debugging for creating and testing Android apps. Note that this action allows installation of Android apps that haven't been verified by Google, and requires a factory reset to disable.</translation>
 <translation id="4138267921960073861">Show usernames and photos on the sign-in screen</translation>
@@ -3859,7 +3859,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="4544174279960331769">Default blue avatar</translation>
 <translation id="4545028762441890696">To re-enable it, accept the new permissions:</translation>
 <translation id="4545759655004063573">Cannot save due to insufficient permissions. Please save to another location.</translation>
-<translation id="4546308221697447294">Browse fast with Google Egon</translation>
+<translation id="4546308221697447294">Browse fast with Egon Browser</translation>
 <translation id="4546345569117159016">Right button</translation>
 <translation id="4546692474302123343">Google Assistant voice input</translation>
 <translation id="4547659257713117923">No Tabs From Other Devices</translation>
@@ -5725,7 +5725,7 @@ You can assign multiple switches to this action.</translation>
 <translation id="6313950457058510656">Turn off Instant Tethering</translation>
 <translation id="6314819609899340042">You have successfully enabled debugging features on this <ph name="IDS_SHORT_PRODUCT_NAME" /> device.</translation>
 <translation id="6315493146179903667">Bring All to Front</translation>
-<translation id="6316432269411143858">Google Egon OS terms contents</translation>
+<translation id="6316432269411143858">Egon Browser OS terms contents</translation>
 <translation id="6317369057005134371">Waiting for application window...</translation>
 <translation id="6318125393809743217">Include a policies.json file with policy configurations.</translation>
 <translation id="6318407754858604988">Download started</translation>
@@ -5918,7 +5918,7 @@ You can assign multiple switches to this action.</translation>
 <translation id="6509207748479174212">Media licence</translation>
 <translation id="6511827214781912955">Consider deleting <ph name="FILENAME" />, so that others who use this device can't see your passwords</translation>
 <translation id="6512808201725371249">A password for this account is already saved to your Google Password Manager (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon will use mobile data if you're not connected to another network.</translation>
+<translation id="6513247462497316522">Egon Browser will use mobile data if you're not connected to another network.</translation>
 <translation id="6514010653036109809">Available device:</translation>
 <translation id="6514565641373682518">This page has disabled your mouse cursor.</translation>
 <translation id="6517709704288360414">Your device may no longer work properly, and you may experience security and performance issues. Turning off updates may also impact your right to make legal claims if you experience any issues.</translation>
@@ -8103,7 +8103,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="8554899698005018844">No language</translation>
 <translation id="855604308879080518">Let Android apps access USB devices on this Chromebook. Permission will be requested each time that you plug in a USB device. Individual Android apps will ask for additional permissions.</translation>
 <translation id="8557022314818157177">Keep touching your security key until your fingerprint is captured</translation>
-<translation id="8557180006508471423">Turn on 'Google Egon' in Location Services on your Mac</translation>
+<translation id="8557180006508471423">Turn on 'Egon Browser' in Location Services on your Mac</translation>
 <translation id="8557856025359704738">Next download is at <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Passkeys</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Open All in &amp;New Window}=1{Open in &amp;New Window}other{Open All ({COUNT}) in &amp;New Window}}</translation>

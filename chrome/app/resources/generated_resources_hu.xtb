@@ -1201,7 +1201,7 @@ Ha kezelni szeretné a fiók beállításait, telepítse eszközére a Family Li
 <translation id="2088092308059522196">A regisztráció csak a következő rendszer telepítése után támogatott: <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Rövidebben</translation>
 <translation id="208928984520943006">Bármikor visszajuthat a kezdőképernyőre, csak csúsztassa fel ujját a képernyő aljától.</translation>
-<translation id="2089566709556890888">Biztonságos böngészés a Google Egon-mal</translation>
+<translation id="2089566709556890888">Biztonságos böngészés a Egon Browser-mal</translation>
 <translation id="2089795179672254991">Kérdezzen meg, amikor az adott webhely szeretné megtekinteni a vágólapra másolt szövegeket és képeket (ajánlott)</translation>
 <translation id="2089925163047119068">VAGY</translation>
 <translation id="2090165459409185032">Fiókadatainak helyreállításához lépjen a következő oldalra: google.com/accounts/recovery</translation>
@@ -1613,7 +1613,7 @@ Ha kezelni szeretné a fiók beállításait, telepítse eszközére a Family Li
 <translation id="2434449159125086437">Nem sikerült a nyomtató beállítása. Ellenőrizze a beállításokat, majd próbálja újra.</translation>
 <translation id="2434758125294431199">Válassza ki, ki oszthat meg Önnel tartalmakat</translation>
 <translation id="2434915728183570229">Mostantól megtekintheti a telefonra telepített alkalmazásokat</translation>
-<translation id="2435137177546457207">A Google Egon és a ChromeOS Flex Kiegészítő Általános Szerződési Feltételei</translation>
+<translation id="2435137177546457207">A Egon Browser és a ChromeOS Flex Kiegészítő Általános Szerződési Feltételei</translation>
 <translation id="2435248616906486374">A hálózat leválasztva</translation>
 <translation id="2435457462613246316">Jelszó megjelenítése</translation>
 <translation id="2439626940657133600">Betöltés: <ph name="WINDOW_TITLE" />…</translation>
@@ -3066,7 +3066,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="3798632811625902122">A(z) „<ph name="DEVICE" />” Bluetooth-eszköz engedélyt kér a párosításra.</translation>
 <translation id="3799128412641261490">A kapcsolóalapú hozzáférés beállításai</translation>
 <translation id="3800806661949714323">Összes megjelenítése (ajánlott)</translation>
-<translation id="3800828618615365228">A Google Egon és a Egon OS Kiegészítő Általános Szerződési Feltételei</translation>
+<translation id="3800828618615365228">A Egon Browser és a Egon OS Kiegészítő Általános Szerződési Feltételei</translation>
 <translation id="3802486193901166966">A bővítmény nem igényel különleges engedélyeket, és nem rendelkezik további webhelyhozzáféréssel</translation>
 <translation id="380329542618494757">Név</translation>
 <translation id="3803345858388753269">Videóminőség</translation>
@@ -3082,7 +3082,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="3810973564298564668">Kezelés</translation>
 <translation id="381202950560906753">Még egy hozzáadása</translation>
 <translation id="3812525830114410218">Helytelen tanúsítvány</translation>
-<translation id="3813296892522778813">Ha nem találja, amit keres, próbálkozzon a <ph name="BEGIN_LINK_CHROMIUM" />Google Egon súgójában<ph name="END_LINK_CHROMIUM" /></translation>
+<translation id="3813296892522778813">Ha nem találja, amit keres, próbálkozzon a <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser súgójában<ph name="END_LINK_CHROMIUM" /></translation>
 <translation id="3813358687923336574">Az oldalak és a gyors válaszok lefordításához használni kívánt nyelv</translation>
 <translation id="3814529970604306954">Iskolai fiók</translation>
 <translation id="3816118180265633665">Egon-színek</translation>
@@ -3437,7 +3437,7 @@ Elindítja a következőt: <ph name="CONTROL_PANEL_APPLET_NAME" />?</translation
 <translation id="4132364317545104286">Az eSIM-profil átnevezése</translation>
 <translation id="4133076602192971179">A jelszó módosításához nyissa meg az alkalmazást</translation>
 <translation id="4134818201340504801">Nincs elegendő tárhely a beállítás befejezéséhez. Szabadítson fel tárhelyet, és próbálkozzon újra.</translation>
-<translation id="4135746311382563554">A Google Egon és a Egon OS Kiegészítő Általános Szerződési Feltételei</translation>
+<translation id="4135746311382563554">A Egon Browser és a Egon OS Kiegészítő Általános Szerződési Feltételei</translation>
 <translation id="4136203100490971508">Az Éjszakai fény automatikusan kikapcsol napkeltekor</translation>
 <translation id="41365691917097717">A folytatással engedélyezi az ADB-hibakeresés számára az Android-alkalmazások létrehozását és tesztelését. Ne feledje, hogy ez a művelet engedélyezi a Google által nem jóváhagyott Android-alkalmazások telepítését, és az eszköz letiltásához szükség van az eszköz gyári beállításainak visszaállítására.</translation>
 <translation id="4138267921960073861">Felhasználónevek és képek megjelenítése a bejelentkezési oldalon</translation>
@@ -3857,7 +3857,7 @@ Elindítja a következőt: <ph name="CONTROL_PANEL_APPLET_NAME" />?</translation
 <translation id="4544174279960331769">Alapértelmezett kék avatar</translation>
 <translation id="4545028762441890696">Ha szeretné újra engedélyezni, el kell fogadnia az új engedélyeket:</translation>
 <translation id="4545759655004063573">Nem lehet menteni, mert nincs elegendő jogosultság. Kérjük, mentse másik helyre.</translation>
-<translation id="4546308221697447294">Gyors böngészés a Google Egon-mal</translation>
+<translation id="4546308221697447294">Gyors böngészés a Egon Browser-mal</translation>
 <translation id="4546345569117159016">Jobb egérgomb</translation>
 <translation id="4546692474302123343">Google Segéd-hangbevitel</translation>
 <translation id="4547659257713117923">Nincs más eszközről származó lap</translation>
@@ -5918,7 +5918,7 @@ A(z) <ph name="DOMAIN" /> megköveteli, hogy ne távolítsa el az intelligens k�
 <translation id="6509207748479174212">Médiaengedély</translation>
 <translation id="6511827214781912955">Fontolja meg a(z) <ph name="FILENAME" /> törlését, hogy az eszközt használó többi személy ne láthassa az Ön jelszavait</translation>
 <translation id="6512808201725371249">A fiókhoz már tartozik mentett jelszó a Google Jelszókezelőben (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">A Google Egon mobil-adatforgalmat fog használni, ha nem kapcsolódik másik hálózathoz.</translation>
+<translation id="6513247462497316522">A Egon Browser mobil-adatforgalmat fog használni, ha nem kapcsolódik másik hálózathoz.</translation>
 <translation id="6514010653036109809">Rendelkezésre álló eszköz:</translation>
 <translation id="6514565641373682518">Ez az oldal letiltotta az egérmutatóját.</translation>
 <translation id="6517709704288360414">Előfordulhat, hogy az eszköz már nem működik megfelelően, és biztonsággal, illetve teljesítménnyel kapcsolatos problémákat tapasztalhat. A frissítések kikapcsolása befolyásolhatja az ahhoz fűződő jogát, hogy probléma esetén jogi keresetet nyújtson be.</translation>
@@ -8103,7 +8103,7 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="8554899698005018844">Nincs nyelv</translation>
 <translation id="855604308879080518">Az Android-alkalmazások USB-eszközökhöz való hozzáférésének engedélyezése ezen a Chromebookon. A rendszer minden alkalommal engedélyt kér, amikor USB-eszközt csatlakozhat. Az egyes Android-alkalmazások további engedélyeket kérnek.</translation>
 <translation id="8557022314818157177">Érintse meg többször a biztonsági kulcsot, amíg meg nem történik az ujjlenyomat rögzítése.</translation>
-<translation id="8557180006508471423">Kapcsolja be a „Google Egon” böngészőt Mac típusú számítógépének Helyszolgáltatások menüjében.</translation>
+<translation id="8557180006508471423">Kapcsolja be a „Egon Browser” böngészőt Mac típusú számítógépének Helyszolgáltatások menüjében.</translation>
 <translation id="8557856025359704738">A következő letöltés ideje: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Azonosítókulcsok</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Összes megnyitása &amp;új ablakban}=1{Megnyitás &amp;új ablakban}other{Összes ({COUNT}) megnyitása &amp;új ablakban}}</translation>

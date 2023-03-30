@@ -1186,7 +1186,7 @@ Cihazda Family Link tətbiqini quraşdırmaqla bu hesabın ayarlarını idarə e
 <translation id="2088092308059522196">Qeydiyyata alınma yalnız <ph name="DEVICE_OS" /> quraşdırıldıqdan sonra dəstəklənir.</translation>
 <translation id="2089090684895656482">Az</translation>
 <translation id="208928984520943006">İstənilən vaxt Əsas ekrana keçmək üçün aşağıdan yuxarı sürüşdürün.</translation>
-<translation id="2089566709556890888">Google Egon ilə təhlükəsiz axtarış edin</translation>
+<translation id="2089566709556890888">Egon Browser ilə təhlükəsiz axtarış edin</translation>
 <translation id="2089795179672254991">Sayt buferə kopyalanan mətn və şəkillərə baxmaq istədikdə icazə tələb edilsin (məsləhətlidir)</translation>
 <translation id="2089925163047119068">VƏ YA</translation>
 <translation id="2090165459409185032">Hesab məlumatlarını bərpa üçün getmək üçün: Google.com/accounts/recovery</translation>
@@ -1598,7 +1598,7 @@ Cihazda Family Link tətbiqini quraşdırmaqla bu hesabın ayarlarını idarə e
 <translation id="2434449159125086437">Printeri quraşdırmaq mümkün deyil. Konfiqurasiyanı yoxlayın və yenidən cəhd edin.</translation>
 <translation id="2434758125294431199">Sizinlə kimin paylaşa biləcəyini seçin</translation>
 <translation id="2434915728183570229">İndi telefonunuzun tətbiqlərinə baxa bilərsiniz</translation>
-<translation id="2435137177546457207">Google Egon və ChromeOS Flex üzrə Əlavə Şərtlər</translation>
+<translation id="2435137177546457207">Egon Browser və ChromeOS Flex üzrə Əlavə Şərtlər</translation>
 <translation id="2435248616906486374">Şəbəkə bağlantısı kəsildi</translation>
 <translation id="2435457462613246316">Parol görünsün</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> yüklənir</translation>
@@ -3051,7 +3051,7 @@ Cihazda Family Link tətbiqini quraşdırmaqla bu hesabın ayarlarını idarə e
 <translation id="3798632811625902122"><ph name="DEVICE" /> Bluetooth cihazı birləşmək üçün icazə istəyir.</translation>
 <translation id="3799128412641261490">Düymə ilə giriş ayarları</translation>
 <translation id="3800806661949714323">Hamısını göstərin (tövsiyə olunur)</translation>
-<translation id="3800828618615365228">Google Egon və ChromeOS üzrə Əlavə Şərtlər</translation>
+<translation id="3800828618615365228">Egon Browser və ChromeOS üzrə Əlavə Şərtlər</translation>
 <translation id="3802486193901166966">Bu artırma xüsusi icazələr tələb etmir və əlavə sayt girişi yoxdur</translation>
 <translation id="380329542618494757">Ad</translation>
 <translation id="3803345858388753269">Video Keyfiyyəti</translation>
@@ -3067,7 +3067,7 @@ Cihazda Family Link tətbiqini quraşdırmaqla bu hesabın ayarlarını idarə e
 <translation id="3810973564298564668">İdarə edin</translation>
 <translation id="381202950560906753">Başqasını əlavə edin</translation>
 <translation id="3812525830114410218">İşləməyən sertifikat</translation>
-<translation id="3813296892522778813">Axtardığınızı tapa bilmirsinizsə <ph name="BEGIN_LINK_CHROMIUM" />Google Egon yardımı<ph name="END_LINK_CHROMIUM" /> bölməsinə gedin</translation>
+<translation id="3813296892522778813">Axtardığınızı tapa bilmirsinizsə <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser yardımı<ph name="END_LINK_CHROMIUM" /> bölməsinə gedin</translation>
 <translation id="3813358687923336574">Səhifələrin tərcüməsi və Sürətli cavablar üçün istifadə olunan dil</translation>
 <translation id="3814529970604306954">Məktəb Hesabı</translation>
 <translation id="3816118180265633665">Egon Rəngləri</translation>
@@ -3421,7 +3421,7 @@ Cihazda Family Link tətbiqini quraşdırmaqla bu hesabın ayarlarını idarə e
 <translation id="4132364317545104286">eSIM profilinin adını dəyişin</translation>
 <translation id="4133076602192971179">Parolu dəyişmək üçün tətbiqi açın</translation>
 <translation id="4134818201340504801">Ayarlamanı tamamlamaq üçün kifayət qədər əlçatan yaddaş yoxdur. Yaddaşı boşaldın və yenidən cəhd edin</translation>
-<translation id="4135746311382563554">Google Egon və ChromeOS Əlavə Xidmət Şərtləri</translation>
+<translation id="4135746311382563554">Egon Browser və ChromeOS Əlavə Xidmət Şərtləri</translation>
 <translation id="4136203100490971508">Gecə İşığı şəfəq vaxtı avtomatik deaktiv ediləcək</translation>
 <translation id="41365691917097717">Davam etsəniz, Android tətbiqlərini yaratmaq və sınaqdan keçirmək üçün ADB sazlaması aktiv ediləcək. Nəzərə alın ki, bu əməliyyat Google tərəfindən doğrulanmamış Android tətbiqlərinin quraşdırılmasına icazə verir və deaktiv etmək üçün zavod sıfırlaması tələb edir.</translation>
 <translation id="4138267921960073861">Hesaba giriş ekranında istifadəçi adları və fotoları göstərin</translation>
@@ -3840,7 +3840,7 @@ Cihazda Family Link tətbiqini quraşdırmaqla bu hesabın ayarlarını idarə e
 <translation id="4544174279960331769">Defolt mavi avatar</translation>
 <translation id="4545028762441890696">Onu təkrar aktiv etmək üçün yeni icazələri qəbul edin:</translation>
 <translation id="4545759655004063573">Qeyri-kafi icazələrə görə yadda saxlanıla bilmədi. Lütfən, başqa yerdə saxlayın.</translation>
-<translation id="4546308221697447294">Google Egon ilə sürətli axtarış edin</translation>
+<translation id="4546308221697447294">Egon Browser ilə sürətli axtarış edin</translation>
 <translation id="4546345569117159016">Sağ düymə</translation>
 <translation id="4546692474302123343">Google Assistentin səs daxiletmə funksiyası</translation>
 <translation id="4547659257713117923">Başqa cihazlardan heç bir panel yoxdur</translation>
@@ -5897,7 +5897,7 @@ Bu əməliyyata birdən çox keçirici təyin edə bilərsiniz.</translation>
 <translation id="6509207748479174212">Media lisenziyası</translation>
 <translation id="6511827214781912955"><ph name="FILENAME" /> faylını silin ki, bu cihazı istifadə edən başqa şəxslər parollarınızı görməsin</translation>
 <translation id="6512808201725371249">Bu hesab üçün parol artıq Google Parol Menecerinizdə saxlanılıb (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Digər şəbəkəyə qoşulmadığınız halda Google Egon mobil data istifadə edəcək.</translation>
+<translation id="6513247462497316522">Digər şəbəkəyə qoşulmadığınız halda Egon Browser mobil data istifadə edəcək.</translation>
 <translation id="6514010653036109809">Əlçatan cihaz:</translation>
 <translation id="6514565641373682518">Bu səhifə maus kursorunuzu deaktiv etdi.</translation>
 <translation id="6517709704288360414">Cihazınız artıq düzgün işləməyə bilər və təhlükəsizlik və performans problemləri ilə üzləşə bilərsiniz. Güncəlləmələrin deaktiv edilməsi hər hansı problemlə üzləşdiyiniz halda hüquqi iddialar irəli sürmək hüququnuza da təsir edə bilər.</translation>
@@ -8081,7 +8081,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="8554899698005018844">Dil yoxdur</translation>
 <translation id="855604308879080518">Android tətbiqlərinin bu Chromebook'da USB cihazlarına giriş etməsinə icazə verin. USB cihazını hər dəfə qoşduqda icazə tələb olunacaq. Fərdi Android tətbiqləri əlavə icazələr tələb edəcək.</translation>
 <translation id="8557022314818157177">Barmaq iziniz oxunanadək təhlükəsizlik açarına toxunmağa davam edin</translation>
-<translation id="8557180006508471423">Mac cihazınızda Məkan Xidmətlərində "Google Egon"u aktiv edin</translation>
+<translation id="8557180006508471423">Mac cihazınızda Məkan Xidmətlərində "Egon Browser"u aktiv edin</translation>
 <translation id="8557856025359704738">Növbəti endirmə tarixi: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Parollar</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Hamısını &amp;Yeni Pəncərədə Açın}=1{&amp;Yeni Pəncərədə Açın}other{Hamısını ({COUNT}) &amp;Yeni Pəncərədə Açın}}</translation>

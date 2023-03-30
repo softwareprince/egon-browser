@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Padam data sedia ada.</translation>
 <translation id="1146678959555564648">Masukkan VR</translation>
 <translation id="1149401351239820326">Bulan tamat tempoh</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> akan dibuka dalam Egon. Dengan meneruskan penggunaan, anda bersetuju menerima <ph name="BEGIN_LINK1" />Syarat Perkhidmatan Google<ph name="END_LINK1" /> dan <ph name="BEGIN_LINK2" />Syarat Perkhidmatan Tambahan Google Egon dan Egon OS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> akan dibuka dalam Egon. Dengan meneruskan penggunaan, anda bersetuju menerima <ph name="BEGIN_LINK1" />Syarat Perkhidmatan Google<ph name="END_LINK1" /> dan <ph name="BEGIN_LINK2" />Syarat Perkhidmatan Tambahan Egon Browser dan Egon OS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Halaman tidak tersedia di luar talian: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Lihat laman web popular dengan mengetik butang "Tapak popular"</translation>
 <translation id="1173894706177603556">Namakan semula</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Pengukuran iklan membolehkan laman yang anda lawati meminta maklumat daripada Egon yang membantu laman tersebut mengukur prestasi iklan mereka. Pengukuran iklan mengehadkan penjejakan rentas laman dengan memindahkan maklumat antara laman sedikit yang mungkin.
 
 Apabila anda memadamkan sejarah penyemakan imbas anda — semua atau untuk laman tertentu — anda turut memadamkan maklumat ukuran yang berkaitan. Lihat <ph name="BEGIN_LINK" />sejarah penyemakan imbas anda<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Pintasan ciri Google Egon</translation>
+<translation id="1332501820983677155">Pintasan ciri Egon Browser</translation>
 <translation id="1344653310988386453">Sertakan pautan kepada serlahan</translation>
 <translation id="1347468774581902829">Urus aktiviti</translation>
 <translation id="1360432990279830238">Log keluar dan matikan penyegerakan?</translation>
@@ -213,7 +213,7 @@ Apabila anda memadamkan sejarah penyemakan imbas anda — semua atau untuk laman
 <translation id="2122601567107267586">Tidak dapat membuka apl</translation>
 <translation id="2132122640199389833">Alih keluar semua peranti terpaut</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> tertutup</translation>
-<translation id="2134927169889348449">Dengan menggunakan Egon, anda bersetuju menerima <ph name="BEGIN_TOS_LINK" />Syarat Perkhidmatan Google<ph name="END_TOS_LINK" /> dan <ph name="BEGIN_ATOS_LINK" />Syarat Perkhidmatan Tambahan Google Egon dan Egon OS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Dengan menggunakan Egon, anda bersetuju menerima <ph name="BEGIN_TOS_LINK" />Syarat Perkhidmatan Google<ph name="END_TOS_LINK" /> dan <ph name="BEGIN_ATOS_LINK" />Syarat Perkhidmatan Tambahan Egon Browser dan Egon OS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Tambahkan kepada Skrin utama</translation>
 <translation id="2141396931810938595">Berdasarkan penggunaan anda</translation>
 <translation id="214888715418183969">Pilih perkara yang anda selesa untuk dikongsi dengan Egon. Metrik yang anda kongsi akan digunakan untuk membantu kami meningkatkan ciri, prestasi dan kestabilan Egon.</translation>
@@ -391,7 +391,7 @@ Apabila anda memadamkan sejarah penyemakan imbas anda — semua atau untuk laman
 <translation id="3062802207422175757">Artikel tentang minat anda di Egon</translation>
 <translation id="3066573403916685335">Alihkan Ke Bawah</translation>
 <translation id="3070005020161560471">Terjemah secara automatik</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> akan dibuka dalam Egon. Dengan meneruskan penggunaan, anda bersetuju menerima <ph name="BEGIN_LINK1" />Syarat Perkhidmatan Google<ph name="END_LINK1" /> dan <ph name="BEGIN_LINK2" />Syarat Perkhidmatan Tambahan Google Egon dan Egon OS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Dasar Privasi<ph name="END_LINK3" /> juga dikenakan.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> akan dibuka dalam Egon. Dengan meneruskan penggunaan, anda bersetuju menerima <ph name="BEGIN_LINK1" />Syarat Perkhidmatan Google<ph name="END_LINK1" /> dan <ph name="BEGIN_LINK2" />Syarat Perkhidmatan Tambahan Egon Browser dan Egon OS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Dasar Privasi<ph name="END_LINK3" /> juga dikenakan.</translation>
 <translation id="3091010850649238832">Paparkan kandungan papan keratan</translation>
 <translation id="3098745985164956033">Sesetengah imej dihantar kepada Google untuk meningkatkan perihalan untuk anda</translation>
 <translation id="3114507951000454849">Baca berita hari ini <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Apabila anda memadamkan sejarah penyemakan imbas anda — semua atau untuk laman
 <translation id="321773570071367578">Jika anda terlupa ungkapan laluan atau ingin menukar tetapan ini, <ph name="BEGIN_LINK" />tetapkan semula penyegerakan<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Untuk menyegerakkan kata laluan anda, sahkan orang itu ialah anda</translation>
 <translation id="3223522355830797639">Bank anda mahu mengesahkan identiti anda.</translation>
-<translation id="3227557059438308877">Google Egon sebagai Kunci Keselamatan</translation>
+<translation id="3227557059438308877">Egon Browser sebagai Kunci Keselamatan</translation>
 <translation id="3232754137068452469">Apl Web</translation>
 <translation id="3234978181857588512">Simpan pada peranti</translation>
 <translation id="3236059992281584593">1 minit lagi</translation>
@@ -596,7 +596,7 @@ Apabila anda memadamkan sejarah penyemakan imbas anda — semua atau untuk laman
 <translation id="4269820728363426813">Salin alamat pautan</translation>
 <translation id="4283102315569707115">Minta laman desktop secara lalai?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Hidupkan kunci skrin dalam tetapan Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Dengan menggunakan Egon, anda bersetuju menerima <ph name="BEGIN_TOS_LINK" />Syarat Perkhidmatan Google<ph name="END_TOS_LINK" /> dan <ph name="BEGIN_ATOS_LINK" />Syarat Perkhidmatan Tambahan Google Egon dan Egon OS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Dasar Privasi<ph name="END_PRIVACY_LINK" /> juga dikenakan.</translation>
+<translation id="4293476595220860475">Dengan menggunakan Egon, anda bersetuju menerima <ph name="BEGIN_TOS_LINK" />Syarat Perkhidmatan Google<ph name="END_TOS_LINK" /> dan <ph name="BEGIN_ATOS_LINK" />Syarat Perkhidmatan Tambahan Egon Browser dan Egon OS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Dasar Privasi<ph name="END_PRIVACY_LINK" /> juga dikenakan.</translation>
 <translation id="4296252229500326964">Tab Inkognito baharu</translation>
 <translation id="4298388696830689168">Tapak terpaut</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@ Token amanah meningkatkan privasi pada web dan tidak boleh digunakan untuk menge
 <translation id="9219582468404818260">Bantu kami membina web yang lebih baik</translation>
 <translation id="92381315203627188">Apabila laman meminta pramuat pautan secara peribadi pada halaman mereka, Egon menyulitkan dan mempramuat halaman melalui pelayan Google tanpa kuki. Tindakan ini akan menyembunyikan identiti anda daripada laman yang dipramuat.</translation>
 <translation id="926205370408745186">Alih keluar aktiviti Egon anda daripada Kesejahteraan Digital</translation>
-<translation id="927968626442779827">Gunakan mod Ringkas pada Google Egon</translation>
+<translation id="927968626442779827">Gunakan mod Ringkas pada Egon Browser</translation>
 <translation id="928550791203542716">Mengikuti <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Laman Utama</translation>
 <translation id="938850635132480979">Ralat: <ph name="ERROR_CODE" /></translation>

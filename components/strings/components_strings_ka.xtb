@@ -263,7 +263,7 @@
 <translation id="156703335097561114">ქსელთან დაკავშირებული ინფორმაცია, როგორიცაა, მაგალითად, მისამართები, ინტერფეისის კონფიგურაცია და კავშირის ხარისხი</translation>
 <translation id="1567040042588613346">ეს წესები სათანადოდ მუშაობს, თუმცა სხვაგან დაყენებულია იგივე მნიშვნელობა, რომელსაც ეს წესები ანაცვლებს.</translation>
 <translation id="1569487616857761740">შეიყვანეთ მოქმედების ვადის გასვლის თარიღი</translation>
-<translation id="1569694109004336106">Google Egon ცდილობს, ჩართოს Windows Hello პაროლების შესავსებად.</translation>
+<translation id="1569694109004336106">Egon Browser ცდილობს, ჩართოს Windows Hello პაროლების შესავსებად.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> დუიმი</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">ამ ვებგვერდის ჩვენებისას პრობლემა წარმოიქმნა.</translation>
@@ -459,7 +459,7 @@
 <translation id="2085876078937250610">შენახვა…</translation>
 <translation id="2088086323192747268">სინქრონიზაციის მართვის ღილაკი, თქვენ მიერ სინქრონიზებული ინფორმაციის Egon-ის პარამეტრებიდან სამართავად დააჭირეთ კლავიშს Enter</translation>
 <translation id="2091887806945687916">ხმა</translation>
-<translation id="2093982008204312032">Google Egon ცდილობს, გამორთოს Windows Hello პაროლების შესავსებად.</translation>
+<translation id="2093982008204312032">Egon Browser ცდილობს, გამორთოს Windows Hello პაროლების შესავსებად.</translation>
 <translation id="2094505752054353250">დომენის შეუსაბამობა</translation>
 <translation id="2099652385553570808">სამმაგად დასტეპლერება მარცხნივ</translation>
 <translation id="2101225219012730419">ვერსია:</translation>
@@ -2584,7 +2584,7 @@
 <translation id="7564049878696755256">თქვენ შეიძლება მოგპარონ პერსონალური მონაცემები, ან დაკარგოთ წვდომა თქვენს <ph name="ORG_NAME" /> ანგარიშზე. Egon გირჩევთ, ახლავე შეცვალოთ პაროლი.</translation>
 <translation id="7564680668369175887">უნივერსალი ფურგონები</translation>
 <translation id="7567204685887185387">ეს სერვერი ვერ ამტკიცებს, რომ ის არის <ph name="DOMAIN" />; მისი უსაფრთხოების სერთიფიკატი შეიძლება გაიცა თაღლითურად. ეს შეიძლება იყოს გამოწვეული არასწორი კონფიგურაციით ან თავდამსხმელის მიერ თქვენი კავშირის გადაჭრით.</translation>
-<translation id="7568616151991626879">Google Egon ცდილობს, შეავსოს თქვენი პაროლი <ph name="APP_NAME" />-ში.</translation>
+<translation id="7568616151991626879">Egon Browser ცდილობს, შეავსოს თქვენი პაროლი <ph name="APP_NAME" />-ში.</translation>
 <translation id="7569490014721427265">გოლფი</translation>
 <translation id="7569761772822664555">საძიებო სისტემის მართვის ღილაკი, ნაგულისხმევი საძიებო სისტემისა და საიტების მეშვეობით ძიების პარამეტრების სამართავად დააჭირეთ ღილაკს Enter</translation>
 <translation id="7569952961197462199">ამოიშალოს საკრედიტო ბარათი Egon-იდან?</translation>

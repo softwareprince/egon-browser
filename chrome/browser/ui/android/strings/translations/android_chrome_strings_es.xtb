@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Elimina los datos actuales.</translation>
 <translation id="1146678959555564648">Iniciar RV</translation>
 <translation id="1149401351239820326">Mes de caducidad</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> se abrirá en Egon. Al continuar, aceptas los <ph name="BEGIN_LINK1" />Términos del Servicio de Google<ph name="END_LINK1" /> y los <ph name="BEGIN_LINK2" />Términos del Servicio Adicionales de Google Egon y ChromeOS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> se abrirá en Egon. Al continuar, aceptas los <ph name="BEGIN_LINK1" />Términos del Servicio de Google<ph name="END_LINK1" /> y los <ph name="BEGIN_LINK2" />Términos del Servicio Adicionales de Egon Browser y ChromeOS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Página no disponible sin conexión: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Toca el botón Populares para ver los sitios web más populares</translation>
 <translation id="1173894706177603556">Cambiar nombre</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">La medición de anuncios permite a los sitios que visitas pedir a Egon información que les ayude a medir el rendimiento de sus anuncios. La medición de anuncios restringe el seguimiento entre sitios al transferir la menor cantidad de información posible entre ellos.
 
 Si eliminas tu historial de navegación (entero o de un sitio en concreto), también eliminarás la información de medición asociada. Consulta <ph name="BEGIN_LINK" />tu historial de navegación<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Combinaciones de teclas de funciones de Google Egon</translation>
+<translation id="1332501820983677155">Combinaciones de teclas de funciones de Egon Browser</translation>
 <translation id="1344653310988386453">Incluir enlace al texto destacado</translation>
 <translation id="1347468774581902829">Gestionar actividad</translation>
 <translation id="1360432990279830238">¿Cerrar sesión y detener sincronización?</translation>
@@ -213,7 +213,7 @@ Si eliminas tu historial de navegación (entero o de un sitio en concreto), tamb
 <translation id="2122601567107267586">No se ha podido abrir la aplicación</translation>
 <translation id="2132122640199389833">Quitar todos los dispositivos vinculados</translation>
 <translation id="213279576345780926">Se ha cerrado <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">Al utilizar Egon, aceptas los <ph name="BEGIN_TOS_LINK" />Términos del Servicio de Google<ph name="END_TOS_LINK" /> y los <ph name="BEGIN_ATOS_LINK" />Términos del Servicio Adicionales de Google Egon y ChromeOS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Al utilizar Egon, aceptas los <ph name="BEGIN_TOS_LINK" />Términos del Servicio de Google<ph name="END_TOS_LINK" /> y los <ph name="BEGIN_ATOS_LINK" />Términos del Servicio Adicionales de Egon Browser y ChromeOS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Añadir a pantalla de inicio</translation>
 <translation id="2141396931810938595">Según tu uso</translation>
 <translation id="214888715418183969">Elige qué quieres compartir con Egon. Las métricas que compartas nos ayudarán a mejorar las funciones, el rendimiento y la estabilidad de Egon.</translation>
@@ -391,7 +391,7 @@ Si eliminas tu historial de navegación (entero o de un sitio en concreto), tamb
 <translation id="3062802207422175757">Artículos sobre tus intereses en Egon</translation>
 <translation id="3066573403916685335">Mover hacia abajo</translation>
 <translation id="3070005020161560471">Traducir automáticamente</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> se abrirá en Egon. Al continuar, aceptas los <ph name="BEGIN_LINK1" />Términos del Servicio de Google<ph name="END_LINK1" /> y los <ph name="BEGIN_LINK2" />Términos del Servicio Adicionales de Google Egon y ChromeOS<ph name="END_LINK2" />. También se aplica la <ph name="BEGIN_LINK3" />Política de Privacidad<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> se abrirá en Egon. Al continuar, aceptas los <ph name="BEGIN_LINK1" />Términos del Servicio de Google<ph name="END_LINK1" /> y los <ph name="BEGIN_LINK2" />Términos del Servicio Adicionales de Egon Browser y ChromeOS<ph name="END_LINK2" />. También se aplica la <ph name="BEGIN_LINK3" />Política de Privacidad<ph name="END_LINK3" />.</translation>
 <translation id="3091010850649238832">Muestra el contenido del portapapeles</translation>
 <translation id="3098745985164956033">Algunas imágenes se envían a Google para mejorar las descripciones que recibes</translation>
 <translation id="3114507951000454849">Lee las noticias de hoy <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Si eliminas tu historial de navegación (entero o de un sitio en concreto), tamb
 <translation id="321773570071367578">Si has olvidado tu frase de contraseña o quieres cambiar esta opción, <ph name="BEGIN_LINK" />restablece la sincronización<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Para sincronizar tus contraseñas, verifica tu identidad</translation>
 <translation id="3223522355830797639">Tu banco quiere confirmar tu identidad.</translation>
-<translation id="3227557059438308877">Google Egon como llave de seguridad</translation>
+<translation id="3227557059438308877">Egon Browser como llave de seguridad</translation>
 <translation id="3232754137068452469">Aplicación web</translation>
 <translation id="3234978181857588512">Guardar en el dispositivo</translation>
 <translation id="3236059992281584593">Queda 1 minuto</translation>
@@ -596,7 +596,7 @@ Si eliminas tu historial de navegación (entero o de un sitio en concreto), tamb
 <translation id="4269820728363426813">Copiar la dirección del enlace</translation>
 <translation id="4283102315569707115">¿Solicitar sitio para ordenadores de forma predeterminada?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Activa el bloqueo de pantalla en los ajustes de Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Al utilizar Egon, aceptas los <ph name="BEGIN_TOS_LINK" />Términos del Servicio de Google<ph name="END_TOS_LINK" /> y los <ph name="BEGIN_ATOS_LINK" />Términos del Servicio Adicionales de Google Egon y ChromeOS<ph name="END_ATOS_LINK" />. También se aplica la <ph name="BEGIN_PRIVACY_LINK" />Política de Privacidad<ph name="END_PRIVACY_LINK" />.</translation>
+<translation id="4293476595220860475">Al utilizar Egon, aceptas los <ph name="BEGIN_TOS_LINK" />Términos del Servicio de Google<ph name="END_TOS_LINK" /> y los <ph name="BEGIN_ATOS_LINK" />Términos del Servicio Adicionales de Egon Browser y ChromeOS<ph name="END_ATOS_LINK" />. También se aplica la <ph name="BEGIN_PRIVACY_LINK" />Política de Privacidad<ph name="END_PRIVACY_LINK" />.</translation>
 <translation id="4296252229500326964">Nueva pestaña de Incógnito</translation>
 <translation id="4298388696830689168">Sitios web enlazados</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@ Los tokens de confianza mejoran la privacidad en la Web y no se pueden usar para
 <translation id="9219582468404818260">Ayúdanos a crear una Web mejor</translation>
 <translation id="92381315203627188">Cuando un sitio te pregunta si quieres precargar de forma privada los enlaces de su página, Egon cifra y precarga las páginas mediante los servidores de Google sin cookies. De esta manera, se oculta tu identidad en el sitio precargado.</translation>
 <translation id="926205370408745186">Eliminar tu actividad de Egon de Bienestar digital</translation>
-<translation id="927968626442779827">Usa el modo básico en Google Egon</translation>
+<translation id="927968626442779827">Usa el modo básico en Egon Browser</translation>
 <translation id="928550791203542716">Ahora sigues a <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Página principal</translation>
 <translation id="938850635132480979">Error: <ph name="ERROR_CODE" /></translation>

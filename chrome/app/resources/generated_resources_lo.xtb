@@ -1199,7 +1199,7 @@
 <translation id="2088092308059522196">ຮອງຮັບການລົງທະບຽນຫຼັງຈາກທີ່ທ່ານຕິດຕັ້ງ <ph name="DEVICE_OS" /> ເທົ່ານັ້ນ.</translation>
 <translation id="2089090684895656482">ຫນ້ອຍ</translation>
 <translation id="208928984520943006">ປັດຂຶ້ນຈາກລຸ່ມສຸດເພື່ອໄປຫາໜ້າຈໍຫຼັກໄດ້ທຸກເວລາ.</translation>
-<translation id="2089566709556890888">ທ່ອງເວັບຢ່າງປອດໄພດ້ວຍ Google Egon</translation>
+<translation id="2089566709556890888">ທ່ອງເວັບຢ່າງປອດໄພດ້ວຍ Egon Browser</translation>
 <translation id="2089795179672254991">ຖາມເມື່ອເວັບໄຊຕ້ອງການເຫັນຂໍ້ຄວາມ ແລະ ຮູບພາບທີ່ສຳເນົາໄວ້ໃນຄລິບບອດ (ແນະນຳ)</translation>
 <translation id="2089925163047119068">ຫຼື</translation>
 <translation id="2090165459409185032">ເພື່ອ​ກູ້​ຂໍ້​ມູນ​ບັນ​ຊີ​ຂອງ​ທ່ານ​ຄືນ, ໃຫ້ໄປ​ທີ່: google.com/accounts/recovery</translation>
@@ -1613,7 +1613,7 @@
 <translation id="2434449159125086437">ບໍ່ສາມາດຕັ້ງຄ່າເຄື່ອງພິມໄດ້. ກະລຸນາກວດເບິ່ງການກຳນົດຄ່າ ແລ້ວລອງອີກຄັ້ງ.</translation>
 <translation id="2434758125294431199">ເລືອກວ່າໃຜສາມາດແບ່ງປັນກັບທ່ານໄດ້</translation>
 <translation id="2434915728183570229">ຕອນນີ້ທ່ານສາມາດເບິ່ງແອັບຫຼ້າສຸດຂອງໂທລະສັບທ່ານໄດ້ແລ້ວ</translation>
-<translation id="2435137177546457207">ຂໍ້ກຳນົດເພີ່ມເຕີມຂອງ Google Egon ແລະ ChromeOS Flex</translation>
+<translation id="2435137177546457207">ຂໍ້ກຳນົດເພີ່ມເຕີມຂອງ Egon Browser ແລະ ChromeOS Flex</translation>
 <translation id="2435248616906486374">ຕັດເຊື່ອມຕໍ່ເຄືອຂ່າຍແລ້ວ</translation>
 <translation id="2435457462613246316">ສະ​ແດງ​ລະ​ຫັດ​ຜ່ານ</translation>
 <translation id="2439626940657133600">ກຳລັງໂຫຼດ <ph name="WINDOW_TITLE" /></translation>
@@ -3066,7 +3066,7 @@
 <translation id="3798632811625902122">ອຸປະກອນ Bluetooth <ph name="DEVICE" /> ຕ້ອງການການອະນຸຍາດເພື່ອຈັບຄູ່.</translation>
 <translation id="3799128412641261490">ການຕັ້ງຄ່າການເຂົ້າເຖິງດ້ວຍປຸ່ມກົດ</translation>
 <translation id="3800806661949714323">ສະແດງທັງໝົດ (ແນະນໍາ)</translation>
-<translation id="3800828618615365228">ຂໍ້ກຳນົດເພີ່ມເຕີມຂອງ Google Egon ແລະ ChromeOS</translation>
+<translation id="3800828618615365228">ຂໍ້ກຳນົດເພີ່ມເຕີມຂອງ Egon Browser ແລະ ChromeOS</translation>
 <translation id="3802486193901166966">ສ່ວນຂະຫຍາຍນີ້ບໍ່ຈຳເປັນຕ້ອງໃຊ້ການອະນຸຍາດພິເສດ ແລະ ບໍ່ມີສິດເຂົ້າເຖິງເວັບໄຊເພີ່ມເຕີມ</translation>
 <translation id="380329542618494757">ຊື່</translation>
 <translation id="3803345858388753269">ຄຸນ​ນະ​ພາບວິ​ດີ​ໂອ​</translation>
@@ -3082,7 +3082,7 @@
 <translation id="3810973564298564668">ຈັດການ</translation>
 <translation id="381202950560906753">ເພີ່ມອັນອື່ນ</translation>
 <translation id="3812525830114410218">ໃບ​ຢັ້ງ​ຢືນ​​ບໍ່​ດີ</translation>
-<translation id="3813296892522778813">ໄປຫາ <ph name="BEGIN_LINK_CHROMIUM" />ຄວາມຊ່ວຍເຫຼືອ Google Egon<ph name="END_LINK_CHROMIUM" /> ຖ້າທ່ານບໍ່ສາມາດຊອກເຫັນສິ່ງທີ່ທ່ານກຳລັງຊອກຫາ</translation>
+<translation id="3813296892522778813">ໄປຫາ <ph name="BEGIN_LINK_CHROMIUM" />ຄວາມຊ່ວຍເຫຼືອ Egon Browser<ph name="END_LINK_CHROMIUM" /> ຖ້າທ່ານບໍ່ສາມາດຊອກເຫັນສິ່ງທີ່ທ່ານກຳລັງຊອກຫາ</translation>
 <translation id="3813358687923336574">ພາສາທີ່ໃຊ້ສຳລັບການແປພາສາໜ້າ ແລະ ຄຳຕອບດ່ວນ</translation>
 <translation id="3814529970604306954">ບັນຊີໂຮງຮຽນ</translation>
 <translation id="3816118180265633665">ສີຂອງ Egon</translation>
@@ -3438,7 +3438,7 @@
 <translation id="4132364317545104286">ປ່ຽນຊື່ໂປຣໄຟລ໌ eSIM</translation>
 <translation id="4133076602192971179">ເປີດແອັບເພື່ອປ່ຽນລະຫັດຜ່ານຂອງທ່ານ</translation>
 <translation id="4134818201340504801">ມີບ່ອນຈັດເກັບຂໍ້ມູນບໍ່ພຽງພໍໃຫ້ຕັ້ງຄ່າໃຫ້ສຳເລັດໄດ້. ກະລຸນາສ້າງພື້ນທີ່ຫວ່າງແລ້ວລອງໃໝ່</translation>
-<translation id="4135746311382563554">ຂໍ້ກຳນົດບໍລິການ Google Egon ແລະ ChromeOS ເພີ່ມເຕີມ</translation>
+<translation id="4135746311382563554">ຂໍ້ກຳນົດບໍລິການ Egon Browser ແລະ ChromeOS ເພີ່ມເຕີມ</translation>
 <translation id="4136203100490971508">ແສງກາງຄືນຈະປິດໂດຍອັດຕະໂນມັດເມື່ອຕາເວັນຂຶ້ນ</translation>
 <translation id="41365691917097717">ການສືບຕໍ່ຈະເປີດນຳໃຊ້ການດີບັກ ADB ສຳລັບການສ້າງ ແລະ ທົດສອບແອັບ Android. ກະລຸນາຮັບຊາບວ່າການດຳເນີນການນີ້ອະນຸຍາດການຕິດຕັ້ງແອັບ Android ທີ່ບໍ່ໄດ້ຜ່ານການກວດຢັ້ງຢືນຈາກ Google ແລະ ຈຳເປັນຕ້ອງຣີເຊັດເປັນຄ່າໂຮງງານເພື່ອປິດນຳໃຊ້.</translation>
 <translation id="4138267921960073861">ສະແດງຊື່ຜູ້ໃຊ້ ແລະຮຸບຢູ່ໃນໜ້າຈໍລົງຊື່ເຂົ້າໃຊ້</translation>
@@ -3858,7 +3858,7 @@
 <translation id="4544174279960331769">ຮູບແທນຕົວສີຟ້າຕາມຄ່າເລີ່ມຕົ້ນ</translation>
 <translation id="4545028762441890696">ເພື່ອເປີດນຳໃຊ້ມັນ, ກະລຸນາຍອມຮັບການອະນຸຍາດໃໝ່:</translation>
 <translation id="4545759655004063573">ບໍ່ສາມາດບັນທຶກໄດ້ ເນື່ອງຈາກການອະນຸຍາດບໍ່ພຽງພໍ. ກະລຸນາບັນທຶກໄປໃສ່ທີ່ຕັ້ງອື່ນ.</translation>
-<translation id="4546308221697447294">ທ່ອງເວັບໄດ້ໄວດ້ວຍ Google Egon</translation>
+<translation id="4546308221697447294">ທ່ອງເວັບໄດ້ໄວດ້ວຍ Egon Browser</translation>
 <translation id="4546345569117159016">ປຸ່ມຂວາ</translation>
 <translation id="4546692474302123343">ການປ້ອນຂໍ້ມູນດ້ວຍສຽງໃນຜູ້ຊ່ວຍ Google</translation>
 <translation id="4547659257713117923">ບໍ່ມີແທັບຈາກອຸປະກອນອື່ນ</translation>
@@ -5916,7 +5916,7 @@
 <translation id="6509207748479174212">ໃບອະນຸຍາດສື່</translation>
 <translation id="6511827214781912955">ພິຈາລະນາລຶບ <ph name="FILENAME" />, ເພື່ອບໍ່ໃຫ້ຜູ້ອື່ນທີ່ໃຊ້ອຸປະກອນນີ້ເຫັນລະຫັດຜ່ານຂອງທ່ານ</translation>
 <translation id="6512808201725371249">ລະຫັດຜ່ານສຳລັບບັນຊີນີ້ແມ່ນຖືກບັນທຶກໄປໃສ່ຕົວຈັດການລະຫັດຜ່ານ Google (<ph name="USER_EMAIL" />) ຂອງທ່ານໄປກ່ອນແລ້ວ</translation>
-<translation id="6513247462497316522">Google Egon ຈະໃຊ້ຂໍ້ມູນມືຖື ຖ້າທ່ານບໍ່ເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍອື່ນ.</translation>
+<translation id="6513247462497316522">Egon Browser ຈະໃຊ້ຂໍ້ມູນມືຖື ຖ້າທ່ານບໍ່ເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍອື່ນ.</translation>
 <translation id="6514010653036109809">ອຸປະກອນທີ່ພ້ອມນຳໃຊ້:</translation>
 <translation id="6514565641373682518">ຫນ້າ​ນີ້​ປິດໃຊ້ງານເຄີເຊີເມົາສ໌ຂອງ​ທ່ານແລ້ວ​.</translation>
 <translation id="6517709704288360414">ອຸປະກອນຂອງທ່ານອາດບໍ່ເຮັດວຽກໄດ້ຕາມປົກກະຕິອີກຕໍ່ໄປ ແລະ ທ່ານອາດພົບບັນຫາຄວາມປອດໄພ ແລະ ປະສິດທິພາບ. ການປິດອັບເດດອາດກະທົບກັບສິດທິຂອງທ່ານໃນການອ້າງສິດທາງກົດໝາຍນຳຫາກທ່ານປະສົບບັນຫາໃດກໍຕາມ.</translation>
@@ -8099,7 +8099,7 @@
 <translation id="8554899698005018844">ບໍ່ມີພາສາ</translation>
 <translation id="855604308879080518">ໃຫ້ແອັບ Android ເຂົ້າເຖິງອຸປະກອນ USB ຢູ່ Chromebook ນີ້ໄດ້. ຈະມີການຮ້ອງຂໍການອະນຸຍາດໃນແຕ່ລະເທື່ອທີ່ທ່ານສຽບອຸປະກອນ USB. ແອັບ Android ແຕ່ລະອັນຈະຂໍການອະນຸຍາດເພີ່ມເຕີມ.</translation>
 <translation id="8557022314818157177">ສືບຕໍ່ແຕະກະແຈຄວາມປອດໄພຈົນກວ່າວ່າໄດ້ບັນທຶກລາຍນິ້ວມືຂອງທ່ານໄວ້ແລ້ວ</translation>
-<translation id="8557180006508471423">ເປີດໃຊ້ "Google Egon" ໃນບໍລິການສະຖານທີ່ຢູ່ Mac ຂອງທ່ານ</translation>
+<translation id="8557180006508471423">ເປີດໃຊ້ "Egon Browser" ໃນບໍລິການສະຖານທີ່ຢູ່ Mac ຂອງທ່ານ</translation>
 <translation id="8557856025359704738">ການດາວໂຫຼດຕໍ່ໄປແມ່ນ <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">ກະແຈຜ່ານ</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{ເປີດທັງໝົດໃນ&amp;ໜ້າຈໍໃໝ່}=1{ເປີດໃນ&amp;ໜ້າຈໍໃໝ່}other{ເປີດທັງໝົດ ({COUNT}) ໃນ&amp;ໜ້າຈໍໃໝ່}}</translation>

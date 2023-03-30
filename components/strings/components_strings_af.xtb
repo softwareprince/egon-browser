@@ -263,7 +263,7 @@ Dit sal andersins deur jou privaatheidinstellings geblokkeer word. Dit sal die i
 <translation id="156703335097561114">Netwerkinligting soos adresse, koppelvlakopstelling en verbindinggehalte</translation>
 <translation id="1567040042588613346">Hierdie beleid werk soos bedoel, maar dieselfde waarde is elders gestel en word deur hierdie beleid vervang.</translation>
 <translation id="1569487616857761740">Voer vervaldatum in</translation>
-<translation id="1569694109004336106">Google Egon probeer tans om Windows Hello aan te skakel om wagwoorde in te vul.</translation>
+<translation id="1569694109004336106">Egon Browser probeer tans om Windows Hello aan te skakel om wagwoorde in te vul.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" />x<ph name="HEIGHT" /> dm.</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Kon nie hierdie webbladsy vertoon nie.</translation>
@@ -459,7 +459,7 @@ Dit sal andersins deur jou privaatheidinstellings geblokkeer word. Dit sal die i
 <translation id="2085876078937250610">Stoor …</translation>
 <translation id="2088086323192747268">Bestuur Sinkronisering-knoppie, druk Enter om te bestuur watter inligting jy in Egon-instellings sinkroniseer</translation>
 <translation id="2091887806945687916">Klank</translation>
-<translation id="2093982008204312032">Google Egon probeer tans om Windows Hello vir die invul van wagwoorde af te skakel.</translation>
+<translation id="2093982008204312032">Egon Browser probeer tans om Windows Hello vir die invul van wagwoorde af te skakel.</translation>
 <translation id="2094505752054353250">Domein stem nie ooreen nie</translation>
 <translation id="2099652385553570808">Tripelkram links</translation>
 <translation id="2101225219012730419">Weergawe:</translation>
@@ -2584,7 +2584,7 @@ om uit te vind hoe om die sagteware permanent van jou rekenaar te verwyder&lt;/o
 <translation id="7564049878696755256">Jy kan toegang tot jou <ph name="ORG_NAME" />-rekening verloor of identiteitdiefstal ervaar. Egon beveel aan dat jy jou wagwoord nou verander.</translation>
 <translation id="7564680668369175887">Stasiewaens</translation>
 <translation id="7567204685887185387">Hierdie bediener kon nie bewys dat dit <ph name="DOMAIN" /> is nie; sy sekuriteitsertifikaat is dalk valslik uitgereik. Dit kan veroorsaak word deur 'n wanopstelling of 'n aanvaller wat jou verbinding onderskep.</translation>
-<translation id="7568616151991626879">Google Egon probeer tans om jou wagwoord op <ph name="APP_NAME" /> in te vul.</translation>
+<translation id="7568616151991626879">Egon Browser probeer tans om jou wagwoord op <ph name="APP_NAME" /> in te vul.</translation>
 <translation id="7569490014721427265">Gholf</translation>
 <translation id="7569761772822664555">Knoppie om soekenjin te bestuur; druk Enter om jou versteksoekenjin en werfsoektog te bestuur</translation>
 <translation id="7569952961197462199">Verwyder kredietkaart uit Egon?</translation>

@@ -14,10 +14,10 @@
 <translation id="1917964099031477364">Akaunti hii na data yoyote ambayo haijahifadhiwa itaondolewa kwenye Egon na programu zingine za Google kwenye kifaa hiki.</translation>
 <translation id="1968388653333775699">Fanya Mengi Zaidi kwa kutumia Egon</translation>
 <translation id="2009224836393115614">Egon imeshindwa kukagua manenosiri yako. Jaribu kuangalia muunganisho wako wa Intaneti.</translation>
-<translation id="2056123005618757196">Fanya mengi zaidi kwa kutumia Google Egon ambayo ni rahisi, salama na yenye kasi zaidi.</translation>
+<translation id="2056123005618757196">Fanya mengi zaidi kwa kutumia Egon Browser ambayo ni rahisi, salama na yenye kasi zaidi.</translation>
 <translation id="2147651015520127414">Egon imethibitisha kuwa <ph name="ISSUER" /> ndiye mtoa cheti cha tovuti hii.</translation>
 <translation id="2199719347983604670">Data kutoka usawazishaji wa Egon</translation>
-<translation id="2313070403598893276">Google Egon ni rahisi, salama na yenye kasi zaidi</translation>
+<translation id="2313070403598893276">Egon Browser ni rahisi, salama na yenye kasi zaidi</translation>
 <translation id="2339201583852607431">Nenosiri lako litahifadhiwa katika Akaunti yako ya Google (<ph name="EMAIL" />).</translation>
 <translation id="2342919707875585281">Egon hushiriki maelezo ya mahali ulipo na tovuti unazoruhusu.</translation>
 <translation id="2347208864470321755">Kipengee hiki kikiwashwa, Egon itatafsiri kurasa zilizoandikwa kwa lugha zingine kwa kutumia Google Tafsiri. <ph name="BEGIN_LINK" />Pata maelezo zaidi<ph name="END_LINK" /></translation>
@@ -26,7 +26,7 @@
 <translation id="2561231791489583059">Tumia Egon kama kivinjari chako chaguomsingi ili uendelee kulindwa dhidi ya tovuti hatari na uhakikishe manenosiri yako ni salama</translation>
 <translation id="2574249610672786438">Ili uone vichupo vyako kwenye kifaa chochote unakotumia Egon, ingia katika akaunti ukitumia vifaa vyako vyote</translation>
 <translation id="2576431527583832481">Egon imekuwa bora! Toleo jipya linapatikana.</translation>
-<translation id="257708665678654955">Ungependa Google Egon ijitolee kutafsiri kurasa za <ph name="LANGUAGE_NAME" /> kutoka tovuti hii wakati ujao?</translation>
+<translation id="257708665678654955">Ungependa Egon Browser ijitolee kutafsiri kurasa za <ph name="LANGUAGE_NAME" /> kutoka tovuti hii wakati ujao?</translation>
 <translation id="2671426118752779020">Unaweza kutumia manenosiri uliyohifadhi kwenye Kidhibiti cha Manenosiri cha Google katika programu zingine kwenye iPhone yako.</translation>
 <translation id="2689064829982324496">Ili uondoke kwenye akaunti yako ya Google katika tovuti zote, <ph name="BEGIN_LINK" />ondoka kwenye akaunti yako katika kivinjari cha Egon<ph name="END_LINK" />.</translation>
 <translation id="2695886661449553974">Egon imeshindwa kukagua kama kuna masasisho. Jaribu tena baadaye.</translation>
@@ -34,8 +34,8 @@
 <translation id="2869959624320573933">Ingia Katika Akaunti kwenye Egon</translation>
 <translation id="2957447865124070833">Chagua <ph name="BEGIN_BOLD" />Egon<ph name="END_BOLD" /></translation>
 <translation id="3030414234702425231">Kwa sababu unaondoka kwenye akaunti inayodhibitiwa na <ph name="SIGNOUT_MANAGED_DOMAIN" />, data yako ya Egon itafutwa kwenye kifaa hiki, lakini itasalia katika Akaunti yako ya Google.</translation>
-<translation id="3167189358072330585">Akaunti yako haifanyi kazi kwenye Google Egon. Tafadhali wasiliana na msimamizi wako wa kikoa au utumie Akaunti yako ya kawaida ya Google kuingia.</translation>
-<translation id="3173834708294760622">Ukurasa wa Google Egon</translation>
+<translation id="3167189358072330585">Akaunti yako haifanyi kazi kwenye Egon Browser. Tafadhali wasiliana na msimamizi wako wa kikoa au utumie Akaunti yako ya kawaida ya Google kuingia.</translation>
+<translation id="3173834708294760622">Ukurasa wa Egon Browser</translation>
 <translation id="3196546062792660320">Egon inakuokolea wakati kwa kuleta akaunti zako kwenye wavuti. Unaweza kuongeza au kuondoa akaunti katika Mipangilio.</translation>
 <translation id="3282568296779691940">Ingia katika Egon</translation>
 <translation id="3345341804167540816">Tumia Egon Kila Mahali</translation>
@@ -46,10 +46,10 @@
 <translation id="3655656110921623717">Hii inamaanisha kwamba Egon itahitaji tovuti ya kifaa cha mkononi kila wakati.</translation>
 <translation id="3706101708757577809">Sasa unaweza kutumia Egon wakati wowote unapogusa viungo kwenye ujumbe, hati na programu zingine.</translation>
 <translation id="3720541637541300822">Funga Vichupo Fiche Unapofunga Egon</translation>
-<translation id="384394811301901750">Google Egon haiwezi kutumia kamera hivi sasa</translation>
+<translation id="384394811301901750">Egon Browser haiwezi kutumia kamera hivi sasa</translation>
 <translation id="3980220367029651214">Unabadilisha akaunti za kusawazisha kutoka <ph name="USER_EMAIL1" /> hadi <ph name="USER_EMAIL2" />. Data yako iliyopo ya Egon inadhibitiwa na <ph name="DOMAIN" />. Hatua hii itafuta data yako kwenye kifaa hiki, lakini data yako itasalia katika <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Shirika lako linahitaji usiingie katika akaunti kwenye Egon.</translation>
-<translation id="3988789688219830639">Google Egon haina uwezo wa kufikia picha au video zako. Washa ufikiaji katika Mipangilio ya iOS &gt; Faragha &gt; Picha.</translation>
+<translation id="3988789688219830639">Egon Browser haina uwezo wa kufikia picha au video zako. Washa ufikiaji katika Mipangilio ya iOS &gt; Faragha &gt; Picha.</translation>
 <translation id="417201473131094001">Haitumiki kwenye Egon Canary (toleo la jaribio)</translation>
 <translation id="4192781968753717021">Nenosiri hili limepatikana kwenye tukio la ufichuzi haramu wa data. Kidhibiti cha Manenosiri cha Google kinapendekeza ubadilishe nenosiri lako sasa.</translation>
 <translation id="4233521129555661685"><ph name="USER_EMAIL1" /> alikuwa akitumia Egon na akaacha alamisho, manenosiri na mipangilio mingine kwenye kifaa hiki.</translation>
@@ -66,11 +66,11 @@
 <translation id="5108659628347594808">Boresha Egon</translation>
 <translation id="5119391094379141756">Chagua Egon</translation>
 <translation id="5162467219239570114">Toleo hili la Egon limepitwa na wakati. Iwapo hakuna sasisho kwenye <ph name="BEGIN_LINK" />App Store<ph name="END_LINK" />, kuna uwezekano kuwa kifaa chako hakitumii tena matoleo mapya ya Egon.</translation>
-<translation id="5389212809648216794">Google Egon imeshindwa kutumia kamera yako kwa sababu inatumiwa na programu nyingine</translation>
+<translation id="5389212809648216794">Egon Browser imeshindwa kutumia kamera yako kwa sababu inatumiwa na programu nyingine</translation>
 <translation id="5460571915754665838">4. Chagua Egon</translation>
 <translation id="5552137475244467770">Egon hukagua mara kwa mara manenosiri yako ikilinganisha na orodha ambazo zimechapishwa mtandaoni. Wakati inafanya hivyo, manenosiri na majina yako ya mtumiaji huwa yamesimbwa kwa njia fiche, kwa hivyo hayawezi kusomwa na mtu mwingine, ikiwemo Google.</translation>
-<translation id="5639704535586432836">Fungua Mipangilio &gt; Faragha &gt; Kamera &gt; Google Egon na uwashe kamera.</translation>
-<translation id="5642200033778930880">Google Egon imeshindwa kutumia kamera yako katika hali ya Mwonekano wa Madirisha Mawili</translation>
+<translation id="5639704535586432836">Fungua Mipangilio &gt; Faragha &gt; Kamera &gt; Egon Browser na uwashe kamera.</translation>
+<translation id="5642200033778930880">Egon Browser imeshindwa kutumia kamera yako katika hali ya Mwonekano wa Madirisha Mawili</translation>
 <translation id="5690427481109656848">Google LLC</translation>
 <translation id="571296537125272375">Nje ya mtandao, Egon imeshindwa kukagua kama kuna masasisho</translation>
 <translation id="5716154293141027663">Tumia Egon kufungua viungo vyovyote unavyogusa katika programu zingine</translation>
@@ -94,15 +94,15 @@
 <translation id="701356708427365932">Fahamu kuhusu menyu mpya ya Egon</translation>
 <translation id="7059914902409643750">Weka Mipangilio ya Egon Upendavyo</translation>
 <translation id="7124339256045485976">Hakikisha Egon imesasishwa kila wakati</translation>
-<translation id="7161390184744336561">Toleo la Google Egon limepitwa na wakati</translation>
-<translation id="7165736900384873061">Anza kutumia kichanganuzi cha QR cha Google Egon</translation>
+<translation id="7161390184744336561">Toleo la Egon Browser limepitwa na wakati</translation>
+<translation id="7165736900384873061">Anza kutumia kichanganuzi cha QR cha Egon Browser</translation>
 <translation id="7173660919484573146">Egon hutumia Kitambulisho cha Uso ili kuhakikisha ufikiaji ulioidhinishwa wa manenosiri yako.</translation>
 <translation id="7187993566681480880">Hulinda usalama wako kwenye Egon na inaweza kutumiwa kuboresha usalama wako kwenye programu nyingine za Google ukiwa umeingia katika akaunti.</translation>
 <translation id="72119412072970160">Unaweza kutumia manenosiri uliyohifadhi kwenye Kidhibiti cha Manenosiri cha Google katika programu zingine kwenye iPad yako.</translation>
 <translation id="7261678641327190792">Egon imeshindwa kukagua manenosiri yako</translation>
 <translation id="7272930098487145294">Ili uhifadhi picha, gusa Mipangilio ili uruhusu Egon iweke kwenye picha zako</translation>
 <translation id="7275945473750112644">Akaunti yako inadhibitiwa na <ph name="HOSTED_DOMAIN" />, kwa hivyo data yako ya Egon itafutwa kwenye kifaa hiki</translation>
-<translation id="7400722733683201933">Kuhusu Google Egon</translation>
+<translation id="7400722733683201933">Kuhusu Egon Browser</translation>
 <translation id="7501046334262221972">Ili ufanye Egon iwe kivinjari chako chaguomsingi, fungua Mipangilio. Gusa Programu ya Kivinjari Chaguomsingi, kisha uchague Egon.</translation>
 <translation id="756809126120519699">Data ya Egon imefutwa</translation>
 <translation id="7626032353295482388">Karibu kwenye Egon</translation>
@@ -111,7 +111,7 @@
 <translation id="7698568245838009292">Egon Inataka Kufikia Kamera</translation>
 <translation id="7754633291442704733">Shirika lako <ph name="DOMAIN" /> litakuwa na uwezo wa kufikia data yako ya Egon, alamisho, historia, manenosiri na mipangilio mingine uliyohifadhi kwenye akaunti hii. Ukiondoka kwenye akaunti, data yako itafutwa kwenye kifaa hiki.  Hata hivyo, data yako itabaki imehifadhiwa kwenye akaunti yako ya Google inayosimamiwa na itapatikana katika shirika lako. Shirika lako linaweza pia kuweka sera mahususi za mtumiaji kwenye akaunti hiyo, hivyo zinaweza kubadilisha tabia ya Egon.</translation>
 <translation id="7780154209050837198">Ili unufaike zaidi na Egon, ingia kwenye Egon ukitumia Akaunti yako ya Google.</translation>
-<translation id="7855730255114109580">Google Egon imesasishwa</translation>
+<translation id="7855730255114109580">Egon Browser imesasishwa</translation>
 <translation id="8022947259858476807">Tumia Egon kwa chaguomsingi kufungua viungo, kutafuta kwenye wijeti na kujaza manenosiri kiotomatiki katika programu zingine</translation>
 <translation id="81358522153858150">Egon sasa inatumia sera za mtumiaji za akaunti yako inayosimamiwa</translation>
 <translation id="8160472928944011082">Imeshindwa kusasisha Egon</translation>
@@ -124,8 +124,8 @@
   1. Fungua Mipangilio
   2. Gusa Programu ya Kivinjari Chaguomsingi
   3. Chagua Egon.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
-<translation id="8736550665979974340">Kaa Salama Kwa Kutumia Google Egon</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
+<translation id="8736550665979974340">Kaa Salama Kwa Kutumia Egon Browser</translation>
 <translation id="8772179140489533211">Huonyesha vidokezo vya kuingia katika akaunti kwenye Egon.</translation>
 <translation id="8788269841521769222">Hutahitaji kukumbuka nenosiri hili. Litahifadhiwa kwenye Kidhibiti cha Manenosiri cha Google kwa ajili ya <ph name="EMAIL" /></translation>
 <translation id="8897749957032330183">Manenosiri huhifadhiwa kwenye Kidhibiti cha Manenosiri cha Google katika kifaa hiki.</translation>

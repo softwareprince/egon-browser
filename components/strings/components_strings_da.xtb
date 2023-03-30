@@ -263,7 +263,7 @@ Ellers vil det blive blokeret af dine privatlivsindstillinger. Det giver det ind
 <translation id="156703335097561114">Netværksoplysninger som f.eks. adresser, grænsefladekonfiguration og forbindelseskvalitet</translation>
 <translation id="1567040042588613346">Denne politik fungerer efter hensigten, men et andet sted er den samme værdi blevet tilsidesat af denne politik.</translation>
 <translation id="1569487616857761740">Angiv udløbsdato</translation>
-<translation id="1569694109004336106">Google Egon forsøger at aktivere Windows Hello for at udfylde adgangskoder.</translation>
+<translation id="1569694109004336106">Egon Browser forsøger at aktivere Windows Hello for at udfylde adgangskoder.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> tommer</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Noget gik galt ved visningen af denne webside.</translation>
@@ -459,7 +459,7 @@ Ellers vil det blive blokeret af dine privatlivsindstillinger. Det giver det ind
 <translation id="2085876078937250610">Gem…</translation>
 <translation id="2088086323192747268">Knappen Administrer synkronisering – tryk på Enter for at administrere, hvilke oplysninger der skal synkroniseres, i Egon-indstillingerne</translation>
 <translation id="2091887806945687916">Lyd</translation>
-<translation id="2093982008204312032">Google Egon forsøger at deaktivere udfyldning af adgangskoder via Windows Hello.</translation>
+<translation id="2093982008204312032">Egon Browser forsøger at deaktivere udfyldning af adgangskoder via Windows Hello.</translation>
 <translation id="2094505752054353250">Uoverensstemmelse mellem domæner</translation>
 <translation id="2099652385553570808">Trehæftning i venstre side</translation>
 <translation id="2101225219012730419">Version:</translation>
@@ -2584,7 +2584,7 @@ Yderligere oplysninger:
 <translation id="7564049878696755256">Du kan miste adgangen til din <ph name="ORG_NAME" />-konto eller udsættes for identitetstyveri. Egon anbefaler, at du skifter din adgangskode nu.</translation>
 <translation id="7564680668369175887">Stationwagons</translation>
 <translation id="7567204685887185387">Denne server kunne ikke bevise, at den er <ph name="DOMAIN" />, da sikkerhedscertifikatet er udstedt på ulovlig vis. Dette kan skyldes en fejlkonfiguration, eller at en hacker har opfanget din forbindelse.</translation>
-<translation id="7568616151991626879">Google Egon forsøger at udfylde din adgangskode i <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Egon Browser forsøger at udfylde din adgangskode i <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Knappen Administrer søgemaskiner, tryk på Enter for at administrere din standardsøgemaskine og websitesøgning</translation>
 <translation id="7569952961197462199">Vil du fjerne kreditkortet fra Egon?</translation>

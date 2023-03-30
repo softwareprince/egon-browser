@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Ištrinti esamus duomenis.</translation>
 <translation id="1146678959555564648">Įgalinti VR</translation>
 <translation id="1149401351239820326">Galiojimo laiko pabaigos mėnuo</translation>
-<translation id="1150263420752757504">„<ph name="APP_NAME" />“ bus atidaryta naršyklėje „Egon“. Tęsdami sutinkate su <ph name="BEGIN_LINK1" />„Google“ paslaugų teikimo sąlygomis<ph name="END_LINK1" /> ir <ph name="BEGIN_LINK2" />„Google Egon“ bei „Egon“ OS papildomomis paslaugų teikimo sąlygomis<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504">„<ph name="APP_NAME" />“ bus atidaryta naršyklėje „Egon“. Tęsdami sutinkate su <ph name="BEGIN_LINK1" />„Google“ paslaugų teikimo sąlygomis<ph name="END_LINK1" /> ir <ph name="BEGIN_LINK2" />„Egon Browser“ bei „Egon“ OS papildomomis paslaugų teikimo sąlygomis<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Puslapis nepasiekiamas neprisijungus: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Žr. populiarias svetaines palietę mygtuką „Populiariausios svetainės“</translation>
 <translation id="1173894706177603556">Pervadinti</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Skelbimų vertinimas leidžia svetainėms, kuriose lankotės, prašyti „Egon“ informacijos, padedančios įvertinti savo skelbimų našumą. Skelbimų vertinimas apriboja veiklos skirtingose svetainėse stebėjimą tarp svetainių perduodant kaip įmanoma mažiau informacijos.
 
 Ištrindami naršymo istoriją (visą ar konkrečios svetainės) taip pat galite ištrinti susijusią vertinimo informaciją. Žr. <ph name="BEGIN_LINK" />naršymo istoriją<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">„Google Egon“ funkcijų spartieji klavišai</translation>
+<translation id="1332501820983677155">„Egon Browser“ funkcijų spartieji klavišai</translation>
 <translation id="1344653310988386453">Įtraukite nuorodą į paryškintą tekstą</translation>
 <translation id="1347468774581902829">Tvarkyti veiklą</translation>
 <translation id="1360432990279830238">Atsijungti ir išjungti sinchronizavimą?</translation>
@@ -213,7 +213,7 @@ Ištrindami naršymo istoriją (visą ar konkrečios svetainės) taip pat galite
 <translation id="2122601567107267586">Nepavyko atidaryti programos</translation>
 <translation id="2132122640199389833">Pašalinti visus susietus įrenginius</translation>
 <translation id="213279576345780926">„<ph name="TAB_TITLE" />“ uždaryta</translation>
-<translation id="2134927169889348449">Naudodami „Egon“ sutinkate su <ph name="BEGIN_TOS_LINK" />„Google“ paslaugų teikimo sąlygomis<ph name="END_TOS_LINK" /> ir <ph name="BEGIN_ATOS_LINK" />„Google Egon“ bei „Egon“ OS papildomomis paslaugų teikimo sąlygomis<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Naudodami „Egon“ sutinkate su <ph name="BEGIN_TOS_LINK" />„Google“ paslaugų teikimo sąlygomis<ph name="END_TOS_LINK" /> ir <ph name="BEGIN_ATOS_LINK" />„Egon Browser“ bei „Egon“ OS papildomomis paslaugų teikimo sąlygomis<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Pridėti prie pagr. ekrano</translation>
 <translation id="2141396931810938595">Pagal jūsų naudojimą</translation>
 <translation id="214888715418183969">Pasirinkite, ką norėtumėte bendrinti su „Egon“. Jūsų bendrinama metrika bus naudojama „Egon“ funkcijoms, našumui ir stabilumui tobulinti.</translation>
@@ -391,7 +391,7 @@ Ištrindami naršymo istoriją (visą ar konkrečios svetainės) taip pat galite
 <translation id="3062802207422175757">Su jūsų pomėgiais susiję straipsniai naršyklėje „Egon“</translation>
 <translation id="3066573403916685335">Perkelti žemyn</translation>
 <translation id="3070005020161560471">Versti automatiškai</translation>
-<translation id="3072980200212375806">„<ph name="APP_NAME" />“ bus atidaryta naršyklėje „Egon“. Tęsdami sutinkate su <ph name="BEGIN_LINK1" />„Google“ paslaugų teikimo sąlygomis<ph name="END_LINK1" /> ir <ph name="BEGIN_LINK2" />„Google Egon“ bei „Egon“ OS papildomomis paslaugų teikimo sąlygomis<ph name="END_LINK2" />. Taip pat taikoma <ph name="BEGIN_LINK3" />privatumo politika<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806">„<ph name="APP_NAME" />“ bus atidaryta naršyklėje „Egon“. Tęsdami sutinkate su <ph name="BEGIN_LINK1" />„Google“ paslaugų teikimo sąlygomis<ph name="END_LINK1" /> ir <ph name="BEGIN_LINK2" />„Egon Browser“ bei „Egon“ OS papildomomis paslaugų teikimo sąlygomis<ph name="END_LINK2" />. Taip pat taikoma <ph name="BEGIN_LINK3" />privatumo politika<ph name="END_LINK3" />.</translation>
 <translation id="3091010850649238832">Rodyti iškarpinės turinį</translation>
 <translation id="3098745985164956033">Vaizdai siunčiami „Google“ norint patobulinti jums teikiamus aprašus</translation>
 <translation id="3114507951000454849">Skaitykite šiandienos naujienas <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Ištrindami naršymo istoriją (visą ar konkrečios svetainės) taip pat galite
 <translation id="321773570071367578">Jei pamiršote slaptafrazę arba norite pakeisti šį nustatymą, <ph name="BEGIN_LINK" />iš naujo nustatykite sinchronizavimą<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Jei norite sinchronizuoti slaptažodžius, patvirtinkite savo tapatybę</translation>
 <translation id="3223522355830797639">Bankas nori, kad patvirtintumėte savo tapatybę.</translation>
-<translation id="3227557059438308877">„Google Egon“ kaip saugos raktas</translation>
+<translation id="3227557059438308877">„Egon Browser“ kaip saugos raktas</translation>
 <translation id="3232754137068452469">Žiniatinklio programa</translation>
 <translation id="3234978181857588512">Išsaugoti įrenginyje</translation>
 <translation id="3236059992281584593">Liko 1 min.</translation>
@@ -596,7 +596,7 @@ Ištrindami naršymo istoriją (visą ar konkrečios svetainės) taip pat galite
 <translation id="4269820728363426813">Kopijuoti nuorodos adresą</translation>
 <translation id="4283102315569707115">Pateikti svetainių kompiuteriams užklausą pagal numatytuosius nustatymus?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Įjungti ekrano užraktą „Android“ nustatymuose<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Naudodami „Egon“ sutinkate su <ph name="BEGIN_TOS_LINK" />„Google“ paslaugų teikimo sąlygomis<ph name="END_TOS_LINK" /> ir <ph name="BEGIN_ATOS_LINK" />„Google Egon“ bei „Egon“ OS papildomomis paslaugų teikimo sąlygomis<ph name="END_ATOS_LINK" />. Taip pat taikoma <ph name="BEGIN_PRIVACY_LINK" />privatumo politika<ph name="END_PRIVACY_LINK" />.</translation>
+<translation id="4293476595220860475">Naudodami „Egon“ sutinkate su <ph name="BEGIN_TOS_LINK" />„Google“ paslaugų teikimo sąlygomis<ph name="END_TOS_LINK" /> ir <ph name="BEGIN_ATOS_LINK" />„Egon Browser“ bei „Egon“ OS papildomomis paslaugų teikimo sąlygomis<ph name="END_ATOS_LINK" />. Taip pat taikoma <ph name="BEGIN_PRIVACY_LINK" />privatumo politika<ph name="END_PRIVACY_LINK" />.</translation>
 <translation id="4296252229500326964">Naujas inkognito skirtukas</translation>
 <translation id="4298388696830689168">Susietos svetainės</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@ Patikimi prieigos raktai pagerina privatumą žiniatinklyje ir negali būti naud
 <translation id="9219582468404818260">Padėkite mums kurti geresnį žiniatinklį</translation>
 <translation id="92381315203627188">Kai svetainė paprašo privačiai iš anksto įkelti nuorodas savo puslapyje, „Egon“ šifruoja ir iš anksto įkelia puslapius per „Google“ serverius be slapukų. Taip slepiama jūsų tapatybė nuo iš anksto įkeltos svetainės.</translation>
 <translation id="926205370408745186">„Egon“ veiklos pašalinimas iš Skaitmeninės gerovės</translation>
-<translation id="927968626442779827">Naudokite supaprastintą režimą naršyklėje „Google Egon“</translation>
+<translation id="927968626442779827">Naudokite supaprastintą režimą naršyklėje „Egon Browser“</translation>
 <translation id="928550791203542716">Stebima „<ph name="SITE_NAME" />“</translation>
 <translation id="932327136139879170">Kontaktinė namų informacija</translation>
 <translation id="938850635132480979">Klaida: <ph name="ERROR_CODE" /></translation>

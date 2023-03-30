@@ -416,7 +416,7 @@
 
       Ako se pravilo ne postavi, funkcija ažuriranja <ph name="TPM_FIRMWARE_UPDATE_TPM" /> opreme neće biti dostupna.</translation>
 <translation id="1708496595873025510">Postavljanje ograničenja za dohvaćanje vrijednosti varijacija</translation>
-<translation id="1717817358640580294">Ako pravilo nije postavljeno, a Chromeov alat za čišćenje otkrije neželjeni softver, Googleu se mogu prijaviti metapodaci o pretraživanju u skladu s pravilima postavljenim pravilom SafeBrowsingExtendedReportingEnabled. Chromeov alat za čišćenje korisniku će zatim postaviti upit želi li ukloniti neželjeni softver. Korisnik može podijeliti rezultate čišćenja s Googleom za pomoć pri budućem otkrivanju neželjenog softvera. Ti rezultati sadrže metapodatke datoteka, automatski instalirana proširenja i ključeve registra kao što je opisano u Dokumentu o privatnosti preglednika Google Egon.
+<translation id="1717817358640580294">Ako pravilo nije postavljeno, a Chromeov alat za čišćenje otkrije neželjeni softver, Googleu se mogu prijaviti metapodaci o pretraživanju u skladu s pravilima postavljenim pravilom SafeBrowsingExtendedReportingEnabled. Chromeov alat za čišćenje korisniku će zatim postaviti upit želi li ukloniti neželjeni softver. Korisnik može podijeliti rezultate čišćenja s Googleom za pomoć pri budućem otkrivanju neželjenog softvera. Ti rezultati sadrže metapodatke datoteka, automatski instalirana proširenja i ključeve registra kao što je opisano u Dokumentu o privatnosti preglednika Egon Browser.
 
       Ako se pravilo onemogući, a Chromeov alat za čišćenje otkrije neželjeni softver, Googleu se neće prijaviti metapodaci o pretraživanju, a bilo koje pravilo postavljeno pravilom SafeBrowsingExtendedReportingEnabled bit će nadjačano. Chromeov alat za čišćenje korisniku će postaviti upit želi li ukloniti neželjeni softver.  Rezultati čišćenja neće se prijaviti Googleu niti će to korisnik moći učiniti.
 
@@ -2168,7 +2168,7 @@ otvorene kartice. Zato će se neke kartice možda i dalje ponašati u skladu s p
 <translation id="5148753489738115745">Omogućuje vam da odredite dodatne parametre koji se upotrebljavaju kada <ph name="PRODUCT_FRAME_NAME" /> pokreće uslugu <ph name="PRODUCT_NAME" />.
 
           Ako se to pravilo ne postavi, upotrebljavat će se zadani naredbeni redak.</translation>
-<translation id="5152787786897382519">Egon i Google Egon imaju neke grupe međusobno ovisnih pravila koja omogućuju upravljanje značajkom. Te su skupine predstavljene sljedećim grupama pravila. S obzirom da pravila mogu imati više izvora, primjenjuju se samo vrijednosti koje potječu iz izvora pravila najvišeg prioriteta. Vrijednosti koje potječu iz izvora nižeg prioriteta u istoj grupi zanemarit će se. Redoslijed prioriteta definiran je u pravilu <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Egon i Egon Browser imaju neke grupe međusobno ovisnih pravila koja omogućuju upravljanje značajkom. Te su skupine predstavljene sljedećim grupama pravila. S obzirom da pravila mogu imati više izvora, primjenjuju se samo vrijednosti koje potječu iz izvora pravila najvišeg prioriteta. Vrijednosti koje potječu iz izvora nižeg prioriteta u istoj grupi zanemarit će se. Redoslijed prioriteta definiran je u pravilu <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5159469559091666409">Učestalost slanja mrežnih paketa za praćenje u milisekundama.
 
       Ako se to pravilo ne postavi, zadani interval iznosi 3 minute. Minimalni
@@ -3447,7 +3447,7 @@ onemogućene. Korisnici će još uvijek moći ručno omogućiti SitePerProcess.
       </translation>
 <translation id="7506269062143646163">Omogući podršku za Potpisanu HTTP razmjenu (SXG).
 
-          Ako se to pravilo ne postavi ili se omogući, Google Egon prihvaćat će web-sadržaje koji se poslužuju kao potpisane HTTP razmjene.
+          Ako se to pravilo ne postavi ili se omogući, Egon Browser prihvaćat će web-sadržaje koji se poslužuju kao potpisane HTTP razmjene.
 
           Ako se pravilo onemogući, potpisane HTTP razmjene ne mogu se učitati.</translation>
 <translation id="7511361072385293666">Ako se to pravilo postavi na "istinito" ili ako se ne postavi, dopuštena je upotreba QUIC protokola na proizvodu <ph name="PRODUCT_NAME" />.
@@ -3825,7 +3825,7 @@ onemogućene. Korisnici će još uvijek moći ručno omogućiti SitePerProcess.
       Ako pravilo nije postavljeno, proizvod <ph name="PRODUCT_OS_NAME" /> upotrijebit će ID računa e-pošte lokalnog računa uređaja kao naziv za prikaz na zaslonu prijave.
 
       Ovo se pravilo zanemaruje za redovite korisničke račune.</translation>
-<translation id="8259375588339409826">Egon i Google Egon podržavaju isti skup pravila. Napominjemo da ovaj dokument može sadržavati neobjavljena pravila (to jest, unos "podržano na" odnosi se na neobjavljene verzije proizvoda <ph name="PRODUCT_NAME" />) podložna promjeni ili uklanjanju bez prethodne najave i za koja se ne pružaju nikakva jamstva, što znači da nema jamstava ni za sigurnost ni privatnost.
+<translation id="8259375588339409826">Egon i Egon Browser podržavaju isti skup pravila. Napominjemo da ovaj dokument može sadržavati neobjavljena pravila (to jest, unos "podržano na" odnosi se na neobjavljene verzije proizvoda <ph name="PRODUCT_NAME" />) podložna promjeni ili uklanjanju bez prethodne najave i za koja se ne pružaju nikakva jamstva, što znači da nema jamstava ni za sigurnost ni privatnost.
 
 Ta su pravila namijenjena isključivo konfiguriranju instanci preglednika <ph name="PRODUCT_NAME" /> za unutarnju upotrebu u vašoj organizaciji. Upotreba tih pravila izvan vaše organizacije (na primjer u javno distribuiranom programu) smatra se zlonamjernim softverom, pa će je Google i dobavljači antivirusnih programa vjerojatno označiti kao takvu.
 

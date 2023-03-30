@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Видалити наявні дані.</translation>
 <translation id="1146678959555564648">Увійти у VR-режим</translation>
 <translation id="1149401351239820326">Місяць закінчення терміну дії</translation>
-<translation id="1150263420752757504">Додаток <ph name="APP_NAME" /> відкриється в Egon. Продовжуючи, ви приймаєте <ph name="BEGIN_LINK1" />Загальні положення та умови Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Додаткові умови використання Google Egon та ОС Egon<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504">Додаток <ph name="APP_NAME" /> відкриється в Egon. Продовжуючи, ви приймаєте <ph name="BEGIN_LINK1" />Загальні положення та умови Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Додаткові умови використання Egon Browser та ОС Egon<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Сторінка недоступна в режимі офлайн: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Натисніть кнопку "Популярні сайти", щоб переглянути їх.</translation>
 <translation id="1173894706177603556">Перейменувати</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Завдяки цій функції відвідувані вами сайти можуть запитувати в Egon інформацію, яка допомагає їм вимірювати ефективність реклами. Функція оцінки ефективності реклами обмежує міжсайтове відстеження, передаючи між сайтами мінімум даних.
 
 Коли ви видаляєте історію веб-перегляду (повністю або для певного сайту), також вилучається інформація для вимірювання ефективності. Перегляньте <ph name="BEGIN_LINK" />історію веб-перегляду<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Комбінації клавіш для функцій Google Egon</translation>
+<translation id="1332501820983677155">Комбінації клавіш для функцій Egon Browser</translation>
 <translation id="1344653310988386453">Включити посилання на виділений текст</translation>
 <translation id="1347468774581902829">Керувати діями</translation>
 <translation id="1360432990279830238">Вийти й вимкнути синхронізацію?</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">Не вдалося відкрити додаток</translation>
 <translation id="2132122640199389833">Видалити всі зв’язані пристрої</translation>
 <translation id="213279576345780926">Вкладку "<ph name="TAB_TITLE" />" закрито</translation>
-<translation id="2134927169889348449">Використовуючи Egon, ви приймаєте <ph name="BEGIN_TOS_LINK" />Загальні положення та умови Google<ph name="END_TOS_LINK" /> і <ph name="BEGIN_ATOS_LINK" />Додаткові умови використання Google Egon та ОС Egon<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Використовуючи Egon, ви приймаєте <ph name="BEGIN_TOS_LINK" />Загальні положення та умови Google<ph name="END_TOS_LINK" /> і <ph name="BEGIN_ATOS_LINK" />Додаткові умови використання Egon Browser та ОС Egon<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Додати на головний екран</translation>
 <translation id="2141396931810938595">На основі даних про використання</translation>
 <translation id="214888715418183969">Виберіть, до яких даних надати доступ веб-переглядачу Egon. Ми використовуватимемо їх, щоб покращувати функції, продуктивність і стабільність Egon.</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Статті на цікаві вам теми в Egon</translation>
 <translation id="3066573403916685335">Перемістити курсор униз</translation>
 <translation id="3070005020161560471">Мови, з яких потрібно автоматично перекладати</translation>
-<translation id="3072980200212375806">Додаток <ph name="APP_NAME" /> відкриється в Egon. Продовжуючи, ви приймаєте <ph name="BEGIN_LINK1" />Загальні положення та умови Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Додаткові умови використання Google Egon та ОС Egon<ph name="END_LINK2" />. Також застосовується <ph name="BEGIN_LINK3" />Політика конфіденційності<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806">Додаток <ph name="APP_NAME" /> відкриється в Egon. Продовжуючи, ви приймаєте <ph name="BEGIN_LINK1" />Загальні положення та умови Google<ph name="END_LINK1" /> і <ph name="BEGIN_LINK2" />Додаткові умови використання Egon Browser та ОС Egon<ph name="END_LINK2" />. Також застосовується <ph name="BEGIN_LINK3" />Політика конфіденційності<ph name="END_LINK3" />.</translation>
 <translation id="3091010850649238832">Показати вміст буфера обміну</translation>
 <translation id="3098745985164956033">Деякі зображення надсилаються на сервери Google, що дає змогу покращувати їх описи</translation>
 <translation id="3114507951000454849">Читайте сьогоднішні новини <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">Якщо ви забули парольну фразу або хочете змінити це налаштування, <ph name="BEGIN_LINK" />скиньте синхронізацію<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Щоб синхронізувати паролі, підтвердьте свою особу</translation>
 <translation id="3223522355830797639">Банку потрібне підтвердження вашої особи.</translation>
-<translation id="3227557059438308877">Google Egon як ключ безпеки</translation>
+<translation id="3227557059438308877">Egon Browser як ключ безпеки</translation>
 <translation id="3232754137068452469">Веб-додаток</translation>
 <translation id="3234978181857588512">Зберегти на пристрій</translation>
 <translation id="3236059992281584593">Залишилась 1 хв</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">Копіювати адресу посилання</translation>
 <translation id="4283102315569707115">Запитувати версію сайту для комп’ютера за умовчанням?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Увімкніть блокування екрана в налаштуваннях Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Використовуючи Egon, ви приймаєте <ph name="BEGIN_TOS_LINK" />Загальні положення та умови Google<ph name="END_TOS_LINK" /> і <ph name="BEGIN_ATOS_LINK" />Додаткові умови використання Google Egon та ОС Egon<ph name="END_ATOS_LINK" />. Також застосовується <ph name="BEGIN_PRIVACY_LINK" />Політика конфіденційності<ph name="END_PRIVACY_LINK" />.</translation>
+<translation id="4293476595220860475">Використовуючи Egon, ви приймаєте <ph name="BEGIN_TOS_LINK" />Загальні положення та умови Google<ph name="END_TOS_LINK" /> і <ph name="BEGIN_ATOS_LINK" />Додаткові умови використання Egon Browser та ОС Egon<ph name="END_ATOS_LINK" />. Також застосовується <ph name="BEGIN_PRIVACY_LINK" />Політика конфіденційності<ph name="END_PRIVACY_LINK" />.</translation>
 <translation id="4296252229500326964">Нова анонімна вкладка</translation>
 <translation id="4298388696830689168">Зв’язані сайти</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1076,7 +1076,7 @@
 <translation id="6767294960381293877">Список пристроїв, з якими можна ділитися вкладкою, відкрито на половину висоти.</translation>
 <translation id="6770042910635026163">Відвідувані вами сайти, що визначають ваші інтереси</translation>
 <translation id="6770602306803890733">Покращує захист усіх користувачів в Інтернеті</translation>
-<translation id="6785476624617658922">Додаткові умови використання Google Egon і ОС Egon</translation>
+<translation id="6785476624617658922">Додаткові умови використання Egon Browser і ОС Egon</translation>
 <translation id="6795633245022906657">Швидко відкривайте нову вкладку. Щоб змінити функцію цієї кнопки, перейдіть у налаштування.</translation>
 <translation id="6802555630140434547">Вікно буде закрито</translation>
 <translation id="6811034713472274749">Сторінка готова для перегляду</translation>
@@ -1547,7 +1547,7 @@
 <translation id="9219582468404818260">Допоможіть нам створити кращий веб-переглядач</translation>
 <translation id="92381315203627188">Коли сайт надсилає запит на приватне попереднє завантаження посилань на його сторінці, Egon шифрує та попередньо завантажує сторінки через сервери Google без файлів cookie. Таким чином вашу особу не можна визначити через попередньо завантажений сайт.</translation>
 <translation id="926205370408745186">Видалити активність у Egon із Цифрового добробуту</translation>
-<translation id="927968626442779827">Користуйтеся спрощеним режимом у Google Egon</translation>
+<translation id="927968626442779827">Користуйтеся спрощеним режимом у Egon Browser</translation>
 <translation id="928550791203542716">Ви підписалися на сайт <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Домашня сторінка</translation>
 <translation id="938850635132480979">Помилка: <ph name="ERROR_CODE" /></translation>

@@ -14,10 +14,10 @@
 <translation id="1917964099031477364">Kontu hau eta gorde gabeko datuak kendu egingo dira Egon-etik eta gailuko Google-ren beste aplikazio batzuetatik.</translation>
 <translation id="1968388653333775699">Egin gauza gehiago Egon-rekin</translation>
 <translation id="2009224836393115614">Egon-k ezin izan ditu egiaztatu pasahitzak. Egiaztatu Internetera konektatuta zaudela.</translation>
-<translation id="2056123005618757196">Egin gauza gehiago Google Egon-rekin: sinplea, segurua eta inoiz baino bizkorragoa da.</translation>
+<translation id="2056123005618757196">Egin gauza gehiago Egon Browser-rekin: sinplea, segurua eta inoiz baino bizkorragoa da.</translation>
 <translation id="2147651015520127414">Webgunearen ziurtagiria <ph name="ISSUER" /> hornitzaileak jaulki duela egiaztatu du Egon-k.</translation>
 <translation id="2199719347983604670">Egon-ren sinkronizazioaren datuak</translation>
-<translation id="2313070403598893276">Sinplea, segurua eta inoiz baino bizkorragoa da Google Egon</translation>
+<translation id="2313070403598893276">Sinplea, segurua eta inoiz baino bizkorragoa da Egon Browser</translation>
 <translation id="2339201583852607431">Pasahitza Google-ko kontuan gordeko da (<ph name="EMAIL" />).</translation>
 <translation id="2342919707875585281">Onartzen dituzun webguneekin partekatuko du kokapena Egon-k.</translation>
 <translation id="2347208864470321755">Eginbide hau aktibatzen denean, beste hizkuntzetan dauden orriak Google Translate bidez itzuli nahi dituzun galdetuko dizu Egon-k. <ph name="BEGIN_LINK" />Lortu informazio gehiago<ph name="END_LINK" /></translation>
@@ -26,7 +26,7 @@
 <translation id="2561231791489583059">Erabili Egon arakatzaile lehenetsi gisa webgune arriskutsuen aurka babestuta egoteko eta pasahitzak seguru mantentzeko</translation>
 <translation id="2574249610672786438">Egon erabiltzen duzun gailu guztietan zure fitxak eskura izateko, hasi saioa gailu guztietan</translation>
 <translation id="2576431527583832481">Egon hobetu egin dugu! Bertsio berria duzu erabilgarri.</translation>
-<translation id="257708665678654955">Webgune honetara zatozen hurrengo aldian Google Egon-k <ph name="LANGUAGE_NAME" /> hizkuntzan dauden orriak itzultzea eskaintzea nahi duzu?</translation>
+<translation id="257708665678654955">Webgune honetara zatozen hurrengo aldian Egon Browser-k <ph name="LANGUAGE_NAME" /> hizkuntzan dauden orriak itzultzea eskaintzea nahi duzu?</translation>
 <translation id="2671426118752779020">iPhone-ko beste aplikazio batzuk erabiltzen ari zinela Google-ren Pasahitz-kudeatzailea zerbitzuan gorde zenituen pasahitzak erabil ditzakezu.</translation>
 <translation id="2689064829982324496">Google-ko kontuko saioa webgune guztietan amaitzeko, <ph name="BEGIN_LINK" />amaitu Egon-ko saioa<ph name="END_LINK" />.</translation>
 <translation id="2695886661449553974">Egon-k ezin izan ditu bilatu eguneratzeak. Saiatu berriro geroago.</translation>
@@ -34,8 +34,8 @@
 <translation id="2869959624320573933">Hasi saioa Egon-n</translation>
 <translation id="2957447865124070833">Hautatu <ph name="BEGIN_BOLD" />Egon<ph name="END_BOLD" />.</translation>
 <translation id="3030414234702425231"><ph name="SIGNOUT_MANAGED_DOMAIN" /> domeinuak kudeatutako kontu baten saioa amaituko duzunez, Egon-n dituzun datuak ezabatu egingo dira gailu honetatik. Hala ere, datu horiek Google-ko kontuan egoten jarraituko dute.</translation>
-<translation id="3167189358072330585">Kontua ez dabil Google Egon-n. Jarri harremanetan domeinuaren administratzailearekin edo erabili ohiko Google-ko kontu bat saioa hasteko.</translation>
-<translation id="3173834708294760622">Google Egon-ko orri bat</translation>
+<translation id="3167189358072330585">Kontua ez dabil Egon Browser-n. Jarri harremanetan domeinuaren administratzailearekin edo erabili ohiko Google-ko kontu bat saioa hasteko.</translation>
+<translation id="3173834708294760622">Egon Browser-ko orri bat</translation>
 <translation id="3196546062792660320">Egon-rekin denbora aurrezten duzu kontuak sarera eramanda. Kontuak gehi edo ken ditzakezu Ezarpenak atalean.</translation>
 <translation id="3282568296779691940">Hasi saioa Egon-n</translation>
 <translation id="3345341804167540816">Erabili Egon edonon</translation>
@@ -46,10 +46,10 @@
 <translation id="3655656110921623717">Ondorioz, Egon-k beti eskatuko du mugikorretarako webgunea.</translation>
 <translation id="3706101708757577809">Orain, Egon erabili ahalko duzu mezuetan, dokumentuetan eta aplikazioetan estekak sakatzen dituzunean.</translation>
 <translation id="3720541637541300822">Blokeatu ezkutuko moduko fitxak Egon ixten duzunean</translation>
-<translation id="384394811301901750">Google Egon-k ezin du erabili kamera une honetan</translation>
+<translation id="384394811301901750">Egon Browser-k ezin du erabili kamera une honetan</translation>
 <translation id="3980220367029651214"><ph name="USER_EMAIL2" /> ezarri duzu sinkronizazio-kontu gisa, orain arte zenerabilen <ph name="USER_EMAIL1" /> kontuaren ordez. Lehendik dituzun Egon datuak <ph name="DOMAIN" /> domeinuak kudeatzen ditu. Horrela, datuak gailutik ezabatuko dira, baina <ph name="USER_EMAIL1" /> kontuan egoten jarraituko dute.</translation>
 <translation id="3984746313391923992">Egon-n saioa amaituta edukitzea eskatzen dizu zure erakundeak.</translation>
-<translation id="3988789688219830639">Google Egon-k ez du argazki eta bideoetarako sarbiderik. Gaitu ezazu iOS sistemako Settings &gt; Privacy &gt; Photos atalean.</translation>
+<translation id="3988789688219830639">Egon Browser-k ez du argazki eta bideoetarako sarbiderik. Gaitu ezazu iOS sistemako Settings &gt; Privacy &gt; Photos atalean.</translation>
 <translation id="417201473131094001">Ez da bateragarria Egon Canary-rekin</translation>
 <translation id="4192781968753717021">Pasahitza datuen isilpekotasunaren urratze batean aurkitu da. Google-ren Pasahitz-kudeatzailea zerbitzuak pasahitza orain aldatzea gomendatzen du.</translation>
 <translation id="4233521129555661685"><ph name="USER_EMAIL1" /> Egon-ren erabiltzailea zenez, laster-markak, pasahitzak eta beste ezarpena batzuk utzi ditu gailuan.</translation>
@@ -66,11 +66,11 @@
 <translation id="5108659628347594808">Hobetu Egon</translation>
 <translation id="5119391094379141756">Hautatu Egon.</translation>
 <translation id="5162467219239570114">Egon zaharkituta dago. Ez badago eguneratzerik <ph name="BEGIN_LINK" />App Store<ph name="END_LINK" /> dendan, baliteke gailua Egon-ren bertsio berriekin bateragarria ez izatea.</translation>
-<translation id="5389212809648216794">Google Egon-k ezin du erabili kamera, beste aplikazio bat ari delako hura erabiltzen</translation>
+<translation id="5389212809648216794">Egon Browser-k ezin du erabili kamera, beste aplikazio bat ari delako hura erabiltzen</translation>
 <translation id="5460571915754665838">4. Hautatu Egon.</translation>
 <translation id="5552137475244467770">Sarean argitaratu diren zerrendetan zure pasahitzak dauden egiaztatzen du noizean behin Egon-k. Hori egiteko, pasahitzak eta erabiltzaile-izenak enkriptatu egiten ditu, inork ezin ditzan irakurri, Google barne.</translation>
-<translation id="5639704535586432836">Ireki Ezarpenak &gt; Pribatutasuna &gt; Kamera &gt; Google Egon, eta aktibatu kamera.</translation>
-<translation id="5642200033778930880">Google Egon-k ezin du erabili kamera Ikuspegi zatitua moduan</translation>
+<translation id="5639704535586432836">Ireki Ezarpenak &gt; Pribatutasuna &gt; Kamera &gt; Egon Browser, eta aktibatu kamera.</translation>
+<translation id="5642200033778930880">Egon Browser-k ezin du erabili kamera Ikuspegi zatitua moduan</translation>
 <translation id="5690427481109656848">Google LLC</translation>
 <translation id="571296537125272375">Interneteko konexiorik gabe, Egon-k ezin ditu bilatu eguneratzeak</translation>
 <translation id="5716154293141027663">Ireki Egon beste aplikazioetako estekak sakatzen dituzunean</translation>
@@ -94,15 +94,15 @@
 <translation id="701356708427365932">Ezagutu Egon-ko menu berria</translation>
 <translation id="7059914902409643750">Pertsonalizatu Egon</translation>
 <translation id="7124339256045485976">Mantendu Egon eguneratuta</translation>
-<translation id="7161390184744336561">Google Egon zaharkituta dago</translation>
-<translation id="7165736900384873061">Hasi Google Egon QR eskanerra erabiltzen</translation>
+<translation id="7161390184744336561">Egon Browser zaharkituta dago</translation>
+<translation id="7165736900384873061">Hasi Egon Browser QR eskanerra erabiltzen</translation>
 <translation id="7173660919484573146">Egon-k aurpegi bidezko identifikazioa erabiltzen du pasahitzak baimena dutenek bakarrik atzitzen dituztela ziurtatzeko.</translation>
 <translation id="7187993566681480880">Babestuta mantentzen zaitu Egon-n, eta segurtasuna hobetzeko erabil daiteke Google-ren beste aplikazio batzuetan saioa hasita daukazunean.</translation>
 <translation id="72119412072970160">iPad-eko beste aplikazio batzuk erabiltzen ari zinela Google-ren Pasahitz-kudeatzailea zerbitzuan gorde zenituen pasahitzak erabil ditzakezu.</translation>
 <translation id="7261678641327190792">Egon-k ezin ditu egiaztatu pasahitzak</translation>
 <translation id="7272930098487145294">Irudiak gordetzeko, sakatu Ezarpenak eta eman argazkiak gehitzeko baimena Egon-ri</translation>
 <translation id="7275945473750112644">Kontua <ph name="HOSTED_DOMAIN" /> domeinuak kudeatzen duenez, Egon-ko datuak garbitu egingo dira gailu honetatik</translation>
-<translation id="7400722733683201933">Google Egon arakatzaileari buruz</translation>
+<translation id="7400722733683201933">Egon Browser arakatzaileari buruz</translation>
 <translation id="7501046334262221972">Egon arakatzaile lehenetsi gisa ezartzeko, ireki Ezarpenak. Sakatu Arakatzaile lehenetsia eta, gero, hautatu Egon.</translation>
 <translation id="756809126120519699">Garbitu dira Egon-ko datuak</translation>
 <translation id="7626032353295482388">Ongi etorri Egon-ra</translation>
@@ -111,7 +111,7 @@
 <translation id="7698568245838009292">Egon-k kamera atzitu nahi du</translation>
 <translation id="7754633291442704733">Egon-ko datuak, laster-markak, historia, pasahitzak eta kontu honetan gordetzen dituzun bestelako ezarpenak atzitu ahalko ditu zure erakundeak (<ph name="DOMAIN" />). Saioa amaitzen duzunean, datuak garbitu egingo dira gailu honetatik.  Hala ere, Google-ko kontu kudeatuan jarraituko dute, eta erakundea haiek atzitzeko gai izango da. Halaber, erabiltzaile-gidalerro jakin batzuk ezar ditzake erakundeak kontu horretarako, eta gidalerro horiek Egon-ren portaera alda dezakete.</translation>
 <translation id="7780154209050837198">Egon-ri etekinik handiena ateratzeko, hasi saioa Egon-n Google-ko kontuarekin.</translation>
-<translation id="7855730255114109580">Eguneratuta dago Google Egon</translation>
+<translation id="7855730255114109580">Eguneratuta dago Egon Browser</translation>
 <translation id="8022947259858476807">Erabili Egon modu lehenetsian estekak irekitzeko, widgetetatik bilaketak egiteko eta beste aplikazio batzuetako pasahitzak automatikoki betetzeko</translation>
 <translation id="81358522153858150">Orain, Egon-k kontu kudeaturako erabiltzaile-gidalerroak onartzen ditu</translation>
 <translation id="8160472928944011082">Ezin da eguneratu Egon</translation>
@@ -124,8 +124,8 @@
   1. Ireki Ezarpenak.
   2. Sakatu Arakatzaile lehenetsia.
   3. Hautatu Egon.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
-<translation id="8736550665979974340">Egon babestuta Google Egon-rekin</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
+<translation id="8736550665979974340">Egon babestuta Egon Browser-rekin</translation>
 <translation id="8772179140489533211">Egon-n saioa hasteko onarpen-mezuak erakusten ditu.</translation>
 <translation id="8788269841521769222">Ez duzu pasahitza gogoratu beharko. <ph name="EMAIL" /> kontuko Google-ren Pasahitz-kudeatzailea zerbitzuan gordeko da.</translation>
 <translation id="8897749957032330183">Pasahitzak gailu honetan gordetzen dira, Google-ren Pasahitz-kudeatzailea zerbitzuan.</translation>

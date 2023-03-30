@@ -14,10 +14,10 @@
 <translation id="1917964099031477364">Det här kontot och data som inte har sparats tas bort från Egon och andra Google-appar på den här enheten.</translation>
 <translation id="1968388653333775699">Få mer gjort med Egon</translation>
 <translation id="2009224836393115614">Egon kunde inte kontrollera dina lösenord. Testa att kontrollera internetanslutningen.</translation>
-<translation id="2056123005618757196">Få mer gjort med Google Egon, som är enklare, säkrare och snabbare än någonsin.</translation>
+<translation id="2056123005618757196">Få mer gjort med Egon Browser, som är enklare, säkrare och snabbare än någonsin.</translation>
 <translation id="2147651015520127414">Egon har verifierat att <ph name="ISSUER" /> har utfärdat webbplatsens certifikat.</translation>
 <translation id="2199719347983604670">Data från Egon sync</translation>
-<translation id="2313070403598893276">Google Egon är enklare, säkrare och snabbare än någonsin</translation>
+<translation id="2313070403598893276">Egon Browser är enklare, säkrare och snabbare än någonsin</translation>
 <translation id="2339201583852607431">Lösenordet sparas i Google-kontot (<ph name="EMAIL" />).</translation>
 <translation id="2342919707875585281">Egon delar din plats med webbplatser du tillåter.</translation>
 <translation id="2347208864470321755">När den här funktionen har aktiverats visas alternativet i Egon att översätta sidor som är skrivna på andra språk med hjälp av Google Översätt. <ph name="BEGIN_LINK" />Läs mer<ph name="END_LINK" /></translation>
@@ -26,7 +26,7 @@
 <translation id="2561231791489583059">Använd Egon som standardwebbläsare med skydd mot skadliga webbplatser och skydd av dina lösenord</translation>
 <translation id="2574249610672786438">Logga in på alla dina enheter om du vill ha samma flikar tillgängliga på alla enheter där du använder Egon</translation>
 <translation id="2576431527583832481">Egon har blivit ännu bättre! En ny version finns tillgänglig.</translation>
-<translation id="257708665678654955">Vill du att Google Egon ska översätta sidor skrivna på <ph name="LANGUAGE_NAME" /> på den här webbplatsen nästa gång?</translation>
+<translation id="257708665678654955">Vill du att Egon Browser ska översätta sidor skrivna på <ph name="LANGUAGE_NAME" /> på den här webbplatsen nästa gång?</translation>
 <translation id="2671426118752779020">Du kan använda lösenorden som sparats med Google Lösenordshantering i andra iPhone-appar.</translation>
 <translation id="2689064829982324496"><ph name="BEGIN_LINK" />Logga ut från Egon<ph name="END_LINK" /> om du vill logga ut från Google-kontot på alla webbplatser.</translation>
 <translation id="2695886661449553974">Egon kunde inte söka efter uppdateringar. Försök igen senare.</translation>
@@ -34,7 +34,7 @@
 <translation id="2869959624320573933">Logga in i Egon</translation>
 <translation id="2957447865124070833">Välj <ph name="BEGIN_BOLD" />Egon<ph name="END_BOLD" /></translation>
 <translation id="3030414234702425231">Din data i Egon raderas från den här enheten eftersom du loggar ut från ett konto som hanteras av <ph name="SIGNOUT_MANAGED_DOMAIN" />. Din data finns kvar i Google-kontot.</translation>
-<translation id="3167189358072330585">Kontot fungerar inte på Google Egon. Kontakta domänadministratören eller logga in med ett vanligt Google-konto.</translation>
+<translation id="3167189358072330585">Kontot fungerar inte på Egon Browser. Kontakta domänadministratören eller logga in med ett vanligt Google-konto.</translation>
 <translation id="3173834708294760622">Google Egon-sida</translation>
 <translation id="3196546062792660320">Med Egon sparar du tid genom att dina konton blir tillgängliga på nätet. Du kan lägga till och ta bort konton i inställningarna.</translation>
 <translation id="3282568296779691940">Logga in i Egon</translation>
@@ -46,10 +46,10 @@
 <translation id="3655656110921623717">Detta betyder att mobilversionen av webbplatsen begärs varje gång i Egon.</translation>
 <translation id="3706101708757577809">Nu kan du använda Egon varje gång du trycker på länkar i meddelanden, dokument och andra appar.</translation>
 <translation id="3720541637541300822">Lås inkognitoflikar när du stänger Egon</translation>
-<translation id="384394811301901750">Google Egon kan inte använda kameran just nu</translation>
+<translation id="384394811301901750">Egon Browser kan inte använda kameran just nu</translation>
 <translation id="3980220367029651214">Du håller på att byta synkroniseringskonto från <ph name="USER_EMAIL1" /> till <ph name="USER_EMAIL2" />. Befintlig data i Egon hanteras av <ph name="DOMAIN" />. Åtgärden raderar din data från den här enheten men den finns kvar på <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Organisationen kräver att du inte loggar in i Egon.</translation>
-<translation id="3988789688219830639">Google Egon har inte åtkomst till dina foton eller videor. Aktivera åtkomst i iOS-inställningar &gt; Integritet &gt; Foton.</translation>
+<translation id="3988789688219830639">Egon Browser har inte åtkomst till dina foton eller videor. Aktivera åtkomst i iOS-inställningar &gt; Integritet &gt; Foton.</translation>
 <translation id="417201473131094001">Stöds inte på Egon Canary</translation>
 <translation id="4192781968753717021">Detta lösenord har läckt ut vid ett dataintrång. Du rekommenderas av Google Lösenordshantering att byta dina lösenord nu.</translation>
 <translation id="4233521129555661685"><ph name="USER_EMAIL1" /> använde Egon och har lämnat kvar bokmärken, lösenord och andra inställningar på enheten.</translation>
@@ -66,11 +66,11 @@
 <translation id="5108659628347594808">Gör Egon bättre</translation>
 <translation id="5119391094379141756">Välj Egon</translation>
 <translation id="5162467219239570114">Den här versionen av Egon är inaktuell. Om det inte finns någon uppdatering i <ph name="BEGIN_LINK" />App Store<ph name="END_LINK" /> kan det hända att enheten inte längre har stöd för nya versioner av Egon.</translation>
-<translation id="5389212809648216794">Google Egon kan inte använda kameran eftersom den används av en annan app</translation>
+<translation id="5389212809648216794">Egon Browser kan inte använda kameran eftersom den används av en annan app</translation>
 <translation id="5460571915754665838">4. Välj Egon</translation>
 <translation id="5552137475244467770">Egon kontrollerar regelbundet om dina lösenord finns med på listor som har publicerats online. Under kontrollen krypteras dina lösenord och användarnamn så att varken Google eller någon annan kan läsa dem.</translation>
-<translation id="5639704535586432836">Öppna Inställningar &gt; Integritet &gt; Kamera &gt; Google Egon och aktivera kameran.</translation>
-<translation id="5642200033778930880">Google Egon kan inte använda kameran i delad vy</translation>
+<translation id="5639704535586432836">Öppna Inställningar &gt; Integritet &gt; Kamera &gt; Egon Browser och aktivera kameran.</translation>
+<translation id="5642200033778930880">Egon Browser kan inte använda kameran i delad vy</translation>
 <translation id="5690427481109656848">Google LLC</translation>
 <translation id="571296537125272375">Egon kan inte söka efter uppdateringar offline</translation>
 <translation id="5716154293141027663">Öppna Egon varje gång du trycker på länkar i andra appar</translation>
@@ -94,15 +94,15 @@
 <translation id="701356708427365932">Bekanta dig med den nya Egon-menyn</translation>
 <translation id="7059914902409643750">Anpassa Egon</translation>
 <translation id="7124339256045485976">Håll Egon uppdaterad</translation>
-<translation id="7161390184744336561">Google Egon-versionen är inaktuell</translation>
-<translation id="7165736900384873061">Börja använda Google Egon som QR-skanner</translation>
+<translation id="7161390184744336561">Egon Browser-versionen är inaktuell</translation>
+<translation id="7165736900384873061">Börja använda Egon Browser som QR-skanner</translation>
 <translation id="7173660919484573146">Egon använder Face ID för att se till att endast behöriga har åtkomst till lösenorden.</translation>
 <translation id="7187993566681480880">Skyddar dig i Egon och kan användas för förbättrad säkerhet i andra Google-appar där du är inloggad.</translation>
 <translation id="72119412072970160">Du kan använda lösenorden som sparats med Google Lösenordshantering i andra iPad-appar.</translation>
 <translation id="7261678641327190792">Egon kan inte kontrollera dina lösenord</translation>
 <translation id="7272930098487145294">Om du vill spara bilder trycker du på Inställningar och låter Egon lägga till dina foton</translation>
 <translation id="7275945473750112644">Eftersom ditt konto hanteras av <ph name="HOSTED_DOMAIN" /> raderas din data i Egon från enheten</translation>
-<translation id="7400722733683201933">Om Google Egon</translation>
+<translation id="7400722733683201933">Om Egon Browser</translation>
 <translation id="7501046334262221972">Öppna inställningarna för att välja Egon som standardwebbläsare. Tryck på Standardwebbläsarapp och välj sedan Egon.</translation>
 <translation id="756809126120519699">Data i Egon har rensats</translation>
 <translation id="7626032353295482388">Välkommen till Egon</translation>
@@ -111,7 +111,7 @@
 <translation id="7698568245838009292">Egon vill ha tillgång till kameran</translation>
 <translation id="7754633291442704733">Organisationen <ph name="DOMAIN" /> har åtkomst till data, bokmärken, historik, lösenord och andra inställningar i Egon som du lagrar i det här kontot. När du loggar ut raderas din data från enheten.  Datan lagras dock fortfarande i det hanterade Google-kontot och kan kommas åt av organisationen. Organisationen kan även ställa in användarpolicyer som gäller det kontot specifikt och som kan påverka hur Egon fungerar.</translation>
 <translation id="7780154209050837198">Logga in med Google-kontot i Egon så att du får ut mesta möjliga av programmet.</translation>
-<translation id="7855730255114109580">Google Egon behöver inte uppdateras</translation>
+<translation id="7855730255114109580">Egon Browser behöver inte uppdateras</translation>
 <translation id="8022947259858476807">Använd Egon som standard när du öppnar länkar och söker med en widget och få lösenord ifyllda i andra appar automatiskt</translation>
 <translation id="81358522153858150">Egon har nu stöd för användarpolicyer för dina hanterade konton</translation>
 <translation id="8160472928944011082">Uppdatering inte möjlig</translation>
@@ -124,8 +124,8 @@
   1. Öppna inställningarna
   2. Tryck på Standardwebbläsarapp
   3. Välj Egon.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
-<translation id="8736550665979974340">Surfa säkert med Google Egon</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
+<translation id="8736550665979974340">Surfa säkert med Egon Browser</translation>
 <translation id="8772179140489533211">Visar meddelanden om att logga in i Egon.</translation>
 <translation id="8788269841521769222">Du behöver inte komma ihåg det här lösenordet. Det sparas med Google Lösenordshantering för <ph name="EMAIL" /></translation>
 <translation id="8897749957032330183">Lösenorden sparas med Google Lösenordshantering på den här enheten.</translation>

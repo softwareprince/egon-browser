@@ -263,7 +263,7 @@
 <translation id="156703335097561114">Ünvanlar, interfeys konfiqurasiyası və bağlantı keyfiyyəti kimi şəbəkə məlumatları</translation>
 <translation id="1567040042588613346">Bu siyasət nəzərdə tutulduğu kimi işləyir, lakin eyni dəyər başqa bir yerdə təyin olunub və bu siyasət tərəfindən əvəz edilib.</translation>
 <translation id="1569487616857761740">Bitmə vaxtını daxil edin</translation>
-<translation id="1569694109004336106">Google Egon parolları doldurmaq üçün Windows Hello'nu aktiv etməyə çalışır.</translation>
+<translation id="1569694109004336106">Egon Browser parolları doldurmaq üçün Windows Hello'nu aktiv etməyə çalışır.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> düym</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Bu veb səhifəni göstərərkən xəta baş verdi.</translation>
@@ -459,7 +459,7 @@
 <translation id="2085876078937250610">Yadda saxlanılır…</translation>
 <translation id="2088086323192747268">"Sinxronlaşdırmanı idarə edin" düyməsi, Egon ayarlarında sinxronlaşdırdığınız məlumatları idarə etmək üçün Enter düyməsinə basın</translation>
 <translation id="2091887806945687916">Səs</translation>
-<translation id="2093982008204312032">Google Egon parolları doldurmaq üçün Windows Hello'nu deaktiv etməyə çalışır.</translation>
+<translation id="2093982008204312032">Egon Browser parolları doldurmaq üçün Windows Hello'nu deaktiv etməyə çalışır.</translation>
 <translation id="2094505752054353250">Domen uyğunsuzluğu</translation>
 <translation id="2099652385553570808">Soldan üçlü ştapel vurun</translation>
 <translation id="2101225219012730419">Versiya:</translation>
@@ -1381,7 +1381,7 @@
 <translation id="450710068430902550">Administrator ilə paylaşılır</translation>
 <translation id="4509074745930862522"><ph name="TRANSLATE_FOCUSED_FRIENDLY_MATCH_TEXT" />, Tab düyməsi, sonra Enter düyməsinə basaraq bu səhifəni Google Tərcümə ilə tərcümə edin</translation>
 <translation id="4514308731478712184">Baxışları deaktiv edin</translation>
-<translation id="4515275063822566619">Kart və ünvanlar Google Egon və Google Hesabındandır (<ph name="ACCOUNT_EMAIL" />). Onları <ph name="BEGIN_LINK" />Ayarlar<ph name="END_LINK" /> bölməsindən idarə edə bilərsiniz.</translation>
+<translation id="4515275063822566619">Kart və ünvanlar Egon Browser və Google Hesabındandır (<ph name="ACCOUNT_EMAIL" />). Onları <ph name="BEGIN_LINK" />Ayarlar<ph name="END_LINK" /> bölməsindən idarə edə bilərsiniz.</translation>
 <translation id="4520048001084013693">Bu faylın endirilməsi administrator siyasəti əsasında bloklanıb</translation>
 <translation id="4521157617044179198"><ph name="WIDTH" /> × <ph name="HEIGHT" /> mm (<ph name="ORIENTATION" />)</translation>
 <translation id="4521280267704259211">Zərf Monarx</translation>
@@ -2580,7 +2580,7 @@
 <translation id="7564049878696755256"><ph name="ORG_NAME" /> hesabına girişi itirə və ya kimlik oğurluğu ilə üzləşə bilərsiniz. Egon parollarınızı indi dəyişməyi məsləhət görür.</translation>
 <translation id="7564680668369175887">Furqonlar</translation>
 <translation id="7567204685887185387">Bu server <ph name="DOMAIN" /> olduğunu sübut edə bilmədi; güvənlik sertifikatı saxta ola bilər. Buna yalnış quraşdırma və ya hücumçu bağlantısı səbəb ola bilər.</translation>
-<translation id="7568616151991626879">Google Egon <ph name="APP_NAME" /> tətbiqində parolunuzu daxil etməyə çalışır.</translation>
+<translation id="7568616151991626879">Egon Browser <ph name="APP_NAME" /> tətbiqində parolunuzu daxil etməyə çalışır.</translation>
 <translation id="7569490014721427265">Qolf</translation>
 <translation id="7569761772822664555">"Axtarış sistemlərini idarə edin" düyməsi, Enter düyməsinə basaraq defolt axtarış sisteminizi və sayt axtarışınızı idarə edin</translation>
 <translation id="7569952961197462199">Kredit kart Egon'dan silinsin?</translation>

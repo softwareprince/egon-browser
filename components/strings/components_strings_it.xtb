@@ -263,7 +263,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="156703335097561114">Le informazioni di rete, come indirizzi, configurazione di interfaccia e qualità della connessione</translation>
 <translation id="1567040042588613346">Questo criterio funziona come previsto, ma altrove è impostato lo stesso valore, che viene sostituito da questo criterio.</translation>
 <translation id="1569487616857761740">Inserisci data di scadenza</translation>
-<translation id="1569694109004336106">Google Egon sta tentando di attivare Windows Hello per inserire le password.</translation>
+<translation id="1569694109004336106">Egon Browser sta tentando di attivare Windows Hello per inserire le password.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> in</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Si è verificato un problema durante la visualizzazione della pagina web.</translation>
@@ -459,7 +459,7 @@ In caso contrario l'uso sarà bloccato dalle impostazioni sulla privacy. I conte
 <translation id="2085876078937250610">Salva…</translation>
 <translation id="2088086323192747268">Pulsante Gestisci sincronizzazione: premi Invio per gestire le informazioni da sincronizzare nelle impostazioni di Egon</translation>
 <translation id="2091887806945687916">Audio</translation>
-<translation id="2093982008204312032">Google Egon sta tentando di disattivare Windows Hello per inserire le password.</translation>
+<translation id="2093982008204312032">Egon Browser sta tentando di disattivare Windows Hello per inserire le password.</translation>
 <translation id="2094505752054353250">Dominio non corrispondente</translation>
 <translation id="2099652385553570808">Tripla pinzatura a sinistra</translation>
 <translation id="2101225219012730419">Versione:</translation>
@@ -2580,7 +2580,7 @@ Ulteriori dettagli:
 <translation id="7564049878696755256">Potresti non riuscire più ad accedere al tuo account <ph name="ORG_NAME" /> o subire un furto d'identità. Egon ti consiglia di cambiare subito la password.</translation>
 <translation id="7564680668369175887">Station wagon</translation>
 <translation id="7567204685887185387">Questo server non è riuscito a dimostrare che si tratta di <ph name="DOMAIN" />; il relativo certificato di sicurezza potrebbe essere stato emesso in modo fraudolento. Il problema potrebbe essere dovuto a un'errata configurazione o a un malintenzionato che intercetta la connessione.</translation>
-<translation id="7568616151991626879">Google Egon sta cercando di inserire la password su <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Egon Browser sta cercando di inserire la password su <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Pulsante Gestisci motori di ricerca, premi Invio per gestire il motore di ricerca predefinito e la ricerca su siti</translation>
 <translation id="7569952961197462199">Rimuovere la carta di credito da Egon?</translation>

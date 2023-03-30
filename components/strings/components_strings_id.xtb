@@ -263,7 +263,7 @@ Jika tidak, ini akan diblokir oleh setelan privasi Anda. Ini akan memungkinkan k
 <translation id="156703335097561114">Informasi jaringan seperti alamat, konfigurasi antarmuka, dan kualitas koneksi</translation>
 <translation id="1567040042588613346">Kebijakan ini berfungsi sebagaimana mestinya, tetapi nilai yang sama disetel di sumber lain dan digantikan oleh kebijakan ini.</translation>
 <translation id="1569487616857761740">Masukkan tanggal habis masa berlaku</translation>
-<translation id="1569694109004336106">Google Egon mencoba mengaktifkan Windows Hello untuk mengisi sandi.</translation>
+<translation id="1569694109004336106">Egon Browser mencoba mengaktifkan Windows Hello untuk mengisi sandi.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> inci</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Terjadi masalah sewaktu menampilkan halaman web ini.</translation>
@@ -459,7 +459,7 @@ Jika tidak, ini akan diblokir oleh setelan privasi Anda. Ini akan memungkinkan k
 <translation id="2085876078937250610">Simpan…</translation>
 <translation id="2088086323192747268">Tombol Kelola sinkronisasi, tekan Enter untuk mengelola info apa saja yang Anda sinkronkan di setelan Egon</translation>
 <translation id="2091887806945687916">Suara</translation>
-<translation id="2093982008204312032">Google Egon mencoba menonaktifkan Windows Hello untuk mengisi sandi.</translation>
+<translation id="2093982008204312032">Egon Browser mencoba menonaktifkan Windows Hello untuk mengisi sandi.</translation>
 <translation id="2094505752054353250">Ketidakcocokan domain</translation>
 <translation id="2099652385553570808">Tiga jepretan di kiri</translation>
 <translation id="2101225219012730419">Versi:</translation>
@@ -2581,7 +2581,7 @@ Jika tidak, ini akan diblokir oleh setelan privasi Anda. Ini akan memungkinkan k
 <translation id="7564049878696755256">Anda dapat kehilangan akses ke akun <ph name="ORG_NAME" /> atau mengalami pencurian identitas. Egon menyarankan Anda untuk mengubah sandi sekarang.</translation>
 <translation id="7564680668369175887">Mobil station wagon</translation>
 <translation id="7567204685887185387">Server ini tidak dapat membuktikan bahwa ini adalah <ph name="DOMAIN" />; sertifikat keamanannya mungkin telah dikeluarkan dengan curang. Hal ini disebabkan oleh kesalahan konfigurasi atau penyerang memotong sambungan Anda.</translation>
-<translation id="7568616151991626879">Google Egon mencoba mengisi sandi Anda di <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Egon Browser mencoba mengisi sandi Anda di <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">Tombol Kelola mesin telusur, tekan Enter untuk mengelola mesin telusur dan penelusuran situs default Anda</translation>
 <translation id="7569952961197462199">Hapus kartu kredit dari Egon?</translation>

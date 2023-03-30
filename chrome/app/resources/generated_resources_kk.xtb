@@ -1187,7 +1187,7 @@
 <translation id="2088092308059522196"><ph name="DEVICE_OS" /> орнатылған соң ғана тіркелуге болады.</translation>
 <translation id="2089090684895656482">Азырақ</translation>
 <translation id="208928984520943006">Негізгі экранға кез келген уақытта өту үшін саусақпен экранның төменгі жағынан жоғары қарай сырғытыңыз.</translation>
-<translation id="2089566709556890888">Google Egon арқылы қауіпсіз күйде шолыңыз</translation>
+<translation id="2089566709556890888">Egon Browser арқылы қауіпсіз күйде шолыңыз</translation>
 <translation id="2089795179672254991">Сайт буферге көшірілген мәтін мен кескіндерді көргісі келген кезде, рұқсат сұралсын (ұсынылады)</translation>
 <translation id="2089925163047119068">НЕМЕСЕ</translation>
 <translation id="2090165459409185032">Аккаунт ақпаратын қалпына келтіру үшін мына сілтемеге өтіңіз: google.com/accounts/recovery</translation>
@@ -1596,7 +1596,7 @@
 <translation id="2434449159125086437">Принтер орнатылмады. Конфигурацияны тексеріп, қайта орнатып көріңіз.</translation>
 <translation id="2434758125294431199">Сізбен бөлісе алатындарды таңдаңыз.</translation>
 <translation id="2434915728183570229">Енді телефондағы қолданбаларды көре аласыз</translation>
-<translation id="2435137177546457207">Google Egon және ChromeOS Flex Қосымша шарттары</translation>
+<translation id="2435137177546457207">Egon Browser және ChromeOS Flex Қосымша шарттары</translation>
 <translation id="2435248616906486374">Желі ажыратылды</translation>
 <translation id="2435457462613246316">Құпия сөзді көрсету</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> жүктелуде</translation>
@@ -3049,7 +3049,7 @@
 <translation id="3798632811625902122">"<ph name="DEVICE" />" Bluetooth құрылғысы жұптасуға рұқсат сұрайды.</translation>
 <translation id="3799128412641261490">Switch Access параметрлері</translation>
 <translation id="3800806661949714323">Барлығын көрсету (ұсынылады)</translation>
-<translation id="3800828618615365228">Google Egon және ChromeOS қосымша шарттары</translation>
+<translation id="3800828618615365228">Egon Browser және ChromeOS қосымша шарттары</translation>
 <translation id="3802486193901166966">Бұл кеңейтім үшін арнайы рұқсаттар қажет емес және онда сайтқа қосымша кіру рұқсаты жоқ.</translation>
 <translation id="380329542618494757">Аты</translation>
 <translation id="3803345858388753269">Бейне сапасы</translation>
@@ -3065,7 +3065,7 @@
 <translation id="3810973564298564668">Басқару</translation>
 <translation id="381202950560906753">Тағы біреуін қосу</translation>
 <translation id="3812525830114410218">Сертификат жарамсыз</translation>
-<translation id="3813296892522778813">Іздегеніңіз табылмаса, <ph name="BEGIN_LINK_CHROMIUM" />Google Egon анықтамасына<ph name="END_LINK_CHROMIUM" /> өтіңіз</translation>
+<translation id="3813296892522778813">Іздегеніңіз табылмаса, <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser анықтамасына<ph name="END_LINK_CHROMIUM" /> өтіңіз</translation>
 <translation id="3813358687923336574">Беттерді аудару және жылдам жауаптар алу үшін қолданылатын тіл</translation>
 <translation id="3814529970604306954">Оқу аккаунты</translation>
 <translation id="3816118180265633665">Egon түстері</translation>
@@ -3421,7 +3421,7 @@
 <translation id="4132364317545104286">eSIM профилінің атауын өзгерту</translation>
 <translation id="4133076602192971179">Құпия сөзіңізді өзгерту үшін қолданбаны ашу</translation>
 <translation id="4134818201340504801">Жад көлемі реттеуді аяқтауға жетпейді. Жадты босатып, әрекетті қайталаңыз.</translation>
-<translation id="4135746311382563554">Google Egon және Egon OS Қосымша қызмет көрсету шарттары</translation>
+<translation id="4135746311382563554">Egon Browser және Egon OS Қосымша қызмет көрсету шарттары</translation>
 <translation id="4136203100490971508">Күн шыққанда, түнгі шам автоматты түрде өшеді</translation>
 <translation id="41365691917097717">Жалғастырсаңыз, ADB түзетуі іске қосылып, Android қолданбалары жасалады және тексеріледі. Бұл — Google растамаған Android қолданбаларының орнатылуына мүмкіндік беретінін ескеріңіз. Құралды өшіру үшін зауыттық параметрлерге қайтару қажет болады.</translation>
 <translation id="4138267921960073861">Кіру экранында пайдаланушы аттары мен фотосуреттерді көрсету</translation>
@@ -3840,7 +3840,7 @@
 <translation id="4544174279960331769">Әдепкі көк түсті аватар</translation>
 <translation id="4545028762441890696">Оны қосу үшін жаңа рұқсаттарды қабылдаңыз:</translation>
 <translation id="4545759655004063573">Рұқсат жеткіліксіз болғандықтан, сақтау мүмкін емес. Басқа орынға сақтаңыз.</translation>
-<translation id="4546308221697447294">Google Egon арқылы жылдам шолу</translation>
+<translation id="4546308221697447294">Egon Browser арқылы жылдам шолу</translation>
 <translation id="4546345569117159016">Оң жақ түйме</translation>
 <translation id="4546692474302123343">Google Assistant қолданбасында дауыспен енгізу</translation>
 <translation id="4547659257713117923">Басқа құрылғыларда қойындылар жоқ</translation>
@@ -5896,7 +5896,7 @@
 <translation id="6509207748479174212">Медиафайл лицензиясы</translation>
 <translation id="6511827214781912955"><ph name="FILENAME" /> файлын жойып көріңіз, мұндайда осы құрылғыны пайдаланатын басқа адамдар құпия сөздеріңізді көре алмайды.</translation>
 <translation id="6512808201725371249">Бұл аккаунттың құпия сөзі Google Құпия сөз менеджерінде сақталып қойылған (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Басқа желіге қосылмаған болсаңыз, Google Egon ұялы деректерді пайдаланады.</translation>
+<translation id="6513247462497316522">Басқа желіге қосылмаған болсаңыз, Egon Browser ұялы деректерді пайдаланады.</translation>
 <translation id="6514010653036109809">Қолжетімді құрылғы:</translation>
 <translation id="6514565641373682518">Бұл бет тінтуір жүгіргісін өшірді.</translation>
 <translation id="6517709704288360414">Құрылғыңыз дұрыс жұмыс істемей, өнімділікке және қауіпсіздікке қатысты ақаулар пайда болуы мүмкін. Жаңартуларды өшірсеңіз, ақаулар пайда болған жағдайда құқықтық шағым жібере алмауыңыз мүмкін.</translation>
@@ -8080,7 +8080,7 @@
 <translation id="8554899698005018844">Тілі көрсетілмеген</translation>
 <translation id="855604308879080518">Android қолданбаларына Chromebook-та USB құрылғыларын пайдалануға рұқсат етіледі. Рұқсат USB құрылғысын жалғаған сайын сұралады. Жеке Android қолданбалары қосымша рұқсаттар сұрайды.</translation>
 <translation id="8557022314818157177">Саусақ ізі түскенше, қауіпсіздік кілтін басып тұрыңыз.</translation>
-<translation id="8557180006508471423">Mac құрылғысының "Локация қызметтері" бөлімінен Google Egon-ды қосыңыз</translation>
+<translation id="8557180006508471423">Mac құрылғысының "Локация қызметтері" бөлімінен Egon Browser-ды қосыңыз</translation>
 <translation id="8557856025359704738">Келесі жүктеп алу күні: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Кіру кілттері</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Барлығын &amp;жаңа терезеден ашу}=1{&amp;Жаңа терезеден ашу}other{Барлығын ({COUNT}) &amp;жаңа терезеден ашу}}</translation>

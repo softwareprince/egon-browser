@@ -153,7 +153,7 @@
 <translation id="439358628917130594"><ph name="MANAGER" /> ਦੀ ਸ਼ਰਤ ਹੈ ਕਿ ਤੁਸੀਂ ਇਸ ਡੀਵਾਈਸ ਨੂੰ ਵਰਤਣ ਤੋਂ ਪਹਿਲਾਂ ਹੇਠਾਂ ਦਿੱਤੇ ਸੇਵਾ ਦੇ ਨਿਯਮ ਪੜ੍ਹ ਕੇ ਸਵੀਕਾਰ ਕਰੋ। ਇਹ ਨਿਯਮ ChromiumOS ਦੇ ਨਿਯਮਾਂ ਦਾ ਵਿਸਤਾਰ ਨਹੀਂ ਕਰਦੇ, ਇਨ੍ਹਾਂ ਵਿੱਚ ਕੋਈ ਸੋਧ ਨਹੀਂ ਕਰਦੇ ਜਾਂ ਇਨ੍ਹਾਂ ਨੂੰ ਸੀਮਤ ਨਹੀਂ ਕਰਦੇ ਹਨ।</translation>
 <translation id="4407044323746248786">ਕੀ ਫਿਰ ਵੀ Egon ਤੋਂ ਬਾਹਰ ਜਾਣਾ ਹੈ?</translation>
 <translation id="4415566066719264597">Egon ਨੂੰ ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਚੱਲਣ ਦਿਓ</translation>
-<translation id="4423735387467980091">Google Egon ਨੂੰ ਵਿਉਂਤਬੱਧ ਕਰਕੇ ਕੰਟਰੋਲ ਕਰੋ।</translation>
+<translation id="4423735387467980091">Egon Browser ਨੂੰ ਵਿਉਂਤਬੱਧ ਕਰਕੇ ਕੰਟਰੋਲ ਕਰੋ।</translation>
 <translation id="4427306783828095590">ਧੋਖਾਧੜੀ ਅਤੇ ਮਾਲਵੇਅਰ ਨੂੰ ਬਲਾਕ ਕਰਨ ਵਾਸਤੇ ਵਿਸਤ੍ਰਿਤ ਸੁਰੱਖਿਆ ਹੋਰ ਵੱਧ ਕੰਮ ਕਰਦੀ ਹੈ</translation>
 <translation id="452711251841752011">Egon ਵਿੱਚ ਜੀ ਆਇਆਂ ਨੂੰ; ਨਵੀਂ ਬ੍ਰਾਊਜ਼ਰ ਵਿੰਡੋ ਖੋਲ੍ਹੀ ਗਈ</translation>
 <translation id="4544142686420020088">Egon ਅੱਪਡੇਟ ਨਹੀਂ ਹੋਇਆ, ਕੋਈ ਗੜਬੜ ਹੋ ਗਈ। <ph name="BEGIN_LINK" />Egon ਅੱਪਡੇਟ ਦੀਆਂ ਸਮੱਸਿਆਵਾਂ ਅਤੇ ਅਸਫਲ ਹੋਈਆਂ ਅੱਪਡੇਟਾਂ ਨੂੰ ਠੀਕ ਕਰੋ।<ph name="END_LINK" /></translation>
@@ -199,7 +199,7 @@
 <translation id="5527463683072221100">Egon ਵਿੱਚ PDF ਖੋਲ੍ਹੋ</translation>
 <translation id="5614091477838198795">ਚਾਲੂ ਹੋਣ 'ਤੇ, ਤੁਹਾਨੂੰ Egon ਤੋਂ ਵੀ ਸਾਈਨ-ਆਊਟ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ</translation>
 <translation id="5623402015214259806">{0,plural, =0{Egon ਅੱਪਡੇਟ ਉਪਲਬਧ ਹੈ}=1{Egon ਅੱਪਡੇਟ ਉਪਲਬਧ ਹੈ}other{Egon ਅੱਪਡੇਟ # ਦਿਨਾਂ ਤੋਂ ਉਪਲਬਧ ਹੈ}}</translation>
-<translation id="5634636535844844681">Google Egon ਨੂੰ Windows 7 ਜਾਂ ਇਸ ਤੋਂ ਬਾਅਦ ਵਾਲੇ ਵਰਜਨ ਦੀ ਲੋੜ ਹੈ।</translation>
+<translation id="5634636535844844681">Egon Browser ਨੂੰ Windows 7 ਜਾਂ ਇਸ ਤੋਂ ਬਾਅਦ ਵਾਲੇ ਵਰਜਨ ਦੀ ਲੋੜ ਹੈ।</translation>
 <translation id="5653831366781983928">ਕਿਰਪਾ ਕਰਕੇ ਹੁਣੇ Egon ਨੂੰ ਮੁੜ-ਸ਼ੁਰੂ ਕਰੋ</translation>
 <translation id="5698481217667032250">Egon ਨੂੰ ਇਸ ਭਾਸ਼ਾ ਵਿੱਚ  ਦਿਖਾਓ ।</translation>
 <translation id="5862307444128926510">Egon ਵਿੱਚ ਸੁਆਗਤ ਹੈ</translation>

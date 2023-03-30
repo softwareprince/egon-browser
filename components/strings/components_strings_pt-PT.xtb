@@ -263,7 +263,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="156703335097561114">Informações de rede, tais como endereços, a configuração da interface e a qualidade da ligação</translation>
 <translation id="1567040042588613346">Esta política está a funcionar conforme esperado, mas o mesmo valor está definido noutro local e foi substituído por esta política.</translation>
 <translation id="1569487616857761740">Introduza a data de validade</translation>
-<translation id="1569694109004336106">O Google Egon está a tentar ativar o Windows Hello para preencher palavras-passe.</translation>
+<translation id="1569694109004336106">O Egon Browser está a tentar ativar o Windows Hello para preencher palavras-passe.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> pol.</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Ocorreu um erro ao apresentar esta página Web.</translation>
@@ -459,7 +459,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2085876078937250610">Guardar…</translation>
 <translation id="2088086323192747268">Botão Gerir sincronização. Prima Enter para gerir as informações que sincroniza nas Definições do Egon.</translation>
 <translation id="2091887806945687916">Som</translation>
-<translation id="2093982008204312032">O Google Egon está a tentar desativar o Windows Hello para preencher palavras-passe.</translation>
+<translation id="2093982008204312032">O Egon Browser está a tentar desativar o Windows Hello para preencher palavras-passe.</translation>
 <translation id="2094505752054353250">Falta de correspondência de domínio</translation>
 <translation id="2099652385553570808">Agrafo triplo à esquerda</translation>
 <translation id="2101225219012730419">Versão:</translation>
@@ -626,7 +626,7 @@ Se não permitir, isto será bloqueado pelas suas definições de privacidade. I
 <translation id="2542106216580219892">Surf</translation>
 <translation id="2544546346215446551">O administrador reiniciou o seu dispositivo</translation>
 <translation id="2544644783021658368">Documento único</translation>
-<translation id="254524874071906077">Definir o Google Egon como o Navegador Predefinido</translation>
+<translation id="254524874071906077">Definir o Egon Browser como o Navegador Predefinido</translation>
 <translation id="2546283357679194313">Cookies e dados de Web sites</translation>
 <translation id="2547466893236767989">Programação e design Web</translation>
 <translation id="254947805923345898">O valor da política não é válido.</translation>
@@ -2583,7 +2583,7 @@ Detalhes adicionais:
 <translation id="7564049878696755256">Pode perder o acesso à sua conta do serviço <ph name="ORG_NAME" /> ou ser vítima de roubo de identidade. O Egon recomenda a alteração da palavra-passe agora.</translation>
 <translation id="7564680668369175887">Carrinhas</translation>
 <translation id="7567204685887185387">Este servidor não conseguiu provar que é o domínio <ph name="DOMAIN" />; o respetivo certificado de segurança poderá ter sido emitido de forma fraudulenta. Isto pode ser o resultado de uma configuração incorreta ou de um invasor a intercetar a sua ligação.</translation>
-<translation id="7568616151991626879">O Google Egon está a tentar preencher a sua palavra-passe na app <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">O Egon Browser está a tentar preencher a sua palavra-passe na app <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golfe</translation>
 <translation id="7569761772822664555">Botão Gerir motores de pesquisa, prima Enter para gerir o seu motor de pesquisa e pesquisa de sites predefinidos</translation>
 <translation id="7569952961197462199">Remover o cartão de crédito do Egon?</translation>

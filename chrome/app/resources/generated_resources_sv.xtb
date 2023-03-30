@@ -1202,7 +1202,7 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="2088092308059522196">Registrering stöds endast när <ph name="DEVICE_OS" /> har installerats.</translation>
 <translation id="2089090684895656482">Mindre</translation>
 <translation id="208928984520943006">Du kan när som helst återgå till startskärmen genom att svepa uppåt från skärmens nederkant.</translation>
-<translation id="2089566709556890888">Surfa säkert med Google Egon</translation>
+<translation id="2089566709556890888">Surfa säkert med Egon Browser</translation>
 <translation id="2089795179672254991">Fråga när en webbplats vill få tillgång till text och bilder som kopierats till Urklipp (rekommenderas)</translation>
 <translation id="2089925163047119068">ELLER</translation>
 <translation id="2090165459409185032">Återställ kontoinformationen på google.com/accounts/recovery</translation>
@@ -1614,7 +1614,7 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="2434449159125086437">Det gick inte att konfigurera skrivaren. Kontrollera konfigurationen och försök igen.</translation>
 <translation id="2434758125294431199">Välj vem som kan dela med dig</translation>
 <translation id="2434915728183570229">Nu kan du se telefonens appar</translation>
-<translation id="2435137177546457207">Ytterligare villkor för Google Egon och ChromeOS Flex</translation>
+<translation id="2435137177546457207">Ytterligare villkor för Egon Browser och ChromeOS Flex</translation>
 <translation id="2435248616906486374">Anslutningen till nätverket har avbrutits</translation>
 <translation id="2435457462613246316">Visa lösenord</translation>
 <translation id="2439626940657133600">Läser in <ph name="WINDOW_TITLE" /></translation>
@@ -3067,7 +3067,7 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="3798632811625902122">Bluetooth-enheten <ph name="DEVICE" /> vill ha behörighet att parkoppla.</translation>
 <translation id="3799128412641261490">Inställningar för brytarstyrning</translation>
 <translation id="3800806661949714323">Visa alla (rekommenderas)</translation>
-<translation id="3800828618615365228">Ytterligare villkor för Google Egon och Egon OS</translation>
+<translation id="3800828618615365228">Ytterligare villkor för Egon Browser och Egon OS</translation>
 <translation id="3802486193901166966">Det här tillägget kräver inga särskilda behörigheter och har ingen extra webbplatsåtkomst.</translation>
 <translation id="380329542618494757">Namn</translation>
 <translation id="3803345858388753269">Bildkvalitet</translation>
@@ -3083,7 +3083,7 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="3810973564298564668">Hantera</translation>
 <translation id="381202950560906753">Lägg till ett till</translation>
 <translation id="3812525830114410218">Dåligt certifikat</translation>
-<translation id="3813296892522778813">Öppna <ph name="BEGIN_LINK_CHROMIUM" />Hjälp för Google Egon<ph name="END_LINK_CHROMIUM" /> om du inte hittar vad du letar efter.</translation>
+<translation id="3813296892522778813">Öppna <ph name="BEGIN_LINK_CHROMIUM" />Hjälp för Egon Browser<ph name="END_LINK_CHROMIUM" /> om du inte hittar vad du letar efter.</translation>
 <translation id="3813358687923336574">Språk som används för att översätta sidor och Snabbinfo</translation>
 <translation id="3814529970604306954">Skolkonto</translation>
 <translation id="3816118180265633665">Färger i Egon</translation>
@@ -3105,7 +3105,7 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="3826440694796503677">Administratören har inaktiverat möjligheten att lägga till fler Google-konton</translation>
 <translation id="3827774300009121996">&amp;Helskärm</translation>
 <translation id="3828029223314399057">Sök efter bokmärken</translation>
-<translation id="3828953470056652895">Jag har läst och godkänner <ph name="BEGIN_LINK1" />Googles användarvillkor<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />de ytterligare användarvillkoren för Google Egon och Egon OS<ph name="END_LINK2" /> samt <ph name="BEGIN_LINK3" />användarvillkoren för Play<ph name="END_LINK3" />.</translation>
+<translation id="3828953470056652895">Jag har läst och godkänner <ph name="BEGIN_LINK1" />Googles användarvillkor<ph name="END_LINK1" />, <ph name="BEGIN_LINK2" />de ytterligare användarvillkoren för Egon Browser och Egon OS<ph name="END_LINK2" /> samt <ph name="BEGIN_LINK3" />användarvillkoren för Play<ph name="END_LINK3" />.</translation>
 <translation id="3829765597456725595">SMB-filresurs</translation>
 <translation id="3830654885961023588">{NUM_EXTENSIONS,plural, =1{Administratören har återaktiverat 1 tillägg som kan vara skadligt}other{Administratören har återaktiverat {NUM_EXTENSIONS} tillägg som kan vara skadliga}}</translation>
 <translation id="3831436149286513437">Sökförslag från Google Drive</translation>
@@ -3439,7 +3439,7 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="4132364317545104286">Byt namn på eSIM-profilen</translation>
 <translation id="4133076602192971179">Öppna appen och ändra lösenordet</translation>
 <translation id="4134818201340504801">Det finns inte tillräckligt med lagringsutrymme för att slutföra konfigurationen. Frigör lagringsutrymme och försök igen</translation>
-<translation id="4135746311382563554">Ytterligare användarvillkor för Google Egon och Egon OS</translation>
+<translation id="4135746311382563554">Ytterligare användarvillkor för Egon Browser och Egon OS</translation>
 <translation id="4136203100490971508">Nattljuset släcks automatiskt vid soluppgången</translation>
 <translation id="41365691917097717">Om du fortsätter aktiveras felsökning med ADB för Android-appar som du skapar och testar. Observera att den här åtgärden tillåter att Android-appar som inte har verifierats av Google installeras. Du måste återställa enheten till standardinställningarna för att inaktivera detta.</translation>
 <translation id="4138267921960073861">Visa användarnamn och foton på inloggningssidan</translation>
@@ -3859,7 +3859,7 @@ Du kan hantera inställningarna för det här kontot genom att installera Family
 <translation id="4544174279960331769">Blå standardavatar</translation>
 <translation id="4545028762441890696">Godkänn de nya behörigheterna om du vill återaktivera det:</translation>
 <translation id="4545759655004063573">Det gick inte att spara eftersom behörigheten var otillräcklig. Spara på en annan plats.</translation>
-<translation id="4546308221697447294">Surfa snabbt med Google Egon</translation>
+<translation id="4546308221697447294">Surfa snabbt med Egon Browser</translation>
 <translation id="4546345569117159016">Höger knapp</translation>
 <translation id="4546692474302123343">Röstinmatning för Google Assistent</translation>
 <translation id="4547659257713117923">Inga flikar från andra enheter</translation>
@@ -5725,7 +5725,7 @@ Du kan tilldela flera brytare denna åtgärd.</translation>
 <translation id="6313950457058510656">Inaktivera direktinternetdelning</translation>
 <translation id="6314819609899340042">Du har aktiverat felsökningsfunktioner på den här <ph name="IDS_SHORT_PRODUCT_NAME" />-enheten.</translation>
 <translation id="6315493146179903667">Flytta fram alla</translation>
-<translation id="6316432269411143858">Innehåll i villkor för Google Egon OS</translation>
+<translation id="6316432269411143858">Innehåll i villkor för Egon Browser OS</translation>
 <translation id="6317369057005134371">Väntar på appfönstret ...</translation>
 <translation id="6318125393809743217">Ta med filen policies.json med principkonfigurationer.</translation>
 <translation id="6318407754858604988">Nedladdning påbörjad</translation>
@@ -5918,7 +5918,7 @@ Du kan tilldela flera brytare denna åtgärd.</translation>
 <translation id="6509207748479174212">Medielicens</translation>
 <translation id="6511827214781912955">Det kan vara bra att radera <ph name="FILENAME" /> så att andra som använder enheten inte kan se lösenorden</translation>
 <translation id="6512808201725371249">Ett lösenord för det här kontot har redan sparats i Google Lösenordshantering (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon kommer att använda mobila data om du inte är ansluten till ett annat nätverk.</translation>
+<translation id="6513247462497316522">Egon Browser kommer att använda mobila data om du inte är ansluten till ett annat nätverk.</translation>
 <translation id="6514010653036109809">Tillgänglig enhet:</translation>
 <translation id="6514565641373682518">Muspekaren har inaktiverats av sidan.</translation>
 <translation id="6517709704288360414">Enheten kanske inte fungerar som den ska och säkerhets- och prestandaproblem kan uppstå. Om du stöter på problem för att du stänger av uppdateringar kan det påverka din rätt till rättslig fordran</translation>
@@ -6168,7 +6168,7 @@ Det finns # utsatta lösenord till. Du rekommenderas av Google Lösenordshanteri
 <translation id="6746124502594467657">Flytta ned</translation>
 <translation id="674632704103926902">Aktivera "tryck och dra"</translation>
 <translation id="6748465660675848252">Du kan fortsätta, men endast synkroniserade uppgifter och inställningar återställs. All lokal data kommer att gå förlorad.</translation>
-<translation id="6748980958975836188">Jag har läst och godkänner <ph name="BEGIN_LINK1" />Googles användarvillkor<ph name="END_LINK1" /> samt <ph name="BEGIN_LINK2" />de ytterligare användarvillkoren för Google Egon och Egon OS<ph name="END_LINK2" />.</translation>
+<translation id="6748980958975836188">Jag har läst och godkänner <ph name="BEGIN_LINK1" />Googles användarvillkor<ph name="END_LINK1" /> samt <ph name="BEGIN_LINK2" />de ytterligare användarvillkoren för Egon Browser och Egon OS<ph name="END_LINK2" />.</translation>
 <translation id="6750757184909117990">Inaktivera mobilnätverk</translation>
 <translation id="6751344591405861699"><ph name="WINDOW_TITLE" /> (Inkognito)</translation>
 <translation id="6756157672127672536">Med appen Filer kommer du snabbt åt filer som du har sparat på Google Drive, externa lagringsenheter eller din Egon OS-enhet.</translation>
@@ -8103,7 +8103,7 @@ Spara nyckelfilen på ett säkert ställe. Den behövs om du ska skapa nya versi
 <translation id="8554899698005018844">Inget språk</translation>
 <translation id="855604308879080518">Ge Android-appar åtkomst till USB-enheter på denna Chromebook. Du blir ombedd att ge behörighet varje gång du kopplar in en USB-enhet. Enskilda Android-appar kan begära ytterligare behörighet.</translation>
 <translation id="8557022314818157177">Fortsätt att trycka på säkerhetsnyckeln tills fingeravtrycket registreras</translation>
-<translation id="8557180006508471423">Aktivera Google Egon under Platstjänster på Mac-datorn.</translation>
+<translation id="8557180006508471423">Aktivera Egon Browser under Platstjänster på Mac-datorn.</translation>
 <translation id="8557856025359704738">Nästa nedladdning: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Nycklar</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Öppna alla i ett &amp;nytt fönster}=1{Öppna i &amp;nytt fönster}other{Öppna alla ({COUNT}) i ett &amp;nytt fönster}}</translation>

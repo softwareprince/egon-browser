@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">मौजूदा डेटा मिटाएं.</translation>
 <translation id="1146678959555564648">VR डालें</translation>
 <translation id="1149401351239820326">समाप्ति माह</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" />, Egon में खुलेगा. जारी रखने का मतलब है कि आप <ph name="BEGIN_LINK1" />Google की सेवा की शर्तों<ph name="END_LINK1" /> के साथ-साथ <ph name="BEGIN_LINK2" />Google Egon और ChromeOS की सेवा की अन्य शर्तों<ph name="END_LINK2" /> से सहमत हैं.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" />, Egon में खुलेगा. जारी रखने का मतलब है कि आप <ph name="BEGIN_LINK1" />Google की सेवा की शर्तों<ph name="END_LINK1" /> के साथ-साथ <ph name="BEGIN_LINK2" />Egon Browser और ChromeOS की सेवा की अन्य शर्तों<ph name="END_LINK2" /> से सहमत हैं.</translation>
 <translation id="1154704303112745282">यह पेज ऑफ़लाइन उपलब्ध नहीं है: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"मुख्य साइटें" बटन पर टैप करके लोकप्रिय साइटें देखें</translation>
 <translation id="1173894706177603556">नाम बदलें</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">विज्ञापनों की परफ़ॉर्मेंस का पता लगाने वाला एपीआई, आपकी देखी गई साइटों को अनुमति देता है कि वे Egon से आपकी जानकारी पाने का अनुरोध कर सकें. इस जानकारी से, साइट पर दिखाए जाने वाले विज्ञापनों की परफ़ॉर्मेंस का पता लगाने में मदद मिलती है. विज्ञापनों की परफ़ॉर्मेंस का पता लगाने वाला एपीआई, क्रॉस-साइट ट्रैकिंग को रोकता है. इसके लिए एपीआई, साइटों को आपस में कम से कम जानकारी शेयर करने देता है.
 
 पूरा ब्राउज़िंग इतिहास या किसी खास साइट का इतिहास मिटाने पर, परफ़ॉर्मेंस से जुड़ी जानकारी भी मिट जाती है. <ph name="BEGIN_LINK" />अपना ब्राउज़िंग इतिहास<ph name="END_LINK" /> देखें.</translation>
-<translation id="1332501820983677155">Google Egon सुविधा शॉर्टकट</translation>
+<translation id="1332501820983677155">Egon Browser सुविधा शॉर्टकट</translation>
 <translation id="1344653310988386453">हाइलाइट किए गए टेक्स्ट का लिंक शामिल करें</translation>
 <translation id="1347468774581902829">गतिविधि प्रबंधित करें</translation>
 <translation id="1360432990279830238">साइन आउट करें और सिंक बंद करें?</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">ऐप्लिकेशन नहीं खोला जा सका</translation>
 <translation id="2132122640199389833">लिंक किए गए सभी डिवाइस हटाएं</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> बंद है</translation>
-<translation id="2134927169889348449">Egon इस्तेमाल करने का मतलब है कि आप <ph name="BEGIN_TOS_LINK" />Google की सेवा की शर्तों<ph name="END_TOS_LINK" /> के साथ-साथ <ph name="BEGIN_ATOS_LINK" />Google Egon और ChromeOS की सेवा की अन्य शर्तों<ph name="END_ATOS_LINK" /> से सहमत हैं.</translation>
+<translation id="2134927169889348449">Egon इस्तेमाल करने का मतलब है कि आप <ph name="BEGIN_TOS_LINK" />Google की सेवा की शर्तों<ph name="END_TOS_LINK" /> के साथ-साथ <ph name="BEGIN_ATOS_LINK" />Egon Browser और ChromeOS की सेवा की अन्य शर्तों<ph name="END_ATOS_LINK" /> से सहमत हैं.</translation>
 <translation id="2139186145475833000">होम स्क्रीन में जोड़ें</translation>
 <translation id="2141396931810938595">आपके इस्तेमाल करने के हिसाब से</translation>
 <translation id="214888715418183969">चुनें कि Egon के साथ आपकी क्या जानकारी शेयर की जाए. आप जो मेट्रिक शेयर करते हैं उसका इस्तेमाल, Egon की सुविधाओं और परफ़ॉर्मेंस को बेहतर बनाने में किया जाएगा. साथ ही, इसका इस्तेमाल क्रैश होने जैसी दिक्कतों को ठीक करने में भी होगा.</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Egon पर आपकी पसंद के लेख</translation>
 <translation id="3066573403916685335">नीचे ले जाएं</translation>
 <translation id="3070005020161560471">अपने-आप अनुवाद करें</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" />, Egon में खुलेगा. जारी रखने का मतलब है कि आप <ph name="BEGIN_LINK1" />Google की सेवा की शर्तों<ph name="END_LINK1" /> के साथ-साथ <ph name="BEGIN_LINK2" />Google Egon और ChromeOS की सेवा की अन्य शर्तों<ph name="END_LINK2" /> से सहमत हैं. साथ ही, <ph name="BEGIN_LINK3" />निजता नीति<ph name="END_LINK3" /> भी लागू होगी.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" />, Egon में खुलेगा. जारी रखने का मतलब है कि आप <ph name="BEGIN_LINK1" />Google की सेवा की शर्तों<ph name="END_LINK1" /> के साथ-साथ <ph name="BEGIN_LINK2" />Egon Browser और ChromeOS की सेवा की अन्य शर्तों<ph name="END_LINK2" /> से सहमत हैं. साथ ही, <ph name="BEGIN_LINK3" />निजता नीति<ph name="END_LINK3" /> भी लागू होगी.</translation>
 <translation id="3091010850649238832">क्लिपबोर्ड का कॉन्टेंट दिखाएं</translation>
 <translation id="3098745985164956033">कुछ इमेज Google को भेजी जाती हैं, ताकि आपको मिलने वाली जानकारी को बेहतर बनाया जा सके</translation>
 <translation id="3114507951000454849">आज की खबरें <ph name="NEWS_ICON" /> पढ़ें</translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">अगर आप अपना 'पासफ़्रेज़' भूल गए हैं या यह सेटिंग बदलना चाहते हैं, तो <ph name="BEGIN_LINK" /> सिंक रीसेट करें<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">पासवर्ड सिंक करने के लिए अपनी पहचान की पुष्टि करें</translation>
 <translation id="3223522355830797639">आपका बैंक, आपकी पहचान की पुष्टि करना चाहता है.</translation>
-<translation id="3227557059438308877">Google Egon, सुरक्षा कुंजी के रूप में</translation>
+<translation id="3227557059438308877">Egon Browser, सुरक्षा कुंजी के रूप में</translation>
 <translation id="3232754137068452469">वेब ऐप्लिकेशन</translation>
 <translation id="3234978181857588512">डिवाइस में सेव करें</translation>
 <translation id="3236059992281584593">1 मिनट शेष</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">लिंक पते को कॉपी करें</translation>
 <translation id="4283102315569707115">डिफ़ॉल्ट रूप से, डेस्कटॉप साइटें लोड करने का विकल्प चुनना है?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android सेटिंग में, स्क्रीन लॉक चालू करें<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Egon इस्तेमाल करने का मतलब है कि आप <ph name="BEGIN_TOS_LINK" />Google की सेवा की शर्तों<ph name="END_TOS_LINK" /> के साथ-साथ <ph name="BEGIN_ATOS_LINK" />Google Egon और ChromeOS की सेवा की अन्य शर्तों<ph name="END_ATOS_LINK" /> से सहमत हैं. साथ ही, <ph name="BEGIN_PRIVACY_LINK" />निजता नीति<ph name="END_PRIVACY_LINK" /> भी लागू होगी.</translation>
+<translation id="4293476595220860475">Egon इस्तेमाल करने का मतलब है कि आप <ph name="BEGIN_TOS_LINK" />Google की सेवा की शर्तों<ph name="END_TOS_LINK" /> के साथ-साथ <ph name="BEGIN_ATOS_LINK" />Egon Browser और ChromeOS की सेवा की अन्य शर्तों<ph name="END_ATOS_LINK" /> से सहमत हैं. साथ ही, <ph name="BEGIN_PRIVACY_LINK" />निजता नीति<ph name="END_PRIVACY_LINK" /> भी लागू होगी.</translation>
 <translation id="4296252229500326964">नया गुप्त टैब</translation>
 <translation id="4298388696830689168">लिंक की हुई साइटें</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@
 <translation id="9219582468404818260">वेब को बेहतर बनाने में हमारी मदद करें</translation>
 <translation id="92381315203627188">जब कोई साइट अपने पेज पर, लिंक को निजी तौर पर पहले से लोड करने के लिए कहती है, तो Egon, Google के सर्वर की मदद से पेजों को एन्क्रिप्ट करके पहले से लोड कर देता है. इसके लिए, Egon कुकी का इस्तेमाल नहीं करता है. इससे, पहले से लोड की गई साइट से आपकी पहचान को छिपाया जा सकता है.</translation>
 <translation id="926205370408745186">'डिजिटल वेलबीइंग' से अपनी Egon गतिविधि हटाएं</translation>
-<translation id="927968626442779827">Google Egon पर लाइट मोड का इस्तेमाल करें</translation>
+<translation id="927968626442779827">Egon Browser पर लाइट मोड का इस्तेमाल करें</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> को फ़ॉलो किया जा रहा है</translation>
 <translation id="932327136139879170">होम बटन</translation>
 <translation id="938850635132480979">गड़बड़ी: <ph name="ERROR_CODE" /></translation>

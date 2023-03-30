@@ -1199,7 +1199,7 @@
 <translation id="2088092308059522196">ثبت‌نام فقط پس‌از نصب <ph name="DEVICE_OS" /> پشتیبانی می‌شود.</translation>
 <translation id="2089090684895656482">کمتر</translation>
 <translation id="208928984520943006">هرزمان خواستید به «صفحه اصلی» بروید، از پایین صفحه تند به‌سمت بالا بکشید.</translation>
-<translation id="2089566709556890888">‏با Google Egon ایمن مرور کنید</translation>
+<translation id="2089566709556890888">‏با Egon Browser ایمن مرور کنید</translation>
 <translation id="2089795179672254991">وقتی سایتی می‌خواهد به نوشتار و تصاویر کپی‌شده در بریده‌دان دسترسی پیدا کند، سؤال شود (توصیه می‌شود)</translation>
 <translation id="2089925163047119068">یا</translation>
 <translation id="2090165459409185032">‏برای بازیابی اطلاعات حساب‌تان به اینجا بروید: google.com/accounts/recovery</translation>
@@ -1611,7 +1611,7 @@
 <translation id="2434449159125086437">چاپگر راه‌اندازی نشد لطفاً پیکربندی را بررسی کنید و دوباره امتحان کنید.</translation>
 <translation id="2434758125294431199">انتخاب افرادی که می‌توانند با شما هم‌رسانی انجام دهند</translation>
 <translation id="2434915728183570229">اکنون می‌توانید برنامه‌های تلفنتان را مشاهده کنید</translation>
-<translation id="2435137177546457207">‏شرایط تکمیلی Google Egon و ChromeOS Flex</translation>
+<translation id="2435137177546457207">‏شرایط تکمیلی Egon Browser و ChromeOS Flex</translation>
 <translation id="2435248616906486374">شبکه قطع شد</translation>
 <translation id="2435457462613246316">نمایش گذرواژه</translation>
 <translation id="2439626940657133600">درحال بار کردن <ph name="WINDOW_TITLE" /></translation>
@@ -3064,7 +3064,7 @@
 <translation id="3798632811625902122">دستگاه بلوتوث <ph name="DEVICE" /> برای مرتبط‌سازی به اجازه نیاز دارد.</translation>
 <translation id="3799128412641261490">تنظیمات دسترسی کلیدی</translation>
 <translation id="3800806661949714323">نمایش همه موارد (توصیه می‌شود)</translation>
-<translation id="3800828618615365228">‏شرایط تکمیلی Google Egon و ChromeOS</translation>
+<translation id="3800828618615365228">‏شرایط تکمیلی Egon Browser و ChromeOS</translation>
 <translation id="3802486193901166966">این افزونه به اجازه خاصی نیاز ندارد و هیچ‌گونه دسترسی اضافی به سایت ندارد</translation>
 <translation id="380329542618494757">نام</translation>
 <translation id="3803345858388753269">کیفیت ویدیو</translation>
@@ -3080,7 +3080,7 @@
 <translation id="3810973564298564668">مدیریت</translation>
 <translation id="381202950560906753">افزودن دستگاه دیگر</translation>
 <translation id="3812525830114410218">گواهی نادرست</translation>
-<translation id="3813296892522778813">‏اگر نمی‌توانید چیزی را که می‌خواهید پیدا کنید،‌ به <ph name="BEGIN_LINK_CHROMIUM" />راهنمای Google Egon‏<ph name="END_LINK_CHROMIUM" /> بروید</translation>
+<translation id="3813296892522778813">‏اگر نمی‌توانید چیزی را که می‌خواهید پیدا کنید،‌ به <ph name="BEGIN_LINK_CHROMIUM" />راهنمای Egon Browser‏<ph name="END_LINK_CHROMIUM" /> بروید</translation>
 <translation id="3813358687923336574">زبان استفاده‌شده برای ترجمه صفحات و «پاسخ‌های سریع»</translation>
 <translation id="3814529970604306954">حساب محل تحصیل</translation>
 <translation id="3816118180265633665">‏رنگ‌های Egon</translation>
@@ -3436,7 +3436,7 @@
 <translation id="4132364317545104286">تغییر دادن نام نمایه سیم‌کارت داخلی</translation>
 <translation id="4133076602192971179">برای تغییر دادن گذرواژه، برنامه را باز کنید</translation>
 <translation id="4134818201340504801">برای تکمیل راه‌اندازی، فضای ذخیره‌سازی کافی وجود ندارد. لطفاً فضای ذخیره‌سازی را آزاد و دوباره امتحان کنید.</translation>
-<translation id="4135746311382563554">‏شرایط خدمات تکمیلی Google Egon و ChromeOS</translation>
+<translation id="4135746311382563554">‏شرایط خدمات تکمیلی Egon Browser و ChromeOS</translation>
 <translation id="4136203100490971508">«نور شب» هنگام طلوع آفتاب به‌طور خودکار خاموش می‌شود</translation>
 <translation id="41365691917097717">‏با ادامه دادن، اشکال‌زدایی ADB (پل اشکال‌زدایی Android) برای ایجاد و آزمایش برنامه‌های Android فعال می‌شود. توجه داشته باشید که این کنش نصب برنامه‌های Android را که Google تأیید نکرده است مجاز می‌کند و برای غیرفعال شدن به بازنشانی کارخانه‌ای نیاز دارد.</translation>
 <translation id="4138267921960073861">نمایش نام‌های کاربری و عکس‌ها در صفحه ورود به سیستم</translation>
@@ -3856,7 +3856,7 @@
 <translation id="4544174279960331769">چهره‌نمای پیش‌فرض آبی</translation>
 <translation id="4545028762441890696">برای دوباره فعال کردن آن، مجوزهای جدید را بپذیرید:</translation>
 <translation id="4545759655004063573">به دلیل مجوزهای ناکافی ذخیره امکان‌پذیر نیست. لطفاً در محل دیگری ذخیره کنید.</translation>
-<translation id="4546308221697447294">‏با Google Egon سریع مرور کنید</translation>
+<translation id="4546308221697447294">‏با Egon Browser سریع مرور کنید</translation>
 <translation id="4546345569117159016">دکمه راست</translation>
 <translation id="4546692474302123343">‏ورودی گفتاری «دستیار Google»</translation>
 <translation id="4547659257713117923">برگه‌ای از دیگر دستگاه‌ها وجود ندارد</translation>
@@ -5915,7 +5915,7 @@
 <translation id="6509207748479174212">گواهینامه رسانه</translation>
 <translation id="6511827214781912955">توصیه می‌کنیم <ph name="FILENAME" /> را حذف کنید تا افراد دیگری که از این دستگاه استفاده می‌کنند نتوانند گذرواژه‌هایتان را ببینند</translation>
 <translation id="6512808201725371249">‏درحال‌حاضر گذرواژه‌ای برای این حساب در «مدیر گذرواژه Google» ذخیره شده است (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">‏اگر به شبکه دیگری وصل نباشید Google Egon از داده‌های تلفن همراه استفاده خواهد کرد.</translation>
+<translation id="6513247462497316522">‏اگر به شبکه دیگری وصل نباشید Egon Browser از داده‌های تلفن همراه استفاده خواهد کرد.</translation>
 <translation id="6514010653036109809">دستگاه دردسترس:</translation>
 <translation id="6514565641373682518">این صفحه مکان‌نمای ماوس شما را غیرفعال کرد.</translation>
 <translation id="6517709704288360414">ممکن است دستگاهتان دیگر به‌درستی کار نکند، و ممکن است با مشکلات کاربردی و امنیتی مواجه شوید. خاموش کردن به‌روزرسانی‌ها می‌تواند بر حق شما در مطرح کردن دعوی‌های حقوقی درصورت بروز مشکلات تأثیر بگذارد.</translation>
@@ -8101,7 +8101,7 @@
 <translation id="8554899698005018844">زبانی موجود نیست</translation>
 <translation id="855604308879080518">‏به برنامه‌های Android اجازه دهید به دستگاه‌های USB در این Chromebook دسترسی داشته باشند. هربار دستگاه USB را وصل کنید، اجازه درخواست خواهد شد. هرکدام از برنامه‌های Android به‌صورت جداگانه اجازه‌های جانبی درخواست خواهند کرد.</translation>
 <translation id="8557022314818157177">کلید امنیتی را تازمانی‌که اثرانگشت ثبت شود، لمس کنید</translation>
-<translation id="8557180006508471423">‏روشن کردن «Google Egon» در خدمات مکان در Mac</translation>
+<translation id="8557180006508471423">‏روشن کردن «Egon Browser» در خدمات مکان در Mac</translation>
 <translation id="8557856025359704738">بارگیری بعدی در تاریخ <ph name="NEXT_DATE_DOWNLOAD" /> انجام می‌شود.</translation>
 <translation id="8559858985063901027">گذرکلیدها</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{باز کردن همه در پنجره جدید}=1{باز کردن در پنجره جدید}one{باز کردن همه ({COUNT}) در پنجره جدید}other{باز کردن همه ({COUNT}) در پنجره جدید}}</translation>

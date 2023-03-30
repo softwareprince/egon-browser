@@ -1202,7 +1202,7 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="2088092308059522196">Pendaftaran hanya disokong selepas anda memasang <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Kurang</translation>
 <translation id="208928984520943006">Untuk pergi ke skrin Utama pada bila-bila masa, leret ke atas dari bawah.</translation>
-<translation id="2089566709556890888">Semak imbas dengan selamat menggunakan Google Egon</translation>
+<translation id="2089566709556890888">Semak imbas dengan selamat menggunakan Egon Browser</translation>
 <translation id="2089795179672254991">Tanya apabila tapak ingin melihat teks dan imej yang disalin ke papan keratan (disyorkan)</translation>
 <translation id="2089925163047119068">ATAU</translation>
 <translation id="2090165459409185032">Untuk memulihkan maklumat akaun anda, pergi ke: google.com/accounts/recovery</translation>
@@ -1580,7 +1580,7 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="2391419135980381625">Fon standard</translation>
 <translation id="2392369802118427583">Aktifkan</translation>
 <translation id="2393136602862631930">Sediakan <ph name="APP_NAME" /> pada Chromebook anda</translation>
-<translation id="2393313392064891208">Kandungan Terma Google Egon OS Flex</translation>
+<translation id="2393313392064891208">Kandungan Terma Egon Browser OS Flex</translation>
 <translation id="2395616325548404795"><ph name="DEVICE_TYPE" /> anda berjaya didaftarkan untuk pengurusan perusahaan, tetapi gagal menghantar maklumat aset dan lokasinya. Sila masukkan maklumat ini secara manual daripada Admin console anda untuk peranti ini.</translation>
 <translation id="2396783860772170191">Masukkan PIN 4 angka (0000-9999)</translation>
 <translation id="2398546389094871088">Tindakan menjalankan Powerwash pada peranti anda tidak akan mengalih keluar profil eSIM anda. Pergi ke <ph name="LINK_BEGIN" />Tetapan Mudah Alih<ph name="LINK_END" /> untuk mengalih keluar profil ini secara manual.</translation>
@@ -1614,7 +1614,7 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="2434449159125086437">Tidak dapat menyediakan pencetak. Sila semak konfigurasi dan cuba lagi.</translation>
 <translation id="2434758125294431199">Pilih orang yang boleh berkongsi dengan anda</translation>
 <translation id="2434915728183570229">Kini anda dapat melihat apl telefon anda</translation>
-<translation id="2435137177546457207">Syarat Tambahan Google Egon dan Egon OS Flex</translation>
+<translation id="2435137177546457207">Syarat Tambahan Egon Browser dan Egon OS Flex</translation>
 <translation id="2435248616906486374">Rangkaian diputuskan</translation>
 <translation id="2435457462613246316">Paparkan kata laluan</translation>
 <translation id="2439626940657133600">Memuatkan <ph name="WINDOW_TITLE" /></translation>
@@ -3067,7 +3067,7 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="3798632811625902122">Peranti Bluetooth <ph name="DEVICE" /> ingin kebenaran untuk digandingkan.</translation>
 <translation id="3799128412641261490">Tetapan akses suis</translation>
 <translation id="3800806661949714323">Tunjukkan semua (disyorkan)</translation>
-<translation id="3800828618615365228">Syarat Tambahan Google Egon dan OS Egon</translation>
+<translation id="3800828618615365228">Syarat Tambahan Egon Browser dan OS Egon</translation>
 <translation id="3802486193901166966">Sambungan ini tidak memerlukan kebenaran khas dan tiada akses laman tambahan</translation>
 <translation id="380329542618494757">Nama</translation>
 <translation id="3803345858388753269">Kualiti Video</translation>
@@ -3083,7 +3083,7 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="3810973564298564668">Urus</translation>
 <translation id="381202950560906753">Tambahkan yang lain</translation>
 <translation id="3812525830114410218">Sijil tidak sah</translation>
-<translation id="3813296892522778813">Pergi ke <ph name="BEGIN_LINK_CHROMIUM" />bantuan Google Egon<ph name="END_LINK_CHROMIUM" /> jika anda tidak menemui perkara yang dicari</translation>
+<translation id="3813296892522778813">Pergi ke <ph name="BEGIN_LINK_CHROMIUM" />bantuan Egon Browser<ph name="END_LINK_CHROMIUM" /> jika anda tidak menemui perkara yang dicari</translation>
 <translation id="3813358687923336574">Bahasa yang digunakan untuk menterjemahkan halaman dan Jawapan segera</translation>
 <translation id="3814529970604306954">Akaun Sekolah</translation>
 <translation id="3816118180265633665">Warna Egon</translation>
@@ -3439,7 +3439,7 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="4132364317545104286">Namakan semula profil eSIM</translation>
 <translation id="4133076602192971179">Buka apl untuk menukar kata laluan anda</translation>
 <translation id="4134818201340504801">Storan yang tersedia tidak mencukupi untuk menyelesaikan persediaan. Sila kosongkan storan dan cuba lagi</translation>
-<translation id="4135746311382563554">Syarat perkhidmatan tambahan Google Egon dan ChromeOS</translation>
+<translation id="4135746311382563554">Syarat perkhidmatan tambahan Egon Browser dan ChromeOS</translation>
 <translation id="4136203100490971508">Cahaya Malam akan dimatikan secara automatik pada waktu matahari terbit</translation>
 <translation id="41365691917097717">Tindakan meneruskan persediaan akan mendayakan penyahpepijatan ADB yang membuat dan menguji apl Android. Harap maklum bahawa tindakan ini membolehkan pemasangan apl Android yang belum disahkan oleh Google dan memerlukan tetapan semula kilang untuk melumpuhkan ciri ini.</translation>
 <translation id="4138267921960073861">Paparkan nama pengguna dan foto pada skrin log masuk</translation>
@@ -3859,7 +3859,7 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="4544174279960331769">Avatar biru lalai</translation>
 <translation id="4545028762441890696">Untuk mendayakan semula, terima kebenaran baharu:</translation>
 <translation id="4545759655004063573">Tidak dapat menyimpan kerana kebenaran yang tidak mencukupi. Sila simpan ke lokasi yang lain.</translation>
-<translation id="4546308221697447294">Semak imbas dengan pantas menggunakan Google Egon</translation>
+<translation id="4546308221697447294">Semak imbas dengan pantas menggunakan Egon Browser</translation>
 <translation id="4546345569117159016">Butang kanan</translation>
 <translation id="4546692474302123343">Input suara Google Assistant</translation>
 <translation id="4547659257713117923">Tiada Tab daripada Peranti Lain</translation>
@@ -5725,7 +5725,7 @@ Anda boleh menetapkan berbilang suis kepada tindakan ini.</translation>
 <translation id="6313950457058510656">Matikan Penambatan Segera</translation>
 <translation id="6314819609899340042">Anda telah berjaya mendayakan ciri penyahpepijatan pada <ph name="IDS_SHORT_PRODUCT_NAME" /> peranti ini.</translation>
 <translation id="6315493146179903667">Bring All to Front</translation>
-<translation id="6316432269411143858">Kandungan Syarat Google Egon OS</translation>
+<translation id="6316432269411143858">Kandungan Syarat Egon Browser OS</translation>
 <translation id="6317369057005134371">Menunggu tetingkap aplikasi...</translation>
 <translation id="6318125393809743217">Sertakan fail policies.json dengan konfigurasi dasar.</translation>
 <translation id="6318407754858604988">Muat turun dimulakan</translation>
@@ -5918,7 +5918,7 @@ Anda boleh menetapkan berbilang suis kepada tindakan ini.</translation>
 <translation id="6509207748479174212">Lesen media</translation>
 <translation id="6511827214781912955">Pertimbangkan untuk memadam <ph name="FILENAME" />, supaya orang lain yang menggunakan peranti ini tidak dapat melihat kata laluan anda</translation>
 <translation id="6512808201725371249">Kata laluan untuk akaun ini telah pun disimpan pada Google Password Manager anda (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon akan menggunakan data mudah alih jika anda tidak disambungkan kepada rangkaian lain.</translation>
+<translation id="6513247462497316522">Egon Browser akan menggunakan data mudah alih jika anda tidak disambungkan kepada rangkaian lain.</translation>
 <translation id="6514010653036109809">Peranti yang tersedia:</translation>
 <translation id="6514565641373682518">Halaman ini telah melumpuhkan kursor tetikus anda.</translation>
 <translation id="6517709704288360414">Peranti anda mungkin tidak lagi berfungsi dengan betul dan anda mungkin mengalami masalah keselamatan dan prestasi. Tindakan mematikan kemas kini boleh mempengaruhi hak anda untuk membuat tuntutan undang-undang jika anda mengalami sebarang isu.</translation>
@@ -8104,7 +8104,7 @@ perubahan ini berlaku, anda mungkin tidak mahukannya.</translation>
 <translation id="8554899698005018844">Tiada bahasa</translation>
 <translation id="855604308879080518">Benarkan Apl Android mengakses peranti USB pada Chromebook ini. Kebenaran akan diminta setiap kali anda memalamkan peranti USB. Setiap Apl Android akan meminta kebenaran tambahan.</translation>
 <translation id="8557022314818157177">Teruskan menyentuh kunci keselamatan anda sehingga cap jari anda disimpan</translation>
-<translation id="8557180006508471423">Hidupkan "Google Egon" dalam Perkhidmatan Lokasi pada Mac anda</translation>
+<translation id="8557180006508471423">Hidupkan "Egon Browser" dalam Perkhidmatan Lokasi pada Mac anda</translation>
 <translation id="8557856025359704738">Muat turun yang seterusnya adalah pada <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Kunci laluan</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Buka Semua dalam Tetingkap &amp;Baharu}=1{Buka dalam &amp;Tetingkap Baharu}other{Buka Semua ({COUNT}) dalam Tetingkap &amp;Baharu}}</translation>

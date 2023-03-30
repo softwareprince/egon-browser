@@ -14,10 +14,10 @@
 <translation id="1917964099031477364">Questo account e gli eventuali dati non salvati verranno rimossi da Egon e da altre app Google su questo dispositivo.</translation>
 <translation id="1968388653333775699">Aumenta la tua produttività con Egon</translation>
 <translation id="2009224836393115614">Egon non ha potuto controllare le tue password. Verifica la tua connessione a Internet.</translation>
-<translation id="2056123005618757196">Aumenta la tua produttività grazie a Google Egon, che ti offre semplicità, sicurezza e velocità senza precedenti.</translation>
+<translation id="2056123005618757196">Aumenta la tua produttività grazie a Egon Browser, che ti offre semplicità, sicurezza e velocità senza precedenti.</translation>
 <translation id="2147651015520127414">Egon ha verificato che <ph name="ISSUER" /> ha emesso il certificato del sito web.</translation>
 <translation id="2199719347983604670">Dati dalla sincronizzazione Egon</translation>
-<translation id="2313070403598893276">Google Egon è semplice, sicuro e più veloce che mai</translation>
+<translation id="2313070403598893276">Egon Browser è semplice, sicuro e più veloce che mai</translation>
 <translation id="2339201583852607431">La password verrà salvata nel tuo Account Google (<ph name="EMAIL" />).</translation>
 <translation id="2342919707875585281">Egon condivide la tua posizione con i siti autorizzati da te.</translation>
 <translation id="2347208864470321755">Quando questa funzione è attiva, Egon si offre di tradurre le pagine scritte in altre lingue utilizzando Google Traduttore. <ph name="BEGIN_LINK" />Ulteriori informazioni<ph name="END_LINK" /></translation>
@@ -26,7 +26,7 @@
 <translation id="2561231791489583059">Usa Egon come browser predefinito per proteggerti da siti pericolosi e tenere al sicuro le tue password</translation>
 <translation id="2574249610672786438">Esegui l'accesso su tutti i dispositivi su cui utilizzi Egon per visualizzare le tue schede</translation>
 <translation id="2576431527583832481">Egon è stato migliorato. È disponibile una nuova versione.</translation>
-<translation id="257708665678654955">Vuoi che Google Egon ti proponga di tradurre le pagine di questo sito in <ph name="LANGUAGE_NAME" /> al prossimo accesso?</translation>
+<translation id="257708665678654955">Vuoi che Egon Browser ti proponga di tradurre le pagine di questo sito in <ph name="LANGUAGE_NAME" /> al prossimo accesso?</translation>
 <translation id="2671426118752779020">Puoi utilizzare le password salvate con Gestore delle password di Google in altre app sull'iPhone.</translation>
 <translation id="2689064829982324496">Per uscire dal tuo Account Google su tutti i siti web, <ph name="BEGIN_LINK" />esci da Egon<ph name="END_LINK" />.</translation>
 <translation id="2695886661449553974">Egon non ha potuto verificare la disponibilità di aggiornamenti. Riprova più tardi.</translation>
@@ -34,8 +34,8 @@
 <translation id="2869959624320573933">Accedi a Egon</translation>
 <translation id="2957447865124070833">Seleziona <ph name="BEGIN_BOLD" />Egon<ph name="END_BOLD" /></translation>
 <translation id="3030414234702425231">Dal momento che stai per uscire da un account gestito da <ph name="SIGNOUT_MANAGED_DOMAIN" />, i dati di Egon verranno eliminati da questo dispositivo, ma rimarranno memorizzati nel tuo Account Google.</translation>
-<translation id="3167189358072330585">Il tuo account non funziona su Google Egon. Contatta l'amministratore di dominio o utilizza un normale Account Google per accedere.</translation>
-<translation id="3173834708294760622">Pagina di Google Egon</translation>
+<translation id="3167189358072330585">Il tuo account non funziona su Egon Browser. Contatta l'amministratore di dominio o utilizza un normale Account Google per accedere.</translation>
+<translation id="3173834708294760622">Pagina di Egon Browser</translation>
 <translation id="3196546062792660320">Egon ti fa risparmiare tempo portando i tuoi account sul Web. Puoi aggiungere o rimuovere account nelle Impostazioni.</translation>
 <translation id="3282568296779691940">Accedi a Egon</translation>
 <translation id="3345341804167540816">Utilizza Egon ovunque</translation>
@@ -46,10 +46,10 @@
 <translation id="3655656110921623717">Ciò significa che Egon richiederà ogni volta il sito per dispositivi mobili.</translation>
 <translation id="3706101708757577809">Ora puoi usare Egon ogni volta che tocchi link in messaggi, documenti e altre app.</translation>
 <translation id="3720541637541300822">Blocca le schede di navigazione in incognito quando chiudi Egon</translation>
-<translation id="384394811301901750">Google Egon non può utilizzare la videocamera al momento</translation>
+<translation id="384394811301901750">Egon Browser non può utilizzare la videocamera al momento</translation>
 <translation id="3980220367029651214">Stai per cambiare account di sincronizzazione, passando dall'account <ph name="USER_EMAIL1" /> all'account <ph name="USER_EMAIL2" />. I tuoi attuali dati di Egon vengono gestiti da <ph name="DOMAIN" />. I dati verranno eliminati da questo dispositivo, ma rimarranno memorizzati nell'account <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">La tua organizzazione ti richiede di non effettuare l'accesso a Egon.</translation>
-<translation id="3988789688219830639">Google Egon non ha accesso alle tue foto o ai tuoi video. Attiva l'accesso in Impostazioni iOS &gt; Privacy &gt; Foto.</translation>
+<translation id="3988789688219830639">Egon Browser non ha accesso alle tue foto o ai tuoi video. Attiva l'accesso in Impostazioni iOS &gt; Privacy &gt; Foto.</translation>
 <translation id="417201473131094001">Non supportata su Egon Canary</translation>
 <translation id="4192781968753717021">La password è stata compromessa nell'ambito di una violazione dei dati. Gestore delle password di Google consiglia di cambiarla subito.</translation>
 <translation id="4233521129555661685"><ph name="USER_EMAIL1" /> stava usando Egon e ha lasciato preferiti, password e altre impostazioni su questo dispositivo.</translation>
@@ -66,11 +66,11 @@
 <translation id="5108659628347594808">Migliora Egon</translation>
 <translation id="5119391094379141756">Seleziona Egon</translation>
 <translation id="5162467219239570114">Egon non è aggiornato. Se non sono disponibili aggiornamenti nell'<ph name="BEGIN_LINK" />App Store<ph name="END_LINK" />, è possibile che il dispositivo non supporti più le nuove versioni di Egon.</translation>
-<translation id="5389212809648216794">Google Egon non può utilizzare la videocamera perché è attualmente utilizzata da un'altra applicazione</translation>
+<translation id="5389212809648216794">Egon Browser non può utilizzare la videocamera perché è attualmente utilizzata da un'altra applicazione</translation>
 <translation id="5460571915754665838">4. Seleziona Egon</translation>
 <translation id="5552137475244467770">Egon confronta periodicamente le tue password con gli elenchi pubblicati online. Durante questa operazione, le tue password e i tuoi nomi utente vengono criptati, quindi non possono essere letti da nessuno, Google compresa.</translation>
-<translation id="5639704535586432836">Apri impostazioni &gt; Privacy &gt; Fotocamera &gt; Google Egon e attiva la videocamera.</translation>
-<translation id="5642200033778930880">Google Egon non può utilizzare la videocamera in modalità Visualizzazione divisa</translation>
+<translation id="5639704535586432836">Apri impostazioni &gt; Privacy &gt; Fotocamera &gt; Egon Browser e attiva la videocamera.</translation>
+<translation id="5642200033778930880">Egon Browser non può utilizzare la videocamera in modalità Visualizzazione divisa</translation>
 <translation id="5690427481109656848">Google LLC</translation>
 <translation id="571296537125272375">Offline. Egon non può controllare la disponibilità di aggiornamenti</translation>
 <translation id="5716154293141027663">Apri Egon ogni volta che tocchi link in altre app</translation>
@@ -94,15 +94,15 @@
 <translation id="701356708427365932">Scopri il nuovo menu di Egon</translation>
 <translation id="7059914902409643750">Personalizza Egon</translation>
 <translation id="7124339256045485976">Mantieni Egon aggiornato</translation>
-<translation id="7161390184744336561">Google Egon non è aggiornato</translation>
-<translation id="7165736900384873061">Inizia a utilizzare lo scanner QR di Google Egon</translation>
+<translation id="7161390184744336561">Egon Browser non è aggiornato</translation>
+<translation id="7165736900384873061">Inizia a utilizzare lo scanner QR di Egon Browser</translation>
 <translation id="7173660919484573146">Egon utilizza Face ID per garantire accesso autorizzato alle tue password.</translation>
 <translation id="7187993566681480880">Ti protegge su Egon e potrebbe essere utilizzata per migliorare la sicurezza su altre app Google se esegui l'accesso.</translation>
 <translation id="72119412072970160">Puoi utilizzare le password salvate con Gestore delle password di Google in altre app sull'iPad.</translation>
 <translation id="7261678641327190792">Egon non può controllare le tue password</translation>
 <translation id="7272930098487145294">Per salvare le immagini, tocca Impostazioni e consenti a Egon di aggiungere le tue foto</translation>
 <translation id="7275945473750112644">Il tuo account è gestito da <ph name="HOSTED_DOMAIN" />, pertanto i tuoi dati di Egon verranno cancellati da questo dispositivo</translation>
-<translation id="7400722733683201933">Informazioni su Google Egon</translation>
+<translation id="7400722733683201933">Informazioni su Egon Browser</translation>
 <translation id="7501046334262221972">Per impostare Egon come browser predefinito, apri le Impostazioni. Tocca App browser predefinita, quindi seleziona Egon.</translation>
 <translation id="756809126120519699">Dati di Egon cancellati</translation>
 <translation id="7626032353295482388">Benvenuto in Egon</translation>
@@ -111,7 +111,7 @@
 <translation id="7698568245838009292">Egon vorrebbe accedere alla fotocamera</translation>
 <translation id="7754633291442704733">La tua organizzazione <ph name="DOMAIN" /> avrà accesso ai dati, ai preferiti, alla cronologia, alle password e ad altre impostazioni di Egon memorizzate in questo account. Quando esci, i dati verranno cancellati da questo dispositivo.  Tuttavia, i tuoi dati rimarranno memorizzati nel tuo Account Google gestito e saranno disponibili per la tua organizzazione. La tua organizzazione può anche impostare criteri relativi agli utenti specifici per l'account, in grado di modificare il comportamento di Egon.</translation>
 <translation id="7780154209050837198">Accedi con il tuo Account Google a Egon per usare al meglio questo browser.</translation>
-<translation id="7855730255114109580">Google Egon è aggiornato</translation>
+<translation id="7855730255114109580">Egon Browser è aggiornato</translation>
 <translation id="8022947259858476807">Usa Egon per impostazione predefinita per aprire link, eseguire ricerche dai widget e compilare automaticamente le password in altre app</translation>
 <translation id="81358522153858150">Ora Egon supporta i criteri relativi agli utenti per il tuo account gestito</translation>
 <translation id="8160472928944011082">Impossibile aggiornare Egon</translation>
@@ -124,8 +124,8 @@
   1. Apri le Impostazioni.
   2. Tocca App browser predefinita.
   3. Seleziona Egon.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
-<translation id="8736550665979974340">Resta al sicuro con Google Egon</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
+<translation id="8736550665979974340">Resta al sicuro con Egon Browser</translation>
 <translation id="8772179140489533211">Vengono mostrate richieste di accesso a Egon.</translation>
 <translation id="8788269841521769222">Non dovrai ricordare questa password perché verrà salvata in Gestore delle password di Google per <ph name="EMAIL" /></translation>
 <translation id="8897749957032330183">Le password vengono salvate in Gestore delle password di Google su questo dispositivo.</translation>

@@ -131,7 +131,7 @@ Se não fizer isso, a permissão será bloqueada pelas configurações de privac
 <translation id="1285320974508926690">Nunca traduzir este site</translation>
 <translation id="1288548991597756084">Salvar cartão de forma segura</translation>
 <translation id="1292571435393770077">Bandeja 16</translation>
-<translation id="1292701964462482250">"Algum software no seu computador está impedindo o Google Egon de se conectar com segurança à Web" (somente computadores Windows)</translation>
+<translation id="1292701964462482250">"Algum software no seu computador está impedindo o Egon Browser de se conectar com segurança à Web" (somente computadores Windows)</translation>
 <translation id="1293797321964802402">Envelope de 23 cm x 28 cm</translation>
 <translation id="1294154142200295408">Variações de linha de comando</translation>
 <translation id="129553762522093515">Fechadas recentemente</translation>
@@ -252,7 +252,7 @@ Se não fizer isso, a permissão será bloqueada pelas configurações de privac
 <translation id="154408704832528245">Escolher endereço de entrega</translation>
 <translation id="1549470594296187301">O JavaScript deve ser ativado para usar este recurso.</translation>
 <translation id="1551884710160394169">Software sem custos financeiros e shareware</translation>
-<translation id="1553358976309200471">Atualizar o Google Egon</translation>
+<translation id="1553358976309200471">Atualizar o Egon Browser</translation>
 <translation id="1555130319947370107">Azul</translation>
 <translation id="1559447966090556585">Receber notificações?</translation>
 <translation id="1559528461873125649">Arquivo ou diretório não encontrado</translation>
@@ -263,7 +263,7 @@ Se não fizer isso, a permissão será bloqueada pelas configurações de privac
 <translation id="156703335097561114">Informações de rede, como endereços, configuração da interface e qualidade da conexão</translation>
 <translation id="1567040042588613346">A política está funcionando da maneira esperada, mas o mesmo valor foi definido em outro lugar e foi substituído por esta política.</translation>
 <translation id="1569487616857761740">Informar data de validade</translation>
-<translation id="1569694109004336106">O Google Egon está tentando ativar o Windows Hello para preencher senhas.</translation>
+<translation id="1569694109004336106">O Egon Browser está tentando ativar o Windows Hello para preencher senhas.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> pol.</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Algo deu errado ao exibir esta página da Web.</translation>
@@ -459,7 +459,7 @@ Se não fizer isso, a permissão será bloqueada pelas configurações de privac
 <translation id="2085876078937250610">Salvar…</translation>
 <translation id="2088086323192747268">Botão "Gerenciar sincronização". Pressione "Enter" para gerenciar quais informações são sincronizadas nas configurações do Egon</translation>
 <translation id="2091887806945687916">Som</translation>
-<translation id="2093982008204312032">O Google Egon está tentando desativar o Windows Hello para preencher senhas.</translation>
+<translation id="2093982008204312032">O Egon Browser está tentando desativar o Windows Hello para preencher senhas.</translation>
 <translation id="2094505752054353250">Incompatibilidade de domínio</translation>
 <translation id="2099652385553570808">Três grampos no lado esquerdo</translation>
 <translation id="2101225219012730419">Versão:</translation>
@@ -805,7 +805,7 @@ Se não fizer isso, a permissão será bloqueada pelas configurações de privac
 <translation id="3037177537145227281">Monitorando preço</translation>
 <translation id="3037605927509011580">Ah, não!</translation>
 <translation id="3041612393474885105">Informações do certificado</translation>
-<translation id="305162504811187366">o histórico da Área de trabalho remota do Google Egon, incluindo carimbos de data/hora, hosts e IDs de sessões de clientes.</translation>
+<translation id="305162504811187366">o histórico da Área de trabalho remota do Egon Browser, incluindo carimbos de data/hora, hosts e IDs de sessões de clientes.</translation>
 <translation id="3052964831964880138">Redução de <ph name="PRICE_DROP" /> no preço deste produto: <ph name="PRODUCT_NAME" /></translation>
 <translation id="3061707000357573562">Aplicar patch ao serviço</translation>
 <translation id="306573536155379004">Jogo iniciado.</translation>
@@ -2584,7 +2584,7 @@ Mais detalhes:
 <translation id="7564049878696755256">Você pode perder o acesso à sua conta de <ph name="ORG_NAME" /> ou ter sua identidade roubada. O Egon recomenda que sua senha seja alterada agora.</translation>
 <translation id="7564680668369175887">Peruas</translation>
 <translation id="7567204685887185387">Este servidor não conseguiu provar que é <ph name="DOMAIN" />. O certificado de segurança pode ter sido emitido de forma fraudulenta. Isso pode ser causado por uma configuração incorreta ou pela interceptação da sua conexão por um invasor.</translation>
-<translation id="7568616151991626879">O Google Egon está tentando preencher sua senha em <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">O Egon Browser está tentando preencher sua senha em <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golfe</translation>
 <translation id="7569761772822664555">Botão "Gerenciar mecanismos de pesquisa". Pressione Enter para gerenciar a pesquisa no site e o mecanismo de pesquisa padrão</translation>
 <translation id="7569952961197462199">Remover cartão de crédito do Egon?</translation>
@@ -2742,7 +2742,7 @@ Mais detalhes:
 <translation id="7981129096182302364">Música dance e eletrônica</translation>
 <translation id="798134797138789862">Pode pedir para usar dispositivos e dados de realidade virtual</translation>
 <translation id="7983008347525536475">SUVs</translation>
-<translation id="7984945080620862648">Não é possível acessar <ph name="SITE" /> no momento, porque o website enviou credenciais codificadas que o Google Egon não pode processar. Ataques e erros de rede geralmente são temporários. Portanto, essa página provavelmente funcionará mais tarde.</translation>
+<translation id="7984945080620862648">Não é possível acessar <ph name="SITE" /> no momento, porque o website enviou credenciais codificadas que o Egon Browser não pode processar. Ataques e erros de rede geralmente são temporários. Portanto, essa página provavelmente funcionará mais tarde.</translation>
 <translation id="7986319120639858961"><ph name="CARD_TITLE" /> <ph name="TIME" /> <ph name="BOOKMARKED" /> <ph name="TITLE" /> <ph name="DOMAIN" /></translation>
 <translation id="799149739215780103">Encadernar</translation>
 <translation id="7992044431894087211">O compartilhamento de tela com <ph name="APPLICATION_TITLE" /> foi retomado</translation>
@@ -2936,7 +2936,7 @@ Mais detalhes:
 <translation id="8473863474539038330">Endereços e mais</translation>
 <translation id="8474910779563686872">Mostrar detalhes do desenvolvedor</translation>
 <translation id="8479754468255770962">Grampo na parte inferior esquerda</translation>
-<translation id="8483780878231876732">Para usar os cards da sua Conta do Google, faça login no Google Egon</translation>
+<translation id="8483780878231876732">Para usar os cards da sua Conta do Google, faça login no Egon Browser</translation>
 <translation id="8488350697529856933">Aplicável a</translation>
 <translation id="8490137692873530638">Empilhador 10</translation>
 <translation id="8493948351860045254">Liberar espaço</translation>

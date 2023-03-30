@@ -263,7 +263,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="156703335097561114">Hálózati információk, többek között címek, a kezelőfelület beállításai és a kapcsolat minősége</translation>
 <translation id="1567040042588613346">A házirend az elvárt módon működik, de valahol máshol ugyanaz az érték van beállítva, amelyet felülír ez a házirend.</translation>
 <translation id="1569487616857761740">Adja meg a lejárat dátumát</translation>
-<translation id="1569694109004336106">A Google Egon megpróbálja bekapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
+<translation id="1569694109004336106">A Egon Browser megpróbálja bekapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" /> hüvelyk</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">Valami nem sikerült a weboldal megjelenítése során.</translation>
@@ -459,7 +459,7 @@ Ezt egyéb esetben letiltják az Ön adatvédelmi beállításai. Az engedélyez
 <translation id="2085876078937250610">Mentés…</translation>
 <translation id="2088086323192747268">Szinkronizálás kezelése gomb. Nyomja le az Enter billentyűt az adatok szinkronizálásának Egon-beállítások közötti kezeléséhez.</translation>
 <translation id="2091887806945687916">Hang</translation>
-<translation id="2093982008204312032">A Google Egon megpróbálja kikapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
+<translation id="2093982008204312032">A Egon Browser megpróbálja kikapcsolni a Windows Hello szolgáltatást a jelszavak kitöltéséhez.</translation>
 <translation id="2094505752054353250">Domainkeveredés</translation>
 <translation id="2099652385553570808">Három kapocs a bal oldalon</translation>
 <translation id="2101225219012730419">Verzió:</translation>
@@ -2582,7 +2582,7 @@ További részletek:
 <translation id="7564049878696755256">Elveszítheti hozzáférést <ph name="ORG_NAME" />-fiókjához, vagy visszaélhetnek személyes adataival. A Egon azt javasolja, hogy azonnal módosítsa jelszavát.</translation>
 <translation id="7564680668369175887">Kombik</translation>
 <translation id="7567204685887185387">A szerver nem tudta bizonyítani, hogy valóban a(z) <ph name="DOMAIN" /> domainbe tartozik; biztonsági tanúsítványát csalással állíthatták ki. Ennek oka lehet konfigurációs hiba, vagy hogy egy támadó eltérítette az Ön kapcsolódását.</translation>
-<translation id="7568616151991626879">A Google Egon megpróbálja kitölteni a jelszavát itt: <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">A Egon Browser megpróbálja kitölteni a jelszavát itt: <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Golf</translation>
 <translation id="7569761772822664555">A keresőmotorok gombjának kezelése. Az Enter billentyű lenyomásával kezelheti az alapértelmezett keresőmotort és a webhelyen való keresést</translation>
 <translation id="7569952961197462199">Eltávolítja a hitelkártyát a Egon-ból?</translation>

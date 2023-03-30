@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">ነባሩን ውሂብ ይሰርዙ።</translation>
 <translation id="1146678959555564648">ምናባዊ ዕውነታ አስገባ</translation>
 <translation id="1149401351239820326">ጊዜው የሚያልፍበት ወር</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> በChrome ውስጥ ይከፈታል። በመቀጠልዎ በ<ph name="BEGIN_LINK1" />Google አገልግሎት ውል<ph name="END_LINK1" /> እና <ph name="BEGIN_LINK2" />የGoogle Egon እና የChromeOS ተጨማሪ አገልግሎት ውል<ph name="END_LINK2" /> ይስማማሉ።</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> በChrome ውስጥ ይከፈታል። በመቀጠልዎ በ<ph name="BEGIN_LINK1" />Google አገልግሎት ውል<ph name="END_LINK1" /> እና <ph name="BEGIN_LINK2" />የEgon Browser እና የChromeOS ተጨማሪ አገልግሎት ውል<ph name="END_LINK2" /> ይስማማሉ።</translation>
 <translation id="1154704303112745282">ገጽ ከመስመር ውጭ አይገኝም፦ <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">የ«ከፍተኛ ጣቢያዎች» አዝራሩን መታ በማድረግ ታዋቂ ድር ጣቢያዎችን ይመልከቱ</translation>
 <translation id="1173894706177603556">ዳግም ሰይም</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">የማስታወቂያ ልኬት እርስዎ የሚጎበኟቸው ጣቢያዎች የማስታወቂያዎቻቸውን አፈጻጸም የሚለካው ጣቢያ የሚያግዘውን መረጃ ከChrome እንዲጠይቁ ያስችላቸዋል። የማስታወቂያ ልኬት በተቻለ መጠን ትንሽ መረጃን በጣቢያዎች መካከል በማስተላለፍ የጣቢያ ተሻጋሪ ክትትልን ይገድባል።
 
 የአሰሳ ታሪክዎን ሲሰርዙ - ሁሉንም ወይም የአንድ የተወሰነ ጣቢያ - እንዲሁም ተዛማጅ የመለኪያ መረጃን ይሰርዛሉ። <ph name="BEGIN_LINK" />የእርስዎን የአሰሳ ታሪክ<ph name="END_LINK" /> ይመልከቱ።</translation>
-<translation id="1332501820983677155">የGoogle Egon ባህሪ አቋራጮች</translation>
+<translation id="1332501820983677155">የEgon Browser ባህሪ አቋራጮች</translation>
 <translation id="1344653310988386453">ወደ ድምቀቱ የሚወስድ አገናኝን አካታትት</translation>
 <translation id="1347468774581902829">እንቅስቃሴን አቀናብር</translation>
 <translation id="1360432990279830238">ዘግተው ወጥተው ስምረት ይጥፋ?</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">መተግበሪያውን መክፈት አልተቻለም</translation>
 <translation id="2132122640199389833">ሁሉንም የተገናኙ መሣሪያዎችን ያስወግዱ</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> ተዘግቷል</translation>
-<translation id="2134927169889348449">Chromeን በመጠቀምዎ በ<ph name="BEGIN_TOS_LINK" />Google አገልግሎት ውል<ph name="END_TOS_LINK" /> እና <ph name="BEGIN_ATOS_LINK" />የGoogle Egon እና የChromeOS ተጨማሪ አገልግሎት ውል<ph name="END_ATOS_LINK" /> ይስማማሉ።</translation>
+<translation id="2134927169889348449">Chromeን በመጠቀምዎ በ<ph name="BEGIN_TOS_LINK" />Google አገልግሎት ውል<ph name="END_TOS_LINK" /> እና <ph name="BEGIN_ATOS_LINK" />የEgon Browser እና የChromeOS ተጨማሪ አገልግሎት ውል<ph name="END_ATOS_LINK" /> ይስማማሉ።</translation>
 <translation id="2139186145475833000">ወደ መነሻ ማያ ገጽ አክል</translation>
 <translation id="2141396931810938595">በአጠቃቀምዎ ላይ የተመሠረተ</translation>
 <translation id="214888715418183969">ለChrome ለማጋራት የሚመችዎትን ይምረጡ። የሚያጋሯቸው መለኪያዎች የChromeን ባህሪዎች፣ አፈፃፀም እና መረጋጋትን ለማሻሻል ጥቅም ላይ ይውላሉ።</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Egon ላይ በእርስዎ ፍላጎቶች ላይ ያሉ ጽሑፎች</translation>
 <translation id="3066573403916685335">ወደታች አውርድ</translation>
 <translation id="3070005020161560471">በራስ-ሰር ይተረጉሙ</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> በChrome ውስጥ ይከፈታል። በመቀጠልዎ በ<ph name="BEGIN_LINK1" />Google አገልግሎት ውል<ph name="END_LINK1" /> እና <ph name="BEGIN_LINK2" />የGoogle Egon እና የChromeOS ተጨማሪ አገልግሎት ውል<ph name="END_LINK2" /> ይስማማሉ። እንዲሁም <ph name="BEGIN_LINK3" />የግላዊነት መመሪያው<ph name="END_LINK3" /> ይተገበራል።</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> በChrome ውስጥ ይከፈታል። በመቀጠልዎ በ<ph name="BEGIN_LINK1" />Google አገልግሎት ውል<ph name="END_LINK1" /> እና <ph name="BEGIN_LINK2" />የEgon Browser እና የChromeOS ተጨማሪ አገልግሎት ውል<ph name="END_LINK2" /> ይስማማሉ። እንዲሁም <ph name="BEGIN_LINK3" />የግላዊነት መመሪያው<ph name="END_LINK3" /> ይተገበራል።</translation>
 <translation id="3091010850649238832">የቅንጥብ ሰሌዳ ይዘቶችን አሳይ</translation>
 <translation id="3098745985164956033">ለእርስዎ መግለጫዎችን ለማሻሻል አንዳንድ ምስሎች ወደ Google ይላካሉ</translation>
 <translation id="3114507951000454849">የዛሬውን ዜና ያንብቡ <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">የእርስዎን የይለፍሐረግ ከረሱት ወይም ይህን ቅንብር መለወጥ ከፈለጉ <ph name="BEGIN_LINK" />ስምረትን ዳግም ያስጀምሩ<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">የይለፍ ቃላትዎን ለማስምር፣ እርስዎ መሆንዎን ያረጋግጡ</translation>
 <translation id="3223522355830797639">ባንክዎ እርስዎ መሆንዎን ማረጋገጥ ይፈልጋል።</translation>
-<translation id="3227557059438308877">Google Egon እንደ የደህንነት ቁልፍ</translation>
+<translation id="3227557059438308877">Egon Browser እንደ የደህንነት ቁልፍ</translation>
 <translation id="3232754137068452469">የድር መተግበሪያ</translation>
 <translation id="3234978181857588512">ወደ መሣሪያ አስቀምጥ</translation>
 <translation id="3236059992281584593">1 ደቂቃ ይቀራል</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">የአገናኝ አድራሻ ቅዳ</translation>
 <translation id="4283102315569707115">የዴስክቶፕ ጣቢያዎች በነባሪነት ይጠየቁ?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />በAndroid ቅንብሮች ውስጥ ማያ ገጽ መቆለፊያን ያብሩ<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Chromeን በመጠቀምዎ በ<ph name="BEGIN_TOS_LINK" />Google አገልግሎት ውል<ph name="END_TOS_LINK" /> እና <ph name="BEGIN_ATOS_LINK" />የGoogle Egon እና የChromeOS ተጨማሪ አገልግሎት ውል<ph name="END_ATOS_LINK" /> ይስማማሉ። እንዲሁም <ph name="BEGIN_PRIVACY_LINK" />የግላዊነት መመሪያው<ph name="END_PRIVACY_LINK" /> ይተገበራል።</translation>
+<translation id="4293476595220860475">Chromeን በመጠቀምዎ በ<ph name="BEGIN_TOS_LINK" />Google አገልግሎት ውል<ph name="END_TOS_LINK" /> እና <ph name="BEGIN_ATOS_LINK" />የEgon Browser እና የChromeOS ተጨማሪ አገልግሎት ውል<ph name="END_ATOS_LINK" /> ይስማማሉ። እንዲሁም <ph name="BEGIN_PRIVACY_LINK" />የግላዊነት መመሪያው<ph name="END_PRIVACY_LINK" /> ይተገበራል።</translation>
 <translation id="4296252229500326964">አዲስ ማንነት የማያሳውቅ ትር</translation>
 <translation id="4298388696830689168">የተገናኙ ጣቢያዎች</translation>
 <translation id="4303044213806199882">የchrome_ቅጽበታዊ ገጽ እይታ_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@
 <translation id="9219582468404818260">የተሻለ ድር እንድንገነባ ያግዙን</translation>
 <translation id="92381315203627188">አንድ ጣቢያ በገጻቸው ላይ አገናኞችን በግል ቅድሚያ እንዲጭኑ ሲጠይቀዎት Egon ገጾችን አመስጥሮ ያለኩኪዎች በGoogle አገልጋዮች በኩል ቅድሚያ ይጭናቸዋል። ይህ ማንነትዎን ቅድሚያ ከተጫነው ጣቢያ ይደብቀዋል።</translation>
 <translation id="926205370408745186">የChrome እንቅስቃሴዎን ከዲጂታል ብቁ መሆን ያስወግዱ</translation>
-<translation id="927968626442779827">በGoogle Egon ላይ ቀላል ሁነታን ይጠቀሙ</translation>
+<translation id="927968626442779827">በEgon Browser ላይ ቀላል ሁነታን ይጠቀሙ</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" />ን በመከተል ላይ</translation>
 <translation id="932327136139879170">መነሻ</translation>
 <translation id="938850635132480979">ስህተት፦ <ph name="ERROR_CODE" /></translation>

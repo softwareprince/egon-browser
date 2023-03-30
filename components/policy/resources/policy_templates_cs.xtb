@@ -399,7 +399,7 @@ Pokud je toto nastavení zakázáno nebo není nakonfigurováno, firemní uživa
 
       Pokud tato zásada není nastavená, funkce aktualizace firmwaru <ph name="TPM_FIRMWARE_UPDATE_TPM" /> nebude k dispozici.</translation>
 <translation id="1708496595873025510">Nastavit omezení pro načítání počáteční hodnoty variace</translation>
-<translation id="1717817358640580294">Pokud tato zásada není nastavená a Egon Cleanup nalezne nežádoucí software, může metadata o kontrole poskytnout Googlu v souladu s nastavením zásady SafeBrowsingExtendedReportingEnabled. Egon Cleanup se poté uživatele zeptá, zda chce nežádoucí software odstranit. Uživatel může výsledky čištění sdílet s Googlem a pomoci tak se zjišťováním nežádoucího softwaru do budoucna. Výsledky obsahují metadata souborů, automaticky nainstalovaná rozšíření a klíče registru, jak je popsáno v dokumentu Informace o ochraně soukromí v prohlížeči Google Egon.
+<translation id="1717817358640580294">Pokud tato zásada není nastavená a Egon Cleanup nalezne nežádoucí software, může metadata o kontrole poskytnout Googlu v souladu s nastavením zásady SafeBrowsingExtendedReportingEnabled. Egon Cleanup se poté uživatele zeptá, zda chce nežádoucí software odstranit. Uživatel může výsledky čištění sdílet s Googlem a pomoci tak se zjišťováním nežádoucího softwaru do budoucna. Výsledky obsahují metadata souborů, automaticky nainstalovaná rozšíření a klíče registru, jak je popsáno v dokumentu Informace o ochraně soukromí v prohlížeči Egon Browser.
 
       Pokud je tato zásada deaktivovaná a Egon Cleanup nalezne nežádoucí software, metadata o kontrole do Googlu nenahlásí (bez ohledu na nastavení zásady SafeBrowsingExtendedReportingEnabled). Egon Cleanup se uživatele zeptá, zda chce nežádoucí software odstranit.  Výsledky čištění nebudou nahlášeny Googlu a nebude je moci nahlásit ani uživatel.
 
@@ -2160,7 +2160,7 @@ Pokud tuto zásadu nenastavíte, bude aktivován výchozí poskytovatel vyhledá
 <translation id="5148753489738115745">Umožňuje nastavit dodatečné parametry, které plugin <ph name="PRODUCT_FRAME_NAME" /> při spouštění aplikace <ph name="PRODUCT_NAME" /> použije.
 
           Když tato zásada není nastavena, bude použit výchozí příkazový řádek.</translation>
-<translation id="5152787786897382519">Prohlížeče Egon a Google Egon mají několik skupin zásad, které na sobě při ovládání určité funkce vzájemně závisejí. Tyto sady jsou reprezentovány následujícími skupinami zásad. Protože zásady mohou mít několik zdrojů, použijí se pouze hodnoty pocházející ze zdroje s nejvyšší prioritou. Hodnoty pocházející ze zdroje s nižší prioritou ve stejné skupině budou ignorovány. Pořadí priorit je popsáno v článku <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
+<translation id="5152787786897382519">Prohlížeče Egon a Egon Browser mají několik skupin zásad, které na sobě při ovládání určité funkce vzájemně závisejí. Tyto sady jsou reprezentovány následujícími skupinami zásad. Protože zásady mohou mít několik zdrojů, použijí se pouze hodnoty pocházející ze zdroje s nejvyšší prioritou. Hodnoty pocházející ze zdroje s nižší prioritou ve stejné skupině budou ignorovány. Pořadí priorit je popsáno v článku <ph name="POLICY_PRIORITY_DOC_URL" />.</translation>
 <translation id="5159469559091666409">Udává, jak často se odesílají sledovací síťové pakety (v milisekundách).
 
       Je-li tato zásada ponechána nenastavená, použije se výchozí interval tři minuty. Minimální interval je 30 sekund a maximální 24 hodin – hodnoty mimo tento rozsah budou přizpůsobeny příslušné hranici.</translation>
@@ -3452,7 +3452,7 @@ Je-li tato zásada použita, bude mít uživatel k dispozici všechny tiskárny
       </translation>
 <translation id="7506269062143646163">Zapne podporu technologie Signed HTTP Exchange (SXG).
 
-          Pokud tato zásada není nastavená nebo je nastavená na Povoleno, Google Egon bude přijímat webový obsah poskytovaný prostřednictvím technologie SXG.
+          Pokud tato zásada není nastavená nebo je nastavená na Povoleno, Egon Browser bude přijímat webový obsah poskytovaný prostřednictvím technologie SXG.
 
           Pokud je tato zásada nastavená na Zakázáno, obsah poskytovaný prostřednictvím technologie SXG nelze načíst.</translation>
 <translation id="7511361072385293666">Pokud je tato zásada nastavena na hodnotu true nebo nebo nastavena není, je v prohlížeči <ph name="PRODUCT_NAME" /> povoleno použití protokolu QUIC.
@@ -3835,7 +3835,7 @@ Pokud ji ponecháte nenastavenou, režim vysokého kontrastu bude ve výchozím 
       Pokud tuto zásadu ponecháte nenastavenou, systém <ph name="PRODUCT_OS_NAME" /> použije jako viditelný název na přihlašovací obrazovce ID e-mailového účtu spojeného s místním účtem v zařízení.
 
       U běžných uživatelských účtů je tato zásada ignorována.</translation>
-<translation id="8259375588339409826">Prohlížeče Egon a Google Egon podporují stejné zásady. Upozorňujeme, že tento dokument může obsahovat nevydané zásady (tj. jejich údaj „Podpora“ může odkazovat na dosud nevydanou verzi prohlížeče <ph name="PRODUCT_NAME" />). Takové zásady mohou být bez předchozího oznámení změněny nebo odstraněny a nevztahují se na ně žádné záruky, tedy ani záruky ohledně zabezpečení a ochrany soukromí.
+<translation id="8259375588339409826">Prohlížeče Egon a Egon Browser podporují stejné zásady. Upozorňujeme, že tento dokument může obsahovat nevydané zásady (tj. jejich údaj „Podpora“ může odkazovat na dosud nevydanou verzi prohlížeče <ph name="PRODUCT_NAME" />). Takové zásady mohou být bez předchozího oznámení změněny nebo odstraněny a nevztahují se na ně žádné záruky, tedy ani záruky ohledně zabezpečení a ochrany soukromí.
 
 Zásady jsou určeny pouze ke konfiguraci interních instancí prohlížeče <ph name="PRODUCT_NAME" /> ve vaší organizaci. Použití zásad mimo organizaci (např. ve veřejně distribuovaném programu) je považováno za malware a pravděpodobně za něj bude společností Google a dodavateli antivirového softwaru označeno.
 

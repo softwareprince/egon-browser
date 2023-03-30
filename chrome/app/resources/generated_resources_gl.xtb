@@ -1189,7 +1189,7 @@ Instala a aplicación Family Link no teu dispositivo e poderás xestionar a conf
 <translation id="2088092308059522196">Non poderás inscribirte ata que non teñas instalado <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Menos</translation>
 <translation id="208928984520943006">Para acceder á pantalla de inicio en calquera momento, pasa o dedo cara arriba desde a parte inferior da pantalla.</translation>
-<translation id="2089566709556890888">Navega de forma segura con Google Egon</translation>
+<translation id="2089566709556890888">Navega de forma segura con Egon Browser</translation>
 <translation id="2089795179672254991">Preguntar se un sitio quere ver o texto e as imaxes que se copian no portapapeis (recomendado)</translation>
 <translation id="2089925163047119068">OU</translation>
 <translation id="2090165459409185032">Para recuperar a información da túa conta, accede  a: google.com/accounts/recovery</translation>
@@ -1564,7 +1564,7 @@ Se máis tarde decides que prefires que o teu fillo ou filla non utilice Voice M
 <translation id="2391419135980381625">Fonte estándar</translation>
 <translation id="2392369802118427583">Activar</translation>
 <translation id="2393136602862631930">Instala a aplicación <ph name="APP_NAME" /> no teu Chromebook</translation>
-<translation id="2393313392064891208">Contido das condicións de Google Egon OS Flex</translation>
+<translation id="2393313392064891208">Contido das condicións de Egon Browser OS Flex</translation>
 <translation id="2395616325548404795">O teu <ph name="DEVICE_TYPE" /> inscribiuse correctamente para a xestión de empresas, pero non enviou a súa información de recursos e localización. Introduce manualmente esta información desde a consola de administración para este dispositivo.</translation>
 <translation id="2396783860772170191">Introduce o PIN de 4 díxitos (0000-9999)</translation>
 <translation id="2398546389094871088">Os perfís de eSIM non se quitarán ao executar a función Powerwash do dispositivo. Para quitalos de xeito manual, vai a <ph name="LINK_BEGIN" />Configuración para móbiles<ph name="LINK_END" />.</translation>
@@ -1598,7 +1598,7 @@ Se máis tarde decides que prefires que o teu fillo ou filla non utilice Voice M
 <translation id="2434449159125086437">Non se puido configurar a impresora. Comproba a configuración e téntao de novo.</translation>
 <translation id="2434758125294431199">Selecciona quen pode compartir contido contigo</translation>
 <translation id="2434915728183570229">Xa podes acceder ás aplicacións do teu teléfono</translation>
-<translation id="2435137177546457207">Condicións adicionais de Google Egon e Egon OS Flex</translation>
+<translation id="2435137177546457207">Condicións adicionais de Egon Browser e Egon OS Flex</translation>
 <translation id="2435248616906486374">Rede desconectada</translation>
 <translation id="2435457462613246316">Mostrar contrasinal</translation>
 <translation id="2439626940657133600">Cargando <ph name="WINDOW_TITLE" /></translation>
@@ -3051,7 +3051,7 @@ Se máis tarde decides que prefires que o teu fillo ou filla non utilice Voice M
 <translation id="3798632811625902122">O dispositivo Bluetooth <ph name="DEVICE" /> solicita permiso para vincularse.</translation>
 <translation id="3799128412641261490">Configuración do acceso con interruptores</translation>
 <translation id="3800806661949714323">Mostrar todo (recomendado)</translation>
-<translation id="3800828618615365228">Condicións adicionais de Google Egon e ChromeOS</translation>
+<translation id="3800828618615365228">Condicións adicionais de Egon Browser e ChromeOS</translation>
 <translation id="3802486193901166966">Esta extensión non necesita permisos especiais e non ten ningún acceso adicional a sitios</translation>
 <translation id="380329542618494757">Nome</translation>
 <translation id="3803345858388753269">Calidade do vídeo</translation>
@@ -3067,7 +3067,7 @@ Se máis tarde decides que prefires que o teu fillo ou filla non utilice Voice M
 <translation id="3810973564298564668">Xestionar</translation>
 <translation id="381202950560906753">Engadir outra</translation>
 <translation id="3812525830114410218">Certificado incorrecto</translation>
-<translation id="3813296892522778813">Accede á <ph name="BEGIN_LINK_CHROMIUM" />axuda de Google Egon<ph name="END_LINK_CHROMIUM" /> se non atopas o que buscas.</translation>
+<translation id="3813296892522778813">Accede á <ph name="BEGIN_LINK_CHROMIUM" />axuda de Egon Browser<ph name="END_LINK_CHROMIUM" /> se non atopas o que buscas.</translation>
 <translation id="3813358687923336574">Idioma usado para a tradución das páxinas e para a función Respostas rápidas</translation>
 <translation id="3814529970604306954">Conta do centro educativo</translation>
 <translation id="3816118180265633665">Cores de Egon</translation>
@@ -3842,7 +3842,7 @@ Podes xestionar a configuración desde o menú da tarxeta ou ver máis opcións 
 <translation id="4544174279960331769">Avatar azul predeterminado</translation>
 <translation id="4545028762441890696">Para volver activar a extensión, acepta os novos permisos</translation>
 <translation id="4545759655004063573">Non se pode gardar debido a que non hai permisos suficientes. Garda o contido noutra localización.</translation>
-<translation id="4546308221697447294">Navega rápido con Google Egon</translation>
+<translation id="4546308221697447294">Navega rápido con Egon Browser</translation>
 <translation id="4546345569117159016">Botón dereito</translation>
 <translation id="4546692474302123343">Entrada de voz do Asistente de Google</translation>
 <translation id="4547659257713117923">Non hai pestanas doutros dispositivos</translation>
@@ -5705,7 +5705,7 @@ Podes xestionar a configuración desde o menú da tarxeta ou ver máis opcións 
 <translation id="6313950457058510656">Desactivar Conexión compartida instantánea</translation>
 <translation id="6314819609899340042">Activaches correctamente funcións de depuración neste dispositivo <ph name="IDS_SHORT_PRODUCT_NAME" />.</translation>
 <translation id="6315493146179903667">Traer todo para a parte frontal</translation>
-<translation id="6316432269411143858">Contido das condicións de Google Egon OS</translation>
+<translation id="6316432269411143858">Contido das condicións de Egon Browser OS</translation>
 <translation id="6317369057005134371">Agardando pola ventá da aplicación...</translation>
 <translation id="6318125393809743217">Inclúe un ficheiro policies.json coas configuracións das políticas.</translation>
 <translation id="6318407754858604988">Iniciouse a descarga</translation>
@@ -5898,7 +5898,7 @@ Podes xestionar a configuración desde o menú da tarxeta ou ver máis opcións 
 <translation id="6509207748479174212">Licenza multimedia</translation>
 <translation id="6511827214781912955">Considera a posibilidade de eliminar <ph name="FILENAME" />, de modo que outras persoas que usen este dispositivo non vexan os teus contrasinais</translation>
 <translation id="6512808201725371249">Xa hai un contrasinal para esta conta gardado no teu xestor de contrasinais de Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon utilizará datos móbiles se non estás conectado a outra rede.</translation>
+<translation id="6513247462497316522">Egon Browser utilizará datos móbiles se non estás conectado a outra rede.</translation>
 <translation id="6514010653036109809">Dispositivo dispoñible:</translation>
 <translation id="6514565641373682518">Esta páxina desactivou o cursor do rato.</translation>
 <translation id="6517709704288360414">É posible que o dispositivo deixe de funcionar adecuadamente e que teñas problemas de seguranza e de rendemento. O feito de desactivar as actualizacións pode afectarlle ao teu dereito a facer reclamacións legais se tes algún problema.</translation>
@@ -8082,7 +8082,7 @@ Mantén o ficheiro de clave nun lugar seguro, xa que o precisarás para crear no
 <translation id="8554899698005018844">Ningún idioma</translation>
 <translation id="855604308879080518">Permite que as aplicacións para Android accedan a dispositivos USB neste Chromebook. Pediráseche permiso cada vez que conectes un dispositivo USB. As distintas aplicacións para Android solicitarán outros permisos adicionais.</translation>
 <translation id="8557022314818157177">Sigue tocando a chave de seguranza ata que se capture a túa impresión dixital</translation>
-<translation id="8557180006508471423">No Mac, vai a Location Services (Servizos de localización) e activa Google Egon</translation>
+<translation id="8557180006508471423">No Mac, vai a Location Services (Servizos de localización) e activa Egon Browser</translation>
 <translation id="8557856025359704738">A seguinte descarga terá lugar neste momento: <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Claves de acceso</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Abrir todos nunha ventá &amp;nova}=1{Abrir nunha ventá &amp;nova}other{Abrir todos ({COUNT}) nunha ventá &amp;nova}}</translation>

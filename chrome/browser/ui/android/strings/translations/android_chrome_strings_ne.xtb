@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">विद्यमान डेटा मेट्नुहोस्।</translation>
 <translation id="1146678959555564648">VR मा प्रवेश गर्नुहोस्</translation>
 <translation id="1149401351239820326">म्याद सकिने महिना</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> Egon मा खुल्ने छ। तपाईंले जारी राख्नुभयो भने तपाईं <ph name="BEGIN_LINK1" />Google का सेवाका सर्त<ph name="END_LINK1" /> र <ph name="BEGIN_LINK2" />Google Egon तथा ChromeOS का सेवाका अतिरिक्त सर्तहरू<ph name="END_LINK2" />मा सहमति जनाउनुहुन्छ भन्ने अर्थ लाग्छ।</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> Egon मा खुल्ने छ। तपाईंले जारी राख्नुभयो भने तपाईं <ph name="BEGIN_LINK1" />Google का सेवाका सर्त<ph name="END_LINK1" /> र <ph name="BEGIN_LINK2" />Egon Browser तथा ChromeOS का सेवाका अतिरिक्त सर्तहरू<ph name="END_LINK2" />मा सहमति जनाउनुहुन्छ भन्ने अर्थ लाग्छ।</translation>
 <translation id="1154704303112745282">यो पृष्ठ अफलाइन मोडमा उपलब्ध छैन: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"शीर्ष साइटहरू" नामक बटनमा ट्याप गरी लोकप्रिय वेबसाइटहरू हेर्नुहोस्</translation>
 <translation id="1173894706177603556">पुन: नामाकरण गर्नुहोस्</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">तपाईंले खोल्ने साइटहरूले विज्ञापनको पर्फर्मेन्स मापन गर्ने सुविधाका सहायताले Egon सँग साइटलाई त्यसका विज्ञापनहरूको पर्फर्मेन्स मापन गर्न सघाउने जानकारी माग्न सक्छन्। विज्ञापनको पर्फर्मेन्स मापन गर्ने सुविधाले विभिन्न साइटहरूका बिचमा सकेसम्म कम जानकारी ट्रान्स्फर गरेर ती साइटमा गरिने गतिविधि ट्र्याक गर्न दिँदैन।
 
 तपाईंले आफूले खोलेका सबै साइट वा कुनै एउटा खास साइटको ब्राउजिङ इतिहास मेटाउँदा त्यससँग सम्बन्धित मापनसम्बन्धी जानकारी पनि मेटिने छ। <ph name="BEGIN_LINK" />आफ्नो ब्राउजिङ इतिहास<ph name="END_LINK" /> हेर्नुहोस्।</translation>
-<translation id="1332501820983677155">Google Egon को विशेषताका सर्टकटहरू</translation>
+<translation id="1332501820983677155">Egon Browser को विशेषताका सर्टकटहरू</translation>
 <translation id="1344653310988386453">हाइलाइट गरिएको पाठको लिंक समावेश गर्नुहोस्</translation>
 <translation id="1347468774581902829">क्रियाकलाप व्यवस्थापन गर्नुहोस्</translation>
 <translation id="1360432990279830238">साइन आउट गरी सिंक निष्क्रिय पार्ने हो?</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">एप खोल्न सकिएन</translation>
 <translation id="2132122640199389833">लिंक गरिएका सबै डिभाइस हटाउनुहोस्</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> बन्द भयो</translation>
-<translation id="2134927169889348449">तपाईंले Egon चलाउनुभयो भने तपाईं <ph name="BEGIN_TOS_LINK" />Google का सेवाका सर्त<ph name="END_TOS_LINK" /> र <ph name="BEGIN_ATOS_LINK" />Google Egon तथा ChromeOS का सेवाका अतिरिक्त सर्तहरू<ph name="END_ATOS_LINK" />मा सहमति जनाउनुहुन्छ भन्ने अर्थ लाग्छ।</translation>
+<translation id="2134927169889348449">तपाईंले Egon चलाउनुभयो भने तपाईं <ph name="BEGIN_TOS_LINK" />Google का सेवाका सर्त<ph name="END_TOS_LINK" /> र <ph name="BEGIN_ATOS_LINK" />Egon Browser तथा ChromeOS का सेवाका अतिरिक्त सर्तहरू<ph name="END_ATOS_LINK" />मा सहमति जनाउनुहुन्छ भन्ने अर्थ लाग्छ।</translation>
 <translation id="2139186145475833000">होम स्क्रिनमा हाल्नुहोस्</translation>
 <translation id="2141396931810938595">तपाईंको प्रयोगका आधारमा</translation>
 <translation id="214888715418183969">तपाईं Egon सँग कुन कुन जानकारी सेयर गर्न चाहनुहुन्छ भन्ने कुरा छनौट गर्नुहोस्। तपाईंले सेयर गर्ने मेट्रिकहरू Egon का सुविधा, कार्यसम्पादन र स्थिरता सुधार गर्न प्रयोग गरिने छ।</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Egon मा तपाईंको रुचिका विषयसँग सम्बन्धित लेखहरू पढ्नुहोस्</translation>
 <translation id="3066573403916685335">तल सार्नुहोस्</translation>
 <translation id="3070005020161560471">स्वतः अनुवाद गरियोस्</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> Egon मा खुल्ने छ। तपाईंले जारी राख्नुभयो भने तपाईं <ph name="BEGIN_LINK1" />Google का सेवाका सर्त<ph name="END_LINK1" /> र <ph name="BEGIN_LINK2" />Google Egon तथा ChromeOS का सेवाका अतिरिक्त सर्तहरू<ph name="END_LINK2" />मा सहमति जनाउनुहुन्छ भन्ने अर्थ लाग्छ। यसका साथै, <ph name="BEGIN_LINK3" />गोपनीयता नीति<ph name="END_LINK3" /> पनि लागू हुन्छ।</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> Egon मा खुल्ने छ। तपाईंले जारी राख्नुभयो भने तपाईं <ph name="BEGIN_LINK1" />Google का सेवाका सर्त<ph name="END_LINK1" /> र <ph name="BEGIN_LINK2" />Egon Browser तथा ChromeOS का सेवाका अतिरिक्त सर्तहरू<ph name="END_LINK2" />मा सहमति जनाउनुहुन्छ भन्ने अर्थ लाग्छ। यसका साथै, <ph name="BEGIN_LINK3" />गोपनीयता नीति<ph name="END_LINK3" /> पनि लागू हुन्छ।</translation>
 <translation id="3091010850649238832">क्लिपबोर्डमा भएका सामग्री देखाइयोस्</translation>
 <translation id="3098745985164956033">तपाईंलाई उपलब्ध गराइने वर्णनको गुणस्तर सुधार गर्न केही फोटोहरू Google मा पठाइन्छन्</translation>
 <translation id="3114507951000454849">आजको समाचार पढ्नुहोस् <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">यदि तपाईँले आफ्नो पासफ्रेज बिर्सनुभएको छ वा यस सेटिङलाई परिवर्तन गर्न चाहनुहुन्छ भने <ph name="BEGIN_LINK" />सिंकलाई रिसेट गर्नुहोस्<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">आफ्ना पासवर्ड सिंक गर्न यो काम गर्न खोज्ने व्यक्ति तपाईं नै हो भन्ने कुरा पुष्टि गर्नुहोस्</translation>
 <translation id="3223522355830797639">तपाईंको बैंकले यो कारबाही गर्न खोज्ने व्यक्ति तपाईं नै हो भन्ने कुरा पुष्टि गर्न चाहन्छ।</translation>
-<translation id="3227557059438308877">सुरक्षा साँचोका रूपमा Google Egon</translation>
+<translation id="3227557059438308877">सुरक्षा साँचोका रूपमा Egon Browser</translation>
 <translation id="3232754137068452469">वेब एप</translation>
 <translation id="3234978181857588512">डिभाइसमा सेभ गर्नुहोस्</translation>
 <translation id="3236059992281584593">१ मिनेट बाँकी छ</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">लिङ्क ठेगाना कपी गर्नुहोस्</translation>
 <translation id="4283102315569707115">स्वतः डेस्कटप साइट खोलिदिन अनुरोध गर्ने हो?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android का सेटिङमा गई स्क्रिन लक अन गर्नुहोस्<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">तपाईंले Egon चलाउनुभयो भने तपाईं <ph name="BEGIN_TOS_LINK" />Google का सेवाका सर्त<ph name="END_TOS_LINK" /> र <ph name="BEGIN_ATOS_LINK" />Google Egon तथा ChromeOS का सेवाका अतिरिक्त सर्तहरू<ph name="END_ATOS_LINK" />मा सहमति जनाउनुहुन्छ भन्ने अर्थ लाग्छ। यसका साथै, <ph name="BEGIN_PRIVACY_LINK" />गोपनीयता नीति<ph name="END_PRIVACY_LINK" /> पनि लागू हुन्छ।</translation>
+<translation id="4293476595220860475">तपाईंले Egon चलाउनुभयो भने तपाईं <ph name="BEGIN_TOS_LINK" />Google का सेवाका सर्त<ph name="END_TOS_LINK" /> र <ph name="BEGIN_ATOS_LINK" />Egon Browser तथा ChromeOS का सेवाका अतिरिक्त सर्तहरू<ph name="END_ATOS_LINK" />मा सहमति जनाउनुहुन्छ भन्ने अर्थ लाग्छ। यसका साथै, <ph name="BEGIN_PRIVACY_LINK" />गोपनीयता नीति<ph name="END_PRIVACY_LINK" /> पनि लागू हुन्छ।</translation>
 <translation id="4296252229500326964">नयाँ इन्कोग्निटो ट्याब</translation>
 <translation id="4298388696830689168">लिंक गरिएका साइटहरू</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1546,7 +1546,7 @@
 <translation id="9219582468404818260">हामीलाई वेबको गुणस्तर अझ राम्रो बनाउन मद्दत गर्नुहोस्</translation>
 <translation id="92381315203627188">कुनै साइटले आफ्नो पेजमा भएका लिंकहरू गोप्य तरिकाले प्रिलोड गर्न लगाएका खण्डमा Egon ले कुकीहरू प्रयोग नगरिकनै पेजहरू Google का सर्भरमार्फत इन्क्रिप्ट गरी प्रिलोड गरेर राख्छ। यसो गर्दा पेजहरू प्रिलोड गरिएको साइटमा भएको तपाईंको जानकारी लुकाइन्छ।</translation>
 <translation id="926205370408745186">आफूले Egon मा गरेका क्रियाकलाप डिजिटल वेलबिइङबाट हटाउनुहोस्</translation>
-<translation id="927968626442779827">Google Egon को लाइट मोड प्रयोग गर्नुहोस्</translation>
+<translation id="927968626442779827">Egon Browser को लाइट मोड प्रयोग गर्नुहोस्</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> फलो गरिँदै छ</translation>
 <translation id="932327136139879170">गृहपृष्ठ</translation>
 <translation id="938850635132480979">त्रुटि: <ph name="ERROR_CODE" /></translation>

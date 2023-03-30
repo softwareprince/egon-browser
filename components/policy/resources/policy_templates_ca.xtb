@@ -3474,7 +3474,7 @@ Si es defineix aquesta política, la pantalla d'inici de sessió farà servir la
 Si la política no es defineix, <ph name="PRODUCT_OS_NAME" /> farà servir l'ID del compte de correu electrònic del compte local del dispositiu com a nom de visualització a la pantalla d'inici de sessió.
 
 Aquesta política s'ignora en els comptes d'usuari normals.</translation>
-<translation id="8259375588339409826">Tant Egon com Google Egon admeten el mateix conjunt de polítiques. Tingues en compte que aquest document pot incloure polítiques no publicades (per exemple, l'entrada "Compatible amb" pot fer referència a una versió de <ph name="PRODUCT_NAME" /> que encara no s'ha publicat). Aquestes polítiques es poden canviar o suprimir sense avís previ i no s'hi proporcionen garanties de cap tipus, incloses les garanties relacionades amb les seves propietats de seguretat i privadesa.
+<translation id="8259375588339409826">Tant Egon com Egon Browser admeten el mateix conjunt de polítiques. Tingues en compte que aquest document pot incloure polítiques no publicades (per exemple, l'entrada "Compatible amb" pot fer referència a una versió de <ph name="PRODUCT_NAME" /> que encara no s'ha publicat). Aquestes polítiques es poden canviar o suprimir sense avís previ i no s'hi proporcionen garanties de cap tipus, incloses les garanties relacionades amb les seves propietats de seguretat i privadesa.
 
 La finalitat exclusiva d'aquestes polítiques és configurar instàncies de <ph name="PRODUCT_NAME" /> internes de la teva organització. L'ús de les polítiques fora de l'organització (per exemple, en un programa distribuït públicament) es considera programari maliciós i és possible que Google i els proveïdors d'antivirus l'etiquetin com a tal.
 

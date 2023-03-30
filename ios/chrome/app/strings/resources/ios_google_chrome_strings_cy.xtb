@@ -17,7 +17,7 @@
 <translation id="2056123005618757196">Gwneud rhagor â Egon syml, diogel a chyflymach nag erioed.</translation>
 <translation id="2147651015520127414">Gwnaeth Egon ddilysu bod <ph name="ISSUER" /> wedi cyhoeddi tystysgrif y wefan hon.</translation>
 <translation id="2199719347983604670">Data o gysoni Egon</translation>
-<translation id="2313070403598893276">Mae Google Egon yn syml, diogel a chyflymach nag erioed</translation>
+<translation id="2313070403598893276">Mae Egon Browser yn syml, diogel a chyflymach nag erioed</translation>
 <translation id="2339201583852607431">Bydd eich cyfrinair yn cael ei gadw yn eich Cyfrif Google (<ph name="EMAIL" />).</translation>
 <translation id="2342919707875585281">Mae Egon yn rhannu eich lleoliad â gwefannau rydych yn eu caniatáu.</translation>
 <translation id="2347208864470321755">Pan fydd y nodwedd hon yn cael ei throi ymlaen, bydd Egon yn cynnig cyfieithu tudalennau sydd wedi'u hysgrifennu mewn ieithoedd eraill gan ddefnyddio Google Translate. <ph name="BEGIN_LINK" />Dysgu rhagor<ph name="END_LINK" /></translation>
@@ -26,7 +26,7 @@
 <translation id="2561231791489583059">Defnyddiwch Egon fel eich porwr diofyn i aros yn ddiogel rhag gwefannau peryglus a chadw eich cyfrineiriau'n ddiogel</translation>
 <translation id="2574249610672786438">I weld eich tabiau o ble bynnag rydych yn defnyddio Egon, mewngofnodwch ar eich holl ddyfeisiau</translation>
 <translation id="2576431527583832481">Gwnaeth Egon wella! Mae fersiwn newydd ar gael.</translation>
-<translation id="257708665678654955">Ydych chi am i Google Egon gynnig cyfieithu tudalennau <ph name="LANGUAGE_NAME" /> o'r wefan hon y tro nesaf?</translation>
+<translation id="257708665678654955">Ydych chi am i Egon Browser gynnig cyfieithu tudalennau <ph name="LANGUAGE_NAME" /> o'r wefan hon y tro nesaf?</translation>
 <translation id="2671426118752779020">Gallwch ddefnyddio'r cyfrineiriau a gadwyd gennych i Reolwr Cyfrineiriau Google mewn apiau eraill ar eich iPhone.</translation>
 <translation id="2689064829982324496">I allgofnodi o'ch Cyfrif Google ar bob gwefan, <ph name="BEGIN_LINK" />allgofnodwch o Egon<ph name="END_LINK" />.</translation>
 <translation id="2695886661449553974">Ni allai Egon wirio am ddiweddariadau. Rhowch gynnig arall arni'n nes ymlaen.</translation>
@@ -34,8 +34,8 @@
 <translation id="2869959624320573933">Mewngofnodi i Egon</translation>
 <translation id="2957447865124070833">Dewiswch <ph name="BEGIN_BOLD" />Egon<ph name="END_BOLD" /></translation>
 <translation id="3030414234702425231">Oherwydd eich bod yn allgofnodi o gyfrif a reolir gan <ph name="SIGNOUT_MANAGED_DOMAIN" />, bydd eich data Egon yn cael eu dileu o'r ddyfais hon. Bydd eich data yn aros yn eich Cyfrif Google.</translation>
-<translation id="3167189358072330585">Nid yw'ch cyfrif yn gweithio ar Google Egon. Cysylltwch â'ch gweinyddwr parth neu defnyddiwch Gyfrif Google rheolaidd i fewngofnodi.</translation>
-<translation id="3173834708294760622">Tudalen Google Egon</translation>
+<translation id="3167189358072330585">Nid yw'ch cyfrif yn gweithio ar Egon Browser. Cysylltwch â'ch gweinyddwr parth neu defnyddiwch Gyfrif Google rheolaidd i fewngofnodi.</translation>
+<translation id="3173834708294760622">Tudalen Egon Browser</translation>
 <translation id="3196546062792660320">Mae Egon yn arbed amser i chi drwy ddod â'ch cyfrifon i'r we. Gallwch ychwanegu neu dynnu cyfrifon yn y Gosodiadau.</translation>
 <translation id="3282568296779691940">Mewngofnodi i Egon</translation>
 <translation id="3345341804167540816">Gallwch Ddefnyddio Egon Ymhobman</translation>
@@ -46,10 +46,10 @@
 <translation id="3655656110921623717">Mae hyn yn golygu y bydd Egon yn gofyn am y wefan symudol bob tro.</translation>
 <translation id="3706101708757577809">Gallwch bellach ddefnyddio Egon unrhyw bryd y byddwch yn tapio dolenni mewn negeseuon, dogfennau ac apiau eraill.</translation>
 <translation id="3720541637541300822">Cloi Tabiau Anhysbys Pan Fyddwch yn Cau Egon</translation>
-<translation id="384394811301901750">Ni all Google Egon ddefnyddio'ch camera ar hyn o bryd</translation>
+<translation id="384394811301901750">Ni all Egon Browser ddefnyddio'ch camera ar hyn o bryd</translation>
 <translation id="3980220367029651214">Rydych yn newid cyfrifon cysoni o <ph name="USER_EMAIL1" /> i <ph name="USER_EMAIL2" />. Mae eich data Egon presennol yn cael eu rheoli gan <ph name="DOMAIN" />. Bydd hyn yn dileu eich data o'r ddyfais hon, ond bydd eich data yn aros yn <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Mae eich sefydliad yn gofyn i chi barhau i fod wedi'ch allgofnodi o Egon.</translation>
-<translation id="3988789688219830639">Nid oes gan Google Egon fynediad at eich lluniau na fideos. Galluogwch fynediad yn Gosodiadau iOS &gt; Preifatrwydd &gt; Lluniau.</translation>
+<translation id="3988789688219830639">Nid oes gan Egon Browser fynediad at eich lluniau na fideos. Galluogwch fynediad yn Gosodiadau iOS &gt; Preifatrwydd &gt; Lluniau.</translation>
 <translation id="417201473131094001">Ni chefnogir ar Egon Canary</translation>
 <translation id="4192781968753717021">Canfuwyd y cyfrinair hwn mewn toriad data. Mae Rheolwr Cyfrineiriau Google yn argymell newid eich cyfrinair ar unwaith.</translation>
 <translation id="4233521129555661685">Roedd <ph name="USER_EMAIL1" /> yn defnyddio Egon a gadawodd nodau tudalen, cyfrineiriau, a gosodiadau eraill ar y ddyfais hon.</translation>
@@ -66,11 +66,11 @@
 <translation id="5108659628347594808">Gwella Egon</translation>
 <translation id="5119391094379141756">Dewiswch Egon</translation>
 <translation id="5162467219239570114">Mae Egon yn hen. Os nad oes diweddariad ar gael yn <ph name="BEGIN_LINK" />App Store<ph name="END_LINK" />, mae'n bosib nad yw'ch dyfais yn cefnogi fersiynau newydd o Egon mwyach.</translation>
-<translation id="5389212809648216794">Ni all Google Egon ddefnyddio'ch camera oherwydd ei fod yn cael ei ddefnyddio gan ap arall</translation>
+<translation id="5389212809648216794">Ni all Egon Browser ddefnyddio'ch camera oherwydd ei fod yn cael ei ddefnyddio gan ap arall</translation>
 <translation id="5460571915754665838">4. Dewiswch Egon</translation>
 <translation id="5552137475244467770">Mae Egon o bryd i'w gilydd yn gwirio'ch cyfrineiriau yn erbyn rhestrau sydd wedi'u cyhoeddi ar-lein. Wrth wneud hyn, mae eich cyfrineiriau a'ch enwau defnyddwyr wedi'u hamgryptio, felly ni all unrhyw un, gan gynnwys Google, eu darllen.</translation>
-<translation id="5639704535586432836">Agorwch Gosodiadau &gt; Preifatrwydd &gt; Camera &gt; Google Egon a throwch y camera ymlaen.</translation>
-<translation id="5642200033778930880">Ni all Google Egon ddefnyddio'ch camera yn y modd Gwedd Hollt</translation>
+<translation id="5639704535586432836">Agorwch Gosodiadau &gt; Preifatrwydd &gt; Camera &gt; Egon Browser a throwch y camera ymlaen.</translation>
+<translation id="5642200033778930880">Ni all Egon Browser ddefnyddio'ch camera yn y modd Gwedd Hollt</translation>
 <translation id="5690427481109656848">Google LLC</translation>
 <translation id="571296537125272375">All-lein, ni all Egon wirio am ddiweddariadau</translation>
 <translation id="5716154293141027663">Agor Egon unrhyw bryd y byddwch yn tapio dolenni mewn apiau eraill</translation>
@@ -94,15 +94,15 @@
 <translation id="701356708427365932">Dewch i adnabod y ddewislen Egon newydd</translation>
 <translation id="7059914902409643750">Personoleiddiwch Egon</translation>
 <translation id="7124339256045485976">Cadwch Egon yn gyfoes</translation>
-<translation id="7161390184744336561">Mae Google Egon yn hen</translation>
-<translation id="7165736900384873061">Dechreuwch ddefnyddio sganiwr codau QR Google Egon</translation>
+<translation id="7161390184744336561">Mae Egon Browser yn hen</translation>
+<translation id="7165736900384873061">Dechreuwch ddefnyddio sganiwr codau QR Egon Browser</translation>
 <translation id="7173660919484573146">Mae Egon yn defnyddio Face ID i sicrhau mynediad awdurdodedig at eich cyfrineiriau.</translation>
 <translation id="7187993566681480880">Yn eich cadw'n ddiogel ar Egon a gellir ei ddefnyddio i wella'ch diogelwch mewn apiau Google eraill pan fyddwch wedi'ch mewngofnodi.</translation>
 <translation id="72119412072970160">Gallwch ddefnyddio'r cyfrineiriau a gadwyd gennych i Reolwr Cyfrineiriau Google mewn apiau eraill ar eich iPad.</translation>
 <translation id="7261678641327190792">Ni all Egon wirio'ch cyfrineiriau</translation>
 <translation id="7272930098487145294">I gadw lluniau, tapiwch ar Gosodiadau i ganiatáu i Egon ychwanegu at eich lluniau</translation>
 <translation id="7275945473750112644">Mae'ch cyfrif yn cael ei reoli gan <ph name="HOSTED_DOMAIN" />, felly bydd eich data Egon yn cael eu clirio o'r ddyfais hon</translation>
-<translation id="7400722733683201933">Ynghylch Google Egon</translation>
+<translation id="7400722733683201933">Ynghylch Egon Browser</translation>
 <translation id="7501046334262221972">I wneud Egon eich porwr diofyn, agorwch y Gosodiadau. Tapiwch Ap Pori Diofyn, a dewiswch Egon.</translation>
 <translation id="756809126120519699">Wedi clirio data Egon</translation>
 <translation id="7626032353295482388">Croeso i Egon</translation>
@@ -111,7 +111,7 @@
 <translation id="7698568245838009292">Hoffai Egon gael mynediad at y Camera</translation>
 <translation id="7754633291442704733">Bydd gan <ph name="DOMAIN" /> eich sefydliad fynediad at eich data Egon, nodau tudalen, hanes, cyfrineiriau a gosodiadau eraill rydych yn eu storio yn y cyfrif hwn. Pan fyddwch yn allgofnodi, bydd eich data yn cael eu clirio o'r ddyfais hon.  Fodd bynnag, bydd eich data yn parhau i gael ei storio yn eich Cyfrif Google a reolir a bydd ar gael i'ch sefydliad. Gall eich sefydliad hefyd osod polisïau defnyddwyr sy'n benodol i'r cyfrif hwnnw a all newid ymddygiad Egon.</translation>
 <translation id="7780154209050837198">I gael y gorau o Egon, mewngofnodwch i Egon â'ch Cyfrif Google.</translation>
-<translation id="7855730255114109580">Mae Google Egon yn gyfoes</translation>
+<translation id="7855730255114109580">Mae Egon Browser yn gyfoes</translation>
 <translation id="8022947259858476807">Defnyddiwch Egon yn ddiofyn i agor dolenni, chwilio o declynnau, ac awtolenwi cyfrineiriau mewn apiau eraill</translation>
 <translation id="81358522153858150">Mae Egon bellach yn cefnogi polisïau defnyddwyr ar gyfer eich cyfrif a reolir</translation>
 <translation id="8160472928944011082">Ni all Egon ddiweddaru</translation>
@@ -124,8 +124,8 @@
   1. Agorwch y Gosodiadau
   2. Tapiwch Ap Pori Diofyn
   3. Dewiswch Egon.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
-<translation id="8736550665979974340">Cadwch yn Ddiogel gyda Google Egon</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
+<translation id="8736550665979974340">Cadwch yn Ddiogel gyda Egon Browser</translation>
 <translation id="8772179140489533211">Dangos anogwyr i fewngofnodi i Egon.</translation>
 <translation id="8788269841521769222">Ni fydd angen i chi gofio'r cyfrinair hwn. Bydd yn cael ei gadw i Reolwr Cyfrineiriau Google ar gyfer <ph name="EMAIL" /></translation>
 <translation id="8897749957032330183">Mae cyfrineiriau'n cael eu cadw i Reolwr Cyfrineiriau Google ar y ddyfais hon.</translation>

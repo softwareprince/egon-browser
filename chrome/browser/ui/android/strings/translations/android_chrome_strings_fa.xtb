@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">حذف داده‌های موجود.</translation>
 <translation id="1146678959555564648">‏VR را وارد کنید</translation>
 <translation id="1149401351239820326">ماه انقضا</translation>
-<translation id="1150263420752757504">‏<ph name="APP_NAME" /> در Egon باز می‌شود. درصورت ادامه دادن، با <ph name="BEGIN_LINK1" />شرایط خدمات Google<ph name="END_LINK1" /> و <ph name="BEGIN_LINK2" />شرایط خدمات تکمیلی Google Egon و ChromeOS<ph name="END_LINK2" /> موافقت می‌کنید.</translation>
+<translation id="1150263420752757504">‏<ph name="APP_NAME" /> در Egon باز می‌شود. درصورت ادامه دادن، با <ph name="BEGIN_LINK1" />شرایط خدمات Google<ph name="END_LINK1" /> و <ph name="BEGIN_LINK2" />شرایط خدمات تکمیلی Egon Browser و ChromeOS<ph name="END_LINK2" /> موافقت می‌کنید.</translation>
 <translation id="1154704303112745282">صفحه <ph name="VIOLATED_URL" /> به‌صورت آفلاین دردسترس نیست</translation>
 <translation id="1171770572613082465">با ضربه زدن روی دکمه «سایت‌های برتر»، وب‌سایت‌های پرطرفدار را ببینید</translation>
 <translation id="1173894706177603556">تغییر نام</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">‏سنجش آگهی به سایت‌هایی که بازدید می‌کنید اجازه می‌دهد اطلاعاتی را از Egon درخواست کنند که به آن‌ها کمک می‌کند عملکرد آگهی‌هایشان را بسنجند. «سنجش آگهی» ردیابی بین‌سایتی را با انتقال حداقل اطلاعات ممکن بین سایت‌ها محدود می‌کند.
 
 وقتی سابقه مرور (همه سوابق یا سابقه سایتی به‌خصوص) را حذف می‌کنید، در واقع اطلاعات سنجش مرتبط را هم حذف می‌کنید. <ph name="BEGIN_LINK" />سابقه مرورتان<ph name="END_LINK" /> را ببینید.</translation>
-<translation id="1332501820983677155">‏میان‌برهای ویژه Google Egon</translation>
+<translation id="1332501820983677155">‏میان‌برهای ویژه Egon Browser</translation>
 <translation id="1344653310988386453">اضافه کردن پیوند به مورد برجسته‌شده</translation>
 <translation id="1347468774581902829">مدیریت فعالیت</translation>
 <translation id="1360432990279830238">از سیستم خارج و همگام‌سازی خاموش شود؟</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">باز کردن برنامه امکان‌پذیر نیست</translation>
 <translation id="2132122640199389833">برداشتن همه دستگاه‌های پیوندشده</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> بسته شد</translation>
-<translation id="2134927169889348449">‏درصورت استفاده از Egon، با <ph name="BEGIN_TOS_LINK" />شرایط خدمات Google<ph name="END_TOS_LINK" /> و <ph name="BEGIN_ATOS_LINK" />شرایط خدمات تکمیلی Google Egon و ChromeOS<ph name="END_ATOS_LINK" /> موافقت می‌کنید.</translation>
+<translation id="2134927169889348449">‏درصورت استفاده از Egon، با <ph name="BEGIN_TOS_LINK" />شرایط خدمات Google<ph name="END_TOS_LINK" /> و <ph name="BEGIN_ATOS_LINK" />شرایط خدمات تکمیلی Egon Browser و ChromeOS<ph name="END_ATOS_LINK" /> موافقت می‌کنید.</translation>
 <translation id="2139186145475833000">افزودن به صفحه اصلی</translation>
 <translation id="2141396931810938595">براساس میزان استفاده شما</translation>
 <translation id="214888715418183969">‏انتخاب کنید می‌خواهید چه چیزهایی با Egon هم‌رسانی شود. از سنجه‌هایی که هم‌رسانی می‌کنید برای کمک به بهبود ویژگی‌ها، عملکرد، و پایداری Egon استفاده خواهد شد.</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">‏مقاله‌های مربوط با علایقتان در Egon</translation>
 <translation id="3066573403916685335">حرکت به پایین</translation>
 <translation id="3070005020161560471">ترجمه خودکار</translation>
-<translation id="3072980200212375806">‏<ph name="APP_NAME" /> در Egon باز می‌شود. درصورت ادامه دادن، با <ph name="BEGIN_LINK1" />شرایط خدمات Google<ph name="END_LINK1" /> و <ph name="BEGIN_LINK2" />شرایط خدمات تکمیلی Google Egon و ChromeOS<ph name="END_LINK2" /> موافقت می‌کنید. <ph name="BEGIN_LINK3" />خط‌مشی رازداری<ph name="END_LINK3" /> نیز اعمال می‌شود.</translation>
+<translation id="3072980200212375806">‏<ph name="APP_NAME" /> در Egon باز می‌شود. درصورت ادامه دادن، با <ph name="BEGIN_LINK1" />شرایط خدمات Google<ph name="END_LINK1" /> و <ph name="BEGIN_LINK2" />شرایط خدمات تکمیلی Egon Browser و ChromeOS<ph name="END_LINK2" /> موافقت می‌کنید. <ph name="BEGIN_LINK3" />خط‌مشی رازداری<ph name="END_LINK3" /> نیز اعمال می‌شود.</translation>
 <translation id="3091010850649238832">نمایش محتوای بریده‌دان</translation>
 <translation id="3098745985164956033">‏برخی از تصاویر به Google ارسال می‌شوند تا شرح آن‌ها برایتان بهبود یابد</translation>
 <translation id="3114507951000454849">اخبار <ph name="NEWS_ICON" /> امروز را بخوانید</translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">اگر عبارت عبورتان را فراموش کردید یا می‌خواهید این تنظیم را تغییر دهید، <ph name="BEGIN_LINK" />همگام‌سازی را بازنشانی کنید<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">برای همگام‌سازی گذرواژه‌ها، هویتتان را به‌تأیید برسانید</translation>
 <translation id="3223522355830797639">بانک می‌خواهد هویتتان را تأیید کند.</translation>
-<translation id="3227557059438308877">‏Google Egon به‌عنوان «کلید امنیتی»</translation>
+<translation id="3227557059438308877">‏Egon Browser به‌عنوان «کلید امنیتی»</translation>
 <translation id="3232754137068452469">برنامه وب</translation>
 <translation id="3234978181857588512">ذخیره کردن در دستگاه</translation>
 <translation id="3236059992281584593">۱ دقیقه باقی‌مانده است</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">کپی نشانی پیوند</translation>
 <translation id="4283102315569707115">به‌طور پیش‌فرض از سایت‌های ویژه رایانه درخواست شود؟</translation>
 <translation id="4291407919474070700">‏<ph name="BEGIN_LINK" />روشن کردن قفل صفحه در تنظیمات Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">‏درصورت استفاده از Egon، با <ph name="BEGIN_TOS_LINK" />شرایط خدمات Google<ph name="END_TOS_LINK" /> و <ph name="BEGIN_ATOS_LINK" />شرایط خدمات تکمیلی Google Egon و ChromeOS<ph name="END_ATOS_LINK" /> موافقت می‌کنید. <ph name="BEGIN_PRIVACY_LINK" />خط‌مشی رازداری<ph name="END_PRIVACY_LINK" /> نیز اعمال می‌شود.</translation>
+<translation id="4293476595220860475">‏درصورت استفاده از Egon، با <ph name="BEGIN_TOS_LINK" />شرایط خدمات Google<ph name="END_TOS_LINK" /> و <ph name="BEGIN_ATOS_LINK" />شرایط خدمات تکمیلی Egon Browser و ChromeOS<ph name="END_ATOS_LINK" /> موافقت می‌کنید. <ph name="BEGIN_PRIVACY_LINK" />خط‌مشی رازداری<ph name="END_PRIVACY_LINK" /> نیز اعمال می‌شود.</translation>
 <translation id="4296252229500326964">برگه ناشناس جدید</translation>
 <translation id="4298388696830689168">سایت‌های مرتبط</translation>
 <translation id="4303044213806199882"><ph name="CURRENT_TIMESTAMP_MS" />chrome_screenshot_‎</translation>
@@ -1547,7 +1547,7 @@
 <translation id="9219582468404818260">به ما کمک کنید تجربه‌ای بهتر در وب بسازیم</translation>
 <translation id="92381315203627188">‏وقتی سایتی برای پیش‌بارگیری خصوصی پیوندها در صفحه‌اش درخواست می‌کند، Egon صفحات را بدون کوکی‌ها ازطریق سرورهای Google رمزگذاری و پیش‌بارگیری می‌کند. با این کار هویتتان از سایت پیش‌بارگیری‌شده پنهان می‌شود.</translation>
 <translation id="926205370408745186">‏فعالیت Egon شما از «آسایش دیجیتالی» برداشته شود</translation>
-<translation id="927968626442779827">‏استفاده از «حالت ساده» در Google Egon</translation>
+<translation id="927968626442779827">‏استفاده از «حالت ساده» در Egon Browser</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> را دنبال می‌کنید</translation>
 <translation id="932327136139879170">منزل</translation>
 <translation id="938850635132480979">خطا: <ph name="ERROR_CODE" /></translation>

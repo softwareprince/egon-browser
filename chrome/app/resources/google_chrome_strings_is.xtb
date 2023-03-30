@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <!DOCTYPE translationbundle>
 <translationbundle lang="is">
-<translation id="1001534784610492198">Uppsetningarsafnskráin er skemmd eða ógild. Sæktu Google Egon aftur.</translation>
+<translation id="1001534784610492198">Uppsetningarsafnskráin er skemmd eða ógild. Sæktu Egon Browser aftur.</translation>
 <translation id="1026101648481255140">Halda uppsetningu áfram</translation>
-<translation id="102763973188675173">Sérstilltu og stjórnaðu Google Egon. Uppfærsla er í boði.</translation>
+<translation id="102763973188675173">Sérstilltu og stjórnaðu Egon Browser. Uppfærsla er í boði.</translation>
 <translation id="1051826050538111504">Skaðlegur hugbúnaður er á tölvunni þinni. Egon getur fjarlægt hann, endurheimt stillingar þínar og gert viðbætur óvirkar svo vafrinn þinn virki aftur eins og ætla skyldi.</translation>
 <translation id="1065672644894730302">Ekki er tókst að lesa kjörstillingarnar þínar.
 
@@ -20,16 +20,16 @@ Sumir eiginleikar kunna að vera óaðgengilegir og breytingar á kjörstillingu
 <translation id="1302523850133262269">Bíddu á meðan Egon setur upp nýjustu kerfisuppfærslurnar.</translation>
 <translation id="1335640173511558774"><ph name="MANAGER" /> krefst þess að þú lesir og samþykkir eftirfarandi þjónustuskilmála áður en þú notar þetta tæki. Þessir skilmálar auka ekki við, breyta eða takmarka skilmála Google ChromeOS Flex.</translation>
 <translation id="1363996462118479832">ChromeOS gat ekki samstillt gögnin þín vegna innskráningarvillu.</translation>
-<translation id="137466361146087520">Google Egon Beta</translation>
-<translation id="1399397803214730675">Þessi tölva er þegar búin nýrri útgáfu af Google Egon. Ef hugbúnaðurinn virkar ekki skaltu fjarlægja Google Egon og reyna aftur.</translation>
+<translation id="137466361146087520">Egon Browser Beta</translation>
+<translation id="1399397803214730675">Þessi tölva er þegar búin nýrri útgáfu af Egon Browser. Ef hugbúnaðurinn virkar ekki skaltu fjarlægja Egon Browser og reyna aftur.</translation>
 <translation id="139993653570221430">Þú getur skipt um skoðun hvenær sem er í stillingum Egon. Prófanirnar eru keyrðar meðfram núverandi birtingu auglýsinga, og því sérðu breytingar ekki um leið.</translation>
 <translation id="1434626383986940139">Egon Canary forrit</translation>
 <translation id="1507198376417198979">Sérsníða nýja Egon prófílinn</translation>
-<translation id="1516530951338665275">Google Egon þarf Bluetooth-aðgang til að halda pörun áfram. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
+<translation id="1516530951338665275">Egon Browser þarf Bluetooth-aðgang til að halda pörun áfram. <ph name="IDS_BLUETOOTH_DEVICE_CHOOSER_AUTHORIZE_BLUETOOTH_LINK" /></translation>
 <translation id="1547295885616600893">ChromeOS á tilvist sína að þakka öðrum <ph name="BEGIN_LINK_CROS_OSS" />opnum hugbúnaði<ph name="END_LINK_CROS_OSS" />.</translation>
 <translation id="1553358976309200471">Uppfæra Egon</translation>
 <translation id="1583073672411044740"><ph name="EXISTING_USER" /> er þegar innskráð(ur) á þennan Egon prófíl. Þetta býr til nýjan Egon prófíl fyrir <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="1587223624401073077">Google Egon er að nota myndavélina þína.</translation>
+<translation id="1587223624401073077">Egon Browser er að nota myndavélina þína.</translation>
 <translation id="1587325591171447154"><ph name="FILE_NAME" /> er skaðleg skrá og Egon útilokaði hana.</translation>
 <translation id="1597911401261118146"><ph name="BEGIN_LINK" />Skráðu þig inn á Egon<ph name="END_LINK" /> til að athuga hvort aðgangsorðin þín séu óhult fyrir öryggisbrotum og öðrum öryggisvandamálum.</translation>
 <translation id="1599904803480101533">Egon lokaði fyrir þessa geymslu þar sem hún kann að innihalda spilliforrit</translation>
@@ -39,70 +39,70 @@ Sumir eiginleikar kunna að vera óaðgengilegir og breytingar á kjörstillingu
 <translation id="1640672724030957280">Sækir...</translation>
 <translation id="1662146548738125461">Um ChromeOS Flex</translation>
 <translation id="1674870198290878346">Opna tengil í h&amp;uliðsglugga í Egon</translation>
-<translation id="1682634494516646069">Google Egon getur ekki lesið eða skrifað í gagnamöppu sína:
+<translation id="1682634494516646069">Egon Browser getur ekki lesið eða skrifað í gagnamöppu sína:
 
 <ph name="USER_DATA_DIRECTORY" /></translation>
 <translation id="1691802391966922744">{COUNT,plural, =1{Kerfisstjórinn stillti Egon þannig að það lokast ef það er aðgerðarlaust lengur en í 1 mínútu.}one{Kerfisstjórinn stillti Egon þannig að það lokast ef það er aðgerðarlaust lengur en í # mínútu.}other{Kerfisstjórinn stillti Egon þannig að það lokast ef það er aðgerðarlaust lengur en í # mínútur.}}</translation>
-<translation id="1698376642261615901">Google Egon er vafri sem keyrir vefsíður og forrit með ótrúlegum hraða. Hann er hraðvirkur, stöðugur og einfaldur í notkun. Notaðu vefinn á öruggari hátt með innbyggðri vernd Google Egon gegn spilliforritum og vefveiðum.</translation>
+<translation id="1698376642261615901">Egon Browser er vafri sem keyrir vefsíður og forrit með ótrúlegum hraða. Hann er hraðvirkur, stöðugur og einfaldur í notkun. Notaðu vefinn á öruggari hátt með innbyggðri vernd Egon Browser gegn spilliforritum og vefveiðum.</translation>
 <translation id="1713301662689114961">{0,plural, =1{Egon verður endurræst eftir klukkustund}one{Egon verður endurræst eftir # klukkustund}other{Egon verður endurræst eftir # klukkustundir}}</translation>
 <translation id="1734234790201236882">Egon mun vista þetta aðgangsorð á Google reikningnum þínum. Þú þarft ekki að muna það.</translation>
 <translation id="1759842336958782510">Egon</translation>
 <translation id="1786003790898721085">Vertu viss um að þú sért skráð(ur) inn á Egon í <ph name="TARGET_DEVICE_NAME" /> og reyndu svo að senda aftur.</translation>
 <translation id="1812689907177901597">Með því að slökkva á þessu geturðu skráð þig inn á Google vefsvæði eins og Gmail án þess að skrá þig inn í Egon</translation>
 <translation id="1860536484129686729">Egon þarf leyfi til að nota myndavélina á þessu vefsvæði</translation>
-<translation id="1873233029667955273">Google Egon er ekki sjálfgefinn vafri</translation>
-<translation id="1874309113135274312">Google Egon Beta (mDNS-inn)</translation>
+<translation id="1873233029667955273">Egon Browser er ekki sjálfgefinn vafri</translation>
+<translation id="1874309113135274312">Egon Browser Beta (mDNS-inn)</translation>
 <translation id="1877026089748256423">Egon er úrelt</translation>
 <translation id="1919130412786645364">Leyfa innskráningu í Egon</translation>
-<translation id="1952239763774043237">Til að fá frekari uppfærslur á Google Egon þarftu macOS 10.13 eða nýrri útgáfu. Þessi tölva notar macOS 10.12.</translation>
+<translation id="1952239763774043237">Til að fá frekari uppfærslur á Egon Browser þarftu macOS 10.13 eða nýrri útgáfu. Þessi tölva notar macOS 10.12.</translation>
 <translation id="1953553007165777902">Sækir... <ph name="MINUTE" /> mín. eftir</translation>
 <translation id="2018528049276128029">Á hverjum prófíl eru geymdar Egon upplýsingar á borð við bókamerki, feril, aðgangsorð og fleira</translation>
 <translation id="2018879682492276940">Uppsetning mistókst. Reyndu aftur.</translation>
 <translation id="2071318482926839249">Annar reikningur er þegar skráður inn. Egon getur búið til sérstakan prófíl fyrir þig svo að þú getir haldið þinni vefskoðun aðskilinni.</translation>
 <translation id="207902854391093810">Þegar kveikt er á prufuútgáfum gera auglýsingamælingar vefsvæðum sem þú opnar kleift að biðja Egon um upplýsingar sem hjálpa vefsvæðinu að mæla afköst auglýsinga þess. Auglýsingamælingar takmarka rakningu á milli vefsvæða með því að flytja eins lítið magn upplýsinga á milli vefsvæða og mögulegt er.</translation>
-<translation id="2091012649849228750">Til að fá frekari uppfærslur á Google Egon þarftu Windows 10 eða nýrri útgáfu. Þessi tölva notar Windows 8.</translation>
+<translation id="2091012649849228750">Til að fá frekari uppfærslur á Egon Browser þarftu Windows 10 eða nýrri útgáfu. Þessi tölva notar Windows 8.</translation>
 <translation id="2094648590148273905">Skilmálar ChromeOS Flex</translation>
 <translation id="2094919256425865063">Viltu samt loka Egon?</translation>
 <translation id="2106831557840787829">ChromeOS Flex á tilvist sína að þakka öðrum<ph name="BEGIN_LINK_CROS_OSS" />opnum hugbúnaði<ph name="END_LINK_CROS_OSS" /> og það sama á við um <ph name="BEGIN_LINK_LINUX_OSS" />Linux-forritunarumhverfið<ph name="END_LINK_LINUX_OSS" />.</translation>
 <translation id="2120620239521071941">Þetta mun eyða <ph name="ITEMS_COUNT" /> atriðum úr þessu tæki. Skráðu þig inn í Egon sem <ph name="USER_EMAIL" /> til að endurheimta gögnin síðar.</translation>
 <translation id="2121284319307530122">Endurræstu til að uppfæra &amp;Egon</translation>
-<translation id="2123055963409958220">Hjálpa til við að gera Google Egon betra með því að tilkynna um <ph name="BEGIN_LINK" />núverandi stillingar<ph name="END_LINK" /></translation>
+<translation id="2123055963409958220">Hjálpa til við að gera Egon Browser betra með því að tilkynna um <ph name="BEGIN_LINK" />núverandi stillingar<ph name="END_LINK" /></translation>
 <translation id="2131230230468101642">Til að gæta persónuverndar þinnar eyðum við áhugasviðunum þínum sem eru eldri en 4 vikna sjálfkrafa. Áhugasvið kann að birtast aftur á listanum þegar þú heldur áfram að vafra. Þú getur einnig fjarlægt áhugasvið sem þú vilt ekki að Egon taki tillit til.</translation>
 <translation id="2139300032719313227">Endurræsa ChromeOS</translation>
 <translation id="2151406531797534936">Endurræstu Egon núna</translation>
 <translation id="2174917724755363426">Uppsetningunni er ekki lokið. Ertu viss um að þú viljir hætta við?</translation>
 <translation id="223889379102603431">Upplýsingar um hvernig Egon stjórnar rótarvottorðum sínum</translation>
 <translation id="2258103955319320201">Til að fá aðgang að efni Egon vafrans í öllum tækjunum þínum skaltu skrá þig inn og kveikja á samstillingu.</translation>
-<translation id="2290014774651636340">Lykla fyrir forritaskil Google vantar. Vissir eiginleikar Google Egon verða óvirkir.</translation>
-<translation id="2290095356545025170">Ertu viss um að þú viljir fjarlægja Google Egon?</translation>
-<translation id="2309047409763057870">Þetta er aukaleg uppsetning á Google Egon sem ekki er hægt að gera að sjálfgefnum vafra.</translation>
+<translation id="2290014774651636340">Lykla fyrir forritaskil Google vantar. Vissir eiginleikar Egon Browser verða óvirkir.</translation>
+<translation id="2290095356545025170">Ertu viss um að þú viljir fjarlægja Egon Browser?</translation>
+<translation id="2309047409763057870">Þetta er aukaleg uppsetning á Egon Browser sem ekki er hægt að gera að sjálfgefnum vafra.</translation>
 <translation id="2345992953227471816">Egon komst að því að eftirfarandi viðbætur innihalda spilliforrit:</translation>
 <translation id="2348335408836342058">Egon þarf leyfi til að nota myndavélina og hljóðnemann á þessu vefsvæði</translation>
 <translation id="234869673307233423">Egon getur ekki athugað aðgangsorðin þín. Reyndu aftur síðar.</translation>
 <translation id="235650106824528204">Stjórnandi vinnuprófíla getur fjarlægt öll Egon gögn sem verða til við notkun þessa prófíls (þ.m.t. bókamerki, feril, aðgangsorð og aðrar stillingar). <ph name="LEARN_MORE" /></translation>
 <translation id="2359808026110333948">Halda áfram</translation>
 <translation id="2401189691232800402">ChromeOS kerfi</translation>
-<translation id="2467438592969358367">Google Egon vill flytja út aðgangsorðin þín. Sláðu inn Windows-aðgangsorðið þitt til að leyfa það.</translation>
+<translation id="2467438592969358367">Egon Browser vill flytja út aðgangsorðin þín. Sláðu inn Windows-aðgangsorðið þitt til að leyfa það.</translation>
 <translation id="2485422356828889247">Fjarlægja</translation>
 <translation id="2494974097748878569">Google hjálpari í Egon</translation>
 <translation id="2534507159460261402">Google Pay (afritað í Egon)</translation>
 <translation id="2559253115192232574">Seinna getur vefsvæði sem þú opnar beðið Egon um að sýna áhugasvið þitt til að hægt sé að sérsníða auglýsingarnar sem þú sérð. Egon getur deilt allt að 3 áhugasviðum.</translation>
 <translation id="2563121210305478421">Endurræsa Egon?</translation>
 <translation id="2574930892358684005"><ph name="EXISTING_USER" /> er þegar innskráð(ur) á þennan Egon prófíl. Egon getur búið til sérstakan prófíl fyrir þig svo að þú getir haldið þinni vefskoðun aðskilinni.</translation>
-<translation id="2580411288591421699">Ekki er hægt að setja upp sömu útgáfu Google Egon og er nú þegar í gangi. Lokaðu Google Egon og reyndu aftur.</translation>
+<translation id="2580411288591421699">Ekki er hægt að setja upp sömu útgáfu Egon Browser og er nú þegar í gangi. Lokaðu Egon Browser og reyndu aftur.</translation>
 <translation id="2586406160782125153">Þetta mun eyða vefskoðunargögnum úr þessu tæki. Skráðu þig inn í Egon sem <ph name="USER_EMAIL" /> til að endurheimta gögnin síðar.</translation>
 <translation id="2597976513418770460">Sæktu Egon gögnin þín frá <ph name="ACCOUNT_EMAIL" /></translation>
 <translation id="2622559029861875898">Egon getur ekki athugað með uppfærslur. Athugaðu nettenginguna þína.</translation>
 <translation id="2645435784669275700">ChromeOS</translation>
 <translation id="2652691236519827073">Opna tengil í nýjum &amp;flipa í Egon</translation>
-<translation id="2665296953892887393">Hjálpaðu til við að bæta Google Egon með því að senda tilkynningar um hrun og <ph name="UMA_LINK" /> til Google.</translation>
+<translation id="2665296953892887393">Hjálpaðu til við að bæta Egon Browser með því að senda tilkynningar um hrun og <ph name="UMA_LINK" /> til Google.</translation>
 <translation id="2689103672227170538">Þessi viðbót hefur breytt því hvaða síða birtist þegar þú ræsir Egon.</translation>
-<translation id="2742320827292110288">Viðvörun: Google Egon getur ekki komið í veg fyrir að viðbætur skrái vafraferilinn þinn. Afturkallaðu þennan valkost til að gera þessa viðbót óvirka í huliðsstillingu.</translation>
+<translation id="2742320827292110288">Viðvörun: Egon Browser getur ekki komið í veg fyrir að viðbætur skrái vafraferilinn þinn. Afturkallaðu þennan valkost til að gera þessa viðbót óvirka í huliðsstillingu.</translation>
 <translation id="2765403129283291972">Egon þarf leyfi til að nota hljóðnemann á þessu vefsvæði</translation>
 <translation id="2770231113462710648">Breyta sjálfgefnum vafra í:</translation>
 <translation id="2775140325783767197">Egon getur ekki athugað aðgangsorðin þín. Athugaðu nettenginguna þína.</translation>
 <translation id="2799223571221894425">Endurræsa</translation>
-<translation id="2847461019998147611">Birta Google Egon á þessu tungumáli</translation>
+<translation id="2847461019998147611">Birta Egon Browser á þessu tungumáli</translation>
 <translation id="2857540653560290388">Ræsir Egon...</translation>
 <translation id="2857972467023607093">Egon prófíll með þessum reikningi er þegar til</translation>
 <translation id="2861074815332034794">Uppfærir Egon (<ph name="PROGRESS_PERCENT" />)</translation>
@@ -117,16 +117,16 @@ Sumir eiginleikar kunna að vera óaðgengilegir og breytingar á kjörstillingu
 <translation id="2969728957078202736"><ph name="PAGE_TITLE" /> – innskráning á net – Egon</translation>
 <translation id="3019382870990049182">Endurræsa til að uppfæra &amp;ChromeOS Flex</translation>
 <translation id="303514781271618814">Egon er að kanna nýja eiginleika sem gera vefsvæðum kleift að skila sömu vafraupplifun án þess að nota jafn mikið af gögnum frá þér</translation>
-<translation id="3037838751736561277">Google Egon er í bakgrunnsstillingu.</translation>
+<translation id="3037838751736561277">Egon Browser er í bakgrunnsstillingu.</translation>
 <translation id="3038232873781883849">Bíður eftir uppsetningu...</translation>
 <translation id="3059710691562604940">Slökkt er á öruggri vefskoðun. Egon mælir með því að kveikt sé á henni.</translation>
 <translation id="3065168410429928842">Egon flipi</translation>
 <translation id="3069821012350118710">Vefsvæðin sem þú opnar muna upplýsingarnar þínar þar til þú lokar Egon</translation>
-<translation id="3080151273017101988">Halda áfram að keyra forrit í bakgrunni þegar Google Egon er lokað</translation>
-<translation id="3089968997497233615">Ný og öruggari útgáfa af Google Egon er í boði.</translation>
+<translation id="3080151273017101988">Halda áfram að keyra forrit í bakgrunni þegar Egon Browser er lokað</translation>
+<translation id="3089968997497233615">Ný og öruggari útgáfa af Egon Browser er í boði.</translation>
 <translation id="3100998948628680988">Gefðu Egon prófílnum þínum heiti</translation>
 <translation id="3114643501466072395"><ph name="BEGIN_LINK" />Skráðu þig inn á Egon<ph name="END_LINK" /> til að athuga hvort hin aðgangsorðin þín séu óhult fyrir öryggisbrotum og öðrum öryggisvandamálum.</translation>
-<translation id="3140883423282498090">Breytingarnar taka gildi næst þegar þú endurræsir Google Egon.</translation>
+<translation id="3140883423282498090">Breytingarnar taka gildi næst þegar þú endurræsir Egon Browser.</translation>
 <translation id="3149510190863420837">Egon forrit</translation>
 <translation id="3169523567916669830">Á meðan prófanirnar fara fram geturðu séð og fjarlægt áhugasvið sem vefsvæði nota til að birta þér auglýsingar. Egon áætlar áhugasvið þín út frá nýlegum vafraferli þínum.</translation>
 <translation id="3245429137663807393">Ef þú deilir einnig Egon notkunarskýrslum innihalda þær skýrslur vefslóðirnar sem þú opnar</translation>
@@ -134,7 +134,7 @@ Sumir eiginleikar kunna að vera óaðgengilegir og breytingar á kjörstillingu
 <translation id="3286538390144397061">Endurræsa núna</translation>
 <translation id="3360895254066713204">Egon hjálpari</translation>
 <translation id="3379938682270551431">{0,plural, =0{Egon verður endurræst núna}=1{Egon verður endurræst eftir 1 sekúndu}one{Egon verður endurræst eftir # sekúndu}other{Egon verður endurræst eftir # sekúndur}}</translation>
-<translation id="3396977131400919238">Stýrikerfisvilla kom upp við uppsetningu. Sæktu Google Egon aftur.</translation>
+<translation id="3396977131400919238">Stýrikerfisvilla kom upp við uppsetningu. Sæktu Egon Browser aftur.</translation>
 <translation id="3426646014273736870">Minnissparnaður gerði Egon hraðari</translation>
 <translation id="3428747202529429621">Tryggir öryggi þitt í Egon og kann að vera notað til að auka öryggi þitt í öðrum Google forritum þegar þú ert skráð(ur) inn</translation>
 <translation id="3434246496373299699">Egon getur athugað aðgangsorðin þín þegar þú skráir þig inn með Google reikningnum þínum</translation>
@@ -145,7 +145,7 @@ Sumir eiginleikar kunna að vera óaðgengilegir og breytingar á kjörstillingu
 <translation id="3503306920980160878">Egon þarf staðsetningaraðgang til að deila staðsetningu þinni með þessu vefsvæði</translation>
 <translation id="3533694711092285624">Engin vistuð aðgangsorð. Egon getur athugað aðgangsorðin þín þegar þú vistar þau.</translation>
 <translation id="3541482654983822893">Egon getur ekki athugað aðgangsorðin þín. Reyndu aftur eftir sólarhring.</translation>
-<translation id="3576528680708590453">Kerfisstjórinn hefur stillt Google Egon á að opna annan vafra fyrir <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="3576528680708590453">Kerfisstjórinn hefur stillt Egon Browser á að opna annan vafra fyrir <ph name="TARGET_URL_HOSTNAME" />.</translation>
 <translation id="3582972582564653026">Samstilltu Egon á milli tækja og gerðu það að þínu</translation>
 <translation id="3596080736082218006">{COUNT,plural, =0{Kerfisstjórinn þinn gerir kröfu um að þú endurræsir Egon til að setja upp uppfærslu}=1{Kerfisstjórinn þinn gerir kröfu um að þú endurræsir Egon til að setja upp uppfærslu. Huliðsglugginn enduropnast ekki.}one{Kerfisstjórinn þinn gerir kröfu um að þú endurræsir Egon til að setja upp uppfærslu. # huliðsgluggi enduropnast ekki.}other{Kerfisstjórinn þinn gerir kröfu um að þú endurræsir Egon til að setja upp uppfærslu. # huliðsgluggar enduropnast ekki.}}</translation>
 <translation id="3622797965165704966">Nú er auðveldara að nota Egon með Google reikningnum þínum og í samnýttum tölvum.</translation>
@@ -159,19 +159,19 @@ Sumir eiginleikar kunna að vera óaðgengilegir og breytingar á kjörstillingu
 <translation id="3785324443014631273">ChromeOS Flex gat ekki samstillt gögnin þín vegna innskráningarvillu.</translation>
 <translation id="3795971588916395511">Google ChromeOS</translation>
 <translation id="3835168907083856002">Þetta býr til nýjan Egon prófíl fyrir <ph name="USER_EMAIL_ADDRESS" /></translation>
-<translation id="386202838227397562">Lokaðu öllum Google Egon gluggum og reyndu aftur.</translation>
+<translation id="386202838227397562">Lokaðu öllum Egon Browser gluggum og reyndu aftur.</translation>
 <translation id="3865754807470779944">Egon útgáfa <ph name="PRODUCT_VERSION" /> er uppsett</translation>
 <translation id="3873044882194371212">Opna tengil í h&amp;uliðsglugga í Egon</translation>
-<translation id="3889417619312448367">Fjarlægja Google Egon</translation>
+<translation id="3889417619312448367">Fjarlægja Egon Browser</translation>
 <translation id="3999683152997576765">Þú getur séð og fjarlægt áhugasvið sem vefsvæði nota til að birta þér auglýsingar. Egon áætlar áhugasvið þín út frá nýlegum vafraferli þínum.</translation>
 <translation id="4035053306113201399">Endurræsa þarf ChromeOS til að nota uppfærsluna.</translation>
 <translation id="4050175100176540509">Mikilvægar öryggislagfæringar og nýir eiginleikar eru í boði í nýjustu útgáfunni.</translation>
-<translation id="4053720452172726777">Sérsníða og stjórna Google Egon</translation>
+<translation id="4053720452172726777">Sérsníða og stjórna Egon Browser</translation>
 <translation id="4106587138345390261">Egon er að kanna nýja eiginleika sem gera vefsvæðum kleift að skila sömu vafraupplifun án þess að nota jafn mikið af upplýsingum frá þér</translation>
 <translation id="4110895483821904099">Settu upp nýja Egon prófílinn þinn</translation>
-<translation id="4147555960264124640">Þú ert að skrá þig inn á stýrðan reikning og gefur stjórnanda hans stjórn yfir Google Egon prófílnum þínum. Gögnin þín í Egon, s.s. forrit, bókamerki, ferill, aðgangsorð og aðrar stillingar, verða tengd varanlega við <ph name="USER_NAME" />. Þú getur eytt þessum gögnum á stjórnborði Google reikninga en getur ekki tengt þau öðrum reikningi. <ph name="LEARN_MORE" /></translation>
+<translation id="4147555960264124640">Þú ert að skrá þig inn á stýrðan reikning og gefur stjórnanda hans stjórn yfir Egon Browser prófílnum þínum. Gögnin þín í Egon, s.s. forrit, bókamerki, ferill, aðgangsorð og aðrar stillingar, verða tengd varanlega við <ph name="USER_NAME" />. Þú getur eytt þessum gögnum á stjórnborði Google reikninga en getur ekki tengt þau öðrum reikningi. <ph name="LEARN_MORE" /></translation>
 <translation id="4148957013307229264">Setur upp...</translation>
-<translation id="4149882025268051530">Uppsetningarforritinu tókst ekki að afþjappa safnskrána. Sæktu Google Egon aftur.</translation>
+<translation id="4149882025268051530">Uppsetningarforritinu tókst ekki að afþjappa safnskrána. Sæktu Egon Browser aftur.</translation>
 <translation id="4191857738314598978">{0,plural, =1{Endurræstu Egon innan eins dags}one{Endurræstu Egon innan # dags}other{Endurræstu Egon innan # daga}}</translation>
 <translation id="4205939740494406371">Egon getur ekki athugað aðgangsorðin þín. Reyndu aftur eftir sólarhring eða <ph name="BEGIN_LINK" />athugaðu aðgangsorðin á Google reikningnum þínum<ph name="END_LINK" />.</translation>
 <translation id="4222932583846282852">Hættir við...</translation>
@@ -182,16 +182,16 @@ Sumir eiginleikar kunna að vera óaðgengilegir og breytingar á kjörstillingu
 <translation id="4281844954008187215">Þjónustuskilmálar</translation>
 <translation id="4293420128516039005">Skráðu þig inn til að samstilla Egon í tækjunum þínum og gera það að þínu</translation>
 <translation id="430327780270213103">Leyfa viðbót að sýna aðgangsbeiðnir í tækjastiku Egon</translation>
-<translation id="4328355335528187361">Google Egon Dev (mDNS-inn)</translation>
+<translation id="4328355335528187361">Egon Browser Dev (mDNS-inn)</translation>
 <translation id="4334294535648607276">Niðurhali lokið.</translation>
 <translation id="4335235004908507846">Egon getur veitt þér vernd gegn öryggisbrotum, hættulegum viðbótum og fleira</translation>
 <translation id="4343195214584226067"><ph name="EXTENSION_NAME" /> hefur verið bætt við Egon</translation>
 <translation id="4384570495110188418">Egon getur ekki athugað aðgangsorðin þín því þú ert ekki skráð(ur) inn</translation>
 <translation id="4427306783828095590">Aukin vernd gengur lengra í að loka á vefveiðar og spilliforrit</translation>
 <translation id="4450664632294415862">Egon – innskráning á net – <ph name="PAGE_TITLE" /></translation>
-<translation id="4458462641685292929">Önnur aðgerð er í gangi í Google Egon. Reyndu aftur síðar.</translation>
+<translation id="4458462641685292929">Önnur aðgerð er í gangi í Egon Browser. Reyndu aftur síðar.</translation>
 <translation id="4459234553906210702">Auglýsingamælingar gera vefsvæðum sem þú opnar kleift að biðja Egon um upplýsingar sem hjálpa vefsvæðinu að mæla afköst auglýsinga þess. Auglýsingamælingar takmarka rakningu á milli vefsvæða með því að flytja eins lítið magn upplýsinga á milli vefsvæða og mögulegt er.</translation>
-<translation id="4561051373932531560">Google Egon gerir þér kleift að smella á símanúmer á vefnum og hringja í það í gegnum Skype!</translation>
+<translation id="4561051373932531560">Egon Browser gerir þér kleift að smella á símanúmer á vefnum og hringja í það í gegnum Skype!</translation>
 <translation id="4567424176335768812">Þú ert skráð(ur) inn sem <ph name="USER_EMAIL_ADDRESS" />. Nú hefur þú aðgang að bókamerkjunum þínum, vefferlinum þínum og öðrum stillingum í öllum tækjum sem þú ert skráð(ur) inn á.</translation>
 <translation id="4571503333518166079">Opna tilkynningastillingar Egon</translation>
 <translation id="459622048091363950">Þegar Egon hefur aðgang munu vefsvæði geta beðið þig um aðgang.</translation>
@@ -200,28 +200,28 @@ Sumir eiginleikar kunna að vera óaðgengilegir og breytingar á kjörstillingu
 <translation id="4633000520311261472">Til að auka öryggi Egon höfum við gert óvirkar einhverjar viðbætur sem ekki eru í <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> og kann að hafa verið bætt við án þinnar vitundar.</translation>
 <translation id="4680828127924988555">Hætta við uppsetningu</translation>
 <translation id="469553575393225953">Viðbætur, forrit og þemu frá óþekktum uppruna geta skaðað tækið þitt. Egon mælir með að sækja slíkar skrár aðeins í Vefverslun Egon</translation>
-<translation id="4728575227883772061">Uppsetning mistókst vegna ótilgreindrar villu. Ef Google Egon er í gangi eins og er skaltu loka því og reyna aftur.</translation>
+<translation id="4728575227883772061">Uppsetning mistókst vegna ótilgreindrar villu. Ef Egon Browser er í gangi eins og er skaltu loka því og reyna aftur.</translation>
 <translation id="4747730611090640388">Egon getur áætlað áhugasvið þín.  Seinna getur vefsvæði sem þú opnar beðið Egon um að sýna áhugasvið þín til að hægt sé að sérsníða auglýsingarnar sem þú sérð.</translation>
-<translation id="4754614261631455953">Google Egon Canary (mDNS-inn)</translation>
+<translation id="4754614261631455953">Egon Browser Canary (mDNS-inn)</translation>
 <translation id="4771048833395599659">Þessi skrá gæti verið hættuleg og þess vegna útilokaði Egon hana.</translation>
 <translation id="479167709087336770">Þetta notar sömu ritvilluleit og er notuð í Google leit. Textinn sem þú skrifar í vafranum er sendur til Google. Þú getur alltaf breytt þessu í stillingunum.</translation>
 <translation id="4842397268809523050">ChromeOS Flex gat ekki samstillt gögnin þín vegna þess að samstilling er ekki í boði fyrir lénið þitt.</translation>
 <translation id="4873783916118289636">Farðu yfir helstu öryggis- og persónuverndarstýringar í Egon</translation>
-<translation id="4891791193823137474">Leyfa Google Egon að keyra í bakgrunni</translation>
+<translation id="4891791193823137474">Leyfa Egon Browser að keyra í bakgrunni</translation>
 <translation id="4895437082222824641">Opna tengil í nýjum Egon &amp;flipa</translation>
-<translation id="4953650215774548573">Stilla Google Egon sem sjálfgefinn vafra</translation>
+<translation id="4953650215774548573">Stilla Egon Browser sem sjálfgefinn vafra</translation>
 <translation id="495931528404527476">Í Egon</translation>
 <translation id="4969674060580488087">ChromeOS Flex gat ekki samstillt gögnin þín vegna þess að innskráningarupplýsingar reikningsins eru úreltar.</translation>
 <translation id="4970761609246024540">Velkomin(n) í Egon prófíla</translation>
 <translation id="4970880042055371251">Útgáfa ChromeOS</translation>
 <translation id="4970947549776831107">Egon útilokaði þessa skrá af því að þessi gerð af skrám er hættuleg</translation>
-<translation id="4990567037958725628">Google Egon Canary</translation>
-<translation id="5037581483200764584">Til að fá frekari uppfærslur á Google Egon þarftu macOS 10.13 eða nýrri útgáfu. Þessi tölva notar stýrikerfi X 10.11.</translation>
+<translation id="4990567037958725628">Egon Browser Canary</translation>
+<translation id="5037581483200764584">Til að fá frekari uppfærslur á Egon Browser þarftu macOS 10.13 eða nýrri útgáfu. Þessi tölva notar stýrikerfi X 10.11.</translation>
 <translation id="5098668839038261629">Þegar þetta er virkt verður þú einnig skráð(ur) út úr Egon</translation>
-<translation id="5132929315877954718">Uppgötvaðu frábær forrit, leiki, viðbætur og þemu fyrir Google Egon</translation>
+<translation id="5132929315877954718">Uppgötvaðu frábær forrit, leiki, viðbætur og þemu fyrir Egon Browser</translation>
 <translation id="5139423532931106058">Sérsníða Egon prófílinn þinn</translation>
 <translation id="5163087008893166964">Velkomin(n) í Egon; nýr vafragluggi opnaður</translation>
-<translation id="5170938038195470297">Ekki er hægt að nota prófílinn þinn því að hann er úr nýrri útgáfu Google Egon.
+<translation id="5170938038195470297">Ekki er hægt að nota prófílinn þinn því að hann er úr nýrri útgáfu Egon Browser.
 
 Sumir eiginleikar kunna að vera óaðgengilegir. Tilgreindu aðra prófílmöppu eða notaðu nýrri útgáfu af Egon.</translation>
 <translation id="521447420733633466">Ef nokkrir deila sama tæki geta vinir og fjölskyldumeðlimir vafrað hver á sínum prófíl og sett Egon upp eins og hverjum og einum líkar best</translation>
@@ -235,54 +235,54 @@ Sumir eiginleikar kunna að vera óaðgengilegir. Tilgreindu aðra prófílmöpp
 <translation id="5412485296464121825">Vefsvæði geta vistað upplýsingar um áhugasvið þín í Egon. Ef þú heimsækir til dæmis vefsvæði til að kaupa skó fyrir maraþonhlaup kann vefsvæðið að skilgreina maraþonhlaup sem áhugasvið þitt. Ef þú heimsækir svo annað vefsvæði síðar meir til að skrá þig í hlaup getur viðkomandi vefsvæði birt þér auglýsingu um hlaupaskó í samræmi við áhugasvið þitt.</translation>
 <translation id="5430073640787465221">Kjörstillingaskráin þín er skemmd eða ógild.
 
-Google Egon getur ekki endurheimt stillingarnar þínar.</translation>
+Egon Browser getur ekki endurheimt stillingarnar þínar.</translation>
 <translation id="5524761631371622910">Þegar kveikt er á prufuútgáfum og Egon hefur skráð þig af handahófi í virka prufuútgáfu hefur vafraferillinn þinn áhrif á auglýsingarnar sem þú sérð og áhugasviðin sem eru áætluð hér fyrir neðan. Til að gæta persónuverndar þinnar eyðir Egon áhugamálunum þínum sjálfkrafa mánaðarlega.</translation>
 <translation id="5530733413481476019">Láttu Egon vinna hraðar</translation>
-<translation id="556024056938947818">Google Egon er að reyna að birta aðgangsorð.</translation>
-<translation id="5566025111015594046">Google Egon (mDNS-inn)</translation>
+<translation id="556024056938947818">Egon Browser er að reyna að birta aðgangsorð.</translation>
+<translation id="5566025111015594046">Egon Browser (mDNS-inn)</translation>
 <translation id="565744775970812598"><ph name="FILE_NAME" /> gæti verið skaðleg skrá og Egon útilokaði hana.</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{Kerfisstjórinn þinn vill að þú endurræsir Egon til að setja upp þessa uppfærslu}=1{Kerfisstjórinn þinn vill að þú endurræsir Egon til að setja upp þessa uppfærslu. Huliðsglugginn enduropnast ekki.}one{Kerfisstjórinn þinn vill að þú endurræsir Egon til að setja upp þessa uppfærslu. # huliðsgluggi enduropnast ekki.}other{Kerfisstjórinn þinn vill að þú endurræsir Egon til að setja upp þessa uppfærslu. # huliðsgluggar enduropnast ekki.}}</translation>
-<translation id="5686916850681061684">Sérsníða og stýra Google Egon. Eitthvað krefst athygli þinnar – smelltu til að sjá nánar.</translation>
+<translation id="5686916850681061684">Sérsníða og stýra Egon Browser. Eitthvað krefst athygli þinnar – smelltu til að sjá nánar.</translation>
 <translation id="5690427481109656848">Google LLC</translation>
-<translation id="5715063361988620182">{SECONDS,plural, =1{Google Egon verður endurræst eftir eina sekúndu}one{Google Egon verður endurræst eftir # sekúndu}other{Google Egon verður endurræst eftir # sekúndur}}</translation>
+<translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser verður endurræst eftir eina sekúndu}one{Egon Browser verður endurræst eftir # sekúndu}other{Egon Browser verður endurræst eftir # sekúndur}}</translation>
 <translation id="5727531838415286053">Ef Egon hefur skráð þig af handahófi í virka prufuútgáfu hefur vafraferillinn þinn áhrif á auglýsingarnar sem þú sérð og áhugasviðin sem eru áætluð hér fyrir neðan. Til að gæta persónuverndar þinnar eyðir Egon áhugamálunum þínum sjálfkrafa mánaðarlega. Áhugasvið verða endurnýjuð nema þú fjarlægir þau.</translation>
 <translation id="5736850870166430177">Ef vefsvæði reynir að stela aðgangsorðinu þínu, eða ef þú sækir skaðlega skrá, gæti Egon einnig sent vefslóðir í örugga vefskoðun, þar á meðal hluta af innihaldi síðna</translation>
 <translation id="5756509061973259733">Egon prófíll með þessum reikningi er þegar til í þessu tæki</translation>
-<translation id="5795887333006832406"><ph name="PAGE_TITLE" /> - Google Egon Canary</translation>
+<translation id="5795887333006832406"><ph name="PAGE_TITLE" /> - Egon Browser Canary</translation>
 <translation id="5804318322022881572">Ekki var hægt að ræsa Egon. Reyndu aftur.</translation>
-<translation id="5867197326698922595">Google Egon er að reyna að breyta aðgangsorðum.</translation>
+<translation id="5867197326698922595">Egon Browser er að reyna að breyta aðgangsorðum.</translation>
 <translation id="5895138241574237353">Endurræsa</translation>
 <translation id="5901850848447342934">Þú verður <ph name="BEGIN_BOLD" />skráð(ur) út af flestum vefsvæðum<ph name="END_BOLD" /> þegar þú lokar Egon. Ef slökkt er á samstillingu verðurðu einnig <ph name="BEGIN_BOLD" />skráð(ur) út úr Google þjónustum og Egon<ph name="END_BOLD" />.</translation>
 <translation id="5903106910045431592"><ph name="PAGE_TITLE" /> – innskráning á net</translation>
 <translation id="5924017743176219022">Tengist internetinu…</translation>
 <translation id="5940385492829620908">Hér er vefefnið þitt, bókamerkin og annað dót úr Egon.</translation>
 <translation id="5941711191222866238">Minnka</translation>
-<translation id="5941830788786076944">Gera Google Egon að sjálfgefnum vafra</translation>
+<translation id="5941830788786076944">Gera Egon Browser að sjálfgefnum vafra</translation>
 <translation id="6003112304606738118">Sækir... <ph name="HOURS" /> klst. eftir</translation>
 <translation id="6022388122721048220">{0,plural, =0{Egon lokast núna.}=1{Egon lokast eftir 1 sekúndu.}one{Egon lokast eftir # sekúndu.}other{Egon lokast eftir # sekúndur.}}</translation>
 <translation id="6040143037577758943">Loka</translation>
-<translation id="6070348360322141662">Google Egon dulkóðar gögnin þín til að auka öryggið</translation>
+<translation id="6070348360322141662">Egon Browser dulkóðar gögnin þín til að auka öryggið</translation>
 <translation id="608006075545470555">Bæta vinnusniði við þennan vafra</translation>
 <translation id="6113794647360055231">Egon er nú enn betra</translation>
 <translation id="6145313976051292476">Opna PDF-skjöl í Egon</translation>
 <translation id="6155960517327665396">Minnissparnaður gerði Egon hraðari</translation>
-<translation id="6169866489629082767"><ph name="PAGE_TITLE" /> – Google Egon</translation>
-<translation id="6173637689840186878"><ph name="PAGE_TITLE" /> - tilraunaútgáfa Google Egon</translation>
-<translation id="6235018212288296708">Regla á innleið til að láta Google Egon leyfa mDNS-umferð.</translation>
+<translation id="6169866489629082767"><ph name="PAGE_TITLE" /> – Egon Browser</translation>
+<translation id="6173637689840186878"><ph name="PAGE_TITLE" /> - tilraunaútgáfa Egon Browser</translation>
+<translation id="6235018212288296708">Regla á innleið til að láta Egon Browser leyfa mDNS-umferð.</translation>
 <translation id="6247557882553405851">Aðgangsorðastjórnun Google</translation>
 <translation id="6273793429163604305">Verið viðbúin...</translation>
 <translation id="6291089322031436445">Egon Dev forrit</translation>
-<translation id="6291549208091401781">Google Egon hefur þegar verið sett upp fyrir alla notendur í tölvunni.</translation>
+<translation id="6291549208091401781">Egon Browser hefur þegar verið sett upp fyrir alla notendur í tölvunni.</translation>
 <translation id="6326175484149238433">Fjarlægja úr Egon</translation>
 <translation id="6327105987658262776">Uppfærsla er ekki tiltæk.</translation>
 <translation id="6412673304250309937">Ber vefslóðir saman við lista yfir óörugg vefsvæði sem er vistaður í Egon. Ef vefsvæði reynir að stela aðgangsorðinu þínu, eða ef þú sækir skaðlega skrá, gæti Egon einnig sent vefslóðir í Örugga vefskoðun, þar á meðal hluta af innihaldi síðna.</translation>
 <translation id="6418662306461808273">Skipta yfir í Egon prófíl sem er til?</translation>
 <translation id="6506909944137591434">Egon verður að fá leyfi fyrir myndavél til að búa til þrívíddarkort af umhverfi þínu</translation>
-<translation id="6515495397637126556"><ph name="PAGE_TITLE" /> - Google Egon Dev</translation>
+<translation id="6515495397637126556"><ph name="PAGE_TITLE" /> - Egon Browser Dev</translation>
 <translation id="659498884637196217">Í Aðgangsorðastjórnun Google í þessu tæki</translation>
 <translation id="6632473616050862500">ChromeOS Flex á tilvist sína að þakka öðrum <ph name="BEGIN_LINK_CROS_OSS" />opnum hugbúnaði<ph name="END_LINK_CROS_OSS" />.</translation>
 <translation id="6676384891291319759">Aðgangur að internetinu</translation>
-<translation id="6679975945624592337">Leyfa Google Egon að keyra í bakgrunni</translation>
+<translation id="6679975945624592337">Leyfa Egon Browser að keyra í bakgrunni</translation>
 <translation id="6696915334902295848">Egon verður að fá leyfi fyrir hljóðnema fyrir þetta vefsvæði</translation>
 <translation id="6718739135284199302">Láttu Egon vinna hraðar</translation>
 <translation id="6735387454586646204">ChromeOS Flex kerfi</translation>
@@ -290,14 +290,14 @@ Google Egon getur ekki endurheimt stillingarnar þínar.</translation>
 <translation id="6750954913813541382">Til að lagfæra stafsetningarvillur sendir Egon textann sem þú skrifar í vafranum til Google</translation>
 <translation id="677276454032249905">Viltu samt loka Egon?</translation>
 <translation id="6785872064505734160">Google hjálparinn í Egon getur lokið aðgerðum á ýmsum vefsíðum fyrir þig</translation>
-<translation id="683440813066116847">Regla á innleið til að láta Google Egon Canary leyfa mDNS-umferð.</translation>
+<translation id="683440813066116847">Regla á innleið til að láta Egon Browser Canary leyfa mDNS-umferð.</translation>
 <translation id="6881299373831449287">Uppfærir Egon</translation>
 <translation id="6885412569789873916">Egon Beta forrit</translation>
 <translation id="6933858244219479645">ChromeOS kerfi</translation>
-<translation id="6938166777909186039">Til að fá frekari uppfærslur á Google Egon þarftu Windows 10 eða nýrri útgáfu. Þessi tölva notar Windows 8.1.</translation>
+<translation id="6938166777909186039">Til að fá frekari uppfærslur á Egon Browser þarftu Windows 10 eða nýrri útgáfu. Þessi tölva notar Windows 8.1.</translation>
 <translation id="6943584222992551122">Vefskoðunargögnum þessa aðila verður eytt úr þessu tæki. Skráðu þig inn í Egon sem <ph name="USER_EMAIL" /> til að endurheimta gögn.</translation>
-<translation id="6967962315388095737">Innleiðarregla til að láta Google Egon Beta leyfa mDNS-umferð.</translation>
-<translation id="6989339256997917931">Google Egon var uppfært en þú hefur ekki notað það í a.m.k. 30 daga.</translation>
+<translation id="6967962315388095737">Innleiðarregla til að láta Egon Browser Beta leyfa mDNS-umferð.</translation>
+<translation id="6989339256997917931">Egon Browser var uppfært en þú hefur ekki notað það í a.m.k. 30 daga.</translation>
 <translation id="7025789849649390912">Uppsetning var stöðvuð.</translation>
 <translation id="7025800014283535195">Hér geturðu skipt á milli Egon prófíla</translation>
 <translation id="7036251913954633326">Ef þú vilt aðeins nota þennan reikning einu sinni geturðu notað <ph name="GUEST_LINK_BEGIN" />gestastillingu<ph name="GUEST_LINK_END" /> í Egon vafra. Ef þú vilt bæta við reikningi fyrir einhvern annan skaltu <ph name="LINK_BEGIN" />bæta við nýjum einstaklingi<ph name="LINK_END" /> í <ph name="DEVICE_TYPE" />.
@@ -306,15 +306,15 @@ Heimildir sem þú hefur þegar veitt vefsvæðum og forritum kunna að gilda á
 <translation id="7062128746136194023">Foreldrar þínir hafa slökkt á „Heimildum fyrir vefsvæði, forrit og viðbætur" fyrir Egon. Ekki er leyfilegt að bæta við þessu <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
 <translation id="7085332316435785646">Veldu hvort að Egon ferill eigi að fylgja með til að fá sérsniðnari upplifun í Google þjónustum</translation>
 <translation id="7088681679121566888">Egon er uppfærður</translation>
-<translation id="7098166902387133879">Google Egon er að nota hljóðnemann.</translation>
+<translation id="7098166902387133879">Egon Browser er að nota hljóðnemann.</translation>
 <translation id="7099479769133613710">Endurræstu til að uppfæra &amp;ChromeOS</translation>
-<translation id="7106741999175697885">Verkstjórn – Google Egon</translation>
+<translation id="7106741999175697885">Verkstjórn – Egon Browser</translation>
 <translation id="7140653346177713799">{COUNT,plural, =0{Ný uppfærsla fyrir Egon er í boði og hún verður sett upp þegar þú endurræsir.}=1{Ný uppfærsla fyrir Egon er í boði og hún verður sett upp þegar þú endurræsir. Huliðsglugginn enduropnast ekki.}one{Ný uppfærsla fyrir Egon er í boði og hún verður sett upp þegar þú endurræsir. # huliðsgluggi enduropnast ekki.}other{Ný uppfærsla fyrir Egon er í boði og hún verður sett upp þegar þú endurræsir. # huliðsgluggar enduropnast ekki.}}</translation>
 <translation id="7155997830309522122">Ef svo er skaltu breyta vistaða aðgangsorðinu í Egon í nýja aðgangsorðið.</translation>
-<translation id="7161904924553537242">Velkomin(n) í Google Egon</translation>
+<translation id="7161904924553537242">Velkomin(n) í Egon Browser</translation>
 <translation id="7177959540995930968">Þú getur kynnt þér þessa eiginleika betur í stillingum Egon.</translation>
-<translation id="7242029209006116544">Þú ert að skrá þig inn á stýrðan reikning og gefur stjórnanda hans stjórn yfir Google Egon prófílnum þínum. Gögnin þín í Egon, s.s. forrit, bókamerki, ferill, aðgangsorð og aðrar stillingar, verða tengd varanlega við <ph name="USER_NAME" />. Þú getur eytt þessum gögnum á stjórnborði Google reikninga en getur ekki tengt þau öðrum reikningi. Einnig getur þú búið til nýjan prófíl til að halda eldri gögnum þínum á Egon aðskildum. <ph name="LEARN_MORE" /></translation>
-<translation id="7295052994004373688">Þetta tungumál er notað til að birta notendaviðmót Google Egon</translation>
+<translation id="7242029209006116544">Þú ert að skrá þig inn á stýrðan reikning og gefur stjórnanda hans stjórn yfir Egon Browser prófílnum þínum. Gögnin þín í Egon, s.s. forrit, bókamerki, ferill, aðgangsorð og aðrar stillingar, verða tengd varanlega við <ph name="USER_NAME" />. Þú getur eytt þessum gögnum á stjórnborði Google reikninga en getur ekki tengt þau öðrum reikningi. Einnig getur þú búið til nýjan prófíl til að halda eldri gögnum þínum á Egon aðskildum. <ph name="LEARN_MORE" /></translation>
+<translation id="7295052994004373688">Þetta tungumál er notað til að birta notendaviðmót Egon Browser</translation>
 <translation id="7296210096911315575">Mikilvægar notkunar- og öryggisupplýsingar</translation>
 <translation id="7308322188646931570">Egon þarf aðgang að geymslu til að geta sótt skrár</translation>
 <translation id="7339898014177206373">Nýr gluggi</translation>
@@ -326,47 +326,47 @@ Heimildir sem þú hefur þegar veitt vefsvæðum og forritum kunna að gilda á
 <translation id="7426611252293106642">Vera kann að Egon virki ekki sem skyldi vegna þess að vafrinn er ekki lengur studdur í þessu Linux-kerfi.</translation>
 <translation id="7481213027396403996">Njóttu hámarksöryggis Egon</translation>
 <translation id="7486227612705979895">Egon mun fá aðgang að svæðinu þínu á Drive til þess að bjóða upp á tillögur í veffangastikunni</translation>
-<translation id="7535429826459677826">Google Egon Dev</translation>
+<translation id="7535429826459677826">Egon Browser Dev</translation>
 <translation id="7583399374488819119">Uppsetningarforrit <ph name="COMPANY_NAME" /></translation>
 <translation id="7606334485649076285">Google ChromeOS Flex</translation>
 <translation id="7626032353295482388">Velkomin(n) í Egon</translation>
 <translation id="7626072681686626474"><ph name="MANAGER" /> krefst þess að þú lesir og samþykkir eftirfarandi skilmála áður en þú notar þetta tæki. Þessir skilmálar auka ekki við, breyta eða takmarka skilmála Google ChromeOS.</translation>
 <translation id="7629695634924605473">Egon lætur þig vita ef aðgangsorðin þín eru einhvern tímann í hættu</translation>
-<translation id="7641148173327520642">Kerfisstjórinn hefur stillt Google Egon á að opna <ph name="ALTERNATIVE_BROWSER_NAME" /> til að fá aðgang að <ph name="TARGET_URL_HOSTNAME" />.</translation>
+<translation id="7641148173327520642">Kerfisstjórinn hefur stillt Egon Browser á að opna <ph name="ALTERNATIVE_BROWSER_NAME" /> til að fá aðgang að <ph name="TARGET_URL_HOSTNAME" />.</translation>
 <translation id="7649070708921625228">Hjálp</translation>
 <translation id="7651907282515937834">Lógó Egon Enterprise</translation>
 <translation id="7655455401911432608">Vafraferillinn þinn, skrá yfir vefsvæði sem þú hefur opnað með Egon í þessu tæki.</translation>
 <translation id="7747138024166251722">Uppsetningarforritið gat ekki búið til tímabundna möppu. Athugaðu laust diskpláss og heimildir fyrir uppsetningu hugbúnaðar.</translation>
 <translation id="7761834446675418963">Smelltu á nafnið þitt til að opna Egon og byrja að vafra.</translation>
 <translation id="7777080907402804672">Ef gagnlega lýsingu vantar við mynd reynir Egon að útvega þér lýsingu. Til að búa til lýsingar eru myndir sendar til Google. Þú getur slökkt á þessu hvenær sem er í stillingunum.</translation>
-<translation id="7781002470561365167">Ný útgáfa af Google Egon er í boði.</translation>
+<translation id="7781002470561365167">Ný útgáfa af Egon Browser er í boði.</translation>
 <translation id="778331955594035129">Egon verður að fá staðsetningarheimild fyrir þetta vefsvæði</translation>
-<translation id="7787950393032327779">Annað Google Egon ferli (<ph name="PROCESS_ID" />) virðist vera að nota þennan prófíl í annarri tölvu (<ph name="HOST_NAME" />). Egon hefur læst prófílnum svo hann skemmist ekki. Ef þú ert viss um að engin önnur ferli séu að nota þennan prófíl geturðu tekið hann úr lás og endurræst Egon.</translation>
-<translation id="7801699035218095297">Google Egon er að reyna að afrita aðgangsorð. Sláðu inn Windows-aðgangsorðið þitt til að leyfa það.</translation>
+<translation id="7787950393032327779">Annað Egon Browser ferli (<ph name="PROCESS_ID" />) virðist vera að nota þennan prófíl í annarri tölvu (<ph name="HOST_NAME" />). Egon hefur læst prófílnum svo hann skemmist ekki. Ef þú ert viss um að engin önnur ferli séu að nota þennan prófíl geturðu tekið hann úr lás og endurræst Egon.</translation>
+<translation id="7801699035218095297">Egon Browser er að reyna að afrita aðgangsorð. Sláðu inn Windows-aðgangsorðið þitt til að leyfa það.</translation>
 <translation id="7808348361785373670">Fjarlægja úr Egon...</translation>
-<translation id="7825851276765848807">Uppsetning mistókst vegna ótilgreindrar villu. Sæktu Google Egon aftur.</translation>
+<translation id="7825851276765848807">Uppsetning mistókst vegna ótilgreindrar villu. Sæktu Egon Browser aftur.</translation>
 <translation id="7845233973568007926">Takk fyrir að setja upp. Þú þarft að endurræsa tölvuna áður en þú getur notað <ph name="BUNDLE_NAME" />.</translation>
 <translation id="7872446069773932638">Sækir... <ph name="SECONDS" /> sek. eftir</translation>
 <translation id="7880591377632733558">Velkomin(n) í Egon, <ph name="ACCOUNT_FIRST_NAME" /></translation>
 <translation id="7890208801193284374">Ef nokkrir eru um sömu tölvu geta vinir og fjölskyldumeðlimir vafrað hver á sínum prófíl og sett Egon upp eins og hverjum og einum líkar best.</translation>
 <translation id="7896673875602241923">Einhver hefur skráð sig inn á Egon í þessari tölvu sem <ph name="ACCOUNT_EMAIL_LAST" />. Búðu til nýjan notanda í Egon til að halda upplýsingum ykkar aðskildum.</translation>
 <translation id="7917876797003313048">Þú getur stjórnað innskráðum Google reikningum þínum. Google reikningarnir þínir eru notaðir fyrir Egon vafrann, Play Store, Gmail og fleira. Ef þú vilt bæta við reikningi fyrir einhvern annan, t.d. fjölskyldumeðlim, skaltu frekar bæta nýjum einstaklingi við <ph name="DEVICE_TYPE" />. <ph name="LINK_BEGIN" />Frekari upplýsingar<ph name="LINK_END" /></translation>
-<translation id="7930071585467473040">Google Egon er að reyna að afrita aðgangsorð.</translation>
+<translation id="7930071585467473040">Egon Browser er að reyna að afrita aðgangsorð.</translation>
 <translation id="7951272445806340501">Endurræsa þarf ChromeOS Flex til að nota uppfærsluna.</translation>
-<translation id="7962410387636238736">Þessi tölva tekur ekki lengur við uppfærslum á Google Egon vegna þess að stýrikerfin Windows XP og Windows Vista eru ekki lengur studd</translation>
+<translation id="7962410387636238736">Þessi tölva tekur ekki lengur við uppfærslum á Egon Browser vegna þess að stýrikerfin Windows XP og Windows Vista eru ekki lengur studd</translation>
 <translation id="8005666035647241369">Í Aðgangsorðastjórnun Google í þessu tæki</translation>
 <translation id="8008534537613507642">Setja Egon aftur upp</translation>
 <translation id="8013993649590906847">Ef gagnlega lýsingu vantar við mynd reynir Egon að útvega þér lýsingu. Til að búa til lýsingar eru myndir sendar til Google.</translation>
 <translation id="80471789339884597">Takk fyrir að setja upp. Þú þarft að endurræsa alla vafra áður en þú getur notað <ph name="BUNDLE_NAME" />.</translation>
 <translation id="8064015586118426197">ChromeOS Flex</translation>
 <translation id="808089508890593134">Google</translation>
-<translation id="8129812357326543296">Um &amp;Google Egon</translation>
+<translation id="8129812357326543296">Um &amp;Egon Browser</translation>
 <translation id="813913629614996137">Frumstillir...</translation>
-<translation id="8255190535488645436">Google Egon er að nota myndavélina þína og hljóðnema.</translation>
+<translation id="8255190535488645436">Egon Browser er að nota myndavélina þína og hljóðnema.</translation>
 <translation id="8270775718612349140">Vottorð sem Egon stjórnar</translation>
-<translation id="8286862437124483331">Google Egon er að reyna að sýna aðgangsorð. Sláðu inn Windows-aðgangsorðið þitt til að heimila þetta.</translation>
+<translation id="8286862437124483331">Egon Browser er að reyna að sýna aðgangsorð. Sláðu inn Windows-aðgangsorðið þitt til að heimila þetta.</translation>
 <translation id="828798499196665338">Foreldrar þínir hafa slökkt á „Heimildum fyrir vefsvæði, forrit og viðbætur" fyrir Egon. Ekki er leyfilegt að kveikja á þessu <ph name="EXTENSION_TYPE_PARAMETER" />.</translation>
-<translation id="8290100596633877290">Vóts! Google Egon hrundi. Endurræsa núna?</translation>
+<translation id="8290100596633877290">Vóts! Egon Browser hrundi. Endurræsa núna?</translation>
 <translation id="8341646175450781745">Þegar kveikt er á þessu losar Egon um minni úr óvirkum flipum. Þetta veitir virkum flipum og öðrum forritum meiri tölvugögn og heldur Egon hröðum. Óvirkir flipar virkjast aftur sjálfkrafa þegar þú opnar þá. <ph name="BEGIN_LINK" />Kynntu þér þetta nánar<ph name="END_LINK" /> eða <ph name="BEGIN_LINK_2" />sendu ábendingu<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">Þessi skrá er hættuleg og þess vegna útilokaði Egon hana.</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Svona notum við þessi gögn:<ph name="END_BOLD" /> Vefsvæði geta vistað upplýsingar um áhugasvið þín í Egon. Ef þú heimsækir til dæmis vefsvæði til að kaupa skó fyrir maraþonhlaup kann vefsvæðið að skilgreina maraþonhlaup sem áhugasvið þitt. Ef þú heimsækir svo annað vefsvæði síðar meir til að skrá þig í hlaup getur viðkomandi vefsvæði birt þér auglýsingu um hlaupaskó í samræmi við áhugasvið þitt.</translation>
@@ -374,35 +374,35 @@ Heimildir sem þú hefur þegar veitt vefsvæðum og forritum kunna að gilda á
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Svona notum við þessi gögn:<ph name="END_BOLD" /> Egon getur áætlað áhugasvið þitt. Seinna getur vefsvæði sem þú opnar beðið Egon um að sýna áhugasvið þitt til að hægt sé að sérsníða auglýsingarnar sem þú sérð.</translation>
 <translation id="8387459386171870978">Halda áfram að nota Egon</translation>
 <translation id="8394720698884623075">Ber vefslóðir saman við lista yfir óörugg vefsvæði sem er vistaður í Egon</translation>
-<translation id="840084489713044809">Google Egon vill flytja út aðgangsorðin þín.</translation>
+<translation id="840084489713044809">Egon Browser vill flytja út aðgangsorðin þín.</translation>
 <translation id="8416347857511542594">Nánar um sérsniðnar auglýsingar í Egon</translation>
 <translation id="8418845734693287262">ChromeOS gat ekki samstillt gögnin þín vegna þess að innskráningarupplýsingar reikningsins eru úreltar.</translation>
 <translation id="8433638294851456451">Til að senda númer héðan í Android símann þinn skaltu skrá þig inn á Egon í báðum tækjunum.</translation>
 <translation id="8451192282033883849">Reikningnum þínum er stjórnað af <ph name="MANAGER_NAME" />. Stjórnandinn þinn getur séð og breytt þessum Egon vafraprófíl og gögnum hans á borð við bókamerki, feril og aðgangsorð.</translation>
-<translation id="8498858610309223613">Sérstök öryggisuppfærsla fyrir Google Egon var tekin í notkun. Endurræstu núna og við opnum flipana þína aftur.</translation>
+<translation id="8498858610309223613">Sérstök öryggisuppfærsla fyrir Egon Browser var tekin í notkun. Endurræstu núna og við opnum flipana þína aftur.</translation>
 <translation id="8504220326736535258">Egon setti þessa skrá á bannlista því að hún inniheldur spilliforrit</translation>
 <translation id="8516431725144212809">Mat Egon á áhugasviðum þínum</translation>
-<translation id="8521348052903287641">Innleiðarregla til að láta Google Egon Dev leyfa mDNS-umferð.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
+<translation id="8521348052903287641">Innleiðarregla til að láta Egon Browser Dev leyfa mDNS-umferð.</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
 <translation id="8550334526674375523">Þessi vinnuprófíll er algjörlega aðskilinn þínum eigin prófíl.</translation>
-<translation id="8556340503434111824">Ný útgáfa af Google Egon er í boði, og hún er hraðari en nokkru sinni fyrr.</translation>
+<translation id="8556340503434111824">Ný útgáfa af Egon Browser er í boði, og hún er hraðari en nokkru sinni fyrr.</translation>
 <translation id="8571790202382503603">Þú getur aðskilið allt efnið þitt á Egon með Egon prófílum. Á þann hátt er auðveldara að skipta á milli vinnu og afþreyingar.</translation>
-<translation id="8614913330719544658">Google Egon svarar ekki. Endurræsa núna?</translation>
+<translation id="8614913330719544658">Egon Browser svarar ekki. Endurræsa núna?</translation>
 <translation id="861702415419836452">Egon þarf leyfi til að nota myndavélina til að búa til þrívíddarkort af umhverfinu</translation>
 <translation id="8625237574518804553">{0,plural, =1{Egon verður endurræst eftir 1 mínútu}one{Egon verður endurræst eftir # mínútu}other{Egon verður endurræst eftir # mínútur}}</translation>
 <translation id="8629311577791198377">Öll fótspor og vefsvæðagögn verða hreinsuð sjálfkrafa um leið og þú lokar öllum Egon gluggum</translation>
 <translation id="8641606876632989680">Egon lætur þig vita þegar þú skráir þig inn með aðgangsorði sem er í hættu</translation>
 <translation id="8649026945479135076">Algengt er að vefsvæði sem þú heimsækir muni atriði sem höfða til þín til að sérsníða upplifun þína. Vefsvæði geta einnig vistað upplýsingar um áhugasvið þín í Egon.</translation>
-<translation id="8669527147644353129">Hjálparforrit Google Egon</translation>
+<translation id="8669527147644353129">Hjálparforrit Egon Browser</translation>
 <translation id="8679801911857917785">Þetta stýrir því einnig hvaða síða birtist þegar þú ræsir Egon.</translation>
 <translation id="8684875378076460854">Egon mælir með að skanna þessa skrá þar sem hún gæti verið hættuleg</translation>
 <translation id="8686817260976772516">Þú getur aðskilið allt efnið þitt á Egon með Egon prófílum. Stofnaðu prófíla fyrir vini og fjölskyldu eða skiptu á milli vinnu og afþreyingar.</translation>
 <translation id="8712767363896337380">Næstum því uppfært! Endurræstu Egon til að ljúka við uppfærsluna.</translation>
-<translation id="873133009373065397">Google Egon getur ekki ákvarðað eða stillt sjálfgefinn vafra</translation>
-<translation id="8821043148920470810">Til að fá frekari uppfærslur á Google Egon þarftu Windows 10 eða nýrri útgáfu. Þessi tölva notar Windows 7.</translation>
+<translation id="873133009373065397">Egon Browser getur ekki ákvarðað eða stillt sjálfgefinn vafra</translation>
+<translation id="8821043148920470810">Til að fá frekari uppfærslur á Egon Browser þarftu Windows 10 eða nýrri útgáfu. Þessi tölva notar Windows 7.</translation>
 <translation id="8823341990149967727">Egon er úrelt</translation>
 <translation id="8825634023950448068">Til að gæta persónuverndar þinnar eyðum við áhugasviðunum þínum sem eru eldri en 4 vikna sjálfkrafa. Áhugasvið kann að birtast aftur á listanum þegar þú heldur áfram að vafra. Ef Egon skjátlast eða ef þú vilt ekki sjá tilteknar auglýsingar geturðu fjarlægt áhugasvið.</translation>
-<translation id="8834965163890861871">Google Egon er að reyna að breyta aðgangsorðum. Sláðu inn Windows-aðgangsorðið þitt til að leyfa það.</translation>
+<translation id="8834965163890861871">Egon Browser er að reyna að breyta aðgangsorðum. Sláðu inn Windows-aðgangsorðið þitt til að leyfa það.</translation>
 <translation id="884296878221830158">Hún stýrir því einnig hvaða síða birtist þegar þú ræsir Egon eða smellir á heimahnappinn.</translation>
 <translation id="8847000024471094355">Egon er ekki virkt</translation>
 <translation id="8862326446509486874">Þú hefur ekki tilskilin réttindi til uppsetningar fyrir kerfið allt. Prófaðu að keyra uppsetningarforritið aftur sem stjórnandi.</translation>
@@ -414,7 +414,7 @@ Heimildir sem þú hefur þegar veitt vefsvæðum og forritum kunna að gilda á
 <translation id="8999208279178790196">{0,plural, =0{Uppfærsla er í boði fyrir Egon}=1{Uppfærsla er í boði fyrir Egon}one{Uppfærsla hefur verið í boði fyrir Egon í # dag}other{Uppfærsla hefur verið í boði fyrir Egon í # daga}}</translation>
 <translation id="9003498785844995646">Þegar kveikt er á minnissparnaði dregur Egon úr rafhlöðunotkun með því að takmarka bakgrunnsvirkni og myndáhrif á borð við mjúkflettingu og rammatíðni myndskeiða. <ph name="BEGIN_LINK" />Kynntu þér þetta nánar<ph name="END_LINK" /> eða <ph name="BEGIN_LINK_2" />sendu ábendingu<ph name="END_LINK_2" /></translation>
 <translation id="9053892488859122171">ChromeOS Flex kerfi</translation>
-<translation id="9067395829937117663">Google Egon krefst Windows 7 eða nýrri útgáfu.</translation>
+<translation id="9067395829937117663">Egon Browser krefst Windows 7 eða nýrri útgáfu.</translation>
 <translation id="911206726377975832">Eyða líka vafragögnum?</translation>
 <translation id="9138603949443464873">Endurræstu Egon til að breytingarnar taki gildi</translation>
 <translation id="9195993889682885387">Egon getur áætlað áhugasvið þín í samræmi við vafraferil síðustu vikna. Þessi gögn eru aðeins geymd í tækinu.</translation>
@@ -422,6 +422,6 @@ Heimildir sem þú hefur þegar veitt vefsvæðum og forritum kunna að gilda á
 <translation id="922152298093051471">Sérsníða Egon</translation>
 <translation id="93760716455950538">Endurræsa ChromeOS Flex</translation>
 <translation id="940313311831216333">Til að fá aðgang að Egon efninu þínu í öllum tækjum skaltu skrá þig inn og kveikja á samstillingu.</translation>
-<translation id="989369509083708165">Google Egon er sjálfgefinn vafri</translation>
+<translation id="989369509083708165">Egon Browser er sjálfgefinn vafri</translation>
 <translation id="989816563149873169"><ph name="SHORTCUT" /> getur skipt á milli Egon prófíla</translation>
 </translationbundle>

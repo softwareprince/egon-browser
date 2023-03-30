@@ -1190,7 +1190,7 @@ Pode gerir as definições desta conta ao instalar a aplicação Family Link no 
 <translation id="2088092308059522196">A inscrição só é suportada após a instalação do <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Menos</translation>
 <translation id="208928984520943006">Para aceder ao ecrã principal em qualquer altura, deslize rapidamente para cima a partir da parte inferior.</translation>
-<translation id="2089566709556890888">Navegue em segurança com o Google Egon</translation>
+<translation id="2089566709556890888">Navegue em segurança com o Egon Browser</translation>
 <translation id="2089795179672254991">Perguntar quando um site pretender ver o texto e as imagens copiados para a área de transferência (recomendado)</translation>
 <translation id="2089925163047119068">OU</translation>
 <translation id="2090165459409185032">Para recuperar a sua informação da conta, aceda a google.com/accounts/recovery</translation>
@@ -1599,7 +1599,7 @@ Pode gerir as definições desta conta ao instalar a aplicação Family Link no 
 <translation id="2434449159125086437">Não é possível configurar a impressora. Verifique a configuração e tente novamente.</translation>
 <translation id="2434758125294431199">Selecione quem pode partilhar consigo.</translation>
 <translation id="2434915728183570229">Agora, pode ver as apps do seu telemóvel</translation>
-<translation id="2435137177546457207">Termos Adicionais do Google Egon e ChromeOS Flex</translation>
+<translation id="2435137177546457207">Termos Adicionais do Egon Browser e ChromeOS Flex</translation>
 <translation id="2435248616906486374">Rede desligada</translation>
 <translation id="2435457462613246316">Mostrar palavra-passe</translation>
 <translation id="2439626940657133600">A carregar <ph name="WINDOW_TITLE" /></translation>
@@ -3053,7 +3053,7 @@ Pretende pará-lo?</translation>
 <translation id="3798632811625902122">O dispositivo Bluetooth <ph name="DEVICE" /> quer obter a autorização para sincronizar.</translation>
 <translation id="3799128412641261490">Definições do acesso por comutador</translation>
 <translation id="3800806661949714323">Mostrar tudo (recomendado)</translation>
-<translation id="3800828618615365228">Termos Adicionais do Google Egon e Egon OS</translation>
+<translation id="3800828618615365228">Termos Adicionais do Egon Browser e Egon OS</translation>
 <translation id="3802486193901166966">Esta extensão não requer autorizações especiais e não tem acesso adicional a sites</translation>
 <translation id="380329542618494757">Nome</translation>
 <translation id="3803345858388753269">Qualidade de vídeo</translation>
@@ -3069,7 +3069,7 @@ Pretende pará-lo?</translation>
 <translation id="3810973564298564668">Administrar</translation>
 <translation id="381202950560906753">Adicionar outra</translation>
 <translation id="3812525830114410218">Certificado incorreto</translation>
-<translation id="3813296892522778813">Aceda à <ph name="BEGIN_LINK_CHROMIUM" />ajuda do Google Egon<ph name="END_LINK_CHROMIUM" /> se não conseguir encontrar aquilo que procura.</translation>
+<translation id="3813296892522778813">Aceda à <ph name="BEGIN_LINK_CHROMIUM" />ajuda do Egon Browser<ph name="END_LINK_CHROMIUM" /> se não conseguir encontrar aquilo que procura.</translation>
 <translation id="3813358687923336574">Idioma utilizado para traduzir páginas e Respostas rápidas</translation>
 <translation id="3814529970604306954">Conta escolar</translation>
 <translation id="3816118180265633665">Cores do Egon</translation>
@@ -3425,7 +3425,7 @@ Pretende pará-lo?</translation>
 <translation id="4132364317545104286">Mudar o nome do perfil do eSIM</translation>
 <translation id="4133076602192971179">Abrir a app para alterar a sua palavra-passe</translation>
 <translation id="4134818201340504801">Não existe armazenamento disponível suficiente para concluir a configuração. Liberte armazenamento e tente novamente</translation>
-<translation id="4135746311382563554">Termos de Utilização adicionais do Google Egon e do Egon OS</translation>
+<translation id="4135746311382563554">Termos de Utilização adicionais do Egon Browser e do Egon OS</translation>
 <translation id="4136203100490971508">A Luz noturna irá desativar-se automaticamente ao nascer do sol.</translation>
 <translation id="41365691917097717">Se continuar, vai ativar a depuração do adb para criar e testar aplicações para Android. Tenha em atenção que esta ação permite a instalação de aplicações para Android que não foram validadas pela Google. Além disso, se pretender desativar o adb, terá de efetuar uma reposição de fábrica.</translation>
 <translation id="4138267921960073861">Mostrar nomes de utilizador e fotos no ecrã de início de sessão</translation>
@@ -3844,7 +3844,7 @@ Pretende pará-lo?</translation>
 <translation id="4544174279960331769">Avatar azul predefinido.</translation>
 <translation id="4545028762441890696">Para a reativar, aceite as novas autorizações:</translation>
 <translation id="4545759655004063573">Não é possível guardar devido a permissões insuficientes. Guarde noutra localização.</translation>
-<translation id="4546308221697447294">Navegue mais depressa com o Google Egon</translation>
+<translation id="4546308221697447294">Navegue mais depressa com o Egon Browser</translation>
 <translation id="4546345569117159016">Botão direito</translation>
 <translation id="4546692474302123343">Entrada de texto por voz do Assistente Google</translation>
 <translation id="4547659257713117923">Sem separadores de outros dispositivos</translation>
@@ -5398,7 +5398,7 @@ Certifique-se de que não revela informações confidenciais.</translation>
 <translation id="6020431688553761150">O servidor não lhe deu autorização para aceder a este recurso.</translation>
 <translation id="6021293122504240352"><ph name="APPS" /> apps já não são suportadas</translation>
 <translation id="6022526133015258832">Abrir em Ecrã Inteiro</translation>
-<translation id="6022659036123304283">Personalize o Google Egon</translation>
+<translation id="6022659036123304283">Personalize o Egon Browser</translation>
 <translation id="6023643151125006053">Este dispositivo (SN: <ph name="SERIAL_NUMBER" />) foi bloqueado pelo administrador de <ph name="SAML_DOMAIN" />.</translation>
 <translation id="6025215716629925253">Rastreio de pilha</translation>
 <translation id="6026819612896463875"><ph name="WINDOW_TITLE" /> – dispositivo USB ligado</translation>
@@ -5904,7 +5904,7 @@ Certifique-se de que não revela informações confidenciais.</translation>
 <translation id="6509207748479174212">Licença de multimédia</translation>
 <translation id="6511827214781912955">Considere eliminar o ficheiro <ph name="FILENAME" /> para que os outros utilizadores deste dispositivo não possam ver as suas palavras-passe</translation>
 <translation id="6512808201725371249">Já foi guardada uma palavra-passe para esta conta no seu Gestor de Palavras-passe da Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">O Google Egon irá utilizar dados móveis se não estiver ligado a outra rede.</translation>
+<translation id="6513247462497316522">O Egon Browser irá utilizar dados móveis se não estiver ligado a outra rede.</translation>
 <translation id="6514010653036109809">Dispositivo disponível:</translation>
 <translation id="6514565641373682518">Esta página desativou o cursor do rato.</translation>
 <translation id="6517709704288360414">O seu dispositivo pode ter deixado de funcionar corretamente e pode deparar-se com problemas de segurança e desempenho. Desativar as atualizações também pode afetar o seu direito de apresentar queixas legais caso tenha problemas.</translation>
@@ -8089,7 +8089,7 @@ Mantenha o seu ficheiro de chave num local seguro, pois irá precisar dele para 
 <translation id="8554899698005018844">Nenhum idioma</translation>
 <translation id="855604308879080518">Permita que as apps Android acedam a dispositivos USB neste Chromebook. A autorização será pedida sempre que ligar um dispositivo USB. As apps Android individuais irão pedir autorizações adicionais.</translation>
 <translation id="8557022314818157177">Continue a tocar na chave de segurança até que a sua impressão digital seja capturada.</translation>
-<translation id="8557180006508471423">Ative o "Google Egon" nos Serviços de localização do seu Mac</translation>
+<translation id="8557180006508471423">Ative o "Egon Browser" nos Serviços de localização do seu Mac</translation>
 <translation id="8557856025359704738">A próxima transferência é a <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Chaves de acesso</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Abrir todos numa &amp;nova janela}=1{Abrir numa &amp;nova Janela}other{Abrir todos ({COUNT}) numa &amp;nova janela}}</translation>

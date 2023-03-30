@@ -14,10 +14,10 @@
 <translation id="1917964099031477364">Сметкава и сите незачувани податоци ќе се отстранат од Egon и другите апликации на Google на уредов.</translation>
 <translation id="1968388653333775699">Зголемете ја продуктивноста со Egon</translation>
 <translation id="2009224836393115614">Egon не може да ги провери вашите лозинки. Проверете ја интернет-врската.</translation>
-<translation id="2056123005618757196">Завршувајте повеќе работи со едноставниот, безбеден и побрз од кога било Google Egon.</translation>
+<translation id="2056123005618757196">Завршувајте повеќе работи со едноставниот, безбеден и побрз од кога било Egon Browser.</translation>
 <translation id="2147651015520127414">Egon потврди дека <ph name="ISSUER" /> го издал сертификатот за веб-сајтов.</translation>
 <translation id="2199719347983604670">Податоци од „Синхронизација на Egon“</translation>
-<translation id="2313070403598893276">Google Egon е едноставен, безбеден и побрз од кога било</translation>
+<translation id="2313070403598893276">Egon Browser е едноставен, безбеден и побрз од кога било</translation>
 <translation id="2339201583852607431">Лозинката ќе се зачува во вашата сметка на Google (<ph name="EMAIL" />)</translation>
 <translation id="2342919707875585281">Изберете дали дозволувате Egon ја споделува вашата локација со сајтов.</translation>
 <translation id="2347208864470321755">Кога оваа функција е вклучена, Egon ќе нуди да преведува страници што се напишани на други јазици користејќи Google Translate. <ph name="BEGIN_LINK" />Дознајте повеќе<ph name="END_LINK" /></translation>
@@ -26,7 +26,7 @@
 <translation id="2561231791489583059">Користете го Egon како ваш стандарден прелистувач за да останете заштитени од опасни сајтови и чувајте ги лозинките на безбедно</translation>
 <translation id="2574249610672786438">За да ги гледате картичките секаде каде што користите Egon, најавете се на сите ваши уреди</translation>
 <translation id="2576431527583832481">Egon тукушто се подобри! Достапна е нова верзија.</translation>
-<translation id="257708665678654955">Дали сакате Google Egon следниот пат да ви понуди да преведува страници од <ph name="LANGUAGE_NAME" /> од овој сајт?</translation>
+<translation id="257708665678654955">Дали сакате Egon Browser следниот пат да ви понуди да преведува страници од <ph name="LANGUAGE_NAME" /> од овој сајт?</translation>
 <translation id="2671426118752779020">Може да ги користите лозинките што сте ги зачувале во „Управникот со лозинки на Google“ во други апликации на вашиот iPhone.</translation>
 <translation id="2689064829982324496">За да се одјавите од вашата сметка на Google на сите веб-сајтови, <ph name="BEGIN_LINK" />одјавете се од Egon<ph name="END_LINK" />.</translation>
 <translation id="2695886661449553974">Egon не може да провери дали има ажурирања. Обидете се повторно подоцна.</translation>
@@ -34,8 +34,8 @@
 <translation id="2869959624320573933">Најавете се на Egon</translation>
 <translation id="2957447865124070833">Изберете <ph name="BEGIN_BOLD" />Egon<ph name="END_BOLD" /></translation>
 <translation id="3030414234702425231">Бидејќи се одјавувате од сметка управувана од <ph name="SIGNOUT_MANAGED_DOMAIN" />, вашите податоци на Egon ќе се избришат од уредов. Податоците ќе останат на сметката на Google.</translation>
-<translation id="3167189358072330585">Сметката не работи на Google Egon. Контактирајте го администраторот на доменот или употребете обична сметка на Google за да се најавите.</translation>
-<translation id="3173834708294760622">Страница на Google Egon</translation>
+<translation id="3167189358072330585">Сметката не работи на Egon Browser. Контактирајте го администраторот на доменот или употребете обична сметка на Google за да се најавите.</translation>
+<translation id="3173834708294760622">Страница на Egon Browser</translation>
 <translation id="3196546062792660320">Egon ви заштедува време со тоа што ви ги носи сметките на Интернет. Може да додавате или отстранувате сметки во „Поставки“.</translation>
 <translation id="3282568296779691940">Најави се на Egon</translation>
 <translation id="3345341804167540816">Користете го Egon секаде</translation>
@@ -46,10 +46,10 @@
 <translation id="3655656110921623717">Ова значи дека Egon ќе го бара сајтот за мобилен уред секој пат.</translation>
 <translation id="3706101708757577809">Сега може да го користите Egon секогаш кога ќе допрете линкови во пораките, документите и другите апликации.</translation>
 <translation id="3720541637541300822">Заклучувај ги картичките „Инкогнито“ кога ќе го затворам Egon</translation>
-<translation id="384394811301901750">Google Egon не може да ја користи камерата сега</translation>
+<translation id="384394811301901750">Egon Browser не може да ја користи камерата сега</translation>
 <translation id="3980220367029651214">Ги заменувате сметките за синхронизација од <ph name="USER_EMAIL1" /> на <ph name="USER_EMAIL2" />. Вашите постоечки податоци на Egon се управувани од <ph name="DOMAIN" />. Ова ќе ги избрише податоците од уредов, но тие ќе останат на <ph name="USER_EMAIL1" />.</translation>
 <translation id="3984746313391923992">Вашата организација бара да останете одјавени од Egon.</translation>
-<translation id="3988789688219830639">Google Egon нема пристап до фотографиите или видеата. Овозможете пристап во Поставки на iOS &gt; Приватност &gt; Фотографии.</translation>
+<translation id="3988789688219830639">Egon Browser нема пристап до фотографиите или видеата. Овозможете пристап во Поставки на iOS &gt; Приватност &gt; Фотографии.</translation>
 <translation id="417201473131094001">Не е поддржана на Egon Canary</translation>
 <translation id="4192781968753717021">Оваа лозинка е откриена при упад во податоци. Google Password Manager ви препорачува да ја промените лозинката веднаш.</translation>
 <translation id="4233521129555661685"><ph name="USER_EMAIL1" /> користеше Egon и остави обележувачи, лозинки и други поставки на уредов.</translation>
@@ -66,11 +66,11 @@
 <translation id="5108659628347594808">Подобрете го Egon</translation>
 <translation id="5119391094379141756">Изберете Egon</translation>
 <translation id="5162467219239570114">Egon е застарен. Ако нема достапно ажурирање во <ph name="BEGIN_LINK" />App Store<ph name="END_LINK" />, можно е уредот веќе да не поддржува нови верзии на Egon.</translation>
-<translation id="5389212809648216794">Google Egon не може да ја користи камерата затоа што друга апликација ја користи во моментов</translation>
+<translation id="5389212809648216794">Egon Browser не може да ја користи камерата затоа што друга апликација ја користи во моментов</translation>
 <translation id="5460571915754665838">4. Изберете Egon</translation>
 <translation id="5552137475244467770">Egon повремено ги споредува лозинките со списоци објавени онлајн. Кога го прави ова, вашите лозинки и кориснички имиња се шифрирани, па нив не може да ги прочита никој, вклучително и Google.</translation>
-<translation id="5639704535586432836">Отворете „Поставки“ &gt; „Приватност“ &gt; „Камера“ &gt; Google Egon и вклучете ја камерата.</translation>
-<translation id="5642200033778930880">Google Egon не може да ја користи камерата во режимот „Поделен приказ“</translation>
+<translation id="5639704535586432836">Отворете „Поставки“ &gt; „Приватност“ &gt; „Камера“ &gt; Egon Browser и вклучете ја камерата.</translation>
+<translation id="5642200033778930880">Egon Browser не може да ја користи камерата во режимот „Поделен приказ“</translation>
 <translation id="5690427481109656848">Google LLC</translation>
 <translation id="571296537125272375">Офлајн сте. Egon не може да провери дали има ажурирања</translation>
 <translation id="5716154293141027663">Линковите од други апликации секогаш ќе се отвораат во Egon</translation>
@@ -94,15 +94,15 @@
 <translation id="701356708427365932">Запознајте се со новото мени на Egon</translation>
 <translation id="7059914902409643750">Направете го Egon свој</translation>
 <translation id="7124339256045485976">Одржувајте го Egon ажурен</translation>
-<translation id="7161390184744336561">Google Egon е застарен</translation>
-<translation id="7165736900384873061">Започнете со користење на QR-скенерот на Google Egon</translation>
+<translation id="7161390184744336561">Egon Browser е застарен</translation>
+<translation id="7165736900384873061">Започнете со користење на QR-скенерот на Egon Browser</translation>
 <translation id="7173660919484573146">Egon користи Face ID за да обезбеди овластен пристап до вашите лозинки.</translation>
 <translation id="7187993566681480880">Ја чува вашата безбедност на Egon и може да се користи за да ја подобри безбедноста на други апликации на Google кога сте најавени.</translation>
 <translation id="72119412072970160">Може да ги користите лозинките што сте ги зачувале во „Управникот со лозинки на Google“ во други апликации на вашиот iPad.</translation>
 <translation id="7261678641327190792">Egon не може да ги провери вашите лозинки</translation>
 <translation id="7272930098487145294">За да ги зачувате сликите, допрете на „Поставки“ за да овозможите Egon да додава фотографии</translation>
 <translation id="7275945473750112644"><ph name="HOSTED_DOMAIN" /> управува со вашата сметка, па податоците од Egon ќе се избришат од уредов</translation>
-<translation id="7400722733683201933">За Google Egon</translation>
+<translation id="7400722733683201933">За Egon Browser</translation>
 <translation id="7501046334262221972">За да го поставите Egon како стандарден прелистувач, отворете „Поставки“. Допрете „Стандардна апликација за прелистување“ и изберете Egon.</translation>
 <translation id="756809126120519699">Податоците на Egon се исчистени</translation>
 <translation id="7626032353295482388">Добре дојдовте на Egon</translation>
@@ -111,7 +111,7 @@
 <translation id="7698568245838009292">Egon би сакал да пристапи до камерата</translation>
 <translation id="7754633291442704733">Вашата организација <ph name="DOMAIN" /> ќе има пристап до вашите податоци, обележувачи, историја, лозинки и другите поставки на Egon што ги складирате во оваа сметка. Кога ќе се одјавите, вашите податоци ќе се избришат од уредов.  Сепак, тие ќе останат складирани во вашата надгледувана сметка на Google и ќе бидат достапни за вашата организација. Вашата организација може да поставува и политики за корисници конкретно за таа сметка што може да го променат однесувањето на Egon.</translation>
 <translation id="7780154209050837198">За да го извлечете максимумот од Egon, најавете се на Egon со вашата сметка на Google.</translation>
-<translation id="7855730255114109580">Google Egon е ажуриран</translation>
+<translation id="7855730255114109580">Egon Browser е ажуриран</translation>
 <translation id="8022947259858476807">Користете го Egon како стандарден прелистувач за отворање линкови, пребарување од виџети и автоматско пополнување лозинки во другите апликации</translation>
 <translation id="81358522153858150">Egon сега поддржува политики за корисници за вашата управувана сметка</translation>
 <translation id="8160472928944011082">Egon не може да се ажурира</translation>
@@ -124,8 +124,8 @@
   1. Отворете „Поставки“
   2. Допрете „Стандардна апликација за прелистување“
   3. Изберете Egon.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
-<translation id="8736550665979974340">Останете безбедни со Google Egon</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
+<translation id="8736550665979974340">Останете безбедни со Egon Browser</translation>
 <translation id="8772179140489533211">Прикажува prompt за најава на Egon.</translation>
 <translation id="8788269841521769222">Не треба да ја помните лозинкава. Ќе се зачува во „Управникот со лозинки на Google“ за <ph name="EMAIL" /></translation>
 <translation id="8897749957032330183">Лозинките се зачувуваат во Google Password Manager на уредов.</translation>

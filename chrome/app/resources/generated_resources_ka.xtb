@@ -1190,7 +1190,7 @@
 <translation id="2088092308059522196">რეგისტრაცია მხარდაჭერილი იქნება მხოლოდ მაშინ, როცა <ph name="DEVICE_OS" /> დაინსტალირდება.</translation>
 <translation id="2089090684895656482">ნაკლები</translation>
 <translation id="208928984520943006">მთავარ ეკრანზე ნებისმიერ დროს გადასასვლელად გადაფურცლეთ ქვემოდან ზემოთ.</translation>
-<translation id="2089566709556890888">დაათვალიერეთ ვები უსაფრთხოდ Google Egon-ის მეშვეობით</translation>
+<translation id="2089566709556890888">დაათვალიერეთ ვები უსაფრთხოდ Egon Browser-ის მეშვეობით</translation>
 <translation id="2089795179672254991">შეკითხვა, როცა საიტს სურს გაცვლის ბუფერში კოპირებული ტექსტისა და სურათების ნახვა (რეკომენდებული)</translation>
 <translation id="2089925163047119068">ან</translation>
 <translation id="2090165459409185032">თქვენი ანგარიშის ინფორმაციის აღსადგენად, ეწვიეთ: google.com/accounts/recovery</translation>
@@ -1599,7 +1599,7 @@
 <translation id="2434449159125086437">პრინტერის დაყენება ვერ მოხერხდა. შეამოწმეთ კონფიგურაცია და ცადეთ ხელახლა.</translation>
 <translation id="2434758125294431199">აირჩიეთ, ვის შეუძლია თქვენთან გაზიარება</translation>
 <translation id="2434915728183570229">ამიერიდან შეგიძლიათ ნახოთ თქვენი ტელეფონის აპები</translation>
-<translation id="2435137177546457207">Google Egon-ისა და ChromeOS Flex-ის დამატებითი პირობები</translation>
+<translation id="2435137177546457207">Egon Browser-ისა და ChromeOS Flex-ის დამატებითი პირობები</translation>
 <translation id="2435248616906486374">ქსელი გათიშულია</translation>
 <translation id="2435457462613246316">პაროლის ჩვენება</translation>
 <translation id="2439626940657133600">იტვირთება <ph name="WINDOW_TITLE" /></translation>
@@ -3052,7 +3052,7 @@
 <translation id="3798632811625902122">Bluetooth-მოწყობილობა „<ph name="DEVICE" />“ ითხოვს დაწყვილების ნებართვას.</translation>
 <translation id="3799128412641261490">გადამრთველით წვდომის პარამეტრები</translation>
 <translation id="3800806661949714323">ყველას ჩვენება (რეკომენდებულია)</translation>
-<translation id="3800828618615365228">Google Egon-ისა და ChromeOS-ის დამატებითი პირობები</translation>
+<translation id="3800828618615365228">Egon Browser-ისა და ChromeOS-ის დამატებითი პირობები</translation>
 <translation id="3802486193901166966">ეს გაფართოება არ საჭიროებს სპეციალურ ნებართვებს და მას არ აქვს რაიმე სახის დამატებითი წვდომა საიტზე</translation>
 <translation id="380329542618494757">სახელი</translation>
 <translation id="3803345858388753269">ვიდეოს ხარისხი</translation>
@@ -3068,7 +3068,7 @@
 <translation id="3810973564298564668">მართვა</translation>
 <translation id="381202950560906753">კიდევ ერთის დამატება</translation>
 <translation id="3812525830114410218">ცუდი სერთიფიცირება</translation>
-<translation id="3813296892522778813">თუ სასურველ კონტენტს ვერ პოულობთ, გადადით <ph name="BEGIN_LINK_CHROMIUM" />Google Egon-ის დახმარების<ph name="END_LINK_CHROMIUM" /> სექციაზე</translation>
+<translation id="3813296892522778813">თუ სასურველ კონტენტს ვერ პოულობთ, გადადით <ph name="BEGIN_LINK_CHROMIUM" />Egon Browser-ის დახმარების<ph name="END_LINK_CHROMIUM" /> სექციაზე</translation>
 <translation id="3813358687923336574">ენა, რომელიც გვერდების თარგმნისა და სწრაფი პასუხებისთვის გამოიყენება</translation>
 <translation id="3814529970604306954">სასწავლებლის ანგარიში</translation>
 <translation id="3816118180265633665">Egon-ის ფერები</translation>
@@ -3424,7 +3424,7 @@
 <translation id="4132364317545104286">eSIM პროფილის გადარქმევა</translation>
 <translation id="4133076602192971179">პაროლის შესაცვლელად გახსენით აპი</translation>
 <translation id="4134818201340504801">დაყენების შესასრულებლად მეხსიერება არასაკმარისია. გაათავისუფლეთ მეხსიერება და ცადეთ ხელახლა.</translation>
-<translation id="4135746311382563554">Google Egon-ისა და Egon OS-ის მომსახურების დამატებითი პირობები</translation>
+<translation id="4135746311382563554">Egon Browser-ისა და Egon OS-ის მომსახურების დამატებითი პირობები</translation>
 <translation id="4136203100490971508">ღამის განათება ავტომატურად გამოირთვება მზის ამოსვლისას</translation>
 <translation id="41365691917097717">გაგრძელების შემთხვევაში Android აპების შექმნისა და ტესტირებისთვის ჩაირთვება ADB გამართვა. გაითვალისწინეთ, რომ აღნიშნულის შემდეგ შესაძლებელი იქნება Google-ის მიერ შეუმოწმებელი Android აპების ინსტალაცია, ხოლო მის გამოსართავად საჭირო იქნება ქარხნული პარამეტრების დაბრუნება.</translation>
 <translation id="4138267921960073861">მომხმარებლების სახელების და ფოტოების ჩვენება შესვლის ეკრანზე</translation>
@@ -3843,7 +3843,7 @@
 <translation id="4544174279960331769">ნაგულისხმევი ლურჯი ავატარი</translation>
 <translation id="4545028762441890696">ხელახლა ჩასართავად დაეთანხმეთ ახალ ნებართვებს:</translation>
 <translation id="4545759655004063573">ვერ შეინახავს არასაკმარისი ნებართვების გამო. შეინახეთ სხვა დირექტორიაში.</translation>
-<translation id="4546308221697447294">დაათვალიერეთ ვები სწრაფად Google Egon-ის მეშვეობით</translation>
+<translation id="4546308221697447294">დაათვალიერეთ ვები სწრაფად Egon Browser-ის მეშვეობით</translation>
 <translation id="4546345569117159016">მარჯვენა ღილაკი</translation>
 <translation id="4546692474302123343">Google ასისტენტის ხმოვანი შეყვანა</translation>
 <translation id="4547659257713117923">ჩანართები სხვა მოწყობილობებიდან არ არის</translation>
@@ -5902,7 +5902,7 @@
 <translation id="6509207748479174212">მედია-ლიცენზია</translation>
 <translation id="6511827214781912955">გირჩევთ, წაშალოთ <ph name="FILENAME" />, რათა ამ მოწყობილობის სხვა მომხმარებლებმა თქვენი პაროლები ვერ ნახონ</translation>
 <translation id="6512808201725371249">ამ ანგარიშის პაროლი უკვე შენახულია თქვენს Google პაროლების მმართველში (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">თუ თქვენ არ ხართ დაკავშირებული სხვა ქსელთან, Google Egon გამოიყენებს მობილურ მონაცემებს.</translation>
+<translation id="6513247462497316522">თუ თქვენ არ ხართ დაკავშირებული სხვა ქსელთან, Egon Browser გამოიყენებს მობილურ მონაცემებს.</translation>
 <translation id="6514010653036109809">ხელმისაწვდომი მოწყობილობა:</translation>
 <translation id="6514565641373682518">ამ გვერდზე გამოირთო მაუსის კურსორი.</translation>
 <translation id="6517709704288360414">თქვენმა მოწყობილობამ, შესაძლოა, სათანადოდ აღარ იმუშაოს, უსაფრთხოებასა და წარმადობასთან დაკავშირებით კი გარკვეული პრობლემები შეგექმნათ. განახლებების გამორთვა შეიძლება, ასევე, აისახოს თქვენს კანონიერ უფლებაზე, წარმოადგინოთ მოთხოვნა პრობლემების შექმნის შემთხვევაში.</translation>
@@ -8086,7 +8086,7 @@
 <translation id="8554899698005018844">ენის გარეშე</translation>
 <translation id="855604308879080518">მიეცით Android აპებს ამ Chromebook-ზე USB მოწყობილობებზე წვდომის უფლება. ნებართვა მოთხოვნილი იქნება USB მოწყობილობის ყოველი მიერთებისას. ცალკეული Android აპები დამატებით ნებართვებს მოითხოვს.</translation>
 <translation id="8557022314818157177">გეჭიროთ თითი უსაფრთხოების გასაღებზე თითის ანაბეჭდის აღბეჭდვამდე</translation>
-<translation id="8557180006508471423">ჩართეთ „Google Egon“ მდებარეობის სერვისებში თქვენს Mac-ზე</translation>
+<translation id="8557180006508471423">ჩართეთ „Egon Browser“ მდებარეობის სერვისებში თქვენს Mac-ზე</translation>
 <translation id="8557856025359704738">ჩამოტვირთვის მომდევნო თარიღია <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">წვდომის გასაღებები</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{ყველას ა&amp;ხალ ფანჯარაში გახსნა}=1{ა&amp;ხალ ფანჯარაში გახსნა}other{{COUNT}-ვეს ა&amp;ხალ ფანჯარაში გახსნა}}</translation>

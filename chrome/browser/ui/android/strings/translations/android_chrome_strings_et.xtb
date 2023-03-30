@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Kustutage olemasolevad andmed.</translation>
 <translation id="1146678959555564648">Ava VR</translation>
 <translation id="1149401351239820326">Aegumiskuu</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> avaneb Egon'is. Jätkates nõustute <ph name="BEGIN_LINK1" />Google'i teenusetingimustega<ph name="END_LINK1" /> ning <ph name="BEGIN_LINK2" />Google Egon'i ja Egon OS-i lisateenusetingimustega<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> avaneb Egon'is. Jätkates nõustute <ph name="BEGIN_LINK1" />Google'i teenusetingimustega<ph name="END_LINK1" /> ning <ph name="BEGIN_LINK2" />Egon Browser'i ja Egon OS-i lisateenusetingimustega<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Leht pole võrguühenduseta saadaval: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Vaadake populaarseid veebisaite, puudutades nuppu „Popid saidid”</translation>
 <translation id="1173894706177603556">Muuda nime</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Reklaamide mõõtmine võimaldab külastatavatel saitidel paluda Egon'ilt teavet, mis aitab saidil oma reklaamide toimivust mõõta. Reklaamide mõõtmine piirab saitidevahelist jälgimist, edastades saitide vahel võimalikult vähe teavet.
 
 Kui kustutate oma sirvimisajaloo – kogu ajaloo või konkreetse saidi ajaloo – kustutate ka seotud mõõtmisteabe. Vaadake <ph name="BEGIN_LINK" />oma sirvimisajalugu<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Google Egon'i funktsioonide otseteed</translation>
+<translation id="1332501820983677155">Egon Browser'i funktsioonide otseteed</translation>
 <translation id="1344653310988386453">Lisage esiletõstmiseks link</translation>
 <translation id="1347468774581902829">Tegevuste haldamine</translation>
 <translation id="1360432990279830238">Login välja ja keelan sünkroonimise?</translation>
@@ -213,7 +213,7 @@ Kui kustutate oma sirvimisajaloo – kogu ajaloo või konkreetse saidi ajaloo �
 <translation id="2122601567107267586">Rakendust ei õnnestunud avada</translation>
 <translation id="2132122640199389833">Eemalda kõik lingitud seadmed</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> suleti</translation>
-<translation id="2134927169889348449">Egon'i kasutades nõustute <ph name="BEGIN_TOS_LINK" />Google'i teenusetingimustega<ph name="END_TOS_LINK" /> ning <ph name="BEGIN_ATOS_LINK" />Google Egon'i ja Egon OS-i lisateenusetingimustega<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Egon'i kasutades nõustute <ph name="BEGIN_TOS_LINK" />Google'i teenusetingimustega<ph name="END_TOS_LINK" /> ning <ph name="BEGIN_ATOS_LINK" />Egon Browser'i ja Egon OS-i lisateenusetingimustega<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Avaekraanile lisamine</translation>
 <translation id="2141396931810938595">Kasutuse põhjal</translation>
 <translation id="214888715418183969">Valige, mida olete nõus Egon'iga jagama. Teie jagatavaid mõõdikuid kasutatakse Egon'i funktsioonide, toimivuse ja stabiilsuse täiustamiseks.</translation>
@@ -391,7 +391,7 @@ Kui kustutate oma sirvimisajaloo – kogu ajaloo või konkreetse saidi ajaloo �
 <translation id="3062802207422175757">Teie huvidega seotud artiklid Egon'is</translation>
 <translation id="3066573403916685335">Liiguta allapoole</translation>
 <translation id="3070005020161560471">Tõlgi automaatselt</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> avaneb Egon'is. Jätkates nõustute <ph name="BEGIN_LINK1" />Google'i teenusetingimustega<ph name="END_LINK1" /> ning <ph name="BEGIN_LINK2" />Google Egon'i ja Egon OS-i lisateenusetingimustega<ph name="END_LINK2" />. Kehtivad ka <ph name="BEGIN_LINK3" />privaatsuseeskirjad<ph name="END_LINK3" />.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> avaneb Egon'is. Jätkates nõustute <ph name="BEGIN_LINK1" />Google'i teenusetingimustega<ph name="END_LINK1" /> ning <ph name="BEGIN_LINK2" />Egon Browser'i ja Egon OS-i lisateenusetingimustega<ph name="END_LINK2" />. Kehtivad ka <ph name="BEGIN_LINK3" />privaatsuseeskirjad<ph name="END_LINK3" />.</translation>
 <translation id="3091010850649238832">Kuva lõikelaua sisu</translation>
 <translation id="3098745985164956033">Mõned pildid saadetakse kirjelduste täiendamiseks Google'ile</translation>
 <translation id="3114507951000454849">Lugege tänaseid uudiseid <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Kui kustutate oma sirvimisajaloo – kogu ajaloo või konkreetse saidi ajaloo �
 <translation id="321773570071367578">Kui unustasite parooli või soovite seda seadet muuta, <ph name="BEGIN_LINK" />lähtestage sünkroonimine<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Paroolide sünkroonimiseks kinnitage oma isik</translation>
 <translation id="3223522355830797639">Pank soovib teie isikut kinnitada.</translation>
-<translation id="3227557059438308877">Google Egon turvavõtmena</translation>
+<translation id="3227557059438308877">Egon Browser turvavõtmena</translation>
 <translation id="3232754137068452469">Veebirakendus</translation>
 <translation id="3234978181857588512">Salvesta seadmesse</translation>
 <translation id="3236059992281584593">Jäänud on 1 minut</translation>
@@ -596,7 +596,7 @@ Kui kustutate oma sirvimisajaloo – kogu ajaloo või konkreetse saidi ajaloo �
 <translation id="4269820728363426813">Kopeeri lingi aadress</translation>
 <translation id="4283102315569707115">Kas taotleda vaikimisi arvutisaite?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Androidi seadetes ekraaniluku sisselülitamine<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Egon'i kasutades nõustute <ph name="BEGIN_TOS_LINK" />Google'i teenusetingimustega<ph name="END_TOS_LINK" /> ning <ph name="BEGIN_ATOS_LINK" />Google Egon'i ja Egon OS-i lisateenusetingimustega<ph name="END_ATOS_LINK" />. Kehtivad ka <ph name="BEGIN_PRIVACY_LINK" />privaatsuseeskirjad<ph name="END_PRIVACY_LINK" />.</translation>
+<translation id="4293476595220860475">Egon'i kasutades nõustute <ph name="BEGIN_TOS_LINK" />Google'i teenusetingimustega<ph name="END_TOS_LINK" /> ning <ph name="BEGIN_ATOS_LINK" />Egon Browser'i ja Egon OS-i lisateenusetingimustega<ph name="END_ATOS_LINK" />. Kehtivad ka <ph name="BEGIN_PRIVACY_LINK" />privaatsuseeskirjad<ph name="END_PRIVACY_LINK" />.</translation>
 <translation id="4296252229500326964">Uus inkognito vaheleht</translation>
 <translation id="4298388696830689168">Lingitud saidid</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@ Usaldusmärgid täiustavad veebis privaatsust ja neid ei saa kasutada teie isiku
 <translation id="9219582468404818260">Aidake meil luua parem veeb</translation>
 <translation id="92381315203627188">Kui sait palub lehel olevad lingid privaatselt eellaadida, krüpteerib Egon need lehed ja laadib need Google'i serverite kaudu ilma küpsisefailideta. See peidab teie identiteedi eellaaditud saidi eest.</translation>
 <translation id="926205370408745186">Egon'i tegevuste eemaldamine teenusest Digitaalne heaolu</translation>
-<translation id="927968626442779827">Kasutage Google Egon'is lihtsustatud režiimi</translation>
+<translation id="927968626442779827">Kasutage Egon Browser'is lihtsustatud režiimi</translation>
 <translation id="928550791203542716">Jälgitakse saiti <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Kodu</translation>
 <translation id="938850635132480979">Viga: <ph name="ERROR_CODE" /></translation>

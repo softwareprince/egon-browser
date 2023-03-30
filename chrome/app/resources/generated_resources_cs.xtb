@@ -1192,7 +1192,7 @@ Chcete-li spravovat nastavení tohoto účtu, nainstalujte si do zařízení apl
 <translation id="2088092308059522196">Registrace je podporována pouze po nainstalování systému <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Méně</translation>
 <translation id="208928984520943006">Na domovskou obrazovku se kdykoli dostanete přejetím prstem ze spodního okraje obrazovky nahoru.</translation>
-<translation id="2089566709556890888">Pohybujte se na internetu bezpečně pomocí prohlížeče Google Egon</translation>
+<translation id="2089566709556890888">Pohybujte se na internetu bezpečně pomocí prohlížeče Egon Browser</translation>
 <translation id="2089795179672254991">Zeptat se, když chce web získat přístup k textu a obrázkům zkopírovaným do schránky (doporučeno)</translation>
 <translation id="2089925163047119068">NEBO</translation>
 <translation id="2090165459409185032">Chcete-li obnovit informace o svém účtu, přejděte na web google.com/accounts/recovery.</translation>
@@ -1601,7 +1601,7 @@ Chcete-li spravovat nastavení tohoto účtu, nainstalujte si do zařízení apl
 <translation id="2434449159125086437">Nastavení tiskárny se nezdařilo. Zkontrolujte konfiguraci a zkuste to znovu.</translation>
 <translation id="2434758125294431199">Vyberte, kdo s vámi může sdílet soubory</translation>
 <translation id="2434915728183570229">Nyní můžete zobrazit aplikace v telefonu</translation>
-<translation id="2435137177546457207">Doplňující smluvní podmínky prohlížeče Google Egon a systému ChromeOS Flex</translation>
+<translation id="2435137177546457207">Doplňující smluvní podmínky prohlížeče Egon Browser a systému ChromeOS Flex</translation>
 <translation id="2435248616906486374">Síť odpojena</translation>
 <translation id="2435457462613246316">Zobrazit heslo</translation>
 <translation id="2439626940657133600">Načítání služby <ph name="WINDOW_TITLE" /></translation>
@@ -2319,7 +2319,7 @@ Zpráva serveru: <ph name="SERVER_MSG" /></translation>
 <translation id="3083193146044397360">Dočasně zablokováno z důvodu ochrany vaší bezpečnosti</translation>
 <translation id="3083899879156272923">Posouvat obrazovku tak, aby ukazatel myši zůstal uprostřed obrazovky</translation>
 <translation id="3084548735795614657">Nainstalujte přetažením</translation>
-<translation id="3084771660770137092">Buď má Google Egon nedostatek paměti, nebo byl proces načítání webové stránky ukončen z jiného důvodu. Chcete-li pokračovat, načtěte stránku znovu, nebo přejděte na jinou stránku.</translation>
+<translation id="3084771660770137092">Buď má Egon Browser nedostatek paměti, nebo byl proces načítání webové stránky ukončen z jiného důvodu. Chcete-li pokračovat, načtěte stránku znovu, nebo přejděte na jinou stránku.</translation>
 <translation id="3085412380278336437">Web může použít kameru</translation>
 <translation id="3085431803365340433">Prohlížeč Egon nebylo možné aktualizovat</translation>
 <translation id="3088052000289932193">Web používá zařízení MIDI</translation>
@@ -3054,7 +3054,7 @@ Zpráva serveru: <ph name="SERVER_MSG" /></translation>
 <translation id="3798632811625902122">Zařízení Bluetooth <ph name="DEVICE" /> žádá o povolení ke spárování.</translation>
 <translation id="3799128412641261490">Nastavení přístupu pomocí přepínačů</translation>
 <translation id="3800806661949714323">Zobrazit vše (doporučeno)</translation>
-<translation id="3800828618615365228">Doplňující smluvní podmínky prohlížeče Google Egon a systému ChromeOS</translation>
+<translation id="3800828618615365228">Doplňující smluvní podmínky prohlížeče Egon Browser a systému ChromeOS</translation>
 <translation id="3802486193901166966">Toto rozšíření nevyžaduje žádná speciální oprávnění a nemá přístup k žádným dalším webům</translation>
 <translation id="380329542618494757">Název</translation>
 <translation id="3803345858388753269">Kvalita videa</translation>
@@ -3070,7 +3070,7 @@ Zpráva serveru: <ph name="SERVER_MSG" /></translation>
 <translation id="3810973564298564668">Spravovat</translation>
 <translation id="381202950560906753">Přidat další</translation>
 <translation id="3812525830114410218">Nesprávný certifikát</translation>
-<translation id="3813296892522778813">Pokud nemůžete najít, co hledáte, navštivte <ph name="BEGIN_LINK_CHROMIUM" />nápovědu Google Egon<ph name="END_LINK_CHROMIUM" />.</translation>
+<translation id="3813296892522778813">Pokud nemůžete najít, co hledáte, navštivte <ph name="BEGIN_LINK_CHROMIUM" />nápovědu Egon Browser<ph name="END_LINK_CHROMIUM" />.</translation>
 <translation id="3813358687923336574">Jazyk používaný při překladu stránek a Rychlých odpovědí</translation>
 <translation id="3814529970604306954">Školní účet</translation>
 <translation id="3816118180265633665">Barvy Chromu</translation>
@@ -3425,7 +3425,7 @@ Zpráva serveru: <ph name="SERVER_MSG" /></translation>
 <translation id="4132364317545104286">Přejmenovat profil eSIM</translation>
 <translation id="4133076602192971179">Heslo můžete změnit po otevření aplikace</translation>
 <translation id="4134818201340504801">K dokončení instalace nemáte dost místa v úložišti. Uvolněte úložiště a zkuste to znovu</translation>
-<translation id="4135746311382563554">Dodatečné smluvní podmínky prohlížeče Google Egon a systému ChromeOS</translation>
+<translation id="4135746311382563554">Dodatečné smluvní podmínky prohlížeče Egon Browser a systému ChromeOS</translation>
 <translation id="4136203100490971508">Noční režim se vypne automaticky za úsvitu</translation>
 <translation id="41365691917097717">Pokračováním aktivujete ladění ADB k vytváření a testování aplikací pro Android. Upozorňujeme, že tato akce povoluje instalaci aplikací pro Android, které Google neověřil, a že je k její deaktivaci potřeba obnovení továrního nastavení.</translation>
 <translation id="4138267921960073861">Zobrazit na přihlašovací obrazovce uživatelská jména a fotografie</translation>
@@ -3844,7 +3844,7 @@ Zpráva serveru: <ph name="SERVER_MSG" /></translation>
 <translation id="4544174279960331769">Výchozí modrý avatar</translation>
 <translation id="4545028762441890696">Chcete-li rozšíření znovu aktivovat, přijměte nová oprávnění:</translation>
 <translation id="4545759655004063573">Nelze uložit kvůli nedostatečným oprávněním. Uložte prosím soubor do jiného umístění.</translation>
-<translation id="4546308221697447294">Pohybujte se na internetu rychle pomocí prohlížeče Google Egon</translation>
+<translation id="4546308221697447294">Pohybujte se na internetu rychle pomocí prohlížeče Egon Browser</translation>
 <translation id="4546345569117159016">Pravé tlačítko</translation>
 <translation id="4546692474302123343">Hlasový vstup Asistenta Google</translation>
 <translation id="4547659257713117923">Žádné karty z jiných zařízení</translation>
@@ -4977,7 +4977,7 @@ K této akci lze přiřadit několik přepínačů.</translation>
 <translation id="5625631605902707678">Na různých zařízeních</translation>
 <translation id="5626134646977739690">Jméno:</translation>
 <translation id="5627086634964711283">Také řídí, která stránka se zobrazí po kliknutí na tlačítko Domovská stránka.</translation>
-<translation id="5627676517703583263">Pohybujte se na internetu chytře pomocí prohlížeče Google Egon</translation>
+<translation id="5627676517703583263">Pohybujte se na internetu chytře pomocí prohlížeče Egon Browser</translation>
 <translation id="5627832140542566187">Orientace displeje</translation>
 <translation id="5628393161682339323">Když na rozšíření kliknu</translation>
 <translation id="562935524653278697">Váš administrátor synchronizaci záložek, historie, hesel a dalších nastavení zakázal.</translation>
@@ -5900,7 +5900,7 @@ K této akci lze přiřadit několik přepínačů.</translation>
 <translation id="6509207748479174212">Mediální licence</translation>
 <translation id="6511827214781912955">Zvažte smazání souboru <ph name="FILENAME" />, aby ostatní uživatelé tohoto zařízení neviděli vaše hesla</translation>
 <translation id="6512808201725371249">Heslo k tomuto účtu už je uloženo ve vašem Správci hesel Google (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Pokud nebudete připojeni k jiné síti, použije prohlížeč Google Egon mobilní data.</translation>
+<translation id="6513247462497316522">Pokud nebudete připojeni k jiné síti, použije prohlížeč Egon Browser mobilní data.</translation>
 <translation id="6514010653036109809">Dostupné zařízení:</translation>
 <translation id="6514565641373682518">Tato stránka deaktivovala ukazatel myši.</translation>
 <translation id="6517709704288360414">Vaše zařízení již nemusí pracovat správně a mohou se vyskytnout problémy se zabezpečením a výkonem. Vypnutí aktualizací může také ovlivnit vaše právo na právní nároky, pokud narazíte na nějaké problémy.</translation>
@@ -8089,7 +8089,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="8554899698005018844">Žádný jazyk</translation>
 <translation id="855604308879080518">Umožnit aplikacím pro Android na tomto Chromebooku přístup k zařízením USB. O oprávnění budete požádáni pokaždé, když připojíte zařízení USB. Jednotlivé aplikace pro Android budou žádat o další oprávnění.</translation>
 <translation id="8557022314818157177">Dotýkejte se bezpečnostního klíče, dokud se nesejme otisk prstu.</translation>
-<translation id="8557180006508471423">Na počítači Mac zapněte ve službách určování polohy Google Egon</translation>
+<translation id="8557180006508471423">Na počítači Mac zapněte ve službách určování polohy Egon Browser</translation>
 <translation id="8557856025359704738">Další stažení proběhne v <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Přístupové klíče</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Otevřít vše v &amp;novém okně}=1{Otevřít v &amp;novém okně}few{Otevřít vše ({COUNT}) v &amp;novém okně}many{Otevřít vše ({COUNT}) v &amp;novém okně}other{Otevřít vše ({COUNT}) v &amp;novém okně}}</translation>

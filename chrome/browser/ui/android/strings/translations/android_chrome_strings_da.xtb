@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Slet eksisterende data.</translation>
 <translation id="1146678959555564648">Angiv VR</translation>
 <translation id="1149401351239820326">Udløbsmåned</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> åbnes i Egon. Når du fortsætter, accepterer du <ph name="BEGIN_LINK1" />Googles servicevilkår<ph name="END_LINK1" /> og de <ph name="BEGIN_LINK2" />yderligere servicevilkår for Google Egon og ChromeOS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> åbnes i Egon. Når du fortsætter, accepterer du <ph name="BEGIN_LINK1" />Googles servicevilkår<ph name="END_LINK1" /> og de <ph name="BEGIN_LINK2" />yderligere servicevilkår for Egon Browser og ChromeOS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Siden er ikke tilgængelig offline: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Se populære websites ved at trykke på knappen "Topwebsites"</translation>
 <translation id="1173894706177603556">Omdøb</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Ad measurement giver websites, du besøger, mulighed for at anmode om oplysninger fra Egon, som hjælper websitet med at måle, hvor godt dets annoncer klarer sig. Ad measurement begrænser sporing på tværs af websites ved at overføre så få oplysninger som muligt mellem websites.
 
 Når du sletter din browserhistorik – det hele eller for et specifikt website – sletter du også de tilhørende målingsoplysninger. Se <ph name="BEGIN_LINK" />din browserhistorik<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Funktionsgenveje i Google Egon</translation>
+<translation id="1332501820983677155">Funktionsgenveje i Egon Browser</translation>
 <translation id="1344653310988386453">Medtag link til fremhævning</translation>
 <translation id="1347468774581902829">Administrer aktivitet</translation>
 <translation id="1360432990279830238">Log ud, og deaktiver synkronisering?</translation>
@@ -213,7 +213,7 @@ Når du sletter din browserhistorik – det hele eller for et specifikt website 
 <translation id="2122601567107267586">Appen kunne ikke åbnes</translation>
 <translation id="2132122640199389833">Fjern alle tilknyttede enheder</translation>
 <translation id="213279576345780926">Lukkede <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">Når du bruger Egon, accepterer du <ph name="BEGIN_TOS_LINK" />Googles servicevilkår<ph name="END_TOS_LINK" /> og de <ph name="BEGIN_ATOS_LINK" />yderligere servicevilkår for Google Egon og ChromeOS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Når du bruger Egon, accepterer du <ph name="BEGIN_TOS_LINK" />Googles servicevilkår<ph name="END_TOS_LINK" /> og de <ph name="BEGIN_ATOS_LINK" />yderligere servicevilkår for Egon Browser og ChromeOS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Føj til startskærm</translation>
 <translation id="2141396931810938595">Baseret på din brug</translation>
 <translation id="214888715418183969">Vælg, hvad der gerne må deles med Egon. De metrics, du deler, bruges til at hjælpe med at forbedre Chromes funktioner, ydeevne og stabilitet.</translation>
@@ -391,7 +391,7 @@ Når du sletter din browserhistorik – det hele eller for et specifikt website 
 <translation id="3062802207422175757">Artikler om dine interesser i Egon</translation>
 <translation id="3066573403916685335">Flyt ned</translation>
 <translation id="3070005020161560471">Oversæt automatisk</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> åbnes i Egon. Når du fortsætter, accepterer du <ph name="BEGIN_LINK1" />Googles servicevilkår<ph name="END_LINK1" /> og de <ph name="BEGIN_LINK2" />yderligere servicevilkår for Google Egon og ChromeOS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Privatlivspolitikken<ph name="END_LINK3" /> vil også gælde.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> åbnes i Egon. Når du fortsætter, accepterer du <ph name="BEGIN_LINK1" />Googles servicevilkår<ph name="END_LINK1" /> og de <ph name="BEGIN_LINK2" />yderligere servicevilkår for Egon Browser og ChromeOS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Privatlivspolitikken<ph name="END_LINK3" /> vil også gælde.</translation>
 <translation id="3091010850649238832">Vis indhold i udklipsholderen</translation>
 <translation id="3098745985164956033">Nogle billeder sendes til Google for at give dig bedre beskrivelser</translation>
 <translation id="3114507951000454849">Læs dagens nyheder <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Når du sletter din browserhistorik – det hele eller for et specifikt website 
 <translation id="321773570071367578">Hvis du har glemt din adgangssætning eller vil ændre denne indstilling, skal du <ph name="BEGIN_LINK" />nulstille synkroniseringen<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Bekræft din identitet for at synkronisere dine adgangskoder</translation>
 <translation id="3223522355830797639">Din bank vil gerne bekræfte, at det er dig.</translation>
-<translation id="3227557059438308877">Google Egon som sikkerhedsnøgle</translation>
+<translation id="3227557059438308877">Egon Browser som sikkerhedsnøgle</translation>
 <translation id="3232754137068452469">Webapp</translation>
 <translation id="3234978181857588512">Gem på enheden</translation>
 <translation id="3236059992281584593">1 minut tilbage</translation>
@@ -596,7 +596,7 @@ Når du sletter din browserhistorik – det hele eller for et specifikt website 
 <translation id="4269820728363426813">Kopiér linkadresse</translation>
 <translation id="4283102315569707115">Vil du anmode om computerwebsites som standard?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Aktivér skærmlåsen i Android-indstillingerne<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Når du bruger Egon, accepterer du <ph name="BEGIN_TOS_LINK" />Googles servicevilkår<ph name="END_TOS_LINK" /> og de <ph name="BEGIN_ATOS_LINK" />yderligere servicevilkår for Google Egon og ChromeOS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Privatlivspolitikken<ph name="END_PRIVACY_LINK" /> er også gældende.</translation>
+<translation id="4293476595220860475">Når du bruger Egon, accepterer du <ph name="BEGIN_TOS_LINK" />Googles servicevilkår<ph name="END_TOS_LINK" /> og de <ph name="BEGIN_ATOS_LINK" />yderligere servicevilkår for Egon Browser og ChromeOS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Privatlivspolitikken<ph name="END_PRIVACY_LINK" /> er også gældende.</translation>
 <translation id="4296252229500326964">Ny inkognitofane</translation>
 <translation id="4298388696830689168">Tilknyttede websites</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1076,7 +1076,7 @@ Trust tokens forbedrer beskyttelsen af personlige oplysninger på nettet og kan 
 <translation id="6767294960381293877">Åben liste i halv højde over enheder, der skal deles en fane med.</translation>
 <translation id="6770042910635026163">De websites, du besøger, som definerer dine interesser</translation>
 <translation id="6770602306803890733">Forbedrer din og alle andres sikkerhed på nettet</translation>
-<translation id="6785476624617658922">Yderligere servicevilkår for Google Egon og ChromeOS</translation>
+<translation id="6785476624617658922">Yderligere servicevilkår for Egon Browser og ChromeOS</translation>
 <translation id="6795633245022906657">Åbn hurtigt en ny fane. Gå til Indstillinger for at redigere denne genvej.</translation>
 <translation id="6802555630140434547">Vinduet lukkes</translation>
 <translation id="6811034713472274749">Siden kan nu ses</translation>
@@ -1547,7 +1547,7 @@ Trust tokens forbedrer beskyttelsen af personlige oplysninger på nettet og kan 
 <translation id="9219582468404818260">Hjælp os med at skabe et bedre internet</translation>
 <translation id="92381315203627188">Når et website beder om at forudindlæse links privat på det pågældende website, krypterer og forudindlæser Egon siderne via Google-servere uden cookies. På denne måde skjules din identitet fra det forudindlæste website.</translation>
 <translation id="926205370408745186">Fjern din Egon-aktivitet fra Digital balance</translation>
-<translation id="927968626442779827">Brug Lite-tilstand i Google Egon</translation>
+<translation id="927968626442779827">Brug Lite-tilstand i Egon Browser</translation>
 <translation id="928550791203542716">Følger <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Start</translation>
 <translation id="938850635132480979">Fejl: <ph name="ERROR_CODE" /></translation>

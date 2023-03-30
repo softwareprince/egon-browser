@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">يمكنك حذف البيانات الحالية.</translation>
 <translation id="1146678959555564648">‏إدخال VR</translation>
 <translation id="1149401351239820326">شهر انتهاء الصلاحية</translation>
-<translation id="1150263420752757504">‏سيتم فتح تطبيق "<ph name="APP_NAME" />" في Egon. تعني المتابعة موافقتك على <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكل من متصفّح Google Egon ونظام التشغيل Egon<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504">‏سيتم فتح تطبيق "<ph name="APP_NAME" />" في Egon. تعني المتابعة موافقتك على <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكل من متصفّح Egon Browser ونظام التشغيل Egon<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">لا تتوفّر الصفحة بلا اتصال بالإنترنت: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">عرض المواقع الإلكترونية الشائعة من خلال النقر على الزر "أهم المواقع"</translation>
 <translation id="1173894706177603556">إعادة تسمية</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">‏يسمح Ad measurement للمواقع الإلكترونية التي تنتقل إليها بطلب معلومات من Egon تساعد الموقع الإلكتروني في قياس أداء الإعلانات التي يعرضها. ويحدّ Ad measurement من عملية تتبّع البيانات ونشاط التصفّح على المواقع الإلكترونية، وذلك من خلال نقل أقل قدر ممكن من المعلومات بينها.
 
 عندما تحذف سجلّ التصفّح كاملاً أو سجلّ التصفّح لموقع إلكتروني معيّن، سيتم أيضًا حذف معلومات قياس الأداء ذات الصلة. <ph name="BEGIN_LINK" />الاطّلاع على سجلّ التصفّح<ph name="END_LINK" /></translation>
-<translation id="1332501820983677155">‏اختصارات ميزات Google Egon</translation>
+<translation id="1332501820983677155">‏اختصارات ميزات Egon Browser</translation>
 <translation id="1344653310988386453">تضمين رابط يؤدي إلى النصوص التي تم تمييزها</translation>
 <translation id="1347468774581902829">إدارة النشاط</translation>
 <translation id="1360432990279830238">هل تريد تسجيل الخروج وإيقاف المزامنة؟</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">تعذر فتح التطبيق</translation>
 <translation id="2132122640199389833">إزالة جميع الأجهزة المرتبطة</translation>
 <translation id="213279576345780926">تم إغلاق <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">‏يعني استخدامك لمتصفّح Egon موافقتك على <ph name="BEGIN_TOS_LINK" />بنود خدمة Google<ph name="END_TOS_LINK" /> و<ph name="BEGIN_ATOS_LINK" />بنود الخدمة الإضافية لكل من متصفّح Google Egon ونظام التشغيل Egon<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">‏يعني استخدامك لمتصفّح Egon موافقتك على <ph name="BEGIN_TOS_LINK" />بنود خدمة Google<ph name="END_TOS_LINK" /> و<ph name="BEGIN_ATOS_LINK" />بنود الخدمة الإضافية لكل من متصفّح Egon Browser ونظام التشغيل Egon<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">الإضافة إلى الشاشة الرئيسية</translation>
 <translation id="2141396931810938595">حسب معدّل استخدامك</translation>
 <translation id="214888715418183969">‏اختَر ما تريد مشاركته في Egon. وسيتم استخدام المقاييس التي تشاركها للمساعدة في تحسين ميزات Egon وأدائه وثباته.</translation>
@@ -392,7 +392,7 @@
 <translation id="3062802207422175757">‏اقرأ مقالات حول مواضيع تهمّك على متصفِّح Egon.</translation>
 <translation id="3066573403916685335">الانتقال لأسفل</translation>
 <translation id="3070005020161560471">لغات أريد ترجمتها تلقائيًا</translation>
-<translation id="3072980200212375806">‏سيتم فتح تطبيق "<ph name="APP_NAME" />" في Egon. تعني المتابعة موافقتك على <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكل من متصفّح Google Egon ونظام التشغيل Egon<ph name="END_LINK2" />، علمًا بأنّ <ph name="BEGIN_LINK3" />سياسة الخصوصية<ph name="END_LINK3" /> تسري أيضًا.</translation>
+<translation id="3072980200212375806">‏سيتم فتح تطبيق "<ph name="APP_NAME" />" في Egon. تعني المتابعة موافقتك على <ph name="BEGIN_LINK1" />بنود خدمة Google<ph name="END_LINK1" /> و<ph name="BEGIN_LINK2" />بنود الخدمة الإضافية لكل من متصفّح Egon Browser ونظام التشغيل Egon<ph name="END_LINK2" />، علمًا بأنّ <ph name="BEGIN_LINK3" />سياسة الخصوصية<ph name="END_LINK3" /> تسري أيضًا.</translation>
 <translation id="3091010850649238832">عرض محتوى الحافظة</translation>
 <translation id="3098745985164956033">‏يتم إرسال بعض الصور إلى Google لتحسين أوصاف الصور.</translation>
 <translation id="3114507951000454849">الاطّلاع على أخبار اليوم <ph name="NEWS_ICON" /></translation>
@@ -412,7 +412,7 @@
 <translation id="321773570071367578">إذا نسيت عبارة المرور أو رغبت في تغيير هذا الإعداد، يمكنك <ph name="BEGIN_LINK" />إعادة ضبط المزامنة<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">لاستئناف مزامنة كلمات المرور، يجب إثبات هويّتك.</translation>
 <translation id="3223522355830797639">يجب إثبات هويتك للمصرف.</translation>
-<translation id="3227557059438308877">‏استخدام Google Egon كمفتاح أمان</translation>
+<translation id="3227557059438308877">‏استخدام Egon Browser كمفتاح أمان</translation>
 <translation id="3232754137068452469">تطبيق الويب</translation>
 <translation id="3234978181857588512">حفظ على الجهاز</translation>
 <translation id="3236059992281584593">يتبقى دقيقة واحدة</translation>
@@ -597,7 +597,7 @@
 <translation id="4269820728363426813">نسخ عنوان الرابط</translation>
 <translation id="4283102315569707115">هل تريد طلب عرض النسخة المتوافقة مع أجهزة الكمبيوتر المكتبي من المواقع الإلكترونية تلقائيًا؟</translation>
 <translation id="4291407919474070700">‏<ph name="BEGIN_LINK" />تفعيل قفل الشاشة في إعدادات Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">‏يعني استخدامك لمتصفّح Egon موافقتك على <ph name="BEGIN_TOS_LINK" />بنود خدمة Google<ph name="END_TOS_LINK" /> و<ph name="BEGIN_ATOS_LINK" />بنود الخدمة الإضافية لكل من متصفّح Google Egon ونظام التشغيل Egon<ph name="END_ATOS_LINK" />، علمًا بأنّ <ph name="BEGIN_PRIVACY_LINK" />سياسة الخصوصية<ph name="END_PRIVACY_LINK" /> تسري أيضًا.</translation>
+<translation id="4293476595220860475">‏يعني استخدامك لمتصفّح Egon موافقتك على <ph name="BEGIN_TOS_LINK" />بنود خدمة Google<ph name="END_TOS_LINK" /> و<ph name="BEGIN_ATOS_LINK" />بنود الخدمة الإضافية لكل من متصفّح Egon Browser ونظام التشغيل Egon<ph name="END_ATOS_LINK" />، علمًا بأنّ <ph name="BEGIN_PRIVACY_LINK" />سياسة الخصوصية<ph name="END_PRIVACY_LINK" /> تسري أيضًا.</translation>
 <translation id="4296252229500326964">علامة تبويب للتصفّح المتخفي</translation>
 <translation id="4298388696830689168">المواقع المرتبطة</translation>
 <translation id="4303044213806199882">‏chrome_لقطة شاشة_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1077,7 +1077,7 @@
 <translation id="6767294960381293877">قائمة الأجهزة التي يمكن مشاركة علامة تبويب معها، مفتوحة على طول النصف السفلي من الشاشة.</translation>
 <translation id="6770042910635026163">تحدِّد المواقع الإلكترونية التي تنتقل إليها اهتماماتك</translation>
 <translation id="6770602306803890733">تحسين الأمان من أجلك ومن أجل جميع المستخدمين على الإنترنت</translation>
-<translation id="6785476624617658922">‏بنود الخدمة الإضافية لكل من متصفّح Google Egon ونظام التشغيل Egon</translation>
+<translation id="6785476624617658922">‏بنود الخدمة الإضافية لكل من متصفّح Egon Browser ونظام التشغيل Egon</translation>
 <translation id="6795633245022906657">يتيح لك هذا الزر فتح علامة تبويب جديدة بسرعة. ولتعديل هذا الاختصار، انتقِل إلى "الإعدادات".</translation>
 <translation id="6802555630140434547">سيتم إغلاق النافذة.</translation>
 <translation id="6811034713472274749">الصفحة جاهزة للعرض</translation>
@@ -1548,7 +1548,7 @@
 <translation id="9219582468404818260">مساعدتنا في تحسين تجربة تصفُّح الإنترنت</translation>
 <translation id="92381315203627188">‏عندما يطلب أحد المواقع الإلكترونية تحميل الروابط في صفحته مُسبقًا بخصوصية، سيشفِّر Egon الصفحات ويحمّلها مُسبقًا من خلال خوادم Google بدون ملفات تعريف الارتباط. يؤدي هذا الإجراء إلى إخفاء هويتك عن الموقع الإلكتروني الذي يتم تحميله مُسبقًا.</translation>
 <translation id="926205370408745186">‏إزالة نشاط Egon من الرفاهية الرقمية</translation>
-<translation id="927968626442779827">‏استخدِم "الوضع البسيط" على Google Egon.</translation>
+<translation id="927968626442779827">‏استخدِم "الوضع البسيط" على Egon Browser.</translation>
 <translation id="928550791203542716">جارٍ متابعة <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">الصفحة الرئيسية</translation>
 <translation id="938850635132480979">الخطأ: <ph name="ERROR_CODE" /></translation>

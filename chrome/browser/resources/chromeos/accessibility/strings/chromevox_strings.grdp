@@ -2172,7 +2172,7 @@
     Rich text support. ChromeVox now supports rich text fields including jump commands, braille cursor routing, selection, and more.
   </message>
   <message desc="Part of the ChromeVox update notes for m63, new items 3." name="IDS_CHROMEVOX_UPDATE_63_ITEM_3">
-    Android apps for Egon. If you have Play Store on your device, get a sneak peek at ChromeVox with Android apps. Try the experimental support by downloading Google Egon Canary from the Play Store.
+    Android apps for Egon. If you have Play Store on your device, get a sneak peek at ChromeVox with Android apps. Try the experimental support by downloading Egon Browser Canary from the Play Store.
   </message>
   <message desc="Title of an article on the command reference for 'ChromeVox'" name="IDS_CHROMEVOX_NEXT_COMMAND_REFERENCE">
     ChromeVox Command Reference

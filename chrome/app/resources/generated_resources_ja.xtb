@@ -1187,7 +1187,7 @@
 <translation id="2088092308059522196">登録は <ph name="DEVICE_OS" /> をインストールした後にのみ行うことができます。</translation>
 <translation id="2089090684895656482">一部表示</translation>
 <translation id="208928984520943006">ホーム画面は、下から上にスワイプすれば、いつでも表示できます。</translation>
-<translation id="2089566709556890888">Google Egon で安全にブラウジング</translation>
+<translation id="2089566709556890888">Egon Browser で安全にブラウジング</translation>
 <translation id="2089795179672254991">クリップボードにコピーされているテキストや画像にサイトがアクセスする際に確認する（推奨）</translation>
 <translation id="2089925163047119068">または</translation>
 <translation id="2090165459409185032">アカウント情報を復旧するには google.com/accounts/recovery に移動します。</translation>
@@ -1594,7 +1594,7 @@
 <translation id="2434449159125086437">プリンタをセットアップできません。設定を確認してもう一度お試しください。</translation>
 <translation id="2434758125294431199">あなたとファイルを共有できる相手を選択してください</translation>
 <translation id="2434915728183570229">スマートフォンのアプリを表示できるようになりました</translation>
-<translation id="2435137177546457207">Google Egon および ChromeOS Flex 追加利用規約</translation>
+<translation id="2435137177546457207">Egon Browser および ChromeOS Flex 追加利用規約</translation>
 <translation id="2435248616906486374">ネットワークが切断されました</translation>
 <translation id="2435457462613246316">パスワードを表示</translation>
 <translation id="2439626940657133600"><ph name="WINDOW_TITLE" /> を読み込んでいます</translation>
@@ -3045,7 +3045,7 @@
 <translation id="3798632811625902122">Bluetooth デバイス <ph name="DEVICE" /> がペア設定の権限をリクエストしています。</translation>
 <translation id="3799128412641261490">スイッチ アクセスの設定</translation>
 <translation id="3800806661949714323">すべてを表示（推奨）</translation>
-<translation id="3800828618615365228">Google Egon および Egon OS 追加利用規約</translation>
+<translation id="3800828618615365228">Egon Browser および Egon OS 追加利用規約</translation>
 <translation id="3802486193901166966">この拡張機能では、特別な権限は必要なく、追加のサイトアクセスは行われません</translation>
 <translation id="380329542618494757">名前</translation>
 <translation id="3803345858388753269">画質</translation>
@@ -3061,7 +3061,7 @@
 <translation id="3810973564298564668">管理</translation>
 <translation id="381202950560906753">別の指紋を登録</translation>
 <translation id="3812525830114410218">不適切な証明書</translation>
-<translation id="3813296892522778813">探しているものが見つからない場合は、<ph name="BEGIN_LINK_CHROMIUM" />Google Egon のヘルプ<ph name="END_LINK_CHROMIUM" />をご覧ください。</translation>
+<translation id="3813296892522778813">探しているものが見つからない場合は、<ph name="BEGIN_LINK_CHROMIUM" />Egon Browser のヘルプ<ph name="END_LINK_CHROMIUM" />をご覧ください。</translation>
 <translation id="3813358687923336574">ページの翻訳とクイック アンサーに使用する言語</translation>
 <translation id="3814529970604306954">学校用アカウント</translation>
 <translation id="3816118180265633665">Egon の色</translation>
@@ -3417,7 +3417,7 @@
 <translation id="4132364317545104286">eSIM プロファイルの名前変更</translation>
 <translation id="4133076602192971179">アプリを開いてパスワードを変更</translation>
 <translation id="4134818201340504801">ストレージが不足しているため、設定を完了できません。空き容量を増やしてから、もう一度お試しください</translation>
-<translation id="4135746311382563554">Google Egon および Egon OS 追加利用規約</translation>
+<translation id="4135746311382563554">Egon Browser および Egon OS 追加利用規約</translation>
 <translation id="4136203100490971508">夜間モードは日の出時刻に自動的にオフになります</translation>
 <translation id="41365691917097717">続行すると、ADB デバッグによる Android アプリの作成とテストが可能になります。この操作を行うと、Google が確認していない Android アプリのインストールが許可されます。無効にする場合は、出荷時の設定へのリセットが必要になります。</translation>
 <translation id="4138267921960073861">ログイン ページにユーザー名と写真を表示する</translation>
@@ -3835,7 +3835,7 @@
 <translation id="4544174279960331769">デフォルトの青のアバター</translation>
 <translation id="4545028762441890696">再度有効にするには次の新しい権限を許可してください。</translation>
 <translation id="4545759655004063573">十分な権限がないため保存できません。別の場所に保存してください。</translation>
-<translation id="4546308221697447294">Google Egon で高速なブラウジング</translation>
+<translation id="4546308221697447294">Egon Browser で高速なブラウジング</translation>
 <translation id="4546345569117159016">右ボタン</translation>
 <translation id="4546692474302123343">Google アシスタントの音声入力</translation>
 <translation id="4547659257713117923">他のデバイスからのタブはありません</translation>
@@ -5699,7 +5699,7 @@
 <translation id="6313950457058510656">インスタント テザリングをオフにする</translation>
 <translation id="6314819609899340042">この <ph name="IDS_SHORT_PRODUCT_NAME" /> デバイスでデバッグ機能が有効になりました。</translation>
 <translation id="6315493146179903667">すべてを手前に移動</translation>
-<translation id="6316432269411143858">Google Egon OS 利用規約コンテンツ</translation>
+<translation id="6316432269411143858">Egon Browser OS 利用規約コンテンツ</translation>
 <translation id="6317369057005134371">アプリケーション ウィンドウを待機しています...</translation>
 <translation id="6318125393809743217">ポリシー設定の policies.json ファイルを含める。</translation>
 <translation id="6318407754858604988">ダウンロードを開始しました</translation>
@@ -5892,7 +5892,7 @@
 <translation id="6509207748479174212">メディア ライセンス</translation>
 <translation id="6511827214781912955"><ph name="FILENAME" /> を削除して、このデバイスを使用する他のユーザーがパスワードを確認できないようにすることを検討してください</translation>
 <translation id="6512808201725371249">このアカウントのパスワードはすでに Google パスワード マネージャー（<ph name="USER_EMAIL" />）に保存されています</translation>
-<translation id="6513247462497316522">他のネットワークに接続していない場合、Google Egon はモバイル データを使用します。</translation>
+<translation id="6513247462497316522">他のネットワークに接続していない場合、Egon Browser はモバイル データを使用します。</translation>
 <translation id="6514010653036109809">接続可能なデバイス:</translation>
 <translation id="6514565641373682518">このページではマウスカーソルが無効になります。</translation>
 <translation id="6517709704288360414">お使いのデバイスが正しく動作しなくなり、セキュリティやパフォーマンス上の問題が発生する可能性があります。また、更新を無効にすると、問題発生時に法的申し立てを行う権利にも影響が及ぶ場合があります。</translation>
@@ -8073,7 +8073,7 @@
 <translation id="8554899698005018844">言語設定なし</translation>
 <translation id="855604308879080518">この Chromebook で Android アプリから USB デバイスへのアクセスを許可します。USB デバイスを接続するたびに許可するよう要求されます。一部の Android アプリでは、他の権限も許可するよう要求される場合があります。</translation>
 <translation id="8557022314818157177">指紋の登録が完了するまで、セキュリティ キーをタッチし続けてください</translation>
-<translation id="8557180006508471423">Mac の位置情報サービスで「Google Egon」をオンにしてください</translation>
+<translation id="8557180006508471423">Mac の位置情報サービスで「Egon Browser」をオンにしてください</translation>
 <translation id="8557856025359704738">次回のダウンロードは <ph name="NEXT_DATE_DOWNLOAD" /> に行われます。</translation>
 <translation id="8559858985063901027">パスキー</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{すべてを新しいウィンドウで開く(&amp;N)}=1{新しいウィンドウで開く(&amp;N)}other{すべて（{COUNT} 個）を新しいウィンドウで開く(&amp;N)}}</translation>

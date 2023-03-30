@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Առկա տվյալների ջնջում։</translation>
 <translation id="1146678959555564648">Մուտքագրել VR-ը</translation>
 <translation id="1149401351239820326">Ժամկետի սպառման ամիսը</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> հավելվածը կբացվի Egon-ում։ Շարունակելով՝ դուք ընդունում եք <ph name="BEGIN_LINK1" />Google-ի օգտագործման պայմանները<ph name="END_LINK1" /> և <ph name="BEGIN_LINK2" />Google Egon-ի և ChromeOS-ի օգտագործման լրացուցիչ պայմանները<ph name="END_LINK2" />։</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> հավելվածը կբացվի Egon-ում։ Շարունակելով՝ դուք ընդունում եք <ph name="BEGIN_LINK1" />Google-ի օգտագործման պայմանները<ph name="END_LINK1" /> և <ph name="BEGIN_LINK2" />Egon Browser-ի և ChromeOS-ի օգտագործման լրացուցիչ պայմանները<ph name="END_LINK2" />։</translation>
 <translation id="1154704303112745282">Էջն անցանց ռեժիմում հասանելի չէ՝ <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Սեղմեք «Կայքերի ընտրանի» կոճակը և դիտեք թոփ կայքերը</translation>
 <translation id="1173894706177603556">Վերանվանել</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Գովազդի արդյունավետության գնահատումը թույլ է տալիս ձեր այցելած կայքերին ստանալ Egon-ից տեղեկություններ, որոնք օգնում են չափել այդ կայքերում ցուցադրվող գովազդի արդյունավետությունը։ Գովազդի արդյունավետության գնահատումը սահմանափակում է օգտատերերի գործողությունների միջկայքային հետագծումը՝ նվազագույնի հասցնելով կայքերի միջև տեղեկությունների փոխանցումը։
 
 Այցելությունների պատմությունը ջնջելու դեպքում (ամբողջությամբ կամ որոշակի կայքի համար) ջնջվում են նաև արդյունավետության գնահատման տվյալները։ Դիտեք <ph name="BEGIN_LINK" />ձեր այցելությունների պատմությունը<ph name="END_LINK" />։</translation>
-<translation id="1332501820983677155">Google Egon-ի գործառույթների դյուրանցումներ</translation>
+<translation id="1332501820983677155">Egon Browser-ի գործառույթների դյուրանցումներ</translation>
 <translation id="1344653310988386453">Ներառել ընդգծված տեքստի հղումը</translation>
 <translation id="1347468774581902829">Կառավարել պատմությունը</translation>
 <translation id="1360432990279830238">Դուրս գրվե՞լ և անջատել համաժամացումը</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">Չհաջողվեց բացել հավելվածը</translation>
 <translation id="2132122640199389833">Հեռացնել բոլոր կապված սարքերը</translation>
 <translation id="213279576345780926">Փակված <ph name="TAB_TITLE" /></translation>
-<translation id="2134927169889348449">Օգտվելով Egon-ից՝ դուք ընդունում եք <ph name="BEGIN_TOS_LINK" />Google-ի օգտագործման պայմանները<ph name="END_TOS_LINK" /> և <ph name="BEGIN_ATOS_LINK" />Google Egon-ի և ChromeOS-ի օգտագործման լրացուցիչ պայմանները<ph name="END_ATOS_LINK" />։</translation>
+<translation id="2134927169889348449">Օգտվելով Egon-ից՝ դուք ընդունում եք <ph name="BEGIN_TOS_LINK" />Google-ի օգտագործման պայմանները<ph name="END_TOS_LINK" /> և <ph name="BEGIN_ATOS_LINK" />Egon Browser-ի և ChromeOS-ի օգտագործման լրացուցիչ պայմանները<ph name="END_ATOS_LINK" />։</translation>
 <translation id="2139186145475833000">Ավելացնել գլխավոր էկրանին</translation>
 <translation id="2141396931810938595">Ձեր օգտագործման հիման վրա</translation>
 <translation id="214888715418183969">Ընտրեք, թե ինչ տվյալներ եք պատրաստ փոխանցել Egon-ին։ Ձեր տրամադրած ցուցանիշները կօգնեն բարելավել Egon-ի գործառույթները, աշխատանքի արդյունավետությունը և կայունությունը։</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Ձեր հետաքրքրությունների հիման վրա ընտրված հոդվածներ՝ Egon-ում</translation>
 <translation id="3066573403916685335">Տեղափոխել վար</translation>
 <translation id="3070005020161560471">Ավտոմատ թարգմանել</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> հավելվածը կբացվի Egon-ում։ Շարունակելով՝ դուք ընդունում եք <ph name="BEGIN_LINK1" />Google-ի օգտագործման պայմանները<ph name="END_LINK1" /> և <ph name="BEGIN_LINK2" />Google Egon-ի և ChromeOS-ի օգտագործման լրացուցիչ պայմանները<ph name="END_LINK2" />։ Կիրառվում է նաև <ph name="BEGIN_LINK3" />Գաղտնիության քաղաքականությունը<ph name="END_LINK3" />։</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> հավելվածը կբացվի Egon-ում։ Շարունակելով՝ դուք ընդունում եք <ph name="BEGIN_LINK1" />Google-ի օգտագործման պայմանները<ph name="END_LINK1" /> և <ph name="BEGIN_LINK2" />Egon Browser-ի և ChromeOS-ի օգտագործման լրացուցիչ պայմանները<ph name="END_LINK2" />։ Կիրառվում է նաև <ph name="BEGIN_LINK3" />Գաղտնիության քաղաքականությունը<ph name="END_LINK3" />։</translation>
 <translation id="3091010850649238832">Ցույց տալ սեղմատախտակի բովանդակությունը</translation>
 <translation id="3098745985164956033">Պատկերներն ուղարկվում են Google-ին՝ նկարագրությունները բարելավելու նպատակով</translation>
 <translation id="3114507951000454849">Կարդացեք այսօրվա նորությունները <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">Եթե մոռացել եք ձեր անցաբառը կամ ուզում եք փոխել այս կարգավորումը, <ph name="BEGIN_LINK" />վերակայեք համաժամացումը<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Ձեր գաղտնաբառերը համաժամացնելու համար հաստատեք ձեր ինքնությունը</translation>
 <translation id="3223522355830797639">Ձեր բանկը պետք է հաստատի ձեր ինքնությունը։</translation>
-<translation id="3227557059438308877">Google Egon-ը որպես անվտանգության բանալի</translation>
+<translation id="3227557059438308877">Egon Browser-ը որպես անվտանգության բանալի</translation>
 <translation id="3232754137068452469">Վեբ ծրագիր</translation>
 <translation id="3234978181857588512">Պահել սարքում</translation>
 <translation id="3236059992281584593">Մնացել է 1 րոպե</translation>
@@ -562,7 +562,7 @@
 <translation id="409109920254068737">Դուք կարող եք օգտագործել այս պլանշետը՝ հաշիվ մուտք գործելու սարքում, որում ցուցադրված է այս QR կոդը։</translation>
 <translation id="4095146165863963773">Ջնջե՞լ հավելվածների տվյալները:</translation>
 <translation id="4096227151372679484">Էջանիշի պահման էջը բացված է կիսով չափ</translation>
-<translation id="4099578267706723511">Աջակցեք Google Egon-ի կատարելագործմանը՝ Google-ին ավտոմատ կերպով ուղարկելով օգտագործման վիճակագրություն և խափանումների մասին հաղորդագրություններ:</translation>
+<translation id="4099578267706723511">Աջակցեք Egon Browser-ի կատարելագործմանը՝ Google-ին ավտոմատ կերպով ուղարկելով օգտագործման վիճակագրություն և խափանումների մասին հաղորդագրություններ:</translation>
 <translation id="4101475238162928417">Կատարեք համաժամացում, որպեսզի ձեր գաղտնաբառերը, էջանիշները և այլ տվյալները մյուս սարքերում հասանելի դառնան</translation>
 <translation id="410351446219883937">Ինքնանվագարկում</translation>
 <translation id="4106587138345390261">Egon-ն ուսումնասիրում է նոր գործառույթները, որոնք կայքերին թույլ են տալիս տրամադրել դիտարկման նույն հնարավորությունները՝ ձեր մասին ավելի քիչ տեղեկություններ օգտագործելով։</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">Պատճենել հղման հասցեն</translation>
 <translation id="4283102315569707115">Օգտագործե՞լ կայքերի համակարգչային տարբերակներն ըստ կանխադրման</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Միացնել էկրանի կողպումը Android-ի կարգավորումներում<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Օգտվելով Egon-ից՝ դուք ընդունում եք <ph name="BEGIN_TOS_LINK" />Google-ի օգտագործման պայմանները<ph name="END_TOS_LINK" /> և <ph name="BEGIN_ATOS_LINK" />Google Egon-ի և ChromeOS-ի օգտագործման լրացուցիչ պայմանները<ph name="END_ATOS_LINK" />։ Կիրառվում է նաև <ph name="BEGIN_PRIVACY_LINK" />Գաղտնիության քաղաքականությունը<ph name="END_PRIVACY_LINK" />։</translation>
+<translation id="4293476595220860475">Օգտվելով Egon-ից՝ դուք ընդունում եք <ph name="BEGIN_TOS_LINK" />Google-ի օգտագործման պայմանները<ph name="END_TOS_LINK" /> և <ph name="BEGIN_ATOS_LINK" />Egon Browser-ի և ChromeOS-ի օգտագործման լրացուցիչ պայմանները<ph name="END_ATOS_LINK" />։ Կիրառվում է նաև <ph name="BEGIN_PRIVACY_LINK" />Գաղտնիության քաղաքականությունը<ph name="END_PRIVACY_LINK" />։</translation>
 <translation id="4296252229500326964">Նոր ինկոգնիտո ներդիր</translation>
 <translation id="4298388696830689168">Կապված կայքեր</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1547,7 +1547,7 @@ Privacy Sandbox տեխնոլոգիան դեռևս մշակման փուլում 
 <translation id="9219582468404818260">Օգնեք մեզ բարելավել ցանցը</translation>
 <translation id="92381315203627188">Երբ որևէ կայք հայցում է էջերի անանուն նախաբեռնում իր էջում առկա հղումների միջոցով, Egon-ը գաղտնագրում և նախապես բեռնում է էջերը Google-ի սերվերների միջոցով առանց քուքիների։ Այդպիսով ձեր անձնական տվյալները չեն փոխանցվում։</translation>
 <translation id="926205370408745186">Հեռացրեք Egon-ի պատմությունը Թվային բարեկեցությունից</translation>
-<translation id="927968626442779827">Փորձեք Lite ռեժիմը Google Egon-ում</translation>
+<translation id="927968626442779827">Փորձեք Lite ռեժիմը Egon Browser-ում</translation>
 <translation id="928550791203542716">Դուք բաժանորդագրվեցիք <ph name="SITE_NAME" /> կայքին</translation>
 <translation id="932327136139879170">Գլխավոր էջ</translation>
 <translation id="938850635132480979">Սխալ՝ <ph name="ERROR_CODE" /></translation>

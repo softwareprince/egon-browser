@@ -1192,7 +1192,7 @@ Varat pārvaldīt šī konta iestatījumus, savā ierīcē instalējot lietotni 
 <translation id="2088092308059522196">Reģistrēšanās ir atbalstīta tikai pēc <ph name="DEVICE_OS" /> instalēšanas.</translation>
 <translation id="2089090684895656482">Mazāk</translation>
 <translation id="208928984520943006">Lai jebkurā brīdī pārietu uz sākuma ekrānu, velciet augšup no ekrāna apakšdaļas.</translation>
-<translation id="2089566709556890888">Droša pārlūkošana ar Google Egon</translation>
+<translation id="2089566709556890888">Droša pārlūkošana ar Egon Browser</translation>
 <translation id="2089795179672254991">Vaicāt, ja vietne vēlas skatīt starpliktuvē kopēto tekstu un attēlus (ieteicams)</translation>
 <translation id="2089925163047119068">VAI</translation>
 <translation id="2090165459409185032">Lai atgūtu konta informāciju, apmeklējiet vietni google.com/accounts/recovery.</translation>
@@ -1567,7 +1567,7 @@ Varat pārvaldīt šī konta iestatījumus, savā ierīcē instalējot lietotni 
 <translation id="2391419135980381625">Standarta fonts</translation>
 <translation id="2392369802118427583">Aktivizēt</translation>
 <translation id="2393136602862631930"><ph name="APP_NAME" /> iestatīšana jūsu Chromebook datorā</translation>
-<translation id="2393313392064891208">Google Egon OS Flex noteikumu saturs</translation>
+<translation id="2393313392064891208">Egon Browser OS Flex noteikumu saturs</translation>
 <translation id="2395616325548404795"><ph name="DEVICE_TYPE" /> ierīce ir sekmīgi reģistrēta uzņēmuma pārvaldībai, taču neizdevās nosūtīt tās līdzekļu un atrašanās vietas informāciju. Lūdzu, manuāli ievadiet šo informāciju, izmantojot šīs ierīces administratora konsoli.</translation>
 <translation id="2396783860772170191">Ievadiet 4 ciparu PIN (0000–9999)</translation>
 <translation id="2398546389094871088">Ierīcē izmantojot funkciju Powerwash, eSIM profili netiks noņemti. Lai profilus noņemtu manuāli, pārejiet uz sadaļu <ph name="LINK_BEGIN" />Mobilās piekļuves iestatījumi<ph name="LINK_END" />.</translation>
@@ -1601,7 +1601,7 @@ Varat pārvaldīt šī konta iestatījumus, savā ierīcē instalējot lietotni 
 <translation id="2434449159125086437">Nevar iestatīt printeri. Lūdzu, pārbaudiet konfigurāciju un mēģiniet vēlreiz.</translation>
 <translation id="2434758125294431199">Atlasiet, kas drīkst kopīgot saturu ar jums</translation>
 <translation id="2434915728183570229">Tagad varat skatīt tālruņa lietotnes.</translation>
-<translation id="2435137177546457207">Google Egon un Egon OS Flex papildu noteikumi</translation>
+<translation id="2435137177546457207">Egon Browser un Egon OS Flex papildu noteikumi</translation>
 <translation id="2435248616906486374">Tika pārtraukts tīkla savienojums.</translation>
 <translation id="2435457462613246316">Rādīt paroli</translation>
 <translation id="2439626940657133600">Notiek produkta <ph name="WINDOW_TITLE" /> ielāde</translation>
@@ -3845,7 +3845,7 @@ Vai vēlaties palaist rīku <ph name="CONTROL_PANEL_APPLET_NAME" />?</translatio
 <translation id="4544174279960331769">Noklusējuma iemiesojums zilā krāsā</translation>
 <translation id="4545028762441890696">Lai to atkārtoti iespējotu, piekrītiet jaunajām atļaujām:</translation>
 <translation id="4545759655004063573">Nevar saglabāt, jo nav pietiekamu atļauju. Saglabājiet citā atrašanās vietā.</translation>
-<translation id="4546308221697447294">Ātra pārlūkošana ar Google Egon</translation>
+<translation id="4546308221697447294">Ātra pārlūkošana ar Egon Browser</translation>
 <translation id="4546345569117159016">Labā poga</translation>
 <translation id="4546692474302123343">Google asistenta balss ievade</translation>
 <translation id="4547659257713117923">Nav ciļņu no citām ierīcēm</translation>
@@ -5708,7 +5708,7 @@ Saskaņā ar domēna <ph name="DOMAIN" /> prasībām viedkartei ir jābūt ievie
 <translation id="6313950457058510656">Tūlītējas piesaistes izslēgšana</translation>
 <translation id="6314819609899340042">Atkļūdošanas funkcijas šajā <ph name="IDS_SHORT_PRODUCT_NAME" /> ierīcē ir veiksmīgi iespējotas.</translation>
 <translation id="6315493146179903667">Parādīt visus</translation>
-<translation id="6316432269411143858">Google Egon OS noteikumu saturs</translation>
+<translation id="6316432269411143858">Egon Browser OS noteikumu saturs</translation>
 <translation id="6317369057005134371">Notiek lietojumprogrammas loga gaidīšana...</translation>
 <translation id="6318125393809743217">Iekļaut failu policies.json ar politiku konfigurācijām.</translation>
 <translation id="6318407754858604988">Lejupielāde ir sākta</translation>
@@ -5901,7 +5901,7 @@ Saskaņā ar domēna <ph name="DOMAIN" /> prasībām viedkartei ir jābūt ievie
 <translation id="6509207748479174212">Multivides licence</translation>
 <translation id="6511827214781912955">Lai citi lietotāji, kuri izmanto šo ierīci, nevarētu skatīt jūsu paroles, ieteicams izdzēst failu <ph name="FILENAME" /></translation>
 <translation id="6512808201725371249">Šī konta parole jau ir saglabāta jūsu Google paroļu pārvaldniekā (<ph name="USER_EMAIL" />).</translation>
-<translation id="6513247462497316522">Ja jums nebūs pieejams savienojums ar tīklu, Google Egon izmantos mobilos datus.</translation>
+<translation id="6513247462497316522">Ja jums nebūs pieejams savienojums ar tīklu, Egon Browser izmantos mobilos datus.</translation>
 <translation id="6514010653036109809">Pieejamā ierīce:</translation>
 <translation id="6514565641373682518">Šī lapa ir atspējojusi jūsu peles kursoru.</translation>
 <translation id="6517709704288360414">Iespējams, jūsu ierīce vairs nedarbosies pareizi un jūs saskarsieties ar drošības un veiktspējas problēmām. Atjauninājumu izslēgšana var arī ietekmēt jūsu tiesības izvirzīt juridiskas prasības, ja būs radušās problēmas.</translation>

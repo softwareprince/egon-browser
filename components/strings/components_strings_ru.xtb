@@ -263,7 +263,7 @@
 <translation id="156703335097561114">Сетевые данные, такие как адреса, настройки интерфейса и качество подключения.</translation>
 <translation id="1567040042588613346">Правило работает корректно, но заменяет одинаковое значение, заданное где-то ещё.</translation>
 <translation id="1569487616857761740">Укажите дату окончания срока действия</translation>
-<translation id="1569694109004336106">Google Egon пытается включить Windows Hello, чтобы указывать пароли.</translation>
+<translation id="1569694109004336106">Egon Browser пытается включить Windows Hello, чтобы указывать пароли.</translation>
 <translation id="1572765991610098222"><ph name="WIDTH" /> x <ph name="HEIGHT" />"</translation>
 <translation id="1581080074034554886">CVC</translation>
 <translation id="1583429793053364125">При загрузке этой страницы возникли неполадки.</translation>
@@ -459,7 +459,7 @@
 <translation id="2085876078937250610">Сохранить</translation>
 <translation id="2088086323192747268">Кнопка "Настройки синхронизации". Нажмите Ввод, чтобы открыть настройки Egon и указать, какая информация должна синхронизироваться.</translation>
 <translation id="2091887806945687916">Звук</translation>
-<translation id="2093982008204312032">Google Egon пытается отключить Windows Hello, чтобы не использовать этот сервис для подстановки паролей.</translation>
+<translation id="2093982008204312032">Egon Browser пытается отключить Windows Hello, чтобы не использовать этот сервис для подстановки паролей.</translation>
 <translation id="2094505752054353250">Несоответствие домена</translation>
 <translation id="2099652385553570808">Три скобы слева</translation>
 <translation id="2101225219012730419">Версия:</translation>
@@ -2161,7 +2161,7 @@
 <translation id="6502626736864595182">Поставщики форумов и чатов</translation>
 <translation id="6502991525169604759">Без ваших изменений</translation>
 <translation id="6506959208958864820">Конверт</translation>
-<translation id="6508722015517270189">Перезапустите Google Egon.</translation>
+<translation id="6508722015517270189">Перезапустите Egon Browser.</translation>
 <translation id="6513005815064132016">Разрешено отправлять запрос на отслеживание положения камеры</translation>
 <translation id="6517596291481585650">Внимание! Это правило не объединено, так как оно не является списком.</translation>
 <translation id="6518133107902771759">Подтвердить</translation>
@@ -2583,7 +2583,7 @@
 <translation id="7564049878696755256">Кто-то посторонний мог получить доступ к вашим личным данным или аккаунту в домене <ph name="ORG_NAME" />. Рекомендуем немедленно сменить пароль.</translation>
 <translation id="7564680668369175887">Автомобили типа "универсал"</translation>
 <translation id="7567204685887185387">Не удалось подтвердить, что это сервер <ph name="DOMAIN" />. Его сертификат безопасности мог быть выдан обманным путем. Возможно, сервер настроен неправильно или кто-то пытается перехватить ваши данные.</translation>
-<translation id="7568616151991626879">Google Egon пытается указать пароль на сайте <ph name="APP_NAME" />.</translation>
+<translation id="7568616151991626879">Egon Browser пытается указать пароль на сайте <ph name="APP_NAME" />.</translation>
 <translation id="7569490014721427265">Гольф</translation>
 <translation id="7569761772822664555">Кнопка "Управление поисковыми системами". Нажмите Ввод, чтобы настроить поисковую систему по умолчанию и поиск по сайту.</translation>
 <translation id="7569952961197462199">Удалить кредитную карту из Egon?</translation>

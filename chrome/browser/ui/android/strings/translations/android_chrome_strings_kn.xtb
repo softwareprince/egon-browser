@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">ಪ್ರಸ್ತುತ ಡೇಟಾ ಅಳಿಸಿ.</translation>
 <translation id="1146678959555564648">VR ನಮೂದಿಸಿ</translation>
 <translation id="1149401351239820326">ಮುಕ್ತಾಯದ ತಿಂಗಳು</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" />, Egon ನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ. ಮುಂದುವರಿಯುವ ಮೂಲಕ, ನೀವು <ph name="BEGIN_LINK1" />Google ಸೇವಾ ನಿಯಮಗಳು<ph name="END_LINK1" />, ಹಾಗೂ <ph name="BEGIN_LINK2" />Google Egon ಮತ್ತು ChromeOS ಹೆಚ್ಚುವರಿ ಸೇವಾ ನಿಯಮಗಳಿಗೆ<ph name="END_LINK2" /> ಸಮ್ಮತಿಸುತ್ತೀರಿ.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" />, Egon ನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ. ಮುಂದುವರಿಯುವ ಮೂಲಕ, ನೀವು <ph name="BEGIN_LINK1" />Google ಸೇವಾ ನಿಯಮಗಳು<ph name="END_LINK1" />, ಹಾಗೂ <ph name="BEGIN_LINK2" />Egon Browser ಮತ್ತು ChromeOS ಹೆಚ್ಚುವರಿ ಸೇವಾ ನಿಯಮಗಳಿಗೆ<ph name="END_LINK2" /> ಸಮ್ಮತಿಸುತ್ತೀರಿ.</translation>
 <translation id="1154704303112745282">ಪುಟ ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">"ಉನ್ನತ ಸೈಟ್‌ಗಳು" ಬಟನ್ ಟ್ಯಾಪ್ ಮಾಡುವ ಮೂಲಕ ಜನಪ್ರಿಯ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ನೋಡಿ</translation>
 <translation id="1173894706177603556">ಮರುಹೆಸರಿಸು</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">ತಮ್ಮ ಜಾಹೀರಾತುಗಳ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಮಾಪನ ಮಾಡಲು ನೆರವಾಗುವಂತಹ ಮಾಹಿತಿಯನ್ನು Egon ನಿಂದ ವಿನಂತಿಸಿಕೊಳ್ಳಲು ಜಾಹೀರಾತು ಮಾಪನವು ಸೈಟ್‌ಗಳಿಗೆ ಅನುಮತಿಸುತ್ತದೆ. ಸೈಟ್‌ಗಳ ನಡುವೆ ಸಾಧ್ಯವಾದಷ್ಟು ಕಡಿಮೆ ಮಾಹಿತಿಯನ್ನು ವರ್ಗಾಯಿಸುವ ಮೂಲಕ ಕ್ರಾಸ್-ಸೈಟ್ ಟ್ರ್ಯಾಕಿಂಗ್ ಅನ್ನು ಜಾಹೀರಾತು ಮಾಪನ ನಿರ್ಬಂಧಿಸುತ್ತದೆ.
 
 ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಇತಿಹಾಸವನ್ನು ನೀವು ಅಳಿಸಿದಾಗ — ಪೂರ್ತಿ ಅಥವಾ ನಿರ್ದಿಷ್ಟ ಸೈಟ್‌ಗೆ ಸಂಬಂಧಿಸಿದ ಇತಿಹಾಸ — ನೀವು ಅದಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಮಾಪನದ ಮಾಹಿತಿಯನ್ನೂ ಅಳಿಸುತ್ತೀರಿ. <ph name="BEGIN_LINK" />ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಇತಿಹಾಸವನ್ನು<ph name="END_LINK" /> ನೋಡಿ.</translation>
-<translation id="1332501820983677155">Google Egon ವೈಶಿಷ್ಟ್ಯ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು</translation>
+<translation id="1332501820983677155">Egon Browser ವೈಶಿಷ್ಟ್ಯ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು</translation>
 <translation id="1344653310988386453">ಹೈಲೈಟ್ ಮಾಡಲು ಲಿಂಕ್ ಅನ್ನು ಸೇರಿಸಿ</translation>
 <translation id="1347468774581902829">ಚಟುವಟಿಕೆಯನ್ನು ನಿರ್ವಹಿಸಿ</translation>
 <translation id="1360432990279830238">ಸೈನ್ ಔಟ್ ಮಾಡಿ, ಸಿಂಕ್ ಆಫ್ ಮಾಡುವುದೇ?</translation>
@@ -213,7 +213,7 @@
 <translation id="2122601567107267586">ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</translation>
 <translation id="2132122640199389833">ಲಿಂಕ್ ಮಾಡಿದ ಎಲ್ಲಾ ಸಾಧನಗಳನ್ನು ತೆಗೆದುಹಾಕಿ</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> ಮುಚ್ಚಲಾಗಿದೆ</translation>
-<translation id="2134927169889348449">Egon ಅನ್ನು ಬಳಸುವ ಮೂಲಕ, ನೀವು <ph name="BEGIN_TOS_LINK" />Google ಸೇವಾ ನಿಯಮಗಳು<ph name="END_TOS_LINK" />, ಹಾಗೂ <ph name="BEGIN_ATOS_LINK" />Google Egon ಮತ್ತು ChromeOS ಹೆಚ್ಚುವರಿ ಸೇವಾ ನಿಯಮಗಳಿಗೆ<ph name="END_ATOS_LINK" /> ಸಮ್ಮತಿಸುತ್ತೀರಿ.</translation>
+<translation id="2134927169889348449">Egon ಅನ್ನು ಬಳಸುವ ಮೂಲಕ, ನೀವು <ph name="BEGIN_TOS_LINK" />Google ಸೇವಾ ನಿಯಮಗಳು<ph name="END_TOS_LINK" />, ಹಾಗೂ <ph name="BEGIN_ATOS_LINK" />Egon Browser ಮತ್ತು ChromeOS ಹೆಚ್ಚುವರಿ ಸೇವಾ ನಿಯಮಗಳಿಗೆ<ph name="END_ATOS_LINK" /> ಸಮ್ಮತಿಸುತ್ತೀರಿ.</translation>
 <translation id="2139186145475833000">ಹೋಮ್ ಪರದೆಗೆ ಸೇರಿಸಿ</translation>
 <translation id="2141396931810938595">ನಿಮ್ಮ ಬಳಕೆಯನ್ನು ಆಧರಿಸಿ</translation>
 <translation id="214888715418183969">ನೀವು Egon ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಲು ಬಯಸುವುದನ್ನು ಆರಿಸಿ. ನೀವು ಹಂಚಿಕೊಳ್ಳುವ ಮೆಟ್ರಿಕ್‌ಗಳನ್ನು Egon ನ ವೈಶಿಷ್ಟ್ಯಗಳು, ಕಾರ್ಯಕ್ಷಮತೆ ಮತ್ತು ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ.</translation>
@@ -391,7 +391,7 @@
 <translation id="3062802207422175757">Egon ನಲ್ಲಿ ನಿಮ್ಮ ಆಸಕ್ತಿಗಳಿಗೆ ಅನುಗುಣವಾಗಿರುವ ಲೇಖನಗಳು</translation>
 <translation id="3066573403916685335">ಕೆಳಕ್ಕೆ ಸರಿಸಿ</translation>
 <translation id="3070005020161560471">ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುವಾದಿಸಿ</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" />, Egon ನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ. ಮುಂದುವರಿಯುವ ಮೂಲಕ, ನೀವು <ph name="BEGIN_LINK1" />Google ಸೇವಾ ನಿಯಮಗಳು<ph name="END_LINK1" />, ಹಾಗೂ <ph name="BEGIN_LINK2" />Google Egon ಮತ್ತು ChromeOS ಹೆಚ್ಚುವರಿ ಸೇವಾ ನಿಯಮಗಳಿಗೆ<ph name="END_LINK2" /> ಸಮ್ಮತಿಸುತ್ತೀರಿ. <ph name="BEGIN_LINK3" />ಗೌಪ್ಯತೆ ನೀತಿ<ph name="END_LINK3" /> ಸಹ ಅನ್ವಯಿಸುತ್ತದೆ.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" />, Egon ನಲ್ಲಿ ತೆರೆಯುತ್ತದೆ. ಮುಂದುವರಿಯುವ ಮೂಲಕ, ನೀವು <ph name="BEGIN_LINK1" />Google ಸೇವಾ ನಿಯಮಗಳು<ph name="END_LINK1" />, ಹಾಗೂ <ph name="BEGIN_LINK2" />Egon Browser ಮತ್ತು ChromeOS ಹೆಚ್ಚುವರಿ ಸೇವಾ ನಿಯಮಗಳಿಗೆ<ph name="END_LINK2" /> ಸಮ್ಮತಿಸುತ್ತೀರಿ. <ph name="BEGIN_LINK3" />ಗೌಪ್ಯತೆ ನೀತಿ<ph name="END_LINK3" /> ಸಹ ಅನ್ವಯಿಸುತ್ತದೆ.</translation>
 <translation id="3091010850649238832">ಕ್ಲಿಪ್‌ಬೋರ್ಡ್ ವಿಷಯಗಳನ್ನು ತೋರಿಸಿ</translation>
 <translation id="3098745985164956033">ನಿಮಗಾಗಿ ವಿವರಣೆಗಳನ್ನು ಸುಧಾರಿಸಲು, ಕೆಲವು ಚಿತ್ರಗಳನ್ನು Google ಗೆ ಕಳುಹಿಸಲಾಗಿದೆ</translation>
 <translation id="3114507951000454849">ಇಂದಿನ ಸುದ್ದಿಗಳನ್ನು ಓದಿ <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@
 <translation id="321773570071367578">ನಿಮ್ಮ ಪಾಸ್‍‍ಫ್ರೇಸ್‍‍ ಅನ್ನು ನೀವು ಮರೆತಿದ್ದರೆ ಅಥವಾ ಈ ಸೆಟ್ಟಿಂಗ್ ಬದಲಾಯಿಸಲು ಬಯಸಿದರೆ, <ph name="BEGIN_LINK" />ಸಿಂಕ್ ಮರುಹೊಂದಿಸಿ<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್‌ಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಲು, ಇದು ನೀವೇ ಎಂದು ದೃಢೀಕರಿಸಿ</translation>
 <translation id="3223522355830797639">ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಇದು ನೀವೇ ಎಂದು ದೃಢೀಕರಿಸಲು ಬಯಸುತ್ತದೆ.</translation>
-<translation id="3227557059438308877">ಭದ್ರತಾ ಕೀಲಿಯಾಗಿ Google Egon ಅನ್ನು ಬಳಸಿ</translation>
+<translation id="3227557059438308877">ಭದ್ರತಾ ಕೀಲಿಯಾಗಿ Egon Browser ಅನ್ನು ಬಳಸಿ</translation>
 <translation id="3232754137068452469">ವೆಬ್ ಅಪ್ಲಿಕೇಶನ್</translation>
 <translation id="3234978181857588512">ಸಾಧನದಲ್ಲಿ ಉಳಿಸಿ</translation>
 <translation id="3236059992281584593">1 ನಿಮಿಷ ಉಳಿದಿದೆ</translation>
@@ -596,7 +596,7 @@
 <translation id="4269820728363426813">ಲಿಂಕ್ ವಿಳಾಸವನ್ನು ನಕಲಿಸಿ</translation>
 <translation id="4283102315569707115">ಡೆಸ್ಕ್‌ಟಾಪ್ ಸೈಟ್‌ಗಳನ್ನು ಡೀಫಾಲ್ಟ್ ಆಗಿ ವಿನಂತಿಸಬೇಕೆ?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Android ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಸ್ಕ್ರೀನ್ ಲಾಕ್ ಆನ್ ಮಾಡಿ<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Egon ಅನ್ನು ಬಳಸುವ ಮೂಲಕ, ನೀವು <ph name="BEGIN_TOS_LINK" />Google ಸೇವಾ ನಿಯಮಗಳು<ph name="END_TOS_LINK" />, ಹಾಗೂ <ph name="BEGIN_ATOS_LINK" />Google Egon ಮತ್ತು ChromeOS ಹೆಚ್ಚುವರಿ ಸೇವಾ ನಿಯಮಗಳಿಗೆ<ph name="END_ATOS_LINK" /> ಸಮ್ಮತಿಸುತ್ತೀರಿ. <ph name="BEGIN_PRIVACY_LINK" />ಗೌಪ್ಯತೆ ನೀತಿ<ph name="END_PRIVACY_LINK" /> ಸಹ ಅನ್ವಯಿಸುತ್ತದೆ.</translation>
+<translation id="4293476595220860475">Egon ಅನ್ನು ಬಳಸುವ ಮೂಲಕ, ನೀವು <ph name="BEGIN_TOS_LINK" />Google ಸೇವಾ ನಿಯಮಗಳು<ph name="END_TOS_LINK" />, ಹಾಗೂ <ph name="BEGIN_ATOS_LINK" />Egon Browser ಮತ್ತು ChromeOS ಹೆಚ್ಚುವರಿ ಸೇವಾ ನಿಯಮಗಳಿಗೆ<ph name="END_ATOS_LINK" /> ಸಮ್ಮತಿಸುತ್ತೀರಿ. <ph name="BEGIN_PRIVACY_LINK" />ಗೌಪ್ಯತೆ ನೀತಿ<ph name="END_PRIVACY_LINK" /> ಸಹ ಅನ್ವಯಿಸುತ್ತದೆ.</translation>
 <translation id="4296252229500326964">ಹೊಸ ಅಜ್ಞಾತ ವಿಂಡೋ</translation>
 <translation id="4298388696830689168">ಲಿಂಕ್ ಮಾಡಿರುವ ಸೈಟ್‌ಗಳು</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1546,7 +1546,7 @@
 <translation id="9219582468404818260">ಉತ್ತಮ ವೆಬ್ ಅನ್ನು ನಿರ್ಮಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡಿ</translation>
 <translation id="92381315203627188">ತಮ್ಮ ಪುಟದಲ್ಲಿನ ಲಿಂಕ್‌ಗಳನ್ನು ಖಾಸಗಿಯಾಗಿ, ಮುಂಚಿತವಾಗಿ ಲೋಡ್ ಮಾಡಲು ಸೈಟ್ ವಿನಂತಿಸಿದಾಗ, ಕುಕೀಗಳನ್ನು ಬಳಸದೆ Google ಸರ್ವರ್‌ಗಳ ಮೂಲಕ Egon, ಪುಟಗಳನ್ನು ಎನ್‌ಕ್ರಿಪ್ಟ್ ಮಾಡುತ್ತದೆ ಮತ್ತು ಮುಂಚಿತವಾಗಿ ಲೋಡ್ ಮಾಡುತ್ತದೆ. ಮುಂಚಿತವಾಗಿ ಲೋಡ್ ಮಾಡಲಾದ ಸೈಟ್‌ನಿಂದ ಇದು ನಿಮ್ಮ ಗುರುತನ್ನು ಮರೆಮಾಡುತ್ತದೆ.</translation>
 <translation id="926205370408745186">ಡಿಜಿಟಲ್ ಯೋಗಕ್ಷೇಮದಿಂದ ನಿಮ್ಮ Egon ಚಟುವಟಿಕೆಯನ್ನು ತೆಗೆದುಹಾಕಿ</translation>
-<translation id="927968626442779827">Google Egon ನಲ್ಲಿ ಲೈಟ್ ಮೋಡ್ ಬಳಸಿ</translation>
+<translation id="927968626442779827">Egon Browser ನಲ್ಲಿ ಲೈಟ್ ಮೋಡ್ ಬಳಸಿ</translation>
 <translation id="928550791203542716"><ph name="SITE_NAME" /> ಅನ್ನು ಫಾಲೋ ಮಾಡಲಾಗುತ್ತಿದೆ</translation>
 <translation id="932327136139879170">ಹೋಮ್</translation>
 <translation id="938850635132480979">ದೋಷ: <ph name="ERROR_CODE" /></translation>

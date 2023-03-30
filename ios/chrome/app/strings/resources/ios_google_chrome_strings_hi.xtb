@@ -17,7 +17,7 @@
 <translation id="2056123005618757196">Egon के आसान, सुरक्षित, और अब तक के सबसे तेज़ वर्शन की मदद से, पहले से ज़्यादा काम करें.</translation>
 <translation id="2147651015520127414">Egon ने सत्‍यापित किया है कि वेबसाइट का यह प्रमाणपत्र <ph name="ISSUER" /> ने जारी किया है.</translation>
 <translation id="2199719347983604670">Egon सिंक का डेटा</translation>
-<translation id="2313070403598893276">Google Egon अब पहले से ज़्यादा आसान, सुरक्षित, और तेज़ है</translation>
+<translation id="2313070403598893276">Egon Browser अब पहले से ज़्यादा आसान, सुरक्षित, और तेज़ है</translation>
 <translation id="2339201583852607431">आपका पासवर्ड, आपके Google खाते (<ph name="EMAIL" />) में सेव किया जाएगा.</translation>
 <translation id="2342919707875585281">Egon उन साइटों के साथ आपकी जगह की जानकारी शेयर करता है जिन्हें आप अनुमति देते हैं.</translation>
 <translation id="2347208864470321755">जब यह सुविधा चालू होती है, तो Egon अन्य भाषा में लिखे पृष्ठों को Google अनुवाद का उपयोग करके अनुवाद करने के लिए ऑफ़र करेगा. <ph name="BEGIN_LINK" />और जानें<ph name="END_LINK" /></translation>
@@ -26,7 +26,7 @@
 <translation id="2561231791489583059">खतरनाक साइटों से सुरक्षा और अपने पासवर्ड सुरक्षित रखने के लिए, Egon को अपने डिफ़ॉल्ट ब्राउज़र के तौर पर इस्तेमाल करें</translation>
 <translation id="2574249610672786438">आप जिन डिवाइस पर Egon का इस्तेमाल करते हैं उन सभी पर खोले गए टैब देखने के लिए, अपने सभी डिवाइस पर साइन इन करें</translation>
 <translation id="2576431527583832481">Egon अब बेहतर हो गया है! एक नया वर्शन उपलब्ध है.</translation>
-<translation id="257708665678654955">क्या आप चाहते हैं कि Google Egon अगली बार इस साइट के <ph name="LANGUAGE_NAME" /> पेजों का अनुवाद करने का ऑफ़र दे?</translation>
+<translation id="257708665678654955">क्या आप चाहते हैं कि Egon Browser अगली बार इस साइट के <ph name="LANGUAGE_NAME" /> पेजों का अनुवाद करने का ऑफ़र दे?</translation>
 <translation id="2671426118752779020">Google पासवर्ड मैनेजर में सेव किए गए पासवर्ड का इस्तेमाल, iPhone में मौजूद दूसरे ऐप्लिकेशन के लिए किया जा सकता है.</translation>
 <translation id="2689064829982324496">सभी वेबसाइटों पर, अपने Google खाते से साइन आउट करने के लिए, <ph name="BEGIN_LINK" />Egon से साइन आउट करें<ph name="END_LINK" />.</translation>
 <translation id="2695886661449553974">Egon अपडेट की जांच नहीं कर सका. कुछ देर बाद कोशिश करें.</translation>
@@ -34,8 +34,8 @@
 <translation id="2869959624320573933">Egon में साइन इन करें</translation>
 <translation id="2957447865124070833"><ph name="BEGIN_BOLD" />Egon<ph name="END_BOLD" /> को चुनें</translation>
 <translation id="3030414234702425231">क्‍योंकि आप <ph name="SIGNOUT_MANAGED_DOMAIN" /> की ओर से प्रबंधित खाते से साइन आउट कर रहे हैं, इसलिए आपका Egon डेटा इस डिवाइस से मिट जाएगा. आपका डेटा आपके Google खाते में बना रहेगा.</translation>
-<translation id="3167189358072330585">आपका खाता Google Egon पर काम नहीं करता. कृपया साइन इन करने के लिए अपने डोमेन एडमिन से संपर्क करें या नियमित Google खाते का इस्तेमाल करें.</translation>
-<translation id="3173834708294760622">Google Egon पेज</translation>
+<translation id="3167189358072330585">आपका खाता Egon Browser पर काम नहीं करता. कृपया साइन इन करने के लिए अपने डोमेन एडमिन से संपर्क करें या नियमित Google खाते का इस्तेमाल करें.</translation>
+<translation id="3173834708294760622">Egon Browser पेज</translation>
 <translation id="3196546062792660320">Egon आपके खातों को वेब पर लाकर आपका समय बचाता है. आप सेटिंग में खाते जोड़ सकते हैं या उन्हें निकाल सकते हैं.</translation>
 <translation id="3282568296779691940">Egon में साइन इन करें</translation>
 <translation id="3345341804167540816">Egon का सभी जगह उपयोग करना</translation>
@@ -46,10 +46,10 @@
 <translation id="3655656110921623717">इसका मतलब है कि Egon हर बार, साइट के मोबाइल वर्शन का अनुरोध करेगा.</translation>
 <translation id="3706101708757577809">अब आप मैसेज, दस्तावेज़ों, और दूसरे ऐप्लिकेशन में मिले लिंक पर टैप करके, किसी भी समय Egon का इस्तेमाल कर सकते हैं.</translation>
 <translation id="3720541637541300822">Egon बंद करने पर अपने गुप्त टैब लॉक करें</translation>
-<translation id="384394811301901750">Google Egon इस समय आपके कैमरे का उपयोग नहीं कर सकता</translation>
+<translation id="384394811301901750">Egon Browser इस समय आपके कैमरे का उपयोग नहीं कर सकता</translation>
 <translation id="3980220367029651214">आप सिंक खातों को <ph name="USER_EMAIL1" /> से <ph name="USER_EMAIL2" /> में बदल रहे हैं. आपका मौजूदा Egon डेटा <ph name="DOMAIN" /> से प्रबंधित किया जाता है. इससे आपका डेटा इस सेवा से मिट जाएगा, लेकिन आपका डेटा <ph name="USER_EMAIL1" /> में बना रहेगा.</translation>
 <translation id="3984746313391923992">आपके संगठन के लिए यह ज़रूरी है कि आप Egon से साइन आउट रहें.</translation>
-<translation id="3988789688219830639">Google Egon के पास आपकी फ़ोटो या वीडियो का एक्सेस नहीं है. iOS सेटिंग &gt; निजता &gt; फ़ोटो में जाकर एक्सेस चालू करें.</translation>
+<translation id="3988789688219830639">Egon Browser के पास आपकी फ़ोटो या वीडियो का एक्सेस नहीं है. iOS सेटिंग &gt; निजता &gt; फ़ोटो में जाकर एक्सेस चालू करें.</translation>
 <translation id="417201473131094001">यह सुविधा Egon के कैनरी वर्शन पर काम नहीं करती</translation>
 <translation id="4192781968753717021">यह पासवर्ड, डेटा के गलत इस्तेमाल की वजह से लीक हो चुका है. Google Password Manager, आपके पासवर्ड को तुरंत बदलने का सुझाव देता है.</translation>
 <translation id="4233521129555661685"><ph name="USER_EMAIL1" /> से Egon का इस्तेमाल किया गया था और इसमें सेव किए गए बुकमार्क, पासवर्ड, और दूसरी सेटिंग को इस डिवाइस से नहीं हटाया गया.</translation>
@@ -66,11 +66,11 @@
 <translation id="5108659628347594808">Egon को बेहतर बनाएं</translation>
 <translation id="5119391094379141756">Egon चुनें</translation>
 <translation id="5162467219239570114">Egon का यह वर्शन पुराना हो गया है. अगर <ph name="BEGIN_LINK" />App Store<ph name="END_LINK" /> में कोई अपडेट उपलब्ध नहीं है, तो हो सकता है कि आपका डिवाइस अब Egon के नए वर्शन के साथ काम नहीं करता.</translation>
-<translation id="5389212809648216794">Google Egon आपके कैमरे का उपयोग नहीं कर सकता क्योंकि दूसरा ऐप्लिकेशन उसका उपयोग कर रहा है</translation>
+<translation id="5389212809648216794">Egon Browser आपके कैमरे का उपयोग नहीं कर सकता क्योंकि दूसरा ऐप्लिकेशन उसका उपयोग कर रहा है</translation>
 <translation id="5460571915754665838">4. Egon चुनें</translation>
 <translation id="5552137475244467770">Egon उन सूचियों में शामिल आपके पासवर्ड की समय-समय पर जांच करता है जिन्हें ऑनलाइन प्रकाशित किया गया है. ऐसा करते समय, आपके पासवर्ड और उपयोगकर्ता नाम सुरक्षित रहते हैं, इसलिए उन्हें कोई नहीं देख सकता, यहां तक कि Google भी नहीं.</translation>
-<translation id="5639704535586432836">सेटिंग &gt; निजता &gt; कैमरा &gt; Google Egon खोलें और कैमरा चालू करें.</translation>
-<translation id="5642200033778930880">Google Egon स्प्लिट व्यू मोड में आपके कैमरे का इस्तेमाल नहीं कर सकता</translation>
+<translation id="5639704535586432836">सेटिंग &gt; निजता &gt; कैमरा &gt; Egon Browser खोलें और कैमरा चालू करें.</translation>
+<translation id="5642200033778930880">Egon Browser स्प्लिट व्यू मोड में आपके कैमरे का इस्तेमाल नहीं कर सकता</translation>
 <translation id="5690427481109656848">Google LLC</translation>
 <translation id="571296537125272375">Egon अपडेट की जांच नहीं कर सका, क्योंकि आप ऑफ़लाइन हैं</translation>
 <translation id="5716154293141027663">जब भी आप अन्य ऐप्लिकेशन में लिंक पर क्लिक करें, तो उसे Egon में खोलें</translation>
@@ -94,15 +94,15 @@
 <translation id="701356708427365932">Egon के नए मेन्यू के बारे में जानें</translation>
 <translation id="7059914902409643750">Egon को पसंद के मुताबिक बनाएं</translation>
 <translation id="7124339256045485976">Egon को अप-टू-डेट रखें</translation>
-<translation id="7161390184744336561">Google Egon का यह वर्शन पुराना हो गया है</translation>
-<translation id="7165736900384873061">Google Egon QR स्कैनर उपयोग शुरू करें</translation>
+<translation id="7161390184744336561">Egon Browser का यह वर्शन पुराना हो गया है</translation>
+<translation id="7165736900384873061">Egon Browser QR स्कैनर उपयोग शुरू करें</translation>
 <translation id="7173660919484573146">आपके पासवर्ड का अधिकृत ऐक्सेस पक्का करने के लिए, Egon 'फ़ेस आईडी' यानी चेहरा पहचान का इस्तेमाल करता है.</translation>
 <translation id="7187993566681480880">अगर आप Egon में साइन इन हैं, तो यह सुविधा आपको सुरक्षित रखती है. साथ ही, अन्य Google ऐप्लिकेशन में इसका इस्तेमाल सुरक्षा को बेहतर बनाने में भी हो सकता है.</translation>
 <translation id="72119412072970160">Google पासवर्ड मैनेजर में सेव किए गए पासवर्ड का इस्तेमाल, iPad में मौजूद दूसरे ऐप्लिकेशन के लिए किया जा सकता है.</translation>
 <translation id="7261678641327190792">Egon आपके पासवर्ड की जांच नहीं कर सकता</translation>
 <translation id="7272930098487145294">इमेज को सेव करने के लिए, सेटिंग पर टैप करके Egon को आपके फ़ोटो सेक्शन में इमेज जोड़ने की अनुमति दें</translation>
 <translation id="7275945473750112644">आपके खाते को <ph name="HOSTED_DOMAIN" /> मैनेज करता है, इसलिए इस डिवाइस से आपका Egon डेटा मिटा दिया जाएगा</translation>
-<translation id="7400722733683201933">Google Egon के बारे में</translation>
+<translation id="7400722733683201933">Egon Browser के बारे में</translation>
 <translation id="7501046334262221972">Egon को अपने डिफ़ॉल्ट ब्राउज़र के तौर पर सेट करने के लिए, सेटिंग खोलें. डिफ़ॉल्ट ब्राउज़र ऐप्लिकेशन पर टैप करें और Egon चुनें.</translation>
 <translation id="756809126120519699">साफ़ किया गया Egon डेटा</translation>
 <translation id="7626032353295482388">Egon में आपका स्वागत है</translation>
@@ -111,7 +111,7 @@
 <translation id="7698568245838009292">Egon आपका कैमरा ऐक्सेस करना चाहता है</translation>
 <translation id="7754633291442704733">आपके संगठन <ph name="DOMAIN" /> के पास, आपके Egon डेटा, बुकमार्क, इतिहास, पासवर्ड, और इस खाते में स्टोर की जाने वाली अन्य सेटिंग का ऐक्सेस होगा. साइन आउट करने पर, आपका डेटा इस डिवाइस से मिटा दिया जाएगा.  हालांकि, आपका डेटा, मैनेज किए जा रहे आपके Google खाते में सेव रहेगा और आपके संगठन के लिए उपलब्ध रहेगा. आपका संगठन उस खाते के लिए खास उपयोगकर्ता नीतियां भी सेट कर सकता है. इन नीतियों से, Egon के काम करने के तरीके में बदलाव आ सकता है.</translation>
 <translation id="7780154209050837198">Egon का ज़्यादा से ज़्यादा फ़ायदा पाने के लिए, अपने Google खाते से Egon में साइन इन करें.</translation>
-<translation id="7855730255114109580">Google Egon अप टू डेट है</translation>
+<translation id="7855730255114109580">Egon Browser अप टू डेट है</translation>
 <translation id="8022947259858476807">लिंक खोलने के लिए, विजेट से खोजने के लिए, Egon को डिफ़ॉल्ट रूप से इस्तेमाल करें. ऐप्लिकेशन में पासवर्ड अपने-आप भर जाए, इसके लिए भी Egon को डिफ़ॉल्ट रूप से इस्तेमाल करें.</translation>
 <translation id="81358522153858150">Egon में, मैनेज किए जा रहे आपके खाते के लिए अब उपयोगकर्ता नीतियां लागू की जा सकती हैं</translation>
 <translation id="8160472928944011082">Egon को अपडेट नहीं किया जा सका</translation>
@@ -124,8 +124,8 @@
   1. Settings खोलें
   2. डिफ़ॉल्ट ब्राउज़र ऐप्लिकेशन पर टैप करें
   3. Egon चुनें.</translation>
-<translation id="8540666473246803645">Google Egon</translation>
-<translation id="8736550665979974340">Google Egon की मदद से सुरक्षित रहें</translation>
+<translation id="8540666473246803645">Egon Browser</translation>
+<translation id="8736550665979974340">Egon Browser की मदद से सुरक्षित रहें</translation>
 <translation id="8772179140489533211">Egon में साइन इन करने के निर्देश दिखाता है.</translation>
 <translation id="8788269841521769222">आपको यह पासवर्ड याद रखने की ज़रूरत नहीं पड़ेगी. इसे <ph name="EMAIL" /> के लिए, Google पासवर्ड मैनेजर में सेव किया जाएगा</translation>
 <translation id="8897749957032330183">इस डिवाइस पर पासवर्ड, Google Password Manager में सेव किए गए हैं.</translation>

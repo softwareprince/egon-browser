@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Settings-specific Google Egon strings (included from google_chrome_strings.grd). -->
+<!-- Settings-specific Egon Browser strings (included from google_chrome_strings.grd). -->
 <grit-part>
   <!-- Shared across multiple pages -->
   <if expr="not chromeos_ash">
@@ -94,16 +94,16 @@
   <!-- Default Browser Page -->
   <if expr="not chromeos_ash">
     <message name="IDS_SETTINGS_DEFAULT_BROWSER_DEFAULT" desc="The text displayed when Egon is not the default browser">
-      Google Egon is your default browser
+      Egon Browser is your default browser
     </message>
     <message name="IDS_SETTINGS_DEFAULT_BROWSER_MAKE_DEFAULT" desc="Default browser checkbox label">
-      Make Google Egon the default browser
+      Make Egon Browser the default browser
     </message>
     <message name="IDS_SETTINGS_DEFAULT_BROWSER_ERROR" desc="The text displayed when Egon cannot determine or set the default browser">
-      Google Egon cannot determine or set the default browser
+      Egon Browser cannot determine or set the default browser
     </message>
     <message name="IDS_SETTINGS_DEFAULT_BROWSER_SECONDARY" desc="The text displayed when Egon is installed in side-by-side mode, which does not support setting as the default browser.">
-      This is a secondary installation of Google Egon, and cannot be made your default browser.
+      This is a secondary installation of Egon Browser, and cannot be made your default browser.
     </message>
   </if>
 
@@ -270,7 +270,7 @@
 
   <!-- Sync Page -->
   <message name="IDS_SETTINGS_SYNC_DATA_ENCRYPTED_TEXT" desc="Text alerting the user that synced data is encrypted.">
-    For added security, Google Egon will encrypt your data
+    For added security, Egon Browser will encrypt your data
   </message>
   <message name="IDS_SETTINGS_SYNC_DISCONNECT_TITLE" desc="The title of the dialog to stop syncing and sign out.">
     Sign out of Egon?
@@ -301,17 +301,17 @@
   <!-- Languages Page -->
   <if expr="is_win">
     <message name="IDS_SETTINGS_LANGUAGES_IS_DISPLAYED_IN_THIS_LANGUAGE" desc="The label for a language that is currently used as the UI display language.">
-      This language is used to display the Google Egon UI
+      This language is used to display the Egon Browser UI
     </message>
     <message name="IDS_SETTINGS_LANGUAGES_DISPLAY_IN_THIS_LANGUAGE" desc="The label used for a button that changes the UI language.">
-      Display Google Egon in this language
+      Display Egon Browser in this language
     </message>
   </if>
 
   <!-- System Page -->
   <if expr="not chromeos_ash">
     <message name="IDS_SETTINGS_SYSTEM_BACKGROUND_APPS_LABEL" desc="Label for the checkbox to allow apps to run in the background, when Egon is closed.">
-      Continue running background apps when Google Egon is closed
+      Continue running background apps when Egon Browser is closed
     </message>
   </if>
 

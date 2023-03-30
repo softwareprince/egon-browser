@@ -1202,7 +1202,7 @@ Anda dapat mengelola setelan akun ini dengan menginstal aplikasi Family Link di 
 <translation id="2088092308059522196">Pendaftaran hanya didukung setelah Anda menginstal <ph name="DEVICE_OS" />.</translation>
 <translation id="2089090684895656482">Lebih Sedikit</translation>
 <translation id="208928984520943006">Untuk membuka Layar utama kapan saja, geser ke atas dari bagian bawah.</translation>
-<translation id="2089566709556890888">Akses dengan aman menggunakan Google Egon</translation>
+<translation id="2089566709556890888">Akses dengan aman menggunakan Egon Browser</translation>
 <translation id="2089795179672254991">Tanyakan saat situs ingin melihat teks dan gambar yang disalin ke papan klip (direkomendasikan)</translation>
 <translation id="2089925163047119068">ATAU</translation>
 <translation id="2090165459409185032">Untuk memulihkan informasi akun Anda, buka: google.com/accounts/recovery</translation>
@@ -1614,7 +1614,7 @@ Anda dapat mengelola setelan akun ini dengan menginstal aplikasi Family Link di 
 <translation id="2434449159125086437">Tidak dapat menyiapkan printer. Harap periksa konfigurasi dan coba lagi.</translation>
 <translation id="2434758125294431199">Pilih siapa yang dapat berbagi dengan Anda</translation>
 <translation id="2434915728183570229">Anda kini dapat melihat aplikasi ponsel Anda</translation>
-<translation id="2435137177546457207">Persyaratan Tambahan Google Egon dan ChromeOS Flex</translation>
+<translation id="2435137177546457207">Persyaratan Tambahan Egon Browser dan ChromeOS Flex</translation>
 <translation id="2435248616906486374">Jaringan terputus</translation>
 <translation id="2435457462613246316">Tampilkan sandi</translation>
 <translation id="2439626940657133600">Memuat <ph name="WINDOW_TITLE" /></translation>
@@ -3067,7 +3067,7 @@ Anda dapat mengelola setelan akun ini dengan menginstal aplikasi Family Link di 
 <translation id="3798632811625902122">Perangkat Bluetooth <ph name="DEVICE" /> meminta izin untuk tersambung.</translation>
 <translation id="3799128412641261490">Setelan tombol akses</translation>
 <translation id="3800806661949714323">Tampilkan semua (disarankan)</translation>
-<translation id="3800828618615365228">Persyaratan Tambahan Google Egon dan ChromeOS</translation>
+<translation id="3800828618615365228">Persyaratan Tambahan Egon Browser dan ChromeOS</translation>
 <translation id="3802486193901166966">Ekstensi ini tidak memerlukan izin khusus dan tidak memiliki akses situs tambahan</translation>
 <translation id="380329542618494757">Nama</translation>
 <translation id="3803345858388753269">Kualitas Video</translation>
@@ -3083,7 +3083,7 @@ Anda dapat mengelola setelan akun ini dengan menginstal aplikasi Family Link di 
 <translation id="3810973564298564668">Kelola</translation>
 <translation id="381202950560906753">Tambahkan lainnya</translation>
 <translation id="3812525830114410218">Sertifikat buruk</translation>
-<translation id="3813296892522778813">Buka <ph name="BEGIN_LINK_CHROMIUM" />bantuan Google Egon<ph name="END_LINK_CHROMIUM" /> jika tidak dapat menemukan yang Anda cari</translation>
+<translation id="3813296892522778813">Buka <ph name="BEGIN_LINK_CHROMIUM" />bantuan Egon Browser<ph name="END_LINK_CHROMIUM" /> jika tidak dapat menemukan yang Anda cari</translation>
 <translation id="3813358687923336574">Bahasa yang digunakan untuk menerjemahkan halaman dan Jawaban Instan</translation>
 <translation id="3814529970604306954">Akun Sekolah</translation>
 <translation id="3816118180265633665">Warna Egon</translation>
@@ -3439,7 +3439,7 @@ Anda dapat mengelola setelan akun ini dengan menginstal aplikasi Family Link di 
 <translation id="4132364317545104286">Ganti nama profil eSIM</translation>
 <translation id="4133076602192971179">Buka aplikasi untuk mengubah sandi</translation>
 <translation id="4134818201340504801">Penyimpanan yang tersedia tidak cukup untuk menyelesaikan penyiapan. Kosongkan penyimpanan lalu coba lagi</translation>
-<translation id="4135746311382563554">Persyaratan layanan tambahan Google Egon dan Egon OS</translation>
+<translation id="4135746311382563554">Persyaratan layanan tambahan Egon Browser dan Egon OS</translation>
 <translation id="4136203100490971508">Fitur Cahaya Malam akan otomatis dinonaktifkan saat matahari terbit</translation>
 <translation id="41365691917097717">Dengan melanjutkan, proses debug ADB akan diaktifkan untuk membuat dan menguji aplikasi Android. Perhatikan bahwa tindakan ini dapat menginstal aplikasi Android yang belum diverifikasi oleh Google, dan perlu reset ke setelan pabrik untuk menonaktifkannya.</translation>
 <translation id="4138267921960073861">Tampilkan nama pengguna dan foto pada layar masuk</translation>
@@ -3859,7 +3859,7 @@ Anda dapat mengelola setelan akun ini dengan menginstal aplikasi Family Link di 
 <translation id="4544174279960331769">Avatar biru default</translation>
 <translation id="4545028762441890696">Untuk mengaktifkannya kembali, setujui izin baru:</translation>
 <translation id="4545759655004063573">Tidak dapat menyimpan karena izin tidak memadai. Simpan ke lokasi lain.</translation>
-<translation id="4546308221697447294">Akses dengan cepat menggunakan Google Egon</translation>
+<translation id="4546308221697447294">Akses dengan cepat menggunakan Egon Browser</translation>
 <translation id="4546345569117159016">Tombol kanan</translation>
 <translation id="4546692474302123343">Masukan suara Asisten Google</translation>
 <translation id="4547659257713117923">Tidak Ada Tab dari Perangkat Lainnya</translation>
@@ -5918,7 +5918,7 @@ Anda dapat menetapkan beberapa tombol akses untuk tindakan ini.</translation>
 <translation id="6509207748479174212">Lisensi Media</translation>
 <translation id="6511827214781912955">Sebaiknya hapus <ph name="FILENAME" />, agar orang lain yang menggunakan perangkat ini tidak dapat melihat sandi Anda</translation>
 <translation id="6512808201725371249">Sandi untuk akun ini sudah disimpan ke Pengelola Sandi Google Anda (<ph name="USER_EMAIL" />)</translation>
-<translation id="6513247462497316522">Google Egon akan menggunakan data seluler jika Anda tidak terhubung ke jaringan lain.</translation>
+<translation id="6513247462497316522">Egon Browser akan menggunakan data seluler jika Anda tidak terhubung ke jaringan lain.</translation>
 <translation id="6514010653036109809">Perangkat yang tersedia:</translation>
 <translation id="6514565641373682518">Halaman ini telah menonaktifkan kursor mouse Anda.</translation>
 <translation id="6517709704288360414">Perangkat Anda mungkin tidak lagi berfungsi dengan baik, dan Anda mungkin mengalami masalah keamanan dan performa. Menonaktifkan update juga dapat memengaruhi hak Anda untuk mengajukan klaim hukum jika Anda mengalami masalah apa pun.</translation>
@@ -8103,7 +8103,7 @@ Simpan file kunci Anda di tempat yang aman. Anda akan membutuhkannya untuk membu
 <translation id="8554899698005018844">Tidak ada bahasa</translation>
 <translation id="855604308879080518">Mengizinkan aplikasi Android mengakses perangkat USB di Chromebook ini. Anda akan dimintai izin setiap kali mencolokkan perangkat USB. Setiap aplikasi Android akan meminta izin tambahan.</translation>
 <translation id="8557022314818157177">Terus sentuh kunci keamanan Anda hingga sidik jari terekam</translation>
-<translation id="8557180006508471423">Aktifkan "Google Egon" di Layanan Lokasi pada Mac</translation>
+<translation id="8557180006508471423">Aktifkan "Egon Browser" di Layanan Lokasi pada Mac</translation>
 <translation id="8557856025359704738">Download berikutnya pada <ph name="NEXT_DATE_DOWNLOAD" />.</translation>
 <translation id="8559858985063901027">Kunci sandi</translation>
 <translation id="8560327176991673955">{COUNT,plural, =0{Buka Semua di &amp;Jendela Baru}=1{Buka di &amp;Jendela Baru}other{Buka Semua ({COUNT}) di &amp;Jendela Baru}}</translation>

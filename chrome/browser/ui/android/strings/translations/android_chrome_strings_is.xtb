@@ -29,7 +29,7 @@
 <translation id="1145536944570833626">Eyða fyrirliggjandi gögnum.</translation>
 <translation id="1146678959555564648">Hefja sýndarveruleika</translation>
 <translation id="1149401351239820326">Fyrningarmánuður</translation>
-<translation id="1150263420752757504"><ph name="APP_NAME" /> opnast í Egon. Með því að halda áfram samþykkirðu <ph name="BEGIN_LINK1" />þjónustuskilmála Google<ph name="END_LINK1" /> og <ph name="BEGIN_LINK2" />viðbótarþjónustuskilmála Google Egon og ChromeOS<ph name="END_LINK2" />.</translation>
+<translation id="1150263420752757504"><ph name="APP_NAME" /> opnast í Egon. Með því að halda áfram samþykkirðu <ph name="BEGIN_LINK1" />þjónustuskilmála Google<ph name="END_LINK1" /> og <ph name="BEGIN_LINK2" />viðbótarþjónustuskilmála Egon Browser og ChromeOS<ph name="END_LINK2" />.</translation>
 <translation id="1154704303112745282">Síða ekki í boði án nettengingar: <ph name="VIOLATED_URL" /></translation>
 <translation id="1171770572613082465">Sjáðu vinsæl vefsvæði með því að ýta á hnappinn „Vinsælast“</translation>
 <translation id="1173894706177603556">Endurnefna</translation>
@@ -74,7 +74,7 @@
 <translation id="1332100670807501334">Auglýsingamælingar gera vefsvæðum sem þú opnar kleift að biðja Egon um upplýsingar sem hjálpa vefsvæðinu að mæla afköst auglýsinga þess. Auglýsingamælingar takmarka rakningu á milli vefsvæða með því að flytja eins lítið magn upplýsinga á milli vefsvæða og mögulegt er.
 
 Þegar þú eyðir vafraferlinum — í heild sinni eða fyrir tiltekið vefsvæði — er tengdum mæligögnum einnig eytt. Skoða <ph name="BEGIN_LINK" />vafraferil<ph name="END_LINK" />.</translation>
-<translation id="1332501820983677155">Flýtilyklar eiginleika Google Egon</translation>
+<translation id="1332501820983677155">Flýtilyklar eiginleika Egon Browser</translation>
 <translation id="1344653310988386453">Taka með tengil í merktan texta</translation>
 <translation id="1347468774581902829">Stjórna virkni</translation>
 <translation id="1360432990279830238">Skrá út og slökkva á samstillingu?</translation>
@@ -213,7 +213,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="2122601567107267586">Ekki var hægt að opna forritið</translation>
 <translation id="2132122640199389833">Fjarlægja öll tengd tæki</translation>
 <translation id="213279576345780926"><ph name="TAB_TITLE" /> lokað</translation>
-<translation id="2134927169889348449">Með því að nota Egon samþykkir þú <ph name="BEGIN_TOS_LINK" />þjónustuskilmála Google<ph name="END_TOS_LINK" />og <ph name="BEGIN_ATOS_LINK" />viðbótarskilmála Google Egon og ChromeOS<ph name="END_ATOS_LINK" />.</translation>
+<translation id="2134927169889348449">Með því að nota Egon samþykkir þú <ph name="BEGIN_TOS_LINK" />þjónustuskilmála Google<ph name="END_TOS_LINK" />og <ph name="BEGIN_ATOS_LINK" />viðbótarskilmála Egon Browser og ChromeOS<ph name="END_ATOS_LINK" />.</translation>
 <translation id="2139186145475833000">Setja á heimaskjá</translation>
 <translation id="2141396931810938595">Miðað við notkun þína</translation>
 <translation id="214888715418183969">Veldu hverju þú vilt deila með Egon. Mæligildin sem þú deilir verða notuð til að bæta eiginleika, afköst og stöðugleika Egon.</translation>
@@ -391,7 +391,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="3062802207422175757">Greinar sem tengjast áhugamálum þínum í Egon</translation>
 <translation id="3066573403916685335">Færa niður</translation>
 <translation id="3070005020161560471">Þýða sjálfkrafa</translation>
-<translation id="3072980200212375806"><ph name="APP_NAME" /> opnast í Egon. Með því að halda áfram samþykkirðu <ph name="BEGIN_LINK1" />þjónustuskilmála Google<ph name="END_LINK1" /> og <ph name="BEGIN_LINK2" />viðbótarþjónustuskilmála Google Egon og ChromeOS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Persónuverndarstefnan<ph name="END_LINK3" /> gildir einnig.</translation>
+<translation id="3072980200212375806"><ph name="APP_NAME" /> opnast í Egon. Með því að halda áfram samþykkirðu <ph name="BEGIN_LINK1" />þjónustuskilmála Google<ph name="END_LINK1" /> og <ph name="BEGIN_LINK2" />viðbótarþjónustuskilmála Egon Browser og ChromeOS<ph name="END_LINK2" />. <ph name="BEGIN_LINK3" />Persónuverndarstefnan<ph name="END_LINK3" /> gildir einnig.</translation>
 <translation id="3091010850649238832">Sýna innihald klippiborðs</translation>
 <translation id="3098745985164956033">Sumar myndir eru sendar til Google til að bæta lýsingar</translation>
 <translation id="3114507951000454849">Lestu fréttir dagsins <ph name="NEWS_ICON" /></translation>
@@ -411,7 +411,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="321773570071367578">Ef þú hefur gleymt aðgangsorðinu eða þig langar að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla samstillingu<ph name="END_LINK" /></translation>
 <translation id="3220943972464248773">Staðfestu að þetta sért þú til að samstilla aðgangsorðin þín</translation>
 <translation id="3223522355830797639">Bankinn vill staðfesta að þetta sért þú.</translation>
-<translation id="3227557059438308877">Google Egon sem öryggislykill</translation>
+<translation id="3227557059438308877">Egon Browser sem öryggislykill</translation>
 <translation id="3232754137068452469">Vefforrit</translation>
 <translation id="3234978181857588512">Vista í tæki</translation>
 <translation id="3236059992281584593">Ein mín. eftir</translation>
@@ -562,7 +562,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="409109920254068737">Þú getur notað þessa spjaldtölvu til að skrá þig inn í tækinu sem birtir þennan QR-kóða.</translation>
 <translation id="4095146165863963773">Eyða forritsgögnum?</translation>
 <translation id="4096227151372679484">Vistun bókamerkja opnuð á hálfum skjánum</translation>
-<translation id="4099578267706723511">Hjálpaðu til við að bæta Google Egon með því að senda talnagögn um notkun og tilkynningar um hrun til Google.</translation>
+<translation id="4099578267706723511">Hjálpaðu til við að bæta Egon Browser með því að senda talnagögn um notkun og tilkynningar um hrun til Google.</translation>
 <translation id="4101475238162928417">Samstilltu til að fá aðgangsorðin þín, bókamerkin og fleira í hinum tækjunum þínum</translation>
 <translation id="410351446219883937">Sjálfvirk spilun</translation>
 <translation id="4106587138345390261">Egon er að kanna nýja eiginleika sem gera vefsvæðum kleift að skila sömu vafraupplifun án þess að nota jafn mikið af upplýsingum frá þér</translation>
@@ -596,7 +596,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="4269820728363426813">Afrita slóð tengils</translation>
 <translation id="4283102315569707115">Biðja sjálfgefið um tölvuvefi?</translation>
 <translation id="4291407919474070700"><ph name="BEGIN_LINK" />Kveiktu á skjálás í stillingum Android<ph name="END_LINK" /></translation>
-<translation id="4293476595220860475">Með því að nota Egon samþykkir þú <ph name="BEGIN_TOS_LINK" />þjónustuskilmála Google<ph name="END_TOS_LINK" />og <ph name="BEGIN_ATOS_LINK" />viðbótarskilmála Google Egon og ChromeOS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Persónuverndarstefnan<ph name="END_PRIVACY_LINK" /> gildir einnig.</translation>
+<translation id="4293476595220860475">Með því að nota Egon samþykkir þú <ph name="BEGIN_TOS_LINK" />þjónustuskilmála Google<ph name="END_TOS_LINK" />og <ph name="BEGIN_ATOS_LINK" />viðbótarskilmála Egon Browser og ChromeOS<ph name="END_ATOS_LINK" />. <ph name="BEGIN_PRIVACY_LINK" />Persónuverndarstefnan<ph name="END_PRIVACY_LINK" /> gildir einnig.</translation>
 <translation id="4296252229500326964">Nýr huliðsflipi</translation>
 <translation id="4298388696830689168">Tengd vefsvæði</translation>
 <translation id="4303044213806199882">chrome_screenshot_<ph name="CURRENT_TIMESTAMP_MS" /></translation>
@@ -1076,7 +1076,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="6767294960381293877">Tækjalisti fyrir deilingu flipa opinn á hálfum skjánum.</translation>
 <translation id="6770042910635026163">Vefsvæði sem þú heimsækir sem skilgreina áhugasvið þitt</translation>
 <translation id="6770602306803890733">Eykur öryggi þitt og allra á vefnum</translation>
-<translation id="6785476624617658922">Viðbótarskilmálar Google Egon og ChromeOS</translation>
+<translation id="6785476624617658922">Viðbótarskilmálar Egon Browser og ChromeOS</translation>
 <translation id="6795633245022906657">Opna nýjan flipa hratt. Opnaðu stillingar til að breyta þessari flýtileið.</translation>
 <translation id="6802555630140434547">Glugganum verður lokað</translation>
 <translation id="6811034713472274749">Hægt er að skoða síðuna</translation>
@@ -1547,7 +1547,7 @@ Traustir lyklar bæta persónuvernd á netinu og ekki er hægt að nota þá til
 <translation id="9219582468404818260">Hjálpaðu okkur að skapa betri vef</translation>
 <translation id="92381315203627188">Þegar vefsvæði biður um að forhlaða tenglum á lokaðan hátt, dulkóðar Egon og forhleður síðum í gegnum þjóna Google án fótspora. Þetta kemur í veg fyrir að forhlaðna vefsvæðið geti auðkennt þig.</translation>
 <translation id="926205370408745186">Fjarlægja það sem þú gerir í Egon úr stafrænni vellíðan</translation>
-<translation id="927968626442779827">Nota Léttútgáfu í Google Egon</translation>
+<translation id="927968626442779827">Nota Léttútgáfu í Egon Browser</translation>
 <translation id="928550791203542716">Fylgist með <ph name="SITE_NAME" /></translation>
 <translation id="932327136139879170">Heim</translation>
 <translation id="938850635132480979">Villa: <ph name="ERROR_CODE" /></translation>
