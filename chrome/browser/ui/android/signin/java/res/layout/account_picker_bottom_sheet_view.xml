@@ -25,7 +25,19 @@ found in the LICENSE file.
             android:layout_marginBottom="12dp"
             android:importantForAccessibility="no"
             app:srcCompat="@drawable/drag_handlebar" />
-
+<Button
+      
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_gravity="end"
+      android:layout_marginTop="12dp"
+      android:layout_marginEnd="16dp"
+     
+      
+      android:paddingStart="16dp"
+      android:paddingEnd="16dp"
+      android:text="account_picker_bottom_sheet_view"
+      />
         <ViewFlipper
             android:id="@+id/account_picker_state_view_flipper"
             android:layout_width="match_parent"

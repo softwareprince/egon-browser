@@ -11,9 +11,9 @@ found in the LICENSE file.
     style="@style/FilledButton.Flat"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginStart="24dp"
+    android:layout_marginStart="24dp"                                                                                                           
     android:layout_marginEnd="24dp"
     android:layout_marginTop="8dp"
     android:ellipsize="end"
     android:singleLine="true"
-    android:text="@string/sync_promo_continue_as" />
+    android:text="@string/sync_promo_continue_as" /> 

@@ -1786,7 +1786,7 @@ Your Google account may have other forms of browsing history like searches and a
 
       <!-- About Egon preferences -->
       <message name="IDS_PREFS_ABOUT_CHROME" desc="Title for the About Egon page. [CHAR_LIMIT=32]">
-        About Egon
+        About Egon Browser
       </message>
       <message name="IDS_LEGAL_INFORMATION_SUMMARY" desc="Summary for legal information" meaning="Android">
         Copyright <ph name="year">%1$d<ex>2014</ex></ph> Google LLC. All rights reserved.
@@ -1895,13 +1895,13 @@ Your Google account may have other forms of browsing history like searches and a
         chrome://credits
       </message>
       <message name="IDS_GOOGLE_TERMS_OF_SERVICE_TITLE" desc="Title for Google terms of service">
-        Google Terms of Service
+        Egon Terms of Service
       </message>
       <message name="IDS_GOOGLE_TERMS_OF_SERVICE_URL" desc="URL for Google terms of service" translateable="false">
-        https://policies.google.com/terms/embedded
+        https://egonbrowser.com/terms
       </message>
       <message name="IDS_GOOGLE_TERMS_OF_SERVICE_DARK_MODE_URL" desc="URL for Google terms of service for dark mode" translateable="false">
-        https://policies.google.com/terms/embedded?color_scheme=dark
+        https://egonbrowser.com/terms/embedded?color_scheme=dark
       </message>
       <message name="IDS_CHROME_ADDITIONAL_TERMS_OF_SERVICE_TITLE" desc="Title for Egon and ChromeOS addtional terms of service">
         Egon &amp; ChromeOS Additional Terms of Service
@@ -1910,10 +1910,10 @@ Your Google account may have other forms of browsing history like searches and a
         https://www.google.com/chrome/terms/
       </message>
       <message name="IDS_PRIVACY_POLICY_TITLE" desc="Title for the Google privacy policy">
-        Google Privacy Policy
+        Egon Privacy Policy
       </message>
       <message name="IDS_GOOGLE_PRIVACY_POLICY_URL" desc="URL for the Google privacy policy" translateable="false">
-        https://policies.google.com/privacy
+        https://egonbrowser.com/privacy
       </message>
 
       <!-- Sign-in strings -->

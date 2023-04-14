@@ -22,7 +22,19 @@ found in the LICENSE file.
         android:layout_height="@dimen/webapp_splash_offset"
         android:layout_centerInParent="true"
         tools:ignore="ContentDescription" />
-
+<Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        
+        android:drawablePadding="8dp"
+        android:gravity="center"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:text="no icon"
+        android:textSize="16sp"
+        />
     <TextView
         android:id="@+id/webapp_splash_screen_name"
         android:layout_width="wrap_content"
