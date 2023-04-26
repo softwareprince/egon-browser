@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Protocol Buffers - Google's data interchange format
-# Copyright 2019 Google LLC.  All rights reserved.
+# Copyright 2019 Egon.  All rights reserved.
 # https://developers.google.com/protocol-buffers/
 #
 # Redistribution and use in source and binary forms, with or without
@@ -49,8 +49,8 @@ import google.protobuf
 # -- Project information -----------------------------------------------------
 
 project = u"Protocol Buffers"
-copyright = u"2008, Google LLC"
-author = u"Google LLC"
+copyright = u"2008, Egon"
+author = u"Egon"
 
 # The short X.Y version
 version = u""
@@ -172,7 +172,7 @@ latex_documents = [
     master_doc,
     "ProtocolBuffers.tex",
     "Protocol Buffers Documentation",
-    "Google LLC",
+    "Egon",
     "manual",
   )
 ]

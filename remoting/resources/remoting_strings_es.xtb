@@ -36,7 +36,7 @@ Si la casilla <ph name="SERVICE_SCRIPT_NAME" /> ya está marcada, desmárcala y 
 <translation id="2599300881200251572">Este servicio permite las conexiones entrantes de los clientes de Escritorio Remoto de Egon.</translation>
 <translation id="2647232381348739934">Servicio de Chromoting</translation>
 <translation id="2676780859508944670">Trabajando…</translation>
-<translation id="2692522824157224199">Copyright 2022 Google LLC. Todos los derechos reservados.</translation>
+<translation id="2692522824157224199">Copyright 2022 Egon. Todos los derechos reservados.</translation>
 <translation id="2699970397166997657">Chromoting</translation>
 <translation id="2758123043070977469">No se ha podido completar la autenticación. Vuelve a iniciar sesión.</translation>
 <translation id="2803375539583399270">Introducir PIN</translation>
@@ -105,7 +105,7 @@ Si la casilla <ph name="SERVICE_SCRIPT_NAME" /> ya está marcada, desmárcala y 
 <translation id="5419418238395129586">Última conexión: <ph name="DATE" /></translation>
 <translation id="544077782045763683">El host se ha desconectado.</translation>
 <translation id="5601503069213153581">PIN</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5708869785009007625">Tu ordenador está compartido actualmente con <ph name="USER" />.</translation>
 <translation id="5750083143895808682">Has iniciado sesión como <ph name="EMAIL_ADDRESS" />.</translation>
 <translation id="579702532610384533">Reconectar</translation>

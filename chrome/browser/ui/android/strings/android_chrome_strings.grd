@@ -1789,7 +1789,7 @@ Your Google account may have other forms of browsing history like searches and a
         About Egon Browser
       </message>
       <message name="IDS_LEGAL_INFORMATION_SUMMARY" desc="Summary for legal information" meaning="Android">
-        Copyright <ph name="year">%1$d<ex>2014</ex></ph> Google LLC. All rights reserved.
+        Copyright <ph name="year">%1$d<ex>2014</ex></ph> Egon. All rights reserved.
       </message>
       <message name="IDS_APPLICATION_VERSION_TITLE" desc="Title for application version">
         Application version
@@ -3165,13 +3165,14 @@ To change this setting, <ph name="BEGIN_LINK">&lt;resetlink&gt;</ph>reset sync<p
         Turn on
       </message>
       <message name="IDS_NTP_DISCOVER_ON" desc="Title in the feed header when the feed is turned on. Please use the branded term for Discover, as listed under Product Names in the Google Glossary Manager (TC ID 1799975766543019278).">
-        Discover
+        Earnings - Comming Soon
       </message>
       <message name="IDS_NTP_DISCOVER_ON_BRANDED" desc="Title in the feed header when the feed is turned on and the default search engine is not Google. Please use the branded term for Discover, as listed under Product Names in the Google Glossary Manager (TC ID 1799975766543019278).">
         Discover by Google
       </message>
+    
       <message name="IDS_NTP_DISCOVER_OFF" desc="Title in the feed header when the feed is turned off. Please use the branded term for Discover, as listed under Product Names in the Google Glossary Manager (TC ID 1799975766543019278).">
-        Discover - off
+        Earnings - Comming Soon
       </message>
       <message name="IDS_NTP_DISCOVER_OFF_BRANDED" desc="Title in the feed header when the feed is turned off and the default search engine is not Google. Please use the branded term for Discover, as listed under Product Names in the Google Glossary Manager (TC ID 1799975766543019278).">
         Discover by Google - off
@@ -4283,10 +4284,10 @@ To change this setting, <ph name="BEGIN_LINK">&lt;resetlink&gt;</ph>reset sync<p
 
       <!-- WebAPK/TWA related strings -->
       <message name="IDS_TWA_RUNNING_IN_CHROME" desc="Message on a snackbar indicating that the current Activity may use Egon data (the rest of the app may not be).">
-        Running in Egon
+        Running in Egon Browser
       </message>
       <message name="IDS_TWA_RUNNING_IN_CHROME_TEMPLATE" desc="Message template that used to indicating that the current Activity may use Egon data (the rest of the app may not be). [CHAR_LIMIT=32]">
-        Running in <ph name="APP_NAME">%1$s<ex>Egon</ex></ph>
+        Running in Egon Browser
       </message>
       <message name="IDS_TWA_RUNNING_IN_CHROME_V2" desc="Updated message on a snackbar indicating that the current Activity may use Egon data (the rest of the app may not be).">
         You'll see your <ph name="SITE_NAME">%1$s<ex>www.youtube.com</ex></ph> sign-in status, browsing data, and site data in Egon

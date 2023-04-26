@@ -871,7 +871,7 @@ For å endre denne innstillingen, <ph name="BEGIN_LINK" />tilbakestill synkronis
 <translation id="5793665092639000975">Bruker <ph name="SPACE_USED" /> av <ph name="SPACE_AVAILABLE" /></translation>
 <translation id="5795872532621730126">Søk etter og bla gjennom</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{for # time siden}other{for # timer siden}}</translation>
-<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Google LLC. Med enerett.</translation>
+<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Egon. Med enerett.</translation>
 <translation id="5810864297166300463">Netthjelp</translation>
 <translation id="5813552293717797987">Denne nettleseren administreres av <ph name="PARENT_NAME_1" /> og <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Skriv her eller trykk på taleikonet for å begynne</translation>

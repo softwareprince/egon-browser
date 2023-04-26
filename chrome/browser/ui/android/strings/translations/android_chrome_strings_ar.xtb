@@ -872,7 +872,7 @@
 <translation id="5793665092639000975">يتم استخدام <ph name="SPACE_USED" /> من أصل <ph name="SPACE_AVAILABLE" /></translation>
 <translation id="5795872532621730126">البحث والتصفُّح</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{قبل ساعة واحدة (#)}zero{قبل # ساعة}two{قبل ساعتين (#)}few{قبل # ساعات}many{قبل # ساعة}other{قبل # ساعة}}</translation>
-<translation id="5810288467834065221">‏حقوق الطبع والنشر لعام <ph name="YEAR" /> لشركة Google LLC. جميع الحقوق محفوظة.</translation>
+<translation id="5810288467834065221">‏حقوق الطبع والنشر لعام <ph name="YEAR" /> لشركة Egon. جميع الحقوق محفوظة.</translation>
 <translation id="5810864297166300463">المساعدة على الويب</translation>
 <translation id="5813552293717797987">تتم إدارة هذا المتصفِّح من خلال <ph name="PARENT_NAME_1" /> و<ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">يمكنك الكتابة هنا أو النقر على رمز الصوت للبدء.</translation>

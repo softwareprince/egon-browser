@@ -871,7 +871,7 @@ Pour modifier ce paramètre, <ph name="BEGIN_LINK" />réinitialisez la synchroni
 <translation id="5793665092639000975"><ph name="SPACE_USED" /> sur <ph name="SPACE_AVAILABLE" /> utilisés</translation>
 <translation id="5795872532621730126">Rechercher et parcourir</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{Il y a # heure}one{Il y a # heure}other{Il y a # heures}}</translation>
-<translation id="5810288467834065221">© <ph name="YEAR" /> Google LLC. Tous droits réservés.</translation>
+<translation id="5810288467834065221">© <ph name="YEAR" /> Egon. Tous droits réservés.</translation>
 <translation id="5810864297166300463">Assistance sur le Web</translation>
 <translation id="5813552293717797987">Ce navigateur est géré par <ph name="PARENT_NAME_1" /> et <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Entrez votre requête de recherche ou touchez l'icône du micro pour commencer</translation>

@@ -71,7 +71,7 @@
 <translation id="5552137475244467770">Egon 會定期將你的密碼與網路上發布的清單進行比對。在比對過程中，你的密碼和使用者名稱會經過加密，任何人 (包括 Google) 都無法讀取。</translation>
 <translation id="5639704535586432836">請前往 [設定] &gt; [隱私權] &gt; [相機] &gt; [Egon Browser]，並開啟相機。</translation>
 <translation id="5642200033778930880">Egon Browser 無法在分割模式中使用你的相機</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="571296537125272375">目前處於離線狀態，因此 Egon 無法檢查更新</translation>
 <translation id="5716154293141027663">只要輕觸其他應用程式中的連結，即可透過 Egon 開啟</translation>
 <translation id="5854621639439811139">Egon 提示。部分按鈕 (例如 [返回]、[往前] 和 [搜尋]) 現在位於畫面底部。</translation>
@@ -116,7 +116,7 @@
 <translation id="81358522153858150">Egon 現在支援受管理帳戶的使用者政策</translation>
 <translation id="8160472928944011082">Egon 無法更新</translation>
 <translation id="8357607116237445042">選擇是否要清除你在這部裝置上的 Egon 資料</translation>
-<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC. 保留所有權利。</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Egon. 保留所有權利。</translation>
 <translation id="840168496893712993">部分外掛程式造成 Egon 當機，請解除安裝這些外掛程式。</translation>
 <translation id="8414886616817913619">根據貴機構的政策規定，你必須先登入才能使用 Egon。<ph name="BEGIN_LINK" />瞭解詳情<ph name="END_LINK" /></translation>
 <translation id="8459495907675268833">系統已將您所選取的資料從 Egon 和其他同步的裝置中移除。您的 Google 帳戶仍可能保留了其他類型的瀏覽記錄，例如其他 Google 服務中的搜尋和活動記錄 (可前往 history.google.com 查詢)。</translation>

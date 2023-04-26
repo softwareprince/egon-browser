@@ -235,7 +235,7 @@
 <translation id="565744775970812598"><ph name="FILE_NAME" /> は危険なファイルの可能性があるため、Egon でブロックしました。</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{管理者が、このアップデートを適用するために Egon を再起動するよう求めています}=1{管理者が、このアップデートを適用するために Egon を再起動するよう求めています。シークレット ウィンドウは、再起動後は自動的には開きません。}other{管理者が、このアップデートを適用するために Egon を再起動するよう求めています。現在開いている # 個のシークレット ウィンドウは、再起動後は自動的には開きません。}}</translation>
 <translation id="5686916850681061684">Egon Browser をカスタマイズ、制御します。確認の必要な項目があります。クリックして詳細をご覧ください。</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser は 1 秒後に再起動します}other{Egon Browser は # 秒後に再起動します}}</translation>
 <translation id="5727531838415286053">Egon の試用期間がランダムに割り当てられた場合は、閲覧履歴が、表示される広告と以下の推定された興味 / 関心に影響します。プライバシーを保護するために、Egon ではユーザーの興味 / 関心が毎月順番に削除されます。ユーザーが削除しない限り、興味 / 関心は更新されます。</translation>
 <translation id="5736850870166430177">サイトがパスワードを不正に取得しようとしている場合や、ユーザーが安全でないファイルをダウンロードしようとした場合は、URL とページ コンテンツの一部をセーフ ブラウジングに送信することがあります</translation>
@@ -362,7 +362,7 @@
 <translation id="8341646175450781745">オンにすると、アクティブでないタブのメモリを解放します。これにより、アクティブなタブや他のアプリで利用できるコンピュータ リソースが増え、Egon の速度低下を抑えられます。アクティブでないタブは、再度アクセスすると自動的にアクティブになります。<ph name="BEGIN_LINK" />詳細<ph name="END_LINK" />または<ph name="BEGIN_LINK_2" />フィードバックを送信<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">このファイルは危険なファイルであるため、Egon でブロックしました。</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />このデータの利用方法:<ph name="END_BOLD" /> サイトでは、ユーザーの興味 / 関心に関する情報を Egon に保存できます。たとえば、マラソン用のシューズを購入するためにあるサイトにアクセスすると、そのサイトでは「ランニング」をユーザーの興味 / 関心として定義する可能性があります。その後、別のサイトにアクセスして競技に登録しようとすると、そのサイトでは、ユーザーの興味 / 関心に基づいてランニング用シューズの広告が表示される場合があります。</translation>
-<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC. All rights reserved.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Egon. All rights reserved.</translation>
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />このデータの利用方法:<ph name="END_BOLD" /> Egon はユーザーの興味 / 関心を推定できます。その後、アクセスしたサイトは、表示する広告をパーソナライズするために、Egon にユーザーの興味 / 関心を確認するよう依頼できます。</translation>
 <translation id="8387459386171870978">Egon を引き続き使用</translation>
 <translation id="8394720698884623075">Egon に保存されている安全でないサイトのリストと URL を照合します</translation>

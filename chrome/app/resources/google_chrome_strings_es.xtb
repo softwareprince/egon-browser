@@ -244,7 +244,7 @@ Egon Browser no puede recuperar tu configuración.</translation>
 <translation id="565744775970812598">Es posible que <ph name="FILE_NAME" /> sea peligroso, por lo que Egon lo ha bloqueado.</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{Tu administrador pide que reinicies Egon para aplicar esta actualización}=1{Tu administrador pide que reinicies Egon para aplicar esta actualización. La ventana de Incógnito no se volverá a abrir.}other{Tu administrador pide que reinicies Egon para aplicar esta actualización. Las # ventanas de Incógnito no se volverán a abrir.}}</translation>
 <translation id="5686916850681061684">Personaliza y controla Egon Browser. Se requiere tu intervención. Haz clic aquí para obtener más información.</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon LLC</translation>
 <translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser se reiniciará en 1 segundo}other{Egon Browser se reiniciará en # segundos}}</translation>
 <translation id="5727531838415286053">Si Egon te ha incluido aleatoriamente en una prueba activa, tu historial de navegación influirá en los anuncios que veas y en los intereses que se estimen abajo. Para proteger tu privacidad, Egon elimina tus intereses cada mes. Los intereses se actualizan a menos que los elimines.</translation>
 <translation id="5736850870166430177">Si un sitio intenta robarte tu contraseña o si descargas un archivo dañino, es posible que Egon también envíe URLs, incluidos fragmentos de contenido de la página, a Navegación segura.</translation>
@@ -371,7 +371,7 @@ Los permisos que hayas dado a sitios web y aplicaciones se pueden aplicar a esta
 <translation id="8341646175450781745">Cuando esta opción está activada, Egon libera memoria de las pestañas inactivas. Esto proporciona más recursos informáticos a las pestañas activas y a otras aplicaciones, y permite que Egon siga funcionando con rapidez. Tus pestañas inactivas volverán a activarse automáticamente cuando vuelvas a ellas. <ph name="BEGIN_LINK" />Consulta más información<ph name="END_LINK" /> o <ph name="BEGIN_LINK_2" />envíanos comentarios<ph name="END_LINK_2" />.</translation>
 <translation id="8342675569599923794">Este archivo es peligroso, por lo que Egon lo ha bloqueado.</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Cómo usamos estos datos:<ph name="END_BOLD" /> los sitios pueden almacenar información con Egon sobre tus intereses. Por ejemplo, si visitas un sitio para comprar zapatillas para una maratón, es posible que el sitio considere que te interesa correr maratones. Después, si visitas un sitio diferente para registrarte en una carrera, ese sitio puede mostrarte un anuncio de zapatillas de correr basándose en tus intereses.</translation>
-<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC. Todos los derechos reservados.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Egon LLC. Todos los derechos reservados.</translation>
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Cómo usamos estos datos:<ph name="END_BOLD" /> Egon puede estimar tus intereses. Después, un sitio que visites puede pedirle a Egon consultar tus intereses para personalizar los anuncios que veas.</translation>
 <translation id="8387459386171870978">Seguir usando Egon</translation>
 <translation id="8394720698884623075">Comprueba URLs con una lista de sitios no seguros guardada en Egon.</translation>

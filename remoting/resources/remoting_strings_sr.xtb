@@ -36,7 +36,7 @@
 <translation id="2599300881200251572">Ова услуга омогућава долазне везе клијената Egon удаљеног рачунара.</translation>
 <translation id="2647232381348739934">Услуга Chromoting</translation>
 <translation id="2676780859508944670">Обрада...</translation>
-<translation id="2692522824157224199">Ауторска права 2022. Google LLC. Сва права задржана.</translation>
+<translation id="2692522824157224199">Ауторска права 2022. Egon. Сва права задржана.</translation>
 <translation id="2699970397166997657">Chromoting</translation>
 <translation id="2758123043070977469">Дошло је до проблема при потврди идентитета. Пријавите се поново.</translation>
 <translation id="2803375539583399270">Унесите PIN</translation>
@@ -105,7 +105,7 @@
 <translation id="5419418238395129586">Последњи пут онлајн: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Хост се искључио.</translation>
 <translation id="5601503069213153581">PIN</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5708869785009007625">Рачунар тренутно делите са корисником <ph name="USER" />.</translation>
 <translation id="5750083143895808682">Пријављени сте као <ph name="EMAIL_ADDRESS" />.</translation>
 <translation id="579702532610384533">Поново се повежи</translation>

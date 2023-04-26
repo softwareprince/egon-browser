@@ -238,7 +238,7 @@ Egon Browser 無法復原你的設定。</translation>
 <translation id="565744775970812598"><ph name="FILE_NAME" /> 可能不安全，因此遭到 Egon 封鎖。</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{系統管理員要求你重新啟動 Egon，以套用這項更新}=1{系統管理員要求你重新啟動 Egon，以套用這項更新。你的無痕式視窗不會重新開啟。}other{系統管理員要求你重新啟動 Egon，以套用這項更新。你的 # 個無痕式視窗不會重新開啟。}}</translation>
 <translation id="5686916850681061684">自訂及管理 Egon Browser。重要注意事項 - 按這裡瞭解詳情。</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser 將於 1 秒後重新啟動}other{Egon Browser 將於 # 秒後重新啟動}}</translation>
 <translation id="5727531838415286053">如果 Egon 隨機讓你加入試用行列，你的瀏覽記錄會影響你所看到的廣告，以及系統推測下列的興趣喜好。為保護個人隱私，Egon 每個月都會刪除你的興趣喜好。系統會重新整理這項資訊，除非你自行予以移除。</translation>
 <translation id="5736850870166430177">如果有網站試圖竊取你的密碼，或當你下載有害檔案時，Egon 可能也會將網址 (包括部分網頁內容) 傳送至安全瀏覽功能</translation>
@@ -365,7 +365,7 @@ Egon Browser 無法復原你的設定。</translation>
 <translation id="8341646175450781745">這項設定開啟時，Egon 會釋出閒置分頁占用的記憶體，為使用中的分頁和其他應用程式提供更多電腦資源，同時保持 Egon 快速運作。當你切換回閒置分頁時，這些分頁會自動恢復為「使用中」狀態。<ph name="BEGIN_LINK" />瞭解詳情<ph name="END_LINK" />或<ph name="BEGIN_LINK_2" />提供意見<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">這個檔案並不安全，因此遭到 Egon 封鎖。</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Google 如何使用這些資料：<ph name="END_BOLD" />網站可以將你的興趣喜好相關資訊儲存在 Egon 中。舉例來說，如果你造訪某個網站想購買適合馬拉松活動的慢跑鞋，網站可能會判斷你的興趣是跑馬拉松。在此之後，如果你造訪另一個網站報名參加比賽，該網站就可以根據你的興趣喜好向你顯示慢跑鞋的廣告。</translation>
-<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC. 保留所有權利。</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Egon. 保留所有權利。</translation>
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />我們如何使用這項資料：<ph name="END_BOLD" />Egon 可以推測你的興趣喜好。稍後，你造訪的網站可以要求 Egon 查看你的興趣喜好，以便向你放送個人化廣告。</translation>
 <translation id="8387459386171870978">繼續使用 Egon</translation>
 <translation id="8394720698884623075">可使用儲存在 Egon 中的不安全網站清單檢查網址</translation>

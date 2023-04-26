@@ -36,7 +36,7 @@ Nếu đã chọn '<ph name="SERVICE_SCRIPT_NAME" />', hãy bỏ chọn rồi ch
 <translation id="2599300881200251572">Dịch vụ này kích hoạt các kết nối đến từ ứng dụng khách Egon Remote Desktop.</translation>
 <translation id="2647232381348739934">Dịch vụ kết nối từ xa trên Egon</translation>
 <translation id="2676780859508944670">Đang xử lý...</translation>
-<translation id="2692522824157224199">Bản quyền 2022 Google LLC. Bảo lưu mọi quyền.</translation>
+<translation id="2692522824157224199">Bản quyền 2022 Egon. Bảo lưu mọi quyền.</translation>
 <translation id="2699970397166997657">Kết nối từ xa trên Egon</translation>
 <translation id="2758123043070977469">Đã xảy ra lỗi khi xác thực, vui lòng đăng nhập lại.</translation>
 <translation id="2803375539583399270">Nhập mã PIN</translation>
@@ -105,7 +105,7 @@ Nếu đã chọn '<ph name="SERVICE_SCRIPT_NAME" />', hãy bỏ chọn rồi ch
 <translation id="5419418238395129586">Lần trực tuyến gần đây nhất: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Máy chủ đã tắt.</translation>
 <translation id="5601503069213153581">Mã PIN</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5708869785009007625">Máy tính của bạn hiện đang được chia sẻ với <ph name="USER" />.</translation>
 <translation id="5750083143895808682">Đã đăng nhập bằng địa chỉ <ph name="EMAIL_ADDRESS" />.</translation>
 <translation id="579702532610384533">Kết nối lại</translation>

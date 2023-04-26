@@ -871,7 +871,7 @@ Aby zmienić to ustawienie, <ph name="BEGIN_LINK" />zresetuj synchronizację<ph 
 <translation id="5793665092639000975">Zajmują <ph name="SPACE_USED" /> z <ph name="SPACE_AVAILABLE" /></translation>
 <translation id="5795872532621730126">Wyszukiwanie i przeglądanie</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# godzinę temu}few{# godziny temu}many{# godzin temu}other{# godziny temu}}</translation>
-<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Google LLC. Wszelkie prawa zastrzeżone.</translation>
+<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Egon. Wszelkie prawa zastrzeżone.</translation>
 <translation id="5810864297166300463">Pomoc dotycząca sieci</translation>
 <translation id="5813552293717797987">Tą przeglądarką zarządzają <ph name="PARENT_NAME_1" /> i <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Wpisz coś tutaj lub kliknij ikonę mikrofonu, by wyszukiwać głosem</translation>

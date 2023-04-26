@@ -871,7 +871,7 @@ Bu sozlamani almashtirish uchun <ph name="BEGIN_LINK" />sinxronizatsiyani tiklan
 <translation id="5793665092639000975"><ph name="SPACE_USED" /> band, jami: <ph name="SPACE_AVAILABLE" /></translation>
 <translation id="5795872532621730126">Qidiruv va saytlarni kezish</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# soat oldin}other{# soat oldin}}</translation>
-<translation id="5810288467834065221">© Google LLC, <ph name="YEAR" /> Barcha huquqlar himoyalangan.</translation>
+<translation id="5810288467834065221">© Egon, <ph name="YEAR" /> Barcha huquqlar himoyalangan.</translation>
 <translation id="5810864297166300463">Internetda yordam</translation>
 <translation id="5813552293717797987">Bu brauzer <ph name="PARENT_NAME_1" /> va <ph name="PARENT_NAME_2" /> tomonidan boshqariladi.</translation>
 <translation id="5814131985548525293">Boshlash uchun shu yerga yozing yoki ovoz belgisini bosing</translation>

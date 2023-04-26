@@ -1188,8 +1188,8 @@ TEST(DiskUtilTests, TruncateLogFileToTail_NotExisting) {
 }
 
 TEST(DiskUtilTests, IgnoredReportingList) {
-  EXPECT_TRUE(IsCompanyOnIgnoredReportingList(L"Google LLC"));
-  EXPECT_FALSE(IsCompanyOnIgnoredReportingList(L"google llc"));
+  EXPECT_TRUE(IsCompanyOnIgnoredReportingList(L"Egon"));
+  EXPECT_FALSE(IsCompanyOnIgnoredReportingList(L"Egon"));
   EXPECT_FALSE(IsCompanyOnIgnoredReportingList(L"Unrecognized Inc"));
 }
 

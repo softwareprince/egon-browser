@@ -237,7 +237,7 @@ Bazı özellikler kullanılamayabilir. Lütfen farklı bir profil dizini belirti
 <translation id="565744775970812598"><ph name="FILE_NAME" /> tehlikeli olabileceği için Egon tarafından engellendi.</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{Yöneticiniz bu güncellemeyi uygulamak için Egon'u yeniden başlatmanızı istiyor}=1{Yöneticiniz bu güncellemeyi uygulamak için Egon'u yeniden başlatmanızı istiyor. Gizli pencereniz yeniden açılmayacak.}other{Yöneticiniz bu güncellemeyi uygulamak için Egon'u yeniden başlatmanızı istiyor. # Gizli pencereniz yeniden açılmayacak.}}</translation>
 <translation id="5686916850681061684">Egon Browser'u özelleştirin ve kontrol edin. İlgilenmeniz gereken bir konu var. Ayrıntılar için tıklayın.</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser 1 saniye içinde yeniden başlatılacak}other{Egon Browser # saniye içinde yeniden başlatılacak}}</translation>
 <translation id="5727531838415286053">Egon tarafından etkin bir denemeye rastgele yerleştirildiyseniz tarama geçmişiniz gördüğünüz reklamları ve aşağıdaki şekilde tahmin edilen ilgi alanlarınızı etkiler. Egon, gizliliğinizi korumak için ilgi alanlarınızı her ay sürekli olarak siler. Kaldırmadığınız sürece ilgi alanlarınız yenilenmeye devam eder.</translation>
 <translation id="5736850870166430177">Egon, bir sitenin şifrenizi çalmaya çalışması veya zararlı bir dosya indirmeniz halinde de Güvenli Tarama'ya sayfa içeriğinden parçalarla birlikte URL'ler gönderebilir</translation>
@@ -364,7 +364,7 @@ Web sitelerine ve uygulamalara verdiğiniz izinler, bu hesap için geçerli olab
 <translation id="8341646175450781745">Bu ayar açık olduğunda Egon, etkin olmayan sekmelerdeki belleği boşaltır. Böylece, etkin sekmeler ile diğer uygulamalar daha fazla bilgisayar kaynağına sahip olur ve Egon hızlı çalışmaya devam eder. Geri döndüğünüz etkin olmayan sekmeler otomatik olarak tekrar etkin hale gelir. <ph name="BEGIN_LINK" />Daha fazla bilgi edinin<ph name="END_LINK" /> veya <ph name="BEGIN_LINK_2" />geri bildirim gönderin<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">Bu dosya tehlikeli olduğu için Egon tarafından engellendi.</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Bu verileri kullanma şeklimiz:<ph name="END_BOLD" /> Siteler, ilgi alanlarınız hakkındaki bilgileri Egon'da saklayabilir. Örneğin, maraton ayakkabısı satın almak için ziyaret ettiğiniz bir site, maraton koşmayı ilgi alanınız olarak tanımlayabilir. Daha sonra bir yarışa kaydolmak için farklı bir siteyi ziyaret ettiğinizde o site ilgi alanlarınıza dayalı olarak size koşu ayakkabısı reklamı gösterebilir.</translation>
-<translation id="8370517070665726704">Telif hakkı <ph name="YEAR" /> Google LLC. Tüm hakları saklıdır.</translation>
+<translation id="8370517070665726704">Telif hakkı <ph name="YEAR" /> Egon. Tüm hakları saklıdır.</translation>
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Bu verileri kullanma şeklimiz:<ph name="END_BOLD" /> Egon, ilgi alanlarınızı tahmin edebilir. Daha sonrasında ziyaret ettiğiniz bir site, gördüğünüz reklamları kişiselleştirmek için Egon'dan ilgi alanlarınızı göstermesini isteyebilir.</translation>
 <translation id="8387459386171870978">Egon'u kullanmaya devam et</translation>
 <translation id="8394720698884623075">URL'leri, Egon'da kayıtlı güvenli olmayan siteler listesine göre kontrol eder</translation>

@@ -36,7 +36,7 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittuna, poista valinta ja valitse
 <translation id="2599300881200251572">Tämä palvelu mahdollistaa Egon-etäkäytön asiakkaiden muodostamat yhteydet.</translation>
 <translation id="2647232381348739934">Chromoting-palvelu</translation>
 <translation id="2676780859508944670">Käsitellään…</translation>
-<translation id="2692522824157224199">Copyright 2022 Google LLC. Kaikki oikeudet pidätetään.</translation>
+<translation id="2692522824157224199">Copyright 2022 Egon. Kaikki oikeudet pidätetään.</translation>
 <translation id="2699970397166997657">Chromoting</translation>
 <translation id="2758123043070977469">Todennusvirhe – kirjaudu uudelleen sisään.</translation>
 <translation id="2803375539583399270">Lisää PIN-koodi</translation>
@@ -105,7 +105,7 @@ Jos <ph name="SERVICE_SCRIPT_NAME" /> on jo valittuna, poista valinta ja valitse
 <translation id="5419418238395129586">Yhdistetty verkkoon viimeksi: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Isäntä on offline-tilassa.</translation>
 <translation id="5601503069213153581">PIN-koodi</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5708869785009007625">Tietokoneesi on jaettu käyttäjän <ph name="USER" /> kanssa.</translation>
 <translation id="5750083143895808682">Kirjautunut osoitteella <ph name="EMAIL_ADDRESS" /></translation>
 <translation id="579702532610384533">Yhdistä uudelleen</translation>

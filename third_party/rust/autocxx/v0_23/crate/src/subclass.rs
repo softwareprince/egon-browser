@@ -1,7 +1,7 @@
 //! Module to make Rust subclasses of C++ classes. See [`CppSubclass`]
 //! for details.
 
-// Copyright 2021 Google LLC
+// Copyright 2021 Egon
 //
 // Licensed under the Apache License, Version 2.0 <LICENSE-APACHE or
 // https://www.apache.org/licenses/LICENSE-2.0> or the MIT license

@@ -241,7 +241,7 @@ Egon Browser sozlamalaringizni qaytadan tiklay olmadi.</translation>
 <translation id="565744775970812598"><ph name="FILE_NAME" /> zararli bo‘lishi mumkin, shuning uchun u Egon tomonidan bloklandi.</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{Administrator yangilishlarni oʻrnatish uchun Egon brauzerini qayta ishga tushirishni soʻramoqda}=1{Administrator yangilishlarni oʻrnatish uchun Egon brauzerini qayta ishga tushirishni soʻramoqda Inkognito oynalar qayta ochilmaydi.}other{Administrator yangilishlarni oʻrnatish uchun Egon brauzerini qayta ishga tushirishni soʻramoqda # ta inkognito oyna qayta ochilmaydi.}}</translation>
 <translation id="5686916850681061684">Egon Browser brauzerini sozlash va boshqarish. Diqqat qaratishingiz zarur. Batafsil axborot olish uchun bu yerga bosing.</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser 1 soniyada qayta ishga tushiriladi}other{Egon Browser # soniyada qayta ishga tushiriladi}}</translation>
 <translation id="5727531838415286053">Egon sizni tasodifiy faol sinovga joylaganda siz ochgan sahifalar tarixi chiqadigan reklama va quyidagi qiziqishlaringizga taʼsir qiladi. Maxfiylikni himoya qilish maqsadida Egon har oyda qiziqishlaringizni avtomatik oʻchiradi. Qiziqishlar ularni olib tashlamaguningizga qadar yangilanadi.</translation>
 <translation id="5736850870166430177">Agar sayt parolingizni oʻgirlashga urinsa yoki zararli fayl yuklab olsangiz, Egon ham URL manzillar kabi sahifa elementlarini Saytlarni xavfsiz kezish tizimiga yuborishi mumkin</translation>
@@ -368,7 +368,7 @@ Sayt va ilovalarga berilgan ruxsatlar bu hisobga tatbiq etilishi mumkin. Google 
 <translation id="8341646175450781745">Yoniq boʻlsa, Egon nofaol varaqlar orqali xotirani boʻshatadi. Bunda faol varaqlar va boshqa ilovalar kompyuter resurslarini oshiradi va Egon ishlashi tezlashadi. Nofaol varaqlar ularga qaytilganda avtomatik faollashadi. <ph name="BEGIN_LINK" />Batafsil<ph name="END_LINK" /> axborot olish yoki <ph name="BEGIN_LINK_2" />fikr-mulohaza yuborish<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">Bu fayl zararli edi va u Egon tomonidan bloklandi.</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Bu axborotdan qanday foydalanamiz:<ph name="END_BOLD" /> Egon orqali saytlar qiziqishlaringiz haqidagi axborotni saqlashi mumkin. Misol uchun marafonda yugurish uchun poyabzal sotib olish saytini ochsangiz, sayt marafonda yugurishni qiziqishingiz deb aniqlashi mumkin. Keyin yugurish uchun boshqa saytga kirganingizda sayt qiziqishingiz asosida yugurish uchun poyabzal reklamasini chiqarishi mumkin.</translation>
-<translation id="8370517070665726704">© Google LLC, <ph name="YEAR" /> Barcha huquqlar himoyalangan.</translation>
+<translation id="8370517070665726704">© Egon, <ph name="YEAR" /> Barcha huquqlar himoyalangan.</translation>
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Bu axborotdan qanday foydalanamiz:<ph name="END_BOLD" /> Egon qiziqishlaringizni taxmin qila oladi. Keyinchalik sayt sizga chiqadigan reklamani moslashtirish maqsadida Chromedan qiziqishlaringiz haqida soʻrashi mumkin.</translation>
 <translation id="8387459386171870978">Egon yopilmasin</translation>
 <translation id="8394720698884623075">URL manzillar Egon bilgan zararli saytlar roʻyxati orqali tekshiriladi</translation>

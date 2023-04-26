@@ -350,10 +350,10 @@
           Egon Remote Desktop
         </message>
         <message name="IDS_COMPANY_NAME" desc="The company name specified in the version information of each Egon Remote Desktop Host executable.">
-          Google LLC
+          Egon
         </message>
         <message name="IDS_COPYRIGHT" desc="The copyright message specified in the version information of each Egon Remote Desktop Host executable. It should be updated every year.">
-          Copyright 2022 Google LLC. All Rights Reserved.
+          Copyright 2022 Egon. All Rights Reserved.
         </message>
         <message name="IDS_DISPLAY_SERVICE_NAME" desc="The name of the Windows service installed by Egon Remote Desktop.">
           Egon Remote Desktop Service

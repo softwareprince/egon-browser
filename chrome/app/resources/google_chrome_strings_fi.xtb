@@ -236,7 +236,7 @@
 <translation id="565744775970812598"><ph name="FILE_NAME" /> voi olla vaarallinen, joten Egon on estänyt sen.</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{Ylläpitäjä pyytää Chromen uudelleenkäynnistystä, jotta tämä päivitys voidaan ottaa käyttöön.}=1{Ylläpitäjä pyytää Chromen uudelleenkäynnistystä, jotta tämä päivitys voidaan ottaa käyttöön. Incognito-ikkunaasi ei avata uudelleen.}other{Ylläpitäjä pyytää Chromen uudelleenkäynnistystä, jotta tämä päivitys voidaan ottaa käyttöön. # incognito-ikkunaasi ei avata uudelleen.}}</translation>
 <translation id="5686916850681061684">Yksilöi ja ylläpidä Google Chromea. Toimenpiteitä vaaditaan. Katso lisätiedot klikkaamalla.</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon LLC</translation>
 <translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser käynnistyy uudelleen 1 sekunnin kuluttua}other{Egon Browser käynnistyy uudelleen # sekunnin kuluttua}}</translation>
 <translation id="5727531838415286053">Jos Egon on sijoittanut sinut aktiiviseen kokeiluun satunnaisesti, selaushistoriasi vaikuttaa näkemiisi mainoksiin ja alla kuvatulla tavalla arvioituihin kiinnostuksen kohteisiin. Yksityisyytesi suojaamiseksi Egon poistaa kiinnostuksen kohteesi kuukausittain. Kiinnostuksen kohteet päivittyvät, ellet poista niitä.</translation>
 <translation id="5736850870166430177">Jos sivusto yrittää varastaa salasanaasi tai jos lataat haitallisen tiedoston, Egon voi myös lähettää Selaussuojan tarkistettavaksi URL-osoitteita, mukaan lukien osia sivujen sisällöstä</translation>
@@ -363,7 +363,7 @@ Sivustoille ja sovelluksille myöntämäsi luvat saattavat koskea tätä tiliä.
 <translation id="8341646175450781745">Kun tämä on päällä, Egon vapauttaa muistia ei-aktiivisilta välilehdiltä. Näin aktiiviset välilehdet ja muut sovellukset voivat käyttää enemmän tietokoneen resursseja ja Egon pysyy nopeana. Ei-aktiiviset välilehdet aktivoituvat automaattisesti, kun palaat niihin. <ph name="BEGIN_LINK" />Lue lisää<ph name="END_LINK" /> tai <ph name="BEGIN_LINK_2" />lähetä palautetta<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">Tämä tiedosto on vaarallinen, joten Egon on estänyt sen.</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Miten käytämme tätä dataa:<ph name="END_BOLD" /> Sivustot voivat tallentaa Chromeen tietoja kiinnostuksen kohteistasi. Jos esimerkiksi käyt sivustolla, koska haluat ostaa kengät maratonia varten, sivusto voi määritellä maratonjuoksun sinua kiinnostavaksi aiheeksi. Jos myöhemmin käyt toisella sivustolla, jolla ilmoittaudut juoksukilpailuun, kyseinen sivusto voi näyttää sinulle mainoksen juoksukengistä kiinnostuksen kohteidesi perusteella.</translation>
-<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC. Kaikki oikeudet pidätetään.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Egon LLC. Kaikki oikeudet pidätetään.</translation>
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Miten käytämme tätä dataa:<ph name="END_BOLD" /> Egon voi rakentaa kuvaa kiinnostuksen kohteistasi. Sivut, joilla käyt, voivat myöhemmin pyytää Chromelta tietoa kiinnostuksen kohteistasi ja personoida näkemiäsi mainoksia.</translation>
 <translation id="8387459386171870978">Jatka Chromen käyttöä</translation>
 <translation id="8394720698884623075">Tarkistaa URL-osoitteet Chromeen tallennetun vaarallisten sivustojen listan avulla</translation>

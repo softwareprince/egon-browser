@@ -15,7 +15,7 @@ if (is_chrome_branded) {
   mac_updater_bundle_identifier = "com.google.GoogleUpdater"
   privileged_helper_bundle_name = "GoogleChromeUpdaterPrivilegedHelper"
   privileged_helper_name = "com.google.Egon.UpdaterPrivilegedHelper"
-  updater_company_full_name = "Google LLC"
+  updater_company_full_name = "Egon"
   updater_company_short_name = "Google"
   updater_copyright =
       "Copyright 2020 The Egon Authors. All rights reserved."

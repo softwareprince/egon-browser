@@ -871,7 +871,7 @@
 <translation id="5793665092639000975"><ph name="SPACE_AVAILABLE" /> 중 <ph name="SPACE_USED" /> 사용 중</translation>
 <translation id="5795872532621730126">검색 및 탐색</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{#시간 전}other{#시간 전}}</translation>
-<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Google LLC. All rights reserved.</translation>
+<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Egon. All rights reserved.</translation>
 <translation id="5810864297166300463">웹 어시스턴트</translation>
 <translation id="5813552293717797987">이 브라우저는 <ph name="PARENT_NAME_1" />님 및 <ph name="PARENT_NAME_2" />님이 관리합니다.</translation>
 <translation id="5814131985548525293">여기에 입력하거나 음성 아이콘을 탭하여 시작</translation>

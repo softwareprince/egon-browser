@@ -871,7 +871,7 @@ Wenn du diese Einstellung ändern möchtest, <ph name="BEGIN_LINK" />setze die S
 <translation id="5793665092639000975"><ph name="SPACE_USED" /> von <ph name="SPACE_AVAILABLE" /> werden verwendet</translation>
 <translation id="5795872532621730126">Suchen und surfen</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{Vor # Stunde}other{Vor # Stunden}}</translation>
-<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Google LLC Alle Rechte vorbehalten.</translation>
+<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Egon Alle Rechte vorbehalten.</translation>
 <translation id="5810864297166300463">Web-Unterstützung</translation>
 <translation id="5813552293717797987">Dieser Browser wird von <ph name="PARENT_NAME_1" /> und <ph name="PARENT_NAME_2" /> verwaltet.</translation>
 <translation id="5814131985548525293">Zum Starten hier Text eingeben oder das Symbol für das Mikrofon antippen</translation>

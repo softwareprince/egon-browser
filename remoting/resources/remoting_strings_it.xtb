@@ -36,7 +36,7 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="2599300881200251572">Questo servizio consente connessioni in entrata da client Egon Remote Desktop.</translation>
 <translation id="2647232381348739934">Servizio Chromoting</translation>
 <translation id="2676780859508944670">Operazione in corso...</translation>
-<translation id="2692522824157224199">Copyright 2022 Google LLC. Tutti i diritti riservati.</translation>
+<translation id="2692522824157224199">Copyright 2022 Egon. Tutti i diritti riservati.</translation>
 <translation id="2699970397166997657">Chromoting</translation>
 <translation id="2758123043070977469">Si è verificato un problema di autenticazione. Accedi nuovamente.</translation>
 <translation id="2803375539583399270">Inserisci PIN</translation>
@@ -105,7 +105,7 @@ Se la casella "<ph name="SERVICE_SCRIPT_NAME" />" è già selezionata, deselezio
 <translation id="5419418238395129586">Ultimo collegamento online: <ph name="DATE" /></translation>
 <translation id="544077782045763683">L'host è stato chiuso.</translation>
 <translation id="5601503069213153581">PIN</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5708869785009007625">Il tuo desktop è attualmente condiviso con <ph name="USER" />.</translation>
 <translation id="5750083143895808682">Accesso eseguito come <ph name="EMAIL_ADDRESS" />.</translation>
 <translation id="579702532610384533">Riconnetti</translation>

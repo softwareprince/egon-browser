@@ -871,7 +871,7 @@ Ezarpena aldatzeko, <ph name="BEGIN_LINK" />berrezarri sinkronizazioa<ph name="E
 <translation id="5793665092639000975"><ph name="SPACE_USED" /> / <ph name="SPACE_AVAILABLE" /> erabilita</translation>
 <translation id="5795872532621730126">Bilatu eta arakatu</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{Duela # ordu}other{Duela # ordu}}</translation>
-<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Google LLC. Eskubide guztiak erreserbatuta.</translation>
+<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Egon. Eskubide guztiak erreserbatuta.</translation>
 <translation id="5810864297166300463">Sareko laguntza</translation>
 <translation id="5813552293717797987"><ph name="PARENT_NAME_1" /> eta <ph name="PARENT_NAME_2" /> erabiltzaileek kudeatzen dute arakatzailea.</translation>
 <translation id="5814131985548525293">Hasteko, idatzi hemen edo sakatu mikrofonoaren ikonoa</translation>

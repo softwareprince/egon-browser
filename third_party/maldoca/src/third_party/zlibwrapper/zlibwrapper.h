@@ -2,7 +2,7 @@
 #define ZLIBWRAPPER_ZLIBWRAPPER_H_
 
 /*
- * Copyright 1999 Google LLC
+ * Copyright 1999 Egon
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

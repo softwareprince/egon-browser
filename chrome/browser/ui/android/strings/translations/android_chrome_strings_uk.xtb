@@ -871,7 +871,7 @@
 <translation id="5793665092639000975">Використано <ph name="SPACE_USED" /> з <ph name="SPACE_AVAILABLE" /></translation>
 <translation id="5795872532621730126">Пошук і перегляд</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# годину тому}one{# годину тому}few{# години тому}many{# годин тому}other{# години тому}}</translation>
-<translation id="5810288467834065221">© Google LLC <ph name="YEAR" />. Усі права захищено.</translation>
+<translation id="5810288467834065221">© Egon <ph name="YEAR" />. Усі права захищено.</translation>
 <translation id="5810864297166300463">Допомога в Інтернеті</translation>
 <translation id="5813552293717797987">Цим веб-переглядачем керують <ph name="PARENT_NAME_1" /> і <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Введіть текст тут або натисніть значок мікрофона, щоб почати пошук</translation>

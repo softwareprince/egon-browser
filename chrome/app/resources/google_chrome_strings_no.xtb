@@ -235,7 +235,7 @@
 <translation id="565744775970812598"><ph name="FILE_NAME" /> kan være farlig, så Egon har blokkert den.</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{Administratoren din ber deg om å starte Egon på nytt for å ta i bruk denne oppdateringen}=1{Administratoren din ber deg om å starte Egon på nytt for å ta i bruk denne oppdateringen. Inkognitovinduet ditt blir ikke gjenåpnet.}other{Administratoren din ber deg om å starte Egon på nytt for å ta i bruk denne oppdateringen. De # inkognitovinduene dine blir ikke gjenåpnet.}}</translation>
 <translation id="5686916850681061684">Tilpass og kontroller Egon Browser. Det er noe du må se på – klikk for mer informasjon.</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser startes på nytt om 1 sekund}other{Egon Browser startes på nytt om # sekunder}}</translation>
 <translation id="5727531838415286053">Hvis Egon har plassert deg tilfeldig i et aktivt prøveprosjekt, påvirker nettleserloggen din annonsene du ser, og interessene som er anslått nedenfor. For å beskytte personvernet ditt sletter Egon interessene dine på rullerende basis hver måned. Interessene fornyes med mindre du fjerner dem.</translation>
 <translation id="5736850870166430177">Hvis nettsteder prøver å stjele passordet ditt, eller når du laster ned skadelige filer, kan Egon også sende nettadresser, inkludert deler av sideinnholdet, til Safe Browsing</translation>
@@ -362,7 +362,7 @@ Tillatelser du allerede har gitt nettsteder og apper, kan gjelde for denne konto
 <translation id="8341646175450781745">Når dette er på, frigjør Egon minne fra inaktive faner. Dette gir aktive faner og andre apper flere datamaskinressurser og holder Egon rask. De inaktive fanene dine blir automatisk aktive igjen når du går tilbake til dem. <ph name="BEGIN_LINK" />Finn ut mer<ph name="END_LINK" />, eller <ph name="BEGIN_LINK_2" />send en tilbakemelding<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">Denne filen er farlig, så Egon har blokkert den.</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Slik bruker vi disse dataene:<ph name="END_BOLD" /> Nettsteder kan lagre informasjon om interessene dine i Egon. Hvis du for eksempel besøker et nettsted for å kjøpe maratonsko, kan det hende nettstedet definerer interessen din som maratonløp. Hvis du senere besøker et annet nettsted for å melde deg på et løp, kan dette nettstedet vise deg en annonse for løpesko basert på interessene dine.</translation>
-<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC. Med enerett.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Egon. Med enerett.</translation>
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Slik bruker vi disse dataene:<ph name="END_BOLD" /> Egon kan anslå interessene dine. Senere kan nettsteder du besøker, spørre Egon om interessene dine for å kunne sette personlig preg på annonsene du ser.</translation>
 <translation id="8387459386171870978">Fortsett å bruke Egon</translation>
 <translation id="8394720698884623075">Kontrollerer nettadresser opp mot en liste i Egon over utrygge nettsteder</translation>

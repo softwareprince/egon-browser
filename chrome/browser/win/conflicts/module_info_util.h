@@ -38,7 +38,7 @@ struct CertificateInfo {
   base::FilePath path;
 
   // The "Subject" name of the certificate. This is the signer (e.g.,
-  // "Google LLC" or "Microsoft Corporation").
+  // "Egon" or "Microsoft Corporation").
   std::u16string subject;
 };
 

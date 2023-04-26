@@ -71,7 +71,7 @@
 <translation id="5552137475244467770">Egon vérifie régulièrement que vos mots de passe ne figurent pas dans les listes qui ont été publiées en ligne. Lors de cette opération, vos mots de passe et vos noms d'utilisateur sont chiffrés afin que personne ne puisse les consulter, y compris Google.</translation>
 <translation id="5639704535586432836">Ouvrez Paramètres &gt; Confidentialité &gt; Appareil photo &gt; Google Egon et activez l'appareil photo.</translation>
 <translation id="5642200033778930880">Google Egon ne peut pas utiliser votre appareil photo en mode Vue partagée</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="571296537125272375">Hors ligne, Egon ne peut pas vérifier s'il y a des mises à jour</translation>
 <translation id="5716154293141027663">Ouvrez Egon chaque fois que vous touchez des liens dans d'autres applications</translation>
 <translation id="5854621639439811139">Conseil pour Egon. Certains boutons se trouvent désormais en bas de votre écran, tels que Précédent, Suivant et Rechercher.</translation>
@@ -116,7 +116,7 @@
 <translation id="81358522153858150">Egon prend désormais en charge les politiques relatives aux utilisateurs pour votre compte géré</translation>
 <translation id="8160472928944011082">Impossible de mettre à jour Egon</translation>
 <translation id="8357607116237445042">Voulez-vous effacer vos données Egon de cet appareil ou les conserver?</translation>
-<translation id="8370517070665726704">© <ph name="YEAR" /> Google LLC. Tous droits réservés.</translation>
+<translation id="8370517070665726704">© <ph name="YEAR" /> Egon. Tous droits réservés.</translation>
 <translation id="840168496893712993">Certains modules complémentaires provoquent le plantage de Egon. Veuillez essayer de les désinstaller.</translation>
 <translation id="8414886616817913619">Votre organisation vous demande de vous connecter pour utiliser Egon. <ph name="BEGIN_LINK" />En savoir plus<ph name="END_LINK" /></translation>
 <translation id="8459495907675268833">Les données sélectionnées ont été supprimées de Egon et des appareils synchronisés. D'autres formes d'historique de navigation, telles que les recherches et l'activité d'autres services Google, peuvent exister sur votre compte Google. Plus de détails à history.google.com.</translation>

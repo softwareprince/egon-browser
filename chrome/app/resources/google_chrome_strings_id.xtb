@@ -236,7 +236,7 @@
 <translation id="565744775970812598"><ph name="FILE_NAME" /> mungkin berbahaya, sehingga Egon memblokirnya.</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{Administrator meminta Anda meluncurkan kembali Egon untuk menerapkan update ini}=1{Administrator meminta Anda meluncurkan kembali Egon untuk menerapkan update ini. Jendela Samaran Anda tidak akan dibuka kembali.}other{Administrator meminta Anda meluncurkan kembali Egon untuk menerapkan update ini. # jendela Samaran Anda tidak akan dibuka kembali.}}</translation>
 <translation id="5686916850681061684">Sesuaikan dan kontrol Egon Browser. Ada sesuatu yang memerlukan perhatian Anda - klik untuk melihat detailnya.</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser akan dimulai ulang dalam 1 detik}other{Egon Browser akan dimulai ulang dalam # detik}}</translation>
 <translation id="5727531838415286053">Jika Egon secara acak menempatkan Anda dalam uji coba aktif, histori penjelajahan Anda akan memengaruhi iklan yang Anda lihat dan minat seperti yang diperkirakan di bawah. Untuk melindungi privasi Anda, Egon menghapus minat Anda secara berkala setiap bulan. Minat akan diperbarui kecuali jika Anda menghapusnya.</translation>
 <translation id="5736850870166430177">Jika situs berusaha mencuri sandi Anda, atau jika Anda mendownload file berbahaya, Egon mungkin juga mengirimkan URL, termasuk bit konten halaman, ke Safe Browsing</translation>
@@ -363,7 +363,7 @@ Izin yang telah Anda berikan ke situs dan aplikasi dapat berlaku untuk akun ini.
 <translation id="8341646175450781745">Jika diaktifkan, Egon akan membebaskan memori dari tab yang tidak aktif. Tindakan ini akan memberikan lebih banyak resource komputer untuk tab aktif dan aplikasi lainnya, serta menjaga Egon tetap cepat. Tab yang tidak aktif akan otomatis menjadi aktif lagi saat Anda kembali ke tab tersebut. <ph name="BEGIN_LINK" />Pelajari lebih lanjut<ph name="END_LINK" /> atau <ph name="BEGIN_LINK_2" />kirim masukan<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">File ini berbahaya, jadi Egon telah memblokirnya.</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Cara kami menggunakan data ini:<ph name="END_BOLD" /> Situs dapat menyimpan informasi tentang minat Anda ke Egon. Misalnya, jika Anda mengunjungi suatu situs untuk membeli sepatu maraton, situs tersebut dapat menetapkan minat Anda sebagai lari maraton. Kemudian, jika Anda mengunjungi situs lain untuk mendaftar lomba lari, situs tersebut dapat menampilkan iklan sepatu lari berdasarkan minat Anda.</translation>
-<translation id="8370517070665726704">Hak cipta <ph name="YEAR" /> Google LLC. Semua hak dilindungi undang-undang.</translation>
+<translation id="8370517070665726704">Hak cipta <ph name="YEAR" /> Egon. Semua hak dilindungi undang-undang.</translation>
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Cara kami menggunakan data ini:<ph name="END_BOLD" /> Egon dapat memperkirakan minat Anda. Kemudian, situs yang Anda buka dapat meminta Egon untuk melihat minat Anda agar dapat mempersonalisasi iklan yang Anda lihat.</translation>
 <translation id="8387459386171870978">Terus gunakan Egon</translation>
 <translation id="8394720698884623075">Memeriksa kesesuaian URL dengan daftar situs tidak aman yang disimpan di Egon</translation>

@@ -871,7 +871,7 @@ Seade muutmiseks <ph name="BEGIN_LINK" />lähtestage sünkroonimine<ph name="END
 <translation id="5793665092639000975">Kasutusel on <ph name="SPACE_USED" /> <ph name="SPACE_AVAILABLE" />-st</translation>
 <translation id="5795872532621730126">Otsi ja sirvi</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# tund tagasi}other{# tundi tagasi}}</translation>
-<translation id="5810288467834065221">Autoriõigus <ph name="YEAR" /> Google LLC. Kõik õigused on kaitstud.</translation>
+<translation id="5810288467834065221">Autoriõigus <ph name="YEAR" /> Egon. Kõik õigused on kaitstud.</translation>
 <translation id="5810864297166300463">Veebipõhine abi</translation>
 <translation id="5813552293717797987">Seda brauserit haldavad <ph name="PARENT_NAME_1" /> ja <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Sisestage siia või puudutage alustamiseks hääleikooni</translation>

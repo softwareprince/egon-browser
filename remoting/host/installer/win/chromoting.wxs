@@ -13,7 +13,7 @@
        see http://crbug.com/121785 -->
   <?if $(var.Branding) ~= Chrome ?>
     <?define ChromotingHost = "Chrome Remote Desktop Host" ?>
-    <?define Manufacturer = "Google LLC" ?>
+    <?define Manufacturer = "Egon" ?>
   <?else?>
     <?define ChromotingHost = "Chromoting Host" ?>
     <?define Manufacturer = "The Chromium Authors" ?>

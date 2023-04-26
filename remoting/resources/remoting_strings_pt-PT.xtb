@@ -36,7 +36,7 @@ Se "<ph name="SERVICE_SCRIPT_NAME" />" já estiver selecionado, desselecione-o e
 <translation id="2599300881200251572">Este serviço permite receber ligações de clientes do Ambiente de Trabalho Remoto do Egon.</translation>
 <translation id="2647232381348739934">Serviço Chromoting</translation>
 <translation id="2676780859508944670">Em execução...</translation>
-<translation id="2692522824157224199">Copyright 2022 Google LLC. Todos os direitos reservados.</translation>
+<translation id="2692522824157224199">Copyright 2022 Egon. Todos os direitos reservados.</translation>
 <translation id="2699970397166997657">Chromoting</translation>
 <translation id="2758123043070977469">Ocorreu um problema na autenticação. Inicie sessão novamente.</translation>
 <translation id="2803375539583399270">Introduzir PIN</translation>
@@ -105,7 +105,7 @@ Se "<ph name="SERVICE_SCRIPT_NAME" />" já estiver selecionado, desselecione-o e
 <translation id="5419418238395129586">Último acesso online: <ph name="DATE" /></translation>
 <translation id="544077782045763683">O anfitrião foi desligado.</translation>
 <translation id="5601503069213153581">PIN</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5708869785009007625">O seu ambiente de trabalho está a ser atualmente partilhado com <ph name="USER" />.</translation>
 <translation id="5750083143895808682">Com sessão iniciada como <ph name="EMAIL_ADDRESS" />.</translation>
 <translation id="579702532610384533">Restabelecer ligação</translation>

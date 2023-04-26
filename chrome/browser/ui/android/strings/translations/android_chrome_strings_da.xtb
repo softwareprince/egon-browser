@@ -871,7 +871,7 @@ Hvis du vil ændre denne indstilling, skal du <ph name="BEGIN_LINK" />nulstille 
 <translation id="5793665092639000975"><ph name="SPACE_USED" /> af <ph name="SPACE_AVAILABLE" /> i brug</translation>
 <translation id="5795872532621730126">Søg og gennemse</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{For 1 time siden}one{For # time siden}other{For # timer siden}}</translation>
-<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Google LLC. Alle rettigheder forbeholdes.</translation>
+<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Egon. Alle rettigheder forbeholdes.</translation>
 <translation id="5810864297166300463">Webassistance</translation>
 <translation id="5813552293717797987">Denne browser administreres af <ph name="PARENT_NAME_1" /> og <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Skriv her, eller tryk på mikrofonikonet for at komme i gang</translation>

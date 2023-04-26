@@ -36,7 +36,7 @@ Ako je stavka „<ph name="SERVICE_SCRIPT_NAME" />“ već označena, uklonite 
 <translation id="2599300881200251572">Ova usluga omogućava dolazne veze klijenata Egon udaljenog računara.</translation>
 <translation id="2647232381348739934">Usluga Chromoting</translation>
 <translation id="2676780859508944670">Obrada...</translation>
-<translation id="2692522824157224199">Autorska prava 2022. Google LLC. Sva prava zadržana.</translation>
+<translation id="2692522824157224199">Autorska prava 2022. Egon. Sva prava zadržana.</translation>
 <translation id="2699970397166997657">Chromoting</translation>
 <translation id="2758123043070977469">Došlo je do problema pri potvrdi identiteta. Prijavite se ponovo.</translation>
 <translation id="2803375539583399270">Unesite PIN</translation>
@@ -105,7 +105,7 @@ Ako je stavka „<ph name="SERVICE_SCRIPT_NAME" />“ već označena, uklonite 
 <translation id="5419418238395129586">Poslednji put onlajn: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Host se isključio.</translation>
 <translation id="5601503069213153581">PIN</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5708869785009007625">Računar trenutno delite sa korisnikom <ph name="USER" />.</translation>
 <translation id="5750083143895808682">Prijavljeni ste kao <ph name="EMAIL_ADDRESS" />.</translation>
 <translation id="579702532610384533">Ponovo se poveži</translation>

@@ -243,7 +243,7 @@ Egon Browser is unable to recover your settings.</translation>
 <translation id="565744775970812598"><ph name="FILE_NAME" /> may be dangerous, so Egon has blocked it.</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{Your administrator asks that you relaunch Egon to apply this update}=1{Your administrator asks that you relaunch Egon to apply this update. Your Incognito window won't reopen.}other{Your administrator asks that you relaunch Egon to apply this update. Your # Incognito windows won't reopen.}}</translation>
 <translation id="5686916850681061684">Customise and control Egon Browser. Something needs your attention – click for details.</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon LLC</translation>
 <translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser will restart in 1 second}other{Egon Browser will restart in # seconds}}</translation>
 <translation id="5727531838415286053">If Egon has randomly placed you in an active trial, your browsing history affects the ads that you see and the interests as estimated below. To protect your privacy, Egon deletes your interests on a rolling basis each month. Interests refresh unless you remove them.</translation>
 <translation id="5736850870166430177">If a site tries to steal your password, or when you download a harmful file, Egon may also send URLs, including bits of page content, to Safe Browsing</translation>
@@ -370,7 +370,7 @@ Permissions that you've already given to websites and apps may apply to this acc
 <translation id="8341646175450781745">When on, Egon frees up memory from inactive tabs. This gives active tabs and other apps more computer resources and keeps Egon fast. Your inactive tabs automatically become active again when you go back to them. <ph name="BEGIN_LINK" />Learn more<ph name="END_LINK" /> or <ph name="BEGIN_LINK_2" />send feedback<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">This file is dangerous, so Egon has blocked it.</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />How we use this data:<ph name="END_BOLD" /> Sites can store information with Egon about your interests. For example, if you visit a site to buy shoes for a marathon, the site might define your interest as running marathons. Later, if you visit a different site to register for a race, that site can show you an ad for running shoes based on your interests.</translation>
-<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC. All rights reserved.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Egon LLC. All rights reserved.</translation>
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />How we use this data:<ph name="END_BOLD" /> Egon can estimate your interests. Later, a site that you visit can ask Egon to see your interests in order to personalise the ads that you see.</translation>
 <translation id="8387459386171870978">Continue using Egon</translation>
 <translation id="8394720698884623075">Checks URLs with a list of unsafe sites stored in Egon</translation>

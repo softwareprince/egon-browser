@@ -871,7 +871,7 @@ Ak chcete toto nastavenie zmeniť, <ph name="BEGIN_LINK" />resetujte synchroniz�
 <translation id="5793665092639000975">Využité: <ph name="SPACE_USED" /> z <ph name="SPACE_AVAILABLE" /></translation>
 <translation id="5795872532621730126">Vyhľadávanie a prehliadanie</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{pred # hodinou}few{pred # hodinami}many{pred # hodinou}other{pred # hodinami}}</translation>
-<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Google LLC. Všetky práva vyhradené.</translation>
+<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Egon. Všetky práva vyhradené.</translation>
 <translation id="5810864297166300463">Internetová pomoc</translation>
 <translation id="5813552293717797987">Tento prehliadač spravujú <ph name="PARENT_NAME_1" /> a <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Začnite zadaním textu na tomto mieste alebo klepnutím na ikonu hlasu</translation>

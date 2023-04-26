@@ -63,7 +63,7 @@ found in the LICENSE file.
 
         android:inflatedId="@+id/tile_grid_placeholder"
         android:layout="@layout/new_tab_page_tile_grid_placeholder" />
-    <Button
+    <!-- <Button
         
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -76,7 +76,7 @@ found in the LICENSE file.
         android:paddingBottom="8dp"
         android:text="Buuttoonnn"
         android:textSize="16sp"
-        />
+        /> -->
     <ViewStub
         android:id="@+id/search_resumption_module_container_stub"
         android:layout_width="match_parent"

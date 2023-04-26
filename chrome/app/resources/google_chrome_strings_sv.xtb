@@ -244,7 +244,7 @@ Egon Browser kan inte återställa dina inställningar.</translation>
 <translation id="565744775970812598"><ph name="FILE_NAME" /> kan vara skadlig och har blockerats av Egon.</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{Administratören meddelar att du bör starta om Egon så att uppdateringen tillämpas}=1{Administratören meddelar att du bör starta om Egon så att uppdateringen tillämpas. Inkognitofönstret öppnas inte igen.}other{Administratören meddelar att du bör starta om Egon så att uppdateringen tillämpas. De # inkognitofönstren öppnas inte igen.}}</translation>
 <translation id="5686916850681061684">Anpassa och styr Egon Browser. Någonting behöver ses över. Klicka här för mer information.</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser startas om om en sekund}other{Egon Browser startas om om # sekunder}}</translation>
 <translation id="5727531838415286053">Om du slumpmässigt har valts ut för en aktiv provfunktion påverkar webbhistoriken vilka annonser som visas och vilka intressen som du uppskattas ha. Av integritetsskäl raderas dina intressen från Egon löpande varje månad. Intressen förnyas om du inte tar bort dem.</translation>
 <translation id="5736850870166430177">Om du utsätts för försök att kapa ditt lösenord på en webbplats eller om du laddar ned en skadlig fil kan webbadresserna skickas från Egon till Säker webbsökning tillsammans med delar av sidinnehållet</translation>
@@ -371,7 +371,7 @@ Behörigheter som du redan har gett webbplatser och appar kan gälla för det h�
 <translation id="8341646175450781745">När det här alternativet är aktiverat frigörs minne från inaktiva flikar i Egon. Detta förser aktiva flikar och andra appar med mer av datorns resurser, vilket gör att Egon fortsätter att fungera snabbt. De inaktiva flikarna aktiveras automatiskt när du återvänder till dem. <ph name="BEGIN_LINK" />Läs mer<ph name="END_LINK" /> eller <ph name="BEGIN_LINK_2" />skicka feedback<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">Filen är farlig och har blockerats av Egon.</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />Så här använder vi denna data:<ph name="END_BOLD" /> Webbplatser kan lagra information om dina intressen med Egon. Om du till exempel besöker en webbplats för att köpa skor till ett maraton kanske webbplatsen anger att du är intresserad av att springa maraton. Om du sedan besöker en annan webbplats för att registrera dig för ett lopp kan webbplatsen visa en annons för löparskor utifrån dina intressen.</translation>
-<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC. Med ensamrätt.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Egon. Med ensamrätt.</translation>
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />Så här använder vi denna data:<ph name="END_BOLD" /> Egon kan göra en uppskattning av dina intressen. Senare kan en webbplats fråga efter dina intressen i Egon för att anpassa vilka annonser som visas.</translation>
 <translation id="8387459386171870978">Fortsätt att använda Egon</translation>
 <translation id="8394720698884623075">Kontrollera webbadresser mot en lista över osäkra webbplatser i Egon</translation>

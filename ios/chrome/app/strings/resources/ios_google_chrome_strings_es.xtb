@@ -71,7 +71,7 @@
 <translation id="5552137475244467770">Egon comprueba de forma periódica si tus contraseñas se encuentran en alguna lista publicada en Internet. Cuando lo hace, se cifran tus contraseñas y nombres de usuario para que nadie pueda leerlos, ni siquiera Google.</translation>
 <translation id="5639704535586432836">Abre Ajustes &gt; Privacidad &gt; Cámara &gt; Egon Browser y activa la cámara.</translation>
 <translation id="5642200033778930880">Egon Browser no puede usar la cámara en el modo Vista dividida</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="571296537125272375">Sin conexión, Egon no puede comprobar si hay actualizaciones</translation>
 <translation id="5716154293141027663">Abre Egon siempre que toques enlaces en otras aplicaciones</translation>
 <translation id="5854621639439811139">Consejo sobre Egon. Algunos botones ahora se encuentran en la parte inferior de la pantalla, como Atrás, Adelante y Buscar.</translation>
@@ -116,7 +116,7 @@
 <translation id="81358522153858150">Egon ahora admite políticas de usuarios para tu cuenta gestionada</translation>
 <translation id="8160472928944011082">No se puede actualizar Egon</translation>
 <translation id="8357607116237445042">Elige si quieres borrar o conservar tus datos de Egon en este dispositivo</translation>
-<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Google LLC. Todos los derechos reservados.</translation>
+<translation id="8370517070665726704">Copyright <ph name="YEAR" /> Egon. Todos los derechos reservados.</translation>
 <translation id="840168496893712993">Algunos complementos hacen que Egon falle. Prueba a desinstalarlos.</translation>
 <translation id="8414886616817913619">Tu organización requiere que inicies sesión para usar Egon. <ph name="BEGIN_LINK" />Más información<ph name="END_LINK" /></translation>
 <translation id="8459495907675268833">Los datos seleccionados se han eliminado de Egon y de los dispositivos sincronizados. Es posible que tu cuenta de Google tenga otras formas del historial de navegación, como las búsquedas o la actividad de otros servicios de Google en la página history.google.com.</translation>

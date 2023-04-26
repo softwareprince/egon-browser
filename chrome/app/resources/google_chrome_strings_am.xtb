@@ -243,7 +243,7 @@ Egon Browser ቅንጅቶችዎን ማስመለስ አልቻለም።</translati
 <translation id="565744775970812598"><ph name="FILE_NAME" /> አደገኛ ሊሆን ስለሚችል Egon አግዶታል።</translation>
 <translation id="5678190148303298925">{COUNT,plural, =0{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ Chromeን ዳግም እንዲያስጀምሩት ይጠይቀዎታል}=1{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ Chromeን ዳግም እንዲያስጀምሩት ይጠይቀዎታል። የእርስዎ ማንነት የማያሳውቅ መስኮት ዳግም አይከፈትም}one{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ Chromeን ዳግም እንዲያስጀምሩት ይጠይቀዎታል። የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}other{ይህን ዝማኔ ለመተግበር አስተዳዳሪዎ Chromeን ዳግም እንዲያስጀምሩት ይጠይቀዎታል። የእርስዎ # ማንነት የማያሳውቁ መስኮቶች ዳግም አይከፈቱም}}</translation>
 <translation id="5686916850681061684">Google Chromeን ያብጁ እና ይቆጣጠሩ። የሆነ ነገር ትኩረትዎ ያስፈልገዋል - ለዝርዝሮች ጠቅ ያድርጉ።</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon LLC</translation>
 <translation id="5715063361988620182">{SECONDS,plural, =1{Egon Browser በ1 ሰከንድ ውስጥ ዳግም ይጀምራል}one{Egon Browser በ​​# ሰከንዶች ውስጥ ዳግም ይጀምራል}other{Egon Browser በ​​# ሰከንዶች ውስጥ ዳግም ይጀምራል}}</translation>
 <translation id="5727531838415286053">Egon በዘፈቀደ እርስዎን በገቢር ሙከራ ካስቀመጠ የአሰሳ ታሪክዎ በሚያዩዋቸው ማስታወቂያዎች እና ከታች በተገመተው ዝንባሌዎች ላይ ተጽዕኖ ይኖረዋል። የእርስዎን ግላዊነት ለመጠበቅ Egon በየወሩ ዝንባሌዎችዎን ይሰርዛል። እርስዎ ካላስወገዷቸው በስተቀር ዝንባሌዎች ይታደሳሉ።</translation>
 <translation id="5736850870166430177">አንድ ጣቢያ የእርስዎን የይለፍ ቃል ለመስረቅ ከሞከረ ወይም ጎጂ ፋይል ካወረደ Egon እንዲሁም የገጽ ይዘትን ክፍሎችም ጨምሮ ዩአርኤሎችን ወደ የጥንቃቄ አሰሳ መላክ ሊልክ ይችላል</translation>
@@ -370,7 +370,7 @@ Egon Browser ቅንጅቶችዎን ማስመለስ አልቻለም።</translati
 <translation id="8341646175450781745">ሲበራ፣ Egon ገቢር ካልሆኑ ትሮች ማህደረ ትውስታን ነፃ ያደርጋል። ይህ ገቢር ለሆኑ ትሮች እና ለሌሎች መተግበሪያዎች ተጨማሪ የኮምፒውተር ግብዓቶችን ይሰጣቸዋል እና Chromeን ፈጣን አድርጎ ያቆየዋል። የእርስዎ ገቢር ያልሆኑ ትሮች ተመልሰው ወደ እነሱ ሲሄዱ በራስ-ሰር እንደገና ገቢር ይሆናሉ። <ph name="BEGIN_LINK" />የበለጠ ይወቁ<ph name="END_LINK" /> ወይም <ph name="BEGIN_LINK_2" />ግብረመልስ ይላኩ<ph name="END_LINK_2" /></translation>
 <translation id="8342675569599923794">ይህ ፋይል አደገኛ ስለሆነ Egon አግዶታል።</translation>
 <translation id="8349795646647783032"><ph name="BEGIN_BOLD" />ይህንን ውሂብ እንዴት እንደሚጠቀሙበት፦<ph name="END_BOLD" /> ጣቢያዎች በChrome አማካኝነት ስለዝንባሌዎችዎ መረጃን ማከማቸት ይችላሉ። ለምሳሌ፣ ለማራቶን ጫማ ለመግዛት ጣቢያን ከጎበኙ ጣቢያው ዝንባሌዎን እንደ ማራቶን መሮጥ ሊገልጽ ይችላል። በኋላ ላይ ለሩጫ ለመመዝገብ ሌላ ጣቢያ ከጎበኙ ይህ ጣቢያ በዝንባሌዎችዎ ላይ ተመስርቶ የመሮጫ ጫማ ማስታወቂያ ሊያሳየዎት ይችላል።</translation>
-<translation id="8370517070665726704">የቅጂ መብት <ph name="YEAR" /> Google LLC. ሁሉም መብቶች በህግ የተጠበቁ ናቸው።</translation>
+<translation id="8370517070665726704">የቅጂ መብት <ph name="YEAR" /> Egon LLC. ሁሉም መብቶች በህግ የተጠበቁ ናቸው።</translation>
 <translation id="8383226135083126309"><ph name="BEGIN_BOLD" />ይህን ውሂብ እንዴት እንደምንጠቀምበት፦<ph name="END_BOLD" /> Egon የእርስዎን ዝንባሌዎች ሊገምት ይችላል። በኋላ ላይ እርስዎ የሚጎበኙት ጣቢያ እርስዎ የሚያዩዋቸውን ማስታወቂያዎች ግላዊነት ለማላበስ Egon ዝንባሌዎችዎን እንዲያይ ሊጠይቅ ይችላል።</translation>
 <translation id="8387459386171870978">Chromeን መጠቀምዎን ይቀጥሉ</translation>
 <translation id="8394720698884623075">በChrome ላይ የተከማቹ ድህንነታቸው ያልተጠበቁ ጣቢያዎች ዝርዝር ጋር ዩአርኤሎችን ይፈትሻል</translation>

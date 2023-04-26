@@ -871,7 +871,7 @@ Til að breyta þessari stillingu skaltu <ph name="BEGIN_LINK" />endurstilla sam
 <translation id="5793665092639000975">Notar <ph name="SPACE_USED" /> af <ph name="SPACE_AVAILABLE" /></translation>
 <translation id="5795872532621730126">Leita og fletta</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{Fyrir # klukkustund}one{Fyrir # klukkustund}other{Fyrir # klukkustundum}}</translation>
-<translation id="5810288467834065221">Höfundarréttur <ph name="YEAR" /> Google LLC. Öll réttindi áskilin.</translation>
+<translation id="5810288467834065221">Höfundarréttur <ph name="YEAR" /> Egon. Öll réttindi áskilin.</translation>
 <translation id="5810864297166300463">Vefhjálp</translation>
 <translation id="5813552293717797987">Vafranum er stjórnað af <ph name="PARENT_NAME_1" /> og <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Sláðu inn hér eða ýttu á raddtáknið til að byrja</translation>

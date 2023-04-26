@@ -871,7 +871,7 @@
 <translation id="5793665092639000975">Использовано: <ph name="SPACE_USED" /> из <ph name="SPACE_AVAILABLE" /></translation>
 <translation id="5795872532621730126">Просмотр страниц и поиск</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# час назад}one{# час назад}few{# часа назад}many{# часов назад}other{# часа назад}}</translation>
-<translation id="5810288467834065221">© Google LLC, <ph name="YEAR" />. Все права защищены.</translation>
+<translation id="5810288467834065221">© Egon, <ph name="YEAR" />. Все права защищены.</translation>
 <translation id="5810864297166300463">Помощь при работе в Интернете</translation>
 <translation id="5813552293717797987">Этим браузером управляют <ph name="PARENT_NAME_1" /> и <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Чтобы использовать голосовой ввод, нажмите на значок микрофона</translation>

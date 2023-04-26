@@ -871,7 +871,7 @@
 <translation id="5793665092639000975"><ph name="SPACE_AVAILABLE" /> 中 <ph name="SPACE_USED" /> を使用中</translation>
 <translation id="5795872532621730126">検索とブラウジング</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# 時間前}other{# 時間前}}</translation>
-<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Google LLC. All rights reserved.</translation>
+<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Egon. All rights reserved.</translation>
 <translation id="5810864297166300463">ウェブ アシスタント</translation>
 <translation id="5813552293717797987">このブラウザは、<ph name="PARENT_NAME_1" /> と <ph name="PARENT_NAME_2" /> によって管理されています。</translation>
 <translation id="5814131985548525293">始めるにはここに入力するかマイクのアイコンをタップします</translation>

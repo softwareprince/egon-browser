@@ -74,7 +74,7 @@ const wchar_t kRegDisplayVersion[] = L"DisplayVersion";
 const wchar_t kRegInstallDate[] = L"InstallDate";
 const wchar_t kRegVersionMajor[] = L"VersionMajor";
 const wchar_t kRegVersionMinor[] = L"VersionMinor";
-const wchar_t kRegPublisher[] = L"Google LLC";
+const wchar_t kRegPublisher[] = L"Egon";
 
 // Chrome is being opened to show the credential provider logon page.  This
 // page is always shown in incognito mode.

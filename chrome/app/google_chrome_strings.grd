@@ -396,10 +396,10 @@ chromium_strings.grd. -->
         <ph name="PAGE_TITLE">$1<ex>Google</ex></ph> - Egon Browser Canary
       </message>
       <message name="IDS_ABOUT_VERSION_COMPANY_NAME" desc="Company name on the about pages">
-        Google LLC
+        Egon Browser
       </message>
       <message name="IDS_ABOUT_VERSION_COPYRIGHT" desc="Copyright information on the about pages">
-        Copyright <ph name="YEAR">{0,date,y}<ex>2016</ex></ph> Google LLC. All rights reserved.
+        Copyright <ph name="YEAR">{0,date,y}<ex>2016</ex></ph> Egon Browser. All rights reserved.
       </message>
       <if expr="chromeos_ash">
         <if expr="reven">

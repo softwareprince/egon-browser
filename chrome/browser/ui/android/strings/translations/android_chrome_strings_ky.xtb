@@ -871,7 +871,7 @@ Google аккаунтуңуздун башка Google кызматтарынан
 <translation id="5793665092639000975"><ph name="SPACE_AVAILABLE" /> ичинен <ph name="SPACE_USED" /> колдонулууда</translation>
 <translation id="5795872532621730126">Издөө жана серептөө</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# саат мурун}other{# саат мурун}}</translation>
-<translation id="5810288467834065221">© Google LLC, <ph name="YEAR" /> Баардык укуктар корголгон.</translation>
+<translation id="5810288467834065221">© Egon, <ph name="YEAR" /> Баардык укуктар корголгон.</translation>
 <translation id="5810864297166300463">Интернетте жардам алуу</translation>
 <translation id="5813552293717797987">Бул серепчи <ph name="PARENT_NAME_1" /> жана <ph name="PARENT_NAME_2" /> тарабынан башкарылат.</translation>
 <translation id="5814131985548525293">Баштоо үчүн бул жерге жазыңыз же үн сүрөтчөсүн таптап коюңуз</translation>

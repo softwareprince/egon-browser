@@ -871,7 +871,7 @@
 <translation id="5793665092639000975">已使用 <ph name="SPACE_USED" /> (共 <ph name="SPACE_AVAILABLE" />)</translation>
 <translation id="5795872532621730126">搜尋和瀏覽</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# 小時前}other{# 小時前}}</translation>
-<translation id="5810288467834065221">版權所有 <ph name="YEAR" /> Google LLC。保留所有權利。</translation>
+<translation id="5810288467834065221">版權所有 <ph name="YEAR" /> Egon。保留所有權利。</translation>
 <translation id="5810864297166300463">網絡協助</translation>
 <translation id="5813552293717797987">此瀏覽器由 <ph name="PARENT_NAME_1" /> 和 <ph name="PARENT_NAME_2" /> 管理。</translation>
 <translation id="5814131985548525293">在此處輸入或輕按麥克風圖示以開始搜尋</translation>

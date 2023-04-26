@@ -36,7 +36,7 @@ If '<ph name="SERVICE_SCRIPT_NAME" />' is already ticked, untick it and then tic
 <translation id="2599300881200251572">This service enables incoming connections from Egon Remote Desktop clients.</translation>
 <translation id="2647232381348739934">Chromoting Service</translation>
 <translation id="2676780859508944670">Working…</translation>
-<translation id="2692522824157224199">Copyright 2022 Google LLC. All rights reserved.</translation>
+<translation id="2692522824157224199">Copyright 2022 Egon. All rights reserved.</translation>
 <translation id="2699970397166997657">Chromoting</translation>
 <translation id="2758123043070977469">There was an issue authenticating. Please login again.</translation>
 <translation id="2803375539583399270">Enter PIN</translation>
@@ -105,7 +105,7 @@ If '<ph name="SERVICE_SCRIPT_NAME" />' is already ticked, untick it and then tic
 <translation id="5419418238395129586">Last online: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Host has shut down.</translation>
 <translation id="5601503069213153581">PIN</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5708869785009007625">Your desktop is currently shared with <ph name="USER" />.</translation>
 <translation id="5750083143895808682">Signed in as <ph name="EMAIL_ADDRESS" />.</translation>
 <translation id="579702532610384533">Reconnect</translation>

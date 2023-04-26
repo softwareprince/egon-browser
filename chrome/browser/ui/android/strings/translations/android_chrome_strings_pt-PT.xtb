@@ -871,7 +871,7 @@ Para alterar esta definição, <ph name="BEGIN_LINK" />reponha a sincronização
 <translation id="5793665092639000975">A utilizar <ph name="SPACE_USED" /> de <ph name="SPACE_AVAILABLE" />.</translation>
 <translation id="5795872532621730126">Pesquisar e procurar</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{Há # hora}other{Há # horas}}</translation>
-<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Google LLC. Todos os direitos reservados.</translation>
+<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Egon. Todos os direitos reservados.</translation>
 <translation id="5810864297166300463">Assistência Web</translation>
 <translation id="5813552293717797987">Este navegador é gerido por <ph name="PARENT_NAME_1" /> e <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Escreva aqui ou toque no ícone de voz para começar.</translation>

@@ -871,7 +871,7 @@ A beállítás módosításához <ph name="BEGIN_LINK" />állítsa vissza a szin
 <translation id="5793665092639000975"><ph name="SPACE_AVAILABLE" />/<ph name="SPACE_USED" /> használatban</translation>
 <translation id="5795872532621730126">Keresés és böngészés</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# órája}other{# órája}}</translation>
-<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Google LLC. Minden jog fenntartva.</translation>
+<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Egon. Minden jog fenntartva.</translation>
 <translation id="5810864297166300463">Webes segítség</translation>
 <translation id="5813552293717797987">Ezt a böngészőt <ph name="PARENT_NAME_1" /> és <ph name="PARENT_NAME_2" /> kezeli.</translation>
 <translation id="5814131985548525293">Ide írhat, vagy koppintson a hangalapú keresés ikonjára az indításhoz</translation>

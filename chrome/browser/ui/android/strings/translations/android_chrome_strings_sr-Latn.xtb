@@ -871,7 +871,7 @@ Da biste promenili ovo podešavanje, <ph name="BEGIN_LINK" />resetujte sinhroniz
 <translation id="5793665092639000975">Koristi se <ph name="SPACE_USED" /> od <ph name="SPACE_AVAILABLE" /></translation>
 <translation id="5795872532621730126">Pretražite i pregledajte</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{Pre # sata}one{Pre # sata}few{Pre # sata}other{Pre # sati}}</translation>
-<translation id="5810288467834065221">Autorska prava <ph name="YEAR" />. Google LLC. Sva prava zadržana.</translation>
+<translation id="5810288467834065221">Autorska prava <ph name="YEAR" />. Egon. Sva prava zadržana.</translation>
 <translation id="5810864297166300463">Pomoć na vebu</translation>
 <translation id="5813552293717797987">Ovim pregledačem upravljaju <ph name="PARENT_NAME_1" /> i <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Unesite tekst ovde ili dodirnite ikonu mikrofona da biste započeli</translation>

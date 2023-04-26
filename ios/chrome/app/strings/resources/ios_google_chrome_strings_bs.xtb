@@ -71,7 +71,7 @@
 <translation id="5552137475244467770">Egon povremeno provjerava nalaze li se vaše lozinke na listama koje su objavljene na mreži. Prilikom toga, vaše lozinke i korisnička imena su šifrirana i niko, uključujući Google, ih ne može pročitati.</translation>
 <translation id="5639704535586432836">Otvorite Postavke &gt; Privatnost &gt; Kamera &gt; Egon Browser i uključite kameru.</translation>
 <translation id="5642200033778930880">Egon Browser ne može koristiti vašu kameru u podijeljenom načinu prikaza</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="571296537125272375">Van mreže, Egon ne može provjeravati ima li ažuriranja</translation>
 <translation id="5716154293141027663">Otvorite Egon kad god dodirnete linkove u drugim aplikacijama</translation>
 <translation id="5854621639439811139">Egon savjet. Neka dugmad se sada nalaze na dnu ekrana, kao što su dugmad za nazad, naprijed i pretraživanje.</translation>
@@ -116,7 +116,7 @@
 <translation id="81358522153858150">Egon sada podržava korisnička pravila za vaš upravljani račun</translation>
 <translation id="8160472928944011082">Nije moguće ažurirati Egon</translation>
 <translation id="8357607116237445042">Odaberite želite li obrisati podatke Chromea s ovog uređaja ili ih želite zadržati</translation>
-<translation id="8370517070665726704">Autorska prava <ph name="YEAR" /> Google LLC. Sva prava su zadržana.</translation>
+<translation id="8370517070665726704">Autorska prava <ph name="YEAR" /> Egon. Sva prava su zadržana.</translation>
 <translation id="840168496893712993">Neki dodaci uzrokuju pad aplikacije Chromea. Pokušajte ih deinstalirati.</translation>
 <translation id="8414886616817913619">Vaša organizacija zahtijeva da se prijavite da koristite Egon. <ph name="BEGIN_LINK" />Saznajte više<ph name="END_LINK" /></translation>
 <translation id="8459495907675268833">Odabrani podaci su uklonjeni iz Chromea i sinhroniziranih uređaja. Vaš Google račun može imati druge oblike historije pregledanja, kao što su pretraživanja i aktivnosti s drugih Googleovih usluga na history.google.com.</translation>

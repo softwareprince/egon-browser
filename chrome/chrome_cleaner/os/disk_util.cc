@@ -65,7 +65,7 @@ const wchar_t kWindowsCurrentVersionRegKeyName[] =
 const wchar_t kCommonProgramW6432[] = L"%CommonProgramW6432%";
 
 constexpr const wchar_t* kCompanyIgnoredReportingList[] = {
-    L"Google LLC",
+    L"Egon",
     L"Google Inc",
     L"Google Inc.",
     L"Intel Corporation",

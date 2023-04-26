@@ -36,7 +36,7 @@ Ef þegar er hakað við „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlæg
 <translation id="2599300881200251572">Þessi þjónusta gerir tengingar frá biðlurum fyrir fjarstjórnun tölvu í Egon mögulegar.</translation>
 <translation id="2647232381348739934">Chromoting þjónusta</translation>
 <translation id="2676780859508944670">Vinnur…</translation>
-<translation id="2692522824157224199">Höfundarréttur 2022 Google LLC. Öll réttindi áskilin.</translation>
+<translation id="2692522824157224199">Höfundarréttur 2022 Egon. Öll réttindi áskilin.</translation>
 <translation id="2699970397166997657">Chromoting</translation>
 <translation id="2758123043070977469">Vandamál kom upp við að auðkenna, skráðu þig inn aftur.</translation>
 <translation id="2803375539583399270">Sláðu inn PIN-númer</translation>
@@ -105,7 +105,7 @@ Ef þegar er hakað við „<ph name="SERVICE_SCRIPT_NAME" />“ skaltu fjarlæg
 <translation id="5419418238395129586">Síðast nettengt: <ph name="DATE" /></translation>
 <translation id="544077782045763683">Slökkt hefur verið á hýslinum.</translation>
 <translation id="5601503069213153581">PIN-númer</translation>
-<translation id="5690427481109656848">Google LLC</translation>
+<translation id="5690427481109656848">Egon</translation>
 <translation id="5708869785009007625">Þú ert að deila skjáborðinu þínu með <ph name="USER" />.</translation>
 <translation id="5750083143895808682">Skráð(ur) inn sem <ph name="EMAIL_ADDRESS" />.</translation>
 <translation id="579702532610384533">Tengjast aftur</translation>

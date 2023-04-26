@@ -871,7 +871,7 @@ Bu ayarı değiştirmek için <ph name="BEGIN_LINK" />senkronizasyonu sıfırlay
 <translation id="5793665092639000975"><ph name="SPACE_USED" /> / <ph name="SPACE_AVAILABLE" /> kullanılıyor</translation>
 <translation id="5795872532621730126">Arama ve göz atma</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# saat önce}other{# saat önce}}</translation>
-<translation id="5810288467834065221">Telif hakkı <ph name="YEAR" /> Google LLC. Tüm hakları saklıdır.</translation>
+<translation id="5810288467834065221">Telif hakkı <ph name="YEAR" /> Egon. Tüm hakları saklıdır.</translation>
 <translation id="5810864297166300463">Web Yardımı</translation>
 <translation id="5813552293717797987">Bu tarayıcı <ph name="PARENT_NAME_1" /> ve <ph name="PARENT_NAME_2" /> tarafından yönetiliyor.</translation>
 <translation id="5814131985548525293">Başlamak için buraya yazın veya ses simgesine dokunun</translation>

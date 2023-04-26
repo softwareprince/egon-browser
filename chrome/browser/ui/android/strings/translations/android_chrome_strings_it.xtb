@@ -871,7 +871,7 @@ Per cambiare questa impostazione, <ph name="BEGIN_LINK" />reimposta la sincroniz
 <translation id="5793665092639000975">Spazio utilizzato: <ph name="SPACE_USED" /> di <ph name="SPACE_AVAILABLE" /></translation>
 <translation id="5795872532621730126">Cerca e sfoglia</translation>
 <translation id="5809361687334836369">{HOURS,plural, =1{# ora fa}other{# ore fa}}</translation>
-<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Google LLC Tutti i diritti riservati.</translation>
+<translation id="5810288467834065221">Copyright <ph name="YEAR" /> Egon Tutti i diritti riservati.</translation>
 <translation id="5810864297166300463">Assistenza Web</translation>
 <translation id="5813552293717797987">Questo browser è gestito da <ph name="PARENT_NAME_1" /> e <ph name="PARENT_NAME_2" />.</translation>
 <translation id="5814131985548525293">Per iniziare, digita qui oppure tocca l'icona a forma di microfono</translation>

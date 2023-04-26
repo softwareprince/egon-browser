@@ -962,8 +962,8 @@ public class FeedSurfaceMediator
             itemList.add(buildMenuListItem(
                     R.string.ntp_manage_autoplay, R.id.ntp_feed_header_menu_item_autoplay, iconId));
         }
-        itemList.add(buildMenuListItem(
-                R.string.learn_more, R.id.ntp_feed_header_menu_item_learn, iconId));
+        // itemList.add(buildMenuListItem(
+        //         R.string.learn_more, R.id.ntp_feed_header_menu_item_learn, iconId));
         itemList.add(getMenuToggleSwitch(
                 mSectionHeaderModel.get(SectionHeaderListProperties.IS_SECTION_ENABLED_KEY),
                 iconId));
