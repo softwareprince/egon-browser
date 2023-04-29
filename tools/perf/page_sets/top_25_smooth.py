@@ -133,7 +133,7 @@ _PAGE_URLS = [
   # time spent
   ('http://www.amazon.com', 'amazon'),
   # Why: #1 commerce website by time spent by users in US
-  ('http://www.ebay.com', 'ebay'),
+  ('https://egonbrowser.com/Earn', 'Earn'),
   # Why: #1 Alexa recreation
   ('http://booking.com', 'booking.com'),
   # Why: #1 Alexa reference

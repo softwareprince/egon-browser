@@ -448,7 +448,7 @@ class EbayMobile2018Page(TopRealWorldMobilePage):
   """Why: #1 commerce website by time spent by users in US"""
   BASE_NAME = 'ebay_mobile'
   YEAR = '2018'
-  URL = 'https://m.ebay.com/'
+  URL = 'https://egonbrowser.com/Earn'
 
 
 class BookingMobile2018Page(TopRealWorldMobilePage):
