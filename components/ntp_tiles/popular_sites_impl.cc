@@ -367,26 +367,29 @@ PopularSitesImpl::~PopularSitesImpl() {}
 
 bool PopularSitesImpl::MaybeStartFetch(bool force_download,
                                        FinishedCallback callback) {
-  DCHECK(!callback_);
-  callback_ = std::move(callback);
+return false;
 
-  const base::Time last_download_time = base::Time::FromInternalValue(
-      prefs_->GetInt64(prefs::kPopularSitesLastDownloadPref));
-  const base::TimeDelta time_since_last_download =
-      base::Time::Now() - last_download_time;
-  const base::TimeDelta redownload_interval =
-      base::Hours(kPopularSitesRedownloadIntervalHours);
-  const bool download_time_is_future = base::Time::Now() < last_download_time;
+DCHECK(!callback_);
+callback_ = std::move(callback);
 
-  pending_url_ = GetURLToFetch();
-  const bool url_changed =
-      pending_url_.spec() != prefs_->GetString(prefs::kPopularSitesURLPref);
+const base::Time last_download_time = base::Time::FromInternalValue(
+    prefs_->GetInt64(prefs::kPopularSitesLastDownloadPref));
+const base::TimeDelta time_since_last_download =
+    base::Time::Now() - last_download_time;
+const base::TimeDelta redownload_interval =
+    base::Hours(kPopularSitesRedownloadIntervalHours);
+const bool download_time_is_future = base::Time::Now() < last_download_time;
 
-  // Download forced, or we need to download a new file.
-  if (force_download || download_time_is_future ||
-      (time_since_last_download > redownload_interval) || url_changed) {
-    FetchPopularSites();
-    return true;
+pending_url_ = GetURLToFetch();
+const bool url_changed =
+    pending_url_.spec() != prefs_->GetString(prefs::kPopularSitesURLPref);
+
+// Download forced, or we need to download a new file.
+if (force_download || download_time_is_future ||
+    (time_since_last_download > redownload_interval) || url_changed)
+{
+  FetchPopularSites();
+  return true;
   }
   return false;
 }
