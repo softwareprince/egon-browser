@@ -206,7 +206,8 @@ v8::Local<v8::Object> GenerateNtpTheme(v8::Isolate* isolate,
 
   // The theme alternate logo value indicates same color when TRUE and a
   // colorful one when FALSE.
-  builder.Set("alternateLogo", theme.logo_alternate);
+  // builder.Set("alternateLogo", theme.logo_alternate);
+  builder.Set("alternateLogo", True);
 
   // The theme background image url is of format kCSSBackgroundImageFormat
   // where both instances of "%s" are replaced with the id that identifies the
