@@ -101,7 +101,15 @@
       "type": "SEARCH_ENGINE_DUCKDUCKGO",
       "id": 92
     },
-
+"egon": {
+  "name": "Egon",
+  "keyword": "egonbrowser.com",
+  "favicon_url": "https://egonbrowser.com/wp-content/uploads/2022/05/imgpsh_fullsize_anim-8-1.jpg",
+  "search_url": "https://www.google.com/search?q={searchTerms}",
+  "suggest_url": "{google:baseSuggestURL}search?{google:searchFieldtrialParameter}client={google:suggestClient}&gs_ri={google:suggestRid}&xssi=t&q={searchTerms}&{google:inputType}{google:omniboxFocusType}{google:cursorPosition}{google:currentPageUrl}{google:pageClassification}{google:clientCacheTimeToLive}{google:searchVersion}{google:sessionToken}{google:prefetchQuery}sugkey={google:suggestAPIKeyParameter}",
+  "type": "SEARCH_ENGINE_DUCKDUCKGO",
+  "id": 93
+},
     "ecosia": {
       "name": "Ecosia",
       "keyword": "ecosia.org",
