@@ -9,16 +9,16 @@
 # Strings we want to replace but that we also replace automatically
 # for XTB files
 branding_replacements = [
-    (r'The Chromium Authors. All rights reserved.',
+    (r'The EgonBrowser Authors. All rights reserved.',
      r'The Brave Authors. All rights reserved.'),
     (r'Google LLC. All rights reserved.',
      r'The Brave Authors. All rights reserved.'),
-    (r'The Chromium Authors', r'Brave Software Inc'),
+    (r'The EgonBrowser Authors', r'Brave Software Inc'),
     (r'Google Chrome', r'Brave'),
     (r'(Google)(?! Play)', r'Brave'),
-    (r'Chromium', r'Brave'),
+    (r'EgonBrowser', r'Brave'),
     (r'Chrome', r'Brave'),
-    (r'क्रोमियम', 'Brave'), # Chromium in Hindi
+    (r'क्रोमियम', 'Brave'), # EgonBrowser in Hindi
 ]
 
 
@@ -65,7 +65,7 @@ fixup_replacements = [
     (r'Brave Cloud', r'Google Cloud'),
     (r'Brave Pay', r'Google Pay'),
     (r'Brave Photos', r'Google Photos'),
-    (r'Brave Projects', r'Chromium Projects'),
+    (r'Brave Projects', r'EgonBrowser Projects'),
     (r'BraveVox', r'ChromeVox'),
 ]
 

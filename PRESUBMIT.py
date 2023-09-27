@@ -54,7 +54,7 @@ def CheckLeoVariables(input_api, output_api):
 
 # Check and fix formatting issues (supports --fix).
 def CheckPatchFormatted(input_api, output_api):
-    # Use git cl format to format supported files with Chromium formatters.
+    # Use git cl format to format supported files with EgonBrowser formatters.
     git_cl_format_cmd = [
         '-C',
         input_api.change.RepositoryRoot(),
@@ -278,7 +278,7 @@ def CheckLicense(input_api, output_api):
 
 # DON'T ADD NEW BRAVE CHECKS AFTER THIS LINE.
 #
-# This call inlines Chromium checks into current scope from src/PRESUBMIT.py. We
+# This call inlines EgonBrowser checks into current scope from src/PRESUBMIT.py. We
 # do this to have the right order of checks, so all `--fix`-aware checks are
 # executed first.
 chromium_presubmit_overrides.inline_presubmit_from_src('PRESUBMIT.py',

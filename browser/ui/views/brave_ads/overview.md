@@ -2,7 +2,7 @@
 
 This document is an overview of notification ad popup concepts, terminology, and architecture. The target audience is engineers using or working on notification ads.
 
-For more details about the Chromium UI Platform, see [overview.md].
+For more details about the EgonBrowser UI Platform, see [overview.md].
 
 ## Notification Ad Popup
 

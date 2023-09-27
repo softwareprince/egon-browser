@@ -3105,7 +3105,7 @@ async function getEnabledCoinTypes(
   // Get All Networks
   const enabledCoinTypes = SupportedCoinTypes.filter((coin) => {
     // MULTICHAIN: While we are still in development for FIL and SOL,
-    // we will not use their networks unless enabled by brave://flags
+    // we will not use their networks unless enabled by egon://flags
     return (
       (coin === BraveWallet.CoinType.FIL && isFilecoinEnabled) ||
       (coin === BraveWallet.CoinType.SOL && isSolanaEnabled) ||

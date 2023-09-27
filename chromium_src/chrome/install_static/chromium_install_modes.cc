@@ -13,12 +13,12 @@
 
 namespace install_static {
 
-const wchar_t kCompanyPathName[] = L"BraveSoftware";
+const wchar_t kCompanyPathName[] = L"EgonBrowser";
 
 #if defined(OFFICIAL_BUILD)
-const wchar_t kProductPathName[] = L"Brave-Browser";
+const wchar_t kProductPathName[] = L"EgonBrowser";
 #else
-const wchar_t kProductPathName[] = L"Brave-Browser-Development";
+const wchar_t kProductPathName[] = L"EgonBrowser-Development";
 #endif
 
 const size_t kProductPathNameLength = _countof(kProductPathName) - 1;
@@ -39,8 +39,8 @@ const InstallConstants kInstallModes[] = {
             L"",  // Empty install_suffix for the primary install mode.
         .logo_suffix = L"",  // No logo suffix for the primary install mode.
         .app_guid = L"{AFE6A462-C574-4B8A-AF43-4CC60DF4563B}",
-        .base_app_name = L"Brave",               // A distinct base_app_name.
-        .base_app_id = L"Brave",                 // A distinct base_app_id.
+        .base_app_name = L"EgonBrowser",               // A distinct base_app_name.
+        .base_app_id = L"EgonBrowser",                 // A distinct base_app_id.
         .browser_prog_id_prefix = L"BraveHTML",  // Browser ProgID prefix.
         .browser_prog_id_description =
             L"Brave HTML Document",         // Browser ProgID description.
@@ -89,8 +89,8 @@ const InstallConstants kInstallModes[] = {
         .logo_suffix = L"Beta",           // Logo suffix.
         .app_guid =
             L"{103BD053-949B-43A8-9120-2E424887DE11}",  // A distinct app GUID.
-        .base_app_name = L"Brave Beta",           // A distinct base_app_name.
-        .base_app_id = L"BraveBeta",              // A distinct base_app_id.
+        .base_app_name = L"EgonBrowser Beta",           // A distinct base_app_name.
+        .base_app_id = L"EgonBrowserBeta",              // A distinct base_app_id.
         .browser_prog_id_prefix = L"BraveBHTML",  // Browser ProgID prefix.
         .browser_prog_id_description =
             L"Brave Beta HTML Document",     // Browser ProgID description.
@@ -137,8 +137,8 @@ const InstallConstants kInstallModes[] = {
         .logo_suffix = L"Dev",           // Logo suffix.
         .app_guid =
             L"{CB2150F2-595F-4633-891A-E39720CE0531}",  // A distinct app GUID.
-        .base_app_name = L"Brave Dev",            // A distinct base_app_name.
-        .base_app_id = L"BraveDev",               // A distinct base_app_id.
+        .base_app_name = L"EgonBrowser Dev",            // A distinct base_app_name.
+        .base_app_id = L"EgonBrowserDev",               // A distinct base_app_id.
         .browser_prog_id_prefix = L"BraveDHTML",  // Browser ProgID prefix.
         .browser_prog_id_description =
             L"Brave Dev HTML Document",      // Browser ProgID description.
@@ -186,8 +186,8 @@ const InstallConstants kInstallModes[] = {
         .logo_suffix = L"Canary",        // Logo suffix.
         .app_guid =
             L"{C6CB981E-DB30-4876-8639-109F8933582C}",  // A distinct app GUID.
-        .base_app_name = L"Brave Nightly",        // A distinct base_app_name.
-        .base_app_id = L"BraveNightly",           // A distinct base_app_id.
+        .base_app_name = L"EgonBrowser Nightly",        // A distinct base_app_name.
+        .base_app_id = L"EgonBrowserNightly",           // A distinct base_app_id.
         .browser_prog_id_prefix = L"BraveSSHTM",  // Browser ProgID prefix.
         .browser_prog_id_description =
             L"Brave Nightly HTML Document",   // Browser ProgID description.
@@ -240,9 +240,9 @@ const InstallConstants kInstallModes[] = {
             L"",  // Empty install_suffix for the primary install mode.
         .logo_suffix = L"",  // No logo suffix for the primary install mode.
         .app_guid =
-            L"",  // Empty app_guid since no integraion with Brave Update.
-        .base_app_name = L"Brave Development",     // A distinct base_app_name.
-        .base_app_id = L"BraveDevelopment",        // A distinct base_app_id.
+            L"",  // Empty app_guid since no integraion with EgonBrowser Update.
+        .base_app_name = L"EgonBrowser",     // A distinct base_app_name.
+        .base_app_id = L"EgonBrowser",        // A distinct base_app_id.
         .browser_prog_id_prefix = L"BraveDevHTM",  // Browser ProgID prefix.
         .browser_prog_id_description =
             L"Brave Development HTML Document",  // Browser ProgID description.

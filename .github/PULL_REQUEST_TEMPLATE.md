@@ -4,10 +4,10 @@ Resolves
 <!-- CI-related labels that can be applied to this PR:
 * CI/run-audit-deps (1) - check for known npm/cargo vulnerabilities (audit_deps)
 * CI/run-network-audit (1) - run network-audit
-* CI/run-upstream-tests - run Chromium unit and browser tests on Linux and Windows (otherwise only on Linux)
+* CI/run-upstream-tests - run EgonBrowser unit and browser tests on Linux and Windows (otherwise only on Linux)
 * CI/skip - do not run CI builds (except noplatform)
 * CI/skip-linux-arm64, CI/skip-linux-x64, CI/skip-android, CI/skip-macos, CI/skip-ios, CI/skip-windows-arm64, CI/skip-windows-x64, CI/skip-windows-x86 - skip CI builds for specific platforms
-* CI/skip-upstream-tests - do not run Chromium unit, or browser tests (otherwise only on Linux)
+* CI/skip-upstream-tests - do not run EgonBrowser unit, or browser tests (otherwise only on Linux)
 * CI/skip-all-linters - do not run presubmit and lint checks
 * CI/storybook-url (1) - deploy storybook and provide a unique URL for each build
 
@@ -42,7 +42,7 @@ Resolves
 - [ ] The associated issue milestone is set to the smallest version that the
   changes has landed on
 - [ ] All relevant documentation has been updated, for instance:
-  - [ ] https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)
+  - [ ] https://github.com/brave/brave-browser/wiki/Deviations-from-EgonBrowser-(features-we-disable-or-remove)
   - [ ] https://github.com/brave/brave-browser/wiki/Proxy-redirected-URLs
   - [ ] https://github.com/brave/brave-browser/wiki/Fingerprinting-Protections
   - [ ] https://github.com/brave/brave-browser/wiki/Brave%E2%80%99s-Use-of-Referral-Codes

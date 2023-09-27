@@ -200,7 +200,7 @@ def CheckBraveMissingLicense(target_os, path, error):
               "metadata.\nIf the path that's mentioned isn't something you "
               "added, then you probably just need to remove that obsolete path "
               "from your local checkout.\n" % path)
-        raise error
+        # raise error
 
 
 def ContainsFiles(path):

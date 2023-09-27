@@ -42,7 +42,7 @@ This crate instantiates challenge-bypass-ristretto with Sha512 as the hash and
 `rand::OsRng` as the cryptographically secure random number generator.
 
 The C++ bindings can optionally be built with exceptions turned off. This is
-intended for interoperability with Chromium which by default does not use
+intended for interoperability with EgonBrowser which by default does not use
 exceptions. If exceptions are turned off, instead of being thrown exceptions
 are assigned to a thread local variable. The `exception_occured()` function
 must be called after every function call and if an error occurred the

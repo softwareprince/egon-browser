@@ -205,15 +205,15 @@ public abstract class BraveActivity extends ChromeActivity
                    BraveNewsConnectionErrorHandler.BraveNewsConnectionErrorHandlerDelegate,
                    PrivacyHubMetricsConnectionErrorHandler
                            .PrivacyHubMetricsConnectionErrorHandlerDelegate {
-    public static final String BRAVE_BUY_URL = "brave://wallet/fund-wallet";
-    public static final String BRAVE_SEND_URL = "brave://wallet/send";
-    public static final String BRAVE_SWAP_URL = "brave://wallet/swap";
-    public static final String BRAVE_DEPOSIT_URL = "brave://wallet/deposit-funds";
-    public static final String BRAVE_REWARDS_SETTINGS_URL = "brave://rewards/";
+    public static final String BRAVE_BUY_URL = "egon://wallet/fund-wallet";
+    public static final String BRAVE_SEND_URL = "egon://wallet/send";
+    public static final String BRAVE_SWAP_URL = "egon://wallet/swap";
+    public static final String BRAVE_DEPOSIT_URL = "egon://wallet/deposit-funds";
+    public static final String BRAVE_REWARDS_SETTINGS_URL = "egon://rewards/";
     public static final String BRAVE_REWARDS_SETTINGS_WALLET_VERIFICATION_URL =
-            "brave://rewards/#verify";
-    public static final String BRAVE_REWARDS_SETTINGS_MONTHLY_URL = "brave://rewards/#monthly";
-    public static final String REWARDS_AC_SETTINGS_URL = "brave://rewards/contribute";
+            "egon://rewards/#verify";
+    public static final String BRAVE_REWARDS_SETTINGS_MONTHLY_URL = "egon://rewards/#monthly";
+    public static final String REWARDS_AC_SETTINGS_URL = "egon://rewards/contribute";
     public static final String REWARDS_LEARN_MORE_URL = "https://brave.com/faq-rewards/#unclaimed-funds";
     public static final String BRAVE_TERMS_PAGE =
             "https://basicattentiontoken.org/user-terms-of-service/";

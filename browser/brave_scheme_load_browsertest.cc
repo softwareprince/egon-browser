@@ -131,7 +131,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest, NotAllowedToLoadTest) {
       NavigateToURLUntilLoadStop("example.com", "/brave_scheme_load.html"));
   content::WebContentsConsoleObserver console_observer(active_contents());
   console_observer.SetPattern(
-      "Not allowed to load local resource: brave://settings/");
+      "Not allowed to load local resource: egon://settings/");
 
   ASSERT_TRUE(content::ExecJs(
       active_contents(),
@@ -146,7 +146,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
       NavigateToURLUntilLoadStop("example.com", "/brave_scheme_load.html"));
   content::WebContentsConsoleObserver console_observer(active_contents());
   console_observer.SetPattern(
-      "Not allowed to load local resource: brave://settings/");
+      "Not allowed to load local resource: egon://settings/");
 
   ASSERT_TRUE(content::ExecJs(
       active_contents(),
@@ -162,7 +162,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
       NavigateToURLUntilLoadStop("example.com", "/brave_scheme_load.html"));
   content::WebContentsConsoleObserver console_observer(active_contents());
   console_observer.SetPattern(
-      "Not allowed to load local resource: brave://settings/");
+      "Not allowed to load local resource: egon://settings/");
 
   ASSERT_TRUE(content::ExecJs(
       active_contents(),
@@ -179,7 +179,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
   auto* initial_active_tab = active_contents();
   content::WebContentsConsoleObserver console_observer(initial_active_tab);
   console_observer.SetPattern(
-      "Not allowed to load local resource: brave://settings/");
+      "Not allowed to load local resource: egon://settings/");
 
   ASSERT_TRUE(content::ExecJs(initial_active_tab,
                               "window.domAutomationController.send("
@@ -195,10 +195,10 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
 
   content::WebContentsConsoleObserver console_observer(active_contents());
   console_observer.SetPattern(
-      "Not allowed to load local resource: brave://settings/");
+      "Not allowed to load local resource: egon://settings/");
 
   ASSERT_TRUE(
-      content::ExecJs(active_contents(), "window.open(\"brave://settings\")"));
+      content::ExecJs(active_contents(), "window.open(\"egon://settings\")"));
   ASSERT_TRUE(console_observer.Wait());
 }
 
@@ -208,7 +208,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest, NotAllowedToBraveByClick) {
       NavigateToURLUntilLoadStop("example.com", "/brave_scheme_load.html"));
   content::WebContentsConsoleObserver console_observer(active_contents());
   console_observer.SetPattern(
-      "Not allowed to load local resource: brave://settings/");
+      "Not allowed to load local resource: egon://settings/");
 
   ASSERT_TRUE(content::ExecJs(
       active_contents(),
@@ -223,7 +223,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
       NavigateToURLUntilLoadStop("example.com", "/brave_scheme_load.html"));
   content::WebContentsConsoleObserver console_observer(active_contents());
   console_observer.SetPattern(
-      "Not allowed to load local resource: brave://settings/");
+      "Not allowed to load local resource: egon://settings/");
 
   ASSERT_TRUE(content::ExecJs(
       active_contents(),
@@ -241,7 +241,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
 #endif
 // NOTE: the actual crash functionality is covered upstream in
 // chrome/browser/crash_recovery_browsertest.cc
-// This test is for the brave:// scheme. This is a regression test added with:
+// This test is for the egon:// scheme. This is a regression test added with:
 // https://github.com/brave/brave-core/pull/2229)
 IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest, MAYBE_CrashURLTest) {
   content::RenderProcessHostWatcher crash_observer(
@@ -249,7 +249,7 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest, MAYBE_CrashURLTest) {
       content::RenderProcessHostWatcher::WATCH_FOR_PROCESS_EXIT);
   content::ScopedAllowRendererCrashes allow_renderer_crashes(active_contents());
   browser()->OpenURL(
-      content::OpenURLParams(GURL("brave://crash/"), content::Referrer(),
+      content::OpenURLParams(GURL("egon://crash/"), content::Referrer(),
                              WindowOpenDisposition::CURRENT_TAB,
                              ui::PAGE_TRANSITION_TYPED, false));
   crash_observer.Wait();
@@ -258,41 +258,41 @@ IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest, MAYBE_CrashURLTest) {
 // Some webuis are not allowed to load in private window.
 // Allowed url list are checked by IsURLAllowedInIncognito().
 // So, corresponding brave scheme url should be filtered as chrome scheme.
-// Ex, brave://settings should be loaded only in normal window because
-// chrome://settings is not allowed. When tyring to loading brave://settings in
+// Ex, egon://settings should be loaded only in normal window because
+// chrome://settings is not allowed. When tyring to loading egon://settings in
 // private window, it should be loaded in normal window instead of private
 // window.
 IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
                        SettingsPageIsNotAllowedInPrivateWindow) {
-  TestURLIsNotLoadedInPrivateWindow("brave://settings");
+  TestURLIsNotLoadedInPrivateWindow("egon://settings");
 }
 
 IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
                        RewardsPageIsNotAllowedInPrivateWindow) {
-  TestURLIsNotLoadedInPrivateWindow("brave://rewards");
+  TestURLIsNotLoadedInPrivateWindow("egon://rewards");
 }
 
 IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
                        WalletPageIsNotAllowedInPrivateWindow) {
-  TestURLIsNotLoadedInPrivateWindow("brave://wallet");
+  TestURLIsNotLoadedInPrivateWindow("egon://wallet");
 }
 
 IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
                        WalletPageIsNotAllowedInGuestWindow) {
-  TestURLIsNotLoadedInGuestWindow(GURL("brave://wallet"));
+  TestURLIsNotLoadedInGuestWindow(GURL("egon://wallet"));
 }
 
 IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
                        BraveSyncPageIsNotAllowedInPrivateWindow) {
-  TestURLIsNotLoadedInPrivateWindow("brave://sync");
+  TestURLIsNotLoadedInPrivateWindow("egon://sync");
 }
 
 IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
                        BraveWelcomePageIsNotAllowedInPrivateWindow) {
-  TestURLIsNotLoadedInPrivateWindow("brave://welcome");
+  TestURLIsNotLoadedInPrivateWindow("egon://welcome");
 }
 
 IN_PROC_BROWSER_TEST_F(BraveSchemeLoadBrowserTest,
                        BraveWelcomePageIsNotAllowedInGuestWindow) {
-  TestURLIsNotLoadedInGuestWindow(GURL("brave://welcome"));
+  TestURLIsNotLoadedInGuestWindow(GURL("egon://welcome"));
 }

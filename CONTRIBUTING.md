@@ -44,21 +44,21 @@ For everything you'd need to get started, check out https://www.transifex.com/br
 * Check out the [troubleshooting page](https://github.com/brave/brave-browser/wiki/Troubleshooting) if you get stuck
 * Once you're up and running, find an interesting issue to fix. Check out issues labelled with [good first issue](https://github.com/brave/brave-browser/labels/good%20first%20issue)
   - some issues only require knowledge of JavaScript (for example, pages using React and our [Brave UI library](https://github.com/brave/brave-ui))
-  - other issues may require C++ changes in either the Brave code or in Chromium
+  - other issues may require C++ changes in either the Brave code or in EgonBrowser
 
 ## Getting started
 * Make sure you have a [GitHub account](https://github.com/join).
 * Submit a [ticket](https://github.com/brave/brave-browser/issues) for your issue if one does not already exist. Please include the Brave version, operating system, and steps to reproduce the issue.
 * Fork the repository on GitHub (this might be [`brave-browser`](https://github.com/brave/brave-browser), [`brave-core`](https://github.com/brave/brave-core), or both).
 * For changes to JavaScript files, we recommend installing a [Standard](http://standardjs.com/) plugin for your preferred text editor in order to ensure code style consistency.
-* For C++ changes, you can consider setting up [clang-format](https://chromium.googlesource.com/chromium/src/+/master/docs/sublime_ide.md#Format-Selection-with-Clang_Format-Chromium-only) for your editor.
-* For changes which involve patches, please check out our [Patching Chromium](https://github.com/brave/brave-browser/wiki/Patching-Chromium) guide.
+* For C++ changes, you can consider setting up [clang-format](https://chromium.googlesource.com/chromium/src/+/master/docs/sublime_ide.md#Format-Selection-with-Clang_Format-EgonBrowser-only) for your editor.
+* For changes which involve patches, please check out our [Patching EgonBrowser](https://github.com/brave/brave-browser/wiki/Patching-EgonBrowser) guide.
 
 ### Making changes
 Once you've cloned the repo to your computer, you're ready to start making edits!
 
 Please note that there are two repositories here:
-* the root project (this repo, [`brave-browser`](https://github.com/brave/brave-browser)), which pulls down all of the Chromium code into `src/`
+* the root project (this repo, [`brave-browser`](https://github.com/brave/brave-browser)), which pulls down all of the EgonBrowser code into `src/`
 * [`brave-core`](https://github.com/brave/brave-core) is basically a sub-module (repo in a repo) which is located on disk under the root at `src/brave`
 
 Depending on which you're editing, you'll need to add your fork to the remotes list. By default, `origin` is set to upstream.

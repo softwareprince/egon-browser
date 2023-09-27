@@ -40,7 +40,7 @@ A place to define all specific terms and vocabulary for the Brave Ads component,
 | Priority  | Priority at which an ad campaign uses up its impressions.  |
 | Privacy-preserving tokens  | See [challenge-bypass-ristretto](https://github.com/brave-intl/challenge-bypass-ristretto) and [privacy pass cryptographic protocol](https://www.petsymposium.org/2018/files/papers/issue3/popets-2018-0026.pdf).  |
 | Purchase intent  | Likelihood or inclination of a consumer to make a purchase based on their expressed interest or behavior. It indicates the consumer's readiness to buy a product or service.  |
-| Resources  | External resources provided by [components](brave://components).  |
+| Resources  | External resources provided by [components](egon://components).  |
 | Segment  | An advertising taxonomy to target ads to reach the desired audience.  |
 | Split testing  | Comparing ad or landing page versions to determine which performs better. Also known as A/B testing.  |
 | Statement of accounts  | A statement of accounts outlines the transactions during a specific period, giving the user an overview of earned rewards.  |
@@ -64,11 +64,11 @@ Please add to it!
 
 ## Logs
 
-You can enable diagnostic logging to the `Rewards.log` file stored on your device; see [Brave Rewards](brave://flags/#brave-rewards-verbose-logging). View this log file on the `Logs` tab at [rewards internals](brave://rewards-internals).
+You can enable diagnostic logging to the `Rewards.log` file stored on your device; see [Brave Rewards](egon://flags/#brave-rewards-verbose-logging). View this log file on the `Logs` tab at [rewards internals](egon://rewards-internals).
 
 ## Diagnostics
 
-View diagnostics at [rewards internals](brave://rewards-internals) on the `Ad diagnostics` tab.
+View diagnostics at [rewards internals](egon://rewards-internals) on the `Ad diagnostics` tab.
 
 ## Browser Tests
 

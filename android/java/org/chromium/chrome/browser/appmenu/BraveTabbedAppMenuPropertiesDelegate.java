@@ -163,11 +163,11 @@ public class BraveTabbedAppMenuPropertiesDelegate extends TabbedAppMenuPropertie
                 bravePlaylist.setVisible(false);
             }
         }
-
-        MenuItem braveNews = menu.add(Menu.NONE, R.id.brave_news_id, 0, R.string.brave_news_title);
-        if (shouldShowIconBeforeItem()) {
-            braveNews.setIcon(AppCompatResources.getDrawable(mContext, R.drawable.ic_news));
-        }
+        // Hide Brave News Title in Menu
+        // MenuItem braveNews = menu.add(Menu.NONE, R.id.brave_news_id, 0, R.string.brave_news_title);
+        // if (shouldShowIconBeforeItem()) {
+        //     braveNews.setIcon(AppCompatResources.getDrawable(mContext, R.drawable.ic_news));
+        // }
 
         MenuItem braveSpeedReader = menu.findItem(R.id.brave_speedreader_id);
         braveSpeedReader.setVisible(false);

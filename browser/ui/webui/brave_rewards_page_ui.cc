@@ -516,8 +516,8 @@ void RewardsDOMHandler::Init() {
       brave_rewards::RewardsServiceFactory::GetForProfile(profile);
   ads_service_ = brave_ads::AdsServiceFactory::GetForProfile(profile);
 
-  // Configure a pref change registrar to update brave://rewards when settings
-  // are changed via brave://settings
+  // Configure a pref change registrar to update egon://rewards when settings
+  // are changed via egon://settings
   InitPrefChangeRegistrar();
 }
 

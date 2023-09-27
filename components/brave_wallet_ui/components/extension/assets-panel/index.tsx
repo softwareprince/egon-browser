@@ -110,7 +110,7 @@ const AssetsPanel = (props: Props) => {
       () => {
         if (contractAddress === '') {
           routeToAssetDetails(
-            `brave://wallet${
+            `egon://wallet${
               WalletRoutes.PortfolioAssets //
             }/${
               chainId //
@@ -120,7 +120,7 @@ const AssetsPanel = (props: Props) => {
         }
         if (tokenId !== '') {
           routeToAssetDetails(
-            `brave://wallet${
+            `egon://wallet${
               WalletRoutes.PortfolioNFTs //
             }/${
               chainId //
@@ -131,7 +131,7 @@ const AssetsPanel = (props: Props) => {
           return
         }
         routeToAssetDetails(
-          `brave://wallet${
+          `egon://wallet${
             WalletRoutes.PortfolioAssets //
           }/${
             chainId //

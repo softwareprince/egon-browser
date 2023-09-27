@@ -1,6 +1,6 @@
 # Favicon Documentation
 
-This file documents the list of changes made to the Chromium iOS Favicon implementation as it isn't compatible with Brave-iOS.
+This file documents the list of changes made to the EgonBrowser iOS Favicon implementation as it isn't compatible with Brave-iOS.
 
 
 # Changes
@@ -35,4 +35,4 @@ void BraveIOSWebFaviconDriver::DidFinishNavigation(
 }
 ```
 
-This all emulates the `web::WebState::DidStartNavigation` and `web::WebState::DidFinishNavigation` functions in a much simpler way, that would be compatible with Brave-iOS until the day we switch over to using Chromium's `CRWWebView`.
+This all emulates the `web::WebState::DidStartNavigation` and `web::WebState::DidFinishNavigation` functions in a much simpler way, that would be compatible with Brave-iOS until the day we switch over to using EgonBrowser's `CRWWebView`.

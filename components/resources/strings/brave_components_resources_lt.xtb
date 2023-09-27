@@ -1878,7 +1878,7 @@
 <translation id="1097073572755862978">Siųskite diagnostikos ataskaitas įvykus strigčiai. <ph name="LINK_BEFORE"/>Sužinoti daugiau<ph name="LINK_AFTER"/></translation>
 <translation id="5099408825243658796">Dalinkitės visiškai privačiomis ir anoniminėmis įžvalgomis apie tai, kokiomis produktų funkcijomis naudojasi „Brave“ naudotojai. <ph name="LINK_BEFORE"/>Sužinoti daugiau.<ph name="LINK_AFTER"/></translation>
 <translation id="7415454883318062233">Naršyklės sąranka baigta</translation>
-<translation id="3141206739023333979">Galite bet kada pakeisti šias parinktis, atvėrę <ph name="LINK_BEFORE1"/>brave://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
+<translation id="3141206739023333979">Galite bet kada pakeisti šias parinktis, atvėrę <ph name="LINK_BEFORE1"/>egon://settings/privacy<ph name="LINK_AFTER2"/>.</translation>
 <translation id="8321985064212130832">Perskaitykite mūsų <ph name="LINK_BEFORE"/>privatumo politiką<ph name="LINK_AFTER"/></translation>
 <translation id="2801098717523961746">Rinkitės temą</translation>
 <translation id="6262510489122516114">Tai galite bet kada keisti „Brave“ nustatymuose.</translation>
@@ -1960,7 +1960,7 @@
 <translation id="4828320950595742243">Atrodo, kad yra problemų su „WireGuard“ ryšiu. Norite įjungti IKEv2 atsarginį ryšį, kad VPN būtų patikimas? Paprasčiausiai iš naujo paleiskite naršyklę.
 
 Reikalinga pagalba dėl suderinamumo ar konfigūracijos? Kreipkitės į mūsų draugišką palaikymo komandą.
-Visados galėsite sugrįžti prie „WireGuard“ brave://flags/#brave-vpn-wireguard.
+Visados galėsite sugrįžti prie „WireGuard“ egon://flags/#brave-vpn-wireguard.
 
 Prijunkime jus!
 <ph name="LEARN_MORE"/></translation>

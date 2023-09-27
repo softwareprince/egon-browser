@@ -43,6 +43,11 @@ import org.chromium.chrome.browser.toolbar.LocationBarModel;
 import org.chromium.chrome.browser.toolbar.TabCountProvider;
 import org.chromium.chrome.browser.ui.appmenu.AppMenuButtonHelper;
 import org.chromium.chrome.browser.util.TabUtils;
+// 
+import android.widget.Toast;
+import org.chromium.chrome.browser.tabmodel.BraveTabCreator;
+import org.chromium.components.embedder_support.util.UrlConstants;
+import org.chromium.chrome.browser.tab.TabLaunchType;
 
 /**
  * The root coordinator for the bottom toolbar. It has two sub-components: the browsing mode bottom
@@ -88,6 +93,22 @@ class BottomToolbarCoordinator implements View.OnLongClickListener {
 
     private final Context mContext = ContextUtils.getApplicationContext();
 
+        private void openNewTabPage() {
+                    // Get the current activity
+                    ChromeActivity activity = null;
+                    try {
+                        activity = BraveActivity.getBraveActivity();
+                    } catch (BraveActivity.BraveActivityNotFoundException e) {
+                        Log.e(TAG, "Error finding BraveActivity: " + e);
+                        return;
+                    }
+
+                    // Get the tab creator from the activity
+                    BraveTabCreator tabCreator = (BraveTabCreator) activity.getTabCreator(false);
+
+                    // Create a new tab with the new tab page URL
+                    tabCreator.launchUrl(UrlConstants.NTP_URL, TabLaunchType.FROM_CHROME_UI);
+                }
     BottomToolbarCoordinator(ScrollingBottomViewResourceFrameLayout scrollingBottomView, View root,
             ActivityTabProvider tabProvider, OnLongClickListener tabsSwitcherLongClickListner,
             ThemeColorProvider themeColorProvider, Runnable openHomepageAction,
@@ -238,21 +259,23 @@ class BottomToolbarCoordinator implements View.OnLongClickListener {
             mHomeButton.setOnLongClickListener(this);
 
             final OnClickListener homeButtonListener = v -> {
-                if (HomepageManager.isHomepageEnabled()) {
-                    try {
-                        BraveActivity.getBraveActivity().setComesFromNewTab(true);
-                    } catch (BraveActivity.BraveActivityNotFoundException e) {
-                        Log.e(TAG, "HomeButton click " + e);
-                    }
-                    mOriginalHomeButtonRunnable.run();
-                } else {
-                    newTabClickListener.onClick(v);
-                }
+                Toast.makeText(mContext, "Home Button Clicked", Toast.LENGTH_SHORT).show();
+                openNewTabPage();
+                // if (HomepageManager.isHomepageEnabled()) {
+                //     try {
+                //         BraveActivity.getBraveActivity().setComesFromNewTab(true);
+                //     } catch (BraveActivity.BraveActivityNotFoundException e) {
+                //         Log.e(TAG, "HomeButton click " + e);
+                //     }
+                //     mOriginalHomeButtonRunnable.run();
+                // } else {
+                //     newTabClickListener.onClick(v);
+                // }
             };
 
             mHomeButton.setOnClickListener(homeButtonListener);
         }
-
+            
         mBookmarksButton = bottomToolbarBrowsing.findViewById(R.id.bottom_bookmark_button);
         if (mBookmarksButton != null) {
             mBookmarksButton.setOnLongClickListener(this);
@@ -354,7 +377,7 @@ class BottomToolbarCoordinator implements View.OnLongClickListener {
             mHomeButton.setEnabled(true);
         } else {
             mHomeButton.setImageDrawable(
-                    ContextCompat.getDrawable(mContext, R.drawable.btn_toolbar_home));
+                    ContextCompat.getDrawable(mContext, R.drawable.btn_bat));
         }
     }
 }

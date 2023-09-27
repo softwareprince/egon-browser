@@ -150,7 +150,7 @@ void AIChatUIPageHandler::GetSiteInfo(GetSiteInfoCallback callback) {
 void AIChatUIPageHandler::OpenBraveLeoSettings() {
   if (active_chat_tab_helper_) {
     active_chat_tab_helper_->web_contents()->OpenURL(
-        {GURL("brave://settings/leo-assistant"), content::Referrer(),
+        {GURL("egon://settings/leo-assistant"), content::Referrer(),
          WindowOpenDisposition::NEW_FOREGROUND_TAB, ui::PAGE_TRANSITION_LINK,
          false});
   }

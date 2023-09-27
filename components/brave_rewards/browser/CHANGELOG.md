@@ -95,7 +95,7 @@ Renamed `RewardsCategory` to `RewardsType` and added migration path.
 
 We added new API which allows us to get information if we should only show anonymous wallet functionality.
 It's based on user location, country. List of countries is located in `static_values.h`.
-We use [Chromium api](https://cs.chromium.org/chromium/src/components/country_codes/country_codes.h?type=cs&q=GetCountryIDFromPrefs&g=0&l=53)
+We use [EgonBrowser api](https://cs.chromium.org/chromium/src/components/country_codes/country_codes.h?type=cs&q=GetCountryIDFromPrefs&g=0&l=53)
 to determine which country user is in.
 
 ##### Change
