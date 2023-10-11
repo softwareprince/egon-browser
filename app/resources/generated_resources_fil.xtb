@@ -202,7 +202,7 @@ Suriin ang iyong mga password anumang oras sa <ph name="GOOGLE_PASSWORD_MANAGER"
 <translation id="8525226238722561998">Programa ng Advanced na Proteksyon ng Brave</translation>
 <translation id="1155545602507378023">Hindi, sa device lang na ito</translation>
 <translation id="1155816283571436363">Pagkonekta sa iyong telepono</translation>
-<translation id="3265387852639842086">Isara ang panel sa gilid ng Brave Search</translation>
+<translation id="3265387852639842086">Isara ang panel sa gilid ng Brave search</translation>
 <translation id="1158080958325422608">Gawing Malalaking Titik</translation>
 <translation id="1158238185437008462">Tingnan ang mga alaala</translation>
 <translation id="1159879754517035595">Pamahalaan ang mga setting ng extension</translation>
@@ -2515,7 +2515,7 @@ Inaatasan ka ng <ph name="DOMAIN"/> na panatilihing nakalagay ang iyong smart ca
 <translation id="2973324205039581528">I-mute ang Site</translation>
 <translation id="2975761176769946178">Kinakailangan ng URL</translation>
 <translation id="2976557544729462544">Kinakailangan sa ilang device na i-disable mo ang proteksyon sa pag-access ng data para gumana ang mga ito nang maayos o para sa ganap na performance ng mga ito.</translation>
-<translation id="2725393676899559475">Makakuha ng Brave Search at mahuhusay na tool ng Brave sa tuwing magba-browse ka</translation>
+<translation id="2725393676899559475">Makakuha ng Brave search at mahuhusay na tool ng Brave sa tuwing magba-browse ka</translation>
 <translation id="2977480621796371840">Alisin sa grupo</translation>
 <translation id="2979639724566107830">Buksan ng bagong window</translation>
 <translation id="2979893796619951531">Huwag isama ang site</translation>
@@ -4738,7 +4738,7 @@ Gamitin ang Ctrl + Alt + Bawasan ang Liwanag para mag-zoom out.</translation>
 <translation id="4830502475412647084">Ini-install ang update sa OS</translation>
 <translation id="4833683849865011483">May nakitang 1 printer mula sa server sa pag-print</translation>
 <translation id="4836504898754963407">Pamahalaan ang mga fingerprint</translation>
-<translation id="7528143959514158804">Bumalik sa Brave Search?</translation>
+<translation id="7528143959514158804">Bumalik sa Brave search?</translation>
 <translation id="4837926214103741331">Wala kang pahintulot na gamitin ang device na ito. Mangyaring makipag-ugnayan sa may-ari ng device upang makakuha ng pahintulot sa pag-sign in.</translation>
 <translation id="4837952862063191349">Upang i-unlock at ibalik ang iyong lokal na data, pakilagay ang iyong lumang password sa <ph name="DEVICE_TYPE"/>.</translation>
 <translation id="4838170306476614339">Tingnan ang mga larawan, media, at notification</translation>
@@ -6745,7 +6745,7 @@ Inaatasan ka ng <ph name="DOMAIN"/> na panatilihing nakalagay ang iyong smart ca
 <translation id="6547854317475115430"><ph name="BEGIN_PARAGRAPH1"/>Ang serbisyo ng lokasyon ng Brave ay gumagamit ng mga source tulad ng Wi-Fi, mga mobile network, at sensor para makatulong na tantyahin ang lokasyon ng iyong device.<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>Puwede mong i-off ang lokasyon ng Android sa iyong device anumang oras sa pamamagitan ng pagpunta sa Mga Setting &gt; Mga App &gt; Google Play Store &gt; Pamahalaan ang mga kagustuhan sa Android &gt; Seguridad at lokasyon &gt; Lokasyon. Puwede mo ring i-off ang paggamit ng Wi-Fi, mga mobile network, at sensor para sa lokasyon ng Android sa pamamagitan ng pag-off sa “Katumpakan ng Lokasyon ng Brave” sa parehong menu.<ph name="END_PARAGRAPH2"/></translation>
 <translation id="654871471440386944">I-on ang caret browsing?</translation>
-<translation id="2892841437207418944">Buksan ang panel sa gilid ng Brave Search</translation>
+<translation id="2892841437207418944">Buksan ang panel sa gilid ng Brave search</translation>
 <translation id="6549038875972762904">Gawin ulit ang pag-set up</translation>
 <translation id="6550675742724504774">Mga Pagpipilian</translation>
 <translation id="6550790536557204077">Ang iyong <ph name="BEGIN_LINK"/>profile ay pinapamahalaan<ph name="END_LINK"/> ng <ph name="MANAGER"/></translation>
@@ -7504,7 +7504,7 @@ May # ka pang nakompromisong password. Inirerekomenda ng Brave Password Manager 
 <translation id="7196107899576756066">{COUNT,plural, =1{1 nagda-download}one{# nagda-download}other{# na nagda-download}}</translation>
 <translation id="7196272782924897510">Gumamit ng passkey mula sa ibang device?</translation>
 <translation id="7196913789568937443">Mag-back up sa Google Drive. Madaling i-restore ang iyong data o magpalit ng device anumang oras. Kabilang sa iyong backup ang data ng app. Ina-upload sa Brave ang iyong mga backup at ine-encrypt gamit ang password ng Brave sync chain mo. <ph name="BEGIN_LINK1"/>Matuto Pa<ph name="END_LINK1"/></translation>
-<translation id="96037229054033864">Makakuha ng Brave Search at Brave smarts sa tuwing magba-browse ka</translation>
+<translation id="96037229054033864">Makakuha ng Brave search at Brave smarts sa tuwing magba-browse ka</translation>
 <translation id="719791532916917144">Keyboard shortcut</translation>
 <translation id="7198503619164954386">Dapat ay gumagamit ka ng device na naka-enroll sa enterprise</translation>
 <translation id="7199158086730159431">Humingi ng Tulong</translation>
@@ -8970,7 +8970,7 @@ Ilagay ang iyong key file sa ligtas na lugar. Kailangan mo ito upang lumikha ng 
 <translation id="8376384591331888629">Kasama ang third-party na cookies sa site na ito</translation>
 <translation id="8376451933628734023">Kung sinusubukan kang linlangin ng web app na ito para maisip mong ibang app ito, i-uninstall ito.</translation>
 <translation id="8376532149031784008">Nire-reload ang <ph name="DOMAIN"/>...</translation>
-<translation id="2790916299775928255">Panel sa gilid ng Brave Search</translation>
+<translation id="2790916299775928255">Panel sa gilid ng Brave search</translation>
 <translation id="8378714024927312812">Pinapamahalaan ng iyong organisasyon</translation>
 <translation id="8379988659465232385">Hindi puwedeng walang laman ang pangalan</translation>
 <translation id="8379991678458444070">Makabalik kaagad dito sa pamamagitan ng pag-bookmark sa tab na ito</translation>

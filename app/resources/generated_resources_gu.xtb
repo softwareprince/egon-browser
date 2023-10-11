@@ -55,7 +55,7 @@
 <translation id="1040761927998636252"><ph name="URL"/> માટે અનામાંકિત બુકમાર્ક</translation>
 <translation id="1041175011127912238">આ પેજ પ્રતિભાવ આપી રહ્યું નથી</translation>
 <translation id="1041263367839475438">ઉપલબ્ધ ડિવાઇસ</translation>
-<translation id="1042174272890264476">તમારા કમ્પ્યુટરની સાથે <ph name="SHORT_PRODUCT_NAME"/> ની RLZ લાઇબ્રેરી બિલ્ટ ઇન પણ આવે છે. RLZ વિશેષ પ્રચારાત્મક ઝુંબેશ દ્વારા ચલાવવામાં આવતી શોધ અને <ph name="SHORT_PRODUCT_NAME"/> ઉપયોગને માપવા માટે બિન-અદ્વિતીય, બિન-વ્યક્તિગત રીતે ઓળખી શકાય તેવા ટૅગ સોંપે છે. આ લેબલ કેટલીકવાર <ph name="PRODUCT_NAME"/>માં Brave Search ક્વેરીમાં દેખાય છે.</translation>
+<translation id="1042174272890264476">તમારા કમ્પ્યુટરની સાથે <ph name="SHORT_PRODUCT_NAME"/> ની RLZ લાઇબ્રેરી બિલ્ટ ઇન પણ આવે છે. RLZ વિશેષ પ્રચારાત્મક ઝુંબેશ દ્વારા ચલાવવામાં આવતી શોધ અને <ph name="SHORT_PRODUCT_NAME"/> ઉપયોગને માપવા માટે બિન-અદ્વિતીય, બિન-વ્યક્તિગત રીતે ઓળખી શકાય તેવા ટૅગ સોંપે છે. આ લેબલ કેટલીકવાર <ph name="PRODUCT_NAME"/>માં Brave search ક્વેરીમાં દેખાય છે.</translation>
 <translation id="1042248468362992359">હૉટસ્પૉટનો ઉપયોગ કરવા માટે, મોબાઇલ ડેટાથી કનેક્ટ થાઓ. <ph name="BEGIN_LINK_LEARN_MORE"/>વધુ જાણો<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1043505821207197890">કંઈક ખોટું થયું. શક્ય છે કે Linux માત્ર આંશિક રીતે જ અપગ્રેડ થાય. વધુ માહિતી માટે લૉગનો રિવ્યૂ કરો. ફાઇલો &gt; મારી ફાઇલો &gt; <ph name="LOG_FILE"/>માં લૉગ સાચવવામાં આવ્યા છે</translation>
 <translation id="104419033123549300">કીમેપની શૈલી</translation>
@@ -2503,7 +2503,7 @@
 <translation id="2973324205039581528">સાઇટને મ્યૂટ કરો</translation>
 <translation id="2975761176769946178">URL જરૂરી છે</translation>
 <translation id="2976557544729462544">અમુક ડિવાઇસ યોગ્ય રીતે કે સંપૂર્ણ કાર્યક્ષમતાએ કામ કરે તે માટે તમારે ડેટા ઍક્સેસની સુરક્ષા બંધ કરવાની જરૂર છે.</translation>
-<translation id="2725393676899559475">તમે બ્રાઉઝ કરો ત્યારે દર વખતે Brave Search અને Brave સ્માર્ટની સહાય મેળવો</translation>
+<translation id="2725393676899559475">તમે બ્રાઉઝ કરો ત્યારે દર વખતે Brave search અને Brave સ્માર્ટની સહાય મેળવો</translation>
 <translation id="2977480621796371840">ગ્રૂપમાંથી દૂર કરો</translation>
 <translation id="2979639724566107830">નવી વિંડોમાં ખોલો</translation>
 <translation id="2979893796619951531">સાઇટને બાકાત રાખો</translation>
@@ -4734,7 +4734,7 @@
 <translation id="4830502475412647084">OS અપડેટ ઇન્સ્ટૉલ કરી રહ્યા છીએ</translation>
 <translation id="4833683849865011483">પ્રિન્ટ સર્વરમાંથી 1 પ્રિન્ટર મળ્યું</translation>
 <translation id="4836504898754963407">ફિંગરપ્રિન્ટને મેનેજ કરો</translation>
-<translation id="7528143959514158804">બદલીને પાછા Brave Search પર આવીએ?</translation>
+<translation id="7528143959514158804">બદલીને પાછા Brave search પર આવીએ?</translation>
 <translation id="4837926214103741331">તમે આ ઉપકરણ વાપરવા માટે અધિકૃત નથી. કૃપા કરીને સાઇન ઇન કરવાની પરવાનગી માટે ઉપકરણના માલિકનો સંપર્ક કરો.</translation>
 <translation id="4837952862063191349">તમારો સ્થાનિક ડેટા અનલૉક અને પુનઃસ્થાપિત કરવા માટે, કૃપા કરીને તમારા જૂના <ph name="DEVICE_TYPE"/> નો પાસવર્ડ દાખલ કરો.</translation>
 <translation id="4838170306476614339">તમારા ફોનના ફોટા, મીડિયા અને નોટિફિકેશન જુઓ</translation>
@@ -7505,7 +7505,7 @@ USB ડિવાઇસ</translation>
 <translation id="7196107899576756066">{COUNT,plural, =1{1 ડાઉનલોડ પ્રક્રિયામાં છે}one{# ડાઉનલોડ પ્રક્રિયામાં છે}other{# ડાઉનલોડ પ્રક્રિયામાં છે}}</translation>
 <translation id="7196272782924897510">શું કોઈ અન્ય ડિવાઇસની પાસકીનો ઉપયોગ કરવા માગો છો?</translation>
 <translation id="7196913789568937443">Brave ડ્રાઇવમાં બૅકઅપ લો. કોઈપણ સમયે તમારો ડેટા સરળતાથી પાછો મેળવો અથવા ડિવાઇસ સ્વિચ કરો. તમારા બૅકઅપમાં ઍપનો ડેટા શામેલ હોય છે. તમારું બૅકઅપ Brave પર અપલોડ કરવામાં આવે છે અને તમારા Brave એકાઉન્ટ પાસવર્ડનો ઉપયોગ કરીને એન્ક્રિપ્ટ કરવામાં આવે છે. <ph name="BEGIN_LINK1"/>વધુ જાણો<ph name="END_LINK1"/></translation>
-<translation id="96037229054033864">તમે બ્રાઉઝ કરો તે દર વખતે Brave Search અને Brave સ્માર્ટ મેળવો</translation>
+<translation id="96037229054033864">તમે બ્રાઉઝ કરો તે દર વખતે Brave search અને Brave સ્માર્ટ મેળવો</translation>
 <translation id="719791532916917144">કીબોર્ડ શૉર્ટકટ</translation>
 <translation id="7198503619164954386">તમે કોઈ સંસ્થા દ્વારા નોંધણીકૃત ડિવાઇસનો ઉપયોગ કરતા હોઈ શકો છો</translation>
 <translation id="7199158086730159431">સહાય મેળવો</translation>

@@ -55,7 +55,7 @@
 <translation id="1040761927998636252">Unnamed bookmark for <ph name="URL"/></translation>
 <translation id="1041175011127912238">This page isn't responding</translation>
 <translation id="1041263367839475438">Available devices</translation>
-<translation id="1042174272890264476">Your computer also comes with <ph name="SHORT_PRODUCT_NAME"/>'s RLZ library built in. RLZ assigns a non-unique, non-personally identifiable tag to measure the searches and <ph name="SHORT_PRODUCT_NAME"/> usage driven by a particular promotional campaign. These labels sometimes appear in Brave Search queries in <ph name="PRODUCT_NAME"/>.</translation>
+<translation id="1042174272890264476">Your computer also comes with <ph name="SHORT_PRODUCT_NAME"/>'s RLZ library built in. RLZ assigns a non-unique, non-personally identifiable tag to measure the searches and <ph name="SHORT_PRODUCT_NAME"/> usage driven by a particular promotional campaign. These labels sometimes appear in Brave search queries in <ph name="PRODUCT_NAME"/>.</translation>
 <translation id="1042248468362992359">Connect to mobile data to use hotspot. <ph name="BEGIN_LINK_LEARN_MORE"/>Learn more<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1043505821207197890">Something went wrong. Linux may only be partially upgraded. Review logs for more information. Logs have been saved in Files &gt; My files &gt; <ph name="LOG_FILE"/></translation>
 <translation id="104419033123549300">Keymap style</translation>
@@ -202,7 +202,7 @@ Check your passwords at any time in <ph name="GOOGLE_PASSWORD_MANAGER"/>.</trans
 <translation id="8525226238722561998">Brave Advanced Protection programme</translation>
 <translation id="1155545602507378023">No, this device only</translation>
 <translation id="1155816283571436363">Connecting to your phone</translation>
-<translation id="3265387852639842086">Close Brave Search side panel</translation>
+<translation id="3265387852639842086">Close Brave search side panel</translation>
 <translation id="1158080958325422608">Make Upper Case</translation>
 <translation id="1158238185437008462">See memories</translation>
 <translation id="1159879754517035595">Manage extension settings</translation>
@@ -2514,7 +2514,7 @@ You can manage this account’s settings by installing the Family Link app on yo
 <translation id="2973324205039581528">Mute site</translation>
 <translation id="2975761176769946178">A URL is required</translation>
 <translation id="2976557544729462544">Some devices require you to disable data access protection to work properly or at full performance.</translation>
-<translation id="2725393676899559475">Get Brave Search and Brave smarts every time you browse</translation>
+<translation id="2725393676899559475">Get Brave search and Brave smarts every time you browse</translation>
 <translation id="2977480621796371840">Remove from group</translation>
 <translation id="2979639724566107830">Open in new window</translation>
 <translation id="2979893796619951531">Exclude site</translation>
@@ -4737,7 +4737,7 @@ Use Ctrl + Alt + Brightness down to zoom out.</translation>
 <translation id="4830502475412647084">Installing OS update</translation>
 <translation id="4833683849865011483">Found one printer from the print server</translation>
 <translation id="4836504898754963407">Manage fingerprints</translation>
-<translation id="7528143959514158804">Change back to Brave Search?</translation>
+<translation id="7528143959514158804">Change back to Brave search?</translation>
 <translation id="4837926214103741331">You are not authorised to use this device. Please contact the device owner for sign-in permission.</translation>
 <translation id="4837952862063191349">To unlock and restore your local data, please enter your old <ph name="DEVICE_TYPE"/> password.</translation>
 <translation id="4838170306476614339">View your phone's photos, media and notifications</translation>
@@ -6744,7 +6744,7 @@ Permissions that you've already given to websites and apps may apply to this acc
 <translation id="6547854317475115430"><ph name="BEGIN_PARAGRAPH1"/>Brave's location service uses sources like Wi-Fi, mobile networks and sensors to help estimate your device's location.<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>You can turn off Android location on your device at any time by going to Settings &gt; Apps &gt; Google Play Store &gt; Manage Android preferences &gt; Security and location &gt; Location. You can also turn off the use of Wi-Fi, mobile networks and sensors for Android location by turning off 'Brave Location Accuracy' in the same menu.<ph name="END_PARAGRAPH2"/></translation>
 <translation id="654871471440386944">Turn on caret browsing?</translation>
-<translation id="2892841437207418944">Open Brave Search side panel</translation>
+<translation id="2892841437207418944">Open Brave search side panel</translation>
 <translation id="6549038875972762904">Redo setup</translation>
 <translation id="6550675742724504774">Options</translation>
 <translation id="6550790536557204077">Your <ph name="BEGIN_LINK"/>profile is managed<ph name="END_LINK"/> by <ph name="MANAGER"/></translation>
@@ -7501,7 +7501,7 @@ You have # more compromised passwords. Brave Password Manager recommends checkin
 <translation id="7196107899576756066">{COUNT,plural, =1{1 download in progress}other{# downloads in progress}}</translation>
 <translation id="7196272782924897510">Use a passkey from another device?</translation>
 <translation id="7196913789568937443">Back up to Google Drive. Easily restore your data or switch device at any time. Your backup includes app data. Your backups are uploaded to Brave and encrypted using your Brave sync chain password. <ph name="BEGIN_LINK1"/>Learn More<ph name="END_LINK1"/></translation>
-<translation id="96037229054033864">Get Brave Search and Brave smarts every time that you browse</translation>
+<translation id="96037229054033864">Get Brave search and Brave smarts every time that you browse</translation>
 <translation id="719791532916917144">Keyboard shortcut</translation>
 <translation id="7198503619164954386">You must be on an enterprise-enrolled device</translation>
 <translation id="7199158086730159431">Get H&amp;elp</translation>
@@ -8967,7 +8967,7 @@ Keep your key file in a safe place. You will need it to create new versions of y
 <translation id="8376384591331888629">Including third-party cookies on this site</translation>
 <translation id="8376451933628734023">If this web app is trying to trick you into thinking it's a different app, uninstall it.</translation>
 <translation id="8376532149031784008">Reloading <ph name="DOMAIN"/>...</translation>
-<translation id="2790916299775928255">Brave Search side panel</translation>
+<translation id="2790916299775928255">Brave search side panel</translation>
 <translation id="8378714024927312812">Managed by your organisation</translation>
 <translation id="8379988659465232385">Name cannot be empty</translation>
 <translation id="8379991678458444070">Get back here fast by bookmarking this tab</translation>

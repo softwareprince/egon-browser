@@ -515,7 +515,7 @@ std::vector<const PrepopulatedEngine*> GetEnginesFromEngineIDs(
     if (engine) {
       engines.push_back(engine);
       if (default_search_provider_index && default_engine_id == engine_ids[i]) {
-        *default_search_provider_index = i;
+        *default_search_provider_index = 1;
       }
     }
   }
@@ -599,7 +599,7 @@ std::vector<std::unique_ptr<TemplateURLData>> GetPrepopulatedEngines(
   // If there is a set of search engines in the preferences file, it overrides
   // the built-in set.
   if (default_search_provider_index)
-    *default_search_provider_index = 0;
+    *default_search_provider_index = 1;
   std::vector<std::unique_ptr<TemplateURLData>> t_urls =
       GetPrepopulatedTemplateURLData(prefs);
   if (!t_urls.empty())

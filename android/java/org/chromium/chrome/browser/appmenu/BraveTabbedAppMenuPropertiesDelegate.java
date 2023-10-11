@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The EgonBrowser Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -103,7 +103,7 @@ public class BraveTabbedAppMenuPropertiesDelegate extends TabbedAppMenuPropertie
             menu.findItem(R.id.request_brave_vpn_row_menu_id).setVisible(false);
         }
 
-        // Brave's items are only visible for page menu.
+        // EgonBrowser's items are only visible for page menu.
         // To make logic simple, below three items are added whenever menu gets visible
         // and removed when menu is dismissed.
 
@@ -114,7 +114,7 @@ public class BraveTabbedAppMenuPropertiesDelegate extends TabbedAppMenuPropertie
             menu.findItem(R.id.icon_row_menu_id).setVisible(false).setEnabled(false);
         }
 
-        // Brave donesn't show help menu item in app menu.
+        // EgonBrowser donesn't show help menu item in app menu.
         menu.findItem(R.id.help_id).setVisible(false).setEnabled(false);
 
         // Always hide share row menu item in app menu if it's not on tablet.
@@ -163,7 +163,7 @@ public class BraveTabbedAppMenuPropertiesDelegate extends TabbedAppMenuPropertie
                 bravePlaylist.setVisible(false);
             }
         }
-        // Hide Brave News Title in Menu
+        // Hide EgonBrowser News Title in Menu
         // MenuItem braveNews = menu.add(Menu.NONE, R.id.brave_news_id, 0, R.string.brave_news_title);
         // if (shouldShowIconBeforeItem()) {
         //     braveNews.setIcon(AppCompatResources.getDrawable(mContext, R.drawable.ic_news));

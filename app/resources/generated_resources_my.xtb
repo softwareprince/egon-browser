@@ -203,7 +203,7 @@
 <translation id="8525226238722561998">Brave အဆင့်မြင့်ကာကွယ်ရေး အစီအစဉ်</translation>
 <translation id="1155545602507378023">ဤစက်တစ်ခုတွင် သာဖြစ်သည်</translation>
 <translation id="1155816283571436363">သင်၏ဖုန်းသို့ ချိတ်ဆက်နေသည်</translation>
-<translation id="3265387852639842086">Brave Search ဘေးအကန့် ပိတ်ရန်</translation>
+<translation id="3265387852639842086">Brave search ဘေးအကန့် ပိတ်ရန်</translation>
 <translation id="1158080958325422608">အက္ခရာအကြီး ပြောင်းခြင်း</translation>
 <translation id="1158238185437008462">အမှတ်တရများ ကြည့်ရန်</translation>
 <translation id="1159879754517035595">နောက်ဆက်တွဲဆက်တင်များ စီမံရန်</translation>
@@ -2532,7 +2532,7 @@
 <translation id="2973324205039581528">ဝဘ်ဆိုက် အသံပိတ်ရန်</translation>
 <translation id="2975761176769946178">URL လိုအပ်သည်</translation>
 <translation id="2976557544729462544">စက်အချို့ မှန်ကန်စွာအလုပ်လုပ်ရန် (သို့) စွမ်းဆောင်ရည်အပြည့် အလုပ်လုပ်ရန်အတွက် ဒေတာသုံးခွင့်အကာအကွယ်ကို ပိတ်ရန် လိုအပ်သည်။</translation>
-<translation id="2725393676899559475">သင်ကြည့်ရှုသည့်အခါတိုင်း Brave Search နှင့် Brave စမတ်တို့ကို ရယူပါ</translation>
+<translation id="2725393676899559475">သင်ကြည့်ရှုသည့်အခါတိုင်း Brave search နှင့် Brave စမတ်တို့ကို ရယူပါ</translation>
 <translation id="2977480621796371840">အဖွဲ့မှ ဖယ်ရှားပါ</translation>
 <translation id="2979639724566107830">ဝင်းဒိုးအသစ်တွင် ဖွင့်ပါ</translation>
 <translation id="2979893796619951531">ဝဘ်ဆိုက် ဖယ်ထုတ်ရန်</translation>
@@ -4777,7 +4777,7 @@
 <translation id="4830502475412647084">OS အပ်ဒိတ်ကို ထည့်သွင်းနေသည်</translation>
 <translation id="4833683849865011483">ပရင်တာဆာဗာမှ ပရင်တာ ၁ ခုတွေ့သည်</translation>
 <translation id="4836504898754963407">လက်ဗွေရာများ စီမံရန်</translation>
-<translation id="7528143959514158804">Brave Search သို့ ပြန်ပြောင်းမလား။</translation>
+<translation id="7528143959514158804">Brave search သို့ ပြန်ပြောင်းမလား။</translation>
 <translation id="4837926214103741331">သင်သည် ဒီကိရိယာကို သုံးပိုင်ခွင့် မရှိပါ။ လက်မှတ်ထိုး ဝင်ရန် ခွင့်ပြုချက် အတွက် ကိရိယာ ပိုင်ရှင်အား ဆက်သွယ်ပါ။</translation>
 <translation id="4837952862063191349">သင့်စက်တွင်းဒေတာများကို သော့ဖွင့်ကာ ပြန်လည်သိုလှောင်ရန်၊ ကျေးဇူးပြု၍ သင့်စကားဝှက် အဟောင်း <ph name="DEVICE_TYPE"/> ကိုရိုက်ထည့်ပါ။</translation>
 <translation id="4838170306476614339">သင့်ဖုန်း၏ ဓာတ်ပုံ၊ မီဒီယာနှင့် အကြောင်းကြားချက်များကို ကြည့်နိုင်သည်</translation>
@@ -6803,7 +6803,7 @@
 <translation id="6547854317475115430"><ph name="BEGIN_PARAGRAPH1"/>Brave ၏ တည်နေရာဝန်ဆောင်မှုသည် သင့်စက်ပစ္စည်း၏ တည်နေရာကို ခန့်မှန်းနိုင်ရန် Wi-Fi၊ မိုဘိုင်းကွန်ရက်များနှင့် အာရုံခံကိရိယာများကဲ့သို့သော အရင်းအမြစ်များကို အသုံးပြုပါသည်။<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>သင်သည် ‘ဆက်တင်များ’ &gt; ‘အက်ပ်များ’ &gt; Google Play Store &gt; ‘Android ရွေးချယ်ချက်များ စီမံရန်’ &gt; ‘လုံခြုံရေး’ နှင့် တည်နေရာ &gt; ‘တည်နေရာ’ သို့သွား၍ သင့်စက်တွင် Android တည်နေရာကို ပိတ်နိုင်ပါသည်။ တူညီသော မီနူးရှိ “Brave တည်နေရာ တိကျမှန်ကန်မှု” ကို ပိတ်ခြင်းဖြင့် Android တည်နေရာအတွက် Wi-Fi၊ မိုဘိုင်းကွန်ရက်များနှင့် အာရုံခံကိရိယာများ အသုံးပြုမှုကိုလည်း ပိတ်နိုင်သည်။<ph name="END_PARAGRAPH2"/></translation>
 <translation id="654871471440386944">Caret ဖြင့်ရှာဖွေခြင်းကို ဖွင့်မလား။</translation>
-<translation id="2892841437207418944">Brave Search ဘေးအကန့် ဖွင့်ရန်</translation>
+<translation id="2892841437207418944">Brave search ဘေးအကန့် ဖွင့်ရန်</translation>
 <translation id="6549038875972762904">စနစ်ထည့်သွင်းမှု ပြန်လုပ်ရန်</translation>
 <translation id="6550675742724504774">ရွေးစရာများ</translation>
 <translation id="6550790536557204077"><ph name="MANAGER"/> က သင့် <ph name="BEGIN_LINK"/>ပရိုဖိုင်ကို စီမံခန့်ခွဲသည်<ph name="END_LINK"/></translation>
@@ -7568,7 +7568,7 @@
 <translation id="7196107899576756066">{COUNT,plural, =1{ဒေါင်းလုဒ် ၁ ခု လုပ်နေသည်}other{ဒေါင်းလုဒ် # ခု လုပ်နေသည်}}</translation>
 <translation id="7196272782924897510">အခြားစက်မှ လျှို့ဝှက်ကီး သုံးမလား။</translation>
 <translation id="7196913789568937443">Google Drive သို့ အရန်သိမ်းပါ။ သင့်ဒေတာများကို ပြန်ယူခြင်း (သို့) စက်ပစ္စည်းပြောင်းခြင်းတို့ အချိန်မရွေး လွယ်ကူစွာပြုလုပ်နိုင်သည်။ သင့်အရန်တွင် အက်ပ်ဒေတာများ ပါဝင်သည်။ သင်၏ Brave အကောင့်စကားဝှက် အသုံးပြု၍ ၎င်းတို့ကို Brave သို့ အပ်လုဒ်လုပ်ပြီး အသွင်ဝှက်ထားပါသည်။<ph name="BEGIN_LINK1"/>ပိုမိုလေ့လာရန်<ph name="END_LINK1"/></translation>
-<translation id="96037229054033864">သင်အသုံးပြုသည့်အခါတိုင်း Brave Search Brave smarts တို့ကို ရယူပါ</translation>
+<translation id="96037229054033864">သင်အသုံးပြုသည့်အခါတိုင်း Brave search Brave smarts တို့ကို ရယူပါ</translation>
 <translation id="719791532916917144">လက်ကွက်ဖြတ်လမ်းများ</translation>
 <translation id="7198503619164954386">လုပ်ငန်း စာရင်းသွင်းထားသော စက်ကို သုံးနေရပါမည်</translation>
 <translation id="7199158086730159431">အကူ&amp;အညီ ရယူပါ</translation>
@@ -9048,7 +9048,7 @@
 <translation id="8376384591331888629">ဤဝဘ်ဆိုက်ရှိ ပြင်ပကုမ္ပဏီကွတ်ကီးများ အပါအဝင်</translation>
 <translation id="8376451933628734023">ဤဝဘ်အက်ပ်သည် အခြားအက်ပ်တစ်ခုဖြစ်ကြောင်း တွေးထင်စေရန် သင့်အားလှည့်စားနေပါက ၎င်းကို ဖယ်ရှားပါ။</translation>
 <translation id="8376532149031784008"><ph name="DOMAIN"/> ပြန်လည် စတင်နေသည်...</translation>
-<translation id="2790916299775928255">Brave Search ဘေးအကန့်</translation>
+<translation id="2790916299775928255">Brave search ဘေးအကန့်</translation>
 <translation id="7660227077779094198">ဤလျှို့ဝှက်ကီးကို ဤစက်တွင်သာ သိမ်းပါမည်။ ‘ရုပ်ဖျက်ဝင်ဒိုး’ အားလုံးပိတ်ပြီးသောအခါ ၎င်းက ဤစက်တွင် ကျန်ရှိနေမည်။</translation>
 <translation id="8378714024927312812">သင်၏ 'အဖွဲ့အစည်း' က စီမံခန့်ခွဲထားသည်</translation>
 <translation id="8379988659465232385">အမည်ကို ကွက်လပ်ထား၍ မရပါ</translation>

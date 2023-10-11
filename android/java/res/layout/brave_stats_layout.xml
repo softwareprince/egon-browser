@@ -11,6 +11,7 @@
     android:id="@+id/ntp_stats_layout"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:layout_marginTop="106dp"
     android:background="@drawable/rounded_dark_bg_alpha"
     android:orientation="vertical">
 

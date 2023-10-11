@@ -200,7 +200,7 @@ public class BraveMainPreferencesBase
         // updates the icons - normally the ones from Chromium
         updatePreferenceIcons();
         // rearanges programmatically the order for the prefs from Brave and Chromium
-        rearrangePreferenceOrders();
+        // rearrangePreferenceOrders();
 
         if (Build.VERSION.SDK_INT < Build.VERSION_CODES.M 
             || (NTPUtil.isReferralEnabled() && NTPBackgroundImagesBridge.enableSponsoredImages())) {

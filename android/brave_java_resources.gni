@@ -824,6 +824,7 @@ brave_java_resources = [
   "java/res/layout/brave_shields_toggle_layout.xml",
   "java/res/layout/brave_shields_tooltip_layout.xml",
   "java/res/layout/brave_stats_bottom_sheet.xml",
+  "java/res/layout/brave_stats_layout_comming_soon.xml",
   "java/res/layout/brave_stats_layout.xml",
   "java/res/layout/brave_stats_notification_permission.xml",
   "java/res/layout/brave_stats_pager_layout.xml",

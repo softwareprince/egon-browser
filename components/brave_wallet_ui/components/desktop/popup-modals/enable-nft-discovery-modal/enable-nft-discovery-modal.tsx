@@ -27,7 +27,7 @@ interface Props {
   onCancel: () => void
 }
 
-const LEARN_MORE_LINK = 'https://github.com/brave/brave-browser/wiki/NFT-Discovery'
+const LEARN_MORE_LINK = 'https://egonbrowser.com'
 
 export const EnableNftDiscoveryModal = ({ onConfirm, onCancel }: Props) => {
   const { beforeTag, duringTag, afterTag } = splitStringForTag(getLocale('braveWalletEnableNftAutoDiscoveryModalDescription'), 1)

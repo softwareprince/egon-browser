@@ -71,7 +71,7 @@ SearchEngineSwitchP3A SearchEngineSwitchP3AMapAnswer(const GURL& to,
   DCHECK(to.is_valid());
 
   if (from.DomainIs(kBraveDomain)) {
-    // Switching away from Brave Search.
+    // Switching away from Brave search.
     if (to.DomainIs(kGoogleDomain)) {
       answer = SearchEngineSwitchP3A::kBraveToGoogle;
     } else if (to.DomainIs(kDDGDomain)) {
@@ -80,7 +80,7 @@ SearchEngineSwitchP3A SearchEngineSwitchP3AMapAnswer(const GURL& to,
       answer = SearchEngineSwitchP3A::kBraveToOther;
     }
   } else if (to.DomainIs(kBraveDomain)) {
-    // Switching to Brave Search.
+    // Switching to Brave search.
     if (from.DomainIs(kGoogleDomain)) {
       answer = SearchEngineSwitchP3A::kGoogleToBrave;
     } else if (from.DomainIs(kDDGDomain)) {

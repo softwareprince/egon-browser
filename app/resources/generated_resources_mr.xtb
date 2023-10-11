@@ -55,7 +55,7 @@
 <translation id="1040761927998636252"><ph name="URL"/> साठी नाव नसलेला बुकमार्क</translation>
 <translation id="1041175011127912238">हे पेज प्रतिसाद देत नाही</translation>
 <translation id="1041263367839475438">उपलब्ध असलेली डिव्हाइस</translation>
-<translation id="1042174272890264476">तुमचा कॉंप्युटर देखील <ph name="SHORT_PRODUCT_NAME"/>च्या RLZ वाचनालयासह बिल्ट-इन आला आहे. एका विशिष्ट जाहिरात मोहीमेद्वारे चालविलेला शोध आणि <ph name="SHORT_PRODUCT_NAME"/> वापर मोजण्यासाठी RLZ एक अद्वितीय-नसलेला, वैयक्तिकरित्या-ओळखता न येणारा टॅग नियुक्त करते. <ph name="PRODUCT_NAME"/> मधील Brave Search क्वेरींमध्ये ही लेबल काहीवेळा दिसतात.</translation>
+<translation id="1042174272890264476">तुमचा कॉंप्युटर देखील <ph name="SHORT_PRODUCT_NAME"/>च्या RLZ वाचनालयासह बिल्ट-इन आला आहे. एका विशिष्ट जाहिरात मोहीमेद्वारे चालविलेला शोध आणि <ph name="SHORT_PRODUCT_NAME"/> वापर मोजण्यासाठी RLZ एक अद्वितीय-नसलेला, वैयक्तिकरित्या-ओळखता न येणारा टॅग नियुक्त करते. <ph name="PRODUCT_NAME"/> मधील Brave search क्वेरींमध्ये ही लेबल काहीवेळा दिसतात.</translation>
 <translation id="1042248468362992359">हॉटस्पॉट वापरण्यासाठी मोबाइल डेटाशी कनेक्ट करा. <ph name="BEGIN_LINK_LEARN_MORE"/>अधिक जाणून घ्या<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1043505821207197890">काहीतरी चूक झाली. Linux हे फक्त अंशतः अपग्रेड केले जाऊ शकते. अधिक माहितीसाठी लॉगचे पुनरावलोकन करा. लॉग हे फाइल &gt; माझ्या फाइल &gt; <ph name="LOG_FILE"/> यामध्ये सेव्ह केले आहेत</translation>
 <translation id="104419033123549300">कीमॅपची शैली</translation>
@@ -202,7 +202,7 @@
 <translation id="8525226238722561998">Brave प्रगत संरक्षण प्रोग्राम</translation>
 <translation id="1155545602507378023">नाही, फक्त या डिव्हाइसवर</translation>
 <translation id="1155816283571436363">तुमच्या फोनशी कनेक्ट करत आहे</translation>
-<translation id="3265387852639842086">Brave Search साइड पॅनल बंद करा</translation>
+<translation id="3265387852639842086">Brave search साइड पॅनल बंद करा</translation>
 <translation id="1158080958325422608">अप्परकेस करा</translation>
 <translation id="1158238185437008462">मेमरी पहा</translation>
 <translation id="1159879754517035595">एक्स्टेंशन सेटिंग्ज व्यवस्थापित करा</translation>
@@ -2519,7 +2519,7 @@
 <translation id="2973324205039581528">साइट म्यूट करा</translation>
 <translation id="2975761176769946178">URL आवश्यक आहे</translation>
 <translation id="2976557544729462544">काही डिव्हाइस योग्यरीत्या काम करण्यासाठी किंवा त्यांचा सर्वोत्तम परफॉर्मन्स देण्यासाठी तुम्ही त्यांचे डेटा अ‍ॅक्सेस संरक्षण बंद करणे आवश्यक आहे.</translation>
-<translation id="2725393676899559475">तुम्ही प्रत्येक वेळी ब्राउझ करताना Brave Search आणि Brave स्मार्ट मिळवा</translation>
+<translation id="2725393676899559475">तुम्ही प्रत्येक वेळी ब्राउझ करताना Brave search आणि Brave स्मार्ट मिळवा</translation>
 <translation id="2977480621796371840">गटामधून काढून टाका</translation>
 <translation id="2979639724566107830">नवीन विंडोमध्ये उघडा</translation>
 <translation id="2979893796619951531">साइट वगळा</translation>
@@ -4749,7 +4749,7 @@
 <translation id="4830502475412647084">OS अपडेट इंस्टॉल करत आहे</translation>
 <translation id="4833683849865011483">प्रिंट सर्व्हरवरील एक प्रिंटर आढळला</translation>
 <translation id="4836504898754963407">फिंगरप्रिंट व्यवस्‍थापित करा</translation>
-<translation id="7528143959514158804">Brave Search वर परत बदलायचे आहे का?</translation>
+<translation id="7528143959514158804">Brave search वर परत बदलायचे आहे का?</translation>
 <translation id="4837926214103741331">तुम्ही हे डिव्हाइस वापरण्यासाठी प्राधिकृत नाही. कृपया साइन इन करण्याच्या परवानगीसाठी डिव्हाइस मालकाशी संपर्क साधा.</translation>
 <translation id="4837952862063191349">तुमचा स्थानिक डेटा अनलॉक आणि रिस्टोअर करण्‍यासाठी, कृपया तुमचा जुना <ph name="DEVICE_TYPE"/> पासवर्ड एंटर करा.</translation>
 <translation id="4838170306476614339">तुमच्या फोनमधील फोटो, मीडिया आणि सूचना पहा</translation>
@@ -6759,7 +6759,7 @@
 <translation id="6547854317475115430"><ph name="BEGIN_PARAGRAPH1"/>तुमच्या डिव्हाइसच्या स्थानाचा अंदाज घेण्यात मदत होण्यासाठी Brave ची स्थान सेवा वाय-फाय, मोबाइल नेटवर्क आणि सेन्सर वापरते.<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>तुम्ही सेटिंग्ज &gt; अ‍ॅप्स &gt; Google Play Store &gt; Android प्राधान्ये व्यवस्थापित करा &gt; सुरक्षा आणि स्थान &gt; स्थान वर जाऊन कधीही तुमच्या डिव्हाइसवरील Android स्थान बंद करू शकता. तुम्ही त्याच मेनूमध्ये “Brave स्थान अचूकता” बंद करून Android स्थानासाठी वाय-फाय, मोबाइल नेटवर्क आणि सेन्सरचा वापरदेखील बंद करू शकता.<ph name="END_PARAGRAPH2"/></translation>
 <translation id="654871471440386944">कॅरेट ब्राउझिंग सुरू करायचे आहे का?</translation>
-<translation id="2892841437207418944">Brave Search साइड पॅनल उघडा</translation>
+<translation id="2892841437207418944">Brave search साइड पॅनल उघडा</translation>
 <translation id="6549038875972762904">सेटअप पुन्हा करा</translation>
 <translation id="6550675742724504774">पर्याय</translation>
 <translation id="6550790536557204077"><ph name="MANAGER"/> तुमची <ph name="BEGIN_LINK"/>प्रोफाइल व्यवस्थापित करणे<ph name="END_LINK"/> हे करतो</translation>
@@ -7517,7 +7517,7 @@
 <translation id="7196107899576756066">{COUNT,plural, =1{१ डाउनलोड प्रगतीपथावर आहे}other{# डाउनलोड प्रगतीपथावर आहेत}}</translation>
 <translation id="7196272782924897510">दुसऱ्या डिव्हाइसवरून पासकी वापरायची आहे का?</translation>
 <translation id="7196913789568937443">Brave ड्राइव्ह मध्ये बॅकअप घ्या. तुमचा डेटा कधीही सहजपणे रिस्टोअर करा किंवा डिव्हाइस बदला. तुमच्या बॅकअपमध्ये ॲप डेटाचा समावेश असतो. तुमचे बॅकअप Brave वर अपलोड केले आहेत आणि ते तुमचा Brave खाते पासवर्ड वापरून एंक्रिप्ट केले आहेत. <ph name="BEGIN_LINK1"/>अधिक जाणून घ्या<ph name="END_LINK1"/></translation>
-<translation id="96037229054033864">प्रत्येक वेळी ब्राउझ करताना Brave Search आणि Brave स्मार्ट मिळवा</translation>
+<translation id="96037229054033864">प्रत्येक वेळी ब्राउझ करताना Brave search आणि Brave स्मार्ट मिळवा</translation>
 <translation id="719791532916917144">कीबोर्ड शॉर्टकट</translation>
 <translation id="7198503619164954386">तुमच्याकडे एंटरप्राइझमध्ये नोंदणी केलेले डिव्हाइस असणे आवश्यक आहे</translation>
 <translation id="7199158086730159431">म&amp;दत मिळवा</translation>
@@ -7840,7 +7840,7 @@
 <translation id="7456774706094330779">विस्तारित प्रीलोडिंग</translation>
 <translation id="7456847797759667638">स्थान उघडा...</translation>
 <translation id="7457831169406914076">{COUNT,plural, =1{लिंक}other{# लिंक}}</translation>
-<translation id="8944680893327873975">Brave Search मध्ये वापरत असेलेले स्पेल चेकर वापरले जाते. तुम्ही ब्राउझरमध्ये टाइप करत असलेला मजकूर Brave कडे पाठवला जातो.</translation>
+<translation id="8944680893327873975">Brave search मध्ये वापरत असेलेले स्पेल चेकर वापरले जाते. तुम्ही ब्राउझरमध्ये टाइप करत असलेला मजकूर Brave कडे पाठवला जातो.</translation>
 <translation id="7458715171471938198">ॲप्स रिस्टोअर करायची आहेत का?</translation>
 <translation id="7458933488302148148">तुमची सुरक्षा मजबूत करण्यासाठी आणि ऑनलाइन सुरक्षित राहण्यासाठी तुमचे सेव्ह केलेले पासवर्ड तपासा</translation>
 <translation id="745988141575685751"><ph name="BEGIN_PARAGRAPH1"/>तुमच्या ChromeOS डिव्‍हाइसना आपोआप अहवाल पाठवण्‍याची अनुमती दिल्याने ChromeOS मध्‍ये कशाचे निराकरण करायचे आणि कोणती सुधारणा करायची याला प्राधान्य देण्‍यात आम्‍हाला मदत होते. या अहवालांमध्ये ChromeOS कधी क्रॅश होते, तुम्ही कोणती वैशिष्ट्ये वापरता आणि तुम्ही सामान्यतः किती मेमरी वापरता यांसारख्या गोष्टींचा समावेश असू शकतो. अ‍ॅप्स सिंक करणेदेखील सुरू केले असल्यास, इतर अ‍ॅपचा निदानासंबंधी डेटा आणि वापर डेटा गोळा केला जाईल, ज्यामध्ये Android व वेब अ‍ॅप्ससाठीच्या डेटाचा समावेश असेल.<ph name="END_PARAGRAPH1"/>
@@ -8982,7 +8982,7 @@
 <translation id="8376384591331888629">या साइटवरील तृतीय-पक्ष कुकीच्या समावेशासह</translation>
 <translation id="8376451933628734023">हे वेब ॲप तुम्हाला ते वेगळे ॲप असल्याचे भासवून फसवण्याचा प्रयत्न करत असल्यास, ते अनइंस्टॉल करा.</translation>
 <translation id="8376532149031784008"><ph name="DOMAIN"/> रीलोड करत आहे...</translation>
-<translation id="2790916299775928255">Brave Search साइड पॅनल</translation>
+<translation id="2790916299775928255">Brave search साइड पॅनल</translation>
 <translation id="7660227077779094198">ही पासकी फक्त या डिव्हाइसवर सेव्ह केली जाईल. तुम्ही सर्व गुप्त विंडो बंद केल्यानंतर, ती या डिव्हाइसवर राहील.</translation>
 <translation id="8378714024927312812">तुमच्या संस्थेकडून व्यवस्थापित केलेले</translation>
 <translation id="8379988659465232385">नाव रिकामे असू शकत नाही</translation>

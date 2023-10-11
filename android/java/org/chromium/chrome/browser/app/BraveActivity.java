@@ -1,4 +1,4 @@
-/* Copyright (c) 2019 The Brave Authors. All rights reserved.
+/* Copyright (c) 2019 The EgonBrowser Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -195,7 +195,7 @@ import java.util.Locale;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 /**
- * Brave's extension for ChromeActivity
+ * egon's extension for ChromeActivity
  */
 @JNINamespace("chrome::android")
 public abstract class BraveActivity extends ChromeActivity
@@ -214,10 +214,10 @@ public abstract class BraveActivity extends ChromeActivity
             "egon://rewards/#verify";
     public static final String BRAVE_REWARDS_SETTINGS_MONTHLY_URL = "egon://rewards/#monthly";
     public static final String REWARDS_AC_SETTINGS_URL = "egon://rewards/contribute";
-    public static final String REWARDS_LEARN_MORE_URL = "https://brave.com/faq-rewards/#unclaimed-funds";
+    public static final String REWARDS_LEARN_MORE_URL = "https://egon.com/faq-rewards/#unclaimed-funds";
     public static final String BRAVE_TERMS_PAGE =
             "https://basicattentiontoken.org/user-terms-of-service/";
-    public static final String BRAVE_PRIVACY_POLICY = "https://brave.com/privacy/browser/#rewards";
+    public static final String BRAVE_PRIVACY_POLICY = "https://egon.com/privacy/browser/#rewards";
     private static final String PREF_CLOSE_TABS_ON_EXIT = "close_tabs_on_exit";
     private static final String PREF_CLEAR_ON_EXIT = "clear_on_exit";
     public static final String OPEN_URL = "open_url";
@@ -234,7 +234,7 @@ public abstract class BraveActivity extends ChromeActivity
     /**
      * Settings for sending local notification reminders.
      */
-    public static final String CHANNEL_ID = "com.brave.browser";
+    public static final String CHANNEL_ID = "com.egon.browser";
 
     // Explicitly declare this variable to avoid build errors.
     // It will be removed in asm and parent variable will be used instead.
@@ -294,7 +294,7 @@ public abstract class BraveActivity extends ChromeActivity
         }
         Profile profile = getCurrentTabModel().getProfile();
         if (profile != null) {
-            // Set proper active DSE whenever brave returns to foreground.
+            // Set proper active DSE whenever egon returns to foreground.
             // If active tab is private, set private DSE as an active DSE.
             BraveSearchEngineUtils.updateActiveDSE(profile);
         }
@@ -327,8 +327,8 @@ public abstract class BraveActivity extends ChromeActivity
         }
         Profile profile = getCurrentTabModel().getProfile();
         if (profile != null && profile.isOffTheRecord()) {
-            // Set normal DSE as an active DSE when brave goes in background
-            // because currently set DSE is used by outside of brave(ex, brave search widget).
+            // Set normal DSE as an active DSE when egon goes in background
+            // because currently set DSE is used by outside of egon(ex, egon search widget).
             BraveSearchEngineUtils.updateActiveDSE(profile);
         }
         super.onPauseWithNative();
@@ -337,7 +337,7 @@ public abstract class BraveActivity extends ChromeActivity
     @Override
     public boolean onMenuOrKeyboardAction(int id, boolean fromMenu) {
         final TabImpl currentTab = (TabImpl) getActivityTab();
-        // Handle items replaced by Brave.
+        // Handle items replaced by egon.
         if (id == R.id.info_menu_id && currentTab != null) {
             ShareDelegate shareDelegate = (ShareDelegate) getShareDelegateSupplier().get();
             shareDelegate.share(currentTab, false, ShareOrigin.OVERFLOW_MENU);
@@ -350,7 +350,7 @@ public abstract class BraveActivity extends ChromeActivity
             return true;
         }
 
-        // Handle items added by Brave.
+        // Handle items added by egon.
         if (currentTab == null) {
             return false;
         } else if (id == R.id.exit_id) {

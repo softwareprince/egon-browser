@@ -1,4 +1,4 @@
-/* Copyright (c) 2023 The Brave Authors. All rights reserved.
+/* Copyright (c) 2023 The EgonBrowser Authors. All rights reserved.
  * This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
@@ -9,7 +9,7 @@ import org.chromium.mojo.bindings.ConnectionErrorHandler;
 import org.chromium.mojo.system.MojoException;
 
 /**
- * This is a handler for mojo connection failure for Brave News
+ * This is a handler for mojo connection failure for EgonBrowser News
  */
 public class BraveNewsConnectionErrorHandler implements ConnectionErrorHandler {
     /**

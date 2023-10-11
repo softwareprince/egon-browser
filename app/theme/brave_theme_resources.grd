@@ -26,44 +26,44 @@
         <structure type="chrome_scaled_image" name="IDR_BRAVE_BOOKMARK_FOLDER_OPEN_LIN_LIGHT" file="common/brave_bookmark_folder_open-lin-light.png" />
         <structure type="chrome_scaled_image" name="IDR_BRAVE_BOOKMARK_FOLDER_OPEN_WIN_DARK" file="common/brave_bookmark_folder_open-win-dark.png" />
         <structure type="chrome_scaled_image" name="IDR_BRAVE_BOOKMARK_FOLDER_OPEN_WIN_LIGHT" file="common/brave_bookmark_folder_open-win-light.png" />
-        <structure type="chrome_scaled_image" name="IDR_BRAVE_WAYBACK_INFOBAR" file="brave/brave_wayback_infobar.png" />
-        <structure type="chrome_scaled_image" name="IDR_BRAVE_WAYBACK_INFOBAR_DARK" file="brave/brave_wayback_infobar_dark.png" />
+        <structure type="chrome_scaled_image" name="IDR_BRAVE_WAYBACK_INFOBAR" file="egonbrowser/brave_wayback_infobar.png" />
+        <structure type="chrome_scaled_image" name="IDR_BRAVE_WAYBACK_INFOBAR_DARK" file="egonbrowser/brave_wayback_infobar_dark.png" />
       </if>
 
       <if expr="enable_playlist_webui">
-        <structure type="chrome_scaled_image" name="IDR_PLAYLIST_DEFAULT_THUMBNAIL" file="brave/playlist_default_thumbnail.png" />
+        <structure type="chrome_scaled_image" name="IDR_PLAYLIST_DEFAULT_THUMBNAIL" file="egonbrowser/playlist_default_thumbnail.png" />
       </if>
 
       <if expr="not is_linux and not is_android">
-        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_BETA" file="brave/product_logo_32_beta.png" />
-        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_CANARY" file="brave/product_logo_32_nightly.png" />
-        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_DEV" file="brave/product_logo_32_dev.png" />
-        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_DEVELOPMENT" file="brave/product_logo_32_development.png" />
+        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_BETA" file="egonbrowser/product_logo_32_beta.png" />
+        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_CANARY" file="egonbrowser/product_logo_32_nightly.png" />
+        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_DEV" file="egonbrowser/product_logo_32_dev.png" />
+        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_DEVELOPMENT" file="egonbrowser/product_logo_32_development.png" />
       </if>
       <if expr="is_linux">
-        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_BETA" file="brave/linux/product_logo_32_beta.png" />
-        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_CANARY" file="brave/linux/product_logo_32_nightly.png" />
-        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_DEV" file="brave/linux/product_logo_32_dev.png" />
-        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_DEVELOPMENT" file="brave/linux/product_logo_32_development.png" />
+        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_BETA" file="egonbrowser/linux/product_logo_32_beta.png" />
+        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_CANARY" file="egonbrowser/linux/product_logo_32_nightly.png" />
+        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_DEV" file="egonbrowser/linux/product_logo_32_dev.png" />
+        <structure type="chrome_scaled_image" name="IDR_PRODUCT_LOGO_32_DEVELOPMENT" file="egonbrowser/linux/product_logo_32_development.png" />
       </if>
 
       <if expr="toolkit_views">
-        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_BOOKMARKS_FOCUSED" file="brave/sidebar_bookmark_focused.png" />
-        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_READING_LIST_FOCUSED" file="brave/sidebar_reading_list_focused.png" />
-        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_BRAVE_TALK_FOCUSED" file="brave/sidebar_brave_talk_focused.png" />
-        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_CRYPTO_WALLET_FOCUSED" file="brave/sidebar_crypto_wallet_focused.png" />
-        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_HISTORY_FOCUSED" file="brave/sidebar_history_focused.png" />
-        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_ITEM_HIGHLIGHT" file="brave/sidebar_item_highlight.png" />
-        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_ITEM_HIGHLIGHT_RIGHT" file="brave/sidebar_item_highlight_right.png" />
-        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_ITEM_ADD_FOCUSED" file="brave/sidebar_item_add_focused.png" />
-        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_SETTINGS_FOCUSED" file="brave/sidebar_settings_focused.png" />
+        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_BOOKMARKS_FOCUSED" file="egonbrowser/sidebar_bookmark_focused.png" />
+        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_READING_LIST_FOCUSED" file="egonbrowser/sidebar_reading_list_focused.png" />
+        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_BRAVE_TALK_FOCUSED" file="egonbrowser/sidebar_brave_talk_focused.png" />
+        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_CRYPTO_WALLET_FOCUSED" file="egonbrowser/sidebar_crypto_wallet_focused.png" />
+        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_HISTORY_FOCUSED" file="egonbrowser/sidebar_history_focused.png" />
+        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_ITEM_HIGHLIGHT" file="egonbrowser/sidebar_item_highlight.png" />
+        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_ITEM_HIGHLIGHT_RIGHT" file="egonbrowser/sidebar_item_highlight_right.png" />
+        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_ITEM_ADD_FOCUSED" file="egonbrowser/sidebar_item_add_focused.png" />
+        <structure type="chrome_scaled_image" name="IDR_SIDEBAR_SETTINGS_FOCUSED" file="egonbrowser/sidebar_settings_focused.png" />
       </if>
       <if expr="enable_ipfs and not is_android">
-        <structure type="chrome_scaled_image" name="IDR_BRAVE_IPFS_LOGO" file="brave/ipfs_logo.png" />
+        <structure type="chrome_scaled_image" name="IDR_BRAVE_IPFS_LOGO" file="egonbrowser/ipfs_logo.png" />
       </if>
 
       <if expr="not is_android">
-        <structure type="chrome_scaled_image" name="IDR_TOR_WINDOW_FRAME_GRAPHIC" file="brave/tor_window_frame_graphic.png" />
+        <structure type="chrome_scaled_image" name="IDR_TOR_WINDOW_FRAME_GRAPHIC" file="egonbrowser/tor_window_frame_graphic.png" />
         <!-- Avatar icons -->
         <!-- Generated via zsh :
           > declare -i a=56
@@ -104,12 +104,12 @@
         <structure type="chrome_scaled_image" name="IDR_PROFILE_AVATAR_88" file="common/avatars/avatar_bonbon_royal.png" />
         <structure type="chrome_scaled_image" name="IDR_PROFILE_AVATAR_89" file="common/avatars/avatar_bonbon_ninja.png" />
 
-        <structure type="chrome_scaled_image" name="IDR_BRAVE_WEB_DISCOVERY_INFOBAR_BG_GRAPHIC" file="brave/brave_web_discovery_infobar_bg_graphic.png" />
-        <structure type="chrome_scaled_image" name="IDR_BRAVE_WEB_DISCOVERY_INFOBAR_BG_GRAPHIC_DARK" file="brave/brave_web_discovery_infobar_bg_graphic_dark.png" />
-        <structure type="chrome_scaled_image" name="IDR_BRAVE_WEB_DISCOVERY_INFOBAR_ICON" file="brave/brave_web_discovery_infobar_icon.png" />
-        <structure type="chrome_scaled_image" name="IDR_BRAVE_SEARCH_CONVERSION_BANNER_GRAPHIC" file="brave/brave_search_conversion_banner_graphic.png" />
-        <structure type="chrome_scaled_image" name="IDR_BRAVE_SEARCH_CONVERSION_BANNER_GRAPHIC_DARK" file="brave/brave_search_conversion_banner_graphic_dark.png" />
-        <structure type="chrome_scaled_image" name="IDR_BRAVE_SEARCH_LOGO_IN_SEARCH_PROMOTION" file="brave/brave_search_logo_in_search_promotion.png" />
+        <structure type="chrome_scaled_image" name="IDR_BRAVE_WEB_DISCOVERY_INFOBAR_BG_GRAPHIC" file="egonbrowser/brave_web_discovery_infobar_bg_graphic.png" />
+        <structure type="chrome_scaled_image" name="IDR_BRAVE_WEB_DISCOVERY_INFOBAR_BG_GRAPHIC_DARK" file="egonbrowser/brave_web_discovery_infobar_bg_graphic_dark.png" />
+        <structure type="chrome_scaled_image" name="IDR_BRAVE_WEB_DISCOVERY_INFOBAR_ICON" file="egonbrowser/brave_web_discovery_infobar_icon.png" />
+        <structure type="chrome_scaled_image" name="IDR_BRAVE_SEARCH_CONVERSION_BANNER_GRAPHIC" file="egonbrowser/brave_search_conversion_banner_graphic.png" />
+        <structure type="chrome_scaled_image" name="IDR_BRAVE_SEARCH_CONVERSION_BANNER_GRAPHIC_DARK" file="egonbrowser/brave_search_conversion_banner_graphic_dark.png" />
+        <structure type="chrome_scaled_image" name="IDR_BRAVE_SEARCH_LOGO_IN_SEARCH_PROMOTION" file="egonbrowser/brave_search_logo_in_search_promotion.png" />
       </if>
     </structures>
   </release>

@@ -377,7 +377,7 @@ void RegisterProfilePrefs(user_prefs::PrefRegistrySyncable* registry) {
   // Brave Wallet
   brave_wallet::RegisterProfilePrefs(registry);
 
-  // Brave Search
+  // Brave search
   if (brave_search::IsDefaultAPIEnabled()) {
     brave_search::BraveSearchDefaultHost::RegisterProfilePrefs(registry);
   }

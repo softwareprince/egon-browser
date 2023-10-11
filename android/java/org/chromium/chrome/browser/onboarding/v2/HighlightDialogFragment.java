@@ -32,6 +32,9 @@ import org.chromium.chrome.browser.onboarding.OnboardingPrefManager;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Locale;
+// 
+import android.view.Gravity;
+
 
 public class HighlightDialogFragment extends DialogFragment {
     final public static String TAG_FRAGMENT = "HIGHLIGHT_FRAG";
@@ -53,12 +56,18 @@ public class HighlightDialogFragment extends DialogFragment {
     private OnboardingV2PagerAdapter onboardingV2PagerAdapter;
 
     @Override
-    public Dialog onCreateDialog(Bundle savedInstanceState) {
-        Dialog dialog = new Dialog(getActivity(), android.R.style.Theme_Black_NoTitleBar);
-        dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
-        dialog.getWindow().clearFlags(WindowManager.LayoutParams.FLAG_DIM_BEHIND);
-        return dialog;
-    }
+  public Dialog onCreateDialog(Bundle savedInstanceState) {
+    Dialog dialog = new Dialog(getActivity(), android.R.style.Theme_Black_NoTitleBar);
+    dialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
+    dialog.getWindow().clearFlags(WindowManager.LayoutParams.FLAG_DIM_BEHIND);
+    
+    // Set the dialog to the bottom of the screen
+    WindowManager.LayoutParams layoutParams = dialog.getWindow().getAttributes();
+    layoutParams.gravity = Gravity.BOTTOM;
+    dialog.getWindow().setAttributes(layoutParams);
+
+    return dialog;
+}
 
     @Override
     public void onSaveInstanceState(Bundle outState) {}

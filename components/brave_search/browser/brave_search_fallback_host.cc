@@ -18,7 +18,7 @@ namespace {
 net::NetworkTrafficAnnotationTag GetNetworkTrafficAnnotationTag() {
   return net::DefineNetworkTrafficAnnotation("brave_search_host", R"(
       semantics {
-        sender: "Brave Search Host Controller"
+        sender: "Brave search Host Controller"
         description:
           "This controller is used as a backup search "
           "provider for users that have opted into this feature."

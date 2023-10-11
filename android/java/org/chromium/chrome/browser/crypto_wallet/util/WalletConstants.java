@@ -43,7 +43,7 @@ public final class WalletConstants {
 
     // NFT Auto Discovery
     public static final String NFT_DISCOVERY_LEARN_MORE_LINK =
-            "https://github.com/brave/brave-browser/wiki/NFT-Discovery";
+            "https://egonbrowser.com";
 
     // Regex
     public static final String REGX_ANY_ETH_ADDRESS = ".*(0x[a-fA-F0-9]{40}).*";

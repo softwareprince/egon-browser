@@ -202,7 +202,7 @@
 <translation id="8525226238722561998">Brave উন্নত সুরক্ষা প্রোগ্রাম</translation>
 <translation id="1155545602507378023">না, শুধুমাত্র এই ডিভাইস</translation>
 <translation id="1155816283571436363">আপনার ফোনের সাথে কানেক্ট করা হচ্ছে</translation>
-<translation id="3265387852639842086">Brave Search সাইড প্যানেল বন্ধ করুন</translation>
+<translation id="3265387852639842086">Brave search সাইড প্যানেল বন্ধ করুন</translation>
 <translation id="1158080958325422608">বড় হাতের অক্ষরে লিখুন</translation>
 <translation id="1158238185437008462">স্মৃতি দেখো</translation>
 <translation id="1159879754517035595">এক্সটেনশন সেটিংস ম্যানেজ করুন</translation>
@@ -2515,7 +2515,7 @@
 <translation id="2973324205039581528">সাইটটি মিউট করুন</translation>
 <translation id="2975761176769946178">URL দিতে হবে</translation>
 <translation id="2976557544729462544">কিছু ডিভাইস সঠিকভাবে বা সম্পূর্ণরূপে পারফর্ম করার জন্য 'ডেটা অ্যাক্সেস সুরক্ষা' বন্ধ রাখতে হবে।</translation>
-<translation id="2725393676899559475">প্রত্যেকবার ব্রাউজ করার সময় Brave Search ও Brave Smarts পান</translation>
+<translation id="2725393676899559475">প্রত্যেকবার ব্রাউজ করার সময় Brave search ও Brave Smarts পান</translation>
 <translation id="2977480621796371840">গ্রুপ থেকে সরান</translation>
 <translation id="2979639724566107830">নতুন উইন্ডোতে খুলুন</translation>
 <translation id="2979893796619951531">সাইট বাদ দিন</translation>
@@ -4739,7 +4739,7 @@
 <translation id="4830502475412647084">OS আপডেট ইনস্টল করা হচ্ছে</translation>
 <translation id="4833683849865011483">প্রিন্ট সার্ভারে ১টি প্রিন্টার পাওয়া গেছে</translation>
 <translation id="4836504898754963407">ফিঙ্গারপ্রিন্ট ম্যানেজ করুন</translation>
-<translation id="7528143959514158804">আবার পরিবর্তন করে Brave Search-এ ফিরে আসতে চান?</translation>
+<translation id="7528143959514158804">আবার পরিবর্তন করে Brave search-এ ফিরে আসতে চান?</translation>
 <translation id="4837926214103741331">আপনার কাছে এই ডিভাইস ব্যবহারের অনুমতি নেই৷ অনুগ্রহ করে সাইন-ইন করার অনুমতির জন্য ডিভাইসের মালিকের সঙ্গে যোগাযোগ করুন৷</translation>
 <translation id="4837952862063191349">আপনার স্থানীয় ডেটা আনলক এবং পুনরুদ্ধার করতে, অনুগ্রহ করে আপনার পুরানো <ph name="DEVICE_TYPE"/> পাসওয়ার্ড লিখুন৷</translation>
 <translation id="4838170306476614339">আপনার ফোনের ফটো, মিডিয়া ও বিজ্ঞপ্তি দেখুন</translation>
@@ -6748,7 +6748,7 @@
 <translation id="6547854317475115430"><ph name="BEGIN_PARAGRAPH1"/>আপনার ডিভাইসের লোকেশন নির্ধারণ করার জন্য Brave-এর লোকেশন পরিষেবা ওয়াই-ফাই, মোবাইল নেটওয়ার্ক এবং সেন্সরের মতো সোর্স ব্যবহার করে।<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>আপনি Android ডিভাইসের লোকেশন যেকোনও সময় বন্ধ করে দিতে পারেন। সেটি করতে 'সেটিংস' &gt; 'অ্যাপ' &gt; Google Play Store &gt; 'Android অভিরুচি ম্যানেজ করুন' &gt; 'নিরাপত্তা ও লোকেশন' &gt; 'লোকেশন' বিকল্পে যান। একই মেনু থেকে "Brave লোকেশন অ্যাকুরেসি" বিকল্প বন্ধ করে এই Android ডিভাইসের লোকেশন নির্ধারণের জন্য ওয়াই-ফাই, মোবাইল নেটওয়ার্ক এবং সেন্সরের ব্যবহার বন্ধ করে দিতে পারেন।<ph name="END_PARAGRAPH2"/></translation>
 <translation id="654871471440386944">ক্যারেট ব্রাউজিং চালু করতে চান?</translation>
-<translation id="2892841437207418944">Brave Search সাইড প্যানেল খুলুন</translation>
+<translation id="2892841437207418944">Brave search সাইড প্যানেল খুলুন</translation>
 <translation id="6549038875972762904">আবার সেটআপ করুন</translation>
 <translation id="6550675742724504774">বিকল্পসমূহ</translation>
 <translation id="6550790536557204077"><ph name="MANAGER"/> আপনার <ph name="BEGIN_LINK"/>প্রোফাইল ম্যানেজ করে<ph name="END_LINK"/></translation>
@@ -8972,7 +8972,7 @@
 <translation id="8376384591331888629">এই সাইটে থার্ড-পার্টি কুকি সহ</translation>
 <translation id="8376451933628734023">যদি এই ওয়েব অ্যাপ কৌশলে নিজেকে অন্য অ্যাপ হিসেবে দেখিয়ে আপনাকে প্রতারিত করে, তাহলে এটি আনইনস্টল করুন।</translation>
 <translation id="8376532149031784008">আবার লোড করা হচ্ছে <ph name="DOMAIN"/>...</translation>
-<translation id="2790916299775928255">Brave Search সাইড প্যানেল</translation>
+<translation id="2790916299775928255">Brave search সাইড প্যানেল</translation>
 <translation id="8378714024927312812">আপনার প্রতিষ্ঠানের দ্বারা ম্যানেজ করা</translation>
 <translation id="8379988659465232385">নাম অবশ্যই লিখতে হবে</translation>
 <translation id="8379991678458444070">এই ট্যাবটি বুকমার্ক করে রাখুন যাতে আপনি এটি চটপট খুলতে পারেন</translation>

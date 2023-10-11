@@ -55,7 +55,7 @@
 <translation id="1040761927998636252">บุ๊กมาร์กที่ไม่มีชื่อสําหรับ <ph name="URL"/></translation>
 <translation id="1041175011127912238">หน้านี้ไม่ตอบสนอง</translation>
 <translation id="1041263367839475438">อุปกรณ์ที่ใช้ได้</translation>
-<translation id="1042174272890264476">คอมพิวเตอร์ของคุณมาพร้อมกับไลบรารี RLZ ของ <ph name="SHORT_PRODUCT_NAME"/> ในตัว โดย RLZ จะระบุแท็กที่ซ้ำกันได้และไม่สามารถระบุตัวบุคคลเพื่อวัดการค้นหาและการใช้งาน <ph name="SHORT_PRODUCT_NAME"/> ที่ทำงานโดยแคมเปญส่งเสริมการขายบางรายการ บางครั้งป้ายกำกับจะปรากฏในคำค้นหาของ Brave Search ใน <ph name="PRODUCT_NAME"/></translation>
+<translation id="1042174272890264476">คอมพิวเตอร์ของคุณมาพร้อมกับไลบรารี RLZ ของ <ph name="SHORT_PRODUCT_NAME"/> ในตัว โดย RLZ จะระบุแท็กที่ซ้ำกันได้และไม่สามารถระบุตัวบุคคลเพื่อวัดการค้นหาและการใช้งาน <ph name="SHORT_PRODUCT_NAME"/> ที่ทำงานโดยแคมเปญส่งเสริมการขายบางรายการ บางครั้งป้ายกำกับจะปรากฏในคำค้นหาของ Brave search ใน <ph name="PRODUCT_NAME"/></translation>
 <translation id="1042248468362992359">เชื่อมต่ออินเทอร์เน็ตมือถือเพื่อใช้ฮอตสปอต <ph name="BEGIN_LINK_LEARN_MORE"/>ดูข้อมูลเพิ่มเติม<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1043505821207197890">เกิดข้อผิดพลาด Linux อาจได้รับการอัปเกรดเพียงบางส่วน ตรวจสอบการบันทึกเพื่อดูข้อมูลเพิ่มเติม ระบบได้บันทึกข้อมูลไว้ใน Files &gt; ไฟล์ของฉัน &gt; <ph name="LOG_FILE"/></translation>
 <translation id="104419033123549300">รูปแบบคีย์แมป</translation>
@@ -200,7 +200,7 @@
 <translation id="8525226238722561998">โปรแกรมการปกป้องขั้นสูงของ Brave</translation>
 <translation id="1155545602507378023">ไม่ อุปกรณ์นี้เท่านั้น</translation>
 <translation id="1155816283571436363">กำลังเชื่อมต่อกับโทรศัพท์ของคุณ</translation>
-<translation id="3265387852639842086">ปิดแผงด้านข้างของ Brave Search</translation>
+<translation id="3265387852639842086">ปิดแผงด้านข้างของ Brave search</translation>
 <translation id="1158080958325422608">Make Uppercase</translation>
 <translation id="1158238185437008462">ดูความทรงจำ</translation>
 <translation id="1159879754517035595">จัดการการตั้งค่าส่วนขยาย</translation>
@@ -2499,7 +2499,7 @@
 <translation id="2973324205039581528">ปิดเสียงเว็บไซต์</translation>
 <translation id="2975761176769946178">ต้องระบุ URL</translation>
 <translation id="2976557544729462544">อุปกรณ์บางอย่างกำหนดให้คุณปิดใช้การป้องกันการเข้าถึงข้อมูลเพื่อให้ทำงานได้อย่างถูกต้องหรือเต็มประสิทธิภาพ</translation>
-<translation id="2725393676899559475">ใช้ Brave Search และฟีเจอร์อัจฉริยะจาก Brave ทุกครั้งที่ท่องเว็บ</translation>
+<translation id="2725393676899559475">ใช้ Brave search และฟีเจอร์อัจฉริยะจาก Brave ทุกครั้งที่ท่องเว็บ</translation>
 <translation id="2977480621796371840">นำออกจากกลุ่ม</translation>
 <translation id="2979639724566107830">เปิดในหน้าต่างใหม่</translation>
 <translation id="2979893796619951531">ยกเว้นเว็บไซต์</translation>
@@ -4721,7 +4721,7 @@
 <translation id="4830502475412647084">กำลังติดตั้งอัปเดตระบบปฏิบัติการ</translation>
 <translation id="4833683849865011483">พบเครื่องพิมพ์ 1 เครื่องจากเซิร์ฟเวอร์การพิมพ์</translation>
 <translation id="4836504898754963407">จัดการลายนิ้วมือ</translation>
-<translation id="7528143959514158804">ต้องการเปลี่ยนกลับไปใช้ Brave Search ไหม</translation>
+<translation id="7528143959514158804">ต้องการเปลี่ยนกลับไปใช้ Brave search ไหม</translation>
 <translation id="4837926214103741331">คุณไม่ได้รับอนุญาตให้ใช้อุปกรณ์นี้ โปรดติดต่อเจ้าของอุปกรณ์เพื่อขออนุญาตลงชื่อเข้าใช้</translation>
 <translation id="4837952862063191349">หากต้องการปลดล็อกและกู้คืนข้อมูลในเครื่อง โปรดป้อนรหัสผ่านเก่าของ <ph name="DEVICE_TYPE"/></translation>
 <translation id="4838170306476614339">ดูรูปภาพ สื่อ และการแจ้งเตือนในโทรศัพท์</translation>
@@ -6725,7 +6725,7 @@
 <translation id="6547854317475115430"><ph name="BEGIN_PARAGRAPH1"/>บริการตำแหน่งของ Brave จะใช้แหล่งที่มาอย่าง Wi-Fi, เครือข่ายมือถือ และเซ็นเซอร์เพื่อช่วยประมาณตำแหน่งของอุปกรณ์<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>คุณปิดการใช้ตำแหน่งของ Android ในอุปกรณ์ได้ทุกเมื่อโดยไปที่การตั้งค่า &gt; แอป &gt; Google Play Store &gt; จัดการค่ากำหนด Android &gt; ความปลอดภัยและตำแหน่ง &gt; ตำแหน่ง และยังปิดการใช้ Wi-Fi, เครือข่ายมือถือ และเซ็นเซอร์สำหรับตำแหน่งของ Android ได้ด้วย โดยการปิด "ความแม่นยำของตำแหน่งของ Brave" ในเมนูเดียวกัน<ph name="END_PARAGRAPH2"/></translation>
 <translation id="654871471440386944">เปิดการเรียกดูด้วยแป้นพิมพ์ใช่ไหม</translation>
-<translation id="2892841437207418944">เปิดแผงด้านข้างของ Brave Search</translation>
+<translation id="2892841437207418944">เปิดแผงด้านข้างของ Brave search</translation>
 <translation id="6549038875972762904">ตั้งค่าใหม่</translation>
 <translation id="6550675742724504774">ตัวเลือก</translation>
 <translation id="6550790536557204077"><ph name="BEGIN_LINK"/>โปรไฟล์ของคุณได้รับการจัดการ<ph name="END_LINK"/>โดย <ph name="MANAGER"/></translation>
@@ -7482,7 +7482,7 @@
 <translation id="7196107899576756066">{COUNT,plural, =1{อยู่ระหว่างการดาวน์โหลด 1 รายการ}other{อยู่ระหว่างการดาวน์โหลด # รายการ}}</translation>
 <translation id="7196272782924897510">ใช้พาสคีย์จากอุปกรณ์อื่นไหม</translation>
 <translation id="7196913789568937443">สำรองข้อมูลไปยัง Brave ไดรฟ์ กู้ข้อมูลคืนหรือเปลี่ยนอุปกรณ์ได้ง่ายๆ ทุกเมื่อ ข้อมูลสำรองจะรวมถึงข้อมูลแอป ระบบจะอัปโหลดข้อมูลสำรองไปยัง Brave และเข้ารหัสโดยใช้รหัสผ่านบัญชี Brave ของคุณ <ph name="BEGIN_LINK1"/>ดูข้อมูลเพิ่มเติม<ph name="END_LINK1"/></translation>
-<translation id="96037229054033864">ใช้ Brave Search และฟีเจอร์เจ๋งๆ จาก Brave ทุกครั้งที่ท่องเว็บ</translation>
+<translation id="96037229054033864">ใช้ Brave search และฟีเจอร์เจ๋งๆ จาก Brave ทุกครั้งที่ท่องเว็บ</translation>
 <translation id="719791532916917144">แป้นพิมพ์ลัด</translation>
 <translation id="7198503619164954386">คุณต้องใช้อุปกรณ์ที่ลงทะเบียนขององค์กร</translation>
 <translation id="7199158086730159431">รั&amp;บความช่วยเหลือ</translation>
@@ -7803,7 +7803,7 @@
 <translation id="7456774706094330779">การโหลดล่วงหน้าที่เพิ่มขึ้น</translation>
 <translation id="7456847797759667638">เปิดตำแหน่ง...</translation>
 <translation id="7457831169406914076">{COUNT,plural, =1{1 ลิงก์}other{# ลิงก์}}</translation>
-<translation id="8944680893327873975">ใช้โปรแกรมตรวจตัวสะกดแบบเดียวกับ Brave Search ข้อความที่คุณพิมพ์ในเบราว์เซอร์จะส่งไปยัง Brave</translation>
+<translation id="8944680893327873975">ใช้โปรแกรมตรวจตัวสะกดแบบเดียวกับ Brave search ข้อความที่คุณพิมพ์ในเบราว์เซอร์จะส่งไปยัง Brave</translation>
 <translation id="7458715171471938198">คืนค่าแอปไหม</translation>
 <translation id="7458933488302148148">ตรวจสอบรหัสผ่านที่บันทึกไว้เพื่อเสริมความปลอดภัยในโลกออนไลน์ให้มากยิ่งขึ้น</translation>
 <translation id="745988141575685751"><ph name="BEGIN_PARAGRAPH1"/>การอนุญาตให้อุปกรณ์ ChromeOS ส่งรายงานอัตโนมัติจะช่วยให้เราจัดลำดับความสำคัญของสิ่งที่ต้องแก้ไขและปรับปรุงใน ChromeOS ได้ รายงานเหล่านี้ประกอบด้วยข้อมูลต่างๆ เช่น เวลาที่ ChromeOS ขัดข้อง ฟีเจอร์ที่ใช้ และจำนวนหน่วยความจำที่ใช้โดยปกติ ระบบจะรวบรวมข้อมูลการวินิจฉัยและการใช้งานอื่นๆ ของแอป ซึ่งรวมถึงแอป Android และเว็บแอปหากมีการเปิดการซิงค์แอปด้วย<ph name="END_PARAGRAPH1"/>
@@ -8947,7 +8947,7 @@
 <translation id="8376384591331888629">รวมคุกกี้ของบุคคลที่สามในเว็บไซต์นี้</translation>
 <translation id="8376451933628734023">โปรดถอนการติดตั้งหากเว็บแอปนี้พยายามหลอกล่อคุณให้คิดว่าเป็นแอปอื่น</translation>
 <translation id="8376532149031784008">กำลังโหลด <ph name="DOMAIN"/> ซ้ำ...</translation>
-<translation id="2790916299775928255">แผงด้านข้างของ Brave Search</translation>
+<translation id="2790916299775928255">แผงด้านข้างของ Brave search</translation>
 <translation id="8378714024927312812">จัดการโดยองค์กร</translation>
 <translation id="8379988659465232385">ต้องระบุชื่อ</translation>
 <translation id="8379991678458444070">บุ๊กมาร์กแท็บนี้ไว้เพื่อให้กลับมาได้อย่างรวดเร็ว</translation>

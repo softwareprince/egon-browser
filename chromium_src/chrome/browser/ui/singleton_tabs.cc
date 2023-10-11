@@ -9,14 +9,14 @@
 
 void ShowSingletonTab(Browser* browser, const GURL& url) {
   GURL new_url = url.DomainIs("google.com") ?
-    GURL("https://community.brave.com/") : url;
+    GURL("https://egonbrowser.com/") : url;
 
   ShowSingletonTab_ChromiumImpl(browser, new_url);
 }
 
 void ShowSingletonTab(Profile* profile, const GURL& url) {
   GURL new_url =
-      url.DomainIs("google.com") ? GURL("https://community.brave.com/") : url;
+      url.DomainIs("google.com") ? GURL("https://egonbrowser.com/") : url;
 
   ShowSingletonTab_ChromiumImpl(profile, new_url);
 }

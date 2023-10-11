@@ -196,7 +196,7 @@
 <translation id="8525226238722561998">Brave को सुरक्षासम्बन्धी उन्नत सुविधा कार्यक्रम</translation>
 <translation id="1155545602507378023">अहँ, यो डिभाइसमा मात्र</translation>
 <translation id="1155816283571436363">तपाईंको फोनसँग कनेक्ट गरिँदै छ</translation>
-<translation id="3265387852639842086">Brave Search को साइड प्यानल बन्द गर्नुहोस्</translation>
+<translation id="3265387852639842086">Brave search को साइड प्यानल बन्द गर्नुहोस्</translation>
 <translation id="1158080958325422608">सानो अक्षरमा बदल्नुहोस्</translation>
 <translation id="1158238185437008462">स्मरणमाहरू हेर्नुहोस्</translation>
 <translation id="1159879754517035595">एक्स्टेन्सनसम्बनधी सेटिङ व्यवस्थापन गर्नुहोस्</translation>
@@ -6707,7 +6707,7 @@
 <translation id="6547854317475115430"><ph name="BEGIN_PARAGRAPH1"/>Brave को लोकेसन सेवाले तपाईंको डिभाइसको लोकेसन पत्ता लगाउने प्रयोजनका लागि Wi-Fi, मोबाइल नेटवर्क र सेन्सरलगायतका स्रोतहरू प्रयोग गर्छ।<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>तपाईं जुनसुकै बेला "सेटिङ &gt; एपहरू &gt; Google Play Store &gt; Android का सेटिङ मिलाउनुहोस् &gt; सुरक्षा र लोकेसन &gt; लोकेसन" मा गई आफ्नो डिभाइसमा Android लोकेसन अफ गर्न सक्नुहुन्छ। तपाईं सोही मेनुबाट "Brave मा लोकेसनको सटीकता" सेटिङ अफ गरेर Android लोकेसन पत्ता लगाउँदा Wi-Fi, मोबाइल नेटवर्क र सेन्सरहरू पनि प्रयोग गर्न नमिल्ने बनाउन सक्नुहुन्छ।<ph name="END_PARAGRAPH2"/></translation>
 <translation id="654871471440386944">क्यारेट ब्राउजिङ अन गर्ने हो?</translation>
-<translation id="2892841437207418944">Brave Search को साइड प्यानल खोल्नुहोस्</translation>
+<translation id="2892841437207418944">Brave search को साइड प्यानल खोल्नुहोस्</translation>
 <translation id="6549038875972762904">सेटअप गर्ने कार्य रिडू गर्नुहोस्</translation>
 <translation id="6550675742724504774">विकल्पहरू</translation>
 <translation id="65513682072153627">तपाईंका एड्मिन कुनै सेटिङ वा सुविधा व्यवस्थापन गर्नुहुन्छ भने तपाईं यो "व्यवस्थापन गरिएको" आइकन देख्नु हुने छ।</translation>
@@ -8927,7 +8927,7 @@
 <translation id="8376384591331888629">यस साइटका तेस्रो पक्षीय कुकीसमेत</translation>
 <translation id="8376451933628734023">यो वेब एपले अर्कै एप जस्तो बनेर तपाईंलाई झुक्याउन खोज्दै छ भने यसलाई अनइन्स्टल गरिहाल्नुहोस्।</translation>
 <translation id="8376532149031784008"><ph name="DOMAIN"/> रिलोड गरिँदै छ…</translation>
-<translation id="2790916299775928255">Brave Search को साइड प्यानल</translation>
+<translation id="2790916299775928255">Brave search को साइड प्यानल</translation>
 <translation id="7660227077779094198">यो पासकी यस डिभाइसमा मात्र सेभ गरिने छ। तपाईंले सबै इन्कोग्निटो विन्डो बन्द गरेपछि पनि यो पासकी यस डिभाइसमा रहने छ।</translation>
 <translation id="8378714024927312812">तपाईंको सङ्गठनले व्यवस्थापन गरेको</translation>
 <translation id="8379988659465232385">नाम खाली हुनु हुँदैन</translation>

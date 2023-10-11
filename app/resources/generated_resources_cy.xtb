@@ -55,7 +55,7 @@
 <translation id="1040761927998636252">Nod tudalen dienw ar gyfer <ph name="URL"/></translation>
 <translation id="1041175011127912238">Nid yw'r dudalen hon yn ymateb</translation>
 <translation id="1041263367839475438">Dyfeisiau sydd ar gael</translation>
-<translation id="1042174272890264476">Mae'ch cyfrifiadur yn dod â llyfrgell RLZ <ph name="SHORT_PRODUCT_NAME"/> wedi'i integreddio. Mae RLZ yn aseinio tag nad yw'n unigryw, nad yw'n adnabyddadwy yn bersonol i fesur y chwiliadau a'r defnydd <ph name="SHORT_PRODUCT_NAME"/> sy'n cael ei yrru gan ymgyrch hyrwyddol benodol. Weithiau bydd y labeli hyn yn ymddangos mewn ymholiadau Brave Search yn <ph name="PRODUCT_NAME"/>.</translation>
+<translation id="1042174272890264476">Mae'ch cyfrifiadur yn dod â llyfrgell RLZ <ph name="SHORT_PRODUCT_NAME"/> wedi'i integreddio. Mae RLZ yn aseinio tag nad yw'n unigryw, nad yw'n adnabyddadwy yn bersonol i fesur y chwiliadau a'r defnydd <ph name="SHORT_PRODUCT_NAME"/> sy'n cael ei yrru gan ymgyrch hyrwyddol benodol. Weithiau bydd y labeli hyn yn ymddangos mewn ymholiadau Brave search yn <ph name="PRODUCT_NAME"/>.</translation>
 <translation id="1042248468362992359">Cysylltwch â data symudol er mwyn defnyddio poethfan. <ph name="BEGIN_LINK_LEARN_MORE"/>Dysgu rhagor<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1043505821207197890">Aeth rhywbeth o'i le. Efallai mai dim ond yn rhannol y caiff Linux ei uwchraddio. Adolygu cofnodion i gael rhagor o wybodaeth. Mae logiau wedi'u cadw yn Ffeiliau &gt; Fy ffeiliau &gt; <ph name="LOG_FILE"/></translation>
 <translation id="104419033123549300">Arddull Map Bysellau</translation>
@@ -202,7 +202,7 @@ Gwiriwch eich cyfrineiriau unrhyw bryd yn y <ph name="GOOGLE_PASSWORD_MANAGER"/>
 <translation id="8525226238722561998">Brave Advanced Protection Program</translation>
 <translation id="1155545602507378023">Na, y ddyfais hon yn unig</translation>
 <translation id="1155816283571436363">Wrthi'n cysylltu â'ch ffôn</translation>
-<translation id="3265387852639842086">Cau panel ochr Brave Search</translation>
+<translation id="3265387852639842086">Cau panel ochr Brave search</translation>
 <translation id="1158080958325422608">Gwneud yn Briflythrennau</translation>
 <translation id="1158238185437008462">Gweld atgofion</translation>
 <translation id="1159879754517035595">Rheoli gosodiadau estyniad</translation>
@@ -2523,7 +2523,7 @@ Mae <ph name="DOMAIN"/> yn gofyn i chi gadw'ch cerdyn smart wedi'i fewnosod.</tr
 <translation id="2973324205039581528">Distewi Gwefan</translation>
 <translation id="2975761176769946178">Mae angen URL</translation>
 <translation id="2976557544729462544">Mae rhai dyfeisiau'n gofyn i chi analluogi diogelwch mynediad data i weithio'n iawn neu ar berfformiad llawn.</translation>
-<translation id="2725393676899559475">Cael Brave Search a Brave Smarts bob tro y byddwch yn pori</translation>
+<translation id="2725393676899559475">Cael Brave search a Brave Smarts bob tro y byddwch yn pori</translation>
 <translation id="2977480621796371840">Tynnu o'r grŵp</translation>
 <translation id="2979639724566107830">Agor mewn ffenestr newydd</translation>
 <translation id="2979893796619951531">Eithrio'r wefan</translation>
@@ -4755,7 +4755,7 @@ Defnyddiwch Ctrl + Alt + Lleihau disgleirdeb i bellhau.</translation>
 <translation id="4830502475412647084">Yn gosod diweddariad OS</translation>
 <translation id="4833683849865011483">Wedi dod o hyd i 1 argraffydd o'r gweinydd argraffu</translation>
 <translation id="4836504898754963407">Rheoli olion bysedd</translation>
-<translation id="7528143959514158804">Newid yn ôl i Brave Search?</translation>
+<translation id="7528143959514158804">Newid yn ôl i Brave search?</translation>
 <translation id="4837926214103741331">Nid oes gennych awdurdod i ddefnyddio'r ddyfais hon. Cysylltwch â pherchennog y ddyfais i gael caniatâd mewngofnodi.</translation>
 <translation id="4837952862063191349">I ddatgloi ac adfer eich data lleol, rhowch eich hen gyfrinair <ph name="DEVICE_TYPE"/>.</translation>
 <translation id="4838170306476614339">Gweld lluniau, cyfryngau a hysbysiadau eich ffôn</translation>
@@ -6764,7 +6764,7 @@ Mae <ph name="DOMAIN"/> yn gofyn i chi gadw'ch cerdyn smart wedi'i fewnosod.</tr
 <translation id="6547854317475115430"><ph name="BEGIN_PARAGRAPH1"/>Mae gwasanaeth lleoliad Brave yn defnyddio ffynonellau megis Wi-Fi, rhwydweithiau symudol a synwyryddion i helpu i amcangyfrif lleoliad eich dyfais.<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>Gallwch ddiffodd lleoliad Android ar eich dyfais unrhyw bryd drwy fynd i Gosodiadau &gt; Apiau &gt; Google Play Store &gt; Rheoli dewisiadau Android &gt; Diogelwch a lleoliad &gt; Lleoliad. Gallwch hefyd ddiffodd y defnydd o Wi-Fi, rhwydweithiau symudol, a synwyryddion ar gyfer lleoliad Android drwy ddiffodd “Cywirdeb Lleoliad Brave” yn yr un ddewislen.<ph name="END_PARAGRAPH2"/></translation>
 <translation id="654871471440386944">Troi pori caret ymlaen?</translation>
-<translation id="2892841437207418944">Agor panel ochr Brave Search</translation>
+<translation id="2892841437207418944">Agor panel ochr Brave search</translation>
 <translation id="6549038875972762904">Ailwneud gosod</translation>
 <translation id="6550675742724504774">Dewisiadau</translation>
 <translation id="6550790536557204077"><ph name="BEGIN_LINK"/>Rheolir eich proffil<ph name="END_LINK"/> gan <ph name="MANAGER"/></translation>
@@ -7529,7 +7529,7 @@ Mae gennych # cyfrinair arall sydd wedi'u darganfod. Mae Rheolwr Cyfrineiriau Br
 <translation id="7196107899576756066">{COUNT,plural, =1{1 lawrlwythiad ar y gweill}zero{# lawrlwythiad ar y gweill}two{# lawrlwythiad ar y gweill}few{# lawrlwythiad ar y gweill}many{# lawrlwythiad ar y gweill}other{# lawrlwythiad ar y gweill}}</translation>
 <translation id="7196272782924897510">Defnyddiwch god pas o ddyfais arall?</translation>
 <translation id="7196913789568937443">Gwneud copi wrth gefn yn Google Drive. Adfer eich data neu newid dyfais yn hawdd ar unrhyw adeg. Mae eich copïau wrth gefn yn cynnwys data apiau. Mae eich copïau wrth gefn yn cael eu huwchlwytho i Brave a'u hamgryptio gan ddefnyddio eich cyfrinair Cyfrif Brave. <ph name="BEGIN_LINK1"/>Dysgu rhagor<ph name="END_LINK1"/></translation>
-<translation id="96037229054033864">Cael Brave Search a buddion Brave bob tro y byddwch yn pori</translation>
+<translation id="96037229054033864">Cael Brave search a buddion Brave bob tro y byddwch yn pori</translation>
 <translation id="719791532916917144">Llwybr byr bysellfwrdd</translation>
 <translation id="7198503619164954386">Rhaid i chi fod ar ddyfais sydd wedi'i chofrestru gan fenter</translation>
 <translation id="7199158086730159431">Cael H&amp;elp</translation>
@@ -7852,7 +7852,7 @@ Mae gennych # cyfrinair arall sydd wedi'u darganfod. Mae Rheolwr Cyfrineiriau Br
 <translation id="7456774706094330779">Rhaglwytho estynedig</translation>
 <translation id="7456847797759667638">Agor Lleoliad...</translation>
 <translation id="7457831169406914076">{COUNT,plural, =1{dolen}zero{# dolen}two{# ddolen}few{# dolen}many{# dolen}other{# dolen}}</translation>
-<translation id="8944680893327873975">Yn defnyddio'r un gwiriwr sillafu ag a ddefnyddir yn Brave Search. Anfonir testun rydych yn ei deipio yn y porwr at Brave.</translation>
+<translation id="8944680893327873975">Yn defnyddio'r un gwiriwr sillafu ag a ddefnyddir yn Brave search. Anfonir testun rydych yn ei deipio yn y porwr at Brave.</translation>
 <translation id="7458715171471938198">Adfer apiau?</translation>
 <translation id="7458933488302148148">Gwiriwch eich cyfrineiriau sydd wedi'u cadw i gryfhau eich diogelwch ac i aros yn fwy diogel ar-lein</translation>
 <translation id="745988141575685751"><ph name="BEGIN_PARAGRAPH1"/>Mae caniatáu i'ch dyfeisiau ChromeOS anfon adroddiadau awtomatig yn ein helpu i flaenoriaethu beth i'w drwsio a'i wella yn ChromeOS. Gall yr adroddiadau hyn gynnwys pethau megis pan fyddai ChromeOS yn torri, pa nodweddion rydych yn eu defnyddio a faint o gof rydych yn ei ddefnyddio yn nodweddiadol. Bydd data diagnostig a defnydd apiau eraill gan gynnwys ar gyfer Android ac apiau gwe, yn cael eu casglu os yw cysoni apiau hefyd wedi'i droi ymlaen.<ph name="END_PARAGRAPH1"/>
@@ -8995,7 +8995,7 @@ Cadwch eich ffeil allwedd mewn man diogel. Bydd ei hangen arnoch i greu fersiyna
 <translation id="8376384591331888629">Gan gynnwys cwcis trydydd parti ar y wefan hon</translation>
 <translation id="8376451933628734023">Os mae'r ap gwe yn ceisio eich twyllo i feddwl ei fod yn ap gwahanol, dadosodwch ef.</translation>
 <translation id="8376532149031784008">Wrthi'n ail-lwytho <ph name="DOMAIN"/>...</translation>
-<translation id="2790916299775928255">Panel ochr Brave Search</translation>
+<translation id="2790916299775928255">Panel ochr Brave search</translation>
 <translation id="7660227077779094198">Bydd y cod pas hwn yn cael ei gadw ar y ddyfais hon yn unig. Bydd yn aros ar y ddyfais hon ar ôl i chi gau pob ffenestr Anhysbys.</translation>
 <translation id="8378714024927312812">Rheolir gan eich sefydliad</translation>
 <translation id="8379988659465232385">Ni all yr enw fod yn wag</translation>

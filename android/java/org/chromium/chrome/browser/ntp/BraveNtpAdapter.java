@@ -58,6 +58,7 @@ import org.chromium.components.user_prefs.UserPrefs;
 
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
+import android.view.Gravity;
 
 public class BraveNtpAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
     private Activity mActivity;
@@ -85,14 +86,15 @@ public class BraveNtpAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
     private int mTopMarginImageCredit;
     private float mImageCreditAlpha = 1f;
 
-    private static int TYPE_STATS = 1;
-    private static int TYPE_TOP_SITES = 2;
-    private static int TYPE_NEW_CONTENT = 3;
-    private static int TYPE_IMAGE_CREDIT = 4;
-    private static int TYPE_NEWS_OPTIN = 5;
-    private static int TYPE_NEWS_LOADING = 6;
-    private static int TYPE_NEWS = 7;
-    private static int TYPE_NEWS_NO_CONTENT_SOURCES = 8;
+    private static int TYPE_COMMING=1;
+    private static int TYPE_STATS = 2;
+    private static int TYPE_TOP_SITES = 3;
+    private static int TYPE_NEW_CONTENT = 4;
+    private static int TYPE_IMAGE_CREDIT = 5;
+    private static int TYPE_NEWS_OPTIN = 6;
+    private static int TYPE_NEWS_LOADING = 7;
+    private static int TYPE_NEWS = 8;
+    private static int TYPE_NEWS_NO_CONTENT_SOURCES = 9;
 
     private static final int ONE_ITEM_SPACE = 1;
     private static final int TWO_ITEMS_SPACE = 2;
@@ -144,7 +146,7 @@ public class BraveNtpAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
 
             LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(
                     LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
-            int margin = dpToPx(mActivity, 16);
+            int margin = dpToPx(mActivity, 20);
             layoutParams.setMargins(margin, margin, margin, 0);
             statsViewHolder.ntpStatsLayout.setLayoutParams(layoutParams);
             statsViewHolder.ntpStatsLayout.setOnClickListener(
@@ -152,7 +154,19 @@ public class BraveNtpAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
 
             mStatsHeight = NTPUtil.getViewHeight(statsViewHolder.itemView) + margin;
 
-        } else if (holder instanceof TopSitesViewHolder) {
+        } 
+        else if (holder instanceof CommingViewHolder) {
+            LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(
+                    LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
+            int margin = dpToPx(mActivity, 16);
+            layoutParams.setMargins(margin, margin, margin, 0);
+            layoutParams.gravity = Gravity.CENTER_HORIZONTAL;
+            mMvTilesContainerLayout.setLayoutParams(layoutParams);
+            mMvTilesContainerLayout.setBackgroundResource(R.drawable.rounded_dark_bg_alpha);
+            mTopSitesHeight = NTPUtil.getViewHeight(holder.itemView) + margin;
+
+        }
+        else if (holder instanceof TopSitesViewHolder) {
             LinearLayout.LayoutParams layoutParams = new LinearLayout.LayoutParams(
                     LinearLayout.LayoutParams.MATCH_PARENT, LinearLayout.LayoutParams.WRAP_CONTENT);
             int margin = dpToPx(mActivity, 16);
@@ -215,27 +229,26 @@ public class BraveNtpAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
                     imageCreditViewHolder.superReferralLogo.setVisibility(View.GONE);
 
                     if (backgroundImage.getImageCredit() != null) {
-                        String imageCreditStr = String.format(mActivity.getResources().getString(
-                                R.string.photo_by, backgroundImage.getImageCredit().getName()));
+                        // String imageCreditStr = String.format(mActivity.getResources().getString(
+                        //         R.string.photo_by, backgroundImage.getImageCredit().getName()));
+                        // SpannableStringBuilder spannableString =
+                        //         new SpannableStringBuilder(imageCreditStr);
+                        // spannableString.setSpan(
+                        //         new android.text.style.StyleSpan(android.graphics.Typeface.BOLD),
+                        //         ((imageCreditStr.length() - 1)
+                        //                 - (backgroundImage.getImageCredit().getName().length()
+                        //                         - 1)),
+                        //         imageCreditStr.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
 
-                        SpannableStringBuilder spannableString =
-                                new SpannableStringBuilder(imageCreditStr);
-                        spannableString.setSpan(
-                                new android.text.style.StyleSpan(android.graphics.Typeface.BOLD),
-                                ((imageCreditStr.length() - 1)
-                                        - (backgroundImage.getImageCredit().getName().length()
-                                                - 1)),
-                                imageCreditStr.length(), Spannable.SPAN_EXCLUSIVE_EXCLUSIVE);
+                        // imageCreditViewHolder.creditTv.setText(spannableString);
+                        // imageCreditViewHolder.creditTv.setVisibility(View.VISIBLE);
 
-                        imageCreditViewHolder.creditTv.setText(spannableString);
-                        imageCreditViewHolder.creditTv.setVisibility(View.VISIBLE);
-
-                        imageCreditViewHolder.creditTv.setOnClickListener(view -> {
-                            if (backgroundImage.getImageCredit() != null) {
-                                TabUtils.openUrlInSameTab(
-                                        backgroundImage.getImageCredit().getUrl());
-                            }
-                        });
+                        // imageCreditViewHolder.creditTv.setOnClickListener(view -> {
+                        //     if (backgroundImage.getImageCredit() != null) {
+                        //         TabUtils.openUrlInSameTab(
+                        //                 backgroundImage.getImageCredit().getUrl());
+                        //     }
+                        // });
                     }
                 }
             }
@@ -370,8 +383,14 @@ public class BraveNtpAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
             view = LayoutInflater.from(parent.getContext())
                            .inflate(R.layout.brave_stats_layout, parent, false);
             return new StatsViewHolder(view);
+        }
+        else if(viewType == TYPE_COMMING){
+            view = LayoutInflater.from(parent.getContext())
+                           .inflate(R.layout.brave_stats_layout_comming_soon, parent, false);
+            return new CommingViewHolder(view);
+        }
 
-        } else if (viewType == TYPE_TOP_SITES) {
+        else if (viewType == TYPE_TOP_SITES) {
             return new TopSitesViewHolder(mMvTilesContainerLayout);
 
         } else if (viewType == TYPE_NEW_CONTENT) {
@@ -411,12 +430,32 @@ public class BraveNtpAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
         int statsCount = getStatsCount();
         int topSitesCount = getTopSitesCount();
 
+        // if (position == 0 && statsCount == 1) {
+        //     return TYPE_STATS;
+        // } else if (topSitesCount == 1 && position == statsCount) {
+        //     return TYPE_TOP_SITES;
+        // } else if (position == statsCount + topSitesCount && mIsNewContent) {
+        //     return TYPE_NEW_CONTENT;
+        // } else if ((position == statsCount + topSitesCount && !mIsNewContent)
+        //         || (position == statsCount + topSitesCount + ONE_ITEM_SPACE && mIsNewContent)) {
+        //     return TYPE_IMAGE_CREDIT;
+        // } else if (position == statsCount + topSitesCount + ONE_ITEM_SPACE && mIsDisplayNewsOptin
+        //         && !mIsNewContent) {
+        //     return TYPE_NEWS_OPTIN;
+        // } else if (position == statsCount + topSitesCount + ONE_ITEM_SPACE
+        //         && shouldDisplayNewsLoading() && !mIsNewContent) {
+        //     return TYPE_NEWS_LOADING;
+        // } else if (!shouldDisplayNewsLoading() && mNewsItems.size() == 0) {
+        //     return TYPE_NEWS_NO_CONTENT_SOURCES;
+        // } else {
+        //     return TYPE_NEWS;
+        // }
         if (position == 0 && statsCount == 1) {
-            return TYPE_STATS;
+            return TYPE_COMMING;
         } else if (topSitesCount == 1 && position == statsCount) {
-            return TYPE_TOP_SITES;
+            return TYPE_STATS;
         } else if (position == statsCount + topSitesCount && mIsNewContent) {
-            return TYPE_NEW_CONTENT;
+            return TYPE_TOP_SITES;
         } else if ((position == statsCount + topSitesCount && !mIsNewContent)
                 || (position == statsCount + topSitesCount + ONE_ITEM_SPACE && mIsNewContent)) {
             return TYPE_IMAGE_CREDIT;
@@ -605,6 +644,24 @@ public class BraveNtpAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolde
                     (TextView) itemView.findViewById(R.id.brave_stats_text_time_count);
             this.estTimeSavedCountTextTv =
                     (TextView) itemView.findViewById(R.id.brave_stats_text_time_count_text);
+        }
+    }
+
+     public static class CommingViewHolder extends RecyclerView.ViewHolder {
+        LinearLayout ntpCommingLayout;
+        TextView commingFirst;
+        TextView commingSecond;
+
+        CommingViewHolder(View itemView) {
+            super(itemView);
+            this.ntpCommingLayout = (LinearLayout) itemView.findViewById(R.id.ntp_main_layout_comming_soon);
+          
+            this.commingFirst =
+                    (TextView) itemView.findViewById(R.id.news_settings_text_comming);
+            
+            this.commingSecond =
+                    (TextView) itemView.findViewById(R.id.news_settings_text_soon);
+           
         }
     }
 

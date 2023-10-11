@@ -28,7 +28,7 @@ public class BraveFeedSurfaceMediator extends FeedSurfaceMediator {
 
     @Override
     void updateContent() {
-        assert !FeedFeatures.isFeedEnabled() : "Feed should be disabled in Brave!";
+        assert !FeedFeatures.isFeedEnabled() : "Feed should be disabled in EgonBrowser!";
         assert mCoordinator
                 instanceof BraveFeedSurfaceCoordinator : "Wrong feed surface coordinator!";
 

@@ -89,7 +89,7 @@
     Set Brave as your default browser
   </message>
   <message name="IDS_WELCOME_SET_AS_DEFAULT_SUB_HEADER" desc="Sub-header for the page that prompts user to set Brave as their default browser.">
-    Get Brave Search and Brave smarts everytime you browse
+    Get Brave search and Brave smarts everytime you browse
   </message>
   <message name="IDS_WELCOME_SET_AS_DEFAULT_SET_AS_DEFAULT" desc="The label for a button to confirm setting Brave as their default browser.">
     Set as default

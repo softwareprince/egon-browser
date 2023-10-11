@@ -55,7 +55,7 @@
 <translation id="1040761927998636252">Penanda halaman tidak bernama untuk <ph name="URL"/></translation>
 <translation id="1041175011127912238">Halaman ini tidak bertindak balas</translation>
 <translation id="1041263367839475438">Peranti yang tersedia</translation>
-<translation id="1042174272890264476">Komputer anda juga disertakan dengan pustaka RLZ <ph name="SHORT_PRODUCT_NAME"/> terbina dalam. RLZ memperuntukkan tanda nama tidak unik yang tidak boleh mengenal pasti secara peribadi untuk mengukur carian dan penggunaan <ph name="SHORT_PRODUCT_NAME"/> yang didorong oleh kempen galakan tertentu. Label ini kadangkala dipaparkan dalam pertanyaan Brave Search dalam <ph name="PRODUCT_NAME"/>.</translation>
+<translation id="1042174272890264476">Komputer anda juga disertakan dengan pustaka RLZ <ph name="SHORT_PRODUCT_NAME"/> terbina dalam. RLZ memperuntukkan tanda nama tidak unik yang tidak boleh mengenal pasti secara peribadi untuk mengukur carian dan penggunaan <ph name="SHORT_PRODUCT_NAME"/> yang didorong oleh kempen galakan tertentu. Label ini kadangkala dipaparkan dalam pertanyaan Brave search dalam <ph name="PRODUCT_NAME"/>.</translation>
 <translation id="1042248468362992359">Sambung ke data mudah alih untuk menggunakan tempat liputan. <ph name="BEGIN_LINK_LEARN_MORE"/>Ketahui lebih lanjut<ph name="END_LINK_LEARN_MORE"/></translation>
 <translation id="1043505821207197890">Kesilapan telah berlaku. Linux hanya boleh ditingkatkan sebahagian sahaja. Semak log untuk mendapatkan maklumat lanjut. Log telah disimpan dalam Fail &gt; Fail saya &gt; <ph name="LOG_FILE"/></translation>
 <translation id="104419033123549300">Gaya Peta Kekunci</translation>
@@ -202,7 +202,7 @@ Semak kata laluan anda pada bila-bila masa dalam <ph name="GOOGLE_PASSWORD_MANAG
 <translation id="8525226238722561998">Program Perlindungan Lanjutan Brave</translation>
 <translation id="1155545602507378023">Tidak, peranti ini sahaja</translation>
 <translation id="1155816283571436363">Menyambung kepada telefon anda</translation>
-<translation id="3265387852639842086">Tutup panel sisi Brave Search</translation>
+<translation id="3265387852639842086">Tutup panel sisi Brave search</translation>
 <translation id="1158080958325422608">Jadikan Huruf Besar</translation>
 <translation id="1158238185437008462">Lihat kenangan</translation>
 <translation id="1159879754517035595">Urus tetapan sambungan</translation>
@@ -2514,7 +2514,7 @@ Anda boleh mengurus tetapan akaun ini dengan memasang apl Family Link pada peran
 <translation id="2973324205039581528">Redam Laman</translation>
 <translation id="2975761176769946178">URL diperlukan</translation>
 <translation id="2976557544729462544">Sesetengah peranti menghendaki perlindungan akses data dilumpuhkan agar dapat berfungsi dengan baik atau memberikan prestasi maksimum.</translation>
-<translation id="2725393676899559475">Dapatkan Brave Search dan ciri pintar Brave setiap kali anda menyemak imbas</translation>
+<translation id="2725393676899559475">Dapatkan Brave search dan ciri pintar Brave setiap kali anda menyemak imbas</translation>
 <translation id="2977480621796371840">Alih keluar daripada kumpulan</translation>
 <translation id="2979639724566107830">Buka dalam tetingkap baharu</translation>
 <translation id="2979893796619951531">Laman pengecualian</translation>
@@ -4737,7 +4737,7 @@ Gunakan Ctrl + Alt + Kurangkan kecerahan untuk zum keluar.</translation>
 <translation id="4830502475412647084">Memasang kemas kini OS</translation>
 <translation id="4833683849865011483">Menjumpai 1 pencetak daripada pelayan cetak</translation>
 <translation id="4836504898754963407">Urus cap jari</translation>
-<translation id="7528143959514158804">Tukar kembali kepada Brave Search?</translation>
+<translation id="7528143959514158804">Tukar kembali kepada Brave search?</translation>
 <translation id="4837926214103741331">Anda tiada kebenaran untuk menggunakan peranti ini. Sila hubungi pemilik peranti untuk mendapatkan kebenaran log masuk.</translation>
 <translation id="4837952862063191349">Untuk membuka kunci dan memulihkan data tempatan anda, sila masukkan kata laluan <ph name="DEVICE_TYPE"/> lama anda.</translation>
 <translation id="4838170306476614339">Lihat foto, media dan pemberitahuan telefon anda.</translation>
@@ -6744,7 +6744,7 @@ Kebenaran yang telah anda berikan kepada laman web dan apl mungkin dikenakan pad
 <translation id="6547854317475115430"><ph name="BEGIN_PARAGRAPH1"/>Perkhidmatan lokasi Brave menggunakan sumber seperti Wi-Fi, rangkaian mudah alih dan penderia untuk menganggarkan lokasi peranti anda.<ph name="END_PARAGRAPH1"/>
     <ph name="BEGIN_PARAGRAPH2"/>Anda boleh mematikan lokasi Android pada peranti anda pada bila-bila masa dengan pergi ke Tetapan &gt; Apl &gt; Google Play Store &gt; Urus pilihan Android &gt; Keselamatan &amp; lokasi &gt; Lokasi. Anda juga boleh mematikan penggunaan Wi-Fi, rangkaian mudah alih dan penderia untuk lokasi Android dengan mematikan “Ketepatan Lokasi Brave” dalam menu yang sama.<ph name="END_PARAGRAPH2"/></translation>
 <translation id="654871471440386944">Hidupkan semak imbas karet?</translation>
-<translation id="2892841437207418944">Buka panel sisi Brave Search</translation>
+<translation id="2892841437207418944">Buka panel sisi Brave search</translation>
 <translation id="6549038875972762904">Buat semula persediaan</translation>
 <translation id="6550675742724504774">Pilihan</translation>
 <translation id="6550790536557204077"><ph name="BEGIN_LINK"/>Profil anda diurus<ph name="END_LINK"/> oleh <ph name="MANAGER"/></translation>
@@ -7501,7 +7501,7 @@ Anda mempunyai # lagi kata laluan yang terjejas. Brave Password Manager mengesyo
 <translation id="7196107899576756066">{COUNT,plural, =1{1 muat turun sedang berjalan}other{# muat turun sedang berjalan}}</translation>
 <translation id="7196272782924897510">Gunakan kunci laluan daripada peranti lain?</translation>
 <translation id="7196913789568937443">Buat sandaran ke Google Drive. Pulihkan data atau tukar peranti anda dengan mudah pada bila-bila masa. Sandaran anda merangkumi data apl. Sandaran anda dimuat naik ke Brave dan disulitkan dengan menggunakan kata laluan Akaun Brave anda. <ph name="BEGIN_LINK1"/>Ketahui Lebih Lanjut<ph name="END_LINK1"/></translation>
-<translation id="96037229054033864">Dapatkan Brave Search dan ciri pintar Brave setiap kali anda menyemak imbas</translation>
+<translation id="96037229054033864">Dapatkan Brave search dan ciri pintar Brave setiap kali anda menyemak imbas</translation>
 <translation id="719791532916917144">Pintasan papan kekunci</translation>
 <translation id="7198503619164954386">Anda mesti menggunakan peranti yang didaftarkan bawah perusahaan</translation>
 <translation id="7199158086730159431">Dapatkan B&amp;antuan</translation>
@@ -7823,7 +7823,7 @@ Anda mempunyai # lagi kata laluan yang terjejas. Brave Password Manager mengesyo
 <translation id="7456774706094330779">Pramuat lanjutan</translation>
 <translation id="7456847797759667638">Buka Lokasi...</translation>
 <translation id="7457831169406914076">{COUNT,plural, =1{satu pautan}other{# pautan}}</translation>
-<translation id="8944680893327873975">Menggunakan penyemak ejaan yang sama seperti yang digunakan dalam Brave Search. Teks yang anda taip dalam penyemak imbas akan dihantar kepada Brave.</translation>
+<translation id="8944680893327873975">Menggunakan penyemak ejaan yang sama seperti yang digunakan dalam Brave search. Teks yang anda taip dalam penyemak imbas akan dihantar kepada Brave.</translation>
 <translation id="7458715171471938198">Pulihkan apl?</translation>
 <translation id="7458933488302148148">Semak kata laluan anda yang disimpan untuk mengukuhkan keselamatan anda dan kekal lebih selamat dalam talian</translation>
 <translation id="745988141575685751"><ph name="BEGIN_PARAGRAPH1"/>Tindakan membenarkan peranti ChromeOS anda menghantar laporan automatik dapat membantu kami memberikan keutamaan terhadap perkara yang perlu dibetulkan dan diperbaik pada ChromeOS. Laporan ini boleh merangkumi perkara seperti waktu ranap ChromeOS, ciri yang anda gunakan dan jumlah memori yang biasa anda digunakan. Data diagnostik dan penggunaan apl yang lain, termasuk apl Android dan web, akan dikumpulkan jika penyegerakan apl dihidupkan juga.<ph name="END_PARAGRAPH1"/>
@@ -8968,7 +8968,7 @@ perubahan ini berlaku, anda mungkin tidak mahukannya.</translation>
 <translation id="8376384591331888629">Termasuk kuki pihak ketiga pada tapak ini</translation>
 <translation id="8376451933628734023">Jika apl web ini cuba memperdaya anda agar menganggapnya apl lain, nyahpasang apl ini.</translation>
 <translation id="8376532149031784008">Memuat semula <ph name="DOMAIN"/>...</translation>
-<translation id="2790916299775928255">Panel sisi Brave Search</translation>
+<translation id="2790916299775928255">Panel sisi Brave search</translation>
 <translation id="8378714024927312812">Diurus oleh organisasi anda</translation>
 <translation id="8379988659465232385">Nama tidak boleh dibiarkan kosong</translation>
 <translation id="8379991678458444070">Tandai tab ini untuk kembali ke sini dengan cepat</translation>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--* Copyright (c) 2020 The Brave Authors. All rights reserved.
+ * This Source Code Form is subject to the terms of the Mozilla Public
+ * License, v. 2.0. If a copy of the MPL was not distributed with this
+ * file, You can obtain one at https://mozilla.org/MPL/2.0/. -->
+
+ <LinearLayout
+ xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/ntp_main_layout_comming_soon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical"
+        android:layout_marginStart="90dp"
+        android:gravity="center_horizontal"
+        android:paddingHorizontal="30dp"
+        android:paddingVertical="60dp"
+        android:background="@drawable/rounded_dark_bg_alpha"
+       >
+            <TextView
+                android:id="@+id/news_settings_text_comming"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"
+                
+                android:textSize = "18sp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:text="@string/brave_news_title_box_one"
+                android:textColor="@color/news_text_color" />
+            <TextView
+                android:id="@+id/news_settings_text_soon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                
+                android:textSize = "15sp"
+                android:gravity="center"
+                android:text="@string/brave_news_title_box_two"
+                android:textColor="@color/news_text_color" />
+
+ </LinearLayout>
