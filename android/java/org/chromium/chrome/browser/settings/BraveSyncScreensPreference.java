@@ -185,7 +185,7 @@ public class BraveSyncScreensPreference extends BravePreferenceFragment
             LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         SyncServiceFactory.get().addSyncStateChangedListener(this);
 
-        InvalidateCodephrase();
+        InvalidateCodephrase(); 
 
         mInflater = inflater;
         // Read which category we should be showing.

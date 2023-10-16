@@ -179,7 +179,7 @@ TEST(BlockchainListParseUnitTest, ParseChainList) {
         "https://cloudflare-eth.com"
       ],
       "faucets": [],
-      "nativeCurrency": { "name": "Ether", "symbol": "ETH", "decimals": 18 },
+      "nativeCurrency": { "name": "EtherMo", "symbol": "ETH", "decimals": 18 },
       "infoURL": "https://ethereum.org",
       "shortName": "eth",
       "chainId": 1,
@@ -193,7 +193,8 @@ TEST(BlockchainListParseUnitTest, ParseChainList) {
           "standard": "EIP3091"
         }
       ]
-    },
+    }
+    ,
     {
       "name": "Polygon Mainnet",
       "chain": "Polygon",
@@ -240,7 +241,7 @@ TEST(BlockchainListParseUnitTest, ParseChainList) {
   EXPECT_EQ(2, chain1->active_rpc_endpoint_index);
   EXPECT_THAT(chain1->block_explorer_urls,
               ElementsAreArray({"https://etherscan.io"}));
-  EXPECT_EQ("Ether", chain1->symbol_name);
+  EXPECT_EQ("EtherMo", chain1->symbol_name);
   EXPECT_EQ("ETH", chain1->symbol);
   EXPECT_EQ(18, chain1->decimals);
   EXPECT_EQ(0u, chain1->icon_urls.size());
@@ -258,7 +259,8 @@ TEST(BlockchainListParseUnitTest, ParseChainList) {
                         GURL("https://matic-mainnet.chainstacklabs.com"),
                         GURL("https://rpc-mainnet.maticvigil.com"),
                         GURL("https://rpc-mainnet.matic.quiknode.pro"),
-                        GURL("https://matic-mainnet-full-rpc.bwarelabs.com")}));
+                        GURL("https://matic-mainnet-full-rpc.bwarelabs.com")
+                        }));
   EXPECT_EQ(0, chain2->active_rpc_endpoint_index);
   EXPECT_THAT(chain2->block_explorer_urls,
               ElementsAreArray({"https://polygonscan.com"}));

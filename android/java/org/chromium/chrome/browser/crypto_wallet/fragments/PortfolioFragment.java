@@ -64,6 +64,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
 
+import java.util.ArrayList;
+import java.util.List;
 public class PortfolioFragment
         extends Fragment implements OnWalletListItemClick, ApprovedTxObserver {
     private static final String TAG = "PortfolioFragment";
@@ -255,17 +257,39 @@ public class PortfolioFragment
         });
     }
 
-    private void setUpCoinList(List<BlockchainToken> userAssets,
-            HashMap<String, Double> perTokenCryptoSum, HashMap<String, Double> perTokenFiatSum,
-            List<NetworkInfo> networkInfos) {
-        String tokensPath = BlockchainRegistryFactory.getInstance().getTokensIconsLocation();
+    private List<BlockchainToken> filterCoins(List<BlockchainToken> originalList) {
+        List<BlockchainToken> filteredList = new ArrayList<>();
 
-        mWalletCoinAdapter = Utils.setupVisibleAssetList(userAssets, perTokenCryptoSum,
-                perTokenFiatSum, tokensPath, getResources(), networkInfos);
-        mWalletCoinAdapter.setOnWalletListItemClick(PortfolioFragment.this);
-        mRvCoins.setAdapter(mWalletCoinAdapter);
-        mRvCoins.setLayoutManager(new LinearLayoutManager(getActivity()));
+        for (BlockchainToken coin : originalList) {
+            // Example: Exclude Ethereum and Matic from the list
+            if (
+                !coin.name.equalsIgnoreCase("Solana") &&
+                !coin.name.equalsIgnoreCase("Ether") &&
+                !coin.name.equalsIgnoreCase("Avalanche") &&
+                !coin.name.equalsIgnoreCase("Fantom") &&
+                !coin.name.equalsIgnoreCase("Filecoin") &&
+                !coin.name.equalsIgnoreCase("Matic") &&
+                !coin.name.equalsIgnoreCase("Basic Attention Token")
+                ) {
+                filteredList.add(coin);
+            }
+        }
+        return filteredList;
     }
+ private void setUpCoinList(List<BlockchainToken> userAssets,
+        HashMap<String, Double> perTokenCryptoSum, HashMap<String, Double> perTokenFiatSum,
+        List<NetworkInfo> networkInfos) {
+    String tokensPath = BlockchainRegistryFactory.getInstance().getTokensIconsLocation();
+
+    // Filter the coins here
+    List<BlockchainToken> filteredAssets = filterCoins(userAssets);
+
+    mWalletCoinAdapter = Utils.setupVisibleAssetList(filteredAssets, perTokenCryptoSum,
+            perTokenFiatSum, tokensPath, getResources(), networkInfos);
+    mWalletCoinAdapter.setOnWalletListItemClick(PortfolioFragment.this);
+    mRvCoins.setAdapter(mWalletCoinAdapter);
+    mRvCoins.setLayoutManager(new LinearLayoutManager(getActivity()));
+}
 
     private void clearAssets() {
         if (mWalletCoinAdapter != null) {

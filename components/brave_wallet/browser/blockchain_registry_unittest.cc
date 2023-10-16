@@ -274,7 +274,8 @@ const char chain_list_json[] = R"(
           "standard": "EIP3091"
         }
       ]
-    },
+    }
+    ,
     {
       "name": "Polygon Mainnet",
       "chain": "Polygon",
