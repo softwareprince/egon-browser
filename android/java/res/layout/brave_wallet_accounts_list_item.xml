@@ -22,11 +22,11 @@
         android:layout_gravity="center_vertical"
         android:contentDescription="@null"/>
         
-    <Button
+    <!-- <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/brave_wallet_select_network_title" />
+        android:text="@string/brave_wallet_select_network_title" /> -->
     <LinearLayout
         android:layout_width="0dp"
         android:layout_height="wrap_content"
