@@ -318,6 +318,7 @@ Config.prototype.buildArgs = function () {
     target_cpu: this.targetArch,
     is_official_build: this.isOfficialBuild(),
     is_debug: this.isDebug(),
+    treat_warnings_as_errors: false,
     dcheck_always_on: getNPMConfig(['dcheck_always_on']) || this.isComponentBuild(),
     brave_channel: this.channel,
     brave_google_api_key: this.braveGoogleApiKey,
