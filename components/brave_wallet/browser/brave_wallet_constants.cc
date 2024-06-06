@@ -16,9 +16,9 @@ const std::string GetSardineNetworkName(const std::string& chain_id) {
   // key = chain_id, value = sardine_network_name
   static std::map<std::string, std::string> sardine_network_names = {
       {mojom::kMainnetChainId, "ethereum"},
-      {mojom::kPolygonMainnetChainId, "ethereum"},
-      {mojom::kAvalancheMainnetChainId, "avalanche"},
-      {mojom::kFantomMainnetChainId, "fantom"},
+      // {mojom::kPolygonMainnetChainId, "ethereum"},
+      // {mojom::kAvalancheMainnetChainId, "avalanche"},
+      // {mojom::kFantomMainnetChainId, "fantom"},
       {mojom::kSolanaMainnet, "solana"}};
   auto sardine_network_pair = sardine_network_names.find(chain_id.c_str());
 

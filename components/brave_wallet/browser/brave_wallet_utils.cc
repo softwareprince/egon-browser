@@ -79,9 +79,9 @@ std::string GetInfuraProjectID() {
   return project_id;
 }
 
-const char kGanacheLocalhostURL[] = "http://localhost:7545/";
-const char kSolanaLocalhostURL[] = "http://localhost:8899/";
-const char kFilecoinLocalhostURL[] = "http://localhost:1234/rpc/v0";
+// const char kGanacheLocalhostURL[] = "http://localhost:7545/";
+// const char kSolanaLocalhostURL[] = "http://localhost:8899/";
+// const char kFilecoinLocalhostURL[] = "http://localhost:1234/rpc/v0";
 
 const mojom::NetworkInfo* GetEthMainnet() {
   const auto coin = mojom::CoinType::ETH;
@@ -103,25 +103,25 @@ const mojom::NetworkInfo* GetEthMainnet() {
   return network_info.get();
 }
 
-const mojom::NetworkInfo* GetPolygonMainnet() {
-  const auto coin = mojom::CoinType::ETH;
-  const auto* chain_id = mojom::kPolygonMainnetChainId;
+// const mojom::NetworkInfo* GetPolygonMainnet() {
+//   const auto coin = mojom::CoinType::ETH;
+//   const auto* chain_id = mojom::kPolygonMainnetChainId;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Polygon Mainnet",
-       {"https://polygonscan.com"},
-       {},
-       0,
-       {},
-       "MATIC",
-       "MATIC",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       true});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Polygon Mainnet",
+//        {"https://polygonscan.com"},
+//        {},
+//        0,
+//        {},
+//        "MATIC",
+//        "MATIC",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        true});
+//   return network_info.get();
+// }
 
 const mojom::NetworkInfo* GetBscMainnet() {
   const auto coin = mojom::CoinType::ETH;
@@ -129,13 +129,13 @@ const mojom::NetworkInfo* GetBscMainnet() {
 
   static base::NoDestructor<mojom::NetworkInfo> network_info(
       {chain_id,
-       "Binance Smart Chain Mainnet",
+       "Binance Chain Native Token",
        {"https://bscscan.com"},
        {},
        0,
        {GURL("https://bsc-dataseed1.binance.org")},
        "BNB",
-       "Binance Chain Native Token",
+       "BNB",
        18,
        coin,
        GetSupportedKeyringsForNetwork(coin, chain_id),
@@ -143,145 +143,145 @@ const mojom::NetworkInfo* GetBscMainnet() {
   return network_info.get();
 }
 
-const mojom::NetworkInfo* GetAvalancheMainnet() {
-  const auto coin = mojom::CoinType::ETH;
-  const auto* chain_id = mojom::kAvalancheMainnetChainId;
+// const mojom::NetworkInfo* GetAvalancheMainnet() {
+//   const auto coin = mojom::CoinType::ETH;
+//   const auto* chain_id = mojom::kAvalancheMainnetChainId;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Avalanche C-Chain",
-       {"https://snowtrace.io"},
-       {},
-       0,
-       {},
-       "AVAX",
-       "Avalanche",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       true});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Avalanche C-Chain",
+//        {"https://snowtrace.io"},
+//        {},
+//        0,
+//        {},
+//        "AVAX",
+//        "Avalanche",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        true});
+//   return network_info.get();
+// }
 
-const mojom::NetworkInfo* GetFantomOperaMainnet() {
-  const auto coin = mojom::CoinType::ETH;
-  const auto* chain_id = mojom::kFantomMainnetChainId;
+// const mojom::NetworkInfo* GetFantomOperaMainnet() {
+//   const auto coin = mojom::CoinType::ETH;
+//   const auto* chain_id = mojom::kFantomMainnetChainId;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Fantom Opera",
-       {"https://ftmscan.com"},
-       {},
-       0,
-       {GURL("https://rpc.ftm.tools")},
-       "FTM",
-       "Fantom",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       true});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Fantom Opera",
+//        {"https://ftmscan.com"},
+//        {},
+//        0,
+//        {GURL("https://rpc.ftm.tools")},
+//        "FTM",
+//        "Fantom",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        true});
+//   return network_info.get();
+// }
 
-const mojom::NetworkInfo* GetOptimismMainnet() {
-  const auto coin = mojom::CoinType::ETH;
-  const auto* chain_id = mojom::kOptimismMainnetChainId;
+// const mojom::NetworkInfo* GetOptimismMainnet() {
+//   const auto coin = mojom::CoinType::ETH;
+//   const auto* chain_id = mojom::kOptimismMainnetChainId;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Optimism",
-       {"https://optimistic.etherscan.io"},
-       {},
-       0,
-       {},
-       "ETH",
-       "Ether",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       true});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Optimism",
+//        {"https://optimistic.etherscan.io"},
+//        {},
+//        0,
+//        {},
+//        "ETH",
+//        "Ether",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        true});
+//   return network_info.get();
+// }
 
-const mojom::NetworkInfo* GetAuroraMainnet() {
-  const auto coin = mojom::CoinType::ETH;
-  const auto* chain_id = mojom::kAuroraMainnetChainId;
+// const mojom::NetworkInfo* GetAuroraMainnet() {
+//   const auto coin = mojom::CoinType::ETH;
+//   const auto* chain_id = mojom::kAuroraMainnetChainId;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Aurora Mainnet",
-       {"https://aurorascan.dev"},
-       {},
-       0,
-       {},
-       "ETH",
-       "Ether",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       false});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Aurora Mainnet",
+//        {"https://aurorascan.dev"},
+//        {},
+//        0,
+//        {},
+//        "ETH",
+//        "Ether",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        false});
+//   return network_info.get();
+// }
 
-const mojom::NetworkInfo* GetGoerliTestNetwork() {
-  const auto coin = mojom::CoinType::ETH;
-  const auto* chain_id = mojom::kGoerliChainId;
+// const mojom::NetworkInfo* GetGoerliTestNetwork() {
+//   const auto coin = mojom::CoinType::ETH;
+//   const auto* chain_id = mojom::kGoerliChainId;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Goerli Test Network",
-       {"https://goerli.etherscan.io"},
-       {},
-       0,
-       {},
-       "ETH",
-       "Ethereum",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       true});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Goerli Test Network",
+//        {"https://goerli.etherscan.io"},
+//        {},
+//        0,
+//        {},
+//        "ETH",
+//        "Ethereum",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        true});
+//   return network_info.get();
+// }
 
-const mojom::NetworkInfo* GetSepoliaTestNetwork() {
-  const auto coin = mojom::CoinType::ETH;
-  const auto* chain_id = mojom::kSepoliaChainId;
+// const mojom::NetworkInfo* GetSepoliaTestNetwork() {
+//   const auto coin = mojom::CoinType::ETH;
+//   const auto* chain_id = mojom::kSepoliaChainId;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Sepolia Test Network",
-       {"https://sepolia.etherscan.io"},
-       {},
-       0,
-       {},
-       "ETH",
-       "Ethereum",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       true});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Sepolia Test Network",
+//        {"https://sepolia.etherscan.io"},
+//        {},
+//        0,
+//        {},
+//        "ETH",
+//        "Ethereum",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        true});
+//   return network_info.get();
+// }
 
-const mojom::NetworkInfo* GetEthLocalhost() {
-  const auto coin = mojom::CoinType::ETH;
-  const auto* chain_id = mojom::kLocalhostChainId;
+// const mojom::NetworkInfo* GetEthLocalhost() {
+//   const auto coin = mojom::CoinType::ETH;
+//   const auto* chain_id = mojom::kLocalhostChainId;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Localhost",
-       {kGanacheLocalhostURL},
-       {},
-       0,
-       {GURL(kGanacheLocalhostURL)},
-       "ETH",
-       "Ethereum",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       false});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Localhost",
+//        {kGanacheLocalhostURL},
+//        {},
+//        0,
+//        {GURL(kGanacheLocalhostURL)},
+//        "ETH",
+//        "Ethereum",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        false});
+//   return network_info.get();
+// }
 
 const mojom::NetworkInfo* GetFilecoinEthereumMainnet() {
   const auto coin = mojom::CoinType::ETH;
@@ -289,13 +289,13 @@ const mojom::NetworkInfo* GetFilecoinEthereumMainnet() {
 
   static base::NoDestructor<mojom::NetworkInfo> network_info(
       {chain_id,
-       "Filecoin EVM Mainnet",
-       {"https://filfox.info/en/message"},
+       "EgonCoin",
+       {"https://egonscan.com"},
        {},
        0,
-       {GURL("https://api.node.glif.io/rpc/v1")},
-       "FIL",
-       "Filecoin",
+       {GURL("https://rpc.egonscan.com")},
+       "EGON",
+       "EgonCoin Mainnet",
        18,
        coin,
        GetSupportedKeyringsForNetwork(coin, chain_id),
@@ -303,42 +303,42 @@ const mojom::NetworkInfo* GetFilecoinEthereumMainnet() {
   return network_info.get();
 }
 
-const mojom::NetworkInfo* GetFilecoinEthereumTestnet() {
-  const auto coin = mojom::CoinType::ETH;
-  const auto* chain_id = mojom::kFilecoinEthereumTestnetChainId;
+// const mojom::NetworkInfo* GetFilecoinEthereumTestnet() {
+//   const auto coin = mojom::CoinType::ETH;
+//   const auto* chain_id = mojom::kFilecoinEthereumTestnetChainId;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Filecoin EVM Testnet",
-       {"https://calibration.filfox.info/en/message"},
-       {},
-       0,
-       {GURL("https://api.calibration.node.glif.io/rpc/v1")},
-       "FIL",
-       "Filecoin",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       true});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Filecoin EVM Testnet",
+//        {"https://calibration.filfox.info/en/message"},
+//        {},
+//        0,
+//        {GURL("https://api.calibration.node.glif.io/rpc/v1")},
+//        "FIL",
+//        "Filecoin",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        true});
+//   return network_info.get();
+// }
 
 // Precompiled networks available in native wallet.
 const std::vector<const mojom::NetworkInfo*>& GetKnownEthNetworks() {
   static base::NoDestructor<std::vector<const mojom::NetworkInfo*>> networks({
       // clang-format off
       GetEthMainnet(),
-      GetAuroraMainnet(),
-      GetPolygonMainnet(),
+      // GetAuroraMainnet(),
+      // GetPolygonMainnet(),
       GetBscMainnet(),
-      GetAvalancheMainnet(),
-      GetFantomOperaMainnet(),
-      GetOptimismMainnet(),
-      GetGoerliTestNetwork(),
-      GetSepoliaTestNetwork(),
-      GetEthLocalhost(),
+      // GetAvalancheMainnet(),
+      // GetFantomOperaMainnet(),
+      // GetOptimismMainnet(),
+      // GetGoerliTestNetwork(),
+      // GetSepoliaTestNetwork(),
+      // GetEthLocalhost(),
       GetFilecoinEthereumMainnet(),
-      GetFilecoinEthereumTestnet()
+      // GetFilecoinEthereumTestnet()
       // clang-format on
   });
   return *networks.get();
@@ -364,145 +364,145 @@ const mojom::NetworkInfo* GetSolMainnet() {
   return network_info.get();
 }
 
-const mojom::NetworkInfo* GetSolTestnet() {
-  const auto coin = mojom::CoinType::SOL;
-  const auto* chain_id = mojom::kSolanaTestnet;
+// const mojom::NetworkInfo* GetSolTestnet() {
+//   const auto coin = mojom::CoinType::SOL;
+//   const auto* chain_id = mojom::kSolanaTestnet;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Solana Testnet",
-       {"https://explorer.solana.com/?cluster=testnet"},
-       {},
-       0,
-       {GURL("https://api.testnet.solana.com")},
-       "SOL",
-       "Solana",
-       9,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       false});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Solana Testnet",
+//        {"https://explorer.solana.com/?cluster=testnet"},
+//        {},
+//        0,
+//        {GURL("https://api.testnet.solana.com")},
+//        "SOL",
+//        "Solana",
+//        9,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        false});
+//   return network_info.get();
+// }
 
-const mojom::NetworkInfo* GetSolDevnet() {
-  const auto coin = mojom::CoinType::SOL;
-  const auto* chain_id = mojom::kSolanaDevnet;
+// const mojom::NetworkInfo* GetSolDevnet() {
+//   const auto coin = mojom::CoinType::SOL;
+//   const auto* chain_id = mojom::kSolanaDevnet;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Solana Devnet",
-       {"https://explorer.solana.com/?cluster=devnet"},
-       {},
-       0,
-       {GURL("https://api.devnet.solana.com")},
-       "SOL",
-       "Solana",
-       9,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       false});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Solana Devnet",
+//        {"https://explorer.solana.com/?cluster=devnet"},
+//        {},
+//        0,
+//        {GURL("https://api.devnet.solana.com")},
+//        "SOL",
+//        "Solana",
+//        9,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        false});
+//   return network_info.get();
+// }
 
-const mojom::NetworkInfo* GetSolLocalhost() {
-  const auto coin = mojom::CoinType::SOL;
-  const auto* chain_id = mojom::kLocalhostChainId;
+// const mojom::NetworkInfo* GetSolLocalhost() {
+//   const auto coin = mojom::CoinType::SOL;
+//   const auto* chain_id = mojom::kLocalhostChainId;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Solana Localhost",
-       {"https://explorer.solana.com/"
-        "?cluster=custom&customUrl=http%3A%2F%2Flocalhost%3A8899"},
-       {},
-       0,
-       {GURL(kSolanaLocalhostURL)},
-       "SOL",
-       "Solana",
-       9,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       false});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Solana Localhost",
+//        {"https://explorer.solana.com/"
+//         "?cluster=custom&customUrl=http%3A%2F%2Flocalhost%3A8899"},
+//        {},
+//        0,
+//        {GURL(kSolanaLocalhostURL)},
+//        "SOL",
+//        "Solana",
+//        9,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        false});
+//   return network_info.get();
+// }
 
 const std::vector<const mojom::NetworkInfo*>& GetKnownSolNetworks() {
   static base::NoDestructor<std::vector<const mojom::NetworkInfo*>> networks({
       // clang-format off
       GetSolMainnet(),
-      GetSolTestnet(),
-      GetSolDevnet(),
-      GetSolLocalhost(),
+      // GetSolTestnet(),
+      // GetSolDevnet(),
+      // GetSolLocalhost(),
       // clang-format on
   });
   return *networks.get();
 }
 
-const mojom::NetworkInfo* GetFilMainnet() {
-  const auto coin = mojom::CoinType::FIL;
-  const auto* chain_id = mojom::kFilecoinMainnet;
+// const mojom::NetworkInfo* GetFilMainnet() {
+//   const auto coin = mojom::CoinType::FIL;
+//   const auto* chain_id = mojom::kFilecoinMainnet;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Filecoin Mainnet",
-       {"https://filscan.io/tipset/message-detail"},
-       {},
-       0,
-       {GURL("https://api.node.glif.io/rpc/v0")},
-       "FIL",
-       "Filecoin",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       false});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "EgonCoin Mainnet",
+//        {"https://filscan.io/tipset/message-detail"},
+//        {},
+//        0,
+//        {GURL("https://api.node.glif.io/rpc/v0")},
+//        "EGON",
+//        "EgonCoin",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        false});
+//   return network_info.get();
+// }
 
-const mojom::NetworkInfo* GetFilTestnet() {
-  const auto coin = mojom::CoinType::FIL;
-  const auto* chain_id = mojom::kFilecoinTestnet;
+// const mojom::NetworkInfo* GetFilTestnet() {
+//   const auto coin = mojom::CoinType::FIL;
+//   const auto* chain_id = mojom::kFilecoinTestnet;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Filecoin Testnet",
-       {"https://calibration.filscan.io/tipset/message-detail"},
-       {},
-       0,
-       {GURL("https://api.calibration.node.glif.io/rpc/v0")},
-       "FIL",
-       "Filecoin",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       false});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Filecoin Testnet",
+//        {"https://calibration.filscan.io/tipset/message-detail"},
+//        {},
+//        0,
+//        {GURL("https://api.calibration.node.glif.io/rpc/v0")},
+//        "FIL",
+//        "Filecoin",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        false});
+//   return network_info.get();
+// }
 
-const mojom::NetworkInfo* GetFilLocalhost() {
-  const auto coin = mojom::CoinType::FIL;
-  const auto* chain_id = mojom::kLocalhostChainId;
+// const mojom::NetworkInfo* GetFilLocalhost() {
+//   const auto coin = mojom::CoinType::FIL;
+//   const auto* chain_id = mojom::kLocalhostChainId;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Filecoin Localhost",
-       {kFilecoinLocalhostURL},
-       {},
-       0,
-       {GURL(kFilecoinLocalhostURL)},
-       "FIL",
-       "Filecoin",
-       18,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       false});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Filecoin Localhost",
+//        {kFilecoinLocalhostURL},
+//        {},
+//        0,
+//        {GURL(kFilecoinLocalhostURL)},
+//        "FIL",
+//        "Filecoin",
+//        18,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        false});
+//   return network_info.get();
+// }
 
 const std::vector<const mojom::NetworkInfo*>& GetKnownFilNetworks() {
   static base::NoDestructor<std::vector<const mojom::NetworkInfo*>> networks({
       // clang-format off
-      GetFilMainnet(),
-      GetFilTestnet(),
-      GetFilLocalhost(),
+      // GetFilMainnet(),
+      // GetFilTestnet(),
+      // GetFilLocalhost(),
       // clang-format on
   });
   return *networks.get();
@@ -513,10 +513,10 @@ GURL BitcoinMainnetRpcUrl() {
       switches::kBitcoinMainnetRpcUrl));
 }
 
-GURL BitcoinTestnetRpcUrl() {
-  return GURL(base::CommandLine::ForCurrentProcess()->GetSwitchValueASCII(
-      switches::kBitcoinTestnetRpcUrl));
-}
+// GURL BitcoinTestnetRpcUrl() {
+//   return GURL(base::CommandLine::ForCurrentProcess()->GetSwitchValueASCII(
+//       switches::kBitcoinTestnetRpcUrl));
+// }
 
 const mojom::NetworkInfo* GetBitcoinMainnet() {
   const auto coin = mojom::CoinType::BTC;
@@ -538,31 +538,31 @@ const mojom::NetworkInfo* GetBitcoinMainnet() {
   return network_info.get();
 }
 
-const mojom::NetworkInfo* GetBitcoinTestnet() {
-  const auto coin = mojom::CoinType::BTC;
-  const auto* chain_id = mojom::kBitcoinTestnet;
+// const mojom::NetworkInfo* GetBitcoinTestnet() {
+//   const auto coin = mojom::CoinType::BTC;
+//   const auto* chain_id = mojom::kBitcoinTestnet;
 
-  static base::NoDestructor<mojom::NetworkInfo> network_info(
-      {chain_id,
-       "Bitcoin Testnet",
-       {""},  // TODO(apaymyshev): explorer url
-       {},
-       0,
-       {BitcoinTestnetRpcUrl()},
-       "tBTC",
-       "Bitcoin",
-       8,
-       coin,
-       GetSupportedKeyringsForNetwork(coin, chain_id),
-       false});
-  return network_info.get();
-}
+//   static base::NoDestructor<mojom::NetworkInfo> network_info(
+//       {chain_id,
+//        "Bitcoin Testnet",
+//        {""},  // TODO(apaymyshev): explorer url
+//        {},
+//        0,
+//        {BitcoinTestnetRpcUrl()},
+//        "tBTC",
+//        "Bitcoin",
+//        8,
+//        coin,
+//        GetSupportedKeyringsForNetwork(coin, chain_id),
+//        false});
+//   return network_info.get();
+// }
 
 const std::vector<const mojom::NetworkInfo*>& GetKnownBitcoinNetworks() {
   static base::NoDestructor<std::vector<const mojom::NetworkInfo*>> networks({
       // clang-format off
       GetBitcoinMainnet(),
-      GetBitcoinTestnet(),
+      // GetBitcoinTestnet(),
       // clang-format on
   });
   return *networks.get();
