@@ -16,7 +16,7 @@ namespace brave_ads {
 
 namespace {
 
-constexpr char kBraveScheme[] = "brave";
+constexpr char kBraveScheme[] = "egon";
 constexpr char kChromeScheme[] = "chrome";
 
 constexpr char kRewardsHostName[] = "rewards";
