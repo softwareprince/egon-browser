@@ -289,13 +289,13 @@ const mojom::NetworkInfo* GetFilecoinEthereumMainnet() {
 
   static base::NoDestructor<mojom::NetworkInfo> network_info(
       {chain_id,
-       "EgonCoin",
+       "EgonCoin Mainnet",
        {"https://egonscan.com"},
        {},
        0,
        {GURL("https://rpc.egonscan.com")},
        "EGON",
-       "EgonCoin Mainnet",
+       "EgonCoin",
        18,
        coin,
        GetSupportedKeyringsForNetwork(coin, chain_id),
