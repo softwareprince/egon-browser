@@ -2,8 +2,8 @@
  * License, v. 2.0. If a copy of the MPL was not distributed with this file,
  * You can obtain one at https://mozilla.org/MPL/2.0/. */
 
-export const termsOfServiceURL = 'https://basicattentiontoken.org/user-terms-of-service'
-export const privacyPolicyURL = 'https://brave.com/privacy/#rewards'
+export const termsOfServiceURL = 'https://www.egonbrowser.com/'
+export const privacyPolicyURL = 'https://www.egonbrowser.com/'
 export const settingsURL = 'chrome://rewards'
 export const connectURL = 'chrome://rewards#verify'
 export const payoutStatusURL = 'https://brave.com/payout-status'
