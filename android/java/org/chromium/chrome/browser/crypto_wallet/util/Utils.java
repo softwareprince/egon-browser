@@ -1685,7 +1685,7 @@ public class Utils {
                 drawableId = R.drawable.ic_fil_asset_icon;
                 break;
             default:
-                drawableId = R.drawable.ic_eth;
+                drawableId = R.drawable.ic_fil_asset_icon;
                 break;
         }
 
