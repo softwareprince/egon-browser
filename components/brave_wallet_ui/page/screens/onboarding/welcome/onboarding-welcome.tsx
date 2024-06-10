@@ -153,7 +153,7 @@ export const OnboardingWelcome = () => {
       <VerticalSpace space='20px' />
 
       <LearnMoreLink
-        href='https://support.brave.com/hc/en-us/categories/360001059151-Brave-Wallet'
+        href='https://egonbrowser.com/'
         target='_blank'
         rel='noreferrer'
       >

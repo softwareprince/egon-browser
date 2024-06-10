@@ -403,7 +403,7 @@ class AndroidPageAppearingBrowserTest : public PlatformBrowserTest {
 };
 
 IN_PROC_BROWSER_TEST_F(AndroidPageAppearingBrowserTest, TestSwapPageAppearing) {
-  GURL url = GURL("chrome://wallet/swap");
+  GURL url = GURL("egon://wallet/swap");
   const std::vector<std::string> ignore_patterns = {
       "TypeError: Cannot read properties of undefined (reading 'forEach')",
       "Error calling jsonRpcService.getERC20TokenBalances",
