@@ -827,7 +827,7 @@
 <translation id="4500473291496079954">Expires in</translation>
 <translation id="2236833281018938257">Wallet address or URL</translation>
 <translation id="928500657730628112">Wallet address</translation>
-<translation id="6812967455478797345">Brave uses <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> as a DEX aggregator.</translation>
+<translation id="6812967455478797345">EgonBrowser uses <ph name="LINK_BEFORE"/><ph name="SWAP_PROVIDER"/><ph name="LINK_AFTER"/> as a DEX aggregator.</translation>
 <translation id="151946611346774041">0x will process the Ethereum address and IP address to fulfill a transaction (including getting quotes). 0x will ONLY use this data for the purposes of processing transactions.</translation>
 <translation id="7465227658364622464">Jupiter will process the Solana address and IP address to fulfill a transaction (including getting quotes). Jupiter will ONLY use this data for the purposes of processing transactions.</translation>
 <translation id="712738518060477110">Quote includes a <ph name="SWAP_FEE_PERCENTAGE"/> Brave fee.</translation>
@@ -1509,7 +1509,7 @@
 <translation id="7561262633951061138">Best</translation>
 <translation id="8060029310790625334">Help Centre</translation>
 <translation id="3143110700666266545">This app uses the following third-party APIs:</translation>
-<translation id="163536108506359457">Brave Swap uses <ph name="AGGREGATOR"/> as a DEX aggregator for supported <ph name="NETWORKS"/> networks. <ph name="AGGREGATOR"/> will process the <ph name="NETWORK"/> wallet address and IP address to fulfil a transaction (including getting quotes). <ph name="AGGREGATOR"/> will ONLY use this data for the purposes of processing transactions.</translation>
+<translation id="163536108506359457">Egon Swap uses <ph name="AGGREGATOR"/> as a DEX aggregator for supported <ph name="NETWORKS"/> networks. <ph name="AGGREGATOR"/> will process the <ph name="NETWORK"/> wallet address and IP address to fulfil a transaction (including getting quotes). <ph name="AGGREGATOR"/> will ONLY use this data for the purposes of processing transactions.</translation>
 <translation id="1847885264294023691">Click here for <ph name="AGGREGATOR"/> Privacy Policy.</translation>
 <translation id="9218424917282368512">Change network</translation>
 <translation id="644984757357042735">Network is required</translation>
