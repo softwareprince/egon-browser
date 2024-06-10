@@ -33,8 +33,8 @@ constexpr int kDefaultWalletAutoLockMinutes = 10;
 
 base::Value::Dict GetDefaultUserAssets() {
   base::Value::Dict user_assets_pref;
-  user_assets_pref.Set(kEthereumPrefKey,
-                       BraveWalletService::GetDefaultEthereumAssets());
+  // user_assets_pref.Set(kEthereumPrefKey,
+  //                      BraveWalletService::GetDefaultEthereumAssets());
   user_assets_pref.Set(kSolanaPrefKey,
                        BraveWalletService::GetDefaultSolanaAssets());
   user_assets_pref.Set(kFilecoinPrefKey,

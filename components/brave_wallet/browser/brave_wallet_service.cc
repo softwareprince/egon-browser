@@ -1263,7 +1263,7 @@ base::Value::Dict BraveWalletService::GetDefaultEthereumAssets() {
   bat.Set("is_nft", false);
   bat.Set("is_spam", false);
   bat.Set("decimals", 18);
-  bat.Set("visible", true);
+  bat.Set("visible", false);
   bat.Set("logo", "bat.png");
 
   // Show ETH and BAT by default for mainnet, and the native token for other

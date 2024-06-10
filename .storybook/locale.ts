@@ -176,7 +176,7 @@ let locale: Record<string, string> = {
   termsOfService: 'Terms of Service',
   optOutTooltip: 'You will no longer receive\nads from this category',
   tipOnLike: 'Tip on like',
-  titleBAT: 'Basic Attention token (BAT)',
+  // titleBAT: 'Basic Attention token (BAT)',
   titleBTC: 'BitCoin (BTC)',
   titleETH: 'Etherium (ETH)',
   titleLTC: 'Lite Coin (LTC)',
