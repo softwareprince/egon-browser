@@ -1024,7 +1024,7 @@ public class Utils {
                 logo = "matic.png";
                 break;
             case BraveWalletConstants.BINANCE_SMART_CHAIN_MAINNET_CHAIN_ID:
-                logo = "bnb.png";
+                logo = "bnb-asset-icon.png";
                 break;
             case BraveWalletConstants.SOLANA_MAINNET:
             case BraveWalletConstants.SOLANA_TESTNET:
