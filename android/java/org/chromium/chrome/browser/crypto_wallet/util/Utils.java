@@ -1018,10 +1018,10 @@ public class Utils {
             case BraveWalletConstants.MAINNET_CHAIN_ID:
             case BraveWalletConstants.GOERLI_CHAIN_ID:
             case BraveWalletConstants.SEPOLIA_CHAIN_ID:
-                logo = "eth.png";
+                logo = "ethasset-icon.svg";
                 break;
             case BraveWalletConstants.POLYGON_MAINNET_CHAIN_ID:
-                logo = "matic.png";
+                logo = "matic-asset-icon.svg";
                 break;
             case BraveWalletConstants.BINANCE_SMART_CHAIN_MAINNET_CHAIN_ID:
                 logo = "bnb-asset-icon.png";
@@ -1029,7 +1029,7 @@ public class Utils {
             case BraveWalletConstants.SOLANA_MAINNET:
             case BraveWalletConstants.SOLANA_TESTNET:
             case BraveWalletConstants.SOLANA_DEVNET:
-                logo = "sol.png";
+                logo = "sol-asset-icon.svg";
                 break;
             case BraveWalletConstants.AURORA_MAINNET_CHAIN_ID:
                 logo = "aurora.png";
@@ -1053,7 +1053,7 @@ public class Utils {
             case BraveWalletConstants.FILECOIN_TESTNET:
             case BraveWalletConstants.FILECOIN_ETHEREUM_MAINNET_CHAIN_ID:
             case BraveWalletConstants.FILECOIN_ETHEREUM_TESTNET_CHAIN_ID:
-                logo = "fil.png";
+                logo = "eth.png";
                 break;
             default:
                 logo = "";
@@ -1681,11 +1681,11 @@ public class Utils {
             case CoinType.SOL:
                 drawableId = R.drawable.ic_sol_asset_icon;
                 break;
-            case CoinType.FIL:
+            case CoinType.BTC:
                 drawableId = R.drawable.ic_fil_asset_icon;
                 break;
             default:
-                drawableId = R.drawable.ic_fil_asset_icon;
+                drawableId = R.drawable.ic_sol_asset_icon;
                 break;
         }
 

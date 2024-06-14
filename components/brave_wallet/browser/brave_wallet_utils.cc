@@ -285,7 +285,7 @@ const mojom::NetworkInfo* GetBscMainnet() {
 
 const mojom::NetworkInfo* GetFilecoinEthereumMainnet() {
   const auto coin = mojom::CoinType::ETH;
-  const auto* chain_id = mojom::kFilecoinEthereumMainnetChainId;
+  const auto* chain_id = mojom::kEgoncoinMainnet;
 
   static base::NoDestructor<mojom::NetworkInfo> network_info(
       {chain_id,
@@ -337,7 +337,7 @@ const std::vector<const mojom::NetworkInfo*>& GetKnownEthNetworks() {
       // GetGoerliTestNetwork(),
       // GetSepoliaTestNetwork(),
       // GetEthLocalhost(),
-      GetFilecoinEthereumMainnet(),
+      GetFilecoinEthereumMainnet()
       // GetFilecoinEthereumTestnet()
       // clang-format on
   });
@@ -438,16 +438,16 @@ const std::vector<const mojom::NetworkInfo*>& GetKnownSolNetworks() {
 }
 
 // const mojom::NetworkInfo* GetFilMainnet() {
-//   const auto coin = mojom::CoinType::FIL;
-//   const auto* chain_id = mojom::kFilecoinMainnet;
+//   const auto coin = mojom::CoinType::ETH;
+//   const auto* chain_id = mojom::kEgoncoinMainnet;
 
 //   static base::NoDestructor<mojom::NetworkInfo> network_info(
 //       {chain_id,
 //        "EgonCoin Mainnet",
-//        {"https://filscan.io/tipset/message-detail"},
+//        {"https://egonscan.com"},
 //        {},
 //        0,
-//        {GURL("https://api.node.glif.io/rpc/v0")},
+//        {GURL("https://rpc.egonscan.com")},
 //        "EGON",
 //        "EgonCoin",
 //        18,
@@ -500,7 +500,7 @@ const std::vector<const mojom::NetworkInfo*>& GetKnownSolNetworks() {
 const std::vector<const mojom::NetworkInfo*>& GetKnownFilNetworks() {
   static base::NoDestructor<std::vector<const mojom::NetworkInfo*>> networks({
       // clang-format off
-      // GetFilMainnet(),
+      // GetFilMainnet()
       // GetFilTestnet(),
       // GetFilLocalhost(),
       // clang-format on
