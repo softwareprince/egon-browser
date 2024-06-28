@@ -379,7 +379,7 @@ public class EditVisibleAssetsBottomSheetDialogFragment extends BottomSheetDialo
                             token.symbol, assetNetwork.chainName);
 
             WalletListItemModel itemModel = new WalletListItemModel(
-                    Utils.getCoinIcon(token.coin), token.name, subtitle, token.tokenId, "", "");
+                    Utils.getCoinIcon(token.coin, token.chainId), token.name, subtitle, token.tokenId, "", "");
             itemModel.setBlockchainToken(token);
             itemModel.setAssetNetwork(assetNetwork);
             itemModel.setBrowserResourcePath(tokensPath);
