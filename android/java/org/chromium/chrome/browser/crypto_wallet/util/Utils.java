@@ -1522,7 +1522,7 @@ public class Utils {
                 String.format(Locale.getDefault(), "%.4f %s", cryptoBalance, userAsset.symbol);
 
         WalletListItemModel walletListItemModel = new WalletListItemModel(
-                Utils.getCoinIcon(userAsset.coin), userAsset.name, subtitle, userAsset.tokenId,
+                Utils.getCoinIcon(userAsset.coin, userAsset.chainId), userAsset.name, subtitle, userAsset.tokenId,
                 // Amount in USD
                 fiatBalanceString,
                 // Amount in current crypto currency/token
@@ -1673,7 +1673,7 @@ public class Utils {
     }
 
     public static int getCoinIcon(int coinType) {
-        int drawableId = R.drawable.ic_eth;
+        int drawableId = R.drawable.ic_sol_asset_icon;
         switch (coinType) {
             case CoinType.ETH:
                 drawableId = R.drawable.ic_eth;
@@ -1691,6 +1691,47 @@ public class Utils {
 
         return drawableId;
     }
+    public static int getCoinIcon(int coinType, String chainId) {
+    int drawableId = R.drawable.ic_sol_asset_icon;
+
+    // Check if the coinType is ETH and chainId is Binance Smart Chain
+    
+        switch (coinType) {
+            case CoinType.ETH:
+                drawableId = R.drawable.ic_eth;
+                switch (chainId) {
+                    case BraveWalletConstants.BINANCE_SMART_CHAIN_MAINNET_CHAIN_ID:
+                        String iconName = getNetworkIconName(chainId, coinType);
+                        if (iconName.equals("bnb-asset-icon.png")) {
+                            drawableId = R.drawable.ic_bat_color; // Assuming R.drawable.ic_bnb_asset_icon is the correct drawable resource
+                        }
+                        break;
+                    case BraveWalletConstants.FILECOIN_ETHEREUM_MAINNET_CHAIN_ID:
+                        iconName = getNetworkIconName(chainId, coinType);
+                        if (iconName.equals("eth.png")) {
+                            drawableId = R.drawable.ic_brave_36; // Assuming R.drawable.ic_eth is the correct drawable resource for Filecoin Ethereum Mainnet
+                        }
+                        break;
+                    default:
+                        drawableId = R.drawable.ic_eth;
+                        break;
+                }
+                break;
+            case CoinType.SOL:
+                drawableId = R.drawable.ic_sol_asset_icon;
+                break;
+            case CoinType.BTC:
+                drawableId = R.drawable.ic_fil_asset_icon;
+                break;
+            default:
+                drawableId = R.drawable.ic_sol_asset_icon;
+                break;
+        }
+    
+
+    return drawableId;
+}
+    
 
     // TODO(sergz): Move getCoinIcon, getKeyringForEthOrSolOnly, getBalanceForCoinType
     // to some kind of a separate Utils file that is related to diff networks only

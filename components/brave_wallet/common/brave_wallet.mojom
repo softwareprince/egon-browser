@@ -1041,6 +1041,8 @@ const string kAuroraMainnetChainId = "0x4e454152";
 const string kArbitrumMainnetChainId = "0xa4b1";
 const string kFilecoinEthereumMainnetChainId = "0x13a"; 
 const string kEgoncoinMainnet = "0x10F"; // egoncoin eth mainnet
+const string kEgoncoinMainnett = "0x11F"; // egoncoin eth mainnet
+
 const string kFilecoinEthereumTestnetChainId = "0x4cb2f";  // Filecoin eth calibration
 const string kSolanaMainnet = "0x65";
 const string kSolanaTestnet = "0x66";

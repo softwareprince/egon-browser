@@ -131,7 +131,7 @@ const mojom::NetworkInfo* GetBscMainnet() {
       {chain_id,
        "Binance Chain Native Token",
        {"https://bscscan.com"},
-       {},
+       {"bnb-asset-icon.pnp"},
        0,
        {GURL("https://bsc-dataseed1.binance.org")},
        "BNB",
@@ -285,13 +285,13 @@ const mojom::NetworkInfo* GetBscMainnet() {
 
 const mojom::NetworkInfo* GetFilecoinEthereumMainnet() {
   const auto coin = mojom::CoinType::ETH;
-  const auto* chain_id = mojom::kEgoncoinMainnet;
+  const auto* chain_id = mojom::kFilecoinEthereumMainnetChainId;
 
   static base::NoDestructor<mojom::NetworkInfo> network_info(
       {chain_id,
        "EgonCoin Mainnet",
        {"https://egonscan.com"},
-       {},
+       {"https://egonwallet.com/wp-content/uploads/2024/02/egoncoin1.png"},
        0,
        {GURL("https://rpc.egonscan.com")},
        "EGON",

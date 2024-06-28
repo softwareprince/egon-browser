@@ -1,29 +1,14 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="40dp"
-    android:height="40dp"
-    android:viewportWidth="40"
-    android:viewportHeight="40">
-  <group>
-    <clip-path
-        android:pathData="M0,0h40v40h-40z"/>
-    <path
-        android:pathData="M20,40C31.046,40 40,31.046 40,20C40,8.954 31.046,0 20,0C8.954,0 0,8.954 0,20C0,31.046 8.954,40 20,40Z"
-        android:fillColor="#F2F4F7"/>
-    <path
-        android:pathData="M8.373,28.709L15.256,24.666L20.001,16.35V8.333C19.875,8.333 19.75,8.416 19.655,8.582L14.035,18.432L8.415,28.282C8.32,28.448 8.311,28.599 8.373,28.709Z"
-        android:fillColor="#DB2F04"
-        android:fillType="evenOdd"/>
-    <path
-        android:pathData="M20,8.333V16.35L24.744,24.666L31.627,28.709C31.689,28.599 31.68,28.448 31.586,28.282L25.965,18.432L20.345,8.582C20.25,8.416 20.125,8.333 20,8.333Z"
-        android:fillColor="#9E1F63"
-        android:fillType="evenOdd"/>
-    <path
-        android:pathData="M31.627,28.709L24.745,24.666H15.255L8.373,28.709C8.435,28.819 8.568,28.888 8.758,28.888H31.242C31.431,28.888 31.565,28.819 31.627,28.709Z"
-        android:fillColor="#662D91"
-        android:fillType="evenOdd"/>
-    <path
-        android:pathData="M15.256,24.666H24.745L20.001,16.351L15.256,24.666Z"
-        android:fillColor="#ffffff"
-        android:fillType="evenOdd"/>
-  </group>
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <group>
+        <path
+            android:fillColor="#FFF8D339"
+            android:pathData="M12 24c6.63 0 12-5.37 12-12S18.63 0 12 0 0 5.37 0 12s5.37 12 12 12Z"/>
+        <path
+            android:fillColor="#FF000000"
+            android:pathData="M13.24 16.4v1.5l-1.3 0.77-1.27-0.77v-1.5l1.27 0.77 1.3-0.76Zm-6.97-5.17L7.53 12v2.57l2.18 1.3v1.5l-3.44-2.04v-4.1Zm11.34 0v4.1l-3.49 2.03v-1.49l2.18-1.3V12l1.3-0.77ZM14.12 9.2l1.3 0.77v1.5l-2.18 1.3v2.6l-1.27 0.77-1.26-0.77v-2.6l-2.26-1.3v-1.5l1.3-0.77 2.19 1.3 2.18-1.3Zm-5.67 3.34l1.26 0.76v1.5l-1.26-0.77v-1.5Zm6.97 0v1.5l-1.26 0.76v-1.5l1.26-0.76ZM7.53 7.9l1.3 0.77-1.3 0.76v1.5l-1.26-0.77v-1.5L7.53 7.9Zm8.81 0l1.3 0.77v1.5l-1.3 0.76v-1.5l-1.26-0.76 1.26-0.77Zm-4.4 0l1.3 0.77-1.3 0.76-1.27-0.76 1.27-0.77Zm0-2.57l3.48 2.03-1.26 0.77-2.19-1.3-2.22 1.3L8.5 7.36l3.45-2.03Z"/>
+    </group>
 </vector>
