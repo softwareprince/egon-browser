@@ -1,6 +1,6 @@
-# Brave Core
+# EgonBrowser Core
 
-Brave Core is a set of changes, APIs, and scripts used for customizing EgonBrowser to make the Brave browser. Please also check https://github.com/brave/brave-browser
+EgonBrowser Core is a set of changes, APIs, and scripts used for customizing EgonBrowser to make the EgonBrowser browser. Please also check https://github.com/brave/brave-browser
 
 Follow [@brave](https://twitter.com/brave) on Twitter for important announcements.
 
@@ -14,5 +14,5 @@ Follow [@brave](https://twitter.com/brave) on Twitter for important announcement
 
 You can ask questions and interact with the community in the following
 locations:
-- [Brave Community](https://egonbrowser.com/)
-- [`community`](https://bravesoftware.slack.com) channel on Brave Software's Slack
+- [EgonBrowser Community](https://egonbrowser.com/)
+- [`community`](https://bravesoftware.slack.com) channel on EgonBrowser Software's Slack

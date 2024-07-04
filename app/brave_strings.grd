@@ -1183,7 +1183,7 @@ Permissions you've already given to websites and apps may apply to this account.
           If an image doesn’t have a useful description, EgonBrowser will try to provide one for you. To create descriptions, images are sent to EgonBrowser.
         </message>
         <message name="IDS_CONTENT_CONTEXT_SPELLING_BUBBLE_TEXT" desc="The text of a bubble that confirms users allows integrating the spelling service of EgonBrowser to EgonBrowser.">
-          This uses the same spell checker that's used in Brave search. Text you type in the browser is sent to EgonBrowser. You can always change this behavior in settings.
+          This uses the same spell checker that's used in EgonBrowser search. Text you type in the browser is sent to EgonBrowser. You can always change this behavior in settings.
         </message>
         <if expr="not use_titlecase">
           <message name="IDS_CONTENT_CONTEXT_OPENLINKNEWTAB_INAPP" desc="The name of the command to open a link in a newly created browser tab when the user is in an app window">
@@ -1598,7 +1598,7 @@ Permissions you've already given to websites and apps may apply to this account.
         </message>
       </if>
 
-      <!-- BraveLabs bubble -->
+      <!-- EgonBrowserLabs bubble -->
       <message name="IDS_CHROMELABS_RELAUNCH_FOOTER_MESSAGE" desc="Text that shows in the footer of the EgonBrowser Labs bubble when relaunch is needed for changes to take effect.">
         Your changes will take effect the next time you relaunch EgonBrowser.
       </message>
@@ -1667,7 +1667,7 @@ Permissions you've already given to websites and apps may apply to this account.
         You can learn more about these features in EgonBrowser settings.
       </message>
 
-      <!-- BraveUpdater Strings -->
+      <!-- EgonBrowserUpdater Strings -->
       <if expr="is_win">
         <message name="IDS_FRIENDLY_COMPANY_NAME" desc="Company name" translateable="false">
           EgonBrowser

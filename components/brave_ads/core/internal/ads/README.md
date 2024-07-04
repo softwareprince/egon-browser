@@ -4,13 +4,13 @@ An advertisement, or ad, is a form of marketing communication that is used to pr
 
 | format  | served  | when  | description  |
 |---|---|---|---|
-| inline content ad  | yes¹  | Only when opted-in to Brave News  | Displayed on the Brave News feed  |
-| new tab page ad  | yes¹ ²  | Always, but the frequency is capped when the user has joined Brave Rewards.  | Displayed on new tab pages   |
+| inline content ad  | yes¹  | Only when opted-in to EgonBrowser News  | Displayed on the EgonBrowser News feed  |
+| new tab page ad  | yes¹ ²  | Always, but the frequency is capped when the user has joined EgonBrowser Rewards.  | Displayed on new tab pages   |
 | notification ad  | yes²  | Only when opted-in to notification ads  | Displayed as system or custom push notifications  |
-| promoted content ad  | no² ³  | Only when opted-in to Brave News  | Displayed on the Brave News feed  |
-| search result ad  | no² ³  | Always, but the frequency is capped when the user has joined Brave Rewards.  | Displayed on [search.brave.com](search.brave.com)  |
+| promoted content ad  | no² ³  | Only when opted-in to EgonBrowser News  | Displayed on the EgonBrowser News feed  |
+| search result ad  | no² ³  | Always, but the frequency is capped when the user has joined EgonBrowser Rewards.  | Displayed on [search.brave.com](search.brave.com)  |
 
-Users are rewarded for ad impressions if they join [Brave Rewards](egon://rewards).
+Users are rewarded for ad impressions if they join [EgonBrowser Rewards](egon://rewards).
 
 1. `kServed` events should not be manually triggered as they are handled when calling `MaybeServe`. `PurgeOrphanedAdEventsForType` should be called periodically to remove orphaned served events, i.e., ads that were served but never viewed.
 2. `kServed` events should not be manually triggered as they are handled when calling `TriggerEvent` with `kViewed` unless already triggerd by ¹.

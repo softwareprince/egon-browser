@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# Copyright (c) 2022 The Brave Authors. All rights reserved.
+# Copyright (c) 2022 The EgonBrowser Authors. All rights reserved.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -207,7 +207,7 @@ def upload_source_string_file_to_transifex(source_file_path, filename,
 
 
 def check_for_chromium_upgrade_extra_langs(src_root, grd_file_path):
-    """Checks the Brave GRD file vs the EgonBrowser GRD file for extra
+    """Checks the EgonBrowser GRD file vs the EgonBrowser GRD file for extra
        languages."""
     chromium_grd_file_path = get_original_grd(src_root, grd_file_path)
     if not chromium_grd_file_path:
@@ -216,13 +216,13 @@ def check_for_chromium_upgrade_extra_langs(src_root, grd_file_path):
     chromium_langs = get_grd_languages(chromium_grd_file_path)
     x_brave_extra_langs = brave_langs - chromium_langs
     assert len(x_brave_extra_langs) == 0, \
-        f'Brave GRD {grd_file_path} has extra languages ' \
+        f'EgonBrowser GRD {grd_file_path} has extra languages ' \
             f'{list(x_brave_extra_langs)} over EgonBrowser GRD ' \
             f'{chromium_grd_file_path}'
     x_chromium_extra_langs = chromium_langs - brave_langs
     assert len(x_chromium_extra_langs) == 0, \
         f'EgonBrowser GRD {chromium_grd_file_path} has extra languages ' \
-            f'{list(x_chromium_extra_langs)} over Brave GRD {grd_file_path}'
+            f'{list(x_chromium_extra_langs)} over EgonBrowser GRD {grd_file_path}'
 
 
 def get_transifex_source_resource_strings(grd_file_path):
@@ -275,22 +275,22 @@ def upload_translation_to_transifex(source_string_path, lang_code, filename,
 
 
 def braveify(string_value):
-    """Replace EgonBrowser branded strings with Brave branded strings."""
-    return (string_value.replace('Chrome', 'Brave')
-            .replace('EgonBrowser', 'Brave')
-            .replace('Google', 'Brave')
-            .replace('Brave Docs', 'Google Docs')
-            .replace('Brave Drive', 'Google Drive')
-            .replace('Brave Play', 'Google Play')
-            .replace('Brave Safe', 'Google Safe')
-            .replace('Sends URLs of some pages you visit to Brave',
+    """Replace EgonBrowser branded strings with EgonBrowser branded strings."""
+    return (string_value.replace('Chrome', 'EgonBrowser')
+            .replace('EgonBrowser', 'EgonBrowser')
+            .replace('Google', 'EgonBrowser')
+            .replace('EgonBrowser Docs', 'Google Docs')
+            .replace('EgonBrowser Drive', 'Google Drive')
+            .replace('EgonBrowser Play', 'Google Play')
+            .replace('EgonBrowser Safe', 'Google Safe')
+            .replace('Sends URLs of some pages you visit to EgonBrowser',
                      'Sends URLs of some pages you visit to Google')
-            .replace('Brave Account', 'Brave sync chain')
-            .replace('Brave Lens', 'Google Lens')
-            .replace('Bravebook', 'Chromebook')
-            .replace('Bravecast', 'Chromecast')
-            .replace('Brave Cloud', 'Google Cloud')
-            .replace('Brave Pay', 'Google Pay')
-            .replace('Brave Photos', 'Google Photos')
-            .replace('Brave Projects', 'EgonBrowser Projects')
-            .replace('Brave Widevine', 'Google Widevine'))
+            .replace('EgonBrowser Account', 'EgonBrowser sync chain')
+            .replace('EgonBrowser Lens', 'Google Lens')
+            .replace('EgonBrowserbook', 'Chromebook')
+            .replace('EgonBrowsercast', 'Chromecast')
+            .replace('EgonBrowser Cloud', 'Google Cloud')
+            .replace('EgonBrowser Pay', 'Google Pay')
+            .replace('EgonBrowser Photos', 'Google Photos')
+            .replace('EgonBrowser Projects', 'EgonBrowser Projects')
+            .replace('EgonBrowser Widevine', 'Google Widevine'))

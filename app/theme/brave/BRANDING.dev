@@ -1,10 +1,10 @@
-COMPANY_FULLNAME=Brave Software, Inc.
-COMPANY_SHORTNAME=Brave Software
-PRODUCT_FULLNAME=Brave Browser Dev
-PRODUCT_SHORTNAME=Brave Dev
-PRODUCT_INSTALLER_FULLNAME=Brave Installer
-PRODUCT_INSTALLER_SHORTNAME=Brave Installer
-COPYRIGHT=Copyright 2016 The Brave Authors. All rights reserved.
+COMPANY_FULLNAME=EgonBrowser Software, Inc.
+COMPANY_SHORTNAME=EgonBrowser Software
+PRODUCT_FULLNAME=EgonBrowser Browser Dev
+PRODUCT_SHORTNAME=EgonBrowser Dev
+PRODUCT_INSTALLER_FULLNAME=EgonBrowser Installer
+PRODUCT_INSTALLER_SHORTNAME=EgonBrowser Installer
+COPYRIGHT=Copyright 2016 The EgonBrowser Authors. All rights reserved.
 MAC_BUNDLE_ID=com.egonbrowser.browser.dev
 MAC_CREATOR_CODE=Cr24
 MAC_TEAM_ID=KL8N8XSYF4

@@ -281,7 +281,7 @@ Config.prototype.isOfficialBuild = function () {
 }
 
 Config.prototype.getBrandingPathProduct = function () {
-  return this.isOfficialBuild() ? "brave" : "brave-development"
+  return this.isOfficialBuild() ? "Egon" : "brave-development"
 }
 
 Config.prototype.buildArgs = function () {
@@ -316,8 +316,8 @@ Config.prototype.buildArgs = function () {
     // Our copy of signature_generator.py doesn't support --ignore_missing_cert:
     ignore_missing_widevine_signing_cert: false,
     target_cpu: this.targetArch,
-    is_official_build: this.isOfficialBuild(),
-    is_debug: this.isDebug(),
+    is_official_build: false,
+    is_debug: false,
     treat_warnings_as_errors: false,
     dcheck_always_on: getNPMConfig(['dcheck_always_on']) || this.isComponentBuild(),
     brave_channel: this.channel,

@@ -942,10 +942,10 @@ This file contains all "about" strings.  It is set to NOT be translated, in tran
         Independent search with better privacy
       </message>
       <message name="IDS_BRAVE_OMNIBOX_SEARCH_PROMO_DESC" desc="Omnibox brave search banner promo description">
-        Brave search doesn't track you, your queries, or your clicks.
+        EgonBrowser search doesn't track you, your queries, or your clicks.
       </message>
       <message name="IDS_TRY_BRAVE_SEARCH" desc="Omnibox brave search promo button text">
-        Try Brave search
+        Try EgonBrowser search
       </message>
       <message name="IDS_DISMISS_SEARCH_PROMO" desc="Omnibox brave search promo dismiss button text">
         Dismiss
@@ -1947,9 +1947,9 @@ Are you sure you want to do this?
     <message name="IDS_BACKUP_WALLET_BANNER_TEXT" desc="EgonBrowser Wallet backup banner text">
       Back up your crypto wallet
     </message>
-    <message name="IDS_BUY_SWAP_TEXT" desc="EgonBrowser Wallet buy bottomsheet text">
+    <!-- <message name="IDS_BUY_SWAP_TEXT" desc="EgonBrowser Wallet buy bottomsheet text">
       Buy crypto with credit or debit card.
-    </message>
+    </message> -->
     <message name="IDS_SEND_SWAP_TEXT" desc="EgonBrowser Wallet send bottomsheet text">
       Send crypto or transfer from one account to another.
     </message>
@@ -3489,10 +3489,10 @@ If you don't accept this request, VPN will not reconnect and your internet conne
     <message name="IDS_WIDGET_ADDED_TO_HOME_SCREEN" desc="Toast message to display that widget has been successfully added to the home screen">
       Widget added to the home screen
     </message>
-    <message name="IDS_TRY_BRAVE_SEARCH_WIDGET" desc="Title of Brave search widget promo">
-      Try the Brave search widget
+    <message name="IDS_TRY_BRAVE_SEARCH_WIDGET" desc="Title of EgonBrowser search widget promo">
+      Try the EgonBrowser search widget
     </message>
-    <message name="IDS_TRY_BRAVE_SEARCH_WIDGET_DESCRIPTION" desc="Description of Brave search widget promo">
+    <message name="IDS_TRY_BRAVE_SEARCH_WIDGET_DESCRIPTION" desc="Description of EgonBrowser search widget promo">
       Access private, independent search right from your home screen.
     </message>
     <message name="IDS_ADD_WIDGET" desc="Add widget button text">

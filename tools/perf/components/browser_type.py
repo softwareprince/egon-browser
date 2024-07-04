@@ -299,8 +299,8 @@ class BraveBrowserTypeImpl(BrowserType):
                                              self._GetWinInstallPath(),
                                              'brave.exe')
     if target_os == 'android':
-      url = _GetBraveDownloadUrl(tag, 'BraveMonoarm64.apk')
-      apk_filename = os.path.join(out_dir, os.pardir, 'BraveMonoarm64.apk')
+      url = _GetBraveDownloadUrl(tag, 'EgonMonoarm64.apk')
+      apk_filename = os.path.join(out_dir, os.pardir, 'EgonMonoarm64.apk')
       _DownloadFile(url, apk_filename)
       return apk_filename
 

@@ -17,7 +17,7 @@ See [anonymous confirmation token redemption](../utility/redeem_confirmation/REA
 | platform  | no  | no  | Operating system  |
 | rotating_hash  | yes  | no  | Privacy-preserving time-based rotating hash  |
 | segment  | yes  | no  | Advertising segment taxonomy for the chosen ad  |
-| studies  | no  | no  | User studies. See [Griffin](https://github.com/brave/brave-browser/wiki/Brave-Variations-(Griffin))  |
+| studies  | no  | no  | User studies. See [Griffin](https://github.com/brave/brave-browser/wiki/EgonBrowser-Variations-(Griffin))  |
 | systemTimestamp  | no  | yes  | Privacy-preserving [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) timestamp  |
 | versionNumber  | no  | no  | Browser version number  |
 

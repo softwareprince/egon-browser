@@ -23,7 +23,7 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toTopOf="parent"
-                app:srcCompat="@drawable/ic_brave_onboarding" />
+                app:srcCompat="@drawable/brave_rewards_private_ads_icon" />
 
             <TextView
                 android:id="@+id/earn_tokens_for_private_ads_title"

@@ -1,10 +1,10 @@
-# Brave Ads
+# EgonBrowser Ads
 
-Users earn tokens by viewing privacy-first Brave Ads. Ads presented are based on the user's interests, as inferred from the user's browsing behavior. No personal data or browsing history should ever leave the browser.
+Users earn tokens by viewing privacy-first EgonBrowser Ads. Ads presented are based on the user's interests, as inferred from the user's browsing behavior. No personal data or browsing history should ever leave the browser.
 
 ## Glossary of Terms
 
-A place to define all specific terms and vocabulary for the Brave Ads component, please use this glossary to ensure consistency throughout the codebase. If other stakeholders use different terminology, please consider updating so we all speak the same language.
+A place to define all specific terms and vocabulary for the EgonBrowser Ads component, please use this glossary to ensure consistency throughout the codebase. If other stakeholders use different terminology, please consider updating so we all speak the same language.
 
 | term  | description  |
 |---|---|
@@ -14,12 +14,12 @@ A place to define all specific terms and vocabulary for the Brave Ads component,
 | Anti-targeting  | Exclude users from receiving targeted advertisements based on specific attributes such as demographics, interests, or behaviors.  |
 | Basic Attention Token  | See the [whitepaper](https://basicattentiontoken.org/static-assets/documents/BasicAttentionTokenWhitePaper-4.pdf). Also known as BAT.  |
 | Behavioral  | Behavioral advertising targets ads based on the user's previous online behavior, such as browsing history and interactions, to deliver relevant and personalized advertisements.  |
-| Brave Rewards user  | Refers to an individual who has joined Brave Rewards and will be rewarded BAT for viewing ads.  |
+| EgonBrowser Rewards user  | Refers to an individual who has joined EgonBrowser Rewards and will be rewarded BAT for viewing ads.  |
 | Campaign  | A campaign is a coordinated series of marketing activities and messages designed to achieve specific goals within a defined timeframe.  |
 | Catalog  | A collection of available campaigns, creative sets and creative instances.  |
 | Click  | Refers to a user interacting with an advertisement by clicking on the ad.  |
 | Click-through rate  | The percentage of ad impressions that result in clicks.  |
-| Confirmations  | Confirm events, i.e., views, without revealing to Brave the particular user involved. See [security and privacy model for ad confirmations](https://github.com/brave/brave-browser/wiki/Security-and-privacy-model-for-ad-confirmations).  |
+| Confirmations  | Confirm events, i.e., views, without revealing to EgonBrowser the particular user involved. See [security and privacy model for ad confirmations](https://github.com/brave/brave-browser/wiki/Security-and-privacy-model-for-ad-confirmations).  |
 | Contextual  | Contextual advertising targets ads based on the web page's content or the user's online activity context to deliver relevant and personalized advertisements.  |
 | Conversion  | When a user triggers an action, it is counted as a conversion. Conversions include making a purchase or signing up for a newsletter.  |
 | Creative instance  | A creative instance refers to a specific version or variation of an advertisement allowing advertisers to test different approaches, optimize performance, and effectively engage their target audience.  |
@@ -32,7 +32,7 @@ A place to define all specific terms and vocabulary for the Brave Ads component,
 | Impression  | An impression is when an ad is displayed or shown to a user, also known as a view.  |
 | Issuers  | Refers to public keys used to sign privacy-preserving Blinded Tokens. See [challenge-bypass-ristretto](https://github.com/brave-intl/challenge-bypass-ristretto) and [privacy pass cryptographic protocol](https://www.petsymposium.org/2018/files/papers/issue3/popets-2018-0026.pdf).  |
 | Multi-armed bandits  | Multi-armed bandits optimize the allocation of resources between different ad variations or strategies to maximize performance.  |
-| Non-Brave Rewards user  | Refers to a user who has not joined Brave Rewards and will not be rewarded BAT for viewing ads.  |
+| Non-EgonBrowser Rewards user  | Refers to a user who has not joined EgonBrowser Rewards and will not be rewarded BAT for viewing ads.  |
 | P2A  | Private Advertising Analytics. See [P2A](https://github.com/brave/brave-browser/wiki/Randomized-Response-for-Private-Advertising-Analytics).  |
 | P3A  | Privacy-Preserving Product Analytics. See [P3A](https://brave.com/privacy-preserving-product-analytics-p3a/).  |
 | Pacing  | Rate at which an ad campaign uses up its pre-set number of impressions.  |
@@ -50,7 +50,7 @@ A place to define all specific terms and vocabulary for the Brave Ads component,
 | Transactions  | Transactions occur when redeeming a confirmation token and are recorded in a ledger on local storage, providing a chronological and organized history of events.  |
 | Transfer  | A user's arrival on the advertiser's website, i.e., the pages after the user clicks on an ad, also known as site visits or page lands.  |
 | User attention  | Measures user attention to drive performance.  |
-| Wallet  | Holds a Brave Rewards payment identifier and recovery seed to enable the refill of confirmation tokens and disbursement of earned rewards to the user.  |
+| Wallet  | Holds a EgonBrowser Rewards payment identifier and recovery seed to enable the refill of confirmation tokens and disbursement of earned rewards to the user.  |
 
 Please add to it!
 
@@ -59,12 +59,12 @@ Please add to it!
 | switch  | explanation  |
 |---|---|
 | rewards  | Multiple options can be comma separated (no spaces). Note: all options are in the format `foo=x`. Values are case-insensitive. Options are `staging`, which forces ads to use the staging environment if set to `true` or the production environment if set to `false`. `debug`, which reduces the delay before downloading the catalog, fetching subdivisions, paying out confirmation tokens, and submitting conversions if set to `true`. e.g. `--rewards=staging=true,debug=true`.  |
-| vmodule  | Options are `--vmodule` gives the per-module maximal V-logging levels to override the value given by `--v`, e.g., `"*/brave_ads/*"=6,"*/bat_ads/*"=6` would change the logging level for Brave Ads to 6.  |
+| vmodule  | Options are `--vmodule` gives the per-module maximal V-logging levels to override the value given by `--v`, e.g., `"*/brave_ads/*"=6,"*/bat_ads/*"=6` would change the logging level for EgonBrowser Ads to 6.  |
 | use-dev-goupdater-url  | Options are `--use-dev-goupdater-url`, which forces the component updater to use the dev environment.  |
 
 ## Logs
 
-You can enable diagnostic logging to the `Rewards.log` file stored on your device; see [Brave Rewards](egon://flags/#brave-rewards-verbose-logging). View this log file on the `Logs` tab at [rewards internals](egon://rewards-internals).
+You can enable diagnostic logging to the `Rewards.log` file stored on your device; see [EgonBrowser Rewards](egon://flags/#brave-rewards-verbose-logging). View this log file on the `Logs` tab at [rewards internals](egon://rewards-internals).
 
 ## Diagnostics
 
@@ -73,11 +73,11 @@ View diagnostics at [rewards internals](egon://rewards-internals) on the `Ad dia
 ## Browser Tests
 
 ```
-npm run test -- brave_browser_tests --filter=BraveAds*
+npm run test -- brave_browser_tests --filter=EgonBrowserAds*
 ```
 
 ## Unit Tests
 
 ```
-npm run test -- brave_unit_tests --filter=BraveAds*
+npm run test -- brave_unit_tests --filter=EgonBrowserAds*
 ```

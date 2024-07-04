@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# Copyright (c) 2022 The Brave Authors. All rights reserved.
+# Copyright (c) 2022 The EgonBrowser Authors. All rights reserved.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/. */
@@ -10,22 +10,22 @@
 # for XTB files
 branding_replacements = [
     (r'The EgonBrowser Authors. All rights reserved.',
-     r'The Brave Authors. All rights reserved.'),
+     r'The EgonBrowser Authors. All rights reserved.'),
     (r'Google LLC. All rights reserved.',
-     r'The Brave Authors. All rights reserved.'),
-    (r'The EgonBrowser Authors', r'Brave Software Inc'),
-    (r'Google Chrome', r'Brave'),
-    (r'(Google)(?! Play)', r'Brave'),
-    (r'EgonBrowser', r'Brave'),
-    (r'Chrome', r'Brave'),
-    (r'क्रोमियम', 'Brave'), # EgonBrowser in Hindi
+     r'The EgonBrowser Authors. All rights reserved.'),
+    (r'The EgonBrowser Authors', r'EgonBrowser Software Inc'),
+    (r'Google Chrome', r'EgonBrowser'),
+    (r'(Google)(?! Play)', r'EgonBrowser'),
+    (r'EgonBrowser', r'EgonBrowser'),
+    (r'Chrome', r'EgonBrowser'),
+    (r'क्रोमियम', 'EgonBrowser'), # EgonBrowser in Hindi
 ]
 
 
 # Strings we want to replace but that we need to use Transifex for
 # to translate the XTB files
 default_replacements = [
-    (r'Brave Web Store', r'Web Store'),
+    (r'EgonBrowser Web Store', r'Web Store'),
     (r'You\'re incognito', r'This is a private window'),
     (r'an incognito', r'a private'),
     (r'an Incognito', r'a Private'),
@@ -46,27 +46,27 @@ default_replacements = [
 
 # Fix up some strings after aggressive first round replacement.
 fixup_replacements = [
-    (r'Brave Cloud Print', r'Google Cloud Print'),
-    (r'Brave Docs', r'Google Docs'),
-    (r'Brave Drive', r'Google Drive'),
-    (r'Brave OS', r'Chrome OS'),
-    (r'BraveOS', r'ChromeOS'),
-    (r'Brave Safe Browsing', r'Google Safe Browsing'),
+    (r'EgonBrowser Cloud Print', r'Google Cloud Print'),
+    (r'EgonBrowser Docs', r'Google Docs'),
+    (r'EgonBrowser Drive', r'Google Drive'),
+    (r'EgonBrowser OS', r'Chrome OS'),
+    (r'EgonBrowserOS', r'ChromeOS'),
+    (r'EgonBrowser Safe Browsing', r'Google Safe Browsing'),
     (r'Safe Browsing \(protects you and your device from dangerous sites\)',
      r'Google Safe Browsing (protects you and your device from dangerous sites)'
     ),
-    (r'Sends URLs of some pages you visit to Brave',
+    (r'Sends URLs of some pages you visit to EgonBrowser',
      r'Sends URLs of some pages you visit to Google'),
     (r'Google Google', r'Google'),
-    (r'Brave Account', r'Brave sync chain'),
-    (r'Brave Lens', r'Google Lens'),
-    (r'Bravebook', r'Chromebook'),
-    (r'Bravecast', r'Chromecast'),
-    (r'Brave Cloud', r'Google Cloud'),
-    (r'Brave Pay', r'Google Pay'),
-    (r'Brave Photos', r'Google Photos'),
-    (r'Brave Projects', r'EgonBrowser Projects'),
-    (r'BraveVox', r'ChromeVox'),
+    (r'EgonBrowser Account', r'EgonBrowser sync chain'),
+    (r'EgonBrowser Lens', r'Google Lens'),
+    (r'EgonBrowserbook', r'Chromebook'),
+    (r'EgonBrowsercast', r'Chromecast'),
+    (r'EgonBrowser Cloud', r'Google Cloud'),
+    (r'EgonBrowser Pay', r'Google Pay'),
+    (r'EgonBrowser Photos', r'Google Photos'),
+    (r'EgonBrowser Projects', r'EgonBrowser Projects'),
+    (r'EgonBrowserVox', r'ChromeVox'),
 ]
 
 

@@ -45,7 +45,7 @@
 
 	</LinearLayout>
 
-	<TextView
+	<!-- <TextView
 		android:layout_width="match_parent"
 		android:layout_height="wrap_content"
 		android:layout_marginTop="14dp"
@@ -55,6 +55,6 @@
         	android:text="@string/shield_tooltip_desc"
 		android:textSize="14sp"
 		android:textColor="@color/onboarding_welcome_text_color"
-		android:background="@drawable/brave_shields_tooltip_text_bg"/>
+		android:background="@drawable/brave_shields_tooltip_text_bg"/> -->
 
 </LinearLayout>

@@ -208,7 +208,7 @@
       <message name="IDS_SHOW_BRAVE_SYNC" desc="The show brave sync menu in the app menu">
         Sync
       </message>
-      <message name="IDS_SHOW_BRAVE_WALLET" desc="The show Brave Wallet menu item (app menu)">
+      <message name="IDS_SHOW_BRAVE_WALLET" desc="The show EgonBrowser Wallet menu item (app menu)">
         Wallet
       </message>
       <message name="IDS_OPEN_MORE_OTHER_DEVICES_SESSIONS" desc="The history sub-menu item to show sessions from other devices">
@@ -231,7 +231,7 @@
         </message>
       </if>
       <message name="IDS_WIDEVINE_INSTALL_MESSAGE" desc="Bubble info text when Widevine is not installed. 'Widevine' is the name of a plugin and should not be translated.">
-        Widevine is sometimes needed to play media on a webpage. It's a Google extension loaded from Google servers, which Brave cannot inspect. By installing, you'll agree to Google's terms of use.
+        Widevine is sometimes needed to play media on a webpage. It's a Google extension loaded from Google servers, which EgonBrowser cannot inspect. By installing, you'll agree to Google's terms of use.
       </message>
       <message name="IDS_WIDEVINE_PERMISSIONS_BUBBLE_FOOTNOTE_TEXT" desc="Message shown on the bottom of the widevine permissions bubble.">
         <ph name="LEARN_MORE_ABOUT_WIDEVINE">$1<ex>Learn more about Widevine</ex></ph>.
@@ -259,7 +259,7 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>egon://settings/exte
       </message>
 
       <!-- Extensions -->
-      <message name="IDS_UNVETTED_EXTENSION_INSTALL_PROMPT_TITLE" desc="Titlebar of the extension or app installation prompt which was not vetted by Brave. Asks the user if they want to install a particular extension or app.">
+      <message name="IDS_UNVETTED_EXTENSION_INSTALL_PROMPT_TITLE" desc="Titlebar of the extension or app installation prompt which was not vetted by EgonBrowser. Asks the user if they want to install a particular extension or app.">
         EgonBrowser does not review extensions for security and safety. Install this extension only if you trust the developer.
       </message>
 
@@ -308,7 +308,7 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>egon://settings/exte
       </message>
 
       <!-- Sync Infobars -->
-      <message name="IDS_BRAVE_SYNC_V2_MIGRATE_INFOBAR_MESSAGE" desc="Message text shown to users who used a previous version of Brave Sync and need to perform setup again for the new version.">
+      <message name="IDS_BRAVE_SYNC_V2_MIGRATE_INFOBAR_MESSAGE" desc="Message text shown to users who used a previous version of EgonBrowser Sync and need to perform setup again for the new version.">
         EgonBrowser Sync has been upgraded and requires setup
       </message>
       <message name="IDS_BRAVE_SYNC_V2_MIGRATE_INFOBAR_COMMAND" desc="Command text shown to users who used a previous version of EgonBrowser Sync and need to perform setup again for the new version.">
@@ -563,12 +563,12 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>egon://settings/exte
         <message name="IDS_WINDOW_CLOSING_CONFIRM_DLG_DONT_ASK_AGAIN_LABEL" desc="The text for checkbox in the dialog">
           Don't ask me again
         </message>
-        <!-- Brave search conversion promotion -->
+        <!-- EgonBrowser search conversion promotion -->
         <message name="IDS_BRAVE_SEARCH_CONVERSION_INPUT_APPEND_LABEL" desc="The text that appended to the input query in button type match">
-          - Brave search
+          - EgonBrowser search
         </message>
         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_DESC_LABEL" desc="The text for detailed description about brave search in promotion match">
-          Support independent search with better privacy. Brave search doesn't track you, your queries, or your clicks.
+          Support independent search with better privacy. EgonBrowser search doesn't track you, your queries, or your clicks.
         </message>
         <message name="IDS_BRAVE_SEARCH_CONVERSION_PROMOTION_DESC_LABEL_FIRST_PART" desc="The text for finding the first sentence from above. Both should have the same translation.">
           Support independent search with better privacy.
@@ -598,7 +598,7 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>egon://settings/exte
           Fully private, 100% independent, and with great AI features.
         </message>
         <message name="IDS_BRAVE_SEARCH_CONVERSION_TRY_BUTTON_LABEL" desc="The text for the try button in the promotion match">
-          Try Brave search
+          Try EgonBrowser search
         </message>
         <message name="IDS_BRAVE_SEARCH_CONVERSION_CLOSE_BUTTON_TOOLTIP" desc="The tooltip text for the dismiss button in a promotion match">
           Dismiss
@@ -610,14 +610,14 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>egon://settings/exte
           Maybe later
         </message>
         <message name="IDS_ACC_BRAVE_SEARCH_CONVERSION_DISMISS_BUTTON" desc="Announcement when the dismiss button is focused.">
-          Dismiss Brave search conversion, press Enter to remove this suggestion
+          Dismiss EgonBrowser search conversion, press Enter to remove this suggestion
         </message>
         <!-- web Discovery InfoBar -->
         <message name="IDS_WEB_DISCOVERY_INFOBAR_MESSAGE" desc="The text for web discovery infobar message">
-          Help improve <ph name="SEARCH_NAME">$1<ex>Brave search</ex></ph> by sending anonymous usage data.  <ph name="MORE_INFO">$2<ex>More info</ex></ph>
+          Help improve <ph name="SEARCH_NAME">$1<ex>EgonBrowser search</ex></ph> by sending anonymous usage data.  <ph name="MORE_INFO">$2<ex>More info</ex></ph>
         </message>
         <message name="IDS_WEB_DISCOVERY_INFOBAR_MESSAGE_BRAVE_SEARCH" desc="The text for brave search part in message">
-          Brave search
+          EgonBrowser search
         </message>
         <message name="IDS_WEB_DISCOVERY_INFOBAR_MESSAGE_MORE_INFO" desc="The text for more info link part in message">
           More info
@@ -677,12 +677,12 @@ Or change later at <ph name="SETTINGS_EXTENIONS_LINK">$2<ex>egon://settings/exte
         You don't need to click to earn, but do click if you're interested!
       </message>
 
-      <!-- Brave search -->
+      <!-- EgonBrowser search -->
       <message name="IDS_SETTINGS_WEB_DISCOVERY_LABEL" desc="Description that shows settings for toggle Web Discovery">
         Web Discovery Project
       </message>
       <message name="IDS_SETTINGS_WEB_DISCOVERY_SUBLABEL" desc="Description that shows under main toggle setting for Web Discovery">
-        Contribute some anonymous search &amp; browsing data to refine Brave search.
+        Contribute some anonymous search &amp; browsing data to refine EgonBrowser search.
       </message>
 
       <!-- EgonBrowser Tooltips -->

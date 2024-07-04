@@ -7,7 +7,7 @@
     android:background="@color/wallet_bg"
     android:orientation="vertical">
 
-    <LinearLayout
+    <!-- <LinearLayout
         android:id="@+id/buy_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -38,7 +38,7 @@
             android:layout_marginStart="24dp"
             android:background="@color/wallet_edittext_outline_color"/>
 
-    </LinearLayout>
+    </LinearLayout> -->
 
     <LinearLayout
         android:id="@+id/send_layout"

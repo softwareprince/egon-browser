@@ -80,8 +80,8 @@ public class SwapBottomSheetDialogFragment
         final View view =
                 LayoutInflater.from(getContext()).inflate(R.layout.swap_bottom_sheet, null);
 
-        mBuyLayout = view.findViewById(R.id.buy_layout);
-        mBuyLayout.setOnClickListener(this);
+        // mBuyLayout = view.findViewById(R.id.buy_layout);
+        // mBuyLayout.setOnClickListener(this);
         mSendLayout = view.findViewById(R.id.send_layout);
         mSendLayout.setOnClickListener(this);
         mSwapLayout = view.findViewById(R.id.swap_layout);

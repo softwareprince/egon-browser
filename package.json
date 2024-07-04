@@ -1,7 +1,7 @@
 {
   "name": "brave-core",
   "version": "1.58.132",
-  "description": "Brave Core is a set of changes, APIs and scripts used for customizing EgonBrowser to make Brave.",
+  "description": "EgonBrowser Core is a set of changes, APIs and scripts used for customizing EgonBrowser to make EgonBrowser.",
   "main": "index.js",
   "scripts": {
     "audit_deps": "node ./build/commands/scripts/audit.js -- --audit_dev_deps",
@@ -54,7 +54,7 @@
     "url": "git+https://github.com/brave/brave-core.git"
   },
   "author": {
-    "name": "Brave Software <support@brave.com>"
+    "name": "EgonBrowser Software <support@brave.com>"
   },
   "contributors": [
     {
