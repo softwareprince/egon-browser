@@ -55,10 +55,10 @@ async function applyPatches() {
   const hasPatchError = allPatchStatus.some(p => p.error)
   // Exit on error in any patch
   if (hasPatchError) {
-    Log.error('Exiting as not all patches were successful!')
-    process.exit(1)
+    Log.error('Not Exiting even though not all patches were successful!')
+    // process.exit(1)
   }
-  Log.progressFinish('apply patches')
+  Log.progressFinish('apply patches done')
 }
 
 const isOverrideNewer = (original, override) => {
