@@ -267,9 +267,9 @@
     "projects": {
       "chrome": {
         "dir": "src",
-        "tag": "117.0.5938.92",
+        "tag": "MVP2.2",
         "repository": {
-          "url": "https://github.com/brave/chromium"
+          "url": "https://github.com/SoftwarePrince/Egon-Chromium"
         }
       }
     }
