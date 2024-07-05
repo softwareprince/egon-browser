@@ -174,7 +174,7 @@ Private state tokens improve privacy on the web and can’t be used to find out 
       <message name="IDS_CLOSE_ALL_INCOGNITO_NOTIFICATION_TITLE" desc="Title on the notification that closes all Private tabs on Android N+.">
         Private Tabs
       </message>
-      <message name="IDS_CLOSE_ALL_INCOGNITO_NOTIFICATION" desc="Message on the notification that closes all Private tabs.">
+      <message name="IDS_MenuItem" desc="Message on the notification that closes all Private tabs.">
         Close all Private tabs
       </message>
 

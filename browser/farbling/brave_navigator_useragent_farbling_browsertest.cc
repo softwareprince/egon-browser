@@ -67,7 +67,7 @@ void CheckUserAgentMetadataVersionsList(
     ASSERT_NE(nullptr, brand);
     const std::string* version = brand_version.GetDict().FindString("version");
     ASSERT_NE(nullptr, version);
-    if (*brand == "Brave") {
+    if (*brand == "Egon") {
       has_brave_brand = true;
       EXPECT_EQ(expected_version, *version);
     } else if (*brand == "Chromium") {
@@ -348,7 +348,7 @@ IN_PROC_BROWSER_TEST_F(BraveNavigatorUserAgentFarblingBrowserTest,
   GURL url = https_server()->GetURL("a.com", "/simple.html");
   ASSERT_TRUE(ui_test_utils::NavigateToURL(browser(), url));
   std::string brands = EvalJs(contents(), kBrandScript).ExtractString();
-  EXPECT_NE(std::string::npos, brands.find("Brave"));
+  EXPECT_NE(std::string::npos, brands.find("Egon"));
   EXPECT_NE(std::string::npos, brands.find("Chromium"));
 }
 

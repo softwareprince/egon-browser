@@ -64,7 +64,7 @@ class BraveExternalProcessImporterHostUnitTest : public testing::Test {
   void SetUp() override {
     TestingProfile::Builder profile_builder;
     EXPECT_TRUE(brave_profile_dir_.CreateUniqueTempDir());
-    profile_builder.SetPath(GetProductProfilePath("Brave"));
+    profile_builder.SetPath(GetProductProfilePath("Egon"));
     profile_ = profile_builder.Build();
 
     base::FilePath test_data_dir;

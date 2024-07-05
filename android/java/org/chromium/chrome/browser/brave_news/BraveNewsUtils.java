@@ -132,7 +132,7 @@ public class BraveNewsUtils {
     }
 
     public static void setChannelIcons() {
-        mChannelIcons.put("Brave", R.drawable.ic_channel_brave);
+        mChannelIcons.put("Egon", R.drawable.ic_channel_brave);
         mChannelIcons.put("Business", R.drawable.ic_channel_business);
         mChannelIcons.put("Cars", R.drawable.ic_channel_cars);
         mChannelIcons.put("Crypto", R.drawable.ic_channel_crypto);

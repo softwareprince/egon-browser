@@ -184,7 +184,7 @@ const PrepopulatedEngine brave_yandex =
                        PREPOPULATED_ENGINE_ID_YANDEX);
 
 const PrepopulatedEngine brave_search = MakeBravePrepopulatedEngine(
-    L"Brave",
+    L"Egon",
     L":br",
     "https://cdn.search.brave.com/serp/favicon.ico",
     "https://search.brave.com/search?q={searchTerms}&source="

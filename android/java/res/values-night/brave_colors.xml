@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (c) 2019 The Brave Authors. All rights reserved.
+<!-- Copyright (c) 2019 The EgonAuthors. All rights reserved.
      This Source Code Form is subject to the terms of the Mozilla Public
      License, v. 2.0. If a copy of the MPL was not distributed with this file,
      You can obtain one at http://mozilla.org/MPL/2.0/
@@ -59,7 +59,7 @@
     <color name="ad_free_card_cancel_color">#F0F2FF</color>
     <color name="ad_free_card_bg_color">#1E2029</color>
 
-    <!-- Brave news colors -->
+    <!-- Egonnews colors -->
     <color name="card_background">#F23B3E4F</color>
     <color name="card_background_solid">#353535</color>
     <!-- <color name="turn_on_button">#737ADE</color> -->
@@ -135,7 +135,7 @@
 
     <color name="rewards_divider_color">#3B3E4F</color>
 
-    <!--  Brave Wallet DApp  -->
+    <!--  EgonWallet DApp  -->
     <color name="brave_wallet_dapp_text_color">@android:color/white</color>
 
     <color name="cookie_consent_action_color">@android:color/white</color>

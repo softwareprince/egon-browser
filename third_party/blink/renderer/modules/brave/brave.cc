@@ -10,7 +10,7 @@
 
 namespace blink {
 
-const char Brave::kSupplementName[] = "Brave";
+const char Brave::kSupplementName[] = "Egon";
 
 Brave::Brave(NavigatorBase& navigator) : Supplement<NavigatorBase>(navigator) {}
 

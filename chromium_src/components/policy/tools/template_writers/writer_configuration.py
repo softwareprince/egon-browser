@@ -12,7 +12,7 @@ def GetConfigurationForBuild(original_function, defines):
 
 _BRAVE_VALUES = {
   'build': 'brave',
-  'app_name': 'Brave',
+  'app_name': 'Egon',
   'doc_url':
     'https://support.brave.com/hc/en-us/articles/360039248271-Group-Policy',
   'frame_name': 'Brave Frame',

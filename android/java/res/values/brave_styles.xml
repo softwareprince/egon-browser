@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (c) 2019 The Brave Authors. All rights reserved.
+<!-- Copyright (c) 2019 The EgonAuthors. All rights reserved.
      This Source Code Form is subject to the terms of the Mozilla Public
      License, v. 2.0. If a copy of the MPL was not distributed with this file,
      You can obtain one at https://mozilla.org/MPL/2.0/.
@@ -45,7 +45,7 @@
         <item name="android:background">@drawable/rounded_set_default_top_corners</item>
     </style>
 
-    <!-- Brave Wallet -->
+    <!-- EgonWallet -->
     <style name="BraveWalletButton" parent="Widget.AppCompat.Button">
         <item name="buttonStyle">?android:attr/borderlessButtonStyle</item>
         <item name="android:layout_width">wrap_content</item>
@@ -125,7 +125,7 @@
         <item name="android:textCursorDrawable">@null</item>
     </style>
 
-    <!-- Buttons for Brave Sync -->
+    <!-- Buttons for EgonSync -->
     <style name="BraveSyncButton">
         <item name="android:textColor">@android:color/white</item>
         <item name="android:background">@drawable/brave_sync_btn</item>
@@ -279,7 +279,7 @@
         <item name="android:windowExitAnimation">@anim/slide_out_top</item>
     </style>
     
-    <!-- Brave Ads Notifications -->
+    <!-- EgonAds Notifications -->
     <style name="WebNotificationSmallIcon">
         <item name="android:alpha">0.6</item>
     </style>

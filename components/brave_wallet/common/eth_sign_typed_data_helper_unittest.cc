@@ -188,7 +188,7 @@ TEST(EthSignedTypedDataHelperUnitTest, EncodedData) {
   EXPECT_EQ(encoded_person_v4->first, encoded_person_v3->first);
 
   // Invalid primary type name
-  EXPECT_FALSE(helper->EncodeData("Brave", data_dict));
+  EXPECT_FALSE(helper->EncodeData("Egon", data_dict));
 
   // Extra fields in data should be ignored
   data_dict.Set("extra", base::Value("extra"));

@@ -100,7 +100,7 @@ class BraveDropdownItemViewInfoListBuilder extends DropdownItemViewInfoListBuild
                 && !BraveSearchEngineAdapter
                             .getDSEShortName(
                                     Profile.fromWebContents(activeTab.getWebContents()), false)
-                            .equals("Brave")
+                            .equals("Egon")
                 && !OmniboxPrefManager.getInstance().isBraveSearchPromoBannerDismissed()
                 && !OmniboxPrefManager.getInstance()
                             .isBraveSearchPromoBannerDismissedCurrentSession()) {

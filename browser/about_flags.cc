@@ -170,7 +170,7 @@
           "brave-rewards-gemini",                                          \
           "Enable Gemini for Brave Rewards",                               \
           "Enables support for Gemini as an external wallet provider for " \
-          "Brave",                                                         \
+          "Egon",                                                         \
           kOsDesktop,                                                      \
           FEATURE_VALUE_TYPE(brave_rewards::features::kGeminiFeature),     \
       }))
