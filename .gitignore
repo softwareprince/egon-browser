@@ -13,6 +13,7 @@
 /components/third_party/local_data/LICENSE
 /dist/
 /out/
+brave_env/
 node_modules/
 patches/**/*.patchinfo
 /third_party/android_deps/libs/com_google_android_play_core/core-1.10.0.aar
