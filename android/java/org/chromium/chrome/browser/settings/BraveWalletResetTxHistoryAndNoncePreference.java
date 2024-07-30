@@ -111,7 +111,7 @@ public class BraveWalletResetTxHistoryAndNoncePreference
                 // Disable ok button if input is invalid
                 String inputText = s.toString().trim();
 
-                okButton.setEnabled(TextUtils.equals(inputText, mConfirmationPhrase));
+                okButton.setEnabled(inputText.equalsIgnoreCase(mConfirmationPhrase));
             }
         });
     }
