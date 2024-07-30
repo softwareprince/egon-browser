@@ -52,13 +52,13 @@
         android:src="@drawable/ic_help"
         android:contentDescription="@null"/>
 
-	 <ImageView
+	 <!-- <ImageView
         android:id="@+id/share"
         android:layout_width="0dp"
         android:layout_height="24dp"
         android:layout_weight="0.6"
         android:layout_gravity="center_vertical|start"
         android:src="@drawable/ic_share"
-        android:contentDescription="@null"/>
+        android:contentDescription="@null"/> -->
 
 </LinearLayout>

@@ -497,7 +497,7 @@ public class BraveShieldsHandler implements BraveRewardsHelper.LargeIconReadyCal
         SwitchCompat mShieldMainSwitch = mMainLayout.findViewById(R.id.site_switch);
 
         ImageView helpImage = (ImageView) mMainLayout.findViewById(R.id.help);
-        ImageView shareImage = (ImageView) mMainLayout.findViewById(R.id.share);
+        // ImageView shareImage = (ImageView) mMainLayout.findViewById(R.id.share);
 
         helpImage.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -508,19 +508,19 @@ public class BraveShieldsHandler implements BraveRewardsHelper.LargeIconReadyCal
             }
         });
 
-        shareImage.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                mMainLayout.setVisibility(View.GONE);
-                try {
-                    if (BraveStatsUtil.hasWritePermission(BraveActivity.getBraveActivity())) {
-                        BraveStatsUtil.shareStats(R.layout.brave_stats_share_layout);
-                    }
-                } catch (BraveActivity.BraveActivityNotFoundException e) {
-                    Log.e(TAG, "setUpMainLayout shareImage click " + e);
-                }
-            }
-        });
+        // shareImage.setOnClickListener(new View.OnClickListener() {
+        //     @Override
+        //     public void onClick(View v) {
+        //         mMainLayout.setVisibility(View.GONE);
+        //         try {
+        //             if (BraveStatsUtil.hasWritePermission(BraveActivity.getBraveActivity())) {
+        //                 BraveStatsUtil.shareStats(R.layout.brave_stats_share_layout);
+        //             }
+        //         } catch (BraveActivity.BraveActivityNotFoundException e) {
+        //             Log.e(TAG, "setUpMainLayout shareImage click " + e);
+        //         }
+        //     }
+        // });
 
         mToggleIcon.setColorFilter(mContext.getResources().getColor(R.color.shield_toggle_button_tint));
         mToggleLayout.setOnClickListener(new View.OnClickListener() {
