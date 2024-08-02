@@ -17,7 +17,7 @@ import {
   MessageBoxColumn,
   DetailsButton,
   ButtonRow,
-  FavIcon,
+  // FavIcon,
   NetworkDetail,
   TabRow
 } from './style'
@@ -67,7 +67,7 @@ function AllowAddChangeNetworkPanel (props: Props) {
   return (
     <StyledWrapper>
       <CenterColumn>
-        <FavIcon src={`chrome://favicon/size/64@1x/${originInfo.originSpec}`} />
+        {/* <FavIcon src={`chrome://favicon/size/64@1x/${originInfo.originSpec}`} /> */}
         <URLText>
           <CreateSiteOrigin
             originSpec={originInfo.originSpec}

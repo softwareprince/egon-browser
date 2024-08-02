@@ -16,11 +16,11 @@ import {
 } from '../../../../../../../common/locale'
 
 // Components
-import withPlaceholderIcon from
-  '../../../../../../components/shared/create-placeholder-icon'
-import {
-  CreateNetworkIcon
-} from '../../../../../../components/shared'
+// import withPlaceholderIcon from
+//   '../../../../../../components/shared/create-placeholder-icon'
+// import {
+//   CreateNetworkIcon
+// } from '../../../../../../components/shared'
 
 // Styled Components
 import {
@@ -36,7 +36,7 @@ import {
   HorizontalSpacer,
   Row,
   HiddenResponsiveRow,
-  AssetIcon
+  // AssetIcon
 } from '../../shared-swap.styles'
 
 interface Props extends SelectTokenButtonStyleProps {
@@ -58,51 +58,51 @@ export const SelectTokenOrNetworkButton = (props: Props) => {
     text,
     disabled,
     hasBackground,
-    hasShadow,
+    // hasShadow,
     networkFeeFiatValue,
     isHeader,
     networkNotSupported,
-    asset,
-    network,
-    iconType
+    // asset,
+    // network,
+    // iconType
   } = props
 
   // Memos
-  const needsMorePadding = React.useMemo((): boolean => {
-    if (!text) {
-      return true
-    }
-    return text.length > 3
-  }, [text])
+  // const needsMorePadding = React.useMemo((): boolean => {
+  //   if (!text) {
+  //     return true
+  //   }
+  //   return text.length > 3
+  // }, [text])
 
-  const AssetIconWithPlaceholder = React.useMemo(() => {
-    return withPlaceholderIcon(
-      AssetIcon,
-      {
-        size: buttonSize === 'small' ||
-          buttonSize === 'medium'
-          ? 'small'
-          : 'big',
-        marginLeft: 0,
-        marginRight: 8
-      })
-  }, [buttonSize])
+  // const AssetIconWithPlaceholder = React.useMemo(() => {
+  //   return withPlaceholderIcon(
+  //     AssetIcon,
+  //     {
+  //       size: buttonSize === 'small' ||
+  //         buttonSize === 'medium'
+  //         ? 'small'
+  //         : 'big',
+  //       marginLeft: 0,
+  //       marginRight: 8
+  //     })
+  // }, [buttonSize])
 
   return (
     <Button
       onClick={onClick}
       buttonType={buttonType}
-      moreRightPadding={needsMorePadding}
+      // moreRightPadding={needsMorePadding}
       buttonSize={buttonSize}
       disabled={disabled}
       hasBackground={hasBackground}
-      hasShadow={hasShadow}
-      networkNotSupported={networkNotSupported}
+      // hasShadow={hasShadow}
+      // networkNotSupported={networkNotSupported}
     >
       {!networkNotSupported && (
         <>
           <Row>
-            {iconType === 'network' ? (
+            {/* {iconType === 'network' ? (
               <CreateNetworkIcon
                 network={network}
                 marginRight={8}
@@ -115,7 +115,7 @@ export const SelectTokenOrNetworkButton = (props: Props) => {
                   network={network}
                 />
               )
-            )}
+            )} */}
             <HiddenResponsiveRow dontHide={!isHeader}>
               <Text
                 isBold={text !== undefined}

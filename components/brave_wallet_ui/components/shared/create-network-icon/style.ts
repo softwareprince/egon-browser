@@ -11,7 +11,7 @@ export const IconWrapper = styled.div<{
   isTestnet: boolean
   size?: string
 }>`
-  display: flex;
+  display: none;
   align-items: center;
   justify-content: center;
   flex-direction: column;

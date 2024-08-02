@@ -137,6 +137,7 @@ export const SwapAssetDetailsContainer = styled.div`
 `
 
 export const AssetIcon = AssetIconFactory<AssetIconProps>({
+  display: 'none',
   width: '40px',
   height: 'auto'
 })

@@ -8,7 +8,7 @@ import * as React from 'react'
 // Queries
 import {
   useGetSelectedChainQuery,
-  useGetSwapSupportedNetworksQuery,
+  // useGetSwapSupportedNetworksQuery,
   useSetNetworkMutation
 } from '../../../../../../common/slices/api.slice'
 
@@ -59,7 +59,7 @@ import {
 export const Header = () => {
   // Queries
   const { data: selectedNetwork } = useGetSelectedChainQuery()
-  const { data: supportedNetworks } = useGetSwapSupportedNetworksQuery()
+  // const { data: supportedNetworks } = useGetSwapSupportedNetworksQuery()
   const [setNetwork] = useSetNetworkMutation()
 
   // State
@@ -99,14 +99,14 @@ export const Header = () => {
     showAccountModal
   )
 
-  const isNetworkSupported = React.useMemo(() => {
-    return supportedNetworks
-      .some(
-        supportedNetwork =>
-          supportedNetwork.chainId ===
-          selectedNetwork?.chainId
-      )
-  }, [selectedNetwork, supportedNetworks])
+  // const isNetworkSupported = React.useMemo(() => {
+  //   return supportedNetworks
+  //     .some(
+  //       supportedNetwork =>
+  //         supportedNetwork.chainId ===
+  //         selectedNetwork?.chainId
+  //     )
+  // }, [selectedNetwork, supportedNetworks])
 
   const onClickConnectWalletButton = React.useCallback(async () => {
     setShowAccountModal(prev => !prev)
@@ -139,11 +139,11 @@ export const Header = () => {
               reduceNetworkDisplayName(selectedNetwork?.chainName)
             }
             network={selectedNetwork}
-            buttonSize='medium'
-            hasBackground={true}
-            hasShadow={true}
-            isHeader={true}
-            networkNotSupported={!isNetworkSupported}
+            // // buttonSize='big'
+            // // hasBackground={true}
+            // hasShadow={true}
+            // isHeader={true}
+            // networkNotSupported={!isNetworkSupported}
             iconType='network'
           />
           {showNetworkSelector && (

@@ -169,7 +169,7 @@ export const NetworkFilterSelector = ({
       >
         <SelectorLeftSide>
           {selectedNetwork.chainId !== AllNetworksOption.chainId &&
-            <CreateNetworkIcon network={selectedNetwork} marginRight={14} size='small' />
+            <CreateNetworkIcon network={selectedNetwork} marginRight={14} size='big' />
           }
           {selectedNetwork.chainName}
         </SelectorLeftSide>
