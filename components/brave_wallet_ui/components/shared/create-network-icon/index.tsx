@@ -9,16 +9,20 @@ import * as React from 'react'
 import { BraveWallet, SupportedTestNetworks } from '../../../constants/types'
 
 // Utils
-import { stripERC20TokenImageURL, isRemoteImageURL, isValidIconExtension } from '../../../utils/string-utils'
+import { stripERC20TokenImageURL, isRemoteImageURL,
+  //  isValidIconExtension
+   } from '../../../utils/string-utils'
 
 // Styled components
-import { IconWrapper, Placeholder, NetworkIcon } from './style'
+import { IconWrapper,
+  //  Placeholder,
+    NetworkIcon } from './style'
 
 // Options
-import { getNetworkLogo } from '../../../options/asset-options'
+// import { getNetworkLogo } from '../../../options/asset-options'
 
-// Hooks
-import { useNetworkOrb } from '../../../common/hooks/use-orb'
+// // Hooks
+// import { useNetworkOrb } from '../../../common/hooks/use-orb'
 
 interface Props {
   network?: BraveWallet.NetworkInfo
@@ -40,37 +44,37 @@ export const CreateNetworkIcon = ({
     return isRemoteImageURL(networkImageURL)
   }, [networkImageURL])
 
-  const isDataURL = React.useMemo(() => {
-    return network?.iconUrls[0]?.startsWith('chrome://erc-token-images/')
-  }, [network?.iconUrls[0]])
+  // const isDataURL = React.useMemo(() => {
+  //   return network?.iconUrls[0]?.startsWith('chrome://erc-token-images/')
+  // }, [network?.iconUrls[0]])
 
   const isStorybook = React.useMemo(() => {
     return network?.iconUrls[0]?.startsWith('static/media/components/brave_wallet_ui/')
   }, [network?.iconUrls[0]])
 
-  const networkLogo = React.useMemo(() => {
-    return network ? getNetworkLogo(network.chainId, network.symbol) : ''
-  }, [network])
+  // const networkLogo = React.useMemo(() => {
+  //   return network ? getNetworkLogo(network.chainId, network.symbol) : ''
+  // }, [network])
 
-  const isValidIcon = React.useMemo(() => {
-    if (!network) {
-      return false
-    }
+  // const isValidIcon = React.useMemo(() => {
+  //   if (!network) {
+  //     return false
+  //   }
 
-    if (isRemoteURL || isDataURL) {
-      const url = new URL(network?.iconUrls[0])
-      return isValidIconExtension(url.pathname)
-    }
+  //   if (isRemoteURL || isDataURL) {
+  //     const url = new URL(network?.iconUrls[0])
+  //     return isValidIconExtension(url.pathname)
+  //   }
 
-    if (isStorybook) {
-      return true
-    }
-    return false
-  }, [isRemoteURL, isDataURL, networkImageURL])
+  //   if (isStorybook) {
+  //     return true
+  //   }
+  //   return false
+  // }, [isRemoteURL, isDataURL, networkImageURL])
 
-  const needsPlaceholder = networkLogo === '' && (networkImageURL === '' || !isValidIcon)
+  // const needsPlaceholder = networkLogo === '' && (networkImageURL === '' || !isValidIcon)
 
-  const orb = useNetworkOrb(network)
+  // const orb = useNetworkOrb(network)
 
   const remoteImage = React.useMemo(() => {
     if (isRemoteURL) {
@@ -80,16 +84,16 @@ export const CreateNetworkIcon = ({
   }, [networkImageURL])
 
   // render
-  if (needsPlaceholder) {
-    return (
-      <IconWrapper
-        marginRight={marginRight ?? 0}
-        isTestnet={false}
-      >
-        <Placeholder orb={orb} />
-      </IconWrapper>
-    )
-  }
+  // if (needsPlaceholder) {
+  //   return (
+  //     <IconWrapper
+  //       marginRight={marginRight ?? 0}
+  //       isTestnet={false}
+  //     >
+  //       <Placeholder orb={orb} />
+  //     </IconWrapper>
+  //   )
+  // }
 
   return (
     <IconWrapper
@@ -102,8 +106,8 @@ export const CreateNetworkIcon = ({
         icon={
           isStorybook
             ? network?.iconUrls[0]
-            : networkLogo !== ''
-              ? networkLogo
+            // : networkLogo !== ''
+            //   ? networkLogo
               : isRemoteURL ? remoteImage : network?.iconUrls[0]
         }
       />

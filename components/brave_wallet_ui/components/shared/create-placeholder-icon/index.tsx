@@ -21,7 +21,7 @@ import {
 import { IconWrapper, PlaceholderText } from './style'
 
 // Options
-import { makeNativeAssetLogo } from '../../../options/asset-options'
+// import { makeNativeAssetLogo } from '../../../options/asset-options'
 import { translateToNftGateway } from '../../../common/async/lib'
 
 interface Config {
@@ -49,7 +49,7 @@ function withPlaceholderIcon (WrappedComponent: React.ComponentType<any>, config
       return null
     }
 
-    const nativeAssetLogo = makeNativeAssetLogo(network.symbol, network.chainId)
+    // const nativeAssetLogo = makeNativeAssetLogo(network.symbol, network.chainId)
 
     const isNativeAsset = React.useMemo(() =>
       asset.symbol.toLowerCase() === network.symbol.toLowerCase(),
@@ -73,8 +73,7 @@ function withPlaceholderIcon (WrappedComponent: React.ComponentType<any>, config
     }, [isRemoteURL, tokenImageURL, asset.logo, isStorybook])
 
     const needsPlaceholder = isNativeAsset
-      ? (tokenImageURL === '' || !isValidIcon) && nativeAssetLogo === ''
-      : tokenImageURL === '' || !isValidIcon
+      ? (tokenImageURL === '' || !isValidIcon): false
 
     const bg = React.useMemo(() => {
       if (needsPlaceholder) {
@@ -124,9 +123,7 @@ function withPlaceholderIcon (WrappedComponent: React.ComponentType<any>, config
       >
         <WrappedComponent
           icon={
-            isNativeAsset && nativeAssetLogo
-              ? nativeAssetLogo
-              : isRemoteURL ? remoteImage : asset.logo
+            isNativeAsset? remoteImage : asset.logo
           }
         />
       </IconWrapper>

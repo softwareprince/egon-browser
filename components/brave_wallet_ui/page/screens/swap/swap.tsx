@@ -35,9 +35,9 @@ import {
 import {
   ToSection
 } from './components/swap/to-section/to-section'
-import {
-  SelectTokenModal
-} from './components/swap/select-token-modal/select-token-modal'
+// import {
+//   SelectTokenModal
+// } from './components/swap/select-token-modal/select-token-modal'
 import {
   QuoteInfo
 } from './components/swap/quote-info/quote-info'
@@ -83,9 +83,9 @@ export const Swap = () => {
     slippageTolerance,
     useDirectRoute,
     gasEstimates,
-    getCachedAssetBalance,
-    onSelectFromToken,
-    onSelectToToken,
+    // getCachedAssetBalance,
+    // onSelectFromToken,
+    // onSelectToToken,
     onSelectQuoteOption,
     onClickFlipSwapTokens,
     setSelectingFromOrTo,
@@ -98,7 +98,7 @@ export const Swap = () => {
     submitButtonText,
     isSubmitButtonDisabled,
     swapValidationError,
-    getNetworkAssetsList,
+    // getNetworkAssetsList,
     spotPrices
   } = swap
 
@@ -243,7 +243,7 @@ export const Swap = () => {
           {submitButtonText}
         </StandardButton>
       </SwapContainer>
-      {selectingFromOrTo && (
+      {/* {selectingFromOrTo && (
         <SelectTokenModal
           ref={selectTokenModalRef}
           onClose={() => setSelectingFromOrTo(undefined)}
@@ -255,7 +255,7 @@ export const Swap = () => {
           selectingFromOrTo={selectingFromOrTo}
           getNetworkAssetsList={getNetworkAssetsList}
         />
-      )}
+      )} */}
       {showPrivacyModal && (
         <PrivacyModal
           ref={privacyModalRef}

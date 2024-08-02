@@ -6,10 +6,10 @@ import * as React from 'react'
 
 // Constants
 import { BraveWallet } from '../../../constants/types'
-import { AllNetworksOption } from '../../../options/network-filter-options'
+// import { AllNetworksOption } from '../../../options/network-filter-options'
 
 // Components
-import { CreateNetworkIcon } from '../'
+// import { CreateNetworkIcon } from '../'
 
 // Styled Components
 import {
@@ -37,9 +37,9 @@ function SelectNetworkItem (props: Props) {
   return (
     <StyledWrapper onClick={onSelectNetwork} data-test-chain-id={'chain-' + network.chainId}>
       <LeftSide>
-        {network.chainId !== AllNetworksOption.chainId &&
+        {/* {network.chainId !== AllNetworksOption.chainId &&
           <CreateNetworkIcon network={network} marginRight={14} />
-        }
+        } */}
         <NetworkName>{network.chainName}</NetworkName>
       </LeftSide>
       {

@@ -12,7 +12,7 @@ import {
   getRampNetworkPrefix,
 } from './string-utils'
 
-import { getNetworkLogo, makeNativeAssetLogo } from '../options/asset-options'
+// import { getNetworkLogo, makeNativeAssetLogo } from '../options/asset-options'
 
 export const getUniqueAssets = (assets: BraveWallet.BlockchainToken[]) => {
   return assets.filter((asset, index) => {
@@ -238,13 +238,14 @@ export const checkIfTokenNeedsNetworkIcon = (
   network: BraveWallet.NetworkInfo,
   contractAddress: string
 ) => {
-  return contractAddress !== '' || // non-native asset
+  return contractAddress !== '' 
+  // || // non-native asset
 
     // Checks if the network is not the official Ethereum network,
     // but uses ETH as gas.
-    getNetworkLogo(network.chainId, network.symbol) !==
-    makeNativeAssetLogo(network.symbol, network.chainId)
-}
+    // getNetworkLogo(network.chainId, network.symbol) !==
+    // makeNativeAssetLogo(network.symbol, network.chainId)
+  }
 
 /**
  * Evaluates support for stripe

@@ -28,9 +28,9 @@ export const getNetworkLogo = (chainId: string, symbol: string): string => {
   if (chainId === AllNetworksOption.chainId)
     return AllNetworksOption.iconUrls[0]
 
-  if (symbol.toUpperCase() === 'SOL') return 'https://raw.githubusercontent.com/brave/brave-core/master/components/brave_wallet_ui/assets/network_token_icons/sol-asset-icon.svg'
+  if (symbol.toUpperCase() === 'SOL') return 'sol-asset-icon.svg'
   if (symbol.toUpperCase() === 'FIL') return 'chrome://erc-token-images/fil.png'
-  if (symbol.toUpperCase() === 'ETH') return 'https://egonwallet.com/wp-content/uploads/2024/02/egoncoin1.png'
+  if (symbol.toUpperCase() === 'ETH') return 'eth.png'
   if (symbol.toUpperCase() === 'BTC') return 'chrome://erc-token-images/btc.png'
 
   return ''
