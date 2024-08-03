@@ -1116,7 +1116,7 @@ public abstract class BraveActivity extends ChromeActivity
                                 BravePreferenceKeys.BRAVE_APP_OPEN_COUNT)
                                     == 7
                             && PackageUtils.isFirstInstall(this))) {
-                showVpnCalloutDialog();
+                // showVpnCalloutDialog();
             }
 
             if (!TextUtils.isEmpty(BraveVpnPrefUtils.getPurchaseToken())
@@ -1247,16 +1247,16 @@ public abstract class BraveActivity extends ChromeActivity
                 getSupportFragmentManager(), "PlaylistWarningDialogFragment");
     }
 
-    private void showVpnCalloutDialog() {
-        try {
-            BraveVpnCalloutDialogFragment braveVpnCalloutDialogFragment =
-                    new BraveVpnCalloutDialogFragment();
-            braveVpnCalloutDialogFragment.show(
-                    getSupportFragmentManager(), "BraveVpnCalloutDialogFragment");
-        } catch (IllegalStateException e) {
-            Log.e("showVpnCalloutDialog", e.getMessage());
-        }
-    }
+    // private void showVpnCalloutDialog() {
+    //     try {
+    //         BraveVpnCalloutDialogFragment braveVpnCalloutDialogFragment =
+    //                 new BraveVpnCalloutDialogFragment();
+    //         braveVpnCalloutDialogFragment.show(
+    //                 getSupportFragmentManager(), "BraveVpnCalloutDialogFragment");
+    //     } catch (IllegalStateException e) {
+    //         Log.e("showVpnCalloutDialog", e.getMessage());
+    //     }
+    // }
 
     private void showLinkVpnSubscriptionDialog() {
         LinkVpnSubscriptionDialogFragment linkVpnSubscriptionDialogFragment =
