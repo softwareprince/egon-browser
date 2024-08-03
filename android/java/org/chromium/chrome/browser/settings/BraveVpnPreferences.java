@@ -91,7 +91,7 @@ public class BraveVpnPreferences extends BravePreferenceFragment implements Brav
 
     @Override
     public void onCreatePreferences(Bundle savedInstanceState, String rootKey) {
-        getActivity().setTitle(R.string.brave_firewall_vpn);
+        // getActivity().setTitle(R.string.brave_firewall_vpn);
         SettingsUtils.addPreferencesFromResource(this, R.xml.brave_vpn_preferences);
 
         mVpnSwitch = (ChromeSwitchPreference) findPreference(PREF_VPN_SWITCH);

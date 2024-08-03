@@ -30,24 +30,24 @@ public class BraveVpnCalloutDialogFragment
 
     @Override
     public void onViewCreated(View view, Bundle savedInstanceState) {
-        Button mEnableButton = view.findViewById(R.id.btn_enable);
-        mEnableButton.setOnClickListener(this);
+        // Button mEnableButton = view.findViewById(R.id.btn_enable);
+        // mEnableButton.setOnClickListener(this);
 
-        ImageView btnClose = view.findViewById(R.id.modal_close);
-        btnClose.setOnClickListener(this);
+        // ImageView btnClose = view.findViewById(R.id.modal_close);
+        // btnClose.setOnClickListener(this);
 
-        BraveVpnPrefUtils.setCallout(false);
+        // BraveVpnPrefUtils.setCallout(false);
     }
 
     @Override
     public void onClick(View view) {
-        if (view.getId() == R.id.btn_enable) {
-            if (!InternetConnection.isNetworkAvailable(getActivity())) {
-                BraveVpnUtils.showToast(getResources().getString(R.string.no_internet));
-            } else {
-                BraveVpnUtils.openBraveVpnPlansActivity(getActivity());
-            }
-        }
-        dismiss();
+        // if (view.getId() == R.id.btn_enable) {
+        //     if (!InternetConnection.isNetworkAvailable(getActivity())) {
+        //         BraveVpnUtils.showToast(getResources().getString(R.string.no_internet));
+        //     } else {
+        //         BraveVpnUtils.openBraveVpnPlansActivity(getActivity());
+        //     }
+        // }
+        // dismiss();
     }
 }
