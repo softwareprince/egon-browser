@@ -61,7 +61,7 @@ public class BraveVpnPlansActivity extends BraveVpnParentActivity {
         assert actionBar != null;
         actionBar.setDisplayHomeAsUpEnabled(true);
         actionBar.setHomeAsUpIndicator(R.drawable.ic_baseline_close_24);
-        actionBar.setTitle(getResources().getString(R.string.brave_vpn));
+        // actionBar.setTitle(getResources().getString(R.string.brave_vpn));
 
         mMonthlyPlanProgress = findViewById(R.id.monthly_plan_progress);
 
@@ -70,8 +70,8 @@ public class BraveVpnPlansActivity extends BraveVpnParentActivity {
 
         ViewPager braveRewardsViewPager = findViewById(R.id.brave_rewards_view_pager);
 
-        BraveVpnPlanPagerAdapter braveVpnPlanPagerAdapter = new BraveVpnPlanPagerAdapter(this);
-        braveRewardsViewPager.setAdapter(braveVpnPlanPagerAdapter);
+        // BraveVpnPlanPagerAdapter braveVpnPlanPagerAdapter = new BraveVpnPlanPagerAdapter(this);
+        // braveRewardsViewPager.setAdapter(braveVpnPlanPagerAdapter);
         TabLayout braveRewardsTabLayout = findViewById(R.id.brave_rewards_tab_layout);
         braveRewardsTabLayout.setupWithViewPager(braveRewardsViewPager, true);
 
@@ -189,7 +189,7 @@ public class BraveVpnPlansActivity extends BraveVpnParentActivity {
 
     @Override
     protected void triggerLayoutInflation() {
-        initializeViews();
+        // initializeViews();
         onInitialLayoutInflationComplete();
     }
 

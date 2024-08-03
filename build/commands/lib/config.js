@@ -523,7 +523,7 @@ Config.prototype.buildArgs = function () {
 
   if (this.targetOS === 'android') {
     args.android_channel = this.channel
-    if (this.isReleaseBuild()) {
+    if (!this.isReleaseBuild()) {
       args.android_channel = 'default'
       args.chrome_public_manifest_package = 'com.egonbrowser.browser_default'
     } else if (this.channel === '') {

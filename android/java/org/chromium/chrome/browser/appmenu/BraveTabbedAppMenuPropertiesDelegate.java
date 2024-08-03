@@ -85,23 +85,23 @@ public class BraveTabbedAppMenuPropertiesDelegate extends TabbedAppMenuPropertie
 
         mMenu = menu;
 
-        if (BraveVpnUtils.isVpnFeatureSupported(mContext)) {
-            SubMenu vpnSubMenu = menu.findItem(R.id.request_brave_vpn_row_menu_id).getSubMenu();
-            MenuItem braveVpnSubMenuItem = vpnSubMenu.findItem(R.id.request_brave_vpn_id);
-            if (shouldShowIconBeforeItem()) {
-                braveVpnSubMenuItem.setIcon(
-                        AppCompatResources.getDrawable(mContext, R.drawable.ic_vpn));
-            }
-            MenuItem braveVpnCheckedSubMenuItem =
-                    vpnSubMenu.findItem(R.id.request_brave_vpn_check_id);
-            if (braveVpnCheckedSubMenuItem != null) {
-                braveVpnCheckedSubMenuItem.setCheckable(true);
-                braveVpnCheckedSubMenuItem.setChecked(
-                        BraveVpnProfileUtils.getInstance().isBraveVPNConnected(mContext));
-            }
-        } else {
-            menu.findItem(R.id.request_brave_vpn_row_menu_id).setVisible(false);
-        }
+        // if (BraveVpnUtils.isVpnFeatureSupported(mContext)) {
+        //     SubMenu vpnSubMenu = menu.findItem(R.id.request_brave_vpn_row_menu_id).getSubMenu();
+        //     MenuItem braveVpnSubMenuItem = vpnSubMenu.findItem(R.id.request_brave_vpn_id);
+        //     if (shouldShowIconBeforeItem()) {
+        //         braveVpnSubMenuItem.setIcon(
+        //                 AppCompatResources.getDrawable(mContext, R.drawable.ic_vpn));
+        //     }
+        //     MenuItem braveVpnCheckedSubMenuItem =
+        //             vpnSubMenu.findItem(R.id.request_brave_vpn_check_id);
+        //     if (braveVpnCheckedSubMenuItem != null) {
+        //         braveVpnCheckedSubMenuItem.setCheckable(true);
+        //         braveVpnCheckedSubMenuItem.setChecked(
+        //                 BraveVpnProfileUtils.getInstance().isBraveVPNConnected(mContext));
+        //     }
+        // } else {
+        //     menu.findItem(R.id.request_brave_vpn_row_menu_id).setVisible(false);
+        // }
 
         // EgonBrowser's items are only visible for page menu.
         // To make logic simple, below three items are added whenever menu gets visible
@@ -238,9 +238,9 @@ public class BraveTabbedAppMenuPropertiesDelegate extends TabbedAppMenuPropertie
         mMenu.removeItem(R.id.brave_playlist_id);
         mMenu.removeItem(R.id.brave_speedreader_id);
         mMenu.removeItem(R.id.exit_id);
-        if (BraveVpnUtils.isVpnFeatureSupported(mContext)) {
-            mMenu.removeItem(R.id.request_brave_vpn_row_menu_id);
-        }
+        // if (BraveVpnUtils.isVpnFeatureSupported(mContext)) {
+        //     mMenu.removeItem(R.id.request_brave_vpn_row_menu_id);
+        // }
     }
 
     @Override
