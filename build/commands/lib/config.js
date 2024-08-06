@@ -128,7 +128,7 @@ const Config = function () {
   this.googleApiEndpoint = getNPMConfig(['brave_google_api_endpoint']) || 'https://www.googleapis.com/geolocation/v1/geolocate?key='
   this.googleDefaultClientId = getNPMConfig(['google_default_client_id']) || ''
   this.googleDefaultClientSecret = getNPMConfig(['google_default_client_secret']) || ''
-  this.braveServicesKey = getNPMConfig(['brave_services_key']) || ''
+  this.braveServicesKey = getNPMConfig(['brave_services_key']) || 'qztbjzBqJueQZLFkwTTJrieu8Vw3789u'
   this.infuraProjectId = getNPMConfig(['brave_infura_project_id']) || ''
   this.braveZeroExApiKey = getNPMConfig(['brave_zero_ex_api_key']) || ''
   this.bitFlyerProductionClientId = getNPMConfig(['bitflyer_production_client_id']) || ''
